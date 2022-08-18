@@ -3,29 +3,26 @@ import pandas as pd
 import re
 
 # %%
-def cleaning_text(contents):
-    # change the text input to df
-    df = pd.DataFrame(contents)
+def cleaning_text(df):
     # remove the unnessary string
     df[0] = df[0].str.replace('\n','')
     df[0] = df[0].str.replace('Bloomberg Transcript','')
     df[0] = df[0].str.replace('\x0c\n','')
     df[0] = df[0].str.replace('FINAL','')
     df[0] = df[0].str.replace('*','')
-    # df[0] = df[0].str.replace('Q','')
-    # df[0] = df[0].str.replace('A','')
     df[0] = df[0].str.replace('[','')
     df[0] = df[0].str.replace(']','')
     df[0] = df[0].str.replace(':','')
     df[0] = df[0].str.replace('A - ','')
     df[0] = df[0].str.replace('Q - ','')
+
     # using re to remove the unnessary string
     def drop_unnessary(x):
         page = re.findall(r'Page \d+ of \d+', x) # 'page ... of ... '
         BIO = re.findall(r'{BIO', x) # '{BIO 18731996 <GO>}'
-        Company_Name = re.findall(r'Company N ame:', x) # 'Company N ame: H annover Rueck SE'
-        Company_Ticker = re.findall(r'Company Ticker:', x) # 'Company Ticker: H N R1 GR Equity'
-        Date = re.findall(r'Date:', x) # Date: 2015-03-10
+        Company_Name = re.findall(r'Company N ame', x) # 'Company N ame: H annover Rueck SE'
+        Company_Ticker = re.findall(r'Company Ticker', x) # 'Company Ticker: H N R1 GR Equity'
+        Date = re.findall(r'Date', x) # Date: 2015-03-10
         if page == [] and BIO == [] and Company_Name == [] and Company_Ticker == [] and Date == []:
             return True
         else:
@@ -37,6 +34,7 @@ def cleaning_text(contents):
     # drop the final page declaration
     df = df[df[0] != 'This transcript may not be 100 percent accurate and may contain misspellings and other']
     df = df[df[0] != 'inaccuracies. This transcript is provided "as is", without express or implied warranties of']
+    df = df[df[0] != 'inaccuracies. This transcript is provided as is, without express or implied warranties of']
     df = df[df[0] != 'any kind. Bloomberg retains all rights to this transcript and provides it solely for your']
     df = df[df[0] != 'personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall']
     df = df[df[0] != 'have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,']
@@ -54,27 +52,35 @@ def cleaning_text(contents):
         else:
             return False
 
-    true_false = df[0].apply(lambda x: drop_Bloomberg_mark(x))
-    df = df[true_false]
+    true_false_bm = df[0].apply(lambda x: drop_Bloomberg_mark(x))
+    df = df[true_false_bm]
 
     # drop the empthy row
     df = df[df[0] != '']
     df = df[df[0] != '']
 
-    # drop the Questions And Answers and the following rows
-    QA_index = df.index[df.iloc[:,0] == 'Questions And Answers'].tolist()
-    # get the index of the last row of df
-    end_index = [len(df)]
-    if QA_index == []:
-        QA_index = df.index[df.iloc[:,0] == 'Q&A'].tolist()
-        end_index = [len(df)]
-        if QA_index == []:
-            # get the index of the last row of df
-            end_index = []
+    # ################################## for the usage of not seperating Q&A ###################################
+    # if the row == "Questions And Answers" or "Q&A" will drop the row
+    df = df[df[0] != 'Questions And Answers']
+    df = df[df[0] != 'Q&A']
+    # ##########################################################################################################
 
-    # drop the row between QA_index and end_index
-    if QA_index != []:
-        df = df.drop(df.index[QA_index[0]+1:end_index[0]])
+    # ################################## for the usage of not seperating Q&A ###################################
+    # # drop the Questions And Answers and the following rows
+    # QA_index = df.index[df.iloc[:,0] == 'Questions And Answers'].tolist()
+    # # get the index of the last row of df
+    # end_index = [len(df)]
+    # if QA_index == []:
+    #     QA_index = df.index[df.iloc[:,0] == 'Q&A'].tolist()
+    #     end_index = [len(df)]
+    #     if QA_index == []:
+    #         # get the index of the last row of df
+    #         end_index = []
+
+    # # drop the row between QA_index and end_index
+    # if QA_index != []:
+    #     df = df.drop(df.index[QA_index[0]+1:end_index[0]])
+    # ###################################################################################################
 
     # reset the index to make sure the index is continuous for better processing
     df = df.reset_index(drop=True)
@@ -112,3 +118,148 @@ def sentence_df(concat_df, company_paticipants_list, other_paticipants_list):
         model_df = model_df.append(tmp_df)
         return model_df
 # %%
+def cleaning_text_MD(df):
+    # remove the unnessary string
+    df[0] = df[0].str.replace('\n','')
+    df[0] = df[0].str.replace('Bloomberg Transcript','')
+    df[0] = df[0].str.replace('\x0c\n','')
+    df[0] = df[0].str.replace('FINAL','')
+    df[0] = df[0].str.replace('*','')
+    df[0] = df[0].str.replace('[','')
+    df[0] = df[0].str.replace(']','')
+    df[0] = df[0].str.replace(':','')
+    df[0] = df[0].str.replace('A - ','')
+    df[0] = df[0].str.replace('Q - ','')
+
+    # using re to remove the unnessary string
+    def drop_unnessary(x):
+        page = re.findall(r'Page \d+ of \d+', x) # 'page ... of ... '
+        BIO = re.findall(r'{BIO', x) # '{BIO 18731996 <GO>}'
+        Company_Name = re.findall(r'Company N ame', x) # 'Company N ame: H annover Rueck SE'
+        Company_Ticker = re.findall(r'Company Ticker', x) # 'Company Ticker: H N R1 GR Equity'
+        Date = re.findall(r'Date', x) # Date: 2015-03-10
+        if page == [] and BIO == [] and Company_Name == [] and Company_Ticker == [] and Date == []:
+            return True
+        else:
+            return False
+
+    true_false = df[0].apply(lambda x: drop_unnessary(x))
+    df = df[true_false]
+
+    # drop the final page declaration
+    df = df[df[0] != 'This transcript may not be 100 percent accurate and may contain misspellings and other']
+    df = df[df[0] != 'inaccuracies. This transcript is provided "as is", without express or implied warranties of']
+    df = df[df[0] != 'inaccuracies. This transcript is provided as is, without express or implied warranties of']
+    df = df[df[0] != 'any kind. Bloomberg retains all rights to this transcript and provides it solely for your']
+    df = df[df[0] != 'personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall']
+    df = df[df[0] != 'have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,']
+    df = df[df[0] != 'incidental, consequential, special or punitive damages in connection with the']
+    df = df[df[0] != 'furnishing, performance or use of such transcript. Neither the information nor any']
+    df = df[df[0] != 'opinion expressed in this transcript constitutes a solicitation of the purchase or sale of']
+    df = df[df[0] != 'securities or commodities. Any opinion expressed in the transcript does not necessarily']
+    df = df[df[0] != 'reflect the views of Bloomberg LP. ¬© COPYRIGHT 2022, BLOOMBERG LP. All rights']  # we will need this to identify the last participant
+    df = df[df[0] != 'reserved. Any reproduction, redistribution or retransmission is expressly prohibited.']
+    # ¬© could not be identified, would apply re
+    def drop_Bloomberg_mark(x):
+        Bloomberg_mark = re.findall(r'reflect the views of Bloomberg LP', x) # 'reflect the views of Bloomberg LP. ¬© COPYRIGHT 2022, BLOOMBERG LP. All rights'
+        if Bloomberg_mark == []:
+            return True
+        else:
+            return False
+
+    true_false_bm = df[0].apply(lambda x: drop_Bloomberg_mark(x))
+    df = df[true_false_bm]
+
+    # drop the empthy row
+    df = df[df[0] != '']
+    df = df[df[0] != '']
+
+    # ################################## for the usage of not seperating Q&A ###################################
+    # # if the row == "Questions And Answers" or "Q&A" will drop the row
+    # df = df[df[0] != 'Questions And Answers']
+    # df = df[df[0] != 'Q&A']
+    # ##########################################################################################################
+
+    ################################## for the usage of MD ###################################
+    # drop the Questions And Answers and the following rows
+    QA_index = df.index[df.iloc[:,0] == 'Questions And Answers'].tolist()
+    # get the index of the last row of df
+    end_index = [len(df)]
+    if QA_index == []:
+        QA_index = df.index[df.iloc[:,0] == 'Q&A'].tolist()
+        end_index = [len(df)]
+        if QA_index == []:
+            # get the index of the last row of df
+            end_index = []
+
+    # drop the row between QA_index and end_index
+    if QA_index != []:
+        df = df.drop(df.index[QA_index[0]+1:end_index[0]])
+    # ###################################################################################################
+
+    # reset the index to make sure the index is continuous for better processing
+    df = df.reset_index(drop=True)
+    
+    return df
+
+# %%
+def cleaning_text_QA(df):
+    # remove the unnessary string
+    df[0] = df[0].str.replace('\n','')
+    df[0] = df[0].str.replace('Bloomberg Transcript','')
+    df[0] = df[0].str.replace('\x0c\n','')
+    df[0] = df[0].str.replace('FINAL','')
+    df[0] = df[0].str.replace('*','')
+    df[0] = df[0].str.replace('[','')
+    df[0] = df[0].str.replace(']','')
+    df[0] = df[0].str.replace(':','')
+    df[0] = df[0].str.replace('A - ','')
+    df[0] = df[0].str.replace('Q - ','')
+
+    # using re to remove the unnessary string
+    def drop_unnessary(x):
+        page = re.findall(r'Page \d+ of \d+', x) # 'page ... of ... '
+        BIO = re.findall(r'{BIO', x) # '{BIO 18731996 <GO>}'
+        Company_Name = re.findall(r'Company N ame', x) # 'Company N ame: H annover Rueck SE'
+        Company_Ticker = re.findall(r'Company Ticker', x) # 'Company Ticker: H N R1 GR Equity'
+        Date = re.findall(r'Date', x) # Date: 2015-03-10
+        if page == [] and BIO == [] and Company_Name == [] and Company_Ticker == [] and Date == []:
+            return True
+        else:
+            return False
+
+    true_false = df[0].apply(lambda x: drop_unnessary(x))
+    df = df[true_false]
+
+    # drop the final page declaration
+    df = df[df[0] != 'This transcript may not be 100 percent accurate and may contain misspellings and other']
+    df = df[df[0] != 'inaccuracies. This transcript is provided "as is", without express or implied warranties of']
+    df = df[df[0] != 'inaccuracies. This transcript is provided as is, without express or implied warranties of']
+    df = df[df[0] != 'any kind. Bloomberg retains all rights to this transcript and provides it solely for your']
+    df = df[df[0] != 'personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall']
+    df = df[df[0] != 'have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,']
+    df = df[df[0] != 'incidental, consequential, special or punitive damages in connection with the']
+    df = df[df[0] != 'furnishing, performance or use of such transcript. Neither the information nor any']
+    df = df[df[0] != 'opinion expressed in this transcript constitutes a solicitation of the purchase or sale of']
+    df = df[df[0] != 'securities or commodities. Any opinion expressed in the transcript does not necessarily']
+    df = df[df[0] != 'reflect the views of Bloomberg LP. ¬© COPYRIGHT 2022, BLOOMBERG LP. All rights']  # we will need this to identify the last participant
+    df = df[df[0] != 'reserved. Any reproduction, redistribution or retransmission is expressly prohibited.']
+    # ¬© could not be identified, would apply re
+    def drop_Bloomberg_mark(x):
+        Bloomberg_mark = re.findall(r'reflect the views of Bloomberg LP', x) # 'reflect the views of Bloomberg LP. ¬© COPYRIGHT 2022, BLOOMBERG LP. All rights'
+        if Bloomberg_mark == []:
+            return True
+        else:
+            return False
+
+    true_false_bm = df[0].apply(lambda x: drop_Bloomberg_mark(x))
+    df = df[true_false_bm]
+
+    # drop the empthy row
+    df = df[df[0] != '']
+    df = df[df[0] != '']
+
+    # reset the index to make sure the index is continuous for better processing
+    df = df.reset_index(drop=True)
+    
+    return df
