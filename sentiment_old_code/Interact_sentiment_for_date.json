@@ -1,0 +1,312 @@
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     28.6606
+Link Function:                     IdentityLink Log Likelihood:                               -847045.5272
+Number of Samples:                          978 AIC:                                          1694150.3756
+                                                AICc:                                         1694152.2955
+                                                GCV:                                                0.0006
+                                                Scale:                                              0.0006
+                                                Pseudo R-Squared:                                   0.2451
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20           12.9         1.11e-16     ***         
+f(1)                              [0.6]                10           8.8          2.41e-03     **          
+te(0, 1)                          [0.6 0.6]            100          7.0          1.11e-16     ***         
+intercept                                              1            0.0          4.33e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     22.1883
+Link Function:                     IdentityLink Log Likelihood:                              -1670122.0758
+Number of Samples:                          934 AIC:                                          3340290.5284
+                                                AICc:                                         3340291.7614
+                                                GCV:                                                0.0003
+                                                Scale:                                              0.0003
+                                                Pseudo R-Squared:                                   0.1464
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20           9.5          1.11e-16     ***         
+f(1)                              [0.6]                10           8.6          2.64e-01                 
+te(0, 1)                          [0.6 0.6]            100          4.0          1.11e-16     ***         
+intercept                                              1            0.0          6.07e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     26.0465
+Link Function:                     IdentityLink Log Likelihood:                               -650351.6597
+Number of Samples:                          979 AIC:                                          1300757.4123
+                                                AICc:                                         1300759.0077
+                                                GCV:                                                0.0008
+                                                Scale:                                              0.0007
+                                                Pseudo R-Squared:                                   0.2227
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20           11.7         1.11e-16     ***         
+f(1)                              [0.6]                10           8.8          1.22e-02     *           
+te(0, 1)                          [0.6 0.6]            100          5.5          1.11e-16     ***         
+intercept                                              1            0.0          7.56e-02     .           
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     22.5769
+Link Function:                     IdentityLink Log Likelihood:                              -1018368.9768
+Number of Samples:                          941 AIC:                                          2036785.1073
+                                                AICc:                                         2036786.3719
+                                                GCV:                                                0.0005
+                                                Scale:                                              0.0004
+                                                Pseudo R-Squared:                                   0.1604
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20           9.8          1.11e-16     ***         
+f(1)                              [0.6]                10           8.7          2.68e-03     **          
+te(0, 1)                          [0.6 0.6]            100          4.1          1.11e-16     ***         
+intercept                                              1            0.0          1.05e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     26.0506
+Link Function:                     IdentityLink Log Likelihood:                                -585228.575
+Number of Samples:                          978 AIC:                                          1170511.2512
+                                                AICc:                                         1170512.8487
+                                                GCV:                                                0.0008
+                                                Scale:                                              0.0008
+                                                Pseudo R-Squared:                                   0.2212
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20           11.7         1.11e-16     ***         
+f(1)                              [0.6]                10           8.8          1.79e-01                 
+te(0, 1)                          [0.6 0.6]            100          5.6          1.11e-16     ***         
+intercept                                              1            0.0          1.88e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     22.6508
+Link Function:                     IdentityLink Log Likelihood:                               -890523.0522
+Number of Samples:                          966 AIC:                                           1781093.406
+                                                AICc:                                         1781094.6447
+                                                GCV:                                                0.0005
+                                                Scale:                                              0.0005
+                                                Pseudo R-Squared:                                   0.1674
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20           9.8          1.11e-16     ***         
+f(1)                              [0.6]                10           8.7          1.26e-02     *           
+te(0, 1)                          [0.6 0.6]            100          4.2          1.11e-16     ***         
+intercept                                              1            0.0          3.29e-02     *           
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     26.4888
+Link Function:                     IdentityLink Log Likelihood:                               -446348.0328
+Number of Samples:                         1011 AIC:                                           892751.0432
+                                                AICc:                                          892752.6373
+                                                GCV:                                                0.0011
+                                                Scale:                                              0.0011
+                                                Pseudo R-Squared:                                   0.1983
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20           11.8         1.11e-16     ***         
+f(1)                              [0.6]                10           8.8          3.17e-01                 
+te(0, 1)                          [0.6 0.6]            100          5.9          1.11e-16     ***         
+intercept                                              1            0.0          4.36e-02     *           
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     22.9806
+Link Function:                     IdentityLink Log Likelihood:                               -658424.1606
+Number of Samples:                          939 AIC:                                          1316896.2823
+                                                AICc:                                         1316897.5931
+                                                GCV:                                                0.0007
+                                                Scale:                                              0.0007
+                                                Pseudo R-Squared:                                   0.1839
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20           10.2         1.11e-16     ***         
+f(1)                              [0.6]                10           8.7          6.29e-01                 
+te(0, 1)                          [0.6 0.6]            100          4.1          1.11e-16     ***         
+intercept                                              1            0.0          2.64e-02     *           
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     25.7775
+Link Function:                     IdentityLink Log Likelihood:                               -287738.8991
+Number of Samples:                         1034 AIC:                                           575531.3532
+                                                AICc:                                          575532.8316
+                                                GCV:                                                0.0018
+                                                Scale:                                              0.0017
+                                                Pseudo R-Squared:                                   0.1647
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20           11.8         1.11e-16     ***         
+f(1)                              [0.6]                10           8.8          7.08e-01                 
+te(0, 1)                          [0.6 0.6]            100          5.2          6.00e-14     ***         
+intercept                                              1            0.0          3.99e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     22.3119
+Link Function:                     IdentityLink Log Likelihood:                               -361177.2213
+Number of Samples:                          957 AIC:                                           722401.0662
+                                                AICc:                                          722402.2815
+                                                GCV:                                                0.0013
+                                                Scale:                                              0.0013
+                                                Pseudo R-Squared:                                   0.1509
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20           9.7          1.11e-16     ***         
+f(1)                              [0.6]                10           8.5          7.93e-01                 
+te(0, 1)                          [0.6 0.6]            100          4.1          1.11e-16     ***         
+intercept                                              1            0.0          2.23e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     25.9232
+Link Function:                     IdentityLink Log Likelihood:                               -239381.5855
+Number of Samples:                         1058 AIC:                                           478817.0174
+                                                AICc:                                          478818.4771
+                                                GCV:                                                0.0022
+                                                Scale:                                              0.0021
+                                                Pseudo R-Squared:                                   0.2289
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20           11.2         1.11e-16     ***         
+f(1)                              [0.6]                10           8.7          1.95e-01                 
+te(0, 1)                          [0.6 0.6]            100          6.0          1.11e-16     ***         
+intercept                                              1            0.0          1.64e-02     *           
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                      23.121
+Link Function:                     IdentityLink Log Likelihood:                               -191682.5974
+Number of Samples:                          909 AIC:                                            383413.437
+                                                AICc:                                          383414.8081
+                                                GCV:                                                0.0024
+                                                Scale:                                              0.0023
+                                                Pseudo R-Squared:                                   0.1218
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20           10.3         1.11e-16     ***         
+f(1)                              [0.6]                10           8.7          9.02e-01                 
+te(0, 1)                          [0.6 0.6]            100          4.1          1.11e-16     ***         
+intercept                                              1            0.0          3.09e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
