@@ -32,10 +32,7 @@ publication or broadcast.
 At this time, it's my pleasure to hand over to Mr. Martin Strobel, Group CEO. Please go
 ahead, sir.
 
-Martin Strobel
-
-{BIO 5296838 <GO>}
-
+Martin Strobel {BIO 5296838 <GO>}
 Thank you very much. Ladies and gentlemen, welcome to our analyst conference. German
 Egloff and I will be presenting our half year results to you. As you all know, we changed our
 communication methods. You might have seen the transcripts of our speeches this
@@ -90,10 +87,7 @@ Operator
 We will now begin the question-and-answer session. The first question comes from Mr.
 Daniel Bischof from Baader Helvea. Please go ahead.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Yes. Good morning. A couple of points. First on top line, the Swiss non-life business, which
 was again declining due to the re-underwriting measures on the accident and health side.
 I think this process is now going on for probably some 18 months. Could you tell us what
@@ -115,10 +109,7 @@ year's level, although you think that the ongoing cost reduction initiatives are
 Could you explain this and also maybe provide your thoughts where the expense ratio
 might roughly be in 6 to 12 months' time?
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Thank you, Mr. Bischof. I'm going to answer both questions from my point of view. So, top
 line non-life Switzerland, you're absolutely right. We see an increase of premium in the car
 business, in the property business, in the liability business. All of these type of the
@@ -187,35 +178,23 @@ not count as an excuse. I'm not happy with the result. Just some growth informat
 
 Bloomberg Transcript
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 That would still leave some four points to the 96% at the upper end of the guidance, so
 you do expect the remainder of the delta coming from – or from the improvement
 coming from the underwriting or mainly from the expense side?
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Both of them actually. Yeah. Both of them. I mean, the cost ratio is too high in Germany.
 The market is standing at, I would say now between 28%, 27%. We should get below the
 30% over time. Yeah.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Nice one. Thank you.
 
 Operator
 The next question comes from Mr. Peter Eliot from Berenberg. Please go ahead.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Thank you. I have two questions, please. The first one was just on the sort of Life result,
 and at the full-year results, you guided to the division having an underlying sort of EBIT run
 rate of CHF 200 million to CHF 250 million. I think when I sort of add-back the one-offs
@@ -241,10 +220,7 @@ run rates, which was well ahead of target for being complete in the time period 
 yourself and obviously there's been some volatility in markets recently. So I'm just
 wondering if you could add any comments about the outlook there? Thank you.
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Thank you, Mr. Eliot. I'm going to answer the first question from a general point of view.
 And if there are details open, I'll hand you over to German Egloff, our CFO. And buyback, I
 will hand you over then to Martin Wenk who knows everything about our strategy, how fast
@@ -293,10 +269,7 @@ profit and loss with the U.S. GAAP mechanism in the core. The good news is, yes,
 seen very low interest rates in Switzerland, but we're now fully reserved out for this level,
 but this leads to certain swings. And Peter, I hand you over to German.
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 Well, a lot of us said, I guess, the most important thing is maybe that operationally in the
 business much less have happened than you would expect at a glance if you look at the
 results of the segments. So therefore, just to remind you that we have a couple of
@@ -316,22 +289,13 @@ currently, we see still not a different trend in interest rates. And last year, 
 bit different. So I would as well say that's, probably for the run rate, it's closer to CHF 200
 million and CHF 250 million.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Okay.
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Martin, the share buyback and the speed of having to do this.
 
-A - Martin Wenk
-
-{BIO 4193573 <GO>}
-
+A - Martin Wenk {BIO 4193573 <GO>}
 Yes. Okay. The question regarding the share buyback has, in my opinion, two levels. One
 is our strategic goal or our overall goal is to be always ahead of the time schedule, so to
 be a little bit in front of the linear approach and to finish that before the end of the two
@@ -344,10 +308,7 @@ the details that we had bought 275,000 shares, which is more than a quarter in f
 months at roughly CHF 117 million. And we will continue that way to get them early but
 cheap.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Okay. Thanks a lot.
 Page 6 of 20
 
@@ -362,10 +323,7 @@ The next question is from Mr. Michael Huttner from JPMorgan. Your line is open.
 
 FINAL
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 Thank you so much. On Solvency, I wonder if you can say a couple of things, maybe just
 use the S&P report, which seems to hesitate whether you're very, very, very strong or
 simply very strong. And I still don't understand why in a county as orderly as Switzerland,
@@ -379,18 +337,12 @@ management practices to enhance the group's financial strength. That seems such 
 odd comment. It almost implies that at the moment you're lacking in this area. I just
 wondered whether you could explain how you see that. Thank you.
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Thank you Mr. Huttner. I think both questions are perfect for German.
 
 Bloomberg Transcript
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 Yes. On Solvency, I indeed would actually refer to the Standard & Poor's report that's
 probably the best information you can get about this. And why it is going from 2011 until
 now and the system is still not tied, I mean, I can just repeat what I said in the last couple
@@ -406,10 +358,7 @@ guess we will make sort of the same experience with Solvency II as well. This tr
 period of 16 years, that might soften the effect. So, there you get sort of quietness into
 the system but, in fact, that is a problem. And...
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 And just on the solvency, I did wonder in the S&P report, it comes to us 2014 with 2015
 and 2017. What happened between those two dates? It says extremely strong 2014, very
 strong 2015-2017. What happened?
@@ -422,25 +371,17 @@ Company N ame: Baloise H olding AG
 Company Ticker: BAL N SW Equity
 Date: 2015-08-27
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 Well, the thing was probably that last year, the equity almost exploded. And that might
 have been – I might come back to that.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 
 FINAL
 
 Okay. No problem. Okay.
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 But the other thing about the ERM, that's actually a point of discussion (24:01) In fact, we
 are very strong on ERM. The thing is just that up to now, Standard & Poor's claims that ERM
 is not so important for us and that actually makes the difference. And I, in fact, asked them
@@ -451,27 +392,19 @@ So, therefore – but I think ERM becomes more important than – and the other 
 have been that – well, that's just my guess. We had an upgrade last year and they sort of
 didn't want to upgrade us two years in a row.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 
 Bloomberg Transcript
 
 Okay. Okay. Understand. Thank you.
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 Thank you.
 
 Operator
 The next question is from Mr. Jonny Urwin from UBS. Please go ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi. Good morning. Jonny Urwin here, UBS. Just a couple of questions on the life business if
 I may. The new business margin has obviously fallen by quite a lot particularly in
 Switzerland. I'm just wondering if you can give us an idea sort of quantum of investment
@@ -482,10 +415,7 @@ it's working out quite well. And lastly, I just wanted to know if we can get any
 into the IRRs and payback periods on the Group Life business, and perhaps on the wider
 book if you can. Thank you.
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Sorry. I didn't get your last question. What was the last question?
 Page 8 of 20
 
@@ -495,10 +425,7 @@ Company N ame: Baloise H olding AG
 Company Ticker: BAL N SW Equity
 Date: 2015-08-27
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 So, any color into IRR and the payback of the Group Life business would be great just so
 we can get a more economic view.
 
@@ -508,26 +435,17 @@ FINAL
 
 (26:05)
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Internal rate of return. Okay. I see. Okay. Thank you very much for your questions. I'm
 going to answer the life questions, and then I hand you over to German Egloff, our CFO,
 for the IRR question.
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 (26:21)
 
 Bloomberg Transcript
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Okay. New business margin, yes, it fell. We stand about 7% new business margin at half
 year. And the main reason for this having gone down is, as you rightly said, the Swiss
 business, and here we are confronted with a very low interest environment. And what
@@ -548,10 +466,7 @@ the 10% new business margin. And we're taking action now to further improve the 
 business margin especially in Switzerland.
 So, the internal rate of return of the life business, German?
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 Well, we don't disclose that. And I have actually – well, you have an indication at the end of
 the year when we are disclosing a full MCV. Currently, just one indication, I mean, probably
 what you're interested in is whether our cost of capital are covered or not. And what I can
@@ -574,41 +489,27 @@ given the market environment. So, related to, for example, Swiss government bond
 are negative on a 10 years basis probably the assumption for the cost of capital are rather
 aggressive currently. So, aggressive means probably too high.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Okay. Thank you. Just one quick comment perhaps. It would be really helpful to get the
 source of profits based on a half-yearly basis as well, if possible?
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 That's quite a tricky one because especially the Group Life business in Switzerland, there
 we have a legal quote. And the legal quote is actually done by the end of the year. And
 that's based on the local debt. So, it could well be that certain things can be done to
 optimize the profit for the shareholders as well only at the end of the year. So, too much
 disclosure on half-year could actually be against the interest of the shareholders.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
+Q - Jonny Urwin {BIO 17445508 <GO>}
 
 Bloomberg Transcript
 
 Okay. Thanks.
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 But that was an internal one. That's not to publish.
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Okay. So, let's keep all the talking today. No, this is an open – this is a conference. We're
 waiting for the next question.
 
@@ -632,19 +533,13 @@ Company N ame: Baloise H olding AG
 Company Ticker: BAL N SW Equity
 Date: 2015-08-27
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Thank you, Stefan Schürmann. I will hand you over for the first question to German Egloff
 and then the second one to Martin Wenk. German, please.
 
 FINAL
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 Yes, we did reserve strengthening in the first half. The question is actually whether we'll
 do it in the second half as well or not is what interest rates are doing in the second half.
 So that (31:39) driver to do that.
@@ -659,18 +554,13 @@ currently starting to emerge.
 Q - Stef an Schürmann
 Okay. Yeah.
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
+A - Martin Strobel {BIO 5296838 <GO>}
 
 Bloomberg Transcript
 
 And now to Martin Wenk talking about the recurring income.
 
-A - Martin Wenk
-
-{BIO 4193573 <GO>}
-
+A - Martin Wenk {BIO 4193573 <GO>}
 Yes. The recurring income actually came back by CHF 97 million. That's correct. And it has
 a threefold source through that. About half of it is actually translation of foreign exchange.
 So simply, the euro-denominated coupons that we get are worth less. So that's about
@@ -680,10 +570,7 @@ maturities we have.
 Q - Stef an Schürmann
 Okay. That's helpful.
 
-A - Martin Wenk
-
-{BIO 4193573 <GO>}
-
+A - Martin Wenk {BIO 4193573 <GO>}
 And the reinvestment yield of the new investments came also down. It's about CHF 1.4
 million in life and about CHF 1.6 million in non-life. But that's only for the new money, not
 the overall yield.
@@ -702,9 +589,7 @@ Date: 2015-08-27
 
 The next question comes from Mr. Michael Huttner from JPMorgan. Please go ahead.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 
 FINAL
 
@@ -724,20 +609,14 @@ wondered if you have a feel for where the ROE target could end up. Thank you.
 
 Bloomberg Transcript
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Okay. Thank you very much. Very interesting questions. I will hand you over for the
 duration to German Egloff. Then China crisis, since we are not operating in Asia, it's more
 an asset management question, I guess, from our point of view. So, I would hand you over
 to Martin Wenk. And then the targets, I had to pull out my crystal ball and give you – share
 some thoughts with you. German, duration gap.
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 Well, to be sure that I don't give you a wrong number relating to the one you mentioned, I
 won't do so. But just generally, Mark, I guess that Martin is probably aware of my answers.
 I guess that the duration gap probably had increased due to the low interest rates in longterm fixed income papers. We have to switch to corporate bonds, certain switch to senior
@@ -745,20 +624,14 @@ secured loans, and I guess those have rather a shorter duration than the ones th
 realized. But that's just a guess. And therefore, I would expect that duration gap has
 increased to a certain extent. But, Martin...
 
-A - Martin Wenk
-
-{BIO 4193573 <GO>}
-
+A - Martin Wenk {BIO 4193573 <GO>}
 Well, what you said is absolutely correct. We did all those actions. But on the other hand
 we also have taken some counter measures, and we have increased the duration of the
 bond portfolio in life from 8.2 to 8.8. So, the duration gap from that time, I would say, is
 rather stable, didn't react too much. We have more asset classes that are short-term
 duration but they have increased the bonds. So, in that level (37:09) at the end of today.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 Thank you.
 
 Page 12 of 20
@@ -769,9 +642,7 @@ Company N ame: Baloise H olding AG
 Company Ticker: BAL N SW Equity
 Date: 2015-08-27
 
-A - Martin Wenk
-
-{BIO 4193573 <GO>}
+A - Martin Wenk {BIO 4193573 <GO>}
 
 FINAL
 
@@ -785,15 +656,10 @@ implement it into our asset allocation decisions. For the time being, we are ana
 haven't not taken any other measures, but, of course, it's something we are monitoring
 closely. But as I said in the beginning, no direct impact.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 Thank you.
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
+A - Martin Strobel {BIO 5296838 <GO>}
 
 Bloomberg Transcript
 
@@ -812,24 +678,16 @@ sheet. So, there are levers to improve ROE and there's definitely a little poten
 Bâloise to improve further. But these are just thoughts. It's up to my successor and board
 to come up with the next strategic step, and that will happen in the next year.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 Okay. Thank you. Thank you very much.
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Thank you.
 
 Operator
 The next question is a question from Mr. Ralph Hebgen from KBW. Please go ahead.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Page 13 of 20
 
 
@@ -858,10 +716,7 @@ reporting line?
 
 Bloomberg Transcript
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Thank you, Mr. Hebgen. I'm going to answer the first two questions and then what we
 (41:32-41:35), I'll hand you over to German Egloff. Yes, we do disclose (41:42) average
 guarantee in the books. If you look at the full year, disclosure we have – if I remember
@@ -884,9 +739,7 @@ share prices and the U.S., if they start to increase the interest rates, the pic
 different. But I would expect that maybe the interest rate comes down, at least a bit
 down.
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
+A - German Egloff {BIO 4782831 <GO>}
 Page 14 of 20
 
 
@@ -913,32 +766,21 @@ And of course, premiums have come down even more than the costs, and that's actu
 creating the increasing cost ratio. But the important thing for you is probably that even if
 you adjust for these effects, actual costs are going down.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Sorry. Am I still on the line? Can I do a quick follow-up just on the enforced guarantee. I
 was interested in the average enforced guarantee at the moment, so as at June 30, of
 course.
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
+A - German Egloff {BIO 4782831 <GO>}
 
 Bloomberg Transcript
 
 No. I think we don't have it from half year.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay. Many thanks. Thank you very much.
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Yeah.
 
 Operator
@@ -947,10 +789,7 @@ The next question comes from Mr. René Locher from MainFirst. Please go ahead.
 Q - René Locher
 Yes. Good morning, all. Can you hear me?
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 Yeah, we hear you loud and clearly.
 
 Q - René Locher
@@ -983,9 +822,7 @@ business, which account for 4.6%, and Accident, which account for 13.3%, is this
 Swiss business or do you have Health and Accident exposure somewhere outside
 Switzerland? Thank you.
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
+A - Martin Strobel {BIO 5296838 <GO>}
 
 Bloomberg Transcript
 
@@ -1005,10 +842,7 @@ platform of(49:57) business in Germany, such as Accident. And the other part bei
 Group Accident business in Switzerland. (50:07-50:15) Yeah, absolutely. Okay. Now, Martin,
 risk return.
 
-A - Martin Wenk
-
-{BIO 4193573 <GO>}
-
+A - Martin Wenk {BIO 4193573 <GO>}
 Yes. As you rightly said in these figures that you have for the equity portion. There are
 also old investments that are held in the form of util funds (50:34) or institutional funds, so
 let's say, so you have also investments in there in the real estate funds and in bond funds.
@@ -1038,9 +872,7 @@ Okay. Thank you. Martin, just a follow-up on Germany, unfortunately. Your leadin
 company, but if I'm right, you were always guiding for an EBIT above CHF 100 million for
 Germany in 2016. Is this guidance which is still valid or you have those...?
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
+A - Martin Strobel {BIO 5296838 <GO>}
 
 Bloomberg Transcript
 
@@ -1070,10 +902,7 @@ Life business. So, assuming that interest rates remain at the current low level 
 see no need (54:40) to increase reserves in Switzerland, then I do believe there's quite a
 positive swing here in H2?
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 That is a dangerous question.
 Page 17 of 20
 
@@ -1088,10 +917,7 @@ Okay.
 
 FINAL
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 I will not give you a dangerous answer. I mean, everything can happen. In fact, what we
 have found is the strengthening of the technical reserves was more or less set by realized
 capital gains, so that's more policies. And you're right, I mean, a certain effect from – on
@@ -1131,9 +957,7 @@ FX impact? And the second question, just coming back on the regulation, is there
 you want maybe to update in terms of regulatory talks in regard to standard models, SST
 and so on, that with these, is there anything moving there?
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
+A - Martin Strobel {BIO 5296838 <GO>}
 Page 18 of 20
 
 
@@ -1146,10 +970,7 @@ Thank you very much. I hand you over to German for both questions.
 
 FINAL
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 For the equity, well, that's really difficult to guess because what has a heavy weight in
 there is they are historical currencies in our participation. And that goes directly into the
 balance sheet, and that do have the sensitivities there. That's not that easy. I would say,
@@ -1170,30 +991,21 @@ Yes. Okay. Yeah. Thanks.
 
 Bloomberg Transcript
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 Because, I mean, we think there is a standard model, even if it's useless.
 
 Q - Stef an Schürmann
 The question basically most have – I mean, there's a lot of stuff going on and 80% of the
 level of happiness has changed or unhappiness has changed like half year going now?
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 Well, well, I'm sort of trying to avoid that my happiness is actually dependent of
 regulators.
 
 Q - Stef an Schürmann
 Okay, good. It's very clear.
 
-A - German Egloff
-
-{BIO 4782831 <GO>}
-
+A - German Egloff {BIO 4782831 <GO>}
 It doesn't improve your quality of life.
 
 Q - Stef an Schürmann
@@ -1207,10 +1019,7 @@ Company N ame: Baloise H olding AG
 Company Ticker: BAL N SW Equity
 Date: 2015-08-27
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 There are companies who do. (01:01:12)
 
 Operator
@@ -1219,10 +1028,7 @@ FINAL
 
 This was the last question. Would you like to conclude the call?
 
-A - Martin Strobel
-
-{BIO 5296838 <GO>}
-
+A - Martin Strobel {BIO 5296838 <GO>}
 I'll ask around if there's anything else you would like to ask us? If that's not the case, I
 thank you very much, gentlemen, for your interest in Bâloise and for you attending the call.
 And I wish you a good day. Thank you very much.

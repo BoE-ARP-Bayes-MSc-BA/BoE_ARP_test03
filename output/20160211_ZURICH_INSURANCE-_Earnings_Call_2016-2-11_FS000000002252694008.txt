@@ -40,9 +40,7 @@ conference must not be recorded for publication or broadcast.
 At this time, it's my pleasure to hand over to Mr. James Quin, Head of Investor Relations
 and Performance Management. Please go ahead, sir.
 
-James Quin
-
-{BIO 18345789 <GO>}
+James Quin {BIO 18345789 <GO>}
 
 Page 1 of 24
 
@@ -58,10 +56,7 @@ Business, Kristof Terryn. Tom will give a brief overview and then we'll take you
 
 FINAL
 
-Tom de Swaan
-
-{BIO 1702205 <GO>}
-
+Tom de Swaan {BIO 1702205 <GO>}
 Thank you, James, and good afternoon, good morning. Our results for 2015 are
 disappointing. The issues are concentrated in our GI business, mainly in Global
 Corporate. GI had a full-year combined ratio of above 103% and this is principally due to a
@@ -118,10 +113,7 @@ Operator
 We will now begin the question-and-answer session. The ﬁrst question is from Dhruv
 Gahlaut, HSBC. Please go ahead.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
-
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 Good morning. Thanks for taking my question. I've got a couple of questions. Firstly,
 could you update what happened to Z-ECM post the nine-month stage, and what is the
 level of deployable capital against the €3 billion, which you had at that point? Secondly, in
@@ -131,18 +123,12 @@ reinsurance, retention levels, et cetera? Also then, in terms of these changes, 
 cost that would go up in the P&L next year for reinsurance? Could you just outline those
 as well? Thanks.
 
-A - Kristof Terryn
-
-{BIO 17664174 <GO>}
-
+A - Kristof Terryn {BIO 17664174 <GO>}
 You take the ﬁrst one, George...
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I'll take the ﬁrst one and Kristof will take the second. So on the capital side of things, so
 we haven't prepared the full run. We typically do that in March as part of the cycle with
 (6:00), but we have done an update. So we would estimate that Z-ECM capital adequacy
@@ -156,10 +142,7 @@ a loss of around $400 million (6:50), I guess we'll see a proﬁt in the $700 mi
 That gives you a relatively ready guide to where we would currently project we would be.
 So on the large losses?
 
-A - Kristof Terryn
-
-{BIO 17664174 <GO>}
-
+A - Kristof Terryn {BIO 17664174 <GO>}
 I guess on large losses and particularly to the question of reinsurance. So, the number of
 additional reinsurance covers, the most important one is we put in place and I believe
 (7:20) has produced the volatility on the large losses. We've also put in place or increased
@@ -177,27 +160,19 @@ Date: 2016-02-11
 Through the year we'll continue to (7:41) where it does make sense to sell (7:46)
 reinsurance.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 
 FINAL
 
 Sorry, I think you were breaking up. Could say what was the cost, as in for the exchanges,
 as in the cost of the increase in reinsurance?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Dhruv, it's George. So, we haven't broken out the cost of the new reinsurance programs
 that is included. Together with the expectations will it arrive (8:10) and overall combined
 ratio for 2016, that cost was fully reﬂected in those estimates.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
-
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 Thanks for that.
 
 Operator
@@ -205,10 +180,7 @@ The next question is from Andrew Ritchie, Autonomous. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Hi there. I had a question also on the reinsurance. I know maybe this is a bit simplistic, but
 just to give us a sense. If, horror of horror, 2015 was to happen again, let's hope it doesn't,
 what would the net beneﬁt of reinsurance have been, just roughly? I appreciate you may
@@ -219,10 +191,7 @@ reviews? What has been done? Is there anything additional or special being done?
 you talked about some of this at Q3, but a recap would be helpful, anything additional
 you did in Q4. Thanks.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So, on the ﬁrst one. Andrew, it's George. As you can imagine, given the experience we
 had last year, we would have had a signiﬁcant recovery under the contract on a pro forma
 basis. And, again, in the discussions we've had with reinsurance partners, if they weren't
@@ -256,16 +225,11 @@ So overall and from a review perspective, we've done all (10:50) that we intend 
 was one-oﬀ and, in fact, it was all done prior to the Q3 results release in November. And
 now we're back to managing the reserve position as we always have done.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Can you just remind us, is it you want 80% of your reserves to be reviewed externally over
 a rolling three years. Is that the rule?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -280,18 +244,12 @@ around, say, workers' comp or other long-tail forms of liability. And I guess if
 at the high risk parts of the reserve, they've all been reviewed over the course of the last
 two years and sometimes more than once.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. You answered the previous question saying the cost of reinsurance was included
 within your 2016 combined ratio expectations. Have you actually given a 2016 combined
 ratio expectation? I didn't see one.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you for pointing that out. So what we've done today, we've tried to avoid giving
 another short-term target for 2016, given the things that we have to address during the
 course of this year. But at the same time, the ambition, the expectation, in fact, the plan
@@ -299,10 +257,7 @@ we have has not changed. I think the challenge that we perceive today, given the
 weakness that we've still seen in Q4, I think we think it will take slightly longer in 2016 to
 get there, but we still expect to get there.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Page 5 of 24
 
 
@@ -313,9 +268,7 @@ Date: 2016-02-11
 
 So that would be what, 97.5 or something?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 FINAL
 
@@ -323,18 +276,13 @@ If you go back to where we were before, we had indicated at Q3 that we thought w
 around 99.5. I think today we'd probably revise that up slightly and we still expect to see
 an improvement in the range that we previously discussed.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. Thank you.
 
 Operator
 The next question is from Peter Eliot from Kepler Cheuvreux. Please go ahead.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 
 Bloomberg Transcript
 
@@ -352,10 +300,7 @@ you've had a bit of experience year-to-date and know your intention on the reins
 cover, I'm wondering whether you can also give us any guidance about the outlook for
 your net premium development that you expect. Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I'll take the ﬁrst one and Kristof will handle the second. So I think the key diﬀerence
 between us is that I haven't given you a ﬁgure as of today. So what I'm giving you would
 be equivalent to the SST1 ﬁling, which is a January 1 perspective of the view for this year.
@@ -364,10 +309,7 @@ But I think the biggest diﬀerence in the positive that you probably included i
 knocked it back out because of what's happened since, is really the impact of markets in
 Q4 which were actually quite positive for us on Z-ECM.
 
-A - Kristof Terryn
-
-{BIO 17664174 <GO>}
-
+A - Kristof Terryn {BIO 17664174 <GO>}
 And maybe let me take the question on rate. So as we said earlier, we've been very
 disciplined in terms of how we push for rate, including in the bottom tiers. The rate
 increases that we're looking for have to be much higher. At the same time, we see the
@@ -397,10 +339,7 @@ likely see a slight decline in the top line. So, if you combine that together wi
 and a higher level of reinsurance, I mean, the net premium will see a slight decline as well
 at the overall level.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Okay. Thanks a lot.
 
 Operator
@@ -409,10 +348,7 @@ Bloomberg Transcript
 
 The next question is from Michael Huttner from JPMorgan. Please go ahead.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 Thank you. Thank you very much. On the cash ﬂows of $3.9 billion, we have about $0.5
 billion from Farmers Re and $0.5 billion one-oﬀ in Life. So, that gives me an underlying
 run rate of $3 billion. So, these are obviously coming out of 2014 proﬁts which are quite
@@ -426,10 +362,7 @@ my understanding of the release today, you seem to be happy with proﬁts of abo
 million. And I'm just wondering if that's the new number which I should use going
 forward. Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Michael, its George. I mean for 2015, I think you've captured, I mean, almost all the key
 items that are the signiﬁcant one-oﬀs and the 2015 cash ﬂow. So, $3.9 billion we've
 reported today. Approximately $0.5 billion from Farmers, which is installment number one
@@ -456,58 +389,35 @@ mark. So from that you can see we're allowing for the possibility we'll see a fa
 normal or the targeted $3 billion level, but not a signiﬁcant fall and not a fall at this stage.
 But at least from a cash perspective, I would expect to leave the dividend uncovered.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 I understand. Just before you go on, (19:50) what's the balancing ﬁgure to get to $10
 billion? What's the diﬀerence? No, no. I'm just asking. It's mathematical. You've got the
 years in front of you, I don't. That's all.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes, so it's $3.7 billion, $3.9 billion. $2.4 billion would be the minimum required.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 
 Bloomberg Transcript
 
 $2.4 billion. Got it. That's really helpful. Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Just before someone takes away that as a headline, that's not the expected cash
 remittances for 2016. We expect the number to be higher than that.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 And that includes the another half – if I understand your comment on Farmers Re, that
 would include another installment of about the same amount.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Approximately. Slightly less.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 Slightly less.
 
-A - Kristof Terryn
-
-{BIO 17664174 <GO>}
-
+A - Kristof Terryn {BIO 17664174 <GO>}
 Let me take the Global Life question. So, the run rate that we're guiding towards for 2016
 of $350 million a quarter, I mean, we said back in 2013. So in 2014, there was already an
 impact of FX but in spite of that, we stuck to the target of $350 million. If you look at the
@@ -521,54 +431,34 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2016-02-11
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 Right. But that's looking backwards. What's the ﬁgure which I should be – with all the
 changes that's happened in FX and stuﬀ, what's the changes – what's the ﬁgure which is
 equivalent to this $1,478?
 
 FINAL
 
-A - Kristof Terryn
-
-{BIO 17664174 <GO>}
-
+A - Kristof Terryn {BIO 17664174 <GO>}
 I mean, the ﬁgure has changed. I mean, the ﬁgure that we gave in 2014 was that we were
 aiming for a quarterly run rate of $350 million plus
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 Yes.
 
-A - Kristof Terryn
-
-{BIO 17664174 <GO>}
-
+A - Kristof Terryn {BIO 17664174 <GO>}
 In 2016, that's at 2014 FX levels.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 And the FX if I – from your disclosure. The FX took about 15% oﬀ, is that right? If I compare
 the $1,478 with the $1,300?
 
-A - Kristof Terryn
-
-{BIO 17664174 <GO>}
+A - Kristof Terryn {BIO 17664174 <GO>}
 
 Bloomberg Transcript
 
 I think more or less, Michael. More or less 15%.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 Yeah. Okay. More or less 15%. That's really helpful. Thank you very much.
 
 Operator
@@ -585,9 +475,7 @@ something to implement and, you're looking for $1 billion in total after 2018. I
 cost per pound of cost saves that we should thinking about for the rest of the $1 billion
 going forward and/or any guidance around that would be great. Thanks.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 Page 9 of 24
 
 
@@ -628,10 +516,7 @@ Great. Thanks.
 Operator
 The next question is from Nick Holmes from Société Générale. Please go ahead.
 
-Q - Nick Holmes
-
-{BIO 21515144 <GO>}
-
+Q - Nick Holmes {BIO 21515144 <GO>}
 Hi there. I have two questions. First is on expenses. With the expense ratio in the GI
 business, I wonder, could you give us a bit of color on how rapidly you expect
 improvement? And why I'm asking is because I wonder do you think it could actually get
@@ -645,9 +530,7 @@ reassurance you can give us that the losses in commercial auto and property are 
 going to be repeated? I mean, what sort of comfort would you draw our attention to in the
 numbers that you disclosed? Thank you.
 
-A - Kristof Terryn
-
-{BIO 17664174 <GO>}
+A - Kristof Terryn {BIO 17664174 <GO>}
 Page 10 of 24
 
 
@@ -670,10 +553,7 @@ some slight top line. The focus at this point is really on the quality of the po
 that's really what we're targeting. But you should see an absolute expense reduction
 going into 2016.
 
-Q - Nick Holmes
-
-{BIO 21515144 <GO>}
-
+Q - Nick Holmes {BIO 21515144 <GO>}
 I'm sorry. If I may follow-up. I just asked because in the past, the trade-oﬀ between loss
 ratio and the expense ratio perhaps hasn't been managed as eﬀectively as it could have
 been and what sort of reassurance would you give us, that that's the key focus for you
@@ -681,26 +561,17 @@ going forward?
 
 Bloomberg Transcript
 
-A - Kristof Terryn
-
-{BIO 17664174 <GO>}
-
+A - Kristof Terryn {BIO 17664174 <GO>}
 Look, the primary focus for this business is to improve the absolute combined ratio. And
 so, the key improvement that you should see next year is in the loss ratio, and we will not
 make any trade-oﬀs between top-line growth and loss ratio. We've been clear as to where
 the priority is. It is on the underwriting quality of the book and the rate and (28:01) that we
 need to see.
 
-Q - Nick Holmes
-
-{BIO 21515144 <GO>}
-
+Q - Nick Holmes {BIO 21515144 <GO>}
 Okay.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On the second part of your question, we have provided additional disclosure today on
 the reserve triangles so you can see it by the major GI segments. And we've also given
 some (28:20) information. I hope the information today is helpful. I think it's quite hard
@@ -732,18 +603,13 @@ us demonstrating that we have no further adverse on the commercial auto I think 
 us to take a more substantial comfort. But the ﬁrst quarter after the reserve increase,
 which was Q4, has performed well.
 
-Q - Nick Holmes
-
-{BIO 21515144 <GO>}
-
+Q - Nick Holmes {BIO 21515144 <GO>}
 Thanks very much, George. Just one follow-up. Commercial auto obviously part of more
 of an industry phenomenon. But with the proxy book, the construction book in the U.S.,
 can you tell us a little bit more what went wrong with that book and why it went wrong
 and what you're doing to prevent that recurring?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -763,10 +629,7 @@ But I think on commercial auto, we've certainly reacted. You've heard from Krist
 we're doing on the GI review. On the other areas, we need to make changes to lines of
 business that we believe to be proﬁtable for us, we've made those changes.
 
-A - Kristof Terryn
-
-{BIO 17664174 <GO>}
-
+A - Kristof Terryn {BIO 17664174 <GO>}
 Maybe let me just add one point in terms of lessons learned. So, if there's a lesson
 learned, it's around the speed of reaction. And I think we took the right actions in Q3.
 Also I want to make sure that people understand that when we talk about the GI review,
@@ -785,10 +648,7 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2016-02-11
 
-Q - Nick Holmes
-
-{BIO 21515144 <GO>}
-
+Q - Nick Holmes {BIO 21515144 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -797,10 +657,7 @@ FINAL
 
 The next question is from Sami Taipalus from Berenberg. Please go ahead.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Hi. Good afternoon, everyone. Thanks for taking my question. On the ﬁrst one, I just
 wanted to go back, you gave a slide at nine months where you showed that 15% of the
 business was ﬂat, giving a combined ratio of 143% and that 85% was giving a combined
@@ -811,9 +668,7 @@ The second question I had was on the excess capital. You said that you've decide
 return it, but you haven't excluded M&A from the agenda. So I was wondering if that's still
 a possibility. Thank you.
 
-A - Tom de Swaan
-
-{BIO 1702205 <GO>}
+A - Tom de Swaan {BIO 1702205 <GO>}
 
 Bloomberg Transcript
 
@@ -827,30 +682,18 @@ together with the other members of the management team and the board, look at th
 very carefully. But the present posture we have that we will use the excess capital for these
 three items remains valid.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Okay. So there is still excess capital available for M&A. Is that the right interpretation or
 did I misunderstand that?
 
-A - Tom de Swaan
-
-{BIO 1702205 <GO>}
-
+A - Tom de Swaan {BIO 1702205 <GO>}
 Excuse me?
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 There is still excess capital available for M&A, should you need it. Or did I misunderstand
 that?
 
-A - Tom de Swaan
-
-{BIO 1702205 <GO>}
-
+A - Tom de Swaan {BIO 1702205 <GO>}
 Page 13 of 24
 
 
@@ -862,18 +705,13 @@ Date: 2016-02-11
 Well, as George explained earlier in the call, he gave you an impression of the amount
 available and that amount is available for these three purposes.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
+Q - Sami Taipalus {BIO 17452234 <GO>}
 
 FINAL
 
 Okay. Perfect. Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 And maybe back to your ﬁrst question on the 15 portfolios that we highlighted at the third
 quarter. So to make a comparison with Q4 is just very diﬃcult because of the cats that we
 experienced in Q4 and then some of the isolated large losses. But maybe a couple of
@@ -886,9 +724,7 @@ not just on the bottom 15 portfolios. What we did see in 2015 is that the attrit
 move and stayed relatively ﬂat year-over-year. So some of the actions we're taking are
 much broader than just in those bottom 15 portfolios.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
+Q - Sami Taipalus {BIO 17452234 <GO>}
 
 Bloomberg Transcript
 
@@ -897,10 +733,7 @@ All right. Okay. Thank you.
 Operator
 The next question is from James Shuck from UBS. Please go ahead.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Hi. Good afternoon. Thank you for taking my questions. I have three quick questions,
 please. Firstly, I just like to understand a bit more about what the earning risks are as we
 go into kind of Q1 and Q2. I appreciate some of the action that you're taking to get
@@ -930,10 +763,7 @@ in that context please.
 
 FINAL
 
-A - Tom de Swaan
-
-{BIO 1702205 <GO>}
-
+A - Tom de Swaan {BIO 1702205 <GO>}
 Thank you. Well, I think that what I said is something we have been expressing quite some
 time. Clearly, the dividend over 2015 has, to put it mildly, a very high payout ratio. But we
 also said that we believe that 2016, we'll see a progressive improvement in the results of
@@ -950,10 +780,7 @@ pay sustainable and eﬀective dividend.
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So on the other two topics you had, so one was around, I mean, earnings risks in general
 and then the Solvency II capital cash generation topic for our Life company. So on
 earnings risks let me give you an update on what we see for Q1, maybe just I'll explain
@@ -983,10 +810,7 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2016-02-11
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Okay. That's very helpful. Thank you.
 
 Operator
@@ -995,10 +819,7 @@ FINAL
 
 The next question is from Thomas Seidl from Sanford Bernstein. Please go ahead.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yeah. Thank you. Good afternoon. Three questions please, ﬁrst, again on reserves. I
 appreciate, of course, that the audits conﬁrm the reserve adequacy. But my question is
 more about the reserve buﬀer and what comfort it can provide there. We just observed
@@ -1023,22 +844,13 @@ one could argue that as the issue started already at that time and at the end of
 P&C which mainly didn't deliver. So my question is why does the board feel comfortable
 that Mario Greco is the right choice to turn around the P&C business of Zurich?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I'll go ahead ﬁrst.
 
-A - Tom de Swaan
-
-{BIO 1702205 <GO>}
-
+A - Tom de Swaan {BIO 1702205 <GO>}
 Yeah.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Can I make a request to everyone that if we can try and keep ourselves to two? I promise
 that when we get to the end, if everyone with two will come back, (42:56) anyone with
 extra questions.
@@ -1061,18 +873,12 @@ the non-mathematical issues that can emerge in the portfolio over time. Unfortun
 mean, more than that I don't want to repeat the answer I gave to the question earlier.
 Kristof?
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Maybe just a follow-up on this, if that was the case, why does Zurich need to report a
 relatively small reserve increase of $300 million on a reserve portfolio of some $55
 billion? That doesn't really ﬁt together I think.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Again I could repeat what I said in Q3. So Q3, Kristof and I did a review of reserves and
 we looked at vulnerabilities. So we didn't spend our time worrying about the areas where
 the company was in a strong position for reserve, but we focused on those areas where
@@ -1083,10 +889,7 @@ Top line, Kristof?
 
 Bloomberg Transcript
 
-A - Kristof Terryn
-
-{BIO 17664174 <GO>}
-
+A - Kristof Terryn {BIO 17664174 <GO>}
 So on the top-line, I mean as I said before, I mean the main objective is that the team has
 been given more around the underwriting proﬁtability that is where we're focusing with a
 very strong focus on the tiering of the risks. I mean we have some very good quality risks
@@ -1098,17 +901,11 @@ let us absorb that. But, again, I'm not that negative on the outlook. We have so
 good parts of our book that continue to perform, but we will push for growth and we'll be
 very diﬀerentiated on where we pursue that.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Maybe just to follow-on. You basically with (45:13) 3% to 5%, you're expecting still to
 improve the combined ratio underlying here (45:20) by 2 percentage points.
 
-A - Kristof Terryn
-
-{BIO 17664174 <GO>}
-
+A - Kristof Terryn {BIO 17664174 <GO>}
 So the thing that I said as well is that when you look at the diﬀerential retention rates that
 we're likely to see and what we are actually seeing at Jan 1. When you see retentions in
 some lines of business, and our bottom tiers is only 60% and the key more than 90% in
@@ -1123,9 +920,7 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2016-02-11
 
-A - Tom de Swaan
-
-{BIO 1702205 <GO>}
+A - Tom de Swaan {BIO 1702205 <GO>}
 
 FINAL
 
@@ -1136,10 +931,7 @@ large insurance company. And I think that Mario clearly lives up to both parts o
 proﬁle. So we're very pleased that he is coming over and he is very enthusiastic to start
 working for Zurich.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay. Thank you.
 
 Operator
@@ -1156,10 +948,7 @@ Bloomberg Transcript
 And second question, quite simply, should we expect any further restructuring charges, or
 is everything done now? So nothing to come in 2016?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 It's George. So on the liquids, we'll give you the exact numbers after the call. I mean
 we've been through most of what the team have intended to do. I think there's more we
 can do potentially around the real estate side of things. But we've done most of what we
@@ -1170,10 +959,7 @@ Q - Stefan Schürmann
 Yeah. Can you just talk about new money yields as they are linked to that strategy, where
 do you stand in life and non-life?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I can't break out the individual components for you, but I can give you a sense of the
 overall. So for the group overall, for everything, for GI and GL, we have a gap of about 70
 basis points between the accounting yield and the reinvestment yield. If you focus on GI,
@@ -1194,10 +980,7 @@ to come in 2016?
 
 FINAL
 
-A - Tom de Swaan
-
-{BIO 1702205 <GO>}
-
+A - Tom de Swaan {BIO 1702205 <GO>}
 So on the restructuring charges, I apologize if you didn't hear what I said earlier. There is
 more to come. If you look at the things that we focused on last year, again, GI have made
 big steps on their program, but we have still more to do in GI and across the rest of the
@@ -1219,10 +1002,7 @@ Bloomberg Transcript
 
 The next question is from Andy Hughes from Macquarie. Please go ahead.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Hi. Thanks so much. A quick question on the top line again on GI. It sounds like you're
 quite positive about the tiering and how that's going to work in terms of the growth. Is
 there any data in terms of tiering that you can share with us so far on the progress of that
@@ -1232,10 +1012,7 @@ And the second question was on the asset slide, slide 65. I'm just wondering, yo
 quite a lot of ﬁnancial exposure on that slide. Could you talk through what it is and is it
 mainly senior and what kind of (49:51) looking at? Thank you.
 
-A - Tom de Swaan
-
-{BIO 1702205 <GO>}
-
+A - Tom de Swaan {BIO 1702205 <GO>}
 Maybe let me answer the tiering question and George can break that information out. But
 to give you some indications, what we're actually seeing is, as I said, on the overall book
 and particularly the one book that's important here is the Global Corporate European
@@ -1260,16 +1037,10 @@ see retention as high as 90% in the top tier. So the improvement of the portfoli
 underlying loss ratio will come as much on the diﬀerential and retention by tier as it will
 come from the diﬀerential in rate.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So on the split of assets by the industry concentrations, you pointed to the slide that
 contains it for corporate bonds. I guess that would generally reﬂect the market, so I think
 it's probably close to equal weight. So given where we were at the end of last year, we
@@ -1288,19 +1059,13 @@ feel the immediate need to take dramatic action around the strategic asset alloc
 on the more detailed side of ﬁnancial institutions, we'll come back via IR, if that's okay
 with you.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Great. Thank you very much.
 
 Operator
 The next question is from Nadine van der Meulen from Morgan Stanley. Please go ahead.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Yes. Hi. Good afternoon. Firstly, the decision to keep the dividend stable. I was wondering
 to what extent was the new CEO, Mario Greco, involved in that decision, given that he's
 joining very shortly.
@@ -1317,27 +1082,18 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2016-02-11
 
-A - Tom de Swaan
-
-{BIO 1702205 <GO>}
-
+A - Tom de Swaan {BIO 1702205 <GO>}
 This is Tom, Nadine. Mario was only released from Generali on Tuesday, which is less than
 36 hours ago. So he was not involved in the decision and he should not have been
 involved in the decision on 2015 dividend.
 
 FINAL
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Right. Sorry to interrupt, but you did mention that you're highly conﬁdent that the new
 CEO will look at things the same way. I think it's the comment you made earlier.
 
-A - Tom de Swaan
-
-{BIO 1702205 <GO>}
-
+A - Tom de Swaan {BIO 1702205 <GO>}
 As I said, we have looked for a seasoned insurance executive and a seasoned CEO. So I
 assume and I'm very conﬁdent actually that we hired somebody who understands the
 insurance business, who understands you and understands the market. So that's why I'm
@@ -1345,24 +1101,16 @@ conﬁdent how he looks upon these things. But it doesn't mean that we have cons
 him on the dividend, because we should not have to consult him, because he was still
 employed by Generali.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Thank you.
 
-A - Tom de Swaan
-
-{BIO 1702205 <GO>}
+A - Tom de Swaan {BIO 1702205 <GO>}
 
 Bloomberg Transcript
 
 You're welcome.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On the second point. Nadine, it's George. So on the reserve release, the guidance that
 we've given is still the same guidance today. So we still expect to see 1 percentage points
 to 2 percentage points. I pointed to one of thing that slightly depresses that number in
@@ -1373,18 +1121,13 @@ claims. And the claims fall into PYD. I'm not sure that economically you would t
 PYD, but that's the way it's commonly presented. But going forward, we expect to see 1%
 to 2% redundancy.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Thank you.
 
 Operator
 The next question is from Ralph Hebgen with KBW. Please go ahead.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 
 Page 21 of 24
 
@@ -1414,10 +1157,7 @@ assessment. Thank you.
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes. Forgive me, (56:42). I'll try and do this later, I think, page 123 from the Investor Day
 from memory. I mean it really wasn't intended to signal that 115% as the new threshold.
 What that slide was intended to do, if I remember it correctly, was give you a sense of how
@@ -1463,10 +1203,7 @@ have been around the $700 million mark. If you take both of those and compare it
 $3 billion, it gives you a very good sense as to where we currently project the ﬂexibility to
 be.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 That's great. Thank you very much, George.
 
 Operator
@@ -1474,10 +1211,7 @@ The last question is from Vinit Malhotra from Mediobanca. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Hi. Good afternoon. Thank you very much for this opportunity. The ﬁrst question is just, I
 noticed the NAC has grown quite strongly in fourth quarter as well. And then also – and
 also in 3Q, is this what, Kristof, you meant by saying that while GC is going to not grow,
@@ -1489,19 +1223,13 @@ excess capital is not to be returned. In a situation that the turnaround happens
 you would like, is that opportunity, is that going to come back as a sort of a way to deal
 with that excess capital? Thank you.
 
-A - Tom de Swaan
-
-{BIO 1702205 <GO>}
-
+A - Tom de Swaan {BIO 1702205 <GO>}
 Right. As far as the last question is concerned, I ﬁnd it very diﬃcult to predict these kinds
 of things over a long-term ahead. But I will look at this year, clearly, this decision not to
 return capital stands where we move in the next couple of years, we'll see how the
 business develops. And what that means for as far as capital is concerned.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 All right. That's very clear. Thank you.
 
 Page 23 of 24
@@ -1512,29 +1240,20 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2016-02-11
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Just very brieﬂy on NAC. I know we're showing a headline number of 7% growth for the
 full year 2015. All of that growth was driven through captives. Top-line number – the
 underlying number is closer to 3% which is a number that I'm comfortable with.
 
 FINAL
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 All right. Thank you very much.
 
 Operator
 I would now like to hand over to Mr. James Quin. Please go ahead.
 
-A - James Quin
-
-{BIO 18345789 <GO>}
-
+A - James Quin {BIO 18345789 <GO>}
 Okay. Well, thank you very much to everybody for dialing in. Of course, if you do have any
 questions, then do call Investor Relations, and that we'll see some of you next week.
 Thank you.

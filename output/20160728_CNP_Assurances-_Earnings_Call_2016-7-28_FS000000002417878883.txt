@@ -24,10 +24,7 @@ Bloomberg Transcript
 At this time, I would like to turn the conference over to Mr. Antoine Lissowski, CFO and
 Deputy CEO. Please go ahead, sir.
 
-Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+Antoine Lissowski {BIO 4384399 <GO>}
 Thank you. Hello to everybody. We are here to commence our ﬁrst half 2016 ﬁnancial
 performance, and I will go through the diﬀerent pages of the document you have in front
 of you and reporting the page step-by-step.
@@ -303,10 +300,7 @@ Operator
 Thank you. Our ﬁrst question today comes from Michael Huttner of JPMorgan. Please go
 ahead. Your line is open.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Fantastic. Thank you very much. I listened with the interest also the French – the webcast.
 There was one point from Solvency II, and a mention was that you would consider using
 negative interest rates in the modeling of Solvency II going forward. And I just wondered
@@ -328,10 +322,7 @@ see the IFRS metrics. Would it have any impact at all? Thank you.
 
 FINAL
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Okay. Michael, on the ﬁrst question, it is a right question that we have no negative rates in
 our models so far, and we are committed to diﬀerent stakeholders and to auditors to use
 negative rates in the modernization (32:02) at the end of 2016. Then, it is a commitment I
@@ -356,30 +347,18 @@ more than 1.9%, as it was the case before. Shall it become 1.4%, 1.5% or below t
 know so far. And we have a whole process of negotiation with our partners before this
 ﬁgure is decided at the end of the year.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Thank you. And just a quick follow on, and I'm sorry (34:21), you said – at what stage
 should we become more concerned about the potential impact on the dividend of these
 low interest rates?
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 The impact on which dividend?
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Your dividend. Your dividend.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Well, usually, when I am asked about dividend in December or January, I'd say, okay, let's
 wait for general assembly with the board and so on. But in July, clearly, my short view is
 simply to go on holidays tomorrow. The question is clearly (35:03) not in my mind.
@@ -392,36 +371,22 @@ Company Name: CNP Assurances
 Company Ticker: CNP FP Equity
 Date: 2016-07-28
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Okay. Thank you.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
+A - Antoine Lissowski {BIO 4384399 <GO>}
 
 FINAL
 
 Let me advise you to do the same. Don't worry about the future.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Okay.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Life insurers are there to worry for you.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Okay. No, I understand. No, that's super (35:19). Thank you.
 
 Operator
@@ -443,16 +408,10 @@ remember, in the full year earnings conference call, you mentioned the convexity
 sensitivity of the Solvency II ratio. So, it would be good to have kind of an update. Thank
 you.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Okay. I give ﬂoor to Marie Grison on that topic.
 
-A - Marie Grison
-
-{BIO 15895562 <GO>}
-
+A - Marie Grison {BIO 15895562 <GO>}
 Okay. On the impact of decrease of policyholders' dividend and potential increase of
 reserve on that, yes, more reserve has a positive impact globally on the coverage ratio.
 But the exact impact depends on the environment condition. So, we don't have a precise
@@ -474,29 +433,21 @@ understand that when you have lower interest rates, your sensitivity is bigger b
 you're more near to the integrated options in the models. So, that's what we can answer
 on that.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 We will update the sensitivities for the annual publication, but we do not update them
 now.
 
 Q - Rötger Franz
 Okay.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 And regarding are we comfortable? Yes. We are very comfortable with the present level of
 Solvency ratio.
 
 Q - Rötger Franz
 But where is the level where you get uncomfortable with that?
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
+A - Antoine Lissowski {BIO 4384399 <GO>}
 
 Bloomberg Transcript
 
@@ -506,10 +457,7 @@ Q - Rötger Franz
 So, would you still be comfortable with a Solvency II ratio of, let's say, 140% or so? How far
 down would you go before taking decisive measures?
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Well, when we depict what we are doing on our business, on crediting rates and costs
 and so on, it is just a strategy, which is consistent with the idea to maintain the safety of
 the company on long term, the economic safety of the company of long term. In other
@@ -545,9 +493,7 @@ Okay.
 Operator
 Our next question today comes from Ralph Hebgen from KBW. Please go ahead.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 
 Bloomberg Transcript
 
@@ -567,10 +513,7 @@ of your competitors have this kind of disclosure. If it falls below X%, then we 
 the ratio; if it goes above Y%, we will do something with the surplus funds. So, maybe
 some interpretation of that as well. Thank you very much.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Okay. On the second question, I'm sorry I cannot add very many things to what was
 already said. I think that we will do something if we reach 100%. It is possible to do
 something if we reach the 100%. For the rest, when we discuss Solvency ratio at the level
@@ -606,10 +549,7 @@ The own fund management is not under pressure for the year. It is clearly an iss
 the rest of the investments to know how to manage the asset allocation of that part of our
 balance sheet for preparing the future, but it is clearly not an issue for 2016.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Yes. So, thanks very much. Just to clarify what I meant by this, it is of course entirely
 legitimate to look at the performance of investments and then decide, in light of what you
 see, how much capital gains to realize at the given time. I was just wondering how this
@@ -618,19 +558,13 @@ harvesting in the second half than in the ﬁrst half. That's all I had in mind.
 
 Bloomberg Transcript
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Well, to be frank, I have not in mind speciﬁc move between the two half years, last years. I
 will check it and we will write an answer on the website if – just to compare the amount of
 capital gains which were made at the ﬁrst half and second half. But I have no ﬁgures in
 mind and I don't want to misinform you now.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -638,10 +572,7 @@ As there are no further questions in the queue, I would like to turn the – par
 interruption. We do have a follow-up question from Ralph Hebgen of KBW. Please go
 ahead, sir. Your line is open.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 I'm sorry, it's me again. There were two other things on the Solvency II ratio, which I
 wanted to ask you about. The ﬁrst one is just in conﬁrmation. I believe you issued some
 debt at the start of the year to reﬁnance maturing debt, which comes out at the end of the
@@ -650,9 +581,7 @@ supported by the, let's say, temporary presence of sub-debt in the eligible own 
 And I estimate that to be an equivalent of 70 (47:49) percentage points. So, would you be
 able to conﬁrm that indeed...
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Page 11 of 15
 
 
@@ -663,45 +592,27 @@ Date: 2016-07-28
 
 Ralph, I conﬁrm this decision (47:58)...
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay.
 
 FINAL
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Your ﬁgures are right.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay. Perfect. And the second thing I wanted to just ask is, are you now matched from
 perspective of duration?
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Well, we have...
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Or (48:19) duration gap?
 
 Bloomberg Transcript
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Well, we are monitoring the duration gap at the level of the risk group. We have a risk
 committee at the level of CEO of the company, and we have had a look on the duration
 gap during one of last meetings of these groups. And we are correctly hedged in the
@@ -711,20 +622,14 @@ Because under Solvency II, as you know it well, there is a cost, if you are not 
 hedged on this respect. And we are monitoring it closely and it is – we're correctly
 hedged and there is no speciﬁc concern about it.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay. Many thanks. Thank you very much.
 
 Operator
 We will now take another follow-up question from Michael Huttner of JPMorgan. Please
 go ahead. Your line is open.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Thank you very much. Just on the duration, just want to follow up. I heard – from the
 French conference call I was listening, I heard the asset duration, I think the ﬁgure was ﬁve
 years or six years. The feeling I had was at the liabilities duration, and I know it's diﬃcult to
@@ -749,26 +654,17 @@ distribution agreement in Brazil? And I just wondered what the mechanics of that
 be when it could happen, and it would stay, so we can start considering what the amounts
 might be?
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Could you remind me, your ﬁrst question was about?
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 The ﬁrst one is has there ever been a duration number published and can you say
 whether we're now bigger or smaller. And the second one is about Brazil and the
 negotiation with the distribution.
 
 Bloomberg Transcript
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Okay. Regarding the question of duration gap, well, it was clearly a sort of
 misunderstanding between what was said this morning with – what was said this morning.
 Then we checked the things, and my former answer was, clearly, the outcome of this
@@ -804,10 +700,7 @@ Date: 2016-07-28
 
 FINAL
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Brilliant. That's Excellent. That's helpful. And then the last – and I wonder if you – and this
 is really theoretical, but I was looking at the websites, Googling in general. I'm trying to
 understand how the – if you were to reduce the policyholder participation signiﬁcantly,
@@ -817,9 +710,7 @@ discretionary. And I said, no, no, it's not discretionary, there's a rule. But t
 what the rule was. I thought it was 85% or something, but then I got lost. I just wondered if
 you can explain how this kind of transfer works.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
+A - Antoine Lissowski {BIO 4384399 <GO>}
 
 Bloomberg Transcript
 
@@ -838,32 +729,20 @@ company, to consumers, which accept to have longer contract or more risk or some
 like it. But it is just a wishful thinking of a lobbyist, I mentioned now, and it is not a
 regulation, which is already existing.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Brilliant. And the rule for general allocation is 85% of the ﬁnancial income.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Yeah.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Okay. Noted (56:56). Super. That's very helpful. Thank you very much.
 
 Operator
 We'll now have an additional question from Ralph Hebgen of KBW. Please go ahead. Your
 line is open.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Yes. Hi. Me again. Just one last thing, could you update us on the development in Brazil
 relative to the planned IPO? Is this back on the table or do you know whether it will be
 
@@ -879,29 +758,21 @@ back on the table by the end of the year?
 
 FINAL
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Well, we are condemned (57:31) to read the Brazilian press and the public issues made by
 diﬀerent oﬃcials. And we understand that the intent to do something in terms of
 privatization and that our business from their point of view is among those who could be
 privatized, partly privatized at least. But so far, we have not started to make any diligence
 in order to make it possible.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay. Thank you.
 
 Operator
 As there are no further questions in the queue, I would like to turn the call back to speaker
 for any additional or closing remarks.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
+A - Antoine Lissowski {BIO 4384399 <GO>}
 
 Bloomberg Transcript
 

@@ -29,10 +29,7 @@ note this event is being recorded.
 I would now like to turn the conference over to Mr. Matt Rohrmann, Investor Relations. Mr.
 Rohrmann the floor is yours, sir.
 
-Matt Rohrmann
-
-{BIO 15132648 <GO>}
-
+Matt Rohrmann {BIO 15132648 <GO>}
 Thank you, Mike. Good morning, ladies and gentlemen. Welcome to our conference call to
 discuss the financial results for AXIS Capital for the third quarter and period ended at
 September 30, 2019. Our earnings press release and financial supplement were issued
@@ -67,10 +64,7 @@ Reconciliations are included in our earnings press release and financial supplem
 can be found in our Investor Information section of our website.
 With that, I'd like to turn the call over to Albert. Albert?
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, Matt. Good morning, everyone, and thank you for joining our call. As I noted in
 our earnings press release, this was a challenging quarter with large catastrophes in the
 Caribbean, US and Japan. There was also a higher incidence of mid-size losses,
@@ -169,10 +163,7 @@ and our investors expect.
 Later during the call, I'll speak on trends that we're seeing in the marketplace. But first, I'll
 pass the floor to Pete.
 
-Peter Vogt
-
-{BIO 17059745 <GO>}
-
+Peter Vogt {BIO 17059745 <GO>}
 Thank you, Albert; and good morning, everyone. During the quarter, we generated net
 income of $28 million and an annualized ROE of 2.3%. On an ex-PGAAP basis our
 operating loss was $28 million, generating an ex-PGAAP annualized operating ROE of a
@@ -288,10 +279,7 @@ With that, I'll turn the call back over to Albert.
 
 Bloomberg Transcript
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, Pete. Let's do a quick overview of market conditions, and then we'll open up
 the call for questions. So we're now entering the third year of price firming and as more
 pain has afflicted the market, the pace of improvements in pricing, terms and conditions
@@ -404,10 +392,7 @@ Thank you, sir. We will now begin the question-and-answer session. (Operator
 Instructions). And the first question, we have will come from Amit Kumar of Buckingham
 Research. Please go ahead.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Thanks, and good morning. Albert, a few questions. I wanted to start with the topic of
 these mid-size losses. These mid size losses have impacted the results for several
 quarters despite repositioning your portfolio. I wanted to get some sense as to how
@@ -415,10 +400,7 @@ would you respond to investors to give them confidence that this volatility will
 going forward? And can you talk about some specific steps you might be taking to
 address this issue?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Amit, thank you for the question. I think the first thing to do is, let's talk about the nature
 of the losses because some really do feel with truly the normal volatility in those lines, half
 of our large loss experience this quarter is in credit lines. There has been a number of
@@ -461,9 +443,7 @@ runaway loss. There is just an unusual frequency in this quarter compared to the
 quarter and the very large concentration of credit losses this quarter is not in any way a
 indicator of poor results in credit. In fact, our credit results continue to be very, very strong.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
+Q - Amit Kumar {BIO 15025799 <GO>}
 
 Bloomberg Transcript
 
@@ -476,10 +456,7 @@ loss cost inflation, including social inflation, toward climate, jury awards et 
 should give investors confidence that that's not another area where things could develop
 worse than what we are talking about today?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 That's a very good question and I'd be happy to talk about that in a number of areas. But
 Excess Casualty and Casualty is actually one area where we think we're on very, very solid
 footing. And let me tell you why. So first of all, if you go back to the conference calls in the
@@ -534,18 +511,12 @@ feel that now, in fact, is a good time to grow on the Excess Casualty. We do not
 that now is a good time to grow on the public D&O. So we're being cautious on where we
 choose to grow.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 That makes sense. The last question, I will requeue. In Q1, the gap between loss costs -I'm sorry, the pricing versus loss cost trend was -- on the insurance side was 100 points, in
 Q2 it was 200 points, where do you think we are now and where are we headed from
 here? Thanks.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Again, I think on a long-term basis, if you look at 8% to get, as you remember that yearto-date book is at 6.5%, which is really what we're going to be earning next year, but if
 you look at 8%, that obviously if you look at longer-term trends solidly 300 basis points.
 But as I indicated to you, when you get lines of business that are giving you 10, 11, 12, 15
@@ -568,24 +539,16 @@ than average long-term trends on losses, but there's clearly room for improvemen
 results with the kind of rates that we're seeing. But again let's remember, what we're
 going to be earning next year is not a book that's 8% higher. It's a book that's 6.5% higher.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Absolutely. That's helpful. I'll stop here. Thanks for the answers.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, Amit.
 
 Operator
 And next we have Brian Meredith of UBS.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 
 Bloomberg Transcript
 
@@ -596,10 +559,7 @@ unattractive or call it attractive businesses. I know you mentioned the credit b
 clearly attractive, but generally speaking where is it coming from and should we see that
 kind of going away as we go into 2020 if some of that unattractive business runs off ?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yes. So, the first thing again is to talk about the fact that when we talk about a 3
 percentage-ish average mid-size loss load, that's not unreasonable. And even if there's
 good business, you're going to have claims every once in a while that are going to pop
@@ -641,16 +601,11 @@ and tell you that this is a good quarter. But we've peeled this quarter every wa
 and what we're seeing is that the losses are reasonable in the context of an improved
 portfolio and there's nothing untoward in what we see.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Is there anything you could do with ceded reinsurance that maybe would mitigate some
 of this?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -664,19 +619,13 @@ And so I think there is a lot of -- and I'm happy to sit down and have the analy
 think where we are makes sense, I would argue with you that as business gets better -where there is an opportunity for us is actually to reduce quota shares, so that we can
 keep more of that business as it gets better next year.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Got you, got you. That makes sense. So therefore, if I kind of take everything you're
 saying Albert, as we look into next year 2020, if we aren't seeing a meaningful
 improvement in the underlying kind of loss ratios in the insurance industry, at that point,
 would you say, hey, listen, there's something wrong?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 A, I have all the confidence in the world that we are going to see those lower ratios,
 because as I mentioned to you, when we look at our continuing book versus the canceled,
 the non renewed book that -- we're feeling that those numbers are very strong and they
@@ -698,17 +647,11 @@ underwriting and we will take corrective action on demanding more rate.
 
 FINAL
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Got you, got you. Just one last one, just curious, some of the acquisitions you've made of
 late, are they performing as kind of expected i.e. like Aviabel and obviously Novae?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So on the Novae book, as you know we acquired Novae in '17-'18 [ph] year. We made
 some changes to that book in the beginning of ' 18. There were some additional changes
 that we told you we were making and I'll be blunt, some of that non-renewed book that
@@ -741,16 +684,10 @@ and large, are there risks and their lines in there that I wish were better perf
 But overall, are we a better company today because of those acquisitions? I believe the
 answer remains, yes.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Thank you.
 
-A - Matt Rohrmann
-
-{BIO 15132648 <GO>}
-
+A - Matt Rohrmann {BIO 15132648 <GO>}
 Page 13 of 23
 
 
@@ -767,10 +704,7 @@ FINAL
 
 Sorry about that, sir. Next is Elyse Greenspan with Wells Fargo.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi, good morning. My first question, also sticking with the insurance book. So I guess part
 of what's going on with -- away from the loss ratios also on the expense side that you
 guys pointed to in terms of the impact of the lower earned premiums with flat G&A. So
@@ -780,10 +714,7 @@ in insurance can inflect positively?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I'll speak to that. I guess what I want to say is that we should not minimize the progress
 that is actually shown in the insurance results. We're talking about delivering a technical
 ratio that absorbed a higher amount of losses and still came down by 2 points, so there is
@@ -799,10 +730,7 @@ our books and improve the ratio accordingly. I'm low [ph] to give a specific tim
 but I can tell you that as we look at our projections, we expect that the negative quoteunquote impact that we've had on the G&A ratio should start to turn as early as the
 beginning of 2020. Peter, you should look at that.
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Yeah, I mean, as we think I think more about the growth side, I think as we get into next
 year, the canceled business that we have, the UPR is running off. That -- as we've
 indicated, that UPR should be down by about the middle of next year. So therefore, if we
@@ -824,28 +752,19 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2019-10-30
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So I guess the short answer is we've got two or three levers that we can pull and we'll be
 working on those.
 
 FINAL
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. That's helpful. And then so the two points from the canceled and the non-renewed
 business that you alluded to in insurance, so when does -- does that circle out at the end
 of this year in terms of, we don't have to think about that impacting margins? Or will we
 still see somewhat of an impact in 2020?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Elyse, you could still see an impact to that, I would say, going through the first half of 2020
 as we indicated a lot of those things we canceled had tails on them. So it all depends on
 how they perform in a certain quarter. This quarter, that book didn't perform really well,
@@ -857,20 +776,14 @@ for -- at least through the first half of next year.
 
 Bloomberg Transcript
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. And then in terms of the fourth quarter cat, so we have another sizable typhoon in
 Japan, so as well the California wildfires, which you know are ongoing and then some
 other events within the US. Do you guys have a sense of losses, and it might be too soon
 with California but maybe with the fourth quarter typhoon in Japan, can you kind of size
 Hagibis in relation to the losses you took in the third quarter, just kind of give us a rule-ofthumb on both of those events?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Well, with regard to Hagibis what I'd say is we don't know what it is yet. I mean AIR had an
 estimate was $8 billion to $16 billion which is really quite wide. So we expect to give a
 more -- we've talked to our cede, it will be something that's probably larger than Faxai,
@@ -881,16 +794,10 @@ I would tell you is, as we noted in our press release, we had a couple Japanese
 aggregate treaties that were impacted by Faxai and those were exhausted. So they won't
 be -- will not be impacting the fourth quarter.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. Thank you very much.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you.
 
 Page 15 of 23
@@ -906,10 +813,7 @@ Next we have Yaron Kinar of Goldman Sachs.
 
 FINAL
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Hi. Good morning, everybody. I guess first question -- and then I apologize, I missed the
 first part of the call. But in insurance, so -- I'm seeing a material shrinkage in both aviation,
 and credit and political risk premiums. Those are lines that have previously been
@@ -920,10 +824,7 @@ maybe additional thoughts on credit and political risk?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yeah. So on the insurance book, per se we're just not seeing enough improvement in
 aviation quite frankly. And so, further reductions is the right move. So we're just reacting to
 market conditions. With regard to credit and political risk, there has been -- the way that
@@ -938,18 +839,12 @@ credit, so you want to be very careful how you underwrite it. And so this was si
 question this quarter not of changing our appetite for credit but the fact that we just
 didn't see the opportunities that we wanted to see in credit.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay. And then shifting to Japan, I guess one clarifying question, the Hagibis loss
 estimate, you said that you expect it to be smaller than Jebi, is that for the industry, is that
 for AXIS specifically?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 No. Actually, to be clear, we were talking to people, in fact, we've got some of our team
 members in Singapore right now talking to customers at the conference and they -- all we
 can tell you is that people are not prepared to share a lot of information. They want to get
@@ -980,17 +875,11 @@ exposure to low aggregate treaties that have now been basically paid through and
 are a one shot deal. So the fact that we had a higher concentration at the lower layers in
 the Faxai should not affect us in the same way in Hagibis, that I believe was the indication.
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Yes, that was the indication, yes. And I would say that we don't have an estimate to what
 our loss is yet. All we're hearing is industry estimates that are pretty broad.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay. And assuming that the rates keep up with loss trends in Japan, as you look into next
 year, would you expect that your exposure there -- your wind exposure remains roughly
 the same or do you see any changes just given the higher frequency of these severe
@@ -998,10 +887,7 @@ events?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I appreciate that. No. I think that we would be looking to maybe shift it around maybe
 between layers but I think in terms of overall exposure we had a real opportunity this year
 to do what we needed to do to optimize our portfolio. And to be fair, the Japanese
@@ -1009,31 +895,19 @@ exposure is really did improve, the balance in that portfolio, so we have the Ja
 exposure we want in our portfolio. So, it's simply a question of optimizing it based on the
 renewals that are available, rather than increasing it.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Got it. Thank you so much and good luck.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you.
 
 Operator
 Next we have Sean Reitenbach of KBW.
 
-Q - Sean Reitenbach
-
-{BIO 20103487 <GO>}
-
+Q - Sean Reitenbach {BIO 20103487 <GO>}
 Good morning.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Good morning.
 Page 17 of 23
 
@@ -1043,19 +917,13 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2019-10-30
 
-Q - Sean Reitenbach
-
-{BIO 20103487 <GO>}
-
+Q - Sean Reitenbach {BIO 20103487 <GO>}
 Assuming reinsurance rates keep firming and it looks like they are, would you suspect that
 2020 will look similar for gross written premium growth as 2019?
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I'm not sure that I can answer that question because we're literally going through our plan
 as we speak. And as you might imagine, every large loss in the market changes
 expectations as to what clients will do and what rates are achievable. I would say that on a
@@ -1068,9 +936,7 @@ various layers, but the large growth on a gross basis that you saw on cat, you a
 to see next year. As to the other lines, I think, we would be responsive to the
 opportunities.
 
-Q - Sean Reitenbach
-
-{BIO 20103487 <GO>}
+Q - Sean Reitenbach {BIO 20103487 <GO>}
 
 Bloomberg Transcript
 
@@ -1078,10 +944,7 @@ Okay. Thanks. That's very helpful. And then, secondly, on the Lloyd's positionin
 have any overarching thoughts on the Blueprint One that came out and how that helps or
 probably not hurts your positioning?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So, I think, probably, you have to say that I am on the Council of Lloyd's. So be aware that.
 But secondly ,whatever answer I give you, I'm speaking as the CEO of AXIS, not as a
 member of the Lloyd's Council. I'm happy to let Bruce and John Neal speak for Lloyd's.
@@ -1112,27 +975,19 @@ Date: 2019-10-30
 but make significant progress, it would be a much stronger market and our participation
 within the Lloyd's market would benefit strongly from those improvements.
 
-Q - Sean Reitenbach
-
-{BIO 20103487 <GO>}
+Q - Sean Reitenbach {BIO 20103487 <GO>}
 
 FINAL
 
 Thank you very much.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 You're welcome.
 
 Operator
 And the next question will come from Josh Shanker of Deutsche Bank. Please go ahead.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Yes. Thank you for taking my question. If we take a little stroll down history lane, I
 remember and this thing is even before your tenure as CEO Albert, that one of the great
 differentiators for AXIS is going to be a robust Accident and Health business, and I've
@@ -1142,10 +997,7 @@ ago?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Okay. So the first thing that I want to say is we're not de-emphasizing it. It's still a business
 that is very important and continues to grow for us. The issue in -- the particular issue that
 you see this year in A&H is that we canceled a large treaty that was moving in the wrong
@@ -1163,10 +1015,7 @@ the wholesale business and the reinsurance business and so, we've done that. Tha
 really the big change in the strategy between the time that we launched it, and I would
 say the 2013 or so?
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 2013, yes.
 
 Page 19 of 23
@@ -1177,9 +1026,7 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2019-10-30
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 FINAL
 
@@ -1194,18 +1041,13 @@ progress. It's delivering an underwriting profit, and so that is moving in the r
 All you're seeing this year is a correction to a large treaty that was moving in the wrong
 direction, and we just wanted to correct that. Does that help you?
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Okay. That's great. I really appreciate that. And then on the underwriting actions you're
 taking this quarter, I assume we'll see that continue into the next few quarters. Can you
 sort of scale for me the timing of when we see the earned premium benefit of these
 changes make a material difference in loss ratios?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -1213,17 +1055,11 @@ Again, I need to start by saying that we're seeing them now. You're seeing the l
 declining today, you're seeing our share of cat losses in North America declining, because
 of the changes that we've made to our property book. So there are some...
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 You're right, Albert. Actually, it's sometimes hard for us to see ex-cat margins for the low - low ex-cat loss ratios versus higher attritional margins on business that's left cat
 exposed, I guess. It's sometimes hard for us to run it.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I appreciate what you're saying, but at the end of the day, you still had a 1.5 point
 reduction in the ex-cat loss ratio this quarter, notwithstanding, the fact that we had a
 higher mid-size losses. And so that's a real progress and certainly we expect to continue
@@ -1232,16 +1068,10 @@ way out. So for example, Peter spoke about the fact that we've got this disconti
 business, which is hurting us to the tune of 2 points staying around for about a year, to the
 second -- into the first half of next year, but at a declining rate I believe, Pete.
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Yes. Yeah.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So we will see that started to improve and as we earn more of the business that we're
 writing today versus the business that we wrote a year or year-and-a-half ago, we are
 Page 20 of 23
@@ -1256,74 +1086,46 @@ going to see more benefits. I'm absolutely confident that we are already seeing 
 benefits and as that -- and as the book continues to earn out, we will see more of those
 benefits. It's just a different book today.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
+Q - Josh Shanker {BIO 5292022 <GO>}
 
 FINAL
 
 Yeah. Yeah. Well, I look forward to seeing next quarter in 2020. Thank you.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 As do I.
 
 Operator
 Next we have a follow-up from Amit Kumar of Buckingham Research.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Thanks. I know it's at the top of the hour, so I'll make this quick. Just a few clean-up
 questions. Number one, going back to your initial remarks, Albert, on the credit book, did
 you say, it was running at a loss ratio or a combined ratio of 70%s and 80%.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
 Combined in the 70%s and 80%s.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. That's helpful. Number two, are you blacked out from buying -- I'm sorry,
 repurchasing your stock right now?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 No. We're not.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 And any thoughts on capital management with how the stock is reacting today?
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 We do not have a stock authorization plan in place right now.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Okay. But --
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Yeah.
 
 Page 21 of 23
@@ -1334,32 +1136,21 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2019-10-30
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 But there is no blackout other than the fact that we can get --
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
+A - Peter Vogt {BIO 17059745 <GO>}
 
 FINAL
 
 There is no blackout, although, we could get the Board to approve it, but we do not have
 an authorized plan in place right now.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I think we'll sit down and we'll look at our -- we'll sit down with our Board and look at our
 planning. We'll look at the opportunities we have next year.
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 To that point, I think, it's worth saying that the balance sheet has strengthened a lot over
 the last two years, as you know, we took out some additional leverage when we acquired
 Novae, we're working our way down and so we're bringing the equity back up take. We're
@@ -1367,9 +1158,7 @@ taking the leverage down. So the balance sheet is definitely in a stronger posit
 was at this time last year. But we'll sit down with our Board. We'll look at our plan for next
 year and we'll take a position.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
+Q - Amit Kumar {BIO 15025799 <GO>}
 
 Bloomberg Transcript
 
@@ -1377,36 +1166,24 @@ Got it. And the other question is, I know you have an Ag -- an MPCI reinsurance 
 any thoughts on the performance and how we should think about any impact to Q4 from
 that?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Okay. I don't know that we've had any indication that it would be -- that it would be
 negative. Let me go back and check a little bit more on that, but I can tell you that as we
 went through it, there was no surprise in the most recent review, but I could come back to
 you on that.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. And final question, I know there was a question in Q4 cat. I know you gave a very
 detailed answer on Hagibis. Did I miss -- did you comment on the Dallas losses or the
 California wildfire, did I miss that or was that not addressed?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I think on the California wildfires we said it was still too early. Obviously, they're still burning
 and the Dallas event was just not a major event, overall. We consider that to be, quote, a
 PCS event, which is just one of these non-cat weather type of events, but there's nothing
 unusual there.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. Okay. That's all I had. Thanks for all the answers.
 Page 22 of 23
 
@@ -1416,10 +1193,7 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2019-10-30
 
-A - Matt Rohrmann
-
-{BIO 15132648 <GO>}
-
+A - Matt Rohrmann {BIO 15132648 <GO>}
 Thank you.
 
 FINAL
@@ -1427,10 +1201,7 @@ FINAL
 Operator
 At this time, we're showing no further questions. We'll go and conclude our question-andanswer session. Mr Benchimol, gentlemen, did you have any closing remarks?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you very much, operator. I'll take some. So thank you all for participating in the call
 and as I said at the beginning of this call, we're just not satisfied with these results and we
 understand your frustration. But I remain confident that the metrics that we're seeing

@@ -40,10 +40,7 @@ presentation, the operator will open up for questions. To be able to ask questio
 need to dial into the conference call. I will now leave the work to Storebrand's CEO, Odd
 Arild Grefstad, who will start the presentation on slide 2.
 
-Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+Odd Arild Grefstad {BIO 5483351 <GO>}
 Thanks, Kjetil. A warm welcome to our third quarter presentation, which happens to be on
 the same day as the United Nations Day. The United Nations' 17 Sustainability (sic)
 Page 1 of 10
@@ -236,10 +233,7 @@ Operator
 Thank you. And we do have one question that's coming through already, and that's from
 Peter Eliot from Kepler Cheuvreux. Please, go ahead. Your line is now open.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Thanks very much. I have three questions, please, if I may. First one is on insurance. You
 commented that the result beneﬁted from some runoﬀ gains. Just wondering if you can
 quantify those and say where they came from? And the second thing was on solvency
@@ -282,10 +276,7 @@ unusual and what is the normal variation.
 
 Bloomberg Transcript
 
-A - Trond Finn Eriksen
-
-{BIO 17132188 <GO>}
-
+A - Trond Finn Eriksen {BIO 17132188 <GO>}
 Hi, Peter. When it comes to the sensitivities, I think, yeah, most of the sensitivities, with the
 exception of interest rates going down, it's more or less the same level as the previous
 quarters. What we have seen is that the sensitivities to interest rates without transitional
@@ -296,16 +287,10 @@ converting from paid up policies to paid up policies with investment choice. And
 that assumption down, that gives us somewhat deduction (18:19) sensitive to the interest
 rates going down again.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Okay. Thank you.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Okay. And talking about Gajda, I think most importantly with Gajda is that we chose that
 expertise (18:31) when it comes to the transition in the market. And we can also see that, as
 we'd have an eﬀect in the Swedish market, whereas the key on gaining market share is
@@ -317,10 +302,7 @@ more transparent. But I don't think we will expect to see these numbers coming v
 much through in the results. That's more about the total competition in the market,
 whereas to be a really (19:25-19:30).
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Thank you, Odd. Could I come back quickly just on the solvency? I mean I guess, I mean,
 it's being commented before on calls that we've seen a bit of a trend of negative
 Page 6 of 10
@@ -334,9 +316,7 @@ Date: 2018-10-24
 modeling and it features sensitivities as well, just wondering are you able to give us any
 numbers about what your assumptions are on the conversion of the paid ups?
 
-A - Trond Finn Eriksen
-
-{BIO 17132188 <GO>}
+A - Trond Finn Eriksen {BIO 17132188 <GO>}
 
 FINAL
 
@@ -349,10 +329,7 @@ model, so this was but one of them. So we can hardly go through all of the diﬀ
 assumptions and models, but this was the most important one in making the diﬀerence in
 this quarter.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Sure. Okay, thank you very much.
 
 Operator
@@ -361,10 +338,7 @@ line is now open.
 
 Bloomberg Transcript
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
-
+Q - Matti Ahokas {BIO 2037723 <GO>}
 Yes, good afternoon. Two questions, please. Firstly, on the cost side the nominal ﬂat cost
 target towards 2020, should we assume this would be kind of the cost in the diﬀerent
 business segments would be at the same levels or how will this move, in your opinion,
@@ -406,20 +380,14 @@ Skagen funds (00:23:08), you can follow the performance on each one of the funds
 daily basis, both on absolute terms and relative terms, and that will give you an indication
 as to the development.
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
-
+Q - Matti Ahokas {BIO 2037723 <GO>}
 So, basically you're saying, Lars, that the Skagen fund, the absolute performance has
 been great, but the relative performance has been better in Q4?
 
 A - Lars Aasulv Løddesøl
 That's correct.
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
-
+Q - Matti Ahokas {BIO 2037723 <GO>}
 Thanks.
 
 Bloomberg Transcript
@@ -428,10 +396,7 @@ Operator
 Next question comes from Ashik Musaddi from JPMorgan. Please, go ahead. Your line is
 now open.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Hi, good afternoon. Just one question on Skagen again, I mean, you mentioned that
 fourth quarter relative performance looks okay and in the ﬁrst three quarters, I think you
 mentioned outperformance of 1.5% or something. So, I mean all together, how should we
@@ -441,10 +406,7 @@ And secondly, if I look at your capital generation, it used to be around, say, 1
 net of dividend and in this quarter it was 1.4%. So, how much of this is just rounding error
 and how much of that is some drop quarter-on-quarter?
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Well, maybe I should start on Skagen. I think, ﬁrst of all, last year you saw that Skagen had
 a performance quite closer to the real premium basis and that gave – I believe it's given
 the result of around NOK 200 million in the last quarter. This year it's been
@@ -471,25 +433,16 @@ if you can really perform as we intend to do out far (25:55). On top of that, go
 you will have absolutely also an uplift from that level. It's not what we expect for the
 portfolio.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 On solvency generation, we have said that we expect to create 10 percentage points from
 operational earnings each year before dividends. With 1.4% after dividends, we're a little
 bit higher than that level with approximately 12 percentage points run rate a year. So, I
 guess we are broadly in line with the guidance given.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. Perfect. Thank you.
 
 Bloomberg Transcript
@@ -498,10 +451,7 @@ Operator
 Ladies and gentlemen, there's nobody to queue at the moment. Thank you. There is no
 further questions coming through, so we'll hand the call back to you. Thank you.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 We just want to say, thank you for everyone for joining the call and also, please feel free to
 reach out to us if you have any further questions. So, with that, we would like to wish all a
 nice afternoon. Thank you.

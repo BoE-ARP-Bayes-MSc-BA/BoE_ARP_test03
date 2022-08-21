@@ -36,10 +36,7 @@ conference is being recorded.
 At this time, I would like to hand the call over to your host today, Mr. Jean-Jacques
 Henchoz, Chief Executive Officer. Please go ahead, sir.
 
-Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Good morning, ladies and gentlemen. Let me also welcome you to our conference call,
 presenting our results for the first nine months of this year. As usual, I will start with a short
 summary, before our CFO, Roland Vogel will go over the financials in detail. For the Q&A,
@@ -111,10 +108,7 @@ who will explain these figures in more detail.
 
 FINAL
 
-Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+Roland Helmut Vogel {BIO 16342285 <GO>}
 Thank you Jean-Jacques, and good morning to everybody. As usual, I will walk you
 through the financials in a bit more detail and try to keep my comments brief. We
 recorded strong premium growth in the first nine months of 2019. Adjusted for currency
@@ -296,10 +290,7 @@ Bloomberg Transcript
 I think this concludes my remarks, and I'll leave the target matrix and the outlook to you,
 Jean-Jacques.
 
-Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Thank you very much Roland. On slide 17, the target matrix reflects the overall good
 performance of our business in the nine months of this year. Roland explained the
 reasons for the small miss on two of the profitability targets in P&C, but I have to consider
@@ -384,10 +375,7 @@ ahead.
 
 FINAL
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 All right. Good morning, thanks for taking my questions. First one is just on the major loss
 budget. Thanks for the color that you've given around increasing that to EUR975 million
 from EUR875 million. Could you maybe explain in a little bit more detail, where kind of you
@@ -403,10 +391,7 @@ years. Thank you.
 
 Bloomberg Transcript
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Well, good morning. This is Sven Althoff. I will take the major loss budget question. As
 Roland has explained, when he talked about the growth in 2019, we do expect a similar
 picture in 2020 i.e. diversified growth from a peril point of view. So, we expect the
@@ -416,26 +401,17 @@ covering many of the peak peril scenario. So the Asia, North America and Austral
 feature the growth pattern, so there is not a particular area where the increase in major
 loss budget will come from, but more organic proportional growth.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 If I may add to that, this is Roland. You have to bear in mind that we set our large loss
 budget early in the year based on the plan, we had more than expected growth in 2019.
 So, in that respect the increase which we now have in 2020 also includes a little bit of the
 out performance of 2019 and does not reflect an increased risk appetite as we
 mentioned before, but it reflects the overall growth we see.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Makes sense. Thanks very much.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Maybe on the (inaudible) on the life side. Of course, this year is quite pleasing, especially
 with the additional real estate of participation profit. The run rate, we would expect should
 be under normal circumstances, well above the EUR400 million. So this means for 2019,
@@ -453,9 +429,7 @@ The only issue is that we had very positive variation in 2019 on the mortality c
 and we are still not certain whether this is the trend or will be seen in the future as well.
 This is why we are still guiding a little bit carefully here.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 
 FINAL
 
@@ -464,10 +438,7 @@ Thanks.
 Operator
 The next question is from James Shuck, Citi. Your line is now open. Please go ahead.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Hello, good morning. First question is around the growth rate in P&C Re. So, the GWP
 growth at nine months was 18% constant currency. I think the renewal July year-to-date
 was plus 15% at the renewal time, you didn't mention structured products as a source of
@@ -488,23 +459,14 @@ And finally, just a quick one, I didn't see a combined ratio target or guidance 
 think you do normally give one for the year ahead, you expect that to be flat on the 97%
 or maybe a bit better? Thank you.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 So, maybe I can take the first one, James, because it will be in line with the previous
 guidance 97% -- better than 97% combined ratio.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Yeah.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 I think with regard to casualty -- US casualty, we don't have the numbers or the detailed
 numbers of excess of loss to proportional and where it comes from. I think in general, I
 think when we have received the question before about our exposures here, especially
@@ -523,10 +485,7 @@ reason to assume that this comfortable position, we are in today is changing.
 
 FINAL
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 And on the advanced solutions business, we -- this business practice is contributing
 between EUR350 million of growth for this year, and the reason why we have not
 reported this during our call on the 1-1 renewals is twofold. First, we never talk about
@@ -537,16 +496,11 @@ negotiating a month or so into the New Year and then have the effective stage --
 at a later stage, so that's why it didn't feature that prominently when we talked about 1/1
 renewals.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 I was looking at the July year-to-date renewals actually, which was plus 15%. I'm wondering
 how much of that comes from structured and tailored transactions?
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 
 Bloomberg Transcript
 
@@ -555,20 +509,14 @@ growth -- after the nine months was a little bit more prominent -- or the contri
 little bit more prominent from the traditional reinsurance side, and a little bit less, so from
 advanced solutions because that was very strong in the first half year.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Okay, that was great, thank you very much.
 
 Operator
 The next question is from Vinit Malhotra, Mediobanca. Your line is now open, please go
 ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you very much. Just one numbers question and one probably volume question. On
 the numbers, the AUM is interesting nearly EUR3 billion growth from EUR45 billion to
 EUR48 billion in this three months window, so we're in 3Q standalone. I mean, the
@@ -597,10 +545,7 @@ comments around fourth quarter have no mention obviously around California wildf
 which is still very early, I presume but would that change some of this guidance for 2019?
 Just a comment would help. Thank you.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 So, if I start with the AUM Vinit, I think if you -- for instance, at the presentation there is
 some guidance in the components, but I think you have already referred to the EUR1.8
 million development of unrealized gains and that is really the fixed income portfolio. I think
@@ -624,16 +569,10 @@ On California wildfires when -- a bit more but, of course too early to say, but 
 expect a repeat of what happened at the previous years. This is expected to be much
 lower in comparison in terms of exposure for Hannover Re.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay, thank you.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 To confirm that, of course we are very closely observing the various fires, we are talking
 more than half a dozen of fires right now. When we look at the structures that have been
 destroyed so far, they are at a relatively low level compared to the wildfire events in 2017
@@ -651,27 +590,18 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2019-11-06
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you. And can I assume that even if -- I mean at the moment, you're EUR1.25 billion
 greater than EUR1.25 billion for 2019, assuming California fires are as they are and you
 have some loss for that in the..
 
 FINAL
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 We don't have any losses related to California wildfire at this stage. The number does not
 include any specific item for that potential loss.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Vinit, if I may add, I was trying to give some indications. We started into the fourth quarter
 with the remaining budget of EUR330 million. If we assume that some of that is digested
 by (inaudible) that will at least leave us with some buffers there. So, there is room for a
@@ -680,10 +610,7 @@ the beginning of November today, then I think we would take to our usual guidanc
 we exceed the large loss budget remarkably that could have an impact on the year-end
 result. But today, we see that there is still room for more losses in the large loss budget.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you very much for the clarification. Thank you.
 
 Bloomberg Transcript
@@ -692,10 +619,7 @@ Operator
 The next question is from Farooq Hanif, Credit Suisse. Your line is now open, please go
 ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi everybody. Thank you very much. I just wanted to return to US casualty. What's your kind
 of explanation for the sort of double message that we're gathering. So, the US primary
 carriers really seem to be extremely worried about, medical malpractice and whole variety
@@ -709,10 +633,7 @@ have thought that with the pricing that we're seeing, you'd be more than compens
 for that. So, I just wondered to what extent you are just being kind of conservative there.
 That's it for me. Thank you very much.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Okay. I will take the US casualty question. I wouldn't say that we are relaxed would be the
 right expression. I would say we feel that we are prudently reserved, given our ultimate
 
@@ -734,10 +655,7 @@ have also decided to book additional reserves over and above our initial loss ra
 So, from that perspective, there is a lot of development, but at this stage, we are
 comfortable with our overall and aggregated loss reserving on the US casualty.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 And to come back on the large loss budget one more time. Yes, we are expecting better
 prices, still I think we also have been commenting on that more than once that overall, we
 see that various -- various areas are still not in an area where we would increase our
@@ -745,10 +663,7 @@ writings drastically. In that regard, if there are really opportunities arising 
 take them on. But we are not expecting our risk appetite on the Cat XL increasing, so
 remarkably that this would justify an even higher increase of the large loss budget here.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Thank you very much. Thank you.
 
 Operator
@@ -758,10 +673,7 @@ Bloomberg Transcript
 The next question is from Sami Taipalus of Goldman Sachs. Your line is now open. Please
 go ahead.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 You mentioned, underlying profit increase of about EUR100 million from the EUR1.1 billion
 to the initial guidance to the EUR1.2 billion guidance, but if I look at the sort of top line
 development in P&C, which is maybe 20% year-on-year and the strong development in
@@ -774,10 +686,7 @@ negative view in your communication there. Is that just related to the loss expe
 you're currently seeing or is that a comment on what you see the rate efficacy being in
 the market at the moment? Thank you.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Well, I think to come back to the latter question, this is really a reflection of the current
 result, this is not a reflection of the market. So, these arrows on the slide is a reflection of
 the current result and not of our market. With regards to the guidance, I can also add that
@@ -803,24 +712,15 @@ mentioned the positive components of our plan and in this regard, you might cons
 that as being conservative, but again it is late 2019, and we'd rather outperform the
 guidance than underperform.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Sorry, just to interject, did the initial EUR1.1 billion guidance for 2019 include an investment
 return of 3.5% or assume an investment return of 3.5%?
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 I think, you're right, but it was higher and it did include more extraordinary investment
 gains than -- and the 2020 plan.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Okay, okay, cool. Great, thank you.
 
 Bloomberg Transcript
@@ -829,10 +729,7 @@ Operator
 The next question is from Andreas Schafer, Bankhaus Lampe. Your line is now open.
 Please go ahead.
 
-Q - Andreas Schaf er
-
-{BIO 21186558 <GO>}
-
+Q - Andreas Schaf er {BIO 21186558 <GO>}
 Thank you. Just one question regarding your guidance for 2019 with a combined ratio of
 still 97% after having reached 98.6% after Q3, so that implies let's say a combined ratio of
 92% to 93% for Q4. Do you expect any, let's say reserve releases above the normal level
@@ -840,10 +737,7 @@ to reach the sort of combined ratio, even if you have, let's say, larger claims 
 Typhoon and Californian wildfires that seems to be still very, let's say, optimistic in my
 view.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Yes, thank you for the question. And, I will try to explain that and we've mentioned that
 the Q3 reserving exercise that there was really no reason to be very aggressive. Overall,
 we mentioned that reserving was more conservative than it was last year. And, in that
@@ -861,10 +755,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2019-11-06
 
-Q - Andreas Schaf er
-
-{BIO 21186558 <GO>}
-
+Q - Andreas Schaf er {BIO 21186558 <GO>}
 Okay, thanks a lot.
 
 FINAL
@@ -873,8 +764,7 @@ Operator
 The next question is from Thomas Fossard, HSBC. Your line is now open. Please go
 ahead.
 
-Q - Thomas Fossard
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. Good morning everyone. Just two question on my side related to the life and health
 reinsurance. The first one will be related to the US financial solutions. So, year-to-date,
 we've got a 46% increase to EUR211 million. Could you help us to better understand how
@@ -884,14 +774,9 @@ expect this 46% to go into 2020. And the second question would be related as wel
 the life and health, just a clarification. So, is your EUR1.2 billion net income for 2020 based
 on a EUR450 million EBIT profit for the life business? Thank you.
 
-A - Sven Althoff
-
 Bloomberg Transcript
 
-{BIO 1941215 <GO>}
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Thomas, let's start with the financial solutions. We have to admit that the 40% margin
 here is not a good measure, because we have to summarize all the business we have on
 financing, to financial solutions to solvency deal, under its reporting category. In absolute
@@ -901,27 +786,18 @@ terms, we expect the profitability to continue and even grow in 2020. Whether th
 these EBIT margins here. But, the profitability will continue and we expect that there will
 be a significant growth also in the mid term over the next couple of years.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 With regards for the 2020 plan Thomas, you are right that plan includes a little bit more
 than the EUR400 million, but not much more. Does that answer your question?
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yeah, thanks, Roland. Thanks.
 
 Operator
 The next question is from Vikram Gandhi, Societe Generale. Your line is now open. Please
 go ahead.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hello, thank you for taking my questions. I apologize at the onset, in case I'm are asking
 something that you've already mentioned in your opening remarks, because I joined the
 call late. So, my first question is based on the movement in the reported combined ratios
@@ -948,10 +824,7 @@ EUR400 million, but not significantly more than EUR400 million and that's a bit 
 surprise and then overall, EUR1.1 billion to EUR1.2 billion net income increase also seems to
 be a bit conservative. So, any thoughts there would be really helpful. Thank you.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 So Vikram, if I start with the run off; I did mention it in my presentation that we had a
 regular run off result which does include Jebi. So, it was a little bit lower than the regular,
 but other than that, we did not have any extraordinary effect. I would also not subscribe to
@@ -964,20 +837,14 @@ Bloomberg Transcript
 So, in that regard, we do not see that the run-off result is slowing down, and as long as
 the redundancies on a comparable level that should not be the case. I think that was -that was my question, if I -- the loss assumptions Sven, you will?
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Yes, happy to take those. On both Dorian and Faxai, we have done bottom up estimates,
 rather than taking a market loss as a starting point to better reflect the individual
 exposure of our individual clients. But, if you want to translate that into a market loss, it's
 on both -- somewhere between $5 billion and $7 billion. On Faxai, obviously completely -the Typhoon in Japan driven on Dorian, the bulk of the $5 billion to $7 billion is from the
 Bahamas, this is a very limited contribution from the US part of that loss.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Yes. So on the guidance, just back to our previous remarks, clearly you have one-offs this
 year which make the growth in our net results for next year I would say realistic, it's not
 that easy to beat. And we took account of the fact that there is growth momentum, there
@@ -986,10 +853,7 @@ competitive market condition, if prices do improve materially that there will be
 capital entering the system. And for that reason, we didn't want to be too aggressive on
 particularly on our top line guidance.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 If I may add to that, that you should be aware that with our initial reservings, additional
 premium in P&C does not immediately lead to a higher profitability in the first year,
 Page 16 of 25
@@ -1006,10 +870,7 @@ us conservative, we don't take that as an offense.
 
 FINAL
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay, that's great Roland. If I could just come back to the first point. And maybe, we can
 take this discussion offline, if you want. The first-half 2019 combined ratio reported one is
 96.7% and the 9 month is 98.6%. So, nearly 2 percentage point increase just because of
@@ -1019,9 +880,7 @@ can drive 2 percentage point increase in the combined ratio from first half of n
 If the reserve leases haven't or the run-off result hasn't been a lot lesser than what it used
 to be. I think the attritional has weakened a bit maybe, I don't know.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 
 Bloomberg Transcript
 
@@ -1034,10 +893,7 @@ loss budget against that one credit loss, but again it's challenging to really s
 ultimate loss ratio picks, across the whole portfolio and moreover, we also indicated that
 we had been a bit more conservative than last year.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay. Thanks very much.
 
 Operator
@@ -1053,10 +909,7 @@ Secondly, mortality, could you give us a normalized EBIT margin for the new busi
 are writing currently, also in the context of recent very favorable underwriting results here
 in this business line. Thank you.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Yes, let's start with the longevity, you might have seen that mortality got a little bit worse,
 especially in the UK in the last couple of year, some of the direct writers have even
 Page 17 of 25
@@ -1086,10 +939,7 @@ the same return on equity, as we have on the P&C side that we have with all our 
 Q - Roland Pf ander
 But did it improve lately, mortality margins on the new business, it looks like at least?
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Definitely, you see the results from the management actions in the US, but we don't see
 mortality rates improving in general worldwide.
 
@@ -1098,20 +948,14 @@ Bloomberg Transcript
 Q - Roland Pf ander
 Okay, thank you.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 It is strong as ever.
 
 Operator
 Next question is from Michael Haid, Commerzbank. Your line is now open. Please go
 ahead.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Thank you very much. Good morning to everyone. Two questions, first on the K session,
 the K session does not apparently apply to the Bahamas. Still the Bahamas is North
 Atlantic hurricane risk. Is there any reason why you treat the US differently than the
@@ -1131,10 +975,7 @@ Date: 2019-11-06
 
 FINAL
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Yes, thank you very much for those questions. Starting with the K question, why it's
 Bahamas not included in K. As Roland already explained, when he talked about Dorian,
 the bulk of our exposure in the Bahamas and the Caribbean Islands in general that's
@@ -1163,29 +1004,20 @@ So yes, you can expect significant rate increases. But we also have to be mindfu
 percentage increase on the absolute premium that we will be able to generate that will
 be impacted by those risk transfer consideration by the Japanese client.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Thank you very much. Fantastic.
 
 Operator
 The next question is from Emanuele Musio, Morgan Stanley, your line is now open. Please
 go ahead.
 
-Q - Emanuele Musio
-
-{BIO 19781440 <GO>}
-
+Q - Emanuele Musio {BIO 19781440 <GO>}
 I have one question, given the strong pricing improvement in retro, and given pricing
 improvements in reinsurance are lagging; I'm wondering whether this might have an
 impact on your retrocession appetite and-or whether this might have an impact on your
 cat budget, looking ahead? Thank you.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Well, no intention to place similar retro structures compared to what we placed the last
 couple of years. Of course, we have the financial flexibility that in case the retro market
 charge increases, which is not in line with our view on the exposure of those particular
@@ -1207,20 +1039,14 @@ I think we have taken a prudent view on what we can expect on further rate incre
 our plan is driven on that prudent view, if we should have been too pessimistic, we would
 be able to take full advantage of the development and write more business.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Maybe one element to consider is, of course that the exposed markets have usually
 renewals on April 1 and July 1 for North America, and that gives us ample time to prepare
 for the renewals and have an appropriate strategy to link the price of the retro market,
 with the pricing we will apply for the renewals. So, we remain confident from that
 perspective as well.
 
-Q - Emanuele Musio
-
-{BIO 19781440 <GO>}
-
+Q - Emanuele Musio {BIO 19781440 <GO>}
 Okay, thank you.
 
 Operator
@@ -1230,20 +1056,14 @@ Bloomberg Transcript
 And we have another question from Thomas Fossard, HSBC. Your line is now open. Please
 go ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yeah, sorry, just a question on the surety loss on Thomas Cook. If we understand that's
 not part of the K session, but still an individual loss on the credit and surety portfolio of
 above EUR100 million is still a significant loss. And I'm pretty surprised that in fact there is
 no specific retro protection in place to cap this single loss exposure. So, maybe could you
 share a bit more how you're protecting your book in this business line? Thank you.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Yes. Very happy to do that. Of course, loss of more than EUR100 million is a very
 significant loss, you're absolutely right in that. But, it's fully in line with our risk appetite for
 our specialty classes where we are expecting that from time to time. We will experience
@@ -1256,9 +1076,7 @@ always came to the conclusion that it would be much more beneficial for us to wr
 gross exposure rather than the net position by what we felt is yeah too expensively priced
 small retro solutions.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Page 20 of 25
 
 
@@ -1269,9 +1087,7 @@ Date: 2019-11-06
 
 Okay, thank you.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 
 FINAL
 
@@ -1281,18 +1097,13 @@ what we can fully expect from time to time.
 Operator
 And the next question is from Jonny Urwin, UBS. Your line is now open. Please go ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hello, thanks. Just a quick one, please. Just to clarify, so what drove this additional
 reserving conservatism during the quarter? Was there any specific lines, i.e., have you
 increased loss picks on casualty like some of the US primaries are doing, or is it just
 replenishing the buffers of some erosion in recent years. Thank you.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
+A - Sven Althoff {BIO 19104724 <GO>}
 
 Bloomberg Transcript
 
@@ -1301,19 +1112,13 @@ the books, for Q3, we saw Hagibis already come in. So, in that respect and if yo
 contribution from life and health and from the investment side, it did not really make
 sense to be overly aggressive on the P&C reserving.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Okay, thank you. I guess, the bearish read of that is the buffers have come down in the
 last three years like potentially, i.e., are you not happy to see them fall further or is it just a
 bit more opportunistic. It sounds like it's been more opportunistic than that, you've had a
 good result in life, so you're going to take some of the benefits P&C reserves.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Again, not knowing how what Hagibis and the rest of the fourth quarter will bring to us. Of
 course, with the very positive contribution from the other side, this could have been an
 opportunity to fill the buffers again and increase those and we wanted to be prepared to
@@ -1321,16 +1126,10 @@ do that. And on the other hand, again with now the fourth quarter being open and
 how Hagibis is coming, we just wanted to make sure that we do not see a Jebi
 development again.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Okay, thank you. And you have increased loss picks on casualty?
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Not that I'm aware of. We had, again I mentioned that before we had a close look, also
 driven a little bit by more than one of the question from your community, our reserving
 actuary is looked at it one more time. We see that the casualty reserves also rolling
@@ -1345,9 +1144,7 @@ Date: 2019-11-06
 forward a little bit from the older years, so there was no reason to take action based on
 the information we have today.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
+Q - Jonny Urwin {BIO 17445508 <GO>}
 
 FINAL
 
@@ -1357,10 +1154,7 @@ Operator
 And we have a follow-up question from James Shuck, Citi. Your line is now open. Please
 go ahead.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Sorry, I was on mute. Obviously, just very quickly. Sorry for the follow-up; the 98.6%
 combined ratio, nine months. Now, the bank is in normal run rate for large losses. You've
 intimated that the PYD for the nine months was broadly in line with previous years, subject
@@ -1375,10 +1169,7 @@ Bloomberg Transcript
 So, if you just help me understand why that's not running below EUR97 million on a kind of
 look through basis that would be helpful. Thank you.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 I think, I can only reiterate, I think what I said at the last one it was -- it was the -- to let the
 credit loss kind of run-off against a budget was not easy to determine in the middle of a
 late third quarter. We took a little bit -- a conservative position, especially on the cat
@@ -1389,10 +1180,7 @@ loss picks, based on the concrete casualty situations. But overall, again, we to
 a more conservative approach. And as I also mentioned before the underlying non-cat or
 non-large loss experience was also a little bit worse than in the previous years.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Okay, that's helpful. Thank you.
 
 Operator
@@ -1407,71 +1195,48 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2019-11-06
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hi, thank you for the opportunity. Just a really small one. Can you remind us, if there is any
 retro protection on your casualty portfolio?
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
+A - Sven Althoff {BIO 19104724 <GO>}
 
 FINAL
 
 No, there isn't.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay, thanks so much.
 
 Operator
 And the next question is from Vinit Malhotra, Mediobanca. Your line is now open. Please
 go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you. Just to quickly check the nat cat -- the large loss budget increase, is there -can I assume that the proportion between man-made and nat cat is similar or is there a
 change in that? So, I remember it used to be EUR660 million nat cat and the remaining
 was man-made, can you confirm that as well, please?
 
 Bloomberg Transcript
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Yes. The current split on the EUR875 million is EUR700 million nat cat and EUR175 million
 from the man-made side for the addition of EUR100 million this split is..
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 I think, it's nearly similar. It might have moved a little bit to the man-made, because
 experience of last year was that we were sufficient on the cat side and a little bit deficient
 more than once on the man-made side, but I don't have the split with me, but it should
 not be too far away from each other. But moving slightly to the man-made side.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay, thanks very much.
 
 Operator
 And the next question is from Paris Hadjiantonis, Exane BNP Paribas. Your line is now open.
 Please go ahead.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Yes, hi, good morning from my side as well. The first question would be on life and health.
 In Q2, you were highlighting that there was an effect from a number of cases that were in
 arbitration and we didn't really hear an update on whether or not there has been any kind
@@ -1493,23 +1258,15 @@ is that you have more than EUR1 billion of unrealized gains, which are not relat
 income. So, I'm wondering whether or not there is any plan for some benefit from
 realizations coming up. Thank you.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Just ask again about your question about recapture in the US, what exactly was the
 question here?
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 So, in Q2, you were highlighting that you are in arbitration with a number of clients -- for a
 number of contracts, so an update on what have been the developments would be good.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
+A - Sven Althoff {BIO 19104724 <GO>}
 
 Bloomberg Transcript
 
@@ -1522,10 +1279,7 @@ The business is either recaptured or the rate increases accepted in both cases, 
 either get back the losses or we get the additional premium increases. But, this will be
 well into 2020, if not even 2021.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 It's good to come back to the yield assumptions for 2020. Europe, as I mentioned before,
 it is more or less entirely based on ordinary investment income. You mentioned that there
 is -- there are more value -- valuation reserves. So, we are working right now on
@@ -1538,10 +1292,7 @@ would rather concentrate in kind of harvesting ordinary yields also in the futur
 than plan for contributions from sale of investments. So, in this regard, is there a
 potential? Yes. Are there plans? No. At least, not to a remarkable extent.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 That's clear. Thank you.
 
 Page 24 of 25
@@ -1552,9 +1303,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2019-11-06
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
+A - Sven Althoff {BIO 19104724 <GO>}
 
 FINAL
 
@@ -1563,19 +1312,13 @@ fourth quarter 2019. This is what we originally expected in the third quarter, t
 little bit. This would be about EUR30 million plus from one of the companies, which might
 go to arbitration. They will definitely go to arbitration if it does not happen in Q4.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Thanks for highlighting that.
 
 Operator
 There are no further questions at this time, so I hand back to the speakers.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Well, thank you very much for the Q&A session, for listening in. I think, we've covered the
 ground very well, the P&C profitability has been a topic, we remain of the view that we
 have a very healthy portfolio. And indeed, there is conservative reserving implied in the

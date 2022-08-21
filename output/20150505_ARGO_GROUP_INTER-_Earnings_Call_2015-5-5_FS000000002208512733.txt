@@ -26,10 +26,7 @@ Call. All participants will be in listen-only mode. After today's presentation, 
 opportunity to ask questions. Please note this event is being recorded.
 I would now like to turn the conference over to Susan Spivak Bernstein. Please go ahead.
 
-Susan Spivak Bernstein
-
-{BIO 1514699 <GO>}
-
+Susan Spivak Bernstein {BIO 1514699 <GO>}
 Thank you, and good morning. Welcome to Argo Group's conference call for the first
 quarter 2015 results. Last night we issued a press release on earnings, which is available in
 the Investors section of our website at www.argolimited.com. With me on the call today is
@@ -62,10 +59,7 @@ FINAL
 With that, I'm pleased to turn the call over to Mark Watson, Chief Executive Officer of
 Argo Group. Mark?
 
-Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+Mark E. Watson {BIO 1463509 <GO>}
 Thank you, Susan, and good morning, everyone, and welcome to our first quarter
 earnings call. I'd like to share my thoughts regarding the quarter, after which Jay Bullock,
 our CFO, will add a bit more detailed commentary to the financial results. We look forward
@@ -201,10 +195,7 @@ efficiencies across our organization as we get to scale and our focus remains on
 generating book value for our shareholders.
 With that, I will turn the call over to our Chief Financial Officer, Jay Bullock.
 
-Jay Stanley Bullock
-
-{BIO 3644311 <GO>}
-
+Jay Stanley Bullock {BIO 3644311 <GO>}
 Thanks, Mark, and good morning, everyone. I'll quickly provide some clarifying detail on
 the financials and then we'll open it up to Q&A.
 In the first quarter of 2015, we reported a significant improvement in underwriting income,
@@ -286,20 +277,14 @@ Thank you. Our first question comes Arash Soleimani of KBW.
 
 Bloomberg Transcript
 
-Q - Arash Soleimani
-
-{BIO 18869554 <GO>}
-
+Q - Arash Soleimani {BIO 18869554 <GO>}
 Thanks and good morning. Just a couple of questions. First you had mentioned the five
 points of underwriting profit that you talked about before as well. I just wanted to know, is
 that still the goal in the current operating environment and how much runway is there to
 get there within both the core loss ratio and expense ratio? Where do you think most of
 that is coming from?
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson {BIO 1463509 <GO>}
 Well, as Jay was saying a minute ago, I kind of think we're there this year. I think that we'll
 continue to see improvement in our underwriting margin, both from loss ratio, as we
 continue improving the underwriting mix in our portfolio, and improvement in the expense
@@ -307,19 +292,13 @@ ratio as we continue to get to scale. And then the expense ratio was more of a f
 top line than anything else. But as we continue growing, we think we'll continue seeing the
 expense ratio come down, as expenses don't grow at the same rate as revenue.
 
-Q - Arash Soleimani
-
-{BIO 18869554 <GO>}
-
+Q - Arash Soleimani {BIO 18869554 <GO>}
 Okay. And how much of the top line would you say is attributable to – I know you talked to
 some of the technology investments that make it easier to do business with you. To what
 extent is that actually benefiting your top line? Would you say that's a major contributor to
 the top line or more of a kind of partial contributor?
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson {BIO 1463509 <GO>}
 In the first quarter of this year, if I use your words, I'll say it was a partial contributor. We
 generated a number of new policies in our E&S business from technology. Most of the
 growth in the quarter though came from changing how we do business with our business
@@ -343,59 +322,35 @@ Although we did see it in the first quarter, but I think as each quarter goes by
 that more and more, and that will become even more evident in the first quarter of next
 year, which is not very far away.
 
-Q - Arash Soleimani
-
-{BIO 18869554 <GO>}
-
+Q - Arash Soleimani {BIO 18869554 <GO>}
 Right. And just a quick numbers question. Which accident years did the Commercial
 Specialty development come from? I know you said it was severity of liability claims, but
 which accident years?
 
-A - Jay Stanley Bullock
-
-{BIO 3644311 <GO>}
-
+A - Jay Stanley Bullock {BIO 3644311 <GO>}
 Yeah, primarily from 2010 and 2011.
 
-Q - Arash Soleimani
-
-{BIO 18869554 <GO>}
-
+Q - Arash Soleimani {BIO 18869554 <GO>}
 Okay.
 
 Bloomberg Transcript
 
-A - Jay Stanley Bullock
-
-{BIO 3644311 <GO>}
-
+A - Jay Stanley Bullock {BIO 3644311 <GO>}
 I think one of things that I would note about that business is the 2013 to 2014 accident
 years are materially better than where we're seeing this severity come from. And they're
 – they now have enough age to it that I can say that with a reasonable level of confidence.
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson {BIO 1463509 <GO>}
 Yeah. In fact that's a good point. If you look at our loss picks for the last couple of years,
 they've been holding pretty steady and, across the board, they've been in the mid-tohigh 50s or, in some cases, low-60s, but mainly mid-to-high 50s.
 
-Q - Arash Soleimani
-
-{BIO 18869554 <GO>}
-
+Q - Arash Soleimani {BIO 18869554 <GO>}
 All right. Great. Thank you so much for the answers, and congrats on the quarter.
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson {BIO 1463509 <GO>}
 Thank you.
 
-A - Jay Stanley Bullock
-
-{BIO 3644311 <GO>}
-
+A - Jay Stanley Bullock {BIO 3644311 <GO>}
 Thank you.
 
 Operator
@@ -412,10 +367,7 @@ Our next question comes from Greg Peters at Raymond James.
 
 FINAL
 
-Q - Charles Gregory Peters
-
-{BIO 4656608 <GO>}
-
+Q - Charles Gregory Peters {BIO 4656608 <GO>}
 >: Good morning. Thank you for hosting the call and congratulations on your quarter. I
 guess, first of all, stepping back, as we go through this earnings season, a number of
 companies have commented on the impact of foreign exchange and Argo Group is no
@@ -423,9 +375,7 @@ different, having offshore businesses. And I'm wondering about not just what hap
 the first quarter but your perspective on foreign exchange rate and their impact on your
 results for the balance of the year?
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
+A - Mark E. Watson {BIO 1463509 <GO>}
 
 Bloomberg Transcript
 
@@ -447,10 +397,7 @@ strength over the last couple of years and the likely continued improvement in t
 over European currencies, I guess the euro and the pound over the next year or so with
 what the ECB is doing this year. Jay, do you want to add anything?
 
-A - Jay Stanley Bullock
-
-{BIO 3644311 <GO>}
-
+A - Jay Stanley Bullock {BIO 3644311 <GO>}
 No, I would just say it's a fair observation. We did mention it in several different places.
 And the reason is because it shows up in several different places. And at the end of the
 day, you take a step back and you look at sort of the total enterprise and you judge what
@@ -461,10 +408,7 @@ setup to reasonably effectively deal with it. That said, I do think that Mark an
 that there is going to continue to be dollar strength, and so we may adjust our strategies
 to account for that.
 
-Q - Charles Gregory Peters
-
-{BIO 4656608 <GO>}
-
+Q - Charles Gregory Peters {BIO 4656608 <GO>}
 >: Okay. And on the International Specialty segment, Mark, you highlighted really some
 unique and unusual market softness that's been ongoing now for some time. I'm just
 curious from a corporate perspective, at this juncture, have you, management team and
@@ -482,10 +426,7 @@ going to bottom out for Argo Group going forward?
 
 FINAL
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson {BIO 1463509 <GO>}
 Well, where is it going to bottom out for the property cat reinsurance market in general, I
 don't know. Here's what I do know. What I do know is that, we really like our property cat
 reinsurance portfolio and the rate that we're getting on a risk-adjusted basis as a
@@ -500,9 +441,7 @@ reinsurance pricing softens. So, that's why keep I reminding everybody we're an 
 company first and the only reason that we're in the reinsurance business is on a riskadjusted basis, we think we get a better property cat return as a reinsurer than as a direct
 insurer.
 
-Q - Charles Gregory Peters
-
-{BIO 4656608 <GO>}
+Q - Charles Gregory Peters {BIO 4656608 <GO>}
 
 Bloomberg Transcript
 
@@ -511,32 +450,20 @@ Okay. Thanks for your answers.
 Operator
 Our next question comes from Dan Farrell with Piper Jaffray.
 
-Q - Dan Farrell
-
-{BIO 4935961 <GO>}
-
+Q - Dan Farrell {BIO 4935961 <GO>}
 Hi, and good morning. You've been having some pretty consistently strong results and
 returns from your other investments. So, I was wondering if you could just update us on
 your current positioning, and then also given we're continuing to see pressure on yields
 what your thought process is going forward with regard to allocation of those
 investments? Thanks.
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson {BIO 1463509 <GO>}
 I'll start. By the way, congratulations on your new role.
 
-Q - Dan Farrell
-
-{BIO 4935961 <GO>}
-
+Q - Dan Farrell {BIO 4935961 <GO>}
 Thank you very much.
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson {BIO 1463509 <GO>}
 So, I think if you look at our portfolio, it's not that different today versus last quarter. We've
 got – of the roughly $4 billion in invested assets, $1 billion of that is in what we refer to is
 Page 9 of 13
@@ -559,10 +486,7 @@ think you'll see us continue to do that throughout the year. I'm not sure that y
 allocation in cap move that much over the year. But you may see us go from $1 billion to
 $1.1 billion or $1.2 billion. But I don't think it will be much more changed than that.
 
-Q - Dan Farrell
-
-{BIO 4935961 <GO>}
-
+Q - Dan Farrell {BIO 4935961 <GO>}
 Okay, thanks. And then just with regard to the growth outlook in the International Specialty
 segment, you obviously mentioned the pressures in reinsurance and then also some of
 the pricing pressures you're seeing in other international markets. That said, how do you
@@ -573,10 +497,7 @@ we saw? Thank you.
 
 Bloomberg Transcript
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson {BIO 1463509 <GO>}
 So, I think it's – I think in terms of how we report, you'll see most of the decline in the first
 half of the year, because that's when we underwrite most of the property cat portfolio. I
 think it'll be probably flat for the second half of the year. The two other parts of our
@@ -589,10 +510,7 @@ some of the changes that we wanted to make to our product mix in Brazil, we've f
 now. And actually our Chief Underwriting Officer, Axel Schmidt spent a fair amount of time
 in Brazil with the team there. Axel, maybe you can just talk about Brazil for a minute.
 
-A - Axel Schmidt
-
-{BIO 19499069 <GO>}
-
+A - Axel Schmidt {BIO 19499069 <GO>}
 Thank you, Mark. Happy to do so. Yes, I think whilst we see the country in a difficult
 situation really getting to or being in a recession. We still understand and see which lines
 of businesses are more attractive relative to other ones. So, property, for example is,
@@ -613,18 +531,12 @@ Company N ame: Argo Group I nternational H oldings L td
 Company Ticker: ARGO US Equity
 Date: 2015-05-05
 
-Q - Dan Farrell
-
-{BIO 4935961 <GO>}
-
+Q - Dan Farrell {BIO 4935961 <GO>}
 That's helpful. Thank you very much.
 
 FINAL
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson {BIO 1463509 <GO>}
 If I could just add one more thing. What's interesting is our business in Brazil is evolving to
 look more like our business in the U.S. than what we underwrite here in Bermuda and in
 the UK, which means we're writing more small-to-medium size businesses that are less
@@ -633,10 +545,7 @@ good team in Brazil. So, I actually think that as we get towards the end of the 
 we'll see things improving down there in terms of growth in premium and our financial
 results in general.
 
-Q - Dan Farrell
-
-{BIO 4935961 <GO>}
-
+Q - Dan Farrell {BIO 4935961 <GO>}
 Hey, great. Thank you.
 
 Operator
@@ -644,20 +553,14 @@ The next question comes from Greg Peters of Raymond James.
 
 Bloomberg Transcript
 
-Q - Charles Gregory Peters
-
-{BIO 4656608 <GO>}
-
+Q - Charles Gregory Peters {BIO 4656608 <GO>}
 I thought I'd circle back with couple follow-ups. First of all, it was recently I saw that a
 competitor announced an acquisition of a company called Unified Grocers. And whenever
 I see a headline of the insurance industry and grocers, I think of Argo Group. And I'm just
 wondering if you could just provide color on your business in the grocers market and what
 might be stimulating interest by other parties in that area of the market?
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson {BIO 1463509 <GO>}
 I have no idea why other parties would be interested in that market, but I'm glad you
 asked the question, because one of the – I overlook, sometimes, highlighting some of the
 businesses where technology is also playing a bigger role, and that's one of them. And
@@ -671,10 +574,7 @@ services we can provide them and then use our claims organization to help mitiga
 once the claims happened on the back-end. So, actually we looked at that – we look at the
 risk-managed part of the grocery business as a growth opportunity for us.
 
-Q - Charles Gregory Peters
-
-{BIO 4656608 <GO>}
-
+Q - Charles Gregory Peters {BIO 4656608 <GO>}
 And just broaden that comment or the color on M&A, I think within your E&S business you
 benefited from a renewal rights transaction. Maybe you can build-off some color on that
 
@@ -688,9 +588,7 @@ Date: 2015-05-05
 
 and then just talk broadly on what you're seeing on the M&A side?
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
+A - Mark E. Watson {BIO 1463509 <GO>}
 
 FINAL
 
@@ -698,17 +596,11 @@ Okay. So, that brought in a few million dollars of premium. Most of the growth c
 our casualty portfolio within E&S. As for M&A, we're all watching the same thing. There's
 plenty of motivated sellers and plenty of motivated buyers, and there's a lot going on.
 
-Q - Charles Gregory Peters
-
-{BIO 4656608 <GO>}
-
+Q - Charles Gregory Peters {BIO 4656608 <GO>}
 Has the pipeline for Argo Group picked up? Have you've been involved in more active
 discussions with targets that you might be interested in, or is it just consistent ?
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson {BIO 1463509 <GO>}
 No, Greg, the pipeline is about as full today as it's been in the last couple of years in
 terms of acquisition opportunities. You may recall a few quarters ago, we commented on
 our level of activity, but just not being able to close anything because prices just didn't
@@ -717,35 +609,24 @@ close on a couple of strategic investments in a couple of ongoing businesses and
 startup. So, I'm actually a little more optimistic, given what's in the funnel this year that that
 will be accretive to the company at some point during the course of the year.
 
-Q - Charles Gregory Peters
-
-{BIO 4656608 <GO>}
+Q - Charles Gregory Peters {BIO 4656608 <GO>}
 
 Bloomberg Transcript
 
 So, it sounds like the sellers expectations are coming down a little bit broadly speaking?
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson {BIO 1463509 <GO>}
 On some of the things we've been looking at for a while, yes, I'd say that's the case. But
 we still have plenty of sellers who are looking for the lifetime achievement award.
 
-Q - Charles Gregory Peters
-
-{BIO 4656608 <GO>}
-
+Q - Charles Gregory Peters {BIO 4656608 <GO>}
 All right. Thanks a lot.
 
 Operator
 At this time, I show no further questions. I would like to turn the conference back over to
 Mr. Watson, President and CEO for closing remarks.
 
-A - Mark E. Watson
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson {BIO 1463509 <GO>}
 Thanks, Amy. I'd like to thank everyone for joining us on the call today. As I said in my
 opening remarks, I think we're off to a good start for the year. We have a lot of work to
 do. But I think that, as I've said last year, I think this is the year where we start to see some

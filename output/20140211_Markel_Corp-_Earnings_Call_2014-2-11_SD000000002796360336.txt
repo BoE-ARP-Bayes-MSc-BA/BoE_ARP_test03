@@ -28,10 +28,7 @@ Greetings. And welcome to the Markel Corporation Fourth Quarter 2013 earnings
 conference call. I would now like to turn the call over to Mr. Tom Gayner, President and
 Chief Investment Officer. Thank you, Mr. Gayner, you may begin.
 
-Tom Gayner
-
-{BIO 1896932 <GO>}
-
+Tom Gayner {BIO 1896932 <GO>}
 Good morning. Welcome to the Markel Corporation 2013 Fourth Quarter conference call.
 My name is Tom Gayner. With me are my colleagues Anne Waleski, our Chief Financial
 Officer and my Co-Presidents Mike Crowley and Richie Whitt.
@@ -66,10 +63,7 @@ We look forward to giving you some details on the numbers and the activities tha
 into that statement and as always we look forward to your thoughtful questions. With that
 let me turn it over to Anne.
 
-Anne Waleski
-
-{BIO 16735457 <GO>}
-
+Anne Waleski {BIO 16735457 <GO>}
 Thank you, Tom. Good morning, everyone. I promise to try to be a little briefer than the
 telephone book.
 
@@ -249,10 +243,7 @@ Results for lines of business discontinued prior to or in conjunction with acqui
 continue to be reported as the other insurance discontinued line segment. At this point I
 would like to turn it over to Mike to further discuss operations.
 
-Mike Crowley
-
-{BIO 6836605 <GO>}
-
+Mike Crowley {BIO 6836605 <GO>}
 Thanks, Anne. Good morning.
 
 Page 5 of 20
@@ -329,10 +320,7 @@ brand and that is having a positive effect on all of our businesses.
 Finally I want to congratulate all Markel Alterra Associates for their hard work and terrific
 results in 2013. I'll now turn the call over to Richie.
 
-Richie Whitt
-
-{BIO 7084125 <GO>}
-
+Richie Whitt {BIO 7084125 <GO>}
 Thanks, Mike. Good morning, everybody. I'm going to start my comments with Markel
 International's 2013 results then give a brief update on the Alterra integration and then
 talk a little bit about pricing trends.
@@ -404,10 +392,7 @@ Markel will continue to push for price increases where available and necessary, 
 have the discipline and diversification to walk away from underpriced or marginal business.
 With that I'd like to turn it over to Tom.
 
-Tom Gayner
-
-{BIO 1896932 <GO>}
-
+Tom Gayner {BIO 1896932 <GO>}
 Thank you, Richie. As we said earlier, we are delighted to report these 2013 results to you.
 In our investment operations we earned 33.3% on our equity portfolio in 2013, a similar
 return to the S&P 500. Through the first three quarters we were meaningfully ahead of
@@ -496,10 +481,7 @@ Bloomberg Transcript
 Operator
 Jay Cohen, Bank of America Merrill Lynch.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 I guess one request, one question. On the request, given that you are changing your
 reporting format and most of us model this stuff quarterly, if you are able to if you could
 restate your earnings going back a couple of years quarterly just so we have something to
@@ -509,17 +491,11 @@ but it looks like overall your accident year loss ratio excluding CATS was about
 we have seen in six or seven quarters. Given some of the pricing trends in the US I might
 be heading down. I'm just wondering what is going on there?
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 What's going on there is all of Alterra is in the current accident year. So when you do the
 acquisition there is no concept of prior year to push back to.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 So simply because Alterra is now fully included or more fully included in the earned
 premium, that has been elevating it relative to the past six quarters?
 
@@ -531,9 +507,7 @@ Company N ame: M arkel Corp
 Company Ticker: M K L US Equity
 Date: 2014-02-11
 
-A - Tom Gayner
-
-{BIO 1896932 <GO>}
+A - Tom Gayner {BIO 1896932 <GO>}
 
 FINAL
 
@@ -545,61 +519,39 @@ is no prior accident year when you buy a company, and so we have been working, g
 the reserves in the right bucket, getting things to a confidence level that we are
 comfortable with. All of that is flowing through the current accident year on Alterra.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 That makes sense. I appreciate that. I do remember the Markel International acquisition
 and there was a year or two where you did have elevated accident year numbers and
 obviously that resulted in favorable development years later but I understand the strategy.
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 And Jay, as regards the restatement, we will go back and restate all of the periods that
 we show in the reports next year.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
+Q - Jay Cohen {BIO 1498813 <GO>}
 
 Bloomberg Transcript
 
 That's awesome. Is that as you go, or can you do that ahead of time and give us kind of a
 runway?
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 No. It will be as you go.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Nothing you can do ahead of time to help us? Because otherwise we can't really model it
 going forward if we don't have the year before.
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 That's not something we are planning to do.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 All right, thank you.
 
 Operator
 John Thomas, William Blair.
 
-Q - John Thomas
-
-{BIO 19259993 <GO>}
+Q - John Thomas {BIO 19259993 <GO>}
 
 Page 11 of 20
 
@@ -614,60 +566,39 @@ quarter?
 
 FINAL
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 The favorable reserve development was $24 million for specialty admitted and a piece of
 that was from Hurricane Sandy. And the other piece of that would be flowing out of the
 Worker's Comp business.
 
-Q - John Thomas
-
-{BIO 19259993 <GO>}
-
+Q - John Thomas {BIO 19259993 <GO>}
 Okay. And then Alterra there was no prior-year reserve development in the Fourth
 Quarter, it was all accident year?
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 Right. Again, there is no real prior-year concept in the first year of acquisition. So it all falls
 into the current year.
 
-Q - John Thomas
-
-{BIO 19259993 <GO>}
-
+Q - John Thomas {BIO 19259993 <GO>}
 Okay. And then specialty admitted, what would you say about how Worker's Comp is
 compared to last year on a loss trend?
 
 Bloomberg Transcript
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 Well, as we said before we have changed our mix of business in the Worker's Comp.
 Geographically we have moved out of Southern California in a lot of ways.
 We moved into more profitable states and we have also been aggressively getting rate in
 a number of states. As they have executed, as I've said a number of times on the call,
 exactly according to the plan to improve the results for FirstComp.
 
-Q - John Thomas
-
-{BIO 19259993 <GO>}
-
+Q - John Thomas {BIO 19259993 <GO>}
 All right. Thanks.
 
 Operator
 Mark Dwelle, RBC Capital Markets.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Sorry if I'll just echo what Jay Cohen said earlier on maybe if you had a full-year number
 that gave us an idea of where the sector totals were for a full-year basis. It would give us
 a little bit better idea of understanding the comps as they develop throughout the year.
@@ -682,9 +613,7 @@ Company N ame: M arkel Corp
 Company Ticker: M K L US Equity
 Date: 2014-02-11
 
-A - Richie Whitt
-
-{BIO 7084125 <GO>}
+A - Richie Whitt {BIO 7084125 <GO>}
 
 FINAL
 
@@ -697,57 +626,36 @@ saw that were off less we tried to get on, but I think a few other people have b
 $5 to $15 is sort of the average that pricing was off. I think that is about what we were
 seeing in those areas.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Okay. That's helpful.
 And then on the prior-period development, since you just gave us the specialty admitted
 would it be possible for you to give us either the full-year or the quarterly totals for the
 other three segments? Obviously 0 was Alterra, but for the London Market and the E&S?
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 Right. For E&S it was $64 million for the quarter and for London Market $40 million for the
 quarter.
 
 Bloomberg Transcript
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 $40 million? 4-0?
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 4-0, that's correct.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Okay. Thank you for that.
 Last question I had, Tom, I just wanted to verify I don't think there were any acquisitions in
 Markel Ventures that added in during the First Quarter other than previously announced
 ones obviously to the extent that they continue. There are no new ones in the Fourth
 Quarter, is that right?
 
-A - Tom Gayner
-
-{BIO 1896932 <GO>}
-
+A - Tom Gayner {BIO 1896932 <GO>}
 Yes. I'm looking -- Eagle closed, I think, late in the Third Quarter. So there would've been
 some contribution during the Fourth Quarter that would not have been there a year ago.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Correct. Okay. Thank you, that's all my questions.
 
 Page 13 of 20
@@ -763,66 +671,42 @@ Bob Farnam, Keefe, Bruyette & Woods Incorporated.
 
 FINAL
 
-Q - Bob Farnam
-
-{BIO 15005467 <GO>}
-
+Q - Bob Farnam {BIO 15005467 <GO>}
 Just to continue on the Ventures question. So can we basically take a look at the Fourth
 Quarter and use that as a run rate excluding the idea of having additional M&A and
 whatnot, but is that a comfortable run rate from there?
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 As far as any other basis of judgment that sounds good to me.
 
-Q - Bob Farnam
-
-{BIO 15005467 <GO>}
-
+Q - Bob Farnam {BIO 15005467 <GO>}
 Okay. And it looked like in the Fourth Quarter the margin in Ventures had dropped down a
 bit. Was there anything that was driving that?
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 Most of that is just mix. Different businesses have different levels of profitability to them
 and also a little bit of seasonality, but I wouldn't read too much into it.
 
 Bloomberg Transcript
 
-Q - Bob Farnam
-
-{BIO 15005467 <GO>}
-
+Q - Bob Farnam {BIO 15005467 <GO>}
 Okay. And now that you have broken down some of the other income, revenue on the -MGA revenue looked like a drop from last year to this year, so what was the driver in that?
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 That's where we have made acquisitions of MGAs and then we start converting them to
 being underwritten on Markel paper. So the MGA revenue goes away and you start seeing
 it showing up in our underwriting result. So that will continue and the next time we buy an
 MGA it will go up a little bit and then start to come back down immediately as we put it on
 our paper.
 
-Q - Bob Farnam
-
-{BIO 15005467 <GO>}
-
+Q - Bob Farnam {BIO 15005467 <GO>}
 Right. Okay.
 And for the Alterra segments I know you basically saying you can't show prior-year
 development, that it's all baked into the current accident year. Can you just give us an
 idea, a ballpark, what the prior year development would have been if you could have
 booked it as prior-year development?
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 I just don't think we have a good number to give you in that space. I think the best thing
 around Alterra is what Richie was referencing. If you take out the transaction costs and you
 look at CATS, they performed in line with expectations taking into consideration that we
@@ -839,10 +723,7 @@ conservatism that would match ours.
 
 FINAL
 
-A - Richie Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richie Whitt {BIO 7084125 <GO>}
 Yes, and I guess the other thing I would say, Bob, is we have taken -- we've been using
 these three quarters to sort of hit the buckets where we think they need to be. Not
 necessarily concerned about is it prior year, is it current year, but how do we feel about
@@ -852,16 +733,11 @@ So we are trying to line the buckets up right now. So I'm not even sure how mean
 current year prior year would be because we are moving reserves around to get the
 buckets where they need to be.
 
-Q - Bob Farnam
-
-{BIO 15005467 <GO>}
-
+Q - Bob Farnam {BIO 15005467 <GO>}
 Right. And moving the buckets, basically have the reserve moves been as expected when
 you made the deal initially?
 
-A - Richie Whitt
-
-{BIO 7084125 <GO>}
+A - Richie Whitt {BIO 7084125 <GO>}
 
 Bloomberg Transcript
 
@@ -870,35 +746,23 @@ you get down to some of those individual classes, yes we have had to move some t
 around. But to this point and I may have said this last quarter the biggest surprises been
 the lack of surprises.
 
-Q - Bob Farnam
-
-{BIO 15005467 <GO>}
-
+Q - Bob Farnam {BIO 15005467 <GO>}
 Okay. Thank you, very good. Thanks.
 
 Operator
 David West, Davenport and Company.
 
-Q - David West
-
-{BIO 1838548 <GO>}
-
+Q - David West {BIO 1838548 <GO>}
 Anne, couple of questions for you. The tax rate you mentioned 22% for the year, Q4
 looked quite a bit lower than that, can you talk about what impacted the effective tax rate
 in Q4?
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 Yes, I think, David, the biggest change in the Fourth Quarter is just going from an
 estimated to an actual. So I don't know that there was any specific event. It's just been a
 matter of taking the calculation to an actual calculation.
 
-Q - David West
-
-{BIO 1838548 <GO>}
-
+Q - David West {BIO 1838548 <GO>}
 Somewhat over accrued in prior quarters?
 Page 15 of 20
 
@@ -908,15 +772,10 @@ Company N ame: M arkel Corp
 Company Ticker: M K L US Equity
 Date: 2014-02-11
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 Right. Exactly.
 
-Q - David West
-
-{BIO 1838548 <GO>}
+Q - David West {BIO 1838548 <GO>}
 
 FINAL
 
@@ -925,53 +784,32 @@ And then somewhat of a clarification, I think you mentioned the impact of the cr
 default swap on net investment income. Did I get this right, was it a positive $11 million this
 year versus a positive $17 million last year?
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 That's correct.
 
-Q - David West
-
-{BIO 1838548 <GO>}
-
+Q - David West {BIO 1838548 <GO>}
 Okay. Do you happen to have what the Q4 impact was?
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 Of the credit default swap? I don't have that handy, David, but I am happy to call you with
 it.
 
 Bloomberg Transcript
 
-Q - David West
-
-{BIO 1838548 <GO>}
-
+Q - David West {BIO 1838548 <GO>}
 Okay. I can probably back it out of the, I'm sure it's in the Q3 --
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 I don't think it should be a material number, frankly.
 
-Q - David West
-
-{BIO 1838548 <GO>}
-
+Q - David West {BIO 1838548 <GO>}
 Okay. Very good.
 And then, Richie, you mentioned in your comments that you basically have been pleased
 with how things have developed at Alterra. With a year of integration activities could you
 kind of look back and talk a little bit about where you've maybe got your biggest pleasant
 surprises and where you see the biggest challenges having been?
 
-A - Richie Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richie Whitt {BIO 7084125 <GO>}
 I think the biggest -- and Mike or Tom might want to kick in here -- I think one of my most
 pleasant surprises has been how well the business has held up. The second you announce
 the deal everybody, all of your competitors are going to look to see if there's some way
@@ -1001,10 +839,7 @@ as Anne said, I think on the front end of the business, the client facing, I thi
 that settled down very nicely. We still have work to do to settle the dust on our processes,
 on our system, sort of the back end of the business.
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 I'd add to that I think that the people at Alterra have done a wonderful job staying
 focused on their clients. And I also tell you in my travels around and involvement with a
 number of the large agent brokers that we didn't do that much business with before that
@@ -1013,10 +848,7 @@ wonderful opportunity with the new expanded lines that we have to grow the busin
 
 Bloomberg Transcript
 
-A - Tom Gayner
-
-{BIO 1896932 <GO>}
-
+A - Tom Gayner {BIO 1896932 <GO>}
 And David I would like to add from the investment point of view, there have been several
 questions about the accounting of prior years and different buckets and all that kind of
 stuff, well there is one big giant bucket in the investment department called cash and that
@@ -1052,17 +884,11 @@ bodes very well for the future of the Markel Corporation.
 
 FINAL
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 The good thing is nobody threw up with the extra Gs when we strapped ourselves in the
 cockpit.
 
-Q - David West
-
-{BIO 1838548 <GO>}
-
+Q - David West {BIO 1838548 <GO>}
 Good to hear. Thanks, so much.
 
 Operator
@@ -1076,16 +902,10 @@ that came from the FirstComp business?
 
 Bloomberg Transcript
 
-A - Richie Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richie Whitt {BIO 7084125 <GO>}
 It's all FirstComp, yes.
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 It did come from FirstComp and we don't have that number broken out.
 
 Q - Ron Bobman
@@ -1095,10 +915,7 @@ Markel size and I was wondering how this favorable developments sort of compares
 magnitude to any increase that you may have done closer to the acquisition date of
 FirstComp? And that's it for me, thanks.
 
-A - Richie Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richie Whitt {BIO 7084125 <GO>}
 It's interesting. Yes, we did work on the margin of safety when we immediately upon the
 purchase of FirstComp. The one thing you have to remember about FirstComp when we
 purchased them is most of their business was MGA business,
@@ -1126,10 +943,7 @@ I hope it continues. Thank you.
 Operator
 Matthew Berry, Lane Five Capital Management.
 
-Q - Matthew Berry
-
-{BIO 16846746 <GO>}
-
+Q - Matthew Berry {BIO 16846746 <GO>}
 Richie, you mentioned a range of experiences with rate across different lines of business.
 And I just wanted to refer back to historical experience, which has been at times when the
 market is softening you tend to experience an increase in competition from new entrants
@@ -1144,10 +958,7 @@ things move in different directions at different times, but are there any partic
 business which you tend to focus on because they are bellwethers or foreshadow a
 broader weakening of rate across your broad portfolio?
 
-A - Richie Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richie Whitt {BIO 7084125 <GO>}
 I don't know if there's any that are necessarily bellwethers. I think what we are seeing in
 the reinsurance market is the influx of the insurance-linked capital. That clearly is having an
 impact.
@@ -1162,10 +973,7 @@ markets are somewhere in the middle, but I would say in all five of our division
 very good about where we sit in terms of our underwriting (technical difficulties) and our
 pricing.
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 Page 19 of 20
 
 
@@ -1177,9 +985,7 @@ Date: 2014-02-11
 And I think with regards to the E&S division we continue to see organic growth in the
 Fourth Quarter, which continues to be encouraging.
 
-Q - Matthew Berry
-
-{BIO 16846746 <GO>}
+Q - Matthew Berry {BIO 16846746 <GO>}
 
 FINAL
 
@@ -1188,20 +994,14 @@ Okay. That's all for me, thank you very much.
 Operator
 Jay Cohen, Bank of America Merrill Lynch.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Actually my question was answered. Thank you, very much.
 
 Operator
 Mr. Gayner, there are no other questions in the queue. Would you like to make closing
 comments?
 
-A - Tom Gayner
-
-{BIO 1896932 <GO>}
-
+A - Tom Gayner {BIO 1896932 <GO>}
 See you next quarter. Thanks so much. Bye-bye.
 
 Bloomberg Transcript

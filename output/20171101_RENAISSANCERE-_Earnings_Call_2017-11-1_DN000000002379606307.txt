@@ -31,10 +31,7 @@ noise. After the speakers' remarks, there will be a question-and-answer session.
 (Operator Instructions) Thank you.
 Peter Hill, you may begin your conference.
 
-Peter Hill
-
-{BIO 1828241 <GO>}
-
+Peter Hill {BIO 1828241 <GO>}
 Good morning and thank you for joining our third quarter 2017 financial results conference
 call. Yesterday, after the market close, we issued our quarterly release. If you didn't
 receive a copy, please call me at 212-521-4800 and we'll make sure we provide you with
@@ -164,10 +161,7 @@ share a bit more in our business performance before we open it up for questions.
 
 FINAL
 
-Robert Qutub
-
-{BIO 15269353 <GO>}
-
+Robert Qutub {BIO 15269353 <GO>}
 Thanks Kevin and good morning everyone. As Kevin noted in his opening remarks, the Q3
 large loss events caused significant damage throughout the affected regions and
 continue to present wide scale humanitarian challenges. From an insured loss perspective,
@@ -517,19 +511,13 @@ Operator
 (Operator Instructions) Your first question comes from the line of Elyse Beth Greenspan
 from Wells Fargo. Your line is open.
 
-Q - Elyse Beth Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Beth Greenspan {BIO 17263315 <GO>}
 Hi, good morning. My first question. I appreciate all the color around the hurricanes and
 kind of the outlook, but Kevin what kind of price expectations do you have heading into
 the 1/1 renewals and just how do you kind of see based on discussions with clients on the
 pricing environment shaping up?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Firstly, 2018 prices going up. So I think the comments I made about there being a broad
 swath of the industry affected. If you look at the insurers affected by Harvey is a different
 pool of insurers affected by Irma and then again those affected by Maria are different. So
@@ -564,10 +552,7 @@ be reasonably broad. I think we have better access than anyone else in the marke
 we have unlimited and unrestricted access to efficient capital to bring to those
 opportunities.
 
-Q - Elyse Beth Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Beth Greenspan {BIO 17263315 <GO>}
 Okay. And then you know as you say that there is a better margin outlook, obviously with
 your Casualty and Specialty business, the margins within that business have been in
 excess of 100%, how do you think about potentially putting more capital towards your
@@ -576,10 +561,7 @@ and Specialty business, if you know the catastrophe market does get a lot better
 
 Bloomberg Transcript
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 So I think, let me start just talking about Casualty, then I'll talk about the effect on capital.
 We've had a few glimmers of hope in the Casualty market with some of our November 1st
 renewals where we were seeing increased underwriting discipline and thinking about the
@@ -610,27 +592,18 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2017-11-01
 
-Q - Elyse Beth Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Beth Greenspan {BIO 17263315 <GO>}
 Okay, great. And then where you guys surprised that within your cat bonds in your
 investment portfolio only lost about 5% in the quarter?
 
 FINAL
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 No. We would expect invents like this, cat funds to do take an impact. The losses that we
 talked about were unrealized. You can see it in our supplemental where it was down
 about 16 million and it was reflected in our net investment yield (inaudible).
 
-Q - Elyse Beth Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Beth Greenspan {BIO 17263315 <GO>}
 Okay, great. And then one last question on Kevin, you did give the gross versus net losses
 for RenRe, for the quarter, how much of the cede was the third-party versus traditional
 markets?
@@ -638,10 +611,7 @@ markets?
 A - Kevin O'Donnell
 By third-party mean how much of its collateralized recovery?
 
-Q - Elyse Beth Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Beth Greenspan {BIO 17263315 <GO>}
 Yes.
 
 Bloomberg Transcript
@@ -650,16 +620,10 @@ A - Kevin O'Donnell
 I think it is roughly about 0.5 billion collateralized recovery, again I think its 1.02 [ph] billion
 of total recovery ballpark.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Incremental, right.
 
-Q - Elyse Beth Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Beth Greenspan {BIO 17263315 <GO>}
 Okay. Thank you very much.
 
 A - Kevin O'Donnell
@@ -668,10 +632,7 @@ Yes. Thank you.
 Operator
 Your next question comes from the line of Kai Pan from Morgan Stanley. Your line is open.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you and good morning. So the first question on return in capital market, the DaVinci
 loss about $223 million and you raised more than that. So that will show you the readily
 available return of capital out there. So would that impact the magnitude and duration of
@@ -689,10 +650,7 @@ reloading, what kind of pricing expectation that you would deploy that capital?
 
 FINAL
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 One thing, just for clarification, Kai, in the supplemental, the actual loss for DaVinci we
 suppose is 255, 223 and you referring to is the non-controlling interest on the investors,
 just for clarification, on page seven result.
@@ -711,10 +669,7 @@ managing capital.
 
 Bloomberg Transcript
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Yeah. And I think it's wondering is that, is that show a sign of broader appetite for risk still
 from the our return in capital markets?
 
@@ -724,18 +679,12 @@ interest in investors trying to get into DaVinci, but we had that last year as w
 the appetite that investors have to see to take to share in our underwritten risk is high for
 2018, but to be honest, it was hard very for 2017 as well.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. And then on your gross to net strategy, you have like two-third of your gross are like
 recover from the retro market. I just wonder given the potential rising costs of the retro,
 would you be able to maintain your gross exposure or grow that?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 That's a great question. Yeah, absolutely. To maintain our gross exposure, we like the
 gross book that we wrote. We like the network more, so we used the retro to enhance
 and optimize the portfolio. As I mentioned in my comments, I think it will be as a split
@@ -761,10 +710,7 @@ So we are not subjected to the same client facing swings from retro as others be
 we build our book to make sure that we had a consistent customer facing appetite and
 manage our net risk through partner capital and trading capital.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Great. Last one if I may is on to your underlying loss ratio in the Property segment, it looks
 like it increased a lot year-over-year. Just wondering is there particular sort of like non-cap
 large losses, which is not including in your disclosure?
@@ -781,10 +727,7 @@ allocation of the loss ratio between other property and Property Cat.
 
 Bloomberg Transcript
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. Great. Well, thank you so much.
 
 A - Kevin O'Donnell
@@ -794,10 +737,7 @@ Operator
 Your next question comes from the line of Amit Kumar from Buckingham. Your line is
 open.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Thanks and good morning. I like that name better. Just going back to the discussion on
 capital management, obviously you opined that that you look at the market conditions and
 then revisit and you were buying that before HIM [ph]. Based on the different renewal
@@ -805,10 +745,7 @@ cycles, I guess 1/1, 4/1, 6/1 et cetera, are we thinking of revisiting the capit
 discussion later in 2018 or would you be able to sort of come up with a thought process
 after the 1-1 renewal.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 There is couple of parts to that question. Let me start off with the comments in my
 prepared text were as you pointed out, we're looking to deploy capital here in the fourth
 Page 14 of 25
@@ -841,10 +778,7 @@ more capital to the business or potentially looking to purchase shares back.
 
 Bloomberg Transcript
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Right. The second question I had was, obviously you probably sounded a bit more
 optimistic on the pricing equation than what I would have thought based on the industry
 losses or percent of total capital. I'm curious, do you have a view on the overall industry
@@ -878,9 +812,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2017-11-01
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
+Q - Amit Kumar {BIO 15025799 <GO>}
 
 FINAL
 
@@ -896,10 +828,7 @@ company is and a lot of that is because of the benefit of us purchasing Platinum
 we're in a much stronger position going into 2018, because of our strong Casualty
 platform than we would have been have we not executed on Platinum.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Okay, fine. I'll stop here. Thanks for the answers and good luck for the future.
 
 A - Kevin O'Donnell
@@ -911,26 +840,17 @@ Operator
 Your next question comes from the line of Josh Shanker from Deutsche Bank. Your line is
 open.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Thank you. Forgot to get out of queue. Everyone asked my questions, but good luck in the
 New Year.
 
 A - Kevin O'Donnell
 Thanks Josh.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Thanks Josh.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Thank you.
 
 Operator
@@ -944,9 +864,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2017-11-01
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 
 FINAL
 
@@ -967,9 +885,7 @@ taking -- one we will be taking more risk capital then exposing it and two, we w
 more income statement volatility because a lot of the retro we purchased in '17 was down
 low.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 
 Bloomberg Transcript
 
@@ -983,10 +899,7 @@ continue to rerun our portfolios every night, make sure we understand in how we'
 capital and on every marginal deal we understand whether we're enhancing or reducing
 not only our existing margin, but the target margin we have for '18.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Got you. Okay, that makes sense. And then I'm just curious, again you kind of mentioned
 you thought this was going to have implications outside of just the loss impacted areas if
 you look back at the KRW [ph] and what happened in 2011. That didn't happen, so why
@@ -1011,9 +924,7 @@ Date: 2017-11-01
 come to an equilibrium. We're not looking to push prices to higher we are getting to a
 point, where margins are long at a better balance between the buyer and the seller.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 
 FINAL
 
@@ -1023,10 +934,7 @@ them?
 A - Kevin O'Donnell
 Yes. And we did actually see quite a bit of movement in KRW. I think --
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 They are outside the US.
 
 A - Kevin O'Donnell
@@ -1042,10 +950,7 @@ changes it's going to attract us to write much more international. Most of the i
 risks that we've taken over the last several years has come through our retro account, and
 I do think retro rates will move pretty substantially both internationally and US.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 It makes a lot of sense. And another quick one here. So, the California wildfires, is that
 going to be one event or multiple events for reinsurers?
 
@@ -1076,9 +981,7 @@ component. So I think we're monitoring all these things and trying to determine 
 ultimately going to play out, but there's still much to be answered about how this will play
 through.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 
 FINAL
 
@@ -1091,10 +994,7 @@ Operator
 Your next question comes from the line of Jay Cohen from Bank of America. Your line is
 open.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Yeah, couple of questions. Some of the backup coverage that you wrote in the third
 quarter, are those annual policies or are they for a shorter duration?
 
@@ -1104,10 +1004,7 @@ Bloomberg Transcript
 
 The more substantial ones, meaningful ones were short duration.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 So we should think about sort of next year, third quarter being other than the
 reinstatement kind of a tough comp from a premium standpoint, just from a modeling
 aspect?
@@ -1115,17 +1012,11 @@ aspect?
 A - Kevin O'Donnell
 I think that's accurate, unless we have a third quarter that looks like '17.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Let's hope not. Second question, expense ratio, I assume some of the lower expense
 ratio is due to lower bonus accruals?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Our expense ratio, look at the operational, I mean the acquisition, the acquisition ratios
 are growing with the business. But on the operational expenses, two factors over time
 have been driving that down. One is '16, you can see, we really effectively integrated
@@ -1146,54 +1037,35 @@ The corporate cost, last quarter, I think the question was asked, what's the bur
 there? 4 to 5 and that's what we printed again 4 to 5 on corporate costs for this quarter,
 which are down from one-time events last year.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
+Q - Jay Cohen {BIO 1498813 <GO>}
 
 FINAL
 
 So you didn't change your bonus accruals in the third quarter because of these losses?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Bonus accruals are going to be determined at the end of the year in the fourth quarter.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Okay. That's helpful. And then last question. Debt to capital, I guess debt plus preferred
 to capital, do you have a target for that number?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Right now we feel very comfortable that well, I said earlier in my comments was that our
 balance sheets are fully funded and we're ready to deploy capital into the coming year.
 However, we see more opportunities we have access to capital, if we needed those
 opportunities, proved even more significant.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
+Q - Jay Cohen {BIO 1498813 <GO>}
 
 Bloomberg Transcript
 
 So that's not a constrain at this point.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 No.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Okay. Thanks.
 
 A - Kevin O'Donnell
@@ -1202,10 +1074,7 @@ Thank you.
 Operator
 Your next question comes from the line of Meyer Shields from KBW. Your line is open.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Thanks. Kevin, when you were talking about your economic capital cost, you mentioned
 that cost of retro is going up and that's not inconsistent with what we've heard from other
 participants. Was the retro market underpriced last year or is there a new assessment of
@@ -1233,10 +1102,7 @@ one of ceded opportunities that we have that we either do or do not have. So I t
 from year-to-year. It's less than an important comparison than it is in certain other launch
 [ph] business.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 You mean from your perspective, not the market overall?
 
 A - Kevin O'Donnell
@@ -1246,10 +1112,7 @@ trading account retro to optimize the net.
 
 Bloomberg Transcript
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. That makes sense. The second, I guess smaller point. That you talked about
 demand surge for claims adjuster, I guess, particularly following Irma. Is there demand for
 international like material costs or anything like that?
@@ -1262,19 +1125,13 @@ surge is going to be extraordinarily important element of the overall loss. The 
 getting materials there, the difficulty of moving materials around, the lack of infrastructure,
 a lot of things that I think put a negative skew on how that loss can potentially there [ph].
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. That's helpful. And one last question if I can.
 
 A - Kevin O'Donnell
 Yes.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 I think I am okay. Thank you very much.
 
 A - Kevin O'Donnell
@@ -1288,9 +1145,7 @@ Date: 2017-11-01
 
 Okay. Thanks Meyer.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
+A - Robert Qutub {BIO 15269353 <GO>}
 
 FINAL
 
@@ -1299,10 +1154,7 @@ Thank you.
 Operator
 Your next question comes from the line of Ian Gutterman from Balyasny. Your line is open.
 
-Q - Ian Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian Gutterman {BIO 18249218 <GO>}
 Hi. Thank you. And Kevin I guess, first maybe, I went back and looked at '05 and '11 and
 even Sandy and so forth and typically your market share on a gross basis, what was low
 1%. And this time on a gross basis, you're low 2%. So it's definitely a much bigger share
@@ -1325,19 +1177,13 @@ we've done. I think it's frankly probably just a unique set of the outcome from 
 aggregate losses in a quarter. There's nothing that I would point you to say, there is a
 structural shift in the way that we've built the portfolio.
 
-Q - Ian Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian Gutterman {BIO 18249218 <GO>}
 Perfect. Just wanted to make sure. So the aggregate covers, can you give us a sense of, if
 you were to see more gross development from -- basically we start to see sort of the
 gap between the disclosed numbers in the 100 billion start to close, is there more to limit
 left under those that could go against you?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 So, yes, there is more limit left under some of those aggregates. I wouldn't point to those
 as being particularly exposed to the change in the gross loss. I think we -- you went
 through our normal process of top-down analysis to estimate the loss as well as a
@@ -1354,19 +1200,13 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2017-11-01
 
-Q - Ian Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian Gutterman {BIO 18249218 <GO>}
 Got it. And are those for named storms only or could the wildfires also get you on some
 of those contracts?
 
 FINAL
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 The wildfires, those contracts can't respond to the wildfires as well. So that's -- this is
 more of a detailed point, but one of the reasons that not include the aggregates and
 separate them out, this has new loss events occur. You can kind of forget time and then
@@ -1376,9 +1216,7 @@ back and adjust previous events to be lower, because some of the limit needs to 
 moved to the new event. So that could artificially filled in favorable development if they're
 not disclosed separately and continue to be allocated to the events.
 
-Q - Ian Gutterman
-
-{BIO 18249218 <GO>}
+Q - Ian Gutterman {BIO 18249218 <GO>}
 
 Bloomberg Transcript
 
@@ -1392,10 +1230,7 @@ the past, there was a heavier aspect of reported and that got us close during th
 you need to sort of put up more IB in our because the reporters were slow. I'm just trying
 get sort of a decent story. I guess I get to hear one for why we have such a big gap?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Let me touch on each of the events and that get kind of an overall perspective. If we take
 Irma, Irma has got the most traditional as a cat, it's broad coverage and reasonably
 modest losses. So it's much more of a traditional type assessment as to what the loss will
@@ -1411,10 +1246,7 @@ And then Maria is just a tricky one. So I think of all the ones where there is p
 biggest disconnect between was ultimately recognized on balance sheets and much
 reported so far, it's probably Maria for the reasons I mentioned earlier.
 
-Q - Ian Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian Gutterman {BIO 18249218 <GO>}
 Right.
 
 Page 23 of 25
@@ -1427,10 +1259,7 @@ Date: 2017-11-01
 
 FINAL
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 So I think additionally when there's this many events in a quarter, it is very complicated to
 come up with a net risk exposure. So even for us, across the events our retro programs
 are largely shared. So as when first Harvey happened, you put your retro allocation
@@ -1440,10 +1269,7 @@ number reported and then having this many events it's going to be a lot of movem
 potentially between the net numbers, but not necessarily as much on the gross
 depending on how the ceded allocations are distributed.
 
-Q - Ian Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian Gutterman {BIO 18249218 <GO>}
 That makes sense. So if I can throw a hypothetical out and let's say that you guys are
 being conservative and everyone else is being as accurate as normal and therefore the
 industry losses are just a lot less than we think, let's say, it comes in, it's only 50 to 60 not
@@ -1455,10 +1281,7 @@ anything indicating this?
 
 Bloomberg Transcript
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 I think of the cat models different than the cat modeling firms making an estimate of the
 industry loss. So when we talked about return periods for these events that's us going
 into our model, making an assessment as to what we think the losses and then putting
@@ -1470,10 +1293,7 @@ California is a pretty thoroughly modeled state. I think one needs to separate t
 estimate of the insured loss to the precision one can extract from properly using the
 model.
 
-Q - Ian Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian Gutterman {BIO 18249218 <GO>}
 Got it, okay. And then just last one real quick is I know I'm not going to probably get to
 change your disclosure on PMLs and catalysts or anything like that. But if I can maybe ask
 in a more -- in a simpler way as a proxy, if I were to look at your last 10 years' cats and just
@@ -1483,10 +1303,7 @@ only shifts and you may be buying more retro or less or this or that but is that
 reasonable starting point for us or is there something you say no, that's just a terrible way
 to do it?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 I've never done that. You take a look at it. I think just very simply, much of the risk we write
 has an expected loss lower than 10. So you would need a longer timeline in order to have
 a better understanding as to how the book is exposed. So if I were to think about it, kind
@@ -1504,17 +1321,11 @@ set in longer timeframes.
 
 FINAL
 
-Q - Ian Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian Gutterman {BIO 18249218 <GO>}
 Of course, I just trying to do something that I have access to, but I understand. All right.
 Thank you. Thank you for the answers.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Thanks.
 
 A - Kevin O'Donnell

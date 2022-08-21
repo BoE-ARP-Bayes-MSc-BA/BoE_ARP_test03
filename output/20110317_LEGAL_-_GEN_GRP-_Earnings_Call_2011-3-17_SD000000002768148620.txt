@@ -32,10 +32,7 @@ presentation there will be an opportunity for questions.
 I will now hand you over to your first speaker, Matt Hotson, Director of Investor Relations.
 Matt, over to you.
 
-Matt Hotson
-
-{BIO 15471425 <GO>}
-
+Matt Hotson {BIO 15471425 <GO>}
 Thank you. Good afternoon, everybody. Good to see a number of you on the line. We
 thought this morning's results were reasonably straightforward. And I guess, the calls that
 we got this morning didn't throw a huge amount of difficult problems that we have taken
@@ -60,10 +57,7 @@ BPA data loading, how should we think about that going forward?
 
 FINAL
 
-Tim Stedman
-
-{BIO 19448392 <GO>}
-
+Tim Stedman {BIO 19448392 <GO>}
 So what is it? I think most of you are fairly familiar, but when we write a BPA contact it does
 take us a period of time before we can finalize the scheme data with the trustees, and
 finally load that data onto our admin systems.
@@ -78,18 +72,12 @@ today.
 
 Bloomberg Transcript
 
-Matt Hotson
-
-{BIO 15471425 <GO>}
-
+Matt Hotson {BIO 15471425 <GO>}
 Okay, next question is on inflation modeling benefit. Where there are some numbers in
 the accounts specifically what have we changed in order to produce that benefit. Tim
 again.
 
-Tim Stedman
-
-{BIO 19448392 <GO>}
-
+Tim Stedman {BIO 19448392 <GO>}
 This was something that came through at the half-year. As we said then, we prefer[ph] a
 rolling program of reviewing our models. In the first half of 2010 we looked at the inflation
 modeling around deferred annuities, and there were two elements where we were able
@@ -113,27 +101,18 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2011-03-17
 
-Matt Hotson
-
-{BIO 15471425 <GO>}
-
+Matt Hotson {BIO 15471425 <GO>}
 Then the final one in this area is the GBP43 million reserve release in protection.
 
 FINAL
 
-Tim Stedman
-
-{BIO 19448392 <GO>}
-
+Tim Stedman {BIO 19448392 <GO>}
 The vast bulk of this relates to a release of margin, again, at the half-year around
 improving our modeling of waiver of premium. Then towards the end of year when we
 reviewed the basis for the sort of standard sort of annual review there were a few other
 small items plus and minus.
 
-Matt Hotson
-
-{BIO 15471425 <GO>}
-
+Matt Hotson {BIO 15471425 <GO>}
 Okay, moving on to a question, which I think got raised briefly this morning, but a bit of
 follow-up questions on it in terms of the interplay between the increase in the Euro CP
 paper and the reduction in the Triple X reserves, which John Whorwood, Group Treasurer,
@@ -141,10 +120,7 @@ is going to respond to.
 
 Bloomberg Transcript
 
-John Whorwood
-
-{BIO 15470378 <GO>}
-
+John Whorwood {BIO 15470378 <GO>}
 The question related to actually the full effect last year of the Triple X -- the first
 securitization in terms of the Triple X Group of the Potomac Dutch Auction securities. And
 we financed that while producing commercial paper. So we spent a total of $360 million
@@ -161,10 +137,7 @@ So we did talk about in the call earlier this year about the US capital restruct
 are able to replace the Potomac Triple-X financing with an internal Triple-X reinsurance
 solution. And that allowed us to repay the Potomac notes.
 
-Matt Hotson
-
-{BIO 15471425 <GO>}
-
+Matt Hotson {BIO 15471425 <GO>}
 Okay. Thanks, John. A couple of questions on the assets backing the annuity portfolio.
 One on the increase in sovereigns, or relative increase in sovereigns. Was that a Solvency
 II preplanning issue which Paul Stanwick[ph] is going to pick up.
@@ -189,17 +162,11 @@ that we had.
 We executed the transaction, and the reason it came out neutral on earnings is just the
 way that the risk premium is reflected back in through the results.
 
-Matt Hotson
-
-{BIO 15471425 <GO>}
-
+Matt Hotson {BIO 15471425 <GO>}
 Okay, moving on to the disclosures on PIIGS Bank Tier 1 debt, and we have had a followup question on how that -- does that include the exposures within the CDO, which Justin
 Brown is going to pick up.
 
-Justin Brown
-
-{BIO 19943344 <GO>}
-
+Justin Brown {BIO 19943344 <GO>}
 First of all on the PIIGS' and the Group's coordinated bank exposures it is for debt
 securities only, i.e., we do not look to the reference entities in the CDOs.
 
@@ -213,20 +180,14 @@ On this basis it is fair to conclude that the proportion of subordinated holding
 CDOs is not material. Therefore, the majority of the CDO portfolio will have no exposure
 to Tier 1.
 
-Matt Hotson
-
-{BIO 15471425 <GO>}
-
+Matt Hotson {BIO 15471425 <GO>}
 Okay, moving on to cash flow and our cash flow disclosure, I think this is a question from
 Oliver at Deutsche about the difference between the disclosure we gave last year and
 the disclosure we gave this year in terms of the 2011 and 2012 VIF utilization profiles and
 just trying to explain the difference. Wadham Downing is going to attempt an explanation
 to that.
 
-Wadham Downing
-
-{BIO 17627522 <GO>}
-
+Wadham Downing {BIO 17627522 <GO>}
 Thanks, Matt. The difference between the numbers is almost entirely due to the change in
 the profile of the models, one-off short-term capital releases, which are not included in
 the operational cash generation numbers.
@@ -246,63 +207,42 @@ flows remain broadly in line with what was disclosed in the half-year 2010 and t
 
 FINAL
 
-Matt Hotson
-
-{BIO 15471425 <GO>}
-
+Matt Hotson {BIO 15471425 <GO>}
 Okey. Another quick one for Wadham, which was a follow-on from Andy Hughes' question
 at Exane this morning on how much of the EV is annuity rated. Nigel said 2 billion. We
 thought we would just check that.
 
-Wadham Downing
-
-{BIO 17627522 <GO>}
-
+Wadham Downing {BIO 17627522 <GO>}
 Yes. The disclosure you gave is for GBP4.2 billion and use of[ph] this element before cost
 of capital is, in fact, GBP2 billion. After cost of capital the numbers are GBP3.9 billion and
 GBP1.7 billion, respectively.
 
-Matt Hotson
-
-{BIO 15471425 <GO>}
-
+Matt Hotson {BIO 15471425 <GO>}
 Okay, on to tax. A couple questions on tax for Simon Burke. So does having the use of
 losses have an impact on the EEV effective tax rate? And what ratio would be applied to
 the EV results in 2011?
 
 Bloomberg Transcript
 
-Simon Burke
-
-{BIO 19146780 <GO>}
-
+Simon Burke {BIO 19146780 <GO>}
 Thanks, Matt. There is no impact on the tax rate and EV profit from the losses in 2010.
 That is very similar to the first[ph] impact. In terms of modeling the EV results, I would use
 the statutory tax rate going forward.
 
-Matt Hotson
-
-{BIO 15471425 <GO>}
-
+Matt Hotson {BIO 15471425 <GO>}
 The second one on tax -- on deferred taxes. This is one from Raghu at Citi. Reconciliation
 of the GBP300 million fall in the deferred tax asset on the asset side with the changes in
 the P&L, which were GBP125 million in Risk, and GBP39 million in Savings, and how does
 that all stack up again? Simon Burke.
 
-Simon Burke
-
-{BIO 19146780 <GO>}
-
+Simon Burke {BIO 19146780 <GO>}
 So those numbers refer to the movement in deferred tax in operating profit, the GBP125
 million and the GBP39 million, whereas the GBP300 million or GBP301 million, actually,
 movement on the IFRS balance sheet is the total. So the difference between what has
 gone through operating profit and the total balance sheet movement is investment
 variance.
 
-Matt Hotson
-
-{BIO 15471425 <GO>}
-
+Matt Hotson {BIO 15471425 <GO>}
 Okay. Thank you. So moving back now to the final -- prepared question we've got was on
 the change to the new CMIB tables. What was it, and have we adjusted other margins on
 that basis? That is one back to Tim Stedman.
@@ -314,9 +254,7 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2011-03-17
 
-Tim Stedman
-
-{BIO 19448392 <GO>}
+Tim Stedman {BIO 19448392 <GO>}
 
 FINAL
 
@@ -330,10 +268,7 @@ mortality basis. So the changes in the base tables and the parametization of the
 model have given a broadly neutral cost. But we think that the new tables have got a
 much better shape.
 
-Matt Hotson
-
-{BIO 15471425 <GO>}
-
+Matt Hotson {BIO 15471425 <GO>}
 Okay, that's the end of the sort of pre-sent in questions we have. We've got a couple of
 other ones that I got from Raghu, which we need a little bit of time to think about on
 contingent loans and impact of annuitant rates on one or two things, which we will come
@@ -347,19 +282,13 @@ Questions And Answers
 Operator
 (Operator Instructions) Oliver Steel, Deutsche Bank.
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 A very simple question, which is, do you have a figure for total assets under management
 or assets under administration? I've got the GBP353 billion that you described for LGIM.
 You've got another GBP11 billion of retail and other. Does that include all of the annuity
 business, all of the Savings business for which you give separate inflows disclosure?
 
-A - Matt Hotson
-
-{BIO 15471425 <GO>}
-
+A - Matt Hotson {BIO 15471425 <GO>}
 I can probably answer that, which is rare on a technical call, so I'll make the most of it. The
 GBP354 billion in LGIM is the assets that LGIM manages. That includes all of LGIM's client
 money, which is in total, I think from memory, is the pack of about GBP260 billion. That is
@@ -380,9 +309,7 @@ Date: 2011-03-17
 If you reconcile all those numbers together you should get to something around the
 GBP354 billion. So I think the total number is the quoted number four LGIM.
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
+Q - Oliver Steel {BIO 6068696 <GO>}
 
 FINAL
 
@@ -391,51 +318,34 @@ Okay. Thanks.
 Operator
 Blair Stewart, Banc of America; Merrill Lynch.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Just one question. Just on the movement in non-cash items for Risk. It is mainly the
 deferred tax movement, it went from (221) negative to (125) negative. What is the best
 guidance you can give on how that number is going to move over the next couple of
 years. Thanks.
 
-A - Matt Hotson
-
-{BIO 15471425 <GO>}
-
+A - Matt Hotson {BIO 15471425 <GO>}
 Okay, I will pass that one over to Simon Burke, Head of Group Tax.
 
-A - Simon Burke
-
-{BIO 19146780 <GO>}
+A - Simon Burke {BIO 19146780 <GO>}
 
 Bloomberg Transcript
 
 Well are you asking about the impact on operational cash generation or just literally on
 (inaudible)?
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 No. The operational cash generation, I think you have been clear about the GBP60 million
 benefit that will drop away in 2013, if I'm not wrong. It is just really on that line item, is that
 just going to gradually go down to zero or how should we model that?
 
-A - Simon Burke
-
-{BIO 19146780 <GO>}
-
+A - Simon Burke {BIO 19146780 <GO>}
 I would have thought it would run at about that level for a couple more years.
 
 A - Unidentified Speaker
 I would say the core part of it will probably run down probably by 2013, (inaudible).
 
-A - Matt Hotson
-
-{BIO 15471425 <GO>}
-
+A - Matt Hotson {BIO 15471425 <GO>}
 So the deferred tax asset is really made up of a short-term element and a long-term
 element. The short-term relates to the losses on the LGPL set-up and taking of the
 increased default rates. They will run off until about 2013. The longer-term element is a
@@ -455,10 +365,7 @@ part, which will fall off in 2013, and then it will be reasonably flat for a few
 
 FINAL
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Okay, so it stays at around current levels for a couple of years than maybe drops down a
 step, and then stays at a lower level after that. Is that -- would that be a fair approach,
 probably correct?
@@ -466,10 +373,7 @@ probably correct?
 A - Unidentified Speaker
 Yes.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Super, thanks.
 
 Operator
@@ -486,29 +390,17 @@ The other point is, just so I can get a feel for what the change in the mortalit
 wonder if you could say, if it was a standard 65-year-old male what is the expectation of
 life now in the reserves and what was it before then on the EV as well?
 
-A - Matt Hotson
-
-{BIO 15471425 <GO>}
-
+A - Matt Hotson {BIO 15471425 <GO>}
 I've got a few people just scrambling through packs, just to try and find the answers. I
 think the 65-year-old male numbers are in the pack, which somebody -- Tim is --.
 
-A - Tim Stedman
-
-{BIO 19448392 <GO>}
-
+A - Tim Stedman {BIO 19448392 <GO>}
 Page 91, I think.
 
-A - Matt Hotson
-
-{BIO 15471425 <GO>}
-
+A - Matt Hotson {BIO 15471425 <GO>}
 Page 91 of the pack. But Tim can just give you the quick headlines.
 
-A - Tim Stedman
-
-{BIO 19448392 <GO>}
-
+A - Tim Stedman {BIO 19448392 <GO>}
 Best estimate 24 years, last year 24.5. And on the reserving basis this year 25.6, and last
 year 25.7. (multiple speakers).
 
@@ -524,9 +416,7 @@ Date: 2011-03-17
 Sorry, say that again. So on the EV there was a significant change. There was not much
 change on the statutory (inaudible) side.
 
-A - Tim Stedman
-
-{BIO 19448392 <GO>}
+A - Tim Stedman {BIO 19448392 <GO>}
 
 FINAL
 
@@ -535,10 +425,7 @@ Yes, broadly. If you call half a year significant.
 Q - Greig Paterson
 Then so why did the annuity margin not go down?
 
-A - Tim Stedman
-
-{BIO 19448392 <GO>}
-
+A - Tim Stedman {BIO 19448392 <GO>}
 I think the margin is made up of a number of things. Obviously, it is business mix, the price
 you charge in the market. To some extent, I think we knew some of these changes were
 going to be coming, so they got reflected in prices during the course of the year.
@@ -587,10 +474,7 @@ Andy, over to you.
 
 FINAL
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 (inaudible) talking about shares; that was quite funny. Just a couple of questions. Just a
 clarification on the EV number. So I take the GBP1.7 million net of tax, presumably I need to
 add GBP1 billion required capital. So the annuity EV and total is GBP2.7 billion. Is that
@@ -599,10 +483,7 @@ correct -- out of 6.2 or 6.3?
 A - Unidentified Speaker
 We had a figure of GBP300 million for capital.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Just taking 4% of GBP25 billion of reserves, is that --?
 
 A - Unidentified Speaker
@@ -610,10 +491,7 @@ It is cost of capital, not total capital.
 
 Bloomberg Transcript
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 But I need to add -- the GBP1.7 billion is the VIF, net of cost of capital, and I would need to
 add it on the required capital to get to the EV for the annuity portfolio, which presumably
 is (multiple speakers).
@@ -624,10 +502,7 @@ The numbers that Wadham quoted are the VIF, the annuity element of the VIF. If y
 a number back on the total EV, we can come back with a (inaudible) number. Your
 methodology sound sensible. Let's just take it that way and just come back to you.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 The other question is following on from Greg's question, I guess, on the change in
 longevity tables. You have obviously reduced prudence and the best estimate
 assumptions and also in the reserving assumptions at older ages, (now) age 65.
@@ -658,10 +533,7 @@ indicative of the whole range of annuitant mortality that we are assessing.
 Your theories sound sensible, but we're probably not going to give a huge amount of
 data in terms of breakdown in numbers below the GBP59 million.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Do you know what has happened at younger ages? Has there been a more significant
 shift in the younger age. I mean, so if you're thinking about 40-year-old effectively, I mean,
 has that life expectancy gone up a lot on both the EV and the reserving?
@@ -678,30 +550,18 @@ particularly penal for verily very old ages, sort of 80 and above. So that has r
 shift to different ages. But Matt is right, we picked a point age. There other ages and the
 effects are different across the age range.
 
-A - Matt Hotson
-
-{BIO 15471425 <GO>}
-
+A - Matt Hotson {BIO 15471425 <GO>}
 Well we will have to talk some more about it, Andy, if you're still concerned.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 No. It is just a bit odd, basically, because the data you have given gives the opposite
 effect to the one you have actually put in terms of changing the tables.
 
-A - Matt Hotson
-
-{BIO 15471425 <GO>}
-
+A - Matt Hotson {BIO 15471425 <GO>}
 It is just a function of the shape of the disclosure. It is a fair point. We can think about a
 better disclosure statement, which gives us more sense of the shape.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Thank you.
 
 Page 11 of 12
@@ -712,9 +572,7 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2011-03-17
 
-A - Matt Hotson
-
-{BIO 15471425 <GO>}
+A - Matt Hotson {BIO 15471425 <GO>}
 
 FINAL
 

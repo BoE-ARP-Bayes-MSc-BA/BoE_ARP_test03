@@ -30,10 +30,7 @@ Results Conference Call. All lines have been placed on mute to prevent any backg
 noise. After the speakers' remarks, there will be a question-and-answer session.
 Thank you. Mr. Peter Hill, you may begin.
 
-Peter Hill
-
-{BIO 15385944 <GO>}
-
+Peter Hill {BIO 15385944 <GO>}
 Good morning and thank you for joining our third quarter 2015 financial results conference
 call. Yesterday, after the market close, we issued our quarterly release. If you didn't
 receive a copy, please call me at 212-521-4800 and we'll make sure to provide you with
@@ -125,10 +122,7 @@ And with that, I'll turn the call over to Jeff.
 
 Bloomberg Transcript
 
-Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+Jeffrey D. Kelly {BIO 1390834 <GO>}
 Thanks, Kevin, and good morning everyone. I'll cover our results for the third quarter and
 year-to-date and then give you our initial topline forecast for 2016. As Kevin mentioned,
 we had a solid third quarter with strong profitability across our catastrophe and specialty
@@ -395,28 +389,19 @@ Bloomberg Transcript
 Operator
 Your first question comes from the line of Vinay Misquith with Sterne Agee.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Hi, good morning. The first question is, I mean, you gave some guidance, so you said a
 5% decline in property cat, does this already include the Platinum book which was not part
 of your results, last year's first quarter. And also for the specialty lines, up 20%, does it
 already include the Platinum from last year?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 So, yes, the answer, Vinay, is that those are – you should look at those as forecast over
 the total premium obviously booked in this year. The only quarter that there wasn't a full
 complement of Platinum premiums on our books was the first quarter. So it's a little bit of
 a noisy comparison. But, yes, all the forecasts are essentially versus 2015 levels.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure. So on the property cat side, it appears that we are close to forming a bottom,
 curious as to why you have done 5% when you have the first three months of Platinum
 also in your book. Could you help us understand what's happening in the property cat
@@ -456,10 +441,7 @@ makes sense.
 
 Bloomberg Transcript
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. That's helpful. And just on the BCAR once again, my – would it be fair for us to
 assume that higher demand, if any, would come on the higher layers and therefore the – I
 mean, the premium dollars might not be as much?
@@ -475,10 +457,7 @@ aggregates and other products for top and drops depending on what is most suitab
 them to address the BCAR issues that they may have. I don't think it's going to be one –
 kind of a one solution fits everyone, as the new model rolls out over 2016.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. Fair enough. And just one last question on the capital management. First of all, I
 think you guys did a great job by buying significant stock at a very low price, so super. But
 just sort of looking forward, do you think you can buy back 100% of earnings for this year?
@@ -497,10 +476,7 @@ assume that you don't need any capital for those premiums for next year?
 
 FINAL
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Well, Vinay – so let me start with the fourth quarter. I think essentially asking if we're
 prepared to buyback earnings for the year. I just think it's a little too early in the fourth
 quarter to make any specific predictions about how many shares we'll buyback.
@@ -516,33 +492,22 @@ position. And as I said the way we think about it is, the first thing we look at
 for the business, the profile of our risk book and then the relative attractiveness of our
 shares as a consideration set.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
+Q - Vinay Misquith {BIO 6989856 <GO>}
 
 Bloomberg Transcript
 
 Sure. And for next year?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 For next year I think – and just in terms of, as Kevin mentioned, the way we construct our
 economic capital model, the specialty/casualty business that comes on the book, we look
 at it as diversifying. So by and large we would assume would have a very minimal capital
 requirement.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Excellent. That's what I thought. Thank you.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Yeah.
 
 A - Kevin J. O'Donnell
@@ -559,9 +524,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2015-11-05
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 
 FINAL
 
@@ -590,10 +553,7 @@ participate in losses differently than the way we participated losses in the pas
 Your second question is, were we paid adequately for the risk? And the answer to that is
 yes.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 And as the business evolved I think – and I'm probably going to mischaracterize it and
 please correct me, but I think like one of the seminal RenRe ideas is that diversification is
 not always a benefit. As the business becomes more broad, are we in a part of the cycle
@@ -627,19 +587,13 @@ The other thing I'll say is, we have no negative correlations within the risk th
 So I think some people will bring on negatively correlated business to a portfolio, which
 again will create capital on a marginal basis. We don't do that.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 I would just add, and perhaps to state the obvious, but to emphasize what Kevin said. We
 only look at profit as diversifying. So when Kevin said it's got to be standalone profitable,
 it's adding diversifying premium, we don't view as creating capital. Only expected profit
 diversifies for us.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Okay. That makes sense. And finally on the comment that you don't plan to expand your
 joint ventures this year, because pricing is inadequate. I assume that's a reputational
 decision that you don't want your customers to be buying inadequate protection and ruin
@@ -657,10 +611,7 @@ view is that we want to be paid for our underwriting expertise. And that underwr
 expertise will bring good risk to whichever efficient capital we decide is the best pool to
 put it to.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 And would that be a signal that even -that you might want to return capital at this point?
 Can you return capital at this point or is there a lockup rate?
 
@@ -670,10 +621,7 @@ think we are likely to – more likely to return capital in – at the end of 20
 capital that we have in some of our vehicles. Maybe it's at our option to return capital at
 year-end.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Okay. Thank you.
 
 A - Kevin J. O'Donnell
@@ -691,10 +639,7 @@ Thank you. Your next question comes from the line of Kai Pan with Morgan Stanley
 
 FINAL
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Good morning and thank you. First question on the reserve release, it looks like it's a large
 number for the quarter, tried to understand a bit more about, is that part from the legacy
 Platinum book or from legacy RenRe book? I know now it's a single entity now. I just
@@ -707,10 +652,7 @@ of releases than the first three quarters in the past two years?
 
 Bloomberg Transcript
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Yeah. Thanks, Kai. So we – there were no unusual reserving practice changes during the
 quarter. It was normal course for our analysis of the reserves in each of our segments. I
 think as relates to the Platinum book, I – we don't have those, I don't have those numbers
@@ -723,24 +665,15 @@ that was certainly our Platinum – legacy Platinum book. But overall, we saw re
 releases across all areas of the book and that reinforces our view that our assessment of
 the reserve adequacy at Platinum then and now remain sound.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 In term of seasonality?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Seasonality. No, there's really no seasonality in the releases per se. We do – we will try and
 do a deep dive on our – on some of our reserves on a quarterly basis and we'll look to do
 that particularly in the specialty classes; as you said, that's usually a first quarter event.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. That's great. Second question probably for Kevin. You talked about $100 million
 organic growth since the combination of the two companies. I just wonder where those –
 where you find opportunities given the sort of – maybe a stronger casualty and specialty
@@ -772,10 +705,7 @@ market, some credit risk, and then some niche areas like reps and warranties and
 like that. So it's a pretty broad spread in certainly leveraging relationships and people that
 we have.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. So those areas that you already have expertise in rather than like in new areas that
 you try to grow into?
 
@@ -787,10 +717,7 @@ Yeah. I think when we – in every line that we write, we have expertise. So we 
 enter a line without understanding it. And I think the lines that I highlighted are lines that
 we've been in for a while, but we're certainly looking at new lines as well.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. Excellent. My last question on the sort of – just wanted your thoughts on the
 expense structure. We are in sort of intermittent (42:28) pricing downturn for reinsurance,
 there are – two schools of thoughts there, one is that the company need to cut expense
@@ -821,10 +748,7 @@ Date: 2015-11-05
 
 FINAL
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 And the other thing I'd add to that Kai is, we do think our expense structure is certainly
 leverageable as well in that – by adding Platinum's premium on to our expense structure
 and then the net expenses we anticipate adding as a result of the Platinum acquisition.
@@ -833,10 +757,7 @@ expenses by leveraging them – leveraging what we've built, but Kevin is right,
 take a look at our expenses and we try and keep them under a tighter control as we can
 through time.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Great. Well, thank you so much for all the answers.
 
 A - Kevin J. O'Donnell
@@ -848,35 +769,23 @@ Merrill Lynch.
 
 Bloomberg Transcript
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Yes. Thank you. Just a couple questions on the Lloyd's segment. The acquisition expense
 ratio has been trending higher. You had mentioned you're ceding more, is there some
 sort of ceding commission that offsets that? I guess, I was surprised that it's popped up
 simply because you're ceding more?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Yeah, I think, it really tends to do with more of the business mix that's being written, Jay,
 that tends to have higher commissions associated with it.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Okay. And then on the accident year loss ratio for this unit, it – really it jumps all over the
 place, and obviously there's events that happen or don't happen in a particular quarter.
 Do you look at this last quarter and say, gee, that's roughly a normalized number or is it
 inflated or in fact better than you might expected?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 It's a little bit inflated just by a couple of the events that we noted and – I think it would
 actually be quite a bit lower where it not for those events. So we do not view it as terribly
 – I wouldn't say that we – I would say that, as I said, that we view the couple of events that
@@ -891,34 +800,23 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2015-11-05
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 So maybe average for the past couple of years might be a reasonable number to start
 with?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 
 FINAL
 
 I think it's always good to look at longer – yeah, longer periods of time.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Great. Thanks so much.
 
 Operator
 Your next question comes from the line of Brian Meredith with UBS.
 
-Q - Brian R. Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian R. Meredith {BIO 3108204 <GO>}
 Yes. Thanks. A couple of couple questions here. First, Jeff, on the guidance on managed
 cat premium going down 5%. When I think of that since you're – I think it sounds like you're
 planning on reducing DaVinci here. Should I expect the DaVinci cat premium to be down
@@ -926,27 +824,18 @@ more than the rent cat premium, so more business focused at rent?
 
 Bloomberg Transcript
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 No, Brian. I think maybe you misinterpreted the return of DV capital. The return of DV
 capital is essentially returning the capital that's been earned over the course of 2015,
 which is our normal practice. We don't have any current plans to reduce the size of it.
 
-Q - Brian R. Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian R. Meredith {BIO 3108204 <GO>}
 Okay, great. And then the second question, I'm just curious, Jeff, on the private equity in
 the quarter, the loss, I know you are one of the few companies that actually estimated it
 for the current period. What are the specific areas that you kind of estimated you're going
 to have the biggest declines within your portfolio?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Gosh, Brian, I don't have those right in front of me. You're right though that we do
 estimate or try and estimate them on a current quarter basis. I just tell – I just say that the
 decline in the private equity valuation was roughly in line with the decline in the public
@@ -957,10 +846,7 @@ following quarter. But I certainly wouldn't want to promise anything, but I woul
 anticipate that our private equity valuations are somewhat mirroring the changes in the
 public equity markets.
 
-Q - Brian R. Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian R. Meredith {BIO 3108204 <GO>}
 Page 16 of 23
 
 
@@ -996,10 +882,7 @@ area that we have advantage is that we are an owner of Essent, which is a mortga
 insurer, and with that we have great understanding of the primary mortgage business and
 also exposure coming in through the Ventures Group through our ownership of Essent.
 
-Q - Brian R. Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian R. Meredith {BIO 3108204 <GO>}
 Great. Thank you.
 
 A - Kevin J. O'Donnell
@@ -1008,10 +891,7 @@ Thanks.
 Operator
 Thank you. Your next question comes from the line of Ian Gutterman with Balyasny.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Hi. Thank you. First on the Platinum business, I guess I never thought to ask this, but as I
 recall the way they approach casualty was more of a generalist mindset as far as
 underwriters, right? They were sort of less siloed. And people would write multiple lines,
@@ -1033,9 +913,7 @@ Date: 2015-11-05
 blend, so that we have the deep expertise in a given line. But also if we don't have an
 underwriting feeling obligated they must write the line that they're in.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 
 FINAL
 
@@ -1050,10 +928,7 @@ So it's not that we're coming – trying to be an index player. We're very much 
 markets, finding the best players, and not really looking for the one good player in a bad
 market.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Got it. And is Lloyd's similar? Or just because of the structure of Lloyd's it's more
 necessary to have specific specialists?
 
@@ -1065,19 +940,13 @@ perspective. Part of that is the process in which you enter new lines within the
 franchise. But again we try to train people broadly so that if their – the line that they're in is
 no longer producing returns, we can move them to other areas.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Got it. That's very helpful actually. And then just a couple of numbers things for Jeff. I think
 a lot of Lloyd's was covered. Maybe just to sum up, is there sort of a view – I know you're
 hesitant to give specific numbers. But maybe even just directionally sort of what a longterm expense ratio should be for you guys at Lloyd's? I mean should it start with a three?
 Or is it going to be hard to get that far?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Well I think the answer to the question of – yeah, I think it will be hard to get to an expense
 ratio that starts with a three anytime soon.
 The way we view the profitability overall though, Ian, is we're very happy with the way that
@@ -1103,10 +972,7 @@ forward is premiums rising much faster than expenses. So we should see a continu
 decline in the expense ratio over a period of time. But in terms of getting to one that
 starts with a three that'd probably take some time.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Got it. Got it. That makes sense. And then just lastly on the Specialty side, can you maybe
 just go a little bit more detail. I mean I know it's spelled out in the press release, but just
 that restructuring of that one treaty just – I was just trying to understand better what
@@ -1131,10 +997,7 @@ We'd be happy to walk through the specific line items that were affected. But ov
 during the quarter, as I think I mentioned in my prepared remarks and was probably in the
 press release, the overall impact of the re-write in the quarter was reasonably small.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Got it. Okay. I'll follow-up with Rohan [Pai] just to – so I can do my model a little bit better.
 Okay, that's all I had. Thank you.
 
@@ -1142,10 +1005,7 @@ Operator
 Thank you. And your last question comes from the line of Michael Nannizzi with Goldman
 Sachs.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Thanks so much. Appreciate it. Just wanted to pick up maybe a little bit on the Lloyd's
 question. How should we think about that? I mean it seems like there's a desire to build
 
@@ -1191,10 +1051,7 @@ that. So it's really a combination of factors, but there's nothing I would point
 we have a different threshold of acceptable returns within the Lloyd's platform than we do
 elsewhere within the organization.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. Great. That's really helpful. Thank you. And then – and I guess picking up on the
 point you made upfront Kevin, you were sort of talking about this period being unusually
 benign and that returns – it's unreasonable to expect that whether normal or actual or
@@ -1205,10 +1062,7 @@ tailwind to that number has been lack of sort of normalized activity?
 A - Kevin J. O'Donnell
 The – that's a great question. Let's see. If actually we just dissect the quarter?
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Page 20 of 23
 
 
@@ -1226,10 +1080,7 @@ FINAL
 It wasn't a low cat quarter where we had the Tianjin loss, we had the losses that Jeff
 highlighted within the Lloyd's segment.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay.
 
 A - Kevin J. O'Donnell
@@ -1237,10 +1088,7 @@ It was simply a hurricane-free quarter. Back in the quarter, again, we just disc
 call, there was a private equity hit that we took, which I think on an annualized basis was
 about 2% ROE...
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Right. Yeah, yeah. Fair. Definitely.
 
 Bloomberg Transcript
@@ -1252,10 +1100,7 @@ think there's a lot of things that affected the quarter. So I would necessarily 
 forward, just recognizing that this quarter looked different than other quarters, but it
 wasn't a loss-free cat quarter, simply it was a hurricane-free cat quarter.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. Okay, great. Thank you.
 
 A - Kevin J. O'Donnell
@@ -1264,19 +1109,13 @@ Yeah. Appreciate it, Mike.
 Operator
 Thank you. You have one more question from the line of Sarah DeWitt with JPMorgan.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Hi, good morning.
 
 A - Kevin J. O'Donnell
 Hi.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Page 21 of 23
 
 
@@ -1301,10 +1140,7 @@ quarter is one that has cats, just not hurricanes. So I wouldn't characterize it
 on the bell curve. I would just characterize it as there's a lot of unique elements affecting
 the quarter as we have with most quarters.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Okay, great. Thanks. And then can you just talk about your appetite for M&A? Are there
 any lines of business or geographies where you think it might be more attractive to grow
 and inorganically similar to what you did with the Platinum acquisition?
@@ -1318,10 +1154,7 @@ RenaissanceRe to further our strategy, should a great target become available, I
 would certainly look at it. But there's certainly no need for us to look beyond the four walls
 of RenRe for anything to complete the objectives that we have in 2016.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Great. Thank you and congrats on a good quarter.
 
 A - Kevin J. O'Donnell

@@ -26,10 +26,7 @@ Bloomberg Transcript
 William Hawkins , Analyst
 
 MANAGEMENT DISCUSSION SECTION
-John Robert Dacey
-
-{BIO 4437051 <GO>}
-
+John Robert Dacey {BIO 4437051 <GO>}
 Thank you very much, and good afternoon or morning to all on the call. I'd just like to
 quickly introduce the nine-month results with a couple of thoughts of my own. And then,
 we turn quickly over to questions. The first to say the obvious, at nine months we do have
@@ -68,10 +65,7 @@ EVM results.
 And with that, I'd turn it over to our host again today, Philippe Brahin to manage the
 questions.
 
-Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+Philippe Brahin {BIO 19081619 <GO>}
 Many thanks, John, and good day to all of you also from my side. So as you know, we have
 adjusted the format of our reporting and our comments during the call will be focused on
 our nine-month results, in line with the scope of our press release. Also and as usual, I
@@ -87,10 +81,7 @@ Q&A
 Operator
 The first question here is from Edward Morris from JPMorgan. Please go ahead.
 
-Q - Edward Morris
-
-{BIO 16274236 <GO>}
-
+Q - Edward Morris {BIO 16274236 <GO>}
 Gentlemen (00:03:33), thanks for taking my questions. Two, please. The first is on Life &
 Health. I wonder if you could just talk a little bit more about the performance there,
 because you seem to be suggesting that the capital generation and EVM and Solvency
@@ -111,18 +102,12 @@ Company N ame: Swiss Re AG
 Company Ticker: SREN SW Equity
 Date: 2018-11-01
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thank you, Ed. John, do you want to start.
 
 FINAL
 
-A - John Robert Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Robert Dacey {BIO 4437051 <GO>}
 Sure. I think. I probably take both of those. On Life & Health, I think, we've been trying to
 emphasize two things. One, based on some important restructuring we did in Life &
 Health Re in 2013-2014, we put ourselves on a path to long-term profitability. You see that
@@ -157,10 +142,7 @@ question please?
 Operator
 The next question is from Gandhi Vikram from Societe Generale. Please go ahead.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hi. Thank you for taking my questions. Firstly, can I just check how far is cautious (00:07:10)
 aggregate cover from attaching (00:07:12) and if you've already had some recoveries.
 Can you share how far is it from the point of exhaustion? Secondly, given some of the
@@ -174,18 +156,12 @@ Company N ame: Swiss Re AG
 Company Ticker: SREN SW Equity
 Date: 2018-11-01
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thanks. Maybe, Edi, you want to take those questions.
 
 FINAL
 
-A - Edouard Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edouard Schmid {BIO 18942809 <GO>}
 So, the first one if I understand correct is on CorSo's aggregate cover we put in place as
 we mentioned in previous calls to protect the portfolio a bit better not just from large
 (00:07:41) events, but we have also put something in place that protects them against a
@@ -198,10 +174,7 @@ quarter a tiny bit negative, and that's one reason as we strengthened A&D to som
 extent in this quarter. Overall, we think we're now fine in line with all the different
 benchmarks we used to set A&D reserves. So, yeah, that's how I would describe A&D.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thanks, Edi. Thanks, Vikram, for your questions. Can we have the next question, please?
 
 Operator
@@ -210,10 +183,7 @@ Bloomberg Transcript
 
 The next question is from Thomas Seidl from Bernstein. Please go ahead.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yeah. Thank you. Good afternoon. First, ReAssure Life capital (00:08:45) suffered from
 the weak UK capital markets. I wonder if you could give us an update on how this would
 influence and where you are actually in your preparations to IPO ReAssure. Is it getting
@@ -224,16 +194,10 @@ need to write another $11 billion of premium to consume this capital, which prob
 likely in the next couple of years. So, what keeps you actually from making a more
 significant (00:09:25), let's say, bring it down by $5 billion, $6 billion?
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 All right. John, Back to you.
 
-A - John Robert Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Robert Dacey {BIO 4437051 <GO>}
 Thomas, I'll take both of these. With respect to the IPO, what I can say is, the preparation
 continues the pace. I really have no new insights for you compared to where we were in
 August. We specifically said, we would expect to be able to go to an IPO sometime in
@@ -264,10 +228,7 @@ where some combination of opportunities for writing new reinsurance and then pri
 insurance business, plus a – some increases in asset risk in the future would provide
 opportunities to deploy a substantial amount of those capital.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 All right. Thank you so much for your questions. Can we have the next question please.
 
 Operator
@@ -276,10 +237,7 @@ Bloomberg Transcript
 
 The next question is from Sami Taipalus from Goldman Sachs. Please go ahead.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Yeah. Hi. Afternoon everyone and thanks for taking my question. My first one is actually
 coming back to the capital generation in the first half, which was very strong. Is it possible
 to give just a little bit more of a breakdown of what was behind that capital generation? I
@@ -292,10 +250,7 @@ statement. Is that, we should think about it or actually, do we also need to cro
 against the capital you have available at the holding company level, because I guess that
 the two are not necessarily directly linked? Thank you.
 
-A - Edouard Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edouard Schmid {BIO 18942809 <GO>}
 So, Sami, to your latter point, yes, there are multiple dimensions which we evaluate the
 dividend capacity. The Group SST is clearly, one of them available capital that we do have
 at the holding company, a second and overall liquidity position. I'd say, at the moment, we
@@ -322,18 +277,13 @@ asset risk in the big picture and a clear capital generation of our first half b
 including in Life & Health is about as much detail as we're prepared to provide at this
 point.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thanks, Sami, for your questions. Can we have the next question please?
 
 Operator
 The next question is from Andrew Ritchie from Autonomous. Please go ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
@@ -346,10 +296,7 @@ as in the first half, which I think was particularly U.S. also related liability
 new? Is this part of a sort of lumpy review process just any bit more color straightly
 assurance would be helpful. Thanks.
 
-A - Edouard Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edouard Schmid {BIO 18942809 <GO>}
 Yeah. Thanks, Andrew, for these two questions. On the first one around re-underwriting,
 both P&C and CorSo. Like what we highlighted over the last few quarters that we took
 quite a different deal particularly on U.S. motor that's a bit older, but also on the U.S.
@@ -385,10 +332,7 @@ So A&E will strengthen a bit in Q3 and a couple of man-made losses from previous
 accident years were strengthened. That explains the tiny negative, but overall still in the
 positive territory for P&C Re.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thanks, Andrew for your questions. Can we have the next question please?
 
 Operator
@@ -396,10 +340,7 @@ The next question is from William Hawkins from KBW. Please go ahead.
 
 Bloomberg Transcript
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hello. Thank you very much. First of all, in Christian Mumenthaler's closing remarks in your
 press release, he refers to an inflection point in the P&C Reinsurance pricing cycle. Could
 you elaborate on the extent to which that's a confident forward-looking statements?
@@ -414,16 +355,10 @@ that is the underlying attritional experience has been extremely good since you'
 reported, is that kind of fair? And if so, why has the underlying experience excluding cats
 and reserve development being circa? Thank you.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thanks, William. I think, Edi, this is all for you.
 
-A - Edouard Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edouard Schmid {BIO 18942809 <GO>}
 Yeah. Thanks, Williams. On the first one, regarding inflection point. And maybe if we go
 back after the record losses in 2017, that clearly was an expectation that there would be a
 significant inflection point particularly for P&C Re, we have achieved in our business. In
@@ -475,19 +410,14 @@ quality is improving. So, that takes time to earn through, but we start to see s
 of this. So, the bottom line is overall for this year, we still think the 99% combined ratio
 P&C Re is a good estimate.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Excellent. Thank you, Edi. Thank you very much, William, for your questions. Can we have
 the next question please?
 
 Operator
 The next question is from Kamran Hossain from RBC. Please go ahead.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 
 Page 8 of 13
 
@@ -507,16 +437,10 @@ coming back to ratio, ahead of any potential IPO share. Can you just remind us, 
 are any additional kind of pockets to cash, so any kind of cash optimization that you might
 be able to do and kind of dividend up to creep ahead of that? Thank you.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thanks. Edi, you start it and John, I guess.
 
-A - Edouard Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edouard Schmid {BIO 18942809 <GO>}
 So, the question is about, let's say, the different renewal timing, so you referred to $1.1
 billion and $1.4 billion, maybe you also meant to include $1.7 billion, yeah. So, we had $1.1
 billion, where we only have moderate price increases, it was mainly the European book.
@@ -536,29 +460,17 @@ environment. There's still capital out there and quite a bump ins, that's fair t
 explained before there's also losses. There is pain in the system. So, for P&C Re, a flattish
 outlook I think is the least we expect.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 So, Edi, my question relates to the first half, as it relates to kind of your difference in
 upcoming dynamic is for $1.1 billion versus $1.4 billion.
 
-A - Edouard Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edouard Schmid {BIO 18942809 <GO>}
 Okay.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 I don't know $1.7 billion a little bit far away?
 
-A - Edouard Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edouard Schmid {BIO 18942809 <GO>}
 Yeah. So, the only point I would make in this respect is obviously, there are significant
 losses out of Japan with Typhoon Jebi, where we said it's about $6 billion market events
 and our share about $500 million, they were also smaller losses. So, that will clearly drive
@@ -574,18 +486,13 @@ the dynamics of $1.4 billion, which is mainly at Japanese one. And $1.1 billion 
 Europe, where there was not significant loss activity, so that is this flat picture. It's probably
 a fair view.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
+A - Philippe Brahin {BIO 19081619 <GO>}
 
 FINAL
 
 Thanks, Edi. Maybe John, on the ReAssure.
 
-A - John Robert Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Robert Dacey {BIO 4437051 <GO>}
 On ReAssure, again, I'm not allowed to say vis-à-vis the actual IPO process other than we
 continue to move ahead as planned. The one thing I would say is the Life Capital is a
 division, demonstrated a continued strong growth cash generation up to $1 billion for the
@@ -593,10 +500,7 @@ first nine months here. And among other things, this provides opportunities for 
 flexibility as we think about right capitalization levels and potential dividends before, after
 IPOs. But the IPO itself is – there's no real news on.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thanks, Kamran, for your questions. Can we have the next question please?
 
 Operator
@@ -604,26 +508,17 @@ The next question is from Frank Kopfinger from Deutsche Bank. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Yes. Good afternoon, everybody. I have also two questions. My first question is on your tax
 effects. Obviously, if whenever you have high loss burden, there are some sort of offset
 to our tax effect. Can you shed some light on how big they have been in Q3 in P&C and
 CorSo? And then secondly, can you also provide some thoughts on Hurricane Michael and
 your potential loss there?
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 All right. Maybe John on tax and Edi on Michael.
 
-A - John Robert Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Robert Dacey {BIO 4437051 <GO>}
 So, on tax – you're right, the geography which absorbs the losses has a different tax
 impact. I would simply suggest, we are in a little different world with the U.S. corporate tax
 down to 21%, the variations are smaller than they used to be. We have put in place the
@@ -634,9 +529,7 @@ or the United States. But net-net our goal is to make money here and the after t
 and how important to us is less important when we get back on our feet in terms of the
 underwriting.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
+A - Philippe Brahin {BIO 19081619 <GO>}
 Page 10 of 13
 
 
@@ -655,10 +548,7 @@ FINAL
 
 Edi, you might have additional view?
 
-A - Edouard Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edouard Schmid {BIO 18942809 <GO>}
 I would also have quoted some of these loss estimates from CHF 6 billion to CHF 10
 billion, that's not unreasonable. What I would also point out that Swiss Re is a little bit
 under rate in Florida, as we have commented in the past. So, as John said, it's too early to
@@ -666,10 +556,7 @@ come up with any specific at this point. But also as we said, we still think the
 combined ratio is a reasonable estimate for the full year. So, I think that describes the
 picture.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thank you, Frank, for your questions. Can we have the next question please?
 
 Operator
@@ -678,25 +565,16 @@ Bloomberg Transcript
 
 The next question is from Jonny Urwin from UBS. Please go ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi, there. Thanks for my questions. Two quick ones. So, firstly, how is the profitability of the
 casualty book developing in recent underwriting, as far as your expectations please? And
 secondly, what's your FX growth in both P&C Re and CorSo, going into 2019, should the
 pricing environment be flat? And should we expect any mix changes in P&C? Thank you.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Edi, do you want to take the two questions?
 
-A - Edouard Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edouard Schmid {BIO 18942809 <GO>}
 So, the first one is on Casualty quality of the portfolio, as I commented on earlier,
 particularly in the U.S. market, on the motor side, but also on the liability side, portfolios
 where we push for risk reduction for margin improvements we have achieved. Some of
@@ -719,9 +597,7 @@ Date: 2018-11-01
 segments. So overall there is the potential for growth, but it goes without saying that we'll
 still do that with underwriting discipline.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
+A - Philippe Brahin {BIO 19081619 <GO>}
 
 FINAL
 
@@ -730,10 +606,7 @@ All right. Thank you Jonny for your questions. Can we have the next question ple
 Operator
 The next question is from Vinit Malhotra from Mediobanca. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Good afternoon. First question please. Just maybe a bit of extra comment please on
 Corporate Solutions where the 1H growth was 18.5% and the nine month data is 9%. Is this
 just normal volatility? Is it just – is it that with management change CorSo, you're making a
@@ -749,16 +622,10 @@ aggregate sort of covers being sold to clients from your perspective or market
 perspective? And are these some things that are going to be important as we think of the
 next year, but also fourth quarter? Thank you very much.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Edi, you take those questions?
 
-A - Edouard Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edouard Schmid {BIO 18942809 <GO>}
 On CorSo growth 18% (00:31:32) versus 9%, so 9% is for the first nine months, so that's in
 line with strategy to grow that book and most of that comes from the Primary Lead
 initiative which starts to bear some fruit and I would again also point to the joint venture
@@ -787,10 +654,7 @@ decent returns over many years.
 
 FINAL
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Great. Thank you, Vinit for your questions. Actually, they are the last questions of the day.
 So, we've come to the end of our Q&A session. Thank you very much to John and Eddie.
 Thank you also for – all of you for joining us today. Don't hesitate to reach out any

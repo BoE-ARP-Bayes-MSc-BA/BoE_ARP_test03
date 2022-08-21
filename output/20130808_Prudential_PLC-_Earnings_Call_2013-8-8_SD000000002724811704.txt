@@ -34,10 +34,7 @@ conduct a question-and-answer session. Instructions will be given to you at that
 As a reminder, today's conference call is been recorded. I would now like to turn the
 conference over to Mr. Eric Durant. Please go ahead.
 
-Eric Durant
-
-{BIO 3932339 <GO>}
-
+Eric Durant {BIO 3932339 <GO>}
 Thank you, Cynthia. Good morning. Thank you for joining our call to review Second
 Quarter results. We realize we were relatively late to report this quarter. We hope the wait
 was worthwhile. In order to help you to understand Prudential Financial, we will make
@@ -76,10 +73,7 @@ presentations, we will have at your questions. John?
 
 Bloomberg Transcript
 
-John Strangf eld
-
-{BIO 14004907 <GO>}
-
+John Strangf eld {BIO 14004907 <GO>}
 Thank you, Eric. Good morning, everyone, and thank you for joining us. The central
 message today is that we had another strong quarter, and we are tracking well to achieve
 our goals for 2013. While we have clearly benefited from some tailwinds, including strong
@@ -125,10 +119,7 @@ Bloomberg Transcript
 
 FINAL
 
-Mark Grier
-
-{BIO 1391186 <GO>}
-
+Mark Grier {BIO 1391186 <GO>}
 Thanks, John. Good morning, good afternoon, good evening, depending on where you
 are. Thanks for joining us today. I will take you through our results for the quarter, and then
 I will turn it over to Rob Falzon. I will start with an overview of our financial results for the
@@ -450,10 +441,7 @@ refinancings. Now, I will turn it over to Rob.
 
 Bloomberg Transcript
 
-Rob Falzon
-
-{BIO 4770408 <GO>}
-
+Rob Falzon {BIO 4770408 <GO>}
 Thanks, Mark. I would like to give you an update on some key items under the heading of
 financial strength and flexibility, and they are summarized beginning on slide 25. First,
 focusing on our insurance companies. We continue to manage these companies to levels
@@ -500,10 +488,7 @@ subordinated notes. The cash in excess of our targeted $1.3 billion liquidity cu
 available to repay maturing debt, fund operating needs, or redeploy over time. Now I'll
 turn it back over to John.
 
-John Strangf eld
-
-{BIO 14004907 <GO>}
-
+John Strangf eld {BIO 14004907 <GO>}
 Okay. Thank you, Mark and Rob. That concludes our prepared comments, and we would
 like to open it up to Q&A.
 
@@ -515,10 +500,7 @@ Bloomberg Transcript
 
 Ryan Krueger, Dowling & Partners.
 
-Q - Ryan Krueger
-
-{BIO 15132646 <GO>}
-
+Q - Ryan Krueger {BIO 15132646 <GO>}
 First question on Gibraltar. You mentioned a few factors that benefited earnings this
 quarter, but even if I normalize for the good alternative performance, the surrender fees,
 and as well as seasonality, the results still seemed quite strong. And there any other
@@ -526,10 +508,7 @@ factors we should think about going forward? Maybe expense timing or anything li
 that could affect Gibraltar going forward, or if I adjust for those things, is that a good run
 rate to think about?
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 I think that you fairly point out that a lot of things went in the right direction for Gibraltar
 this quarter. You are right -- on the investment side, it was higher than we would normally
 expect. Certainly not all of it, but a portion of it was higher than I think you would want to
@@ -561,24 +540,15 @@ produced about a $50 million swing over the quarter, and as Mark pointed out, th
 stable, in contrast to the one timers that you just covered. So net net very strong, but I
 would not book the whole thing on a going forward basis.
 
-Q - Ryan Krueger
-
-{BIO 15132646 <GO>}
-
+Q - Ryan Krueger {BIO 15132646 <GO>}
 (multiple speakers) If I take into consideration all of the factors that you mentioned, it still
 seems like the earnings were running above $400 million. Is that a fair assessment?
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 I'm not sure I would want to stick a number on it. I would more or less stick with what I just
 said in terms of how you might want to adjust it.
 
-Q - Ryan Krueger
-
-{BIO 15132646 <GO>}
-
+Q - Ryan Krueger {BIO 15132646 <GO>}
 Okay. And then I have one on non-bank. It seems like there's been some increased
 discussion lately, including some comments from Ben Bernanke, that language in the
 Collins Amendment may limit the fed's ability to tailor capital rules to insurance companies
@@ -587,35 +557,23 @@ might have on that issue.
 
 Bloomberg Transcript
 
-A - Mark Grier
-
-{BIO 1391186 <GO>}
-
+A - Mark Grier {BIO 1391186 <GO>}
 Yes, this is Mark. I guess the main thought is that that's an issue that is out there. It is
 something that does come up when we talk about the consideration of what we consider
 to be appropriate capital insolvency regimes for an insurance company. And at this point, I
 would say that it is just something that we have to work through.
 
-Q - Ryan Krueger
-
-{BIO 15132646 <GO>}
-
+Q - Ryan Krueger {BIO 15132646 <GO>}
 I know there is a proposed bill out there to modify that. You -- have you seen that gaining
 any traction?
 
-A - John Strangf eld
-
-{BIO 14004907 <GO>}
-
+A - John Strangf eld {BIO 14004907 <GO>}
 Well, there are -- yes, there is legislation out there and there also are different opinions
 about the specific legal interpretation. The more general issue is a reluctance to reopen
 Dodd-Frank at all, and that is kind of the hurdle that we would have to get over to start
 looking at changes. And I would have to say the outlook for that is highly uncertain.
 
-Q - Ryan Krueger
-
-{BIO 15132646 <GO>}
-
+Q - Ryan Krueger {BIO 15132646 <GO>}
 Thank you.
 
 Operator
@@ -628,9 +586,7 @@ Company N ame: Prudential Financial I nc
 Company Ticker: PRU US Equity
 Date: 2013-08-08
 
-Q - Suneet Kamath
-
-{BIO 4776228 <GO>}
+Q - Suneet Kamath {BIO 4776228 <GO>}
 
 FINAL
 
@@ -640,10 +596,7 @@ wondering if you can kind of take us through the process of what actually happen
 contest the designation? You had given us in the past, I think, some color around stage I,
 stage II, stage III. So what actually happens in this contestation process?
 
-A - John Strangf eld
-
-{BIO 14004907 <GO>}
-
+A - John Strangf eld {BIO 14004907 <GO>}
 I guess the short answer is that I cannot give you a lot more color around the process. We
 are in the works. Timing-wise, probably somewhere around two months from late July we
 will have a final determination. As you mentioned, we have been working on our concerns
@@ -652,10 +605,7 @@ discussion of the process. I would reiterate that we don't believe that we satis
 quantitative criteria to be a SIFI, as it is contemplated in Dodd-Frank, and we continue to
 make that case.
 
-Q - Suneet Kamath
-
-{BIO 4776228 <GO>}
-
+Q - Suneet Kamath {BIO 4776228 <GO>}
 Right. I get that. I guess I'm trying to figure out if there's a difference between this
 process and the whole process going through stage I, stage II, and stage III. Clearly in
 those stages, you presented your arguments and the FSOC decided to make its own
@@ -664,20 +614,14 @@ through.
 
 Bloomberg Transcript
 
-A - John Strangf eld
-
-{BIO 14004907 <GO>}
-
+A - John Strangf eld {BIO 14004907 <GO>}
 Well again, without getting into a lot of detail, we did have a specific preliminary
 designation to discuss in the context of the last stage of the process, so that would have
 been different. But otherwise, I would add again, we have had high quality discussions
 around the nature of our business models and the issues that both we and the Counsel
 think are important.
 
-Q - Suneet Kamath
-
-{BIO 4776228 <GO>}
-
+Q - Suneet Kamath {BIO 4776228 <GO>}
 Okay. And then just moving to the capital position. If I go back to -- not the beginning of
 the year, but maybe the First Quarter call, I think you talked about $1.5 billion of
 redeployable capital. I think in the quarter you did the $250 million in buyback, the roughly
@@ -686,10 +630,7 @@ something like $575 million. And then you said the redeployable right now is $1 
 I'm just to figure out what was the actual capital generation in the quarter? Because it -- if I
 just run the math, it does not seem like it was a very sizable number.
 
-A - Rob Falzon
-
-{BIO 4770408 <GO>}
-
+A - Rob Falzon {BIO 4770408 <GO>}
 Suneet, it is Rob. First, the math that you did, I think, all adds up. As we looked at the
 overall capital capacity on balance sheet, I would characterize it is as not having changed
 materially. What change there was is more of a timing issue than an absolute issue, and
@@ -709,25 +650,17 @@ business growth, and then the items that you mentioned.
 
 FINAL
 
-Q - Suneet Kamath
-
-{BIO 4776228 <GO>}
-
+Q - Suneet Kamath {BIO 4776228 <GO>}
 So the strain, I guess, is the piece that I'm missing in here. The strain from business
 growth?
 
-A - Rob Falzon
-
-{BIO 4770408 <GO>}
-
+A - Rob Falzon {BIO 4770408 <GO>}
 Yes. If you look at our -- start with our earnings adjusted for things like NPR and FX
 remeasurement, which are noneconomic, you took out those items and you took out
 financing the growth of our business, you would find that that leaves us with a total
 capacity that is relatively unchanged.
 
-Q - Suneet Kamath
-
-{BIO 4776228 <GO>}
+Q - Suneet Kamath {BIO 4776228 <GO>}
 
 Bloomberg Transcript
 
@@ -739,10 +672,7 @@ by the PRTD deals, as was the Hartford Life deal, but it seems like that number 
 pretty sizable in terms of excess capital capacity that cannot be redeployed. So any detail
 on that would be helpful.
 
-A - Rob Falzon
-
-{BIO 4770408 <GO>}
-
+A - Rob Falzon {BIO 4770408 <GO>}
 Yes. A couple of thoughts on that. First, recognize that that is a number that cycles
 through during the course of the year. So we do, as you noted, and have, used the nonmonetizable capital. It can absorb risk for writing new business, so we can also absorb risk
 if things go bump in the night. So that -- while it is non-monetizable, it does not mean that
@@ -758,10 +688,7 @@ non-monetizable piece -- there will be a component of it -- I don't think you ev
 way, although it is reduced over time as a result of writing new business and doing things
 like pension risk transfer.
 
-A - Mark Grier
-
-{BIO 1391186 <GO>}
-
+A - Mark Grier {BIO 1391186 <GO>}
 Yes, Suneet, it's Mark. Maybe just to emphasize one point that Rob made. The amount of
 DTA that is eligible, that counts as an asset for statutory purposes, will roll over. So as
 some of that is monetized, more will meet the test and be accepted as an admitted
@@ -775,10 +702,7 @@ Company N ame: Prudential Financial I nc
 Company Ticker: PRU US Equity
 Date: 2013-08-08
 
-Q - Suneet Kamath
-
-{BIO 4776228 <GO>}
-
+Q - Suneet Kamath {BIO 4776228 <GO>}
 Okay. Thank you.
 
 Operator
@@ -787,10 +711,7 @@ FINAL
 
 John Nadel, Sterne, Agee.
 
-Q - John Nadel
-
-{BIO 6998784 <GO>}
-
+Q - John Nadel {BIO 6998784 <GO>}
 So there's a lot going on in the world today, but a couple of the factors seem to be pretty
 favorable for potentially driving further activity in the pension markets. Higher rates
 should, all by itself, be helping to reduce pension funding gaps, and obviously, strong
@@ -798,9 +719,7 @@ markets should be helping on the asset side. I just wonder if you can help us un
 based on your dialogue with potential customers, how much has the macro environment
 improving change the potential outlook, I'm assuming for the better, for that activity?
 
-A - Charles Lowrey
-
-{BIO 3976922 <GO>}
+A - Charles Lowrey {BIO 3976922 <GO>}
 
 Bloomberg Transcript
 
@@ -812,36 +731,24 @@ well, which is that as interest rates go up, they will hit certain trip wires, i
 invest more in bonds, which then creates a portfolio which is better for pension risk
 transfer.
 
-Q - John Nadel
-
-{BIO 6998784 <GO>}
-
+Q - John Nadel {BIO 6998784 <GO>}
 Interesting.
 
-A - Charles Lowrey
-
-{BIO 3976922 <GO>}
-
+A - Charles Lowrey {BIO 3976922 <GO>}
 So I think the environment looks promising. And as we have said, it is a very lumpy
 business. These transactions will occur when they occur, and that is dependent upon a
 whole variety of things, including board approvals and funding rates and all sorts of things.
 But we're having a great many conversations right now with different companies, and we'll
 see what happens.
 
-Q - John Nadel
-
-{BIO 6998784 <GO>}
-
+Q - John Nadel {BIO 6998784 <GO>}
 Would you -- Charlie, not to put you on the spot, but I'll try. Whether it is PRU or just an
 industry comment, I'm just wondering if you would put odds on a relatively large
 transaction getting done before the end of this year. I'm not asking you to comment on
 whether PRU would be a winner or not, but odds better than 50/50 that a large deal
 would get done or something different?
 
-A - Charles Lowrey
-
-{BIO 3976922 <GO>}
-
+A - Charles Lowrey {BIO 3976922 <GO>}
 Well I'll talk for a moment without answering the question. How's that? And that is that I
 think these deals have long lead times. And we are in a variety of conversations, but there
 Page 13 of 20
@@ -857,10 +764,7 @@ and they will occur when they occur.
 
 FINAL
 
-Q - John Nadel
-
-{BIO 6998784 <GO>}
-
+Q - John Nadel {BIO 6998784 <GO>}
 Fair enough. I thought it would try it. And a quick one for either Mark or Rob. You guys have
 been doing a lot on the balance sheet related to your debt, and preferreds, and hybrids,
 and junior subordinates. A lot of activity there. I know some of the reigning agencies view
@@ -869,10 +773,7 @@ equity credit they get, et cetera. If you look at the more onerous of those agen
 where do you stand currently from a debt-to-capital perspective and does it imply any
 capacity?
 
-A - Rob Falzon
-
-{BIO 4770408 <GO>}
-
+A - Rob Falzon {BIO 4770408 <GO>}
 It is Rob. The way we look at it internally is consistent, whether we think of the low or the
 major rating agencies. Moody's gives us only a 25% equity credit for the hybrids. We get
 full equity credit for the hybrids from Standard & Poor's by way of contrast on the other
@@ -880,9 +781,7 @@ extreme. So when we report our financial ratio to you, it is only giving ourselv
 benefit of that 25% allocation to equity, and that is the 24.7% financial ratio that we
 published for you.
 
-Q - John Nadel
-
-{BIO 6998784 <GO>}
+Q - John Nadel {BIO 6998784 <GO>}
 
 Bloomberg Transcript
 
@@ -891,10 +790,7 @@ Got it, okay. Thank you.
 Operator
 Tom Gallagher, Credit Suisse.
 
-Q - Tom Gallagher
-
-{BIO 3311667 <GO>}
-
+Q - Tom Gallagher {BIO 3311667 <GO>}
 First I had a question on slide 21. I just want to better understand what the message and
 the take-away is from this, which shows the international sales trends. The red bar on the
 bottom shows that clearly there is a nice upward trajectory of sales of other products,
@@ -902,10 +798,7 @@ which I guess would be your traditional products that you sold historically. Sho
 thinking about the other bars? The US dollar whole life, the cancer whole life, and the yenbased bank being the more asset-intensive products that are now going to continue to
 diminish? Is that a fair characterization or way to think about those?
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 Yes let me answer your question a little bit differently than the way you posted, if you
 don't mind, Tom. What we are trying to communicate here are a couple of things. First,
 before you even get into the colors of the bar, if you just look at the size of the bar, the
@@ -942,29 +835,20 @@ don't think there is much more of a message that we're trying to give here than 
 really was limited to that quarter. I don't think you will see the kind of volatility again unless
 there is some external or internal change comparable to what happened at that time.
 
-Q - Tom Gallagher
-
-{BIO 3311667 <GO>}
-
+Q - Tom Gallagher {BIO 3311667 <GO>}
 That's helpful, Ed. But would you say that those other -- those three products on the top
 bars, would you expect those to continue to diminish, or --? I just want to get a better
 sense for where --
 
 Bloomberg Transcript
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 No, I don't they will continue to diminish, John. And the reason I say it is, it had more -- it
 will diminish, depending on what you use as your baseline. Will it diminish relative to what
 it was in the Second Quarter of '12? Yes, maybe. But will it diminish relative to what it was
 in the quarters other than that? Not necessarily.
 
-Q - Tom Gallagher
-
-{BIO 3311667 <GO>}
-
+Q - Tom Gallagher {BIO 3311667 <GO>}
 Okay. And then is it fair to say, though, because then, just based on these bars, you took a
 bit of a step back in terms of your traditional products in 2012. Probably because you were
 emphasizing all these other products. And now that seems to have recovered. How would
@@ -972,10 +856,7 @@ you describe the competitive landscape for your traditional death protection pro
 now? Is it -- based on the sales this quarter, it would appear to be a lot better, but can you
 shed some light on that?
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 Sure. Yes. You make two key points there, John. One is you are absolutely right. The more
 traditional debt protection products dropped, relatively speaking, during that Second
 Quarter of '12, when more of the platform was consumed by the focus on the tax-driven
@@ -1003,19 +884,13 @@ reserving rate, which has brought about a broader dispersion of prices. But that
 materially affecting our performance because of our focus on debt protection and our
 distribution focus, primarily on proprietary distribution.
 
-Q - Tom Gallagher
-
-{BIO 3311667 <GO>}
-
+Q - Tom Gallagher {BIO 3311667 <GO>}
 Okay, thanks.
 
 Operator
 Sean Dargan, Macquarie.
 
-Q - Sean Dargan
-
-{BIO 15387640 <GO>}
-
+Q - Sean Dargan {BIO 15387640 <GO>}
 As we look at slide 25 with your solvency margin ratio, interest rates have risen since
 March 31. I was wondering if you could describe what the impact to your SMR will be, and
 maybe some characteristics of your investment portfolio and how you characterize or
@@ -1023,10 +898,7 @@ classify your investments?
 
 Bloomberg Transcript
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 Sure. You're exactly right. The second part of your question having to do with the
 composition of the portfolio is what influences the sensitivity on the SMR. So let me talk
 you through that. We have, as I believe most of you are aware, an extremely conservative
@@ -1043,16 +915,11 @@ compared to, really, what is expected, I think, of a AA company, or what is goin
 the competition. We are in a position that even if there's a relative diminution of it, it will
 still leave us in a very strong position.
 
-Q - Sean Dargan
-
-{BIO 15387640 <GO>}
-
+Q - Sean Dargan {BIO 15387640 <GO>}
 Thanks. And just a quick follow-up on Gibraltar. How much longer do you expect the
 elevated level of policy surrenders to continue?
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
+A - Ed Baird {BIO 15922078 <GO>}
 
 Page 16 of 20
 
@@ -1074,18 +941,13 @@ to believe that if it stays at the current level on the exchange rate, that you 
 surrender rate that is below what we witnessed in the Second Quarter. But again, going
 forward, the primary point is it will be linked to, and largely driven by, the exchange rate
 
-Q - Sean Dargan
-
-{BIO 15387640 <GO>}
-
+Q - Sean Dargan {BIO 15387640 <GO>}
 Thank you.
 
 Operator
 Joanne Smith, Scotia Capital.
 
-Q - Joanne Smith
-
-{BIO 16931590 <GO>}
+Q - Joanne Smith {BIO 16931590 <GO>}
 
 Bloomberg Transcript
 
@@ -1096,10 +958,7 @@ during the quarter that increased the run rate of this kind of normalized earnin
 it just the large pension risk transfer transactions, the Hartford Life acquisition, and the
 benefits of integration at Star and Edison? Or is it more that I might be missing there?
 
-A - John Strangf eld
-
-{BIO 14004907 <GO>}
-
+A - John Strangf eld {BIO 14004907 <GO>}
 Joanne, this is John. Let me offer a couple observations about that. What you're really
 seeing here is the cumulative effect of the building blocks that we have been talking
 about, really for the last three years. So whether that is the strong organic performance in
@@ -1112,10 +971,7 @@ things are contributing to this. It is these same elements that gave us confiden
 years ago to aspire to a 13% to 14% ROE, are the things that are coming to fruition today
 and are manifested in our results.
 
-Q - Joanne Smith
-
-{BIO 16931590 <GO>}
-
+Q - Joanne Smith {BIO 16931590 <GO>}
 Okay. Then when I look at the normalized ROE, John, I would say you are at or above the
 target level for 2013. How should we think about that? You're obviously not going to give
 us an update on your targets, but do you think that the 14% to 14.5%, or I think you X
@@ -1133,10 +989,7 @@ Date: 2013-08-08
 
 FINAL
 
-A - John Strangf eld
-
-{BIO 14004907 <GO>}
-
+A - John Strangf eld {BIO 14004907 <GO>}
 Yes, okay. A couple observations on that, as well. We believe we are on a good track
 towards the two aspects of our goal. One is achieving that range, and the second is doing
 it in a way that is sustainable over time. As you point out, firstly, two quarters does not a
@@ -1152,10 +1005,7 @@ think that's the way we think about it in terms of both achieving, getting into 
 and doing it in a way that is sustainable over time and through different phases in different
 markets.
 
-Q - Joanne Smith
-
-{BIO 16931590 <GO>}
-
+Q - Joanne Smith {BIO 16931590 <GO>}
 Thanks very much, John.
 
 Operator
@@ -1163,10 +1013,7 @@ Erik Bass, Citigroup.
 
 Bloomberg Transcript
 
-Q - Erik Bass
-
-{BIO 19920101 <GO>}
-
+Q - Erik Bass {BIO 19920101 <GO>}
 I just have a couple of big picture questions, I guess in terms of how you're thinking about
 the US business. Clearly, you've been raising prices and annuities, individual life and
 group, so sales trends there have been moderating. In retirement, you've seen steady
@@ -1175,10 +1022,7 @@ primarily being focused on maintaining and boosting margins and generating capit
 opposed to growth? And then secondly, where do you see the attractive growth
 opportunities in the market currently?
 
-A - John Strangf eld
-
-{BIO 14004907 <GO>}
-
+A - John Strangf eld {BIO 14004907 <GO>}
 Sure. I guess I would answer the first part of that question by saying I don't think that
 increasing margins are maintaining an appropriate level of profitability as mutually
 exclusive from growth. So if you look at our businesses, I think we are concentrating on
@@ -1207,52 +1051,34 @@ lines going forward.
 
 FINAL
 
-Q - Erik Bass
-
-{BIO 19920101 <GO>}
-
+Q - Erik Bass {BIO 19920101 <GO>}
 Okay. That's helpful. And just one follow-up. As sales levels come down, I would expect
 the drag from new business on capital would be decreased a little bit. Does that have a
 material impact on the amount of capital you generate in the business?
 
-A - Rob Falzon
-
-{BIO 4770408 <GO>}
-
+A - Rob Falzon {BIO 4770408 <GO>}
 Eric, it's Rob Falzon. Yes, I would say that obviously, we have to consume capital in order
 to finance business growth, as we've talked about. To the extent, and I don't mean to
 imply that sales are coming down, if that was your hypothesis coming into it, but to the
 extent that sales moderate relative to an installed book, it becomes less capital-intensive
 for us in order to finance that growth.
 
-Q - Erik Bass
-
-{BIO 19920101 <GO>}
-
+Q - Erik Bass {BIO 19920101 <GO>}
 Okay. Thanks. Any comments on order of magnitude? Or do you look at that as more of a
 general rule?
 
 Bloomberg Transcript
 
-A - Rob Falzon
-
-{BIO 4770408 <GO>}
-
+A - Rob Falzon {BIO 4770408 <GO>}
 I would look at that as a general rule. I think we've provided you in the past benchmarks
 for the amount of capital that comes out of our operating subsidiaries on average over a
 very long period of time, and works its way up to the holding company, I think, on
 average, that's probably a good rule of thumb to sustain.
 
-A - John Strangf eld
-
-{BIO 14004907 <GO>}
-
+A - John Strangf eld {BIO 14004907 <GO>}
 Just remember that it does vary a lot by product.
 
-Q - Erik Bass
-
-{BIO 19920101 <GO>}
-
+Q - Erik Bass {BIO 19920101 <GO>}
 Certainly. Thank you, very much.
 
 Operator

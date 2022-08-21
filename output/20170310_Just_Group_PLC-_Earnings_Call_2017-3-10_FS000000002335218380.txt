@@ -21,10 +21,7 @@ MANAGEMENT DISCUSSION SECTION
 
 Bloomberg Transcript
 
-Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+Rodney Malcolm Cook {BIO 14008420 <GO>}
 Right. Good morning, everybody. I'm Rodney Cook, CEO of JRP Group. For those on the
 phone, I'm joined on my left by CFO, Simon Thomas; and David Richardson, our Deputy
 CEO. I'd like to thank Numis sincerely for the use of their conference facility this morning,
@@ -320,9 +317,7 @@ Date: 2017-03-10
 So, now, I'll pass over to Simon, to explain these numbers in detail and then David will
 have a lot more details for you on capital. Simon?
 
-Simon George Thomas
-
-{BIO 15219564 <GO>}
+Simon George Thomas {BIO 15219564 <GO>}
 
 FINAL
 
@@ -441,10 +436,7 @@ That's all from me. I'll now hand over to David.
 
 Bloomberg Transcript
 
-David Louis Richardson
-
-{BIO 18045016 <GO>}
-
+David Louis Richardson {BIO 18045016 <GO>}
 Thanks, Simon. Good morning, everyone. So, first of all, I'd like to talk about our capital
 position, and we are very happy to report that our SCR coverage ratio rose from 134% at
 the end of June to 151% at year-end and clearly, this was helped by the 17% benefits from
@@ -602,10 +594,7 @@ So with that, I'll hand over to Rodney to wrap up.
 
 Bloomberg Transcript
 
-Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+Rodney Malcolm Cook {BIO 14008420 <GO>}
 Thank you, David. Before Q&A, just a couple of concluding slides, slide 23. So, by now,
 most of you will have noticed our new trading brand, Just, which we started rolling out at
 the beginning of this year. We've created a visualized entity that really stands out from the
@@ -673,10 +662,7 @@ customers.
 So, we will move to questions and could I have the first question from the web (48:47).
 
 Q&A
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Good morning. Gordon Aitken from RBC. Now, a couple – first on bulks. I mean, it seems
 there's a huge opportunity out there and other people have talked about it. The organic
 opportunity for you to grow as big but what if a block becomes available and the strain is
@@ -696,10 +682,7 @@ even 16 table swap, the increase on operating profit would be? Thank you.
 
 FINAL
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 Well, if I just start-off with the bulk deals. You're absolutely right, if you have close regards
 to some of our competitors last year, the benefit of being able to bring across a
 transitional from a previous insurance company which might make the capital zero or even
@@ -724,10 +707,7 @@ because of that crucial zero or negative capital need under Solvency II.
 David is a managing director, of course, of bulks, but that (51:47) – and could we have a
 comment on mortality?
 
-A - David Louis Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Louis Richardson {BIO 18045016 <GO>}
 Yeah (51:48). I completely agree with your comments on very large bulk deals, that's not
 really what we're planning on playing. In terms of new – the developments in a longevity
 improvement, so we do solely use the CMI 2014 tables. The new CMI projections are due
@@ -764,10 +744,7 @@ reflects any of those trends at the moment. It's something we're going to keep a
 close eye on today. But I think it's too early to give an indication to what it might do to
 earnings, although clearly it's a very positive backdrop.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 And certainly, it will be important for our regulators because the PRAs always held a view
 that longevity improvements were somewhat in advance of what the company's felt was
 their experience. But I think the CMI is the important unbiased, if you like, provider of that
@@ -795,10 +772,7 @@ you're giving out a potential profit, but, of course, we were doing that for ben
 reasons for capital usage and efficiency. So, that was the decision making, but these are
 the numbers after those calculations. But Simon, can you pick up the profit pattern?
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 Yes. I mean, clearly the pattern of profits are mostly fundamentally changed over the two
 years. And I think as I highlighted, one of the key drivers was the change in the pricing on
 the individual business at the start of 2016, where I think in essence, it's about NovemberPage 15 of 27
@@ -828,9 +802,7 @@ that we have against that new business margin as well and they haven't changed b
 these are comparable in that respect. But clearly, from a return in our recognition pattern
 perspective, we are getting a far, far better payback period in relation to this.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 
 Bloomberg Transcript
 
@@ -843,10 +815,7 @@ that is the point. We showed you that detailed chart, and we are making very cle
 the tail of the DB liability profile is an even better match for lifetime mortgages, though
 that does mean that you could potentially have a higher ratio going forward. So, David?
 
-A - David Louis Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Louis Richardson {BIO 18045016 <GO>}
 Yeah. That's right. So, I think the fundamental points here is not to think about 25% of a
 fixed number that we had to adhere to. The key thing we look at is how the cash flows of
 all the assets we invested, the combination of the corporate bonds, cash deals and the
@@ -873,18 +842,13 @@ So, that is the capability to, (01:00:01) what I would call, a more defined appr
 something that we're looking at. We're looking backwards the numbers as prepared for
 2016 and 2015 both used 25% in the profit recognition.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 
 FINAL
 
 Right. Thank you. Next, Andrew.
 
-Q - Andrew J. Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew J. Crean {BIO 16513202 <GO>}
 Thank you. Andrew Crean, Autonomous. Three questions, if I can. Firstly, you talked about
 the cost savings. Could you actually give us the cost on the pro forma 2016 versus pro
 forma 2015 so we can understand the base?
@@ -894,35 +858,23 @@ happen, what will go forward in the future? And then thirdly, in terms of your S
 roll forward, could you give us the impact in pounds million of the amortization of the
 TMPT (sic) [TMTP] (01:00:58) and the run-off at the risk margin, please?
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 Right. I don't know about that last question which obviously, David, you will seek to answer
 and Simon, can you talk about...
 
 Bloomberg Transcript
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 Let me talk about the operating company status (01:01:18). We've got -in these results,
 we've got about £12 million coming through (01:01:22) and of that, I would probably say
 that approximately £3 million of that overall loss was from TOMAS and approximately £3
 million up to £4 million from JRS, and the rest was from the other group companies. You
 have the actual high-level JRP Group company effectively so...
 
-Q - Andrew J. Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew J. Crean {BIO 16513202 <GO>}
 (01:01:41)?
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 No. No. No. This is a JRP Group, the company itself. And obviously, it's company had a
 small loss coming through that, that's JRS, say, that will be about £1 million coming through
 that line as well.
@@ -944,76 +896,45 @@ Date: 2017-03-10
 JRP Group company itself still has cost and that will still incur cost and that's probably likely
 to reside for that period of time, Andrew. But that's...
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 
 FINAL
 
 So, unfortunately Simon and David and I will not become a profit center any time soon.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 Yeah. No. Yeah. Andrew the other one ...
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 Just to be clear, we have spent £40 million already to produce the £30 million of savings.
 So, hopefully that is...
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 Was that your question? Sorry, Andrew...
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 No. No. No. His question was what, about the £12 million...
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
+A - Simon George Thomas {BIO 15219564 <GO>}
 
 Bloomberg Transcript
 
 No. No. No. But he also wants to talk about...
 
-Q - Andrew J. Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew J. Crean {BIO 16513202 <GO>}
 (01:03:00-01:03:10).
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 Well. We know that what's the proportion now, still 80-20?
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 It's typically if we sort of 70% (01:03:17) and about sort of 90% of the Partnership. So, the
 property will be lending about 80% of their (01:03:21).
 
-Q - Andrew J. Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew J. Crean {BIO 16513202 <GO>}
 (01:03:22).
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 Well, I can probably get for you under a separate (01:03:27) I can't give it to you. But what I
 would say is that clearly from the synergy perspective, the £45 million, those are
 operative costs that aren't affecting any of these HUB companies and things like that.
@@ -1029,57 +950,35 @@ Date: 2017-03-10
 
 into the new business profit in the future and being captured through the £45 million runrate when it comes through at the end of 2018.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 
 FINAL
 
 And 20% against the in-force.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 20% of the ...
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 And once they have been delivered, then the Chief Actuary can decide whether we can
 capitalize those and take advantage of that.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 (01:04:06).
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 You need to have delivered that.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
+A - Simon George Thomas {BIO 15219564 <GO>}
 
 Bloomberg Transcript
 
 Okay.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 Now, the Solvency II roll forward.
 
-A - David Louis Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Louis Richardson {BIO 18045016 <GO>}
 Yeah. So, on TMTP run-off, we're not disclosing that breakdown here or the risk margin
 components but the two broadly run-off together. And the TMTP is higher than the risk
 margin and that's because the risk margin is not the only onerous and maybe unduly
@@ -1091,10 +990,7 @@ They are forced to hold the Solvency II and the SCR over at TMTP amortization. A
 can double that, grow it at around 20% per annum going forward and that would give you
 a good fix on how (01:05:06) develop over the next few years.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 Just to explain partly the business that's written post the January 1, 2016 has a much
 faster release and higher risk proportion release than past business, and the reason for
 that is that there's no transitional attached to the new business. So, when we make
@@ -1117,10 +1013,7 @@ business, each year's business flowing off from the previous products of 2015 ac
 releases more than the amount that we have to repay back to the PRA who gave us this
 nice stuff line (01:06:12). If you can refer to a transitional (01:06:20).
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 Oliver Steel, Deutsche Bank. So, the first question, how much flow do you expect to get
 out of the Prudential panel? Secondly, do you – I can't quite work out whether your
 investment mix has changed or not. I haven't really looked through the back of your
@@ -1138,25 +1031,16 @@ against the EEV (01:07:11) new business margin, and I assume the EEV (01:07:13) 
 business margin captures the cost savings in full. Then sort of how would it correlate with
 the doubling of the new business margin on an IFRS basis?
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 Okay.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 Okay. So, the Pru panel, David has four participants. Yes. So, the Pru panel has more
 participants that's being published by the Prudential, couldn't comment on the volumes
 that's really fit for the Prudential. But clearly, they were the largest writer of GIfL once upon
 a time. So we expect it to be substantial.
 
-A - David Louis Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Louis Richardson {BIO 18045016 <GO>}
 So, because of (01:07:54) market proposition and we might have a 30-plus percent share
 of the open market. We don't see any reason why we wouldn't capture a traditional share
 there? Who's going to take investment mix?
@@ -1181,10 +1065,7 @@ might be looking at younger lives and unimpaired lives. So, it's kind of consist
 overall theme. The more sophisticated your risk selections, the greater the profit and
 margins that you can drive out and this is just another dimension of that.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 So, just to round that out, there are drawdown lifetime mortgages, there's lump-sum
 lifetime mortgages and of course, their profiles are different based on the younger age.
 That's always based on the younger age in a couple, but there's all that variety of those
@@ -1204,36 +1085,24 @@ Bloomberg Transcript
 Simon, the new business margin question and the comparative with the embedded value,
 please? Unless David...
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 The reinsurance point, I think, the reinsurance change actually is fairly neutral, actually, to
 the new business margin this year. We've increased the level of reinsurance as a standard
 quota share in that sense, but it's been effectively neutral coming through. And from an
 EV perspective, that would obviously adopt the same approach that's coming through, in
 terms of the layout for the mortality reserve.
 
-A - David Louis Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Louis Richardson {BIO 18045016 <GO>}
 Yeah. So, the EV numbers do reflect a new reinsurance and as Simon said, in your IFRS
 new business margin, it's pretty much neutral, the reinsurance. You do get a reduction in
 your (01:10:51) in EV on your new business. So, there is reduction in the new business
 margin and EV of around a percent, give or take.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 But, of course...
 And can someone remind me what is the EV value of new business post tax?
 
-A - David Louis Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Louis Richardson {BIO 18045016 <GO>}
 Page 21 of 27
 
 
@@ -1244,24 +1113,16 @@ Date: 2017-03-10
 
 Post tax, £142 million last year.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 
 FINAL
 
 (01:11:11).
 
-A - David Louis Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Louis Richardson {BIO 18045016 <GO>}
 Only what's achieved.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 (01:11:15).
 Yeah. Only what's achieved.
 Yeah.
@@ -1276,10 +1137,7 @@ post tax EV which of course has the release of the more prudent margins included
 apologies for the pre and post tax complications, but you guys are familiar with that. Next
 question, please.
 
-Q - Alan Devlin
-
-{BIO 5936254 <GO>}
-
+Q - Alan Devlin {BIO 5936254 <GO>}
 Thanks. Alan Devlin from Barclays. A couple questions. First of all on the open market;
 what size of opportunity do you think this is? Do you think – is there any reason to think
 that your addressable market couldn't double and the whole market (01:12:19) comes
@@ -1294,10 +1152,7 @@ right there, would you be willing to let your solvency ratio drop on the absolut
 drop if you're getting paid to take that risk or could you (01:13:07) that risk to kind of
 balance off the solvency? Thanks.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 Right. So, perhaps if I take the open market opportunity, so, clearly from the 40% level, if
 we can get back up to 60% which doesn't seem unreasonable since we've already been
 there, then that would be a 50% growth in our accessible market. So, that's a good
@@ -1427,24 +1282,16 @@ capital requirements of the world are in 2018 and 2019. Can someone answer the
 question on spreads with respect to bonds and lifetime opportunities? I didn't get the bit
 about comparison to equity, but...
 
-A - David Louis Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Louis Richardson {BIO 18045016 <GO>}
 Yeah. So, I think probably it's more useful to quote the combined spreads we're making.
 So, if you look at the EV disclosures, the spread on new business over the course of 2016
 was 262 basis points over swaps. That's the weighted average of our corporate bonds
 infrastructure and LTM spread weighted by cash flow.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 Simon, defaults quickly.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
+A - Simon George Thomas {BIO 15219564 <GO>}
 
 Bloomberg Transcript
 
@@ -1453,38 +1300,23 @@ basis points that we have in total and about 26 of that would unwind in the inve
 economic variance as a long-term realistic view of defaults coming through. The rest of it,
 therefore, the extra 20 would come through the end of the line (01:23:54).
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 And you already mentioned, we haven't had any defaults at all that we've seen in 2016.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 That's right. Yeah. Yeah.
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 We have a question – time for just one last before the end of session.
 
-Q - Marcus Barnard
-
-{BIO 2103471 <GO>}
-
+Q - Marcus Barnard {BIO 2103471 <GO>}
 Marcus Barnard from Numis. Just on the LTM market, there's sort of projections of it
 growing quite strongly, it grew 34% last year. I mean, if you do see this growth continuing
 to come through, would you be prepared to increase your 25% limit coming higher? I think
 even the PRA have talked about allowing higher levels of illiquid assets in backing annuity
 books, is that something you would review or consider?
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 So, to David and his team, to get that, what our new actuarial systems are enabling us to
 do is to better risk match. And as we indicated, there are a multitude of different types of
 Page 25 of 27
@@ -1503,10 +1335,7 @@ held to the 25%. However, in answering an important question earlier, which was 
 proportion was in the margin, then obviously Simon had to answer that strictly for 2016, it
 was exactly 25%. David, just to repeat, going forward, you intend to do what?
 
-A - David Louis Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Louis Richardson {BIO 18045016 <GO>}
 Yes. So, we're not going to set ourselves any specific limits because it is going to be a
 function of the mix of liabilities that we can write between GIfL and DB, and, of course, it's
 not uniform within those markets. And the opportunities that present themselves in the
@@ -1520,10 +1349,7 @@ single percentage. I think going forward, it'll be a kind of a risk-based approa
 
 Bloomberg Transcript
 
-A - Rodney Malcolm Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Malcolm Cook {BIO 14008420 <GO>}
 Well, Dave, the one thing that we saw very positively but, of course, Marcus, it only
 happened two weeks ago, David really stood up and said, well, he might expect over
 time that annuity providers might back their liabilities with, say, 40% of long-term liquid

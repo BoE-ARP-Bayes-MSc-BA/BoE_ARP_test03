@@ -30,10 +30,7 @@ May 2019.
 I would now like to pass the conference over to your ﬁrst speaker today, CEO, Matteo Del
 Fante. Please go ahead.
 
-Matteo del Fante
-
-{BIO 6237992 <GO>}
-
+Matteo del Fante {BIO 6237992 <GO>}
 Good morning, ladies and gentlemen. Thank you for joining us this morning, as we
 present Poste Italiane results for the ﬁrst quarter. I will take you through some highlights,
 before handing over to our CFO, Guido Nola, who will guide you through a more detailed
@@ -392,10 +389,7 @@ Thank you.
 
 Bloomberg Transcript
 
-A - Matteo del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo del Fante {BIO 6237992 <GO>}
 Okay. Thank you. Yes, I think, we keep our year-end targets. In terms of growth of
 revenues in parcel, we conﬁrm -- notwithstanding the fact that we had an above Deliver
 2022 target. But we think, the 10% target for full year is -- on B2B is achievable. The
@@ -405,10 +399,7 @@ is some marginal rounding adjustment that will take place but we are talking a s
 percentage point adjustment in our stake. Retail deposit, I will ask Andrea Novelli to
 comment and tax I will let the CFO answer tax on PosteVita.
 
-A - Andrea Novelli
-
-{BIO 15185958 <GO>}
-
+A - Andrea Novelli {BIO 15185958 <GO>}
 Thank you. Good morning, everyone. So retail deposits, ﬁrst of all, I would like to conﬁrm,
 as we discussed in the previous quarters and in our Capital Markets Day, that we are
 seeing positive net inﬂows coming from all our customer base. Then to give you an
@@ -417,10 +408,7 @@ to the other quarters of the year, because we beneﬁt from the stronger net in�
 normally have each year in December -- that then goes into increasing the average
 current accounts, amount for the ﬁrst quarter of the following year.
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 Thank you, Andrea. And lastly on the tax rate on PosteVita. I just will point, as you have
 some numbers on page 39 of the presentation, which shows a reduction in income tax
 Page 8 of 15
@@ -446,9 +434,7 @@ Operator
 Thank you. And our next question is from Ashik Musaddi. (Operator Instructions) Ashik,
 please ask your question.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 Bloomberg Transcript
 
@@ -466,29 +452,17 @@ interest rate would continue to move your net interest income up or not? Or do y
 that EUR410 million is a good run rate that we should take -- follow for the coming
 quarters? Thank you.
 
-A - Matteo del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo del Fante {BIO 6237992 <GO>}
 Yes, please, Guido on capital gain and IFRS and then I'll go back to Andrea on net interest
 margin.
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 So, good morning, Ashik. Thank you for listening. No, let me point you --.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Your line is not clear.
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 Sorry. So, I would say, good morning, Ashik. And no, I was trying to point you to the fact
 that, as we said in the past, you need to remember that half of our portfolio is actually
 hedged with -- and that hedge is normally done on the longer-dated bonds, which
@@ -516,34 +490,22 @@ can see how IFRS 17 [ph], has a negative eﬀect of EUR61 million on our positio
 increased by EUR54 million. The combination of the two is therefore marginal, I would
 say.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 No, I was more referring to slide number 34, where your net cash position has come
 down by EUR1.343 billion.
 
 Bloomberg Transcript
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 Yes. Okay. So you can see that there, you have the onetime adoption of EUR1.3 billion,
 and that again is related -- we anticipated that same eﬀect during the Capital Markets Day.
 As we said, we have an increase of both assets and liability of EUR1.37 billion and as we
 said and as you know, IFRS 16 then from now on, we'll start amortizing that. But the oneoﬀ adoption has created this addition to both asset and liabilities from EUR1.37 billion.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay, okay.
 
-A - Andrea Novelli
-
-{BIO 15185958 <GO>}
-
+A - Andrea Novelli {BIO 15185958 <GO>}
 So Ashik, on net interest income, we conﬁrmed the guidance - we gave at the Capital
 Market Day for the target for this year. The result we achieved is I believe again a
 conﬁrmation of our active management of the portfolio because we realized the capital
@@ -566,10 +528,7 @@ Company Name: Poste Italiane SpA
 Company Ticker: PST IM Equity
 Date: 2019-05-08
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. Thank you.
 
 Bloomberg Transcript
@@ -580,10 +539,7 @@ Operator
 Thank you. We will now take over next question from Giovanni Razzoli from Equita. Your
 line is now open.
 
-Q - Giovanni Razzoli
-
-{BIO 7269718 <GO>}
-
+Q - Giovanni Razzoli {BIO 7269718 <GO>}
 Good afternoon to everybody. Sorry to -- a clariﬁcation on the question before on the
 capital gains on the current hedged portfolio and the contribution NII. But just to see,
 whether I got your answer correctly. So as far as the capital gains is concerned, what you
@@ -600,10 +556,7 @@ going forward because you have sold long-term B2Bs, but I don't reconcile this w
 increasing the duration that you reported in Slide number 24, so if you can please clarify
 this message. Thank you.
 
-A - Matteo del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo del Fante {BIO 6237992 <GO>}
 No, Giovanni, thank you for the question and the need for clariﬁcation. Probably the short
 answer is that you're guessing is exactly the opposite of what is the reality, in the sense
 that, starting with the last question, yes, we had an above-target the ﬁrst quarter, that is
@@ -619,10 +572,7 @@ unexpected versus the forward decrease, let's call it 30 basis point, across mat
 the swap rates. And the underlying impact on the mark-to-market that obviously had a
 forward pointing to higher rate, as opposed to 30 basis points decrease.
 
-Q - Giovanni Razzoli
-
-{BIO 7269718 <GO>}
-
+Q - Giovanni Razzoli {BIO 7269718 <GO>}
 Thank you very much for the clariﬁcation.
 
 Page 11 of 15
@@ -639,10 +589,7 @@ IMI. Your line is open.
 
 FINAL
 
-Q - Manuela Meroni
-
-{BIO 1782610 <GO>}
-
+Q - Manuela Meroni {BIO 1782610 <GO>}
 Yes, hi. Good morning. Again on the capital gains, I'm wondering if you still have capital
 gains in the Financial Services division out of the net capital loss on that (inaudible) of
 EUR3.1 billion. And I'm wondering if you expect the total adds to further capital gains,
@@ -651,10 +598,7 @@ mainly due to the non-HR costs. I understood that this evolution is mainly relat
 business group. So I'm wondering, how much of the non-HR cost can be considered as a
 variable related to the evolution of revenues and business?
 
-A - Matteo del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo del Fante {BIO 6237992 <GO>}
 I can take the ﬁrst question again on capital gain. Yes, the answer that we have a portion
 of the portfolio that has underlying bonds that has a capital gains of above EUR1 billion as
 of the end of March 2019. And in terms of how much capital gains, we are planning to
@@ -664,29 +608,20 @@ non-HR costs, I hand it over to Guido.
 
 Bloomberg Transcript
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 Yes. So -- and I can conﬁrm that a large majority of the EUR37 million, which we showed as
 a variable cost increase, is part of the increase in revenues and I can tell you that the
 majority of these increase is related to Mail & Parcels, actually Parcel and to the payment
 of the cards in particular.
 
-Q - Manuela Meroni
-
-{BIO 1782610 <GO>}
-
+Q - Manuela Meroni {BIO 1782610 <GO>}
 Thank you.
 
 Operator
 Thank you. And your next question comes from the line of Anna Adamo from
 Autonomous Research.
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 Hi, good morning. I have two questions, please. Firstly, just a clariﬁcation on the solvency
 ratio on Slide 15, where you showed the evolution of the SCR. Can you explain why the
 underwriting risk has come down, as a result of higher unrealized gains. I don't quite
@@ -694,9 +629,7 @@ understand the link between the two? And then the second question is just a clar
 on the early retirement incentives, how much do you expect to book in Q4? Thank you
 very much.
 
-A - Matteo del Fante
-
-{BIO 6237992 <GO>}
+A - Matteo del Fante {BIO 6237992 <GO>}
 Page 12 of 15
 
 
@@ -709,10 +642,7 @@ Yes. I'll let Guido take this question.
 
 FINAL
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 Thank you. Yeah. So I hope I understood correctly your point. But as we said, we had a -what relates to the just solvency capital requirement, we had -- the largest part of this
 component was higher market risk and that component you should consider and this is
 the one I would point you to as the most relevant is that with rates where they are, the
@@ -726,34 +656,23 @@ said, most of the eﬀect will be done on Q4. So you will not see in the next co
 quarters much of the number. Everything will be done -- so everything we disclosed in the
 Capital Markets Day for year-end will be done at Q4, which is EUR0.6 billion.
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 EUR 0.6 billion?
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
+A - Guido Maria Nola {BIO 20719012 <GO>}
 
 Bloomberg Transcript
 
 Yes.
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 Thank you.
 
 Operator
 Thank you. (Operator Instructions) We do have another question come through, sir, and
 it's from the line of Ashik Musaddi from JPMorgan. Your line is open.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Hi, this is Ashik here again. I mean, just a couple of more questions if you can help me. I
 mean, the net ﬂows were pretty strong this quarter again and in the insurance you got
 around 1.5 billion ﬂows. So if I like do a times four of EUR6 billion, which is around 5%, 6%
@@ -773,9 +692,7 @@ Company Name: Poste Italiane SpA
 Company Ticker: PST IM Equity
 Date: 2019-05-08
 
-A - Matteo del Fante
-
-{BIO 6237992 <GO>}
+A - Matteo del Fante {BIO 6237992 <GO>}
 
 FINAL
 
@@ -794,9 +711,7 @@ we are selling liabilities, with less capital protection. And this we have imple
 strongly. On the ﬁgures, Andrea, I think, this was a very positive quarter, but I'll let you
 comment on the outlook for the rest of the year.
 
-A - Andrea Novelli
-
-{BIO 15185958 <GO>}
+A - Andrea Novelli {BIO 15185958 <GO>}
 
 Bloomberg Transcript
 
@@ -808,16 +723,10 @@ deposits then coming down in the remaining quarters. Whereas, as I mentioned ear
 and also as the CEO has conﬁrmed, we are still seeing a healthy and positive path for
 retail deposits and the other retail products, such as life insurance.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Okay. That's clear. Thank you.
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 Sorry, Ashik, before I take your question, I wanted to rectify what I said to Anna, which I
 was referring to EUR0.6 billion, as a year-end number for early retirement, I was actually
 thinking about 2018. The number for the year, we conﬁrm is 0.5% -- sorry, EUR0.5 billion.
@@ -830,10 +739,7 @@ which again was planned, because it was planned at the time of the commercial ac
 and the advertisement. So I wouldn't -- obviously, we don't change the guidance and we
 conﬁrm that as something achievable.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 That's very clear. Thank you.
 
 Page 14 of 15
@@ -849,10 +755,7 @@ There appear to be no further questions at this time. Speakers, please continue.
 
 FINAL
 
-A - Matteo del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo del Fante {BIO 6237992 <GO>}
 So thank you, everybody. And as usual myself, the CFO and Massimiliano Riggi, Head of
 IR, are available anytime. Thank you, bye.
 

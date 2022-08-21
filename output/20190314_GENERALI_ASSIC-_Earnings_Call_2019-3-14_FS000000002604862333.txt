@@ -11,9 +11,7 @@ Frédéric de Courtois, General Manager
 Philippe Donnet, Group Chief Executive Officer, Managing Director & Director
 
 MANAGEMENT DISCUSSION SECTION
-Philippe Donnet
-
-{BIO 4657671 <GO>}
+Philippe Donnet {BIO 4657671 <GO>}
 
 Bloomberg Transcript
 
@@ -290,10 +288,7 @@ Thank you for your attention.
 
 Bloomberg Transcript
 
-Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+Cristiano Borean {BIO 15246531 <GO>}
 Good morning to all. Philippe and Frédéric have already provided you with our key
 strategic and industrial achievements. I will now present our 2018 financial results from
 both a P&L and a capital perspective. Before I begin, let me remind you that as usual,

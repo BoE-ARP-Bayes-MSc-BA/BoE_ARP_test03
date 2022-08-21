@@ -29,10 +29,7 @@ Nick Holmes
 Oliver George Nigel Steel
 
 MANAGEMENT DISCUSSION SECTION
-Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+Michael Andrew Wells {BIO 4211236 <GO>}
 All right, everybody. If you don't mind, we'll go ahead and get started. Good morning. I'm
 Mike Wells, Nic and everybody in the room. We're going to follow the same format as the
 last presentation where you're going to have me go through some high-level comments,
@@ -352,10 +349,7 @@ as client acquisition, profitability, flexibility of the firm, its ability to ad
 So, I'll come back up after Nic and I'll give you some comments on outlook. But I could ask
 Nic to come up, please.
 
-Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 Okay. Thank you, Mike, and good morning, everyone. So, in my presentation, I will take
 you through the half year results, highlighting the key drivers of our performance in the
 period. And then I'll cover the group's capital position.
@@ -732,10 +726,7 @@ not immune to the economic and market cycles, we are in a strong position to tra
 profitably through any environment.
 And with this, I will hand you back to Mike.
 
-Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+Michael Andrew Wells {BIO 4211236 <GO>}
 Thanks, Nic. Appreciate that. Just a little bit on outlook. We obviously feel pretty good
 about where the group is and its ability to capitalize on the market and what's going on in
 this next phase of the cycle, a couple of fundamental reasons; one being strategic. The
@@ -879,20 +870,14 @@ we could find. So, we hand them a microphone if you need a specific question.
 Raghu, I'll leave you to the honors of hosting this piece.
 
 Q&A
-A - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+A - Raghu Hariharan {BIO 15133573 <GO>}
 We're just going to wait for the team to settle down. But before you ask a question,
 please do state the name of your firm and your name before firing away. Could I start with
 Jon there, please?
 
 Bloomberg Transcript
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Good afternoon, everybody. Jon Hocking from Morgan Stanley. I've got three questions,
 please; two on the U.S. and then one on the group capital sensitivities. So, first question
 on the U.S., just in terms of the (58:11) you've seen in the VA product in the first half, I
@@ -909,16 +894,10 @@ you get the 50 bps down on the right hand side of that slide, looks reasonably s
 wondered if you could sort of talk, Barry, how much of that is sort of assets versus
 liabilities and how much of it is sort of risk margin related? Thank you.
 
-A - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+A - Raghu Hariharan {BIO 15133573 <GO>}
 So, Barry, do you want to take the two U.S. comments, and Nic, the Solvency II?
 
-A - Barry Lee Stowe
-
-{BIO 15021253 <GO>}
-
+A - Barry Lee Stowe {BIO 15021253 <GO>}
 Page 17 of 35
 
 
@@ -938,10 +917,7 @@ back in the second half of 2015. So, that's the reason for the flows. In terms o
 we feel it was opportunistic. It's just something we do periodically. Chad, you want to talk
 about the specific details or...
 
-A - Paul Chad Myers
-
-{BIO 2234559 <GO>}
-
+A - Paul Chad Myers {BIO 2234559 <GO>}
 Sure. So, (01:00:06) returns, generally speaking, we target about 12% un-levered on those
 types of products. So, I think that's, generally speaking, what we saw. Keep in mind that
 this used to be a material portion of our overall balance sheet. The ability to actually earn
@@ -950,9 +926,7 @@ post-crisis, and that's finally started to go away. So, we're actually seeing go
 opportunity now to lever off of our AA rating and actually build and invest well against that
 during a good spread.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 
 Bloomberg Transcript
 
@@ -961,22 +935,13 @@ you said that you sort of reinvest to make it sort of greater than 20% IRR acros
 business. Is that 12% unlevered return? Is that a return on capital rather IRR metric? Was it –
 the two aren't same number.
 
-A - Paul Chad Myers
-
-{BIO 2234559 <GO>}
-
+A - Paul Chad Myers {BIO 2234559 <GO>}
 Return on capital, on AA statutory capital.
 
-A - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+A - Raghu Hariharan {BIO 15133573 <GO>}
 So Nic, your comments on Solvency.
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 Sure. There are other advantages. But, as you say, maintaining a stable general account
 level has a lot of benefits across the business. Certainly helps with liquidity as well. So, we
 take everything into consideration.
@@ -1023,38 +988,23 @@ So, there's a whole host of actions that in effect by June 30 have shifted our m
 not just be on the (01:04:05) liabilities plus. Not all the way to the one in 200 cash flows.
 We don't think that's sensible, but enough to bring the sensitivities down.
 
-A - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+A - Raghu Hariharan {BIO 15133573 <GO>}
 Andy?
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Hi. Andy Hughes from Macquarie. First question, 24% strain of the single premium for
 individual annuities?
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 Yeah.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 But that's presuming the bulk annuities, it would be even bigger and presumably – and I
 know you're outsourcing some of the annuity team to Mumbai, I suggest you probably
 outsource them to (01:04:41) instead. That's a huge trend. Is there something too specific
 about that? Is the expenses the right number or is that...
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 No, there's no expense, Andy. The people that we're transferring is to administer the
 sizeable back book. So, it's what the numbers show. It is what the numbers show. That 17%
 Page 19 of 35
@@ -1092,10 +1042,7 @@ that leaves us with the guaranteed annuity which we're trying to find a solution
 onerous and that's why we stopped bulk, and this is why, in this interest rate environment,
 you'll see us pull back on retail annuity as well.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Okay. And my second question was about U.S. VAs. Mike, I know you personally love
 dollar-for-dollar withdrawals and GMIB. And I see so many competitors had lots of
 problems in those products. So, is that going to impact the competitive landscape for
@@ -1104,10 +1051,7 @@ And also on lapse rates, obviously, MetLife brought forward the investigation of
 so if lapse rates in your U.S. business come down, it looks like that's probably positive
 based on your cash flow disclosures. So, if DOL drops lapse rates, is that positive? Thanks.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Yeah. I think on – just a general comment and you got a number of experts here in the
 room on it. So, lapse rates – one U.S. competitor wrote off (01:07:33) £2.1 billion, added £1
 billion, so there's an element of – we look at our assumptions at year end. We don't have
@@ -1146,18 +1090,12 @@ your travels for the heads of the broker dealers, which products are they willin
 to have on their platforms, and I think quality will be a major cut. I think we're in good
 shape on that.
 
-A - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+A - Raghu Hariharan {BIO 15133573 <GO>}
 Let's go to Lance, please.
 
 Bloomberg Transcript
 
-Q - Lance M. Burbidge
-
-{BIO 3978332 <GO>}
-
+Q - Lance M. Burbidge {BIO 3978332 <GO>}
 Good morning. It's Lance Burbidge from Autonomous. I've got a couple of questions on
 Jackson as well. So, in terms of launching of the fee-based version of the product, I
 wondered, Barry, if you could talk about, presumably, this is attractive for a sales person
@@ -1171,10 +1109,7 @@ So, maybe you can talk about that as well. And then just on the sensitivity for 
 you like other companies don't put negative rates into your sensitivity. I just wondered,
 Nic, if you've looked at what that does or if there's nothing in there.
 
-A - Barry Lee Stowe
-
-{BIO 15021253 <GO>}
-
+A - Barry Lee Stowe {BIO 15021253 <GO>}
 The fee-based product will be introduced. The Perspective II
 version would be introduced in September. What it really does, I think, as much as
 anything else is it does – it gives an alternative to the broker, to the advisor that it does
@@ -1226,10 +1161,7 @@ like the product. So, there's cause for real optimism for organizations who have
 record of being flexible, adaptable and sort of get on the cutting edge of things, and
 that's where I think Jackson is. Did I answer your question?
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 (01:14:27). I think on the interest rate piece, we've got a couple of issues. We have the
 ability to adjust guarantees down, as you have seen us do. The systems have the flexibility
 to do that. And then the accounting point of view, IFRS has sort of a market (01:14:42)
@@ -1258,22 +1190,14 @@ But, again, we're looking at it. And we do have the flexibility if we believe th
 true economics of lowering the guarantees and we have done that on the withdrawal
 rates.
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 Okay. Can I, Mike? Can I answer the question on the flows? So, you're referring to our
 internal model which flows interest rates pull shocks at zero.
 
-Q - Lance M. Burbidge
-
-{BIO 3978332 <GO>}
-
+Q - Lance M. Burbidge {BIO 3978332 <GO>}
 Oh, I'm sorry. I forgot to...
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 
 Bloomberg Transcript
 
@@ -1286,16 +1210,10 @@ immaterial impact. The other place where it drops to below zero is in the UK bet
 years not – today in year five, that's in the minus 50. Our cash flows in the UK are even
 longer. So, they go out 20 years plus. So, that in fact is immaterial.
 
-A - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+A - Raghu Hariharan {BIO 15133573 <GO>}
 Arjan?
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Thank you. Arjan van Veen, UBS. Two questions, if I may, first one on Solvency II capital
 movements. So, firstly, thank you for your detailed disclosure on page 76 on the
 movements there. The £1 billion of underlying organic capital generation represents about
@@ -1327,16 +1245,10 @@ obviously, underlying economic growth headwinds there? Are we seeing some light 
 terms of where you see that stabilizing and then picking up again, given all that different
 moving part?
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Well, Nic, do you want to take the Solvency II piece, and Tony the...
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 Thank you, and I think your analysis is correct. I mean clearly, there are some management
 actions in there, the benefit which you've accounted for them. Look, we have a business
 that generates capital. When you consider that effectively the U.S. comes in on a local
@@ -1356,10 +1268,7 @@ experience that contribute. So, no, we're confident in the same way as we are ag
 the metrics, but we ask you to judge us again, we're confident that we can continue to
 have a positive slope.
 
-A - Tony Wilkey
-
-{BIO 19184129 <GO>}
-
+A - Tony Wilkey {BIO 19184129 <GO>}
 Asia. Yeah. Hong Kong growth continues strong up 58% at the half. Again continued
 driven by Mainland Chinese and correlated quite well in with the growth in the agency
 force, which I think is now close to 16,000. In the first half, in Hong Kong, we've recruited
@@ -1415,16 +1324,10 @@ maybe the economies -you probably know the economy in Indo better than I do, but
 feels like it might have bottomed out. Currency is stable, JCI is up 20% year-to-date,
 looks a little bit better. As the economy recovers, our business will recover.
 
-A - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+A - Raghu Hariharan {BIO 15133573 <GO>}
 So, Oliver, please.
 
-Q - Oliver George Nigel Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver George Nigel Steel {BIO 6068696 <GO>}
 Oliver Steel, Deutsche Bank. Three questions. First, I'm going to refer (1:24:03) back to
 the U.S. Are you able to give us a some sort of indication of how much sales from
 qualifying accounts actually fell in the first half and ramification (01:24:13) what happened
@@ -1452,16 +1355,10 @@ line with earnings. But obviously, your earnings are benefiting quite a lot from
 currency weakness, and your dividend is paid in sterling. So how are you thinking about
 sterling relative to your dividend decision?
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Okay. So, Barry, do you want to comment on the qualified accounts first?
 
-A - Barry Lee Stowe
-
-{BIO 15021253 <GO>}
-
+A - Barry Lee Stowe {BIO 15021253 <GO>}
 What is the exact – I know Elite Access, you only talked to the sale side I think, Oliver. The
 Elite Access sales from qualified accounts have dropped to essentially zero almost. I
 mean they've fallen precipitously because, as Mike alluded to I think earlier or maybe Nic
@@ -1473,18 +1370,12 @@ fingertips? How much qualified is down versus non-qual?
 
 Bloomberg Transcript
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 We don't have the number at our fingertips in terms of percentage down, but what I
 would say is that the mix is about the same as it was last year. So you're looking at roughly
 65%ish percent is qualified. But, in the EA...
 
-A - Barry Lee Stowe
-
-{BIO 15021253 <GO>}
-
+A - Barry Lee Stowe {BIO 15021253 <GO>}
 In the non-EA. So, EA has been hit very hard. In terms of how we expect it to develop,
 broadly, we think that if recovery's afoot, it's not like it's going to come roaring back in the
 third quarter or the fourth quarter. I think it's a gradual thing over a series of quarters to
@@ -1501,9 +1392,7 @@ equities. And the prospect of a guarantee with the equity upside just, I think, 
 increasingly appealing. So, don't look for instantaneous change in sales levels, but over
 time, I think there's real cause for optimism.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Page 26 of 35
 
 
@@ -1529,10 +1418,7 @@ comment on flows?
 
 Bloomberg Transcript
 
-A - Guy Robert Strapp
-
-{BIO 15272859 <GO>}
-
+A - Guy Robert Strapp {BIO 15272859 <GO>}
 So, if we just wind back slightly, second half of last year flows started to slow after China
 intervened in both currency and stock market. So, sentiment in Asia started to shift after a
 very strong 2014 and for us, very strong first half 2015. You translate it into 2016 and
@@ -1544,16 +1430,10 @@ short duration product which is almost money market quasi product in China, whic
 management decided to close down with the two recent – with the only two funds that
 we're in outflow in the first half. So, 8 out of 10 countries is positive flow.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Anne on M&G, please?
 
-A - Anne Helen Richards
-
-{BIO 4145347 <GO>}
-
+A - Anne Helen Richards {BIO 4145347 <GO>}
 Yeah. So I think there's a couple of things to comment on. Two main reasons, I think, what
 flows have been under pressure over the last 18 months or so. First was very obviously
 related to performance and I think the second bigger driver was around Brexit, uncertainty
@@ -1593,15 +1473,10 @@ hopefully get a little bit more unraveling and visibility on the extent to which
 we'll still have European passporting (1:31:45) as the Brexit negotiations would underline.
 But in the rounds, that's the picture on that.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 And Nic, do you want to comment on dividend effects...
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 
 Bloomberg Transcript
 
@@ -1615,23 +1490,14 @@ countries where GDP is growing faster than the currency in which you're reportin
 over time, that will come through into additional earning. So, day-in, day-out, it's a fact
 that's not that significant, longer term, I think it's rightly a tailwind for us.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Oliver, we've historically hedged dividend payments, not hedged earnings, but – so there
 is some – we tried to dampen some of that a bit.
 
-A - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+A - Raghu Hariharan {BIO 15133573 <GO>}
 We've Blair.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Thank you very much. It's Blair Stewart from BoA Merrill. Three questions, please. Nic, you
 talked about the implemented practice in the U.S., I just wonder if you can expand on
 that? Is that something you're looking to explore? And then could you give us what the
@@ -1658,15 +1524,10 @@ especially to capture some of that surpluses disallowed (1:33:58) I don't think 
 on the With-Profit (01:34:00) if there is anything smaller that could be done there? Thank
 you.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Nic, (01:34:07).
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 
 Bloomberg Transcript
 
@@ -1679,10 +1540,7 @@ practice is a benefit to us, is further away. That being said, we've had strong 
 formation, even with this in place over the years. But it's something that we're looking at.
 Chad, would you add anything to that?
 
-A - Paul Chad Myers
-
-{BIO 2234559 <GO>}
-
+A - Paul Chad Myers {BIO 2234559 <GO>}
 Yeah. I think it's – the bulk of the answer is right there. So, with the permit to practice, we
 view that as something where interest rates are low enough, and we're deep enough
 with the money, if you will, that there's pretty good to offset up and down with reserves
@@ -1697,10 +1555,7 @@ think it would be harder for us to get that back on, having taken it off. But we
 so lightly but it's certainly an active discussion just given the fact what we're seeing now
 kind of one-sided market against us even though that economic edge is in place.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 The other thing I'd add, Blair, is you see the – the use more of treasuries as part of the
 hedging strategy, because it's more efficient plus volatile, plus they're also under STAT
 (01:36:03) graded book. So you're getting quite an understatement of the financial
@@ -1715,18 +1570,13 @@ Date: 2016-08-10
 strength of Jackson. We haven't ever given RBC other than when we published year-end,
 but it's still a very acceptable range for us.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
+Q - Blair Stewart {BIO 4191309 <GO>}
 
 FINAL
 
 Okay. So, the 12% growth in Indonesia?
 
-A - Tony Wilkey
-
-{BIO 19184129 <GO>}
-
+A - Tony Wilkey {BIO 19184129 <GO>}
 Yeah. I mean, Blair, you're absolutely right. We have been investing in the business. We've
 learned, and Mike often talks about countercyclical opportunities. We've continued to
 invest. We've expanded new branches. We've hired more agents. We've upgraded our
@@ -1736,10 +1586,7 @@ know Nic, if you want to expand on it any further?
 
 Bloomberg Transcript
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 Sorry. On the With-Profit side – sorry on the – yeah, we are extremely frustrated that I can't
 include the With-Profit that stayed into the ratio, not least because it seems we are the
 only business now that has a sizable amount. Nevertheless, we've had that debate. The
@@ -1752,16 +1599,10 @@ point, but to get more credit up front, you could monetize the shift, you could 
 shift further, but you're giving up the upside that we would do if we needed to within
 reason. But on the With-Profit side, it's difficult to bring more credit through onto the ratio.
 
-A - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+A - Raghu Hariharan {BIO 15133573 <GO>}
 Nick here, please.
 
-Q - Nick Holmes
-
-{BIO 21515144 <GO>}
-
+Q - Nick Holmes {BIO 21515144 <GO>}
 Thank you very much. Nick Holmes of Soc Gen. Couple of questions on the variable
 annuity book again. Just wanted to follow up on the policyholder behavior assumptions.
 Wondered if you could – I know this is an incredibly difficult take area. But I wonder if you
@@ -1789,10 +1630,7 @@ hedging. Thank you.
 
 FINAL
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 So, Nick, I'll take – start with both and I'll (01:39:48) to U.S. colleagues for help maybe. On
 the hedging, I think there's two elements. If you remember the New York meeting, a
 number of you were out and we sort of gave you 11.5 hours of everything you want to
@@ -1858,9 +1696,7 @@ Jackson, you'll see us disclose sensitivities, what are we – we've shown befor
 think of lapse rates, what we think of – what our stresses look like in the financial
 implications and we'll continue to give you those.
 
-A - Barry Lee Stowe
-
-{BIO 15021253 <GO>}
+A - Barry Lee Stowe {BIO 15021253 <GO>}
 
 Bloomberg Transcript
 
@@ -1886,10 +1722,7 @@ will react. And there are stochastic elements that are run within that to captur
 the variability of some of the assumption. So, no, we look at it, but we just thought if we
 moved, it would be just too artificial.
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 One other valid point that might be interesting for you, too, is around the policyholder
 behavior and the validity of the assumptions. And as Mike has said, we're constantly going
 through the process of reviewing, and we occasionally tweak as a result of that analysis.
@@ -1907,26 +1740,19 @@ Date: 2016-08-10
 our book, I would say the historical data that we produce on our book is probably the
 most credible data available in the industry.
 
-A - Raghu Hariharan
-
-{BIO 15133573 <GO>}
+A - Raghu Hariharan {BIO 15133573 <GO>}
 
 FINAL
 
 Now, go, Alan, please?
 
-Q - Alan G. Devlin
-
-{BIO 5936254 <GO>}
-
+Q - Alan G. Devlin {BIO 5936254 <GO>}
 Thanks. Alan Devlin from Barclays. Just one question. You mentioned the bolt-on deals. I
 think, you referenced to the U.S. I was wondering if you could give some color and what
 kind of things you were considering? Was the Department of Labor forcing you to
 (01:46:42) potentially out of the market? Thanks.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 
 Bloomberg Transcript
 
@@ -1948,22 +1774,13 @@ allocated specifically to that. We'll just – it'll be opportunistic as it's al
 do own a very low cost platform in the U.S. They can integrate those and produce some
 return in addition to their return the existing owner is getting. So, there's value there.
 
-A - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+A - Raghu Hariharan {BIO 15133573 <GO>}
 And then one last one? Andy?
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Andy.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 All right. Thanks so much. I've got a couple more questions. I think, Nic, will be
 disappointed if I didn't ask (01:48:13) Indonesia just to double check the persistency and
 lapses are okay because that would be my main concern. And I can see there's not much
@@ -1987,10 +1804,7 @@ not happen. Obviously, they have a big captive and you don't. But they were soun
 – do you expect any VA rules to come more economic, which might lead to higher capital
 requirements? Can you comment on that? Thanks.
 
-A - Barry Lee Stowe
-
-{BIO 15021253 <GO>}
-
+A - Barry Lee Stowe {BIO 15021253 <GO>}
 Lapses, if you like, you can see the numbers come through. The persistency pretty much
 across actually the portfolio on the protection side is strong. From time to time, you will
 some spikes, if equity markets aren't performing. You see some offshore withdrawals,
@@ -2008,10 +1822,7 @@ back of layering, if you like, more protection business to what was previously t
 Kong was underweight in our earnings before and it's now gradually drifting up to its
 appropriate weight. So, yeah, there's some (01:50:15).
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 (01:50:18) regulatory question, Andy, there's – I mean, there's always a prospect that
 regulations evolve over time. But we have always had and continue to enjoy a very
 positive and productive relationship with Jackson's lead regulator which is the State of
@@ -2021,10 +1832,7 @@ regime under which Jackson operates, and even more so, happy with the manner in 
 we've complied with that regime. And so, I don't think – I don't see a huge risk such as
 you've described.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 I just want to thank everybody for a very long session. I appreciate the time and the
 questions. And we'll maybe up for a few minutes if anybody want to do one-on-one.
 Thank you.

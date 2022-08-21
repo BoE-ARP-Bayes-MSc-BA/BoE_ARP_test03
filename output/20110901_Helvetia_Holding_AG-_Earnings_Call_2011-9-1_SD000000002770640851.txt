@@ -28,10 +28,7 @@ Instructions)
 At this time, I would like to turn the conference over to Mr. Stefan Loacker, CEO of Helvetia Group.
 Please go ahead, sir.
 
-Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+Stef an Loacker {BIO 15157193 <GO>}
 Thank you, Myra[ph]. Ladies and gentlemen, it is a pleasure to welcome all of you to the
 presentation of Helvetia's interim results for 2011.
 Of course, we all realize that, in these turbulent times, a review of the results for the first half-year
@@ -88,10 +85,7 @@ its sales. We have, once again, acquired additional market share, reduced our co
 maintained the strength of our balance sheet.
 Paul Norton will now discuss the core elements of our financial statement, with you.
 
-Paul Norton
-
-{BIO 16145125 <GO>}
-
+Paul Norton {BIO 16145125 <GO>}
 Thank you, Stefan. Ladies and gentlemen, I'm very pleased to talk to you about the solid
 performance achieved by Helvetia in the first half of 2011. As usual, I'd like to begin with a look at
 the business areas, on slide 6.
@@ -289,10 +283,7 @@ our risk management, we think we are extremely well positioned for these future 
 I'll now hand over to my colleague, Ralph Honegger, CIO, who'll give you further information at our
 investment results.
 
-Ralph-Thomas Honegger
-
-{BIO 4932832 <GO>}
-
+Ralph-Thomas Honegger {BIO 4932832 <GO>}
 Thank you, Paul. Ladies and gentlemen, it probably goes without saying that business on financial
 markets is fast moving and that events, perceptions, new information and their interpretation often
 have an immediate and excessive effect on prices.
@@ -381,10 +372,7 @@ As the markets are expected to stay volatile until the end of the year, Helvetia
 focused investment policy. And tried and tested hedging concept.
 With this I would like to pass over to Philipp Gmuer, CEO, Switzerland.
 
-Philipp Gmuer
-
-{BIO 5605415 <GO>}
-
+Philipp Gmuer {BIO 5605415 <GO>}
 Thank you, everyone. Ladies and gentlemen, I am pleased to provide you with a couple of insights
 with regard to our domestic Swiss business. The half-year result of our business unit Switzerland is
 characterized by the following elements.
@@ -448,10 +436,7 @@ the contrary, Alba and Phenix already contributed to an encouraging extent to ou
 results.
 And with this, I now hand over to Stefan Loacker.
 
-Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+Stef an Loacker {BIO 15157193 <GO>}
 Ladies and gentlemen, after this deep dive into our business performance of the first half year, I
 would now like to speak more about the implementation of our strategy.
 The start of our new program, Helvetia 2015 plus, coincides with a period now of major global
@@ -558,10 +543,7 @@ Questions And Answers
 Operator
 (Operator Instructions) Mr. Fabrizio Croce, Kepler Capital Markets.
 
-Q - Fabrizio Croce
-
-{BIO 15005585 <GO>}
-
+Q - Fabrizio Croce {BIO 15005585 <GO>}
 I have actually only two ones. The first one in the group Life business, your growth was very
 considerable. And here the question is what were the drivers? Are we still seeing autonomous
 
@@ -582,15 +564,10 @@ estate; so no longer duration zero but use of internal model. And so here, also 
 you seeing this development also for you?
 And are you planning to expand further the real estate share of your investment?
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Thank you, Philipp Gmuer will answer on the group Life business and Paul Norton on the SST issues.
 
-A - Philipp Gmuer
-
-{BIO 5605415 <GO>}
+A - Philipp Gmuer {BIO 5605415 <GO>}
 
 Bloomberg Transcript
 
@@ -604,10 +581,7 @@ And third, we think that the economic situation last year and in the first six m
 allowed improvements in salaries and their pension schemes of the different companies. So,
 summarizing, it's probably all those three elements contributing to this nice growth rate.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 And as I always underline our main management focus is on the periodic side of this business,
 which was very nicely developed, almost 9%/10%. But also, we have to book for the new reserves
 flowing into our balance sheet, as a reflection of the renewal fees which is always at the beginning
@@ -618,10 +592,7 @@ this time was, again, very high. So 30% came out of this. And we tend to focus o
 of this business, which is mainly explained by Philipp's explanations.
 We turn now to the SST, to Paul Norton.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 We obviously considered very strongly whether we should actually give you some -- explaining
 some more numbers, we would love to publish a range. We have really, internally, no problem with
 it.
@@ -646,10 +617,7 @@ And provided them with basics and criteria as to what would be acceptable in a m
 to Yatzee to go back and discuss that. And work something out. But at the moment we have not
 included anything for real estate duration in the model.
 
-A - Philipp Gmuer
-
-{BIO 5605415 <GO>}
-
+A - Philipp Gmuer {BIO 5605415 <GO>}
 Next question please.
 
 Operator
@@ -657,10 +625,7 @@ Peter Eliot, Berenberg Bank.
 
 Bloomberg Transcript
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Two questions please, probably one soft one. And one slightly harder one. Firstly on the Non-life
 side, it seems you have been very successful at switching focus of more profitable areas as the
 underwriting in those improves. German motor is probably one obvious example.
@@ -677,10 +642,7 @@ And, perhaps related to that, just looking at your target, it seems that the 94%
 ratio target is probably looking a bit easier to achieve than the Group RoE target. And whether
 there's any assumption on development of profitability in the different business divisions? Thanks.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 We would like to highlight on the Non-life portfolio development firstly. And then come back to the
 Life margin issues and RoE.
 Maybe you'll allow me to introduce the question of the portfolio composition with a historic point,
@@ -721,10 +683,7 @@ ratio improvement is, simply, the overall top line growth by more or less stable
 we have.
 With this I turn now to Paul for our Life business margin development and overall RoE targets.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 I think you have to remember that a lot of our peers are now using market assistant embedded
 value for Life, which gives you a very different picture. And is much more volatile. So some of the
 comparisons between prior year and current year are very difficult to make when looking at system
@@ -750,9 +709,7 @@ think our position, whereby we've had a very, very cautious investment policy. A
 some of the yield, it has, in fact, proved itself. And so, yes, it will still be hard to achieve that, the
 RoE. But I think we can still get there and keep within that 10% to 12%.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
+A - Stef an Loacker {BIO 15157193 <GO>}
 
 FINAL
 
@@ -761,10 +718,7 @@ Thank you, next question please.
 Operator
 Stefan Schuermann, Bank Vontobel.
 
-Q - Stef an Schuermann
-
-{BIO 3235442 <GO>}
-
+Q - Stef an Schuermann {BIO 3235442 <GO>}
 I have a few questions. The first one is one the FX impact. Maybe could you just remind me again
 in detail the total foreign exchange impact on the P&L, as well as the equity side. I'm not quite clear
 on that one. For example, on the P&L you show CHF28 million, I think that's a gross figure. And
@@ -778,52 +732,31 @@ Bloomberg Transcript
 And then the third one basically, considering the strong Swiss franc, are you basically increasing
 your screening for potential M&A targets in your core markets outside Switzerland?
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Okay, thank you for these questions, we'll take it up in the order that you have put them. I think Paul
 is best equipped to show the various effects of the FX development in our performance figures.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Unfortunately, it's in different places. You've seen the CHF28 million, which is reported in Ralph
 Honegger's presentation. That's the net effect of the investment hedges. There's also a
 corresponding impact in equity if you turn to slide 37, which is due to the effect of the hedging
 there. So you see there you've got CHF28 million currency effect of own investment funds. And
 offsetting that -- and that's all going through equity.
 
-Q - Stef an Schuermann
-
-{BIO 3235442 <GO>}
-
+Q - Stef an Schuermann {BIO 3235442 <GO>}
 Yes. But these figures are all before policyholder participation. Could you give us a net figure as
 well, or?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 I haven't got a net figure at the moment. I'll have to come back to you on that.
 
-Q - Stef an Schuermann
-
-{BIO 3235442 <GO>}
-
+Q - Stef an Schuermann {BIO 3235442 <GO>}
 Okay, no problem.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Ralph, on the property --
 
-A - Ralph-Thomas Honegger
-
-{BIO 4932832 <GO>}
-
+A - Ralph-Thomas Honegger {BIO 4932832 <GO>}
 Well, according to this property income, the CHF5 million you mentioned, no they're a basic
 amount of Switzerland. It's just a question -- you know, we only add value -- our real estate
 
@@ -833,18 +766,13 @@ portfolio once a year at the end of the year. So, therefore, the CHF5 million ar
 investments that we took, which are not yet realized in the valuation. So it's Swiss, a thing looking
 at a stock of CHF3.5 billion. It's not at all Spanish.
 
-Q - Stef an Schuermann
-
-{BIO 3235442 <GO>}
+Q - Stef an Schuermann {BIO 3235442 <GO>}
 
 FINAL
 
 Okay, that makes sense.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 And with regard to your question about M&A, I can only repeat that M&A for us, yes, is part of our
 strategic ambition. But just as an additional impact is not the core, of course, of our strategy. It's a
 continuous task to look for the suitable bolt-on opportunities.
@@ -854,15 +782,10 @@ issue. Of course, now it seems that devaluation is not on a sustainable long-ter
 could be, more or less, an additional factor. But that does not at all drive our ambitions to be now, I
 would say, too generous on spending from M&A, because of the FX element[ph].
 
-Q - Stef an Schuermann
-
-{BIO 3235442 <GO>}
-
+Q - Stef an Schuermann {BIO 3235442 <GO>}
 Okay, thank you very much.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
+A - Stef an Loacker {BIO 15157193 <GO>}
 
 Bloomberg Transcript
 
@@ -871,10 +794,7 @@ The next question please.
 Operator
 Jochen Schmitt, Metzler Equities.
 
-Q - Jochen Schmitt
-
-{BIO 4227302 <GO>}
-
+Q - Jochen Schmitt {BIO 4227302 <GO>}
 I have two questions if I may. Firstly, the organic growth rate in your Non-life segment, which was
 around 7%, in the first half, if I'm correct. You mentioned several reasons for that, like cooperations,
 boost of your sales force and rate increases, in your six month report. And my question is to which
@@ -884,10 +804,7 @@ And secondly, very quickly, on slide 20, the exposure to regional authorities, 2
 chart, does a major part of this refer to authorities from Switzerland, Austria and Germany? That's
 it, thank you.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Thank you. For the growth development, both in Non-life and Life, we are not actually providing a
 guidance for the second half of the year.
 Maybe as an indication, just as a flavor, we think that for the Life business, of course, as you have
@@ -908,24 +825,15 @@ FINAL
 Now we come to the questions of the split that you had of 20, where we have seen those regional
 authorities, which are not on country level. But below. And Ralph Honegger has the details on this.
 
-A - Ralph-Thomas Honegger
-
-{BIO 4932832 <GO>}
-
+A - Ralph-Thomas Honegger {BIO 4932832 <GO>}
 So the 20.8% roughly, represent CHF1.7 billion. And taking that as 100%, it's 85% Swiss and
 German. And some Austrian. And to address the question, it's 2% in PIIGS and that's it -- it's even
 less than in the Government exposure.
 
-Q - Jochen Schmitt
-
-{BIO 4227302 <GO>}
-
+Q - Jochen Schmitt {BIO 4227302 <GO>}
 Thank you.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 The next question please.
 
 Operator
@@ -934,43 +842,28 @@ Bloomberg Transcript
 
 Tim Dawson, Helvea.
 
-Q - Tim Dawson
-
-{BIO 3214668 <GO>}
-
+Q - Tim Dawson {BIO 3214668 <GO>}
 Just one pretty simple question actually. On the slide concerning the margins on the Life business,
 particularly I'm referring to the investment income and the guarantees. You have a slight increase
 in the achieved yield, direct yield, in H1 2011 compared to 2010. I know it's not a huge move. But it's
 nevertheless, slightly surprising. I just wondered if you could explain what was behind that. Is it an
 asset mix shift, or what else?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Unfortunately, it's a comparison issue. We actually compared the full year for 2010 with the first half
 2011, because we get most of the dividends coming in the first half of the year, you get a slight
 boost in the year. So it'll flatten out slightly over the second half.
 
-Q - Tim Dawson
-
-{BIO 3214668 <GO>}
-
+Q - Tim Dawson {BIO 3214668 <GO>}
 Good, simple enough, thank you.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Thank you, next question please.
 
 Operator
 Ralph Hebgen, KBW.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Good morning, everybody; a number of things. First of all, I think there were some hailstorm
 events over Switzerland in Third Quarter. Would you be able to tell us whether you expect any
 claims in the second half, from that event?
@@ -993,10 +886,7 @@ Would you be able to explain why other activities still is so strong? And also, 
 million in 1H '10 have been, had you already used hedging -- hedge accounting in that interim? And
 I think that's all it is, thank you.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Thank you, Ralph, I will start on the hailstorms in July and August. We already included that
 message in the explanations of Paul. So that we are assuming that seeing this as a full year's
 impact might have a 1 to 1.5percentage point impact on our claims or combined ratio. So that was
@@ -1005,10 +895,7 @@ With regard to the new business margin, slide 11, I turn to Paul.
 
 Bloomberg Transcript
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 The main drivers are actually -- as you said, there's a positive development in expected yields,
 going forward. That has been offset to some extent, or to a large extent, by the higher
 assumptions on solvency capital requirements. We had -- we increased that last year.
@@ -1020,31 +907,19 @@ unit linked this year. And they are obviously more profitable than the tradition
 are the drivers. Basically they tend to offset each other, which is why you've got the CHF1.3 million
 stable in both periods.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Other activities?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Other activities. Other activities obviously includes the active reinsurance business, which is
 positive. It also includes some centralized investment vehicles that we have. And they obviously
 make money as well; and investment income. And those are the two basic driving forces in that
 business.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 The restatement?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 And the restatement, we haven't done a restatement. But we can, as we pointed out I think, on
 slide 37, the amount that this year, that we had in hedging, I think CHF24 million. So it would have
 
@@ -1053,66 +928,41 @@ slide 37, the amount that this year, that we had in hedging, I think CHF24 milli
 been -- the profits would have been CHF24 million higher this year. But we haven't restated from
 prior years.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 
 FINAL
 
 Okay, just as a quick follow up in that case. Would you be able to disclose what the reinsurance
 result was, in 1H '10 and 1H '11?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 We haven't so far disclosed the reinsurance results separately.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay, thank you very much.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 It's basically -- it's getting on for half of the result almost.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Did you say about half ?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 Bloomberg Transcript
 
 Getting on towards half of the disclosed amount.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay, perfect, thank you very much.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Next questions please.
 
 Operator
 Michael Klien, UBS.
 
-Q - Michael Klien
-
-{BIO 4262408 <GO>}
-
+Q - Michael Klien {BIO 4262408 <GO>}
 It's actually Nomura. But my questions if I may. Firstly on the combined ratio, you mentioned that
 the administration cost ratio dropped from 9% to 7.8%. And there were some one-off effects
 included. Unfortunately, I didn't completely understand, or I misheard the number. If you could
@@ -1130,9 +980,7 @@ payout ratios. So closer to 50% rather than 30%?
 
 
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 FINAL
 
@@ -1161,39 +1009,25 @@ efficiency gains due to the volume that we've seen coming up.
 SST scenarios, we haven't published SST scenarios and given the uncertainties, as we said, on the
 SST, we don't wish to give those at the moment.
 
-Q - Michael Klien
-
-{BIO 4262408 <GO>}
-
+Q - Michael Klien {BIO 4262408 <GO>}
 Okay. Thank you, very much.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Next question please?
 
 Operator
 Kent Choi, Goldman Sachs.
 
-Q - Kent Choi
-
-{BIO 16941884 <GO>}
-
+Q - Kent Choi {BIO 16941884 <GO>}
 So two questions, if I may. Firstly, could you please comment on the claims inflation trends in your
 Non-life business?
 And also, the second question is could you also explain why the claims ratio in your Swiss Non-life
 business ticked up in the first half ? Thank you.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Will you start with the inflation question?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 
 
@@ -1207,25 +1041,17 @@ We do see, generally, a pricing increase going across the board. But it varies f
 country; you can't make any easily generic assumptions. But, generally, we don't see much claims
 inflation but what we do see is definitely a pricing inflation or tariff inflation.
 
-Q - Kent Choi
-
-{BIO 16941884 <GO>}
-
+Q - Kent Choi {BIO 16941884 <GO>}
 Thanks.
 
-A - Philipp Gmuer
-
-{BIO 5605415 <GO>}
-
+A - Philipp Gmuer {BIO 5605415 <GO>}
 With regards to the claims ratio of Switzerland, our claims ratio has been on an extraordinary low
 level for years, especially also in the first six months of 2010. Now, in the first six months of 2011,
 we do not have large claims as we said before. But we do not have no claims. So there were a
 couple of claims. But we think that our high portfolio quality is still mirrored in an extraordinarily low
 claims ratio of some 53%.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
+A - Stef an Loacker {BIO 15157193 <GO>}
 
 Bloomberg Transcript
 
@@ -1237,25 +1063,16 @@ profit of the Swiss Non-life has been increasing. So, thus, there's no particula
 frequency or elsewhere. But it's mainly this Alba effect that we have and the extraordinarily low
 situation that we had last year.
 
-Q - Kent Choi
-
-{BIO 16941884 <GO>}
-
+Q - Kent Choi {BIO 16941884 <GO>}
 Okay, thank you. That's very helpful.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Other questions?
 
 Operator
 (Operator Instructions) Rene Locher, MainFirst.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 I've a couple of questions. First of all, I would like to talk a little bit about group Life business in
 Switzerland. So I'm really puzzled what happened in H1; strong growth with private insurance
 companies, some private insurers didn't grow that much in group Life business. So just I would like
@@ -1285,19 +1102,13 @@ range. So I was wondering, any chance to reduce the cost ratio in Germany? So wh
 that the cost ratio in Germany is more than 400 bps higher? Is it acquisition costs? Is it
 administration costs? Thank you.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 We are starting off with the second pillar business in Switzerland, growth and also the profitability
 situation reflected by Philipp Gmuer.
 
 Bloomberg Transcript
 
-A - Philipp Gmuer
-
-{BIO 5605415 <GO>}
-
+A - Philipp Gmuer {BIO 5605415 <GO>}
 Thank you, Stefan. As I mentioned before, there are different drivers for our market share gaining
 and for this growth rate. I think one point to mention as well is these are[ph] almost no clients. That
 means we have a high retention rate in our client portfolio and this helps us with regard to the
@@ -1310,26 +1121,17 @@ that we make the whole administration. We get the costs and risk premium. But we
 savings[ph] part on our balance sheet. And that as well helps us boost our profitability or keep it on
 a very good level in the group Life business.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Interest guarantee rates next year?
 
-A - Philipp Gmuer
-
-{BIO 5605415 <GO>}
-
+A - Philipp Gmuer {BIO 5605415 <GO>}
 And with regard to the interest guarantee rates, we hope that the Federal Government is lowering
 it. What we see is an interest rate of 1% for next year. Given the fact that we have government
 bonds with a 10 year yield of about 1% right now, we think that we see a reasonable number. Right
 now, we are at 2% and if the Federal Government lowers this interest rates, it helps us keep our
 margins at a reasonable level.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 With regard to the cost ratios, Italy it is predominately a volume effect. So it's more or less the
 ambition to keep our infrastructure at its given size and to digest the numerous more policies that
 we have to handle through better efficiency.
@@ -1366,10 +1168,7 @@ Bloomberg Transcript
 
 Ralph has another point to make[ph].
 
-A - Ralph-Thomas Honegger
-
-{BIO 4932832 <GO>}
-
+A - Ralph-Thomas Honegger {BIO 4932832 <GO>}
 Thank you. The question about direct yield, we're really not planning to lower our investment
 quality in the fixed income area. We stick with at least an A rating for new investments. Just keep in
 mind, especially in Life business, you're still heading for longer duration; therefore, we want to
@@ -1378,74 +1177,46 @@ And for the time being, taking into account the portfolio, also the investment p
 quite a nice direct yield, we are happy, obviously, in this low interest rate environment, with the
 direct yield of our portfolio.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Thank you.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Thank you. We have more questions in the queue. The next one, please.
 
 Operator
 Ralph Hebgen, KBW.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Just one point of detail. Would you be able to disclose the reserve releases in P&C, both in 1H '11.
 And 1H '10?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 We don't have any reserve releases.
 
 
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 So they're zero?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 FINAL
 
 We have normal run-off costs[ph].
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Yes. Basically, I'm after the normal run-off results, or in other words, the prior year contribution, the
 development of the prior year book, how much that contributed.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 We don't disclose that explicitly. What I can say is, last year, the run-off results were very low,
 compared with the average that we've seen. And this year, they're moving up towards the
 average of the past two years.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay, cool. Perfect, thank you.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
+A - Stef an Loacker {BIO 15157193 <GO>}
 
 Bloomberg Transcript
 
@@ -1454,52 +1225,36 @@ The next question, please.
 Operator
 Fabrizio Croce, Kepler Capital Markets.
 
-Q - Fabrizio Croce
-
-{BIO 15005585 <GO>}
-
+Q - Fabrizio Croce {BIO 15005585 <GO>}
 Yes, a very short one. As you said, potentially, 45% of the BBG[ph] solution are off balance sheet.
 Now linked to the new business, which you just acquired, would you say that it's moved in a similar
 pattern? Or do you have now really a trend towards more safety and, therefore, more people look
 for a full insurance coverage, rather than for the off balance sheet solution?
 
-A - Philipp Gmuer
-
-{BIO 5605415 <GO>}
-
+A - Philipp Gmuer {BIO 5605415 <GO>}
 Of course, what we see right now is an increasing demand for a traditional solution. But you
 probably know that our off balance business in group Life is acquired by the Cantonal Bank. And
 there, we see still a huge volume of possible new clients. And thus, we do not think that there is a
 material shift between those clients and the numbers of the total of clients being off and on
 balance.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
-
+A - Stef an Loacker {BIO 15157193 <GO>}
 Our midterm ambition is to keep this ratio more or less stable, or even slightly emphasize the part
 that is outside our balance sheet.
 
-Q - Fabrizio Croce
-
-{BIO 15005585 <GO>}
-
+Q - Fabrizio Croce {BIO 15005585 <GO>}
 Okay. Thank you.
 
-A - Stef an Loacker
+A - Stef an Loacker {BIO 15157193 <GO>}
 Next question?
 
 Operator
-
-{BIO 15157193 <GO>}
 
 
 
 There are no more questions at this time.
 
-A - Stef an Loacker
-
-{BIO 15157193 <GO>}
+A - Stef an Loacker {BIO 15157193 <GO>}
 
 FINAL
 

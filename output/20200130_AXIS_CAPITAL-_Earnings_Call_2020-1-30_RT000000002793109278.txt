@@ -29,10 +29,7 @@ note this event is being recorded.
 I would now like to turn the conference over to Matt Rohrmann, Head of Investor
 Relations. Please go ahead.
 
-Matthew J Rohrmann
-
-{BIO 15132648 <GO>}
-
+Matthew J Rohrmann {BIO 15132648 <GO>}
 Thank you, Andrew. Good morning, ladies and gentlemen. I'm happy to welcome you to
 our conference call to discuss our financial results for Axis Capital for the fourth quarter
 and year ended December 31, 2019. Our earnings press release and financial supplement
@@ -64,9 +61,7 @@ which is a better representation of the run rate performance of our business.
 Reconciliations are included in our earnings press release and financial supplement.
 With that, I'd like to turn the call over to Albert.
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -130,10 +125,7 @@ review of market conditions before opening the call to Q&A. Pete?
 
 Bloomberg Transcript
 
-Peter Vogt
-
-{BIO 17059745 <GO>}
-
+Peter Vogt {BIO 17059745 <GO>}
 Thank you, Albert. And good morning, everyone. During the quarter, we incurred a net
 loss attributable to common shareholders of $10 million for an annualized ROE of a
 negative 0.8%. On an ex-PGAAP basis, our operating income was $7 million, generating an
@@ -282,10 +274,7 @@ FINAL
 
 And with that, I'll turn the call back over to Albert.
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you Pete. Let's do a quick overview of market conditions and we'll then open the
 call for questions.
 In short, we're seeing pricing momentum accelerates across substantially all of our
@@ -423,10 +412,7 @@ Operator
 We will now begin the question-and-answer session. (Operator Instructions). The first
 question comes from Amit Kumar of Buckingham Research. Please go ahead.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Thanks -- thanks and good morning. I've got a few questions. It's just starting with the
 insurance segment. I know you talked about overall, underlying XX improvement. How
 Page 8 of 19
@@ -441,23 +427,16 @@ should we think about insurance segment underlying XX? And maybe also talk about
 discussion on kind of the medium-sized losses as well as drag from non-renewed
 business.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 FINAL
 
 That's fair. Peter, do you want to take us through that?
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Yes,
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
+A - Peter Vogt {BIO 17059745 <GO>}
 
 Bloomberg Transcript
 
@@ -479,20 +458,14 @@ taken, where we've canceled business especially in our facilities book. That wil
 ex-cat loss ratio as well as the acquisition ratio and so I can see us really getting to the
 insurance group running in that mid-50, that mid-50s type ex-cat loss ratio.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. That's actually very helpful. But the second question I had was, Albert, you talked
 about the opportunities. And I guess you're faced with an interesting conundrum where
 pricing is going to go up materially at 41 and 61, but you're trying to bring down PMLs. How
 should we, -- I know it's early days, how should we think about 41 and 61 PMLs versus 11
 2019 PMLs?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I want to be clear, Amit. There's no conundrum here. It's all about managing our
 exposures down and the business that we're going to keep being more balanced and
 more profitable and that's exactly what we're working towards. I think with regard to the
@@ -515,18 +488,12 @@ balanced and much better price than it was before.
 
 FINAL
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Okay. Last question and I'll stop. Q1 to-date any thoughts on aviation losses, coronavirus
 disruption or any other losses out there which could potentially impact Q1 numbers?
 Thanks.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I mean, I'm going to give you my entire risk section of the 10K. I think that we don't have
 anything unusual in terms of losses that wouldn't be reasonably expected within our
 assumed attritional loss ratios. I know that there are a lot of questions around the
@@ -550,24 +517,15 @@ the day, it's $10 million and it's a limited amount in the context of our overal
 of now, we are not aware of any other exposures or any other losses in our portfolio that
 would not be reasonably expected in our attritional loss ratios.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. That's very helpful. I'll stop here. Thanks for the answers.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 One more comment. One more comment. One more comment, Amit. I have got my
 lawyer in my room. So, I want to be clear. We will not update this on a weekly or daily
 basis. I'm just giving you that information now.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. Okay. Thanks so much.
 
 Page 10 of 19
@@ -583,19 +541,13 @@ The next question comes from Brian Meredith of UBS. Please go ahead.
 
 FINAL
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes, thanks. So a couple of quick ones here for you all. But I am just curious. Property lines,
 obviously, you've been tricking a lot, will that continue to shrink in 2020, your property
 exposures? You continue to try to mitigate volatility? Or will you see opportunities there at
 some point?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So the first that I want to do is I want to give a shout-out to our teams because they did an
 incredible job over the last two years of changing the book. There is some change, but it's
 change that we've already identified. So for example at the 1-1 renewals, there were a
@@ -611,20 +563,14 @@ book, but the good news from our perspective is we've identified all of those. W
 already taken action, so we've gotten clear visibility of how we're moving forward on
 property.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. And then with respect to your Lloyds business, I just maybe a couple of questions
 on that. One, what is your capacity going to look like for 2020? And what do you expect
 out of that business? And then also just your perspective on the Lloyd's market? I know
 there's been some additional stamp capacity that was given out. Do we expect the same
 type of rate and price discipline there through 2020 and maybe to '21?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Right. So let me address our numbers. So, we expect modest growth, not much growth
 because that Lloyd's book is where we've had some of the largest corrections, but no
 issue there. I think the interesting thing is with regard to the market. The market and the
@@ -651,33 +597,22 @@ troubling development in the market.
 
 FINAL
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Thanks and then just one last one for you, I'm just curious. Given all the changes
 that we made et cetera, et cetera. What do you think the kind of run rate underlying kind
 of return on equity of your company is now given current interest rates?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Well, we have been targeting for a couple of years now. Minimum double-digit returns in
 the 10%, 11 plus range. Admittedly, we haven't reached it. But we think that everything that
 we've done, still gives us more confidence today more than ever, that we can reach those
 low double-digit returns.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes, but I guess given the pricing environment that we've got right now which two years
 ago, I don't think it was anticipated. Wouldn't have been maybe better than that 10%, 11%?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -686,34 +621,22 @@ you look at what pricing is. I would say that the pricing right now. And again, 
 good. Some lines are great. Some lines are not good enough. But I would say on average,
 it's in the low-teens return on capital from a pricing perspective.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Thank you.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 You're welcome. Thank you.
 
 Operator
 The next question comes from Meyer Shields of KBW. Please go ahead.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Thanks. One I guess small ball question. It looks like on a sequential basis, the Japanese
 PMLs rose. And I guess I was a little surprised to see that because the primary Cat
 renewals are 4-1. So. I was so hoping you could talk about what was going on underneath
 there?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 It's a very simple. It's the year-end covers. We changed the re-insurance and retro
 numbers that we acquired. So this is just book based on the new Cat reinsurance and
 Page 12 of 19
@@ -726,9 +649,7 @@ Date: 2020-01-30
 
 retro covers that we have in place.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 FINAL
 
@@ -736,19 +657,13 @@ Okay, that's helpful. One quick question with regard to first-quarter capacities
 exposure to Australian losses, the wildfire losses or is that all captured in the fourth
 quarter, assuming no new fires.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 No. Our read of those treaties are that many of them include hours clauses. So, there are
 new hours periods that are going to be coming in, in the first quarter. So, it's very possible
 that the market will experience some bushfire losses in the first quarter. But then I think
 it's too early to tell.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, and then I think this was an accounting question, but we've seen rate increases
 accelerate over the course of 2019. When we look at the quarterly progression in 2020,
 should we assume that the rate trend gap would similarly expand over the course of the
@@ -756,35 +671,23 @@ year as those accelerating rate increases are earned in?
 
 Bloomberg Transcript
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Hey, Meyer, this is Peter. Yes. Every time Albert talks about the rate environment, he's
 really talking about gross rate written premium in that particular quarter. So, it takes the
 following four quarters to see that earn-in, so we should see acceleration through 2020
 when we think about that.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, perfect. That sounds great. Thanks so much.
 
 Operator
 The next question comes from Yaron Kinar of Goldman Sachs. Please go ahead.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Good morning, everybody. My first question goes back to the cat losses for the year. Can
 you maybe tell us how much in excess of normalized or expectations they were?
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 First, I'd say, it's good question. We really don't give guidance and so, we really never
 shout out what our cat load would be, but the one thing that I would say, even though I'm
 not giving guidance. As we look at the portfolio that we have today, especially with all the
@@ -803,27 +706,19 @@ Date: 2020-01-30
 couple of years and where it's been and you can see that in the net PML. So, I would take
 what we saw in '19 and as something that we should see come down as we go forward.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
+Q - Yaron Kinar {BIO 17146197 <GO>}
 
 FINAL
 
 Okay. Beyond the 1.1 to 2 points that Albert had called out in the prepared remarks?
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Well, as I look at the cat loss ratio over the last seven years, it was about 9 points. If I look
 over a longer period, 7.5 obviously last year, but I do think that as I look into 2020, we
 should be coming down from that 7.5 by a good 1 to 2 points. Which would actually be
 down materially, from the 9 point that I see over the last seven years as an average.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 You'll understand our reticence to project cat. I mean, it's the most unpredictable of all
 line.
 
@@ -842,18 +737,12 @@ and that frankly different manage. You're already starting to see some evidence 
 lower cat loss experience in the insurance book. But again, it's impossible to talk about cat
 on an annual basis. We're really talking about modeled losses and averages over the year.
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Yes, and again looking at our PMLs, you can look at the one and 250 PML from the third
 quarter to the fourth quarter is down about 30%. And that wasn't just a 1 and 250 move. It
 was through the curve.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Right. Okay, and then my next question goes to the reinsurance segments underlying your
 accident year loss ratio. So I think it was, what, 69%, you called about 5 points of crop
 losses there. So if I compare the 4Q '18, I think you called out like 8 points of extraordinary
@@ -861,9 +750,7 @@ items back then and that was kind of 69 as well. So I'm just trying to figure ou
 other 3 to 4 points of maybe headwinds were this quarter or how should I think of the
 attritional loss rate in the re-entered segment?
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
+A - Peter Vogt {BIO 17059745 <GO>}
 Page 14 of 19
 
 
@@ -890,10 +777,7 @@ the book during 2019 and that actually fall onto 1-1 as we saw the -- as we're g
 a decrease in that GWP. We do think that that 64 should be able to come down to a low
 60s type ex-cat loss ratio on a run rate basis.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Great. That's very helpful. Thank you.
 
 Operator
@@ -902,10 +786,7 @@ Bloomberg Transcript
 
 The next question comes from Joshua Shanker of Deutsche Bank. Please go ahead.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Yes, good morning everybody. So listen to the prepared commentary, I think Albert you
 said that, the new book of business should help to lower the loss ratio by maybe 200 to
 300 basis points next year. I don't think that was a forecast. You were just sort of giving
@@ -915,10 +796,7 @@ increases. It leads me to be concerned about the back book to some extent. Can y
 a little bit, when we see the 10-K, what the development is going to look like for years
 2015 through 2018, particularly excluding the cat elements of the losses?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So let me -- let me refer to the increases. I think that in many cases, we're making
 assumptions. So two things. One, the pricing is on a gross basis, not a net basis. And as I
 mentioned earlier, some of those lines, we have a high quota shares. So our average rate
@@ -948,17 +826,11 @@ improvement in loss ratio is more modest, does that mean that you're taking the 
 approach to reserving going forward? The answer is yes, we're absolutely taking a
 cautious approach going forward, just as we have in the past.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 And can you give any descriptors around how the 2015 to 2018 liability reserves will look
 when we see the triangles?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Look, we give you some information on a quarterly basis. I hope you'll understand that,
 the first triangle will be in the 10K. There'll be other triangles more detailed in '18. We have
 a process whereby the 10-K gets reviewed and gets approved, that has not happened
@@ -966,9 +838,7 @@ yet and I'm reticent to provide guidance on what the 10-K will say prior to havi
 reviewed through our normal processes. But that should come out shortly and you'll have
 the information.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
+Q - Joshua Shanker {BIO 5292022 <GO>}
 
 Bloomberg Transcript
 
@@ -976,10 +846,7 @@ Okay, and given where the stock currently trades, can you talk a little bit abou
 balance between market opportunity and putting capital to work in growth versus
 repurchasing your own stock?
 
-A - Peter Wilson
-
-{BIO 4267902 <GO>}
-
+A - Peter Wilson {BIO 4267902 <GO>}
 Hey, Josh, this is Peter, I'll take that. First thing I'd say is our capital position at the end of
 the year is very strong. We feel very confident about our capital position. I know there's
 been some questions, we come out of '17 with HIMM, the purchase of Novae and where
@@ -991,16 +858,10 @@ Obviously, we'll look at the other aspects we can do for capital management. But
 now we feel very solid balance sheet at year end and we're looking forward to growing in
 some good markets as we head into 2020.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Thank you for the answers and good luck in the new year.
 
-A - Peter Wilson
-
-{BIO 4267902 <GO>}
-
+A - Peter Wilson {BIO 4267902 <GO>}
 Thanks Josh.
 
 Operator
@@ -1016,10 +877,7 @@ The next question comes from Elyse Greenspan of Wells Fargo. Please go ahead.
 
 FINAL
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi, good morning. My first question -- Thanks. Hi, Albert is going back to, Albert, some of
 your commentary. When you were talking about some of your insurance line, you said that
 you did not fully reflect price exceeding trends for some of your liability lines. Can you just
@@ -1029,10 +887,7 @@ improvement. How you kind of see loss trend developing for some of those longer 
 liability lines, like what you booked that in the fourth quarter and kind of an outlook for
 2020?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 No, when you look at our longer tail lines, I mean the trends can be anywhere from 4% to
 7%. And so that's generally it. But again, I think from a reserving perspective, I don't think
 that we would be reflecting the net price increase versus the loss trends, I think that. No, I
@@ -1044,20 +899,14 @@ question, our long tail lines trends are anywhere from 4% to 7%.
 
 Bloomberg Transcript
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, and then you mentioned some good pricing momentum in the reinsurance market
 at January 1, and seems like you also think that will continue as we go to mid-year. In terms
 of Axis's own out bounds reinsurance purchasing. Have you guys changed any -- how
 you're purchasing your reinsurance in 2020 in response to higher pricing that you would
 have to pay on that coverage?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 That's a very good question. Do you want to start with here? So I think that we have a
 number of contracts that we renew, across the entire year. Obviously, you -- we spoke
 earlier in this call about some of our regional PMLs being affected by differences in
@@ -1091,18 +940,12 @@ fully expect to keep our ceded re-people very busy, but we're very optimistic th
 get great terms or at least as good a term, as we could get in the market in the upcoming
 renewals.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, that's helpful and one just quick number question relative to the $100 million of
 saves. Where do you guys stand at the end of 2019, so we can think about what's left for
 2020?
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Yes, so at least. We're well tasked to get that. So we actually had $73 million in run rate by
 the end of 2019. However, I would say that my commentary where I talked about where
 we think we have to guide our G&A ratio for the next couple of years is really important. I
@@ -1116,32 +959,20 @@ those G&A ratios. So while I don't anticipate any major programs or anything, we
 to look at every way we can to bring down our cost through other efficiencies that we're
 getting throughout the organization.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, that's helpful. Thanks for the color.
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 You're welcome.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thanks Elyse.
 
 Operator
 This concludes our question-and-answer session. I would like to turn the conference back
 over to Albert Benchimol for any closing remarks.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you. And thank you all for your time this morning. And again, if I could just repeat
 the key message. We believe, we're starting 2020 with a very different book of business
 than the one we wrote in '18. Moreover on a daily basis, our team is working hard to

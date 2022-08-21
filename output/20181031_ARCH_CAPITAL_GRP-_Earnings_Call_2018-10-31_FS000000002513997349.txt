@@ -56,10 +56,7 @@ Mr. François Morin. Sirs, you may begin.
 
 FINAL
 
-Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+Marc Grandisson {BIO 4369887 <GO>}
 Thank you, operator, and good morning to you all. Happy Halloween to all and best
 wishes to your little ghosts, goblins and princesses. While the stock market has been
 providing some scares this past week, here at Arch, we had another good quarter
@@ -293,22 +290,13 @@ Operator
 Thank you. Our first question comes from Geoffrey Dunn from Dowling & Partners. Your
 line is open.
 
-Q - Geoffrey Murray Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Murray Dunn {BIO 3447798 <GO>}
 Thank you. Good morning.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Hey, Jeff.
 
-Q - Geoffrey Murray Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Murray Dunn {BIO 3447798 <GO>}
 I guess, first, could you update the RDS number for the MI business and specifically can
 you give us what the gross RDS is and then the net RDS after all the ILN benefits?
 
@@ -317,10 +305,7 @@ Well, I mean, we do the gross and – we focus on the net because there's a lot 
 movements there and there's a lot of reinsurance protection as you know that comes into
 play. The current number is just at about $1 billion net of all the protections we have.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yeah. Shy of 13%, Jeff.
 
 Page 6 of 17
@@ -331,25 +316,17 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2018-10-31
 
-Q - Geoffrey Murray Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Murray Dunn {BIO 3447798 <GO>}
 And is there any way for us to try to back into that gross number?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 FINAL
 
 Not really. From just talking to you, I guess at some point, we might want to talk to it
 through it but it's not very easily manageable I guess in a call like this.
 
-Q - Geoffrey Murray Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Murray Dunn {BIO 3447798 <GO>}
 Okay. And then with respect to managing capital in the MI platform, as you consider both
 regulatory limitations on dividends and just overall surplus until contingencies start
 releasing, is it possible to manage to an efficient cushion on a pro forma 2.0 basis as a
@@ -366,10 +343,7 @@ mortgage entities and see what we can do with that.
 
 Bloomberg Transcript
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Two things to add to this. Two things to add to this, Geoff. I think that the Bellemeade
 transaction, as you know, are by and large so far have been backward looking. So, you
 really only know after you've accomplished or you've realize them. So, your question
@@ -381,20 +355,14 @@ delay or it's not a very immediate release of capital, as you know, with the reg
 entities in the U.S. We have to be careful and it takes a little while to go through the capital
 management because of all these constituencies out there.
 
-Q - Geoffrey Murray Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Murray Dunn {BIO 3447798 <GO>}
 It sounds like maybe it's little too early to ask the question.
 
 A - François Morin
 Well, I mean we're working on it. The answer is it's a fact. We closed on the transactions
 and, as you know, it takes time to get approvals that we had done and...
 
-Q - Geoffrey Murray Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Murray Dunn {BIO 3447798 <GO>}
 Yeah.
 
 Page 7 of 17
@@ -409,26 +377,19 @@ A - François Morin
 ...that's really were the first thing we need to do for and then we'll once – if and when we
 get those, then we'll have more flexibility in what we can do with it.
 
-Q - Geoffrey Murray Dunn
-
-{BIO 3447798 <GO>}
+Q - Geoffrey Murray Dunn {BIO 3447798 <GO>}
 
 FINAL
 
 Okay. Thanks.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Sure.
 
 Operator
 Thank you. Our next question comes from Kai Pan from Morgan Stanley. Your line is open.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
+Q - Kai Pan {BIO 18669701 <GO>}
 
 Bloomberg Transcript
 
@@ -439,10 +400,7 @@ the credit environment remains stable, will that be a sort of reasonable run rat
 business or other sort of like minus pluses like could impact that core combined ratio
 going forward.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 So, Kai, all moving parts that are very – there's lot of things going on. If anything else
 change, you're quite right that we should expect to have a very similar combined ratio.
 That's just based on the credit quality of the borrowers. It's still extremely good out there.
@@ -452,10 +410,7 @@ not increasing dramatically or in a significant way. So there are lot things tha
 happen for this to be – because for the shorter term, yes, we would expect this to be a
 sustainable combined ratio.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. That's great. And then switch to the reinsurance side. We have heard a lot of sort of
 new demand in the marketplace since the cash leery, as well as this year's cat activity is
 not quite, it's not like as large last year but we have some adverse development from last
@@ -463,10 +418,7 @@ year's events as well. So what's your outlook for January renewals. If you can t
 the property cat side and as well as ongoing sort of like pricing on the casualty side as
 well?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 So let me take the property cat. I mean it's still early, right? We're a couple of months
 before the renewal of the January 1s. The market is still flush with capital. So there's a
 couple of things going on there that brings a lot of dynamic as we get towards January 1.
@@ -496,10 +448,7 @@ that is inherent in their portfolio. So we'll be very cautious in the way we are
 running that business. We're not as optimistic about the casualty market as people would
 be out there.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. Last one you may on the primary insurance side. So you mentioned attrition loss is
 higher, could you quantify that for the quarter? And also you mentioned that these results
 have been close to breakeven and you have mentioned about 95% long-term outlook
@@ -507,10 +456,7 @@ and how quickly we can get there?
 
 Bloomberg Transcript
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Not soon enough, right? I mean that will be the right answer. I think that we've seen that
 trailing 12-month combined ratio hovering around 99%. This quarter, yes, did have larger
 attritional losses. I think it's 2 to 2.5 points impact on the quarter, which would have put this
@@ -527,16 +473,10 @@ approach to this and may not take the full impact on the IBNR and leave the IBNR
 same level and take the large loss as it comes because we are not sure that the
 fundamentals are improving as much as we would hope they would be.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. Thank you so much.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Thank you.
 Page 9 of 17
 
@@ -555,22 +495,16 @@ Operator
 Thank you. Our next question comes from Mike Zaremski from Credit Suisse. Your line is
 open.
 
-Q - Michael Zaremski
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Hey. Thanks. Starting with mortgage insurance, in the prepared remarks, you mentioned
 that momentum is building for, I think, you said some of the bigger banks to handle some
 of the adjustable mortgage insurance pricing. Is that you think helping you maintain your
 market share position? Because I think your market share jumped up a lot in 2Q and I think
 – and still stayed higher than expectations, which is a good thing of this past quarter.
 
-A - Marc Grandisson
-
 Bloomberg Transcript
 
-{BIO 20606248 <GO>}
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 I'm not sure what part of my remarks you mention you referred to but the thing about our
 ability to increase market share and being that relevant to our clients is most clients that
 embraced risk based pricing are actually the ones who are gaining market share in the
@@ -582,10 +516,7 @@ losing market share to those non-bank loan originators. And RateStar actually wo
 better for those loan originator and actually helps them win business. So that's actually
 helping us grow market share or maintain our market share to be released.
 
-Q - Michael Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Okay. That's a good nuance to know. Sticking with mortgage insurance, I know this is
 probably difficult, but is there any way that we could maybe try to size up how to measure
 how much could be left in terms of the pace of reserve releases if the cure rates continue
@@ -624,35 +555,23 @@ favorable trend that the whole industry is seeing. We're not the only ones as yo
 that are seeing these trends. But, again, I don't think they'll be there sustainable for an
 extended period.
 
-Q - Michael Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Okay. Great. And then, lastly, just on capital. You mentioned that looking at some new
 opportunities – I know you guys are always opportunistic and looking at things. Just curious
 if you can give us a flavor whether it's primary insurance or reinsurance or MI or all of the
 above that you're kind of looking at.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 It's pretty much all of the above. There are possibilities, and we'll be communicating with
 the market as and when we find out. If they do find out, they'll come out to fruition. So,
 yes, the answer is all of them.
 
 Bloomberg Transcript
 
-Q - Michael Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Okay. Thank you.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Thank you.
 
 A - François Morin
@@ -662,10 +581,7 @@ Operator
 Thank you. Our next question comes from Elyse Greenspan from Wells Fargo. Your line is
 open.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Hi. Yes. Good morning. My first question is going back to the discussion on your insurance
 business. So, obviously, the higher non-cat losses drove the increase in the quarter. But
 I'm just trying, as we think about going forward and you guys getting to kind of that 95%
@@ -683,10 +599,7 @@ Date: 2018-10-31
 
 FINAL
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yeah. So the trend is a very interesting and important discussion. The problem is nobody
 will really know what it looks like until five or six years from now. Historically, trend in the
 insurance industry has been outpacing the core CPI increase and we've seen the CPI at
@@ -710,10 +623,7 @@ inflation truly is much quicker than let's say any E&S casualty or high excess w
 
 Bloomberg Transcript
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. Great. And then in terms of the tax rate, I know there's potential for some changes
 as we get closer at the end of this year. Do you still think your rate will kind of stay in that
 9% to 12% range as we think about 2019?
@@ -724,10 +634,7 @@ Too early to tell. We think it's not a bad place to start. We're in the middle o
 we're into 2019, we'll have more visibility on how things are shaping up and the mix of
 business in what jurisdictions and how we think that'll play out.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. Great. And then one last question on mortgage. Your market share seems like it
 might have grown a little bit this quarter, but you – maybe slightly around 25% or a little bit
 higher. You had been taking that down after the deal, and then it started to come back up
@@ -736,10 +643,7 @@ other in adjusting your pricing, and so others probably kind of caught up this q
 just want to get a full sense of what's really – do you see kind of that 25% or so as a share
 that you would expect to maintain, and how should we think about that going forward?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 So, first, we don't run the business, as you guys know, on a market share basis. We just
 provide our best foot forward with our rate in our approach to risk based pricing and try to
 Page 12 of 17
@@ -761,16 +665,10 @@ monthlies. I guess there is no answer, Elyse. I don't know where we're going to 
 know that what we've done this quarter generated x market share and we're happy with
 that. I don't know what the future holds for us.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. Thanks very much, Marc. I appreciate the color.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 You're welcome.
 
 A - François Morin
@@ -783,20 +681,14 @@ Bloomberg Transcript
 Thank you. Our next question comes from Josh Shanker from Deutsche Bank. Your line is
 open.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Yeah. Hi there, everyone. There was earlier call from Genworth who said that they lost a
 major U.S. customer. I'm wondering how that shapes up in the market and whether you'll
 get the same share of a large customer that the rest of the group did, or is your market
 share in such a way that it's harder for you to take a big chunk out of that new opportunity
 per se.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 I think we're in the same market as Genworth from that perspective, right? I mean there
 are large customers and that happens all the time that might decide to reallocate
 between providers of mortgage insurance for various reasons. There's no grand design
@@ -804,10 +696,7 @@ here. I think that it could happen to us, it's happened to them, and we might be
 what they lost and vice versa. There's nothing magical there, Josh. I can't read much into it
 much more than this.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Okay. And I saw there is decent amount of growth in property, marine, aviation. That's a
 pretty big catch-all for a lot of things...
 
@@ -822,24 +711,16 @@ Date: 2018-10-31
 A - François Morin
 Yeah.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 FINAL
 
 Yeah. It's property.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 ...in insurance. What's going on exactly?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 It's really property. A lot of it came out of the – mostly London cat exposed business that
 went through substantial rate changes, rate increases as a result of the 2017 cat event in
 the areas like Texas and the Caribbean. So this is most of where the increase came from
@@ -848,9 +729,7 @@ property also grew dramatically. We have some growth in marine, but it's largely
 property. And for the record, it's not aviation. Just want to make sure, very clear. It's not
 aviation.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
+Q - Joshua Shanker {BIO 5292022 <GO>}
 
 Bloomberg Transcript
 
@@ -858,26 +737,17 @@ And does this business have a lower normalized combined ratio than the aggregate
 book? And what I'm getting at is is this going to cause one year from today the combined
 ratio all things equal to lower than it is now?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Everything else being equal, it should. I think that the property cat exposed insurance or
 reinsurance business will have a combined ratio of probably 60 or 70, 75. Whereas a
 more or less cat exposed – this is absent any cat, right? If there's a cat, of course, it could
 be a lot worse. Right. So, yes, you're right. It will depend on the cat activity in the year. But
 all things being equal, your assumption is right.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Okay. Thank you. Good luck.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Thanks, Josh.
 
 A - François Morin
@@ -894,9 +764,7 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2018-10-31
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 FINAL
 
@@ -925,40 +793,25 @@ as diligent and do as good a job making sure that we're spending the money in th
 places and making the right investments in our people, in our technology, in our systems.
 But there's no question there's going to be some movements from quarter to quarter.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. In terms of mortgage, I guess would the underlying things be getting better?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Say it again, Meyer, please, I didn't catch up, I didn't catch this.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 I'm sorry. So the other expenses in mortgage insurance declined. I don't know if it's
 significantly a lot, but $7 million, $7.5 million from the second quarter to the third, and I
 would naively maybe expect the better cure rate to drive more incentive comp better
 than last year.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Well, that was – second quarter, we had accrual for a lot of...
 
 A - François Morin
 Yeah. Yeah.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Page 15 of 17
 
 
@@ -983,20 +836,14 @@ the second quarter to the first quarter next year. So, again, we'll give you mor
 when and if we get there, but that's a possibility we're exploring right now to make those
 all in the first quarter.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. That's very helpful. And then bigger picture question I guess for Marc. If you were to
 isolate insurance segment casualty pricing, I guess, what do you see in terms of rate
 increase accelerating, if at all?
 
 Bloomberg Transcript
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Whether we do or not. Yeah. Most of the rate increases we've seen in casualty over the
 last two, three years were led by commercial auto and it's still very hard to get significant
 rate increases outside of that realm. And I think, as you know, Meyer, that is slowing down.
@@ -1010,16 +857,10 @@ if we see losses emerging. We believe we will, but we've been wrong before. But 
 the downside of being wrong is too painful, would take a pause and take a step back and
 just wait for (00:44:44).
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Thank you very much.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 (00:44:49) Yeah.
 
 Operator
@@ -1034,9 +875,7 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2018-10-31
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 FINAL
 

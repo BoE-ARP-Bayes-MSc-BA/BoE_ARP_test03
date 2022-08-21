@@ -34,18 +34,13 @@ the conference is being recorded. (Operator Instructions) The conference must no
 recorded for publication or broadcast. At this time it's my pleasure to hand over to Mr.
 James Quin, Head of Investor Relations and Rating Agency. Please go ahead, sir.
 
-James Quin
-
-{BIO 18345789 <GO>}
-
+James Quin {BIO 18345789 <GO>}
 Good afternoon. Welcome to Zurich's Q1 results call. Our CFO, George Quinn, will make a
 few introductory comments and then will take your questions. As usual, please stick to
 two.
 I'll now hand over to George.
 
-George Quinn
-
-{BIO 15159240 <GO>}
+George Quinn {BIO 15159240 <GO>}
 
 Page 1 of 18
 
@@ -110,10 +105,7 @@ FINAL
 
 (Operator Instructions) Michael Huttner, JPMorgan.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Actually, yes, thank you very much. Two questions. I must say I actually thought these were
 really good results. But within that, because you've beaten a number of my estimates,
 where's -- you have this target range for return on equity of 12% to 14%. You reported
@@ -123,24 +115,16 @@ Which, from your point of view, is actually the right ﬁgure? Is it the reporte
 adjusted? And what's -- where is the main miss coming from? Is it still in life? Or are we
 seeing a bit of a drift also in non-life now? Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Is that both of your questions, Michael?
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
+Q - Michael Huttner {BIO 1556863 <GO>}
 
 Bloomberg Transcript
 
 That's it. Yes.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Okay. So which is right? Obviously they're both right because they're both calculation.
 One is a headline number. But I think the more meaningful one is the underlying ROE
 performance because it -- that gives you a better sense of what you could expect from a
@@ -170,26 +154,19 @@ Date: 2015-05-07
 during the course of this call, certainly we'll discuss again on May 21, capital deployment
 also has to ﬁgure in us achieving that 12% to 14% ROE.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
+Q - Michael Huttner {BIO 1556863 <GO>}
 
 FINAL
 
 That's lovely. Thank you. So much.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you.
 
 Operator
 Andrew Ritchie, Autonomous.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
@@ -204,10 +181,7 @@ of organic growth is penciled into that number? And is that one of the levers, I
 ﬁnancing of that future growth when you talk about levers and things you can pull?
 Thanks.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So on the second one ﬁrst, I misspoke. It's absolutely 2015. Thank you for that. I guess as
 one of the levers, I guess levers sounds odd. I guess it's a margin of prudence that we
 have in the calculation. We've got about negative 4 and negative 5 points on Z-ECM and
@@ -230,29 +204,20 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2015-05-07
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 The issues that cropped up in Q4, have they calmed down? Has there been development
 on them or have they not really come across your desk in Q1?
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 If you look at large losses overall, it's actually a touch higher than it was in Q4. But the
 theme, I guess there are no themes in large losses, are there? But the large losses that
 have occurred, you don't see the Brazilian topic crop up again and the other items you
 saw even then looked as though they were one-oﬀs. So the themes in Q1 are completely
 diﬀerent on the large loss side.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. Thanks.
 
 Operator
@@ -260,10 +225,7 @@ Andrew Broadﬁeld, Barclays.
 
 Bloomberg Transcript
 
-Q - Andrew Broadﬁeld
-
-{BIO 7273415 <GO>}
-
+Q - Andrew Broadﬁeld {BIO 7273415 <GO>}
 Hi there. Good afternoon. Two questions. First one on the need for capital for the growth,
 you mentioned just now that you -- the Q1 had missed what you had hoped to achieve
 and therefore to consume. Can you just give us a little bit of an outline on where that -why you failed to reach that growth target, what part of the business it was in and where
@@ -274,10 +236,7 @@ in Farmers Re quota share, etc.? That, although I know it's not in stone, is you
 And I see the surplus improved again in the quarter at Farmers. So does it capture those
 sorts of actions within your plan?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So Andy, on the ﬁrst one, all I can say in response to that, it's broadly across GI. If you look
 at GI in Q1, we've got pretty strong growth in global corporate. We actually think the
 headline there tends to overstate the growth that we expect to see from global corporates
@@ -315,26 +274,17 @@ markets on the overall equity position that we have. But the levers for me are m
 obviously focused on the risk-based capital requirements and what we can do there to
 inﬂuence our capital consumption.
 
-Q - Andrew Broadﬁeld
-
-{BIO 7273415 <GO>}
-
+Q - Andrew Broadﬁeld {BIO 7273415 <GO>}
 So sorry, is it fair to assume that you make no assumptions around reduction in capital
 needs because of natural run oﬀ or changes that we, as a market, I guess we're expecting
 on Farmers Re and other areas?
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 No.
 
-Q - Andrew Broadﬁeld
-
-{BIO 7273415 <GO>}
-
+Q - Andrew Broadﬁeld {BIO 7273415 <GO>}
 Okay. All right. Thank you.
 
 Operator
@@ -359,9 +309,7 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2015-05-07
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 FINAL
 
@@ -379,9 +327,7 @@ within Q1.
 Q - Paul De'Ath
 Is that a unit-linked-type product or is protection or what?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -396,10 +342,7 @@ Great. Thanks.
 Operator
 Stefan Schuermann, Bank Vontobel.
 
-Q - Stefan Schuermann
-
-{BIO 3235442 <GO>}
-
+Q - Stefan Schuermann {BIO 3235442 <GO>}
 Yes. Good afternoon. Two questions. The ﬁrst one still on the life part. You showed
 basically new business margins down in so-called other retail, which I think is mostly due
 to the traditional agent business in Germany and Switzerland. Can you maybe -- can we
@@ -409,10 +352,7 @@ Then the second one on the Farmer surplus ratio that's standing at 39%. And you 
 towards a decrease of 33% to 36% in the near future. So I'm not quite sure to understand
 why that should drop there.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Okay. So Stefan, on the ﬁrst one, you're right; it is mainly Germany and Switzerland and
 it's the impact of rates on the business there. I think in the short term I don't expect it to
 Page 7 of 18
@@ -426,19 +366,14 @@ Date: 2015-05-07
 stabilize. So I think you'll see a further reduction in new business values given the further
 reduction that we saw in rates in Q1 for both those markets.
 
-Q - Stefan Schuermann
-
-{BIO 3235442 <GO>}
+Q - Stefan Schuermann {BIO 3235442 <GO>}
 
 FINAL
 
 Maybe to -- volumes basically are up, new business volumes are up and margins are
 down. So you just continue like that or you don't take any corrective action there?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So two things. So I guess we do take corrective action. So if you look at where we sit in the
 league table on certain key measures, such as bonus, we're not at the top end by far. It's
 too early to determine what the outcomes for this year will be. But that's one of the levers
@@ -461,19 +396,13 @@ on the earnings at the exchanges, the surplus ratio to fall. And we would expect
 again depending on the actual ﬁnancial performance, fall back into the exchanges target
 range.
 
-Q - Stefan Schuermann
-
-{BIO 3235442 <GO>}
-
+Q - Stefan Schuermann {BIO 3235442 <GO>}
 Okay. Thanks.
 
 Operator
 Nick Holmes, Societe Generale.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hi there. Thank you very much. Two questions. First is on the GI expense ratio. Just
 wondered if you could share with us how you see the Q1 result developing throughout
 the year. I was really thinking, I guess, the upfront distribution costs that have taken us up
@@ -494,10 +423,7 @@ market? Thank you.
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you. So on the ﬁrst one on the GI expense ratio, what you see for this quarter,
 before we take action on the eﬃciency side, is pretty what you'd expect. So there's no
 reason why, for example, the impact of the distribution would increase or decrease
@@ -508,36 +434,24 @@ when we have the investor update on May 21. So for the time being, based on what
 see currently, the current level is reasonably indicative of what you would expect. But we
 have intentions to bring that number down.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Right. And sorry, can I just ask, would that be for this year or is that looking out over the
 medium term, two, three years? Or perhaps you'd prefer to wait until the Investor Day to
 tell us.
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Well the one thing I will say, Nick, is that medium term would be too long, with two to
 three years. As I mentioned to Michael in response to Michael's question, an
 improvement is required to make sure that we achieve the required return on equity that
 we have as a target. So that means it needs to be achieved over the course of the next 18
 months.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On US commercial pricing the -- I guess the challenge is that -- it's bumped around a bit if
 you look at our rate monitor. I'm not sure I would describe it as a particularly positive
 environment. We've been in a position in the US for some time now where the rate
@@ -565,19 +479,13 @@ place over the course of this year. I think we'll see continued pressure.
 
 FINAL
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Right. Okay. Thank you very much.
 
 Operator
 Farooq Hanif, Citigroup.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi. Thank you very much. I apologize if this question has been asked because I wasn't
 right at the beginning of the call. But looking at your Z-ECM ratio, you make the comment
 obviously that Q1 has been tough because of interest rates. And obviously that's reversed
@@ -594,10 +502,7 @@ And lastly, in global life, you've mentioned that going to the $350 million or a
 $350 million was harder because of FX. Has that got worse or better based on
 movements to date? Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thanks, Farooq. So ﬁrst on Z-ECM. So the only comments I provided are through the end
 of the quarter. And I've commented on the fact that given the continuing move on yield
 curves, we expected to see Z-ECM come down and we expect to be in the upper half of
@@ -646,19 +551,13 @@ So we've stuck to the $350m. It's become tougher because of foreign exchange. Bu
 they've done a lot of what we'd expected of them already when we ﬁrst announced this.
 But we still hold to the more than $350m.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. That's really clear. Thank you very much.
 
 Operator
 James Shuck, UBS.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Hi. Good afternoon. I have two questions, please. Apologies for returning to the Z-ECM
 number. But I just wanted to pick up on something you said earlier on, George, that two
 of the reasons why the ROE is not hitting your target at the moment is, on the one hand,
@@ -690,10 +589,7 @@ had a higher large losses of about 1 point and lower nat cat of about 40 basis p
 theory you have about 130 basis points of underlying loss ratio improvement there. I was
 just hoping for some insight geographically where that's been coming from, please.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Okay. So let me try and do the ﬁrst one. So on the ﬁrst one, I guess we've been pretty
 clear. Given the target range, we would try and measure ourselves oﬀ the midpoint of the
 target range. So 110. And if you think back to prior conversations about how much capital
@@ -724,10 +620,7 @@ imagine that it would take some time from the point at which we would propose it
 we do need to manage the gap between Z-ECM and SST. So model change couldn't be a
 signiﬁcant factor.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 And just to clarify one point, any decision on capital that you may not need, either
 because you can't ﬁnd sources for it or it might make sense to return that, that
 presumably would be a year-end decision.
@@ -739,9 +632,7 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2015-05-07
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 FINAL
 
@@ -770,30 +661,18 @@ is no longer in the picture. South Africa is slightly better, albeit Brazil is p
 worse than it was before. But those drivers are mainly the drivers of what we perceive the
 attritional loss ratio improvement to be in Q1.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 And North America commercial, how has the attritional loss ratio developed there at Q1?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Well overall, North America commercial has improved, both from underlying attritional
 and from a PYD perspective. So the results in North America commercial stand out as one
 of the -- as very positive Q1 this year over Q1 last year.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Okay. Thanks very much.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you.
 
 Operator
@@ -807,9 +686,7 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2015-05-07
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
+Q - Thomas Seidl {BIO 17755912 <GO>}
 
 FINAL
 
@@ -827,9 +704,7 @@ the 180s now after Q1. And I wonder if you also have a threshold for this extern
 certiﬁed capital metric. So how low would you be willing to go on SST before it gets
 painful?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -856,10 +731,7 @@ true. We haven't set a formal ﬂoor for SST as we would expect over time Z-ECM 
 to remain somewhat in some kind of harmony. But SST is not a formal part of the risk
 tolerance. And we're still very well capitalized under SST.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Page 14 of 18
 
 
@@ -873,33 +745,21 @@ Q1 compared to Z-ECM. And that is also what we have seen in 2014, isn't it?
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I think that's what I said at the beginning of the call. So SST reacts more strongly,
 principally because of things like market value margins and the way that calculation is
 done.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 And hence I would have expected that the 196 you reported at the year end after Q1, it's
 easily in the 180s if you have a 10% drop on Z-ECM after Q1. That's just my -- of course not
 a linear extrapolation here.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes. I tried to give guidance around Z-ECM because we see that as the essential capital
 measure for us. I haven't given guidance around SST.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay. Thanks, George.
 
 Operator
@@ -908,10 +768,7 @@ Bloomberg Transcript
 
 Niccolo Dalla Palma, Exane BNP Paribas.
 
-Q - Niccolo Dalla Palma
-
-{BIO 16052945 <GO>}
-
+Q - Niccolo Dalla Palma {BIO 16052945 <GO>}
 Yes. Good afternoon. Just one follow-up question. On a comment you made at the
 beginning of the call regarding the 2, 3 points combined ratio improvement needed in GI
 to bring you closer to the center of the target ROE, could you give us any sense of how
@@ -919,19 +776,13 @@ big a role expense ratio improvement compared to underlying loss ratio improveme
 have to play in there? Or do we have to wait a couple of weeks to get more clarity on
 that? Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 We'll do much more in a couple of weeks when we have the Investor Day. But we already
 said that of the 2 to 3 points' improvement, broadly about one-third from expense, almost
 one-third from turnaround and the remainder from portfolio management. That's roughly
 how we expect it to break down.
 
-Q - Niccolo Dalla Palma
-
-{BIO 16052945 <GO>}
-
+Q - Niccolo Dalla Palma {BIO 16052945 <GO>}
 Thank you.
 
 Operator
@@ -946,9 +797,7 @@ Date: 2015-05-07
 
 Dhruv Gahlaut, HSBC.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 
 FINAL
 
@@ -958,10 +807,7 @@ would those two compare on a Group level?
 Secondly, on the FMS business, there was commentary in terms of an uptick in terms of
 the expenses. Is that one-oﬀ or is this the number going forward?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So rate versus claims, broadly in line with each other. It varies market to market. But from a
 Group perspective one broadly equals the other.
 On FMS. So the comment on expenses was due to the fact that last year we had a margin
@@ -970,9 +816,7 @@ year and next year. And we've arrived at 7% a bit more quickly, I think, than we
 anticipated. That's due to that expense feature. But I don't expect it to go further. 7% is
 where it's (going to).
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 
 Bloomberg Transcript
 
@@ -981,19 +825,13 @@ Okay. Perfect. Thanks.
 Operator
 Michael Huttner, JPMorgan.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Yes. And it is just one question. Thank you very much for all the answers from that. So life,
 $350m. You're keeping your target. That's brilliant. Or over $350m. We achieved $319m.
 Which reasons or which levers or which -- do you think there's a little bit of -- are there
 easy wins?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I think Kristof would shoot me for describing any of what he has to do as easy wins. I think
 the broad (book) is, Michael, via a combination of I guess what we refer to as in-force
 management in some of the more mature European markets. So that means expenses,
@@ -1011,51 +849,34 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2015-05-07
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 And if I may just very brieﬂy, if you were to consider selling the remainder of your UK
 business in a runoﬀ deal, closed block or whatever, what impact would that have on your
 ROE metric?
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 The -- so I guess the only straight answer I can give that, Michael, is that we don't expect
 to sell the remainder of our UK life business.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Okay.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 In general we're looking at the entire life back book for opportunities to try and optimize,
 to ﬁnd maybe parts of the portfolio that we ﬁnd better owners who perceive a higher
 value. And that certainly would continue. But our life business in general is actually
 expected to contribute strongly positively to some of the strategic priorities that life has
 currently, particularly CRP.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
+Q - Michael Huttner {BIO 1556863 <GO>}
 
 Bloomberg Transcript
 
 Brilliant. That's really clear. Thank you. Thank you.
 
-A - James Quin
-
-{BIO 18345789 <GO>}
-
+A - James Quin {BIO 18345789 <GO>}
 Okay. That was our last question. Thank you, all for dialing in. We wish you a very good
 day. And we look forward to seeing you at our Investor Day in Zurich in two weeks' time.
 Thanks very much.

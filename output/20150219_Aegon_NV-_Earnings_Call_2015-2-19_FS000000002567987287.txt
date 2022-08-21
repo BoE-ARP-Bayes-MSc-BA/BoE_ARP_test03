@@ -30,10 +30,7 @@ Good day and welcome to the Aegon Q4 results conference call. Today's conference
 being recorded. At this time, I would like to turn the conference over to Willem. Please go
 ahead, sir.
 
-Willem van den Berg
-
-{BIO 15203834 <GO>}
-
+Willem van den Berg {BIO 15203834 <GO>}
 Thank you, Reese. Good morning. And thank you for joining this conference call on
 Aegon's fourth quarter 2014 results. As always, we will keep today's presentation short,
 leaving plenty of time to address your questions. We would appreciate it if you take a
@@ -43,9 +40,7 @@ Our CEO, Alex Wynaendts, will provide an overview of this quarter's performance 
 then be joined by our CFO, Darryl Button, to answer your questions.
 I'll now hand it over to Alex.
 
-Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Page 1 of 19
 
 
@@ -200,10 +195,7 @@ To begin, we will take questions from investors and analysts only. This will be 
 an opportunity for the media to pose questions. We will now take our first question from
 David Andrich from Morgan Stanley. Please go ahead.
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David T. Andrich {BIO 15414075 <GO>}
 Hi. Good morning. Thank you for taking my questions. First of all, I was just wondering, in
 terms of the Netherlands. I understand that you didn't upstream any capital from the
 Netherlands in Q4 even though you're above your minimum IGD target of 200%. And I
@@ -231,9 +223,7 @@ in June, but I was just wondering if you have any kind of update on the key argu
 behind your 150% to 200% range, if there had been kind of a shift one way or another for
 any of the big arguments there. Thank you.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
+A - Darryl D. Button {BIO 7089946 <GO>}
 
 Bloomberg Transcript
 
@@ -256,17 +246,11 @@ back from that. So, that really is the Solvency II answer to all of your questio
 to the European business. The U.S., obviously, as Alex mentioned earlier in his notes, we'll
 continue to work through the deduction and aggregation process as it relates to the U.S.
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David T. Andrich {BIO 15414075 <GO>}
 Okay. So, it sounds like kind of a bit of a holding pattern then until you get the internal
 model approved in the second half of the year?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yes. I think that's the right way to look at it. We really are in a holding pattern. We really are
 going through a lot of work on this end with the Dutch Central Bank to go through all the
 elements of Solvency II, and that's really where we're at.
@@ -279,10 +263,7 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2015-02-19
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David T. Andrich {BIO 15414075 <GO>}
 Okay. Thank you very much.
 
 Bloomberg Transcript
@@ -293,10 +274,7 @@ Operator
 Thank you. We will now take our next question from Ashik Musaddi from JPMorgan. Please
 go ahead.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yes. Hi. Good morning, Alex. Good morning, Darryl. Thanks a lot for your update. Just all
 the questions related to Solvency, so slide number 23. First of all, what happened in the
 U.S.? How come your capital stayed at €1.1 billion even though you streamed out $600
@@ -313,10 +291,7 @@ Solvency II, how they decide whether you should pay a dividend or not or they ju
 know as well? So, I mean, how should we think about it at least? It would be great to get
 some color on that. Thank you.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Hi, Ashik. It's Darryl. I'm going to take those as well. First of all, in the U.S., on the capital
 position in the U.S., it was a strong quarter for the U.S. We did see some market positives
 in the capital numbers in the U.S. Those are maybe a little bit counterintuitive with the
@@ -352,10 +327,7 @@ there was no additional impact related to that at the end of the year.
 And the third question I think you had was how is the Dutch Central Bank looking at capital
 in Netherlands. They've actually been fairly explicit...
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Sorry. Not just Netherlands but the group overall as well because ultimately they will be
 the local regulator for you. So how are they looking at – I mean, when you upstream
 dividend from U.S., how do they look at whether you can pay it to shareholders or not,
@@ -364,10 +336,7 @@ it?
 
 Bloomberg Transcript
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Sure. From a group perspective, that's actually the discussions that we're having with
 them right now on how to calibrate the U.S. system into Solvency II under deduction and
 aggregation. So, the good news is that the Solvency II regime allows for equivalence
@@ -379,30 +348,19 @@ from that system into Solvency II, as well as the fungibility and transferabilit
 Solvency II, so are any there restrictions that we need to put on due to fungibility of
 capital. Those are the major conversations that we're having with them right now.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 And with respect to the Dutch business only?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 The Dutch business only, they've been very clear with the Dutch industry that they want to
 look at and operate on a Solvency II basis in 2015. 2015 is the transition year, so we're still
 producing IGD I Solvency I capital ratios, but as we move into mid-2015, they really want to
 be talking to the Dutch industry on a Solvency II basis by this summer.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. That's very clear. Thanks a lot.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
+A - Darryl D. Button {BIO 7089946 <GO>}
 Page 7 of 19
 
 
@@ -420,10 +378,7 @@ FINAL
 Thank you. We will now take our next question from Farooq Hanif from Citi. Please go
 ahead, sir.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, everybody. Good morning. You won't be surprised, a quick question on – well, quick,
 sort of, two questions on Solvency II and a question on margins in the U.S. So, on Solvency
 II, can you just spell out for us what the deduction aggregation issue is? If you can just tell
@@ -437,10 +392,7 @@ kind of above-margin guidance, would that normalize? Thanks very much.
 
 Bloomberg Transcript
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yes, Farooq, let me take the first two. On Solvency II, the deduction and aggregation bull
 case versus bear case in the U.S. So, basically the essence of the conversation is how to
 use the U.S. regulatory framework and the U.S. regulatory capital ratios and use those
@@ -479,51 +431,33 @@ longevity capital gets higher as you get into a lower rate environment. So that'
 order impact that we see coming through. But by far, the vast majority of the interest rate
 exposure in the Netherlands has been hedged.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Can I just quickly come back on the deduction and aggregation? So is it as simple as
 saying there's a – for laypeople like us, say, is there a simple – simpler thing than the
 minimum RBC ratio of which you will bring into the group calculation your...
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yes, sure. So...
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 ...and you don't know where that is. So currently, is it 175% that you see, more 250% in
 your (24:22)?
 
 Bloomberg Transcript
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 We have been using 200% RBC ratio as a conversion factor. We have highlighted that and
 noted that when we gave our original guidance that that is a subject of debate. I could
 see that that is a topic of discussion that we're having now. So, if that was a higher
 conversion rate, that would lead to a lower group ratio contribution. So, those are
 conversations that we're going through now. I think...
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 So, would it be correct to say that bear cases look – they will only look at what you can pay
 because that's your dividend and, say, anything below that is still minimum required
 capital? So that will be, well, more like, whatever, 400%?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yes. I think if you took a very strict read on the fungibility regulations that are out there,
 you could restrict the capital down to simply what's fungible in terms of one year's
 dividend. I think that's a very strict and literal read. We don't think that's the proper
@@ -532,10 +466,7 @@ On a different read, then it's really about the conversion ratio and, obviously,
 would be different if we use 200% or if we use 300%, so as an example on how to
 convert those statutory numbers across.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 And just very – sorry to take so much of your time. But on the interest rate hedging, so
 correct me if I'm wrong, but you're – are you hedging economically and, therefore,
 
@@ -552,25 +483,16 @@ and, therefore, underhedging?
 
 FINAL
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 I think we have adjusted our hedge programs over time to the UFR. So, we look at the
 UFR as a long-term rate assumption. So, there would be some exposure if the UFR was
 dropped. That's possible, but our hedges are economically hedged to the liability flows
 assuming the UFR.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Thank you very much. Thank you.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yes.
 
 Operator
@@ -579,10 +501,7 @@ go ahead.
 
 Bloomberg Transcript
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Good morning, gentlemen. Just two questions, if I may. Firstly, just coming back on
 Solvency II. We've seen some peers becoming more definitive on their Solvency II
 positioning. And I'm just trying to understand why Aegon is somewhat less happy about
@@ -597,10 +516,7 @@ what happened there.
 And actually, just on a point of detail, is that guidance based on the year-end interest rate
 positioning or is it some kind of average of 4Q or the full year? Thanks.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yes. Farquhar, hi. It's Darryl. Yes, your answer is right on the Solvency II question. I mean,
 given the size and dominance of the U.S. for Aegon, obviously, the deduction and
 aggregation and that whole calibration discussion I just had with Farooq is very material to
@@ -629,17 +545,12 @@ sensitivities. And it really should be read as a year-over-year basis. So if rat
 they are basically today, flat for the next three years, then this is a year-over-year
 guidance relative to same quarter back in 2014.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 All right. Just as a follow on the Solvency II aspect. I mean, has the range in any way
 particularly increased from what you indicated in June? And just directionally, where has
 the Solvency II ratio presumably developed since June?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
+A - Darryl D. Button {BIO 7089946 <GO>}
 
 Bloomberg Transcript
 
@@ -654,20 +565,14 @@ on volatility adjuster detail from EIOPA. And then the deduction and aggregation
 maybe more unique to Aegon, but it's a material issue for us, so we continue to work
 through that with the Dutch Central Bank.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Okay. Thanks so much indeed.
 
 Operator
 Thank you. We will now take our next question from William Elderkin from Goldman Sachs.
 Please go ahead, sir.
 
-Q - William H. Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William H. Elderkin {BIO 3349136 <GO>}
 Thanks. Good morning, everybody. A couple of questions. First, a couple of follow ups.
 With the sort of the headline Solvency II debate, importance of equivalence, what is the
 sort of materiality of the group level Solvency II ratio to your ability to upstream capital,
@@ -697,9 +602,7 @@ past you've talked about sort of three buckets, I think, in terms of pre-2004, 2
 2007, or 2004 to 2008 and then versus the newer generation of products. And if we look
 at the overall portfolio you report, roughly how big are each of those elements?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
+A - Darryl D. Button {BIO 7089946 <GO>}
 
 Bloomberg Transcript
 
@@ -715,10 +618,7 @@ as our lead supervisor on that U.S. position. And that's the source of the conve
 we're having right now on how to do that calibration. So, I think that's the important
 takeaway points on that.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yes. On the UK, maybe I'll say something. William, we've stated clearly that we are
 restructuring our UK business. We are taking our costs down. We are investing in our
 platform capability, which I'm pleased to see is actually well recognized right now. We still
@@ -754,10 +654,7 @@ growth of our business.
 In terms of variable annuities, in terms of the numbers, Darryl, you've got them in the
 meantime?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yes. I'll probably have to get – I'll have to get the IR team to follow up with you on
 specifically. I know that on the GMIB products, the one we talked about a lot the pre-2002
 on that IB product balances are around €5 billion on that product. We also have older era.
@@ -769,17 +666,11 @@ that's been performing well.
 
 Bloomberg Transcript
 
-Q - William H. Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William H. Elderkin {BIO 3349136 <GO>}
 Just one brief follow up. And as the proportion of those sort of new-generation GMWB
 rises, will that continue to support the overall margin we see coming through quarter-onquarter?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yes, definitely. That's where the earnings growth – I think that's one of the earnings
 growth drivers from the U.S. Obviously, the U.S. has been driven by pension mutual funds,
 VA, and as well as the life protection business going forward. On that VA product, that's
@@ -788,10 +679,7 @@ up and down. We will actually have to make some smaller changes to the product g
 where rates have gone just in the last two or three months. And so we expect to do that
 here shortly. But for the most part, the margins have been held up pretty well, I would say.
 
-Q - William H. Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William H. Elderkin {BIO 3349136 <GO>}
 Thank you very much.
 
 Operator
@@ -808,10 +696,7 @@ Date: 2015-02-19
 
 FINAL
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Thank you. Just some questions on the Dutch pensions market, please. First of all, could
 you just update us on the persistency on your existing block of Dutch DB schemes? And
 second, are you seeing margins increase as these schemes really have nowhere else to
@@ -820,10 +705,7 @@ providers offering DB in the Dutch market? And third, may I see your comment on
 potentially contracting buyout market in 2015? I'm just wondering would you offer buy-ins
 as is done in the UK? Thanks.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yes. Let me take his question on the Dutch pension market. As you know, we are leader in
 the market, with close to 25% market share. Persistency actually has been very good, but I
 also would say that we are not in a position to decide what schemes we want to keep on
@@ -848,25 +730,17 @@ So we have a full range of different products and services within the entire pen
 universe, which allows us actually to move on different places at the same time. And that
 is exactly what we are trying to do now and we're doing that very successfully.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 And just the last question on buy-ins?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 No. We don't see a lot of that happening in the Netherlands yet. Keep in mind, the
 Netherlands has been quite a traditional pension market wherem, in the past, many
 companies, corporates have their own pension. What they're more looking at is now how
 can they meet the liabilities for the future, how can they satisfy also an increased
 regulatory demand. That is where the focus is right now.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Page 14 of 19
 
 
@@ -883,20 +757,14 @@ be a problem, schemes which are slightly underfunded, offering them buy-ins on p
 their liability. Just wondering, I mean, is that a development that will happen in the Dutch
 market, you think?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Well, as you say yourself, the coverage ratios, although they have come down, they're still
 comfortable compared to what we see in other places. So, therefore, as long as you
 remain on top of – ahead of 100%, and they could seem to be actually benefiting a little
 bit from very good performance on equity markets which obviously has offset some of
 the negative impact from lower interest rates, that's where we see the focus right now.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Great. Thank you.
 
 Operator
@@ -905,10 +773,7 @@ Please go ahead.
 
 Bloomberg Transcript
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Oh. Hi there. Thank you very much for taking my questions. Two questions. First is, just
 wondered, are you still intending to neutralize the dilutive effect of the pref share
 transaction this year? I think you've indicated in the past that you would like to do it this
@@ -920,10 +785,7 @@ example you were to change the 200% company action limit that is the basis of yo
 current calculation to, let's say, 250%, what sort of effect – I think you've given us this
 before, but I wonder if you could just remind us again. Thank you very much.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yes. On the sensitivity, we'll come back in a second to make sure we have – because it's
 the same one we've given you earlier.
 On the prefs, Nick, what I can say is what I've said last time. We are indeed committed to
@@ -932,9 +794,7 @@ II and Solvency II outcome, and I don't expect that we get much clarity about So
 before the second half of the year. So, only thereafter will we consider executing on our
 commitment to neutralize that effect.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 Page 15 of 19
 
 
@@ -945,69 +805,43 @@ Date: 2015-02-19
 
 Okay. That seems very reasonable. Yes.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 FINAL
 
 In terms of the Solvency II number, Darryl or Willem?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Nick, I might have to have the guys follow up with you specifically on what I said, so I'm
 going from memory on this.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Yes, yes.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 But I think it was 10 points to 20 points on the group ratio for a change from 200 to 250, if
 I remember.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay, okay.
 
 Bloomberg Transcript
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Willem has reminded me, it's 15 points, so I think my 10 points to 20 points was a pretty
 good guess.
 
-A - Willem van den Berg
-
-{BIO 15203834 <GO>}
-
+A - Willem van den Berg {BIO 15203834 <GO>}
 Yes.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. That's great. Thank you very much.
 
 Operator
 Thank you. We will now take our next question from William Hawkins from KBW. Please go
 ahead.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hello. Could you give us a bit more color on what you're thinking about the net inflows
 onto your UK platform, please? The figure has been quite stable over the past few
 quarters and we all know about the regulatory uncertainty. But when and at what rate do
@@ -1030,10 +864,7 @@ quarter relative to the previous nine months? Has there been any improvement in 
 And again, allowing for the regulatory uncertainty, how you think that mix may change this
 year? Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 William, I'll take that question. On the platform, as you indeed point out, we were pleased
 to see that the biggest part of our customers are new customers. We've also said that we
 are looking ways of upgrading existing customers from our back book that would be much
@@ -1063,19 +894,14 @@ upgrade a significant amount of targeted customers from the kind of back book
 environment to which we are in to this platform. But still, it's too early now to say how that
 trend will continue for the rest of the year. Hope this helps.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you.
 
 Operator
 Thank you. We will now take our next question from Steven Haywood from HSBC. Please
 go ahead.
 
-Q - Steven A. Haywood
-
-{BIO 15743259 <GO>}
+Q - Steven A. Haywood {BIO 15743259 <GO>}
 
 Page 17 of 19
 
@@ -1098,9 +924,7 @@ results presentation threw an impact for 2014 versus 2013. Now that's been rolle
 to 2015 versus 2014. Does that mean it's a minus $20-million impact on 2015 versus 2013?
 I hope that makes sense.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
@@ -1127,10 +951,7 @@ actually to be recovered very quickly by products, which are different products.
 Now on the reinvestment yield, I think I can confirm that your understanding is correct. But
 Darryl?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yes. I think your math is right on that. What we're basically saying is that the 2014 earnings
 already included a headwind due to rates staying low relative to 2013 of €10 million. By
 sliding the guidance forward, what we're saying is, if rates stay here, 2015 will be another
@@ -1149,9 +970,7 @@ Date: 2015-02-19
 that Farquhar asked earlier, and that's basically because rates have not only trended low
 but trended even lower.
 
-Q - Steven A. Haywood
-
-{BIO 15743259 <GO>}
+Q - Steven A. Haywood {BIO 15743259 <GO>}
 
 FINAL
 
@@ -1162,10 +981,7 @@ Thank you. As there's no further questions in the queue, that will conclude toda
 question-and-answer session. I would now like to turn the call back over to you, Willem.
 Please go ahead.
 
-A - Willem van den Berg
-
-{BIO 15203834 <GO>}
-
+A - Willem van den Berg {BIO 15203834 <GO>}
 Yes. I just would like to say thank you to everybody. Thank you to both sell side and the
 media. Thank you for your continued interest in Aegon. Bye-bye.
 

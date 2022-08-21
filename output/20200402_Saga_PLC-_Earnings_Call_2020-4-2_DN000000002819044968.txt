@@ -196,10 +196,7 @@ shape and able to operate, as well as ensuring our customers and colleagues are 
 I'm now going to pass over to James to run through the headline ﬁnancial numbers, and
 I'll come back and summarize in a minute. James?
 
-James Quin
-
-{BIO 18345789 <GO>}
-
+James Quin {BIO 18345789 <GO>}
 Thank you. Good morning, everybody. Now in normal circumstances, I go through our
 results in some detail. Given COVID-19, I'm expecting the main focus will be on liquidity,
 bank covenants and stress testing. However, let me make a few comments on last year's
@@ -454,18 +451,13 @@ Numis Securities. Nick, please go ahead.
 
 FINAL
 
-Q - Nick Johnson
-
-{BIO 1774629 <GO>}
-
+Q - Nick Johnson {BIO 1774629 <GO>}
 Hi, good morning all.
 
 A - Euan Sutherland
 Hi Nick.
 
-Q - Nick Johnson
-
-{BIO 1774629 <GO>}
+Q - Nick Johnson {BIO 1774629 <GO>}
 
 Bloomberg Transcript
 
@@ -532,10 +524,7 @@ James, could you pick up the cash projection point, the RCF drawdown.
 
 Bloomberg Transcript
 
-A - James Quin
-
-{BIO 18345789 <GO>}
-
+A - James Quin {BIO 18345789 <GO>}
 Yes. So I mean I think what we did in March, as we look to set ourselves up really for the
 sort of the liquidity scenarios that we've been running and again employing some pretty
 prudent assumptions around the return of travel customer cash and that was why we then
@@ -553,18 +542,13 @@ huge diﬀerence as to whether we're in a six months lockdown or whether it's a 
 lockdown. But you can never say never, but I think that in the RCF drawdown that we've
 done, we've looked to give ourselves a bit of buﬀer looking out over the next six months.
 
-Q - Nick Johnson
-
-{BIO 1774629 <GO>}
-
+Q - Nick Johnson {BIO 1774629 <GO>}
 Okay, thanks, thanks. I'll quickly go back to the Motor Home insurance business. So you
 saying that service levels were seamless and actually call answer rates have gone up. I
 mean just to clarify, should I take from that, that there has been no real change in
 premium written or gross premium deemed in the last week.
 
-A - James Quin
-
-{BIO 18345789 <GO>}
+A - James Quin {BIO 18345789 <GO>}
 Page 10 of 19
 
 
@@ -581,10 +565,7 @@ before that. Having said that, retentions have been very good. And I think that 
 aggregate, we deﬁnitely don't see any big change in the overall level of business that
 we're writing.
 
-Q - Nick Johnson
-
-{BIO 1774629 <GO>}
-
+Q - Nick Johnson {BIO 1774629 <GO>}
 Okay, great, that's very clear. Thanks very much.
 
 A - Euan Sutherland
@@ -593,9 +574,7 @@ Great. Thanks Nick.
 Operator
 The next question on the line is from Ben Cohen of Investec. Ben, please go ahead.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
+Q - Ben Cohen {BIO 1541726 <GO>}
 
 Bloomberg Transcript
 
@@ -610,10 +589,7 @@ end of last year. Thank you.
 A - Euan Sutherland
 Great, thanks, Ben. James, you want to take those ones up.
 
-A - James Quin
-
-{BIO 18345789 <GO>}
-
+A - James Quin {BIO 18345789 <GO>}
 Yes. So I think ﬁrstly on PMI and I think this is a, probably simple answer to this question. I
 think that we're still working through the impact on the prior [ph]medical care with with
 our (inaudible) provider. Now, I think that what we do think is that in the short term, there
@@ -672,25 +648,17 @@ at the margin, certainly through January and into February, things felt that per
 market was starting to be a bit from a certainly compared to where it was in the fourth
 quarter of last year. I wouldn't want -- I actually wouldn't want to extrapolate that.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
-
+Q - Ben Cohen {BIO 1541726 <GO>}
 All right. Okay, thank you very much.
 
-A - James Quin
-
-{BIO 18345789 <GO>}
-
+A - James Quin {BIO 18345789 <GO>}
 Thanks.
 
 Operator
 (Operator Instructions) The next question on the line is from Edward Morris from JP
 Morgan. Edward, please go ahead.
 
-Q - Edward Morris
-
-{BIO 16274236 <GO>}
+Q - Edward Morris {BIO 16274236 <GO>}
 Page 12 of 19
 
 
@@ -759,10 +727,7 @@ Date: 2020-04-02
 
 FINAL
 
-A - James Quin
-
-{BIO 18345789 <GO>}
-
+A - James Quin {BIO 18345789 <GO>}
 Yes, so on the goodwill write-down, I think, Ed ﬁrst question, does the recent share price
 happen or could it have an inﬂuence on a further goodwill write-down, I think the answer
 is no, not anything we can see right now. Clearly when we decided on the the ﬁnal
@@ -808,9 +773,7 @@ that we're in the same place. As the wider longer term situation moves on it's k
 never say never, but it's, we have a clear focus of self help right now and we're making
 good progress. So I think that still will be up.
 
-Q - Edward Morris
-
-{BIO 16274236 <GO>}
+Q - Edward Morris {BIO 16274236 <GO>}
 Page 14 of 19
 
 
@@ -830,10 +793,7 @@ Operator
 The next question on the line is from Abid Hussain from Credit Suisse. Please go ahead,
 Abid.
 
-Q - Abid Hussain
-
-{BIO 20229932 <GO>}
-
+Q - Abid Hussain {BIO 20229932 <GO>}
 Hi. Good morning.
 
 A - Euan Sutherland
@@ -841,10 +801,7 @@ Good morning.
 
 Bloomberg Transcript
 
-Q - Abid Hussain
-
-{BIO 20229932 <GO>}
-
+Q - Abid Hussain {BIO 20229932 <GO>}
 Thank you for taking my questions. I really just have one question part I guess, and that's
 on the travel business. I was wondering if you could give us a sense of the cash burn rate
 for the Cruise business and the pool business separately. And then following on from that
@@ -865,10 +822,7 @@ mitigations that we can take that we haven't taken yet. And we've also put into 
 test a number of non-travel related elements so that we are super prudent in our thinking,
 but James, you want to pick up the detail of the cash burn rate.
 
-A - James Quin
-
-{BIO 18345789 <GO>}
-
+A - James Quin {BIO 18345789 <GO>}
 Yes, I mean I think that, I mean I think that, I mean, Euan made an extremely important
 point here, which is, it really isn't a question about running out of cash and I think that
 there are a number of reasons for that. One is, because we do have a lot of cash. And
@@ -916,10 +870,7 @@ last few weeks of course, we look to ensure we have a level of headroom above ou
 of central scenarios that give us some downside protection in a range of diﬀerent
 outcomes.
 
-Q - Abid Hussain
-
-{BIO 20229932 <GO>}
-
+Q - Abid Hussain {BIO 20229932 <GO>}
 Okay, thanks, that's helpful.
 
 A - Euan Sutherland
@@ -929,10 +880,7 @@ Operator
 (Operator Instructions) We have a question from Penelope Fitzherbert from Guy Butler.
 Please go ahead Penelope.
 
-Q - Penelope Fitzherbert
-
-{BIO 16415186 <GO>}
-
+Q - Penelope Fitzherbert {BIO 16415186 <GO>}
 Thank you. Good morning.
 
 A - Euan Sutherland
@@ -946,9 +894,7 @@ Date: 2020-04-02
 
 Good morning.
 
-Q - Penelope Fitzherbert
-
-{BIO 16415186 <GO>}
+Q - Penelope Fitzherbert {BIO 16415186 <GO>}
 
 FINAL
 
@@ -964,10 +910,7 @@ do you want to just outline the ﬂows of cash, which are quite important.
 
 Bloomberg Transcript
 
-A - James Quin
-
-{BIO 18345789 <GO>}
-
+A - James Quin {BIO 18345789 <GO>}
 Yeah, so, so when we take delivery of the Adventure there is actually a small cash inﬂow to
 the company and that's because essentially, the loan that we draw down from the banks is
 slightly higher than the amount of money that we owe to Meyer Werft ship builders. And
@@ -992,10 +935,7 @@ that big an impact is because we assumed in our sort of central scenario some pr
 load factors in October, November time anyway. So actually, at that point it becomes a
 little bit marginal as to whether the ship is running or not.
 
-Q - Penelope Fitzherbert
-
-{BIO 16415186 <GO>}
-
+Q - Penelope Fitzherbert {BIO 16415186 <GO>}
 Okay, thank you. So, basically, yes. If the ship is delayed it just pushes everything back
 and there is no, there is no extra or it is no --
 
@@ -1009,18 +949,12 @@ Company Name: Saga PLC
 Company Ticker: SAGA LN Equity
 Date: 2020-04-02
 
-Q - Penelope Fitzherbert
-
-{BIO 16415186 <GO>}
-
+Q - Penelope Fitzherbert {BIO 16415186 <GO>}
 Pulls if you like. Thank you.
 
 FINAL
 
-A - James Quin
-
-{BIO 18345789 <GO>}
-
+A - James Quin {BIO 18345789 <GO>}
 No, mean, I mean obviously we, we would need to, there is a little bit of, we've got a bit of
 exposure around currency and things like that we'd need to manage. But I think that,
 frankly, in the circumstances and we've had various discussions with the bank to
@@ -1028,10 +962,7 @@ administer the ship lending, they are being wholly pragmatic in, in the circumst
 think the main aim is to ensure that Adventure get delivered, the ﬁnancing works and
 everything will continue as as we would expect.
 
-Q - Penelope Fitzherbert
-
-{BIO 16415186 <GO>}
-
+Q - Penelope Fitzherbert {BIO 16415186 <GO>}
 All right. And just one more if I may, is what -- under what circumstances would you or the
 other side, say look the ship can't come. I mean it's probably pretty much where by the
 ﬁttings at this point, but is there any way that you could prevent that transaction
@@ -1039,10 +970,7 @@ happening at a later stage.
 
 Bloomberg Transcript
 
-A - James Quin
-
-{BIO 18345789 <GO>}
-
+A - James Quin {BIO 18345789 <GO>}
 Well, I don't think so. Because I mean, the ship is pretty (multiple speakers) as you
 imagine, pretty well completed and in fact it actually had its ﬁrst ﬂoating out I think this
 week or next week which is sort of more testing the engines and everything else. But, it is
@@ -1058,10 +986,7 @@ months away from, I mean that's Discovery and the Adventure together, but I don'
 there's a big diﬀerence between them. So at the moment, we've still got customers who
 very much want to probably looking forward to getting on those cruises.
 
-Q - Penelope Fitzherbert
-
-{BIO 16415186 <GO>}
-
+Q - Penelope Fitzherbert {BIO 16415186 <GO>}
 Great. Okay, I'll hand it back to --
 
 A - Euan Sutherland
@@ -1072,9 +997,7 @@ So it's helped us if you like with just one ship capacity through what is likely
 lockdown period from the government. But as James said, the next ship is on plan. We're
 just being proportionary with our guidance.
 
-Q - Penelope Fitzherbert
-
-{BIO 16415186 <GO>}
+Q - Penelope Fitzherbert {BIO 16415186 <GO>}
 Page 18 of 19
 
 
@@ -1085,10 +1008,7 @@ Date: 2020-04-02
 
 Okay, thank you.
 
-A - James Quin
-
-{BIO 18345789 <GO>}
-
+A - James Quin {BIO 18345789 <GO>}
 Thanks.
 
 FINAL

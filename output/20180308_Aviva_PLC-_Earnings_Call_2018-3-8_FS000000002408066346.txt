@@ -27,19 +27,13 @@ Bloomberg Transcript
 Ravi Tanna, Analyst
 
 MANAGEMENT DISCUSSION SECTION
-Chris J. Esson
-
-{BIO 6194371 <GO>}
-
+Chris J. Esson {BIO 6194371 <GO>}
 Good morning, ladies and gentlemen, and welcome to Aviva's 2017 Results. Before we
 make a start, I'll just draw your attention to the forward-looking statements disclaimer.
 And with that, I'll hand over to our Chief Executive Officer, Mark Wilson, to start the
 presentation.
 
-Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+Mark Andrew Wilson {BIO 7102576 <GO>}
 Well, thanks, Chris; and good morning, everyone. We have a very full room. It's nice to
 have you back as always.
 So, this, our 2017 results presentation. Now, believe it or not, this is always one of my
@@ -328,9 +322,7 @@ Company N ame: Aviva PL C
 Company Ticker: AV/ L N Equity
 Date: 2018-03-08
 
-Thomas D. Stoddard
-
-{BIO 15071280 <GO>}
+Thomas D. Stoddard {BIO 15071280 <GO>}
 
 FINAL
 
@@ -779,10 +771,7 @@ my tenure over the last four years, and we want to keep them growing sustainably
 years to come.
 Back over to you, Mark.
 
-Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+Mark Andrew Wilson {BIO 7102576 <GO>}
 Thank you, Tom. Well, I think we should just get straight into questions, actually. So if you
 can maybe facilitate that? Hopefully, you have the microphone balls there. And I've got all
 the operating heads up here too, so we can probably pass the questions around a little.
@@ -791,16 +780,10 @@ Q&A
 
 Bloomberg Transcript
 
-A - Chris J. Esson
-
-{BIO 6194371 <GO>}
-
+A - Chris J. Esson {BIO 6194371 <GO>}
 Let's start with Greig, and then actually go back to Andy.
 
-Q - Greig N Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N Paterson {BIO 6587493 <GO>}
 Greig Paterson, KBW. Three questions. One is just in terms of sterling millions, the
 management actions that you did this year, which are ahead of expectations, what's the
 sort of headwind? Obviously, that's capitalizing future profit. What sort of a headwind
@@ -812,16 +795,10 @@ migration in the UK. I mean, we have the case study (50:14) ended up paying £0.
 when things went wrong. I just wonder if you could update then, tell us if there is going to
 be some fallout in terms of net client cash flow costs from the platform migration (50:24)?
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 Yeah. So Tom will take the first to capital. And Andy, if you can talk about platform?
 
-A - Thomas D. Stoddard
-
-{BIO 15071280 <GO>}
-
+A - Thomas D. Stoddard {BIO 15071280 <GO>}
 Page 15 of 31
 
 
@@ -834,18 +811,13 @@ Yeah. So I'm assuming by talking about management actions, you're effectively ta
 about the other line in UK Life where we were up about £139 million year over year. Is that
 right? You've...
 
-Q - Greig N Paterson
-
-{BIO 6587493 <GO>}
+Q - Greig N Paterson {BIO 6587493 <GO>}
 
 FINAL
 
 Yeah. Because, obviously (50:38)?
 
-A - Thomas D. Stoddard
-
-{BIO 15071280 <GO>}
-
+A - Thomas D. Stoddard {BIO 15071280 <GO>}
 Well, I don't know that we will. And again, one of the things that I tried to say was that as
 we look at our experience and longevity, effectively, we're at the conservative end of the
 spectrum. And as it appears that trends are showing less improvement in longevity over
@@ -862,16 +834,10 @@ margin.
 
 Bloomberg Transcript
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 Andy, (51:48)?
 
-A - Andy D. Briggs
-
-{BIO 4311809 <GO>}
-
+A - Andy D. Briggs {BIO 4311809 <GO>}
 Good morning, Greig. So on the platform, very successful year last year, we saw our longterm saving net fund flows double to £5.6 billion, total assets there up to £118 billion.
 Within that, the platform is £20 billion. Because of the success and our commitment to
 that market, we decided we needed to upgrade to more modern technology that will be
@@ -879,10 +845,7 @@ scalable. We have had issues with that as has been well publicized. We're workin
 – with advisors and their clients to resolve those issues. I mean, in terms of potential
 financial impact of that, not material in the context of a £2.2 billion UK P&L.
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 Just, Greig, if I can just add something on the longevity release. So I've read a couple of
 notes that are suggesting if it was conservative or not , and – but looking a bit too
 simplistically, the issue is not whether you use tables from 2015 or 2016 or 2017. The
@@ -890,10 +853,7 @@ primary factor there is your calibration against those tables. And you don't jus
 tables and plug them in. It's not that simple. It's your calibration. And we are at the very
 conservative end of that which is a far bigger issue.
 
-A - Chris J. Esson
-
-{BIO 6194371 <GO>}
-
+A - Chris J. Esson {BIO 6194371 <GO>}
 Page 16 of 31
 
 
@@ -904,24 +864,16 @@ Date: 2018-03-08
 
 Ashik?
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 FINAL
 
 Hi, good morning. Ashik Musaddi from JPMorgan.
 
-A - Chris J. Esson
-
-{BIO 6194371 <GO>}
-
+A - Chris J. Esson {BIO 6194371 <GO>}
 Hi.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 I've got three questions. Slide number 6 looks pretty interesting. I mean, flagging that six
 markets out of your eight has delivered double-digit growth. Having said that, if I look at
 your 2018 plan, you're still flagging around 5% organic growth. So, which markets do you
@@ -934,10 +886,7 @@ Any thoughts on that would be great. Thank you.
 
 Bloomberg Transcript
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 Okay. Just – so the markets, let's talk about the growth. So, I'll tell you what we're
 promising to the market, what our targets are. And that's greater than 5%. And to do that
 you need a mix. Now clearly, you've seen higher than that in various markets and different
@@ -954,10 +903,7 @@ efficiencies in it, but I'm not going to give any more guidance on that today.
 On the protection book, Andy, you want to cover, and then Maurice, because Maurice is at
 the front in Canada.
 
-A - Andy D. Briggs
-
-{BIO 4311809 <GO>}
-
+A - Andy D. Briggs {BIO 4311809 <GO>}
 Yeah. So, I think that the key point I'd make is in the UK we're unique in being a composite
 player across all the major markets. And that strategy is working really well for us. We're
 finding particularly corporates meeting, multiple needs with us across different lines of
@@ -984,9 +930,7 @@ delivered underlying profit growth in the UK of 7% before you consider all the
 assumptions changes. And so, we can absorb that impact on existing business in
 protection and still deliver strong growth.
 
-A - Maurice Tulloch
-
-{BIO 17683736 <GO>}
+A - Maurice Tulloch {BIO 17683736 <GO>}
 
 Bloomberg Transcript
 
@@ -1042,27 +986,19 @@ in the regular lines. And if you take these three actions in combination, that's
 me confidence that our Canadian business will go from 102.2% back to the target
 operating range of 94%, 96% over the next two years.
 
-A - Thomas D. Stoddard
-
-{BIO 15071280 <GO>}
-
+A - Thomas D. Stoddard {BIO 15071280 <GO>}
 Just to finish that off though, specifically, in terms of whether it will back-end loaded or
 not, it will tend to be back-end loaded because, as Maurice says, those rate changes take
 time to flow through. So, I would expect this to start benefiting us more in the latter half of
 2018 and into 2019 as opposed to right now.
 
-A - Chris J. Esson
-
-{BIO 6194371 <GO>}
+A - Chris J. Esson {BIO 6194371 <GO>}
 
 Bloomberg Transcript
 
 We have a question from Andy Hughes, please. Andy?
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Good morning. A couple of question (59:51), and the first one was on the Friends Life cash
 generation remittances. I think you said you were well ahead of plan on the underlying
 cash generation. You're showing £750 million out of £1-billion-plus remittances from
@@ -1077,15 +1013,10 @@ M&A budget that if it's not used by the end of the year, you'd do some sort of s
 dividend. I'm just wondering, if you don't do the liability management by the end of the
 year, is that also directed to buyback? Thank you.
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 You take the first one. I'll take the DVA...
 
-A - Thomas D. Stoddard
-
-{BIO 15071280 <GO>}
+A - Thomas D. Stoddard {BIO 15071280 <GO>}
 Page 19 of 31
 
 
@@ -1098,25 +1029,17 @@ Okay. So, first, on how far ahead we are on the Friends Life capital and cash, w
 giving a specific number on that. Again, we set a target of getting £1 billion. We're going
 to be ahead of that. By how far, we'll just have to see as we get through 2018 and 2019.
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 
 FINAL
 
 You have to say (01:01:08) it's significant.
 
-A - Thomas D. Stoddard
-
-{BIO 15071280 <GO>}
-
+A - Thomas D. Stoddard {BIO 15071280 <GO>}
 Yes. But – and we will keep reporting that separately. So, again, that is one of the things
 that will help us get to our cash remittance target. And DVA, yes?
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 Look, DVA has been an ongoing bane of Life and that it was a key part of the Solvency II. It
 wasn't recognized at the group because our regulator, the PRA, didn't recognize it. We
 then got it recognized in France, which does help. It gives you a fair bit more headroom to
@@ -1131,10 +1054,7 @@ take – give with one hand and take with the other. So, who knows what the net 
 would be? But it will be positive for us at the group level. And in France, it is certainly
 helpful for securing dividends, if that makes sense.
 
-A - Thomas D. Stoddard
-
-{BIO 15071280 <GO>}
-
+A - Thomas D. Stoddard {BIO 15071280 <GO>}
 And then, on your question on liability management, that's a good question. So, let me try
 to address a number of things there around that. We think it's an interesting question
 because these are very expensive securities that don't count for capital for us anymore.
@@ -1166,23 +1086,14 @@ these conclusions relatively soon.
 
 FINAL
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 And on M&A, if we don't use that, as Tom said in his remarks, yeah, we need to deploy
 capital. We're on the low end of the range. And so, we'd be looking to use that...
 
-A - Chris J. Esson
-
-{BIO 6194371 <GO>}
-
+A - Chris J. Esson {BIO 6194371 <GO>}
 Can we go to Ravi, please?
 
-Q - Ravi Tanna
-
-{BIO 16926941 <GO>}
-
+Q - Ravi Tanna {BIO 16926941 <GO>}
 Thanks. It's Ravi Tanna, Goldman Sachs. I have three questions, please. The first was just a
 follow-up on the cash. In relation to Canada, obviously, you've guided to kind of lower
 levels of remittances going forward. But you had, in the past, talked a bit about potentially
@@ -1198,10 +1109,7 @@ And the third was just on Aviva Investors. Obviously, the £4 billion of infrast
 you've referenced is quite a sizable figure. I was wondering if you could just elaborate a
 little bit more about the plans there and where that could potentially get to. Thank you.
 
-A - Thomas D. Stoddard
-
-{BIO 15071280 <GO>}
-
+A - Thomas D. Stoddard {BIO 15071280 <GO>}
 Okay. So, on the use of the mixer in Canada, that's something that we're still working on,
 something that we would like to do. I can't give you specifics in terms of timing because
 we've got to work through the regulatory environment in the way that works, but that still
@@ -1210,10 +1118,7 @@ though. I mean, again, this is a temporary phenomenon in Canada. They should com
 back, and we've got enough cash and liquidity right now. But it doesn't really change any
 of our capital planning.
 
-A - Andy D. Briggs
-
-{BIO 4311809 <GO>}
-
+A - Andy D. Briggs {BIO 4311809 <GO>}
 I'll pick up on the annuity side. So, we did £2 billion of bulk new business and £1.5 billion of
 individual annuity new business last year. We also moved £650 million of the back book of
 annuities into illiquid assets. So, £650 million move, giving £86 million, I think that's £86
@@ -1231,18 +1136,12 @@ Company N ame: Aviva PL C
 Company Ticker: AV/ L N Equity
 Date: 2018-03-08
 
-A - Chris J. Esson
-
-{BIO 6194371 <GO>}
-
+A - Chris J. Esson {BIO 6194371 <GO>}
 Euan, on the liquid?
 
 FINAL
 
-A - Euan George Munro
-
-{BIO 2307409 <GO>}
-
+A - Euan George Munro {BIO 2307409 <GO>}
 Just on – there's a great alignment of our businesses here. And I'm having the opportunity
 within Aviva Investors to build on illiquid asset business on the back of the demand from
 the UK Life business. So, the £4 billion – just for your information, the £4 billion that we
@@ -1259,10 +1158,7 @@ pension assets, there's a natural conveyor belt into the UK Life business.
 
 Bloomberg Transcript
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 And just a further addition on the liquidity point before. None of our plans – none of our
 capital return plans are impacted by Canada. In fact, as we've realized, we've actually built
 up quite a buffer in a number of subsidiaries in terms of capital and cash. And over the
@@ -1270,16 +1166,10 @@ next period of time, we'll look to bring a bit more of that up. But it's not the
 priority list right now because we have plenty of capital and cash at the group. So, it's just
 not really a key issue for us.
 
-A - Chris J. Esson
-
-{BIO 6194371 <GO>}
-
+A - Chris J. Esson {BIO 6194371 <GO>}
 Okay. Gordon Aitken, please? Hi, Gordon.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Good morning. Gordon Aitken from RBC. Three questions. First, a follow-up on the rerisking of the annuity assets. Just maybe give us some numbers around that. So, what was
 the blended yield on the annuity assets in – maybe in 2016. It's obviously improved in 2017.
 If you do push to 50% illiquid, where could it get to?
@@ -1302,24 +1192,17 @@ Date: 2018-03-08
 wasn't appealing to you especially since you still have the expertise to manage heritage
 businesses from the Friends deal. Thanks.
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 
 FINAL
 
 You take the first. I'll take the...
 
-A - Thomas D. Stoddard
-
-{BIO 15071280 <GO>}
-
+A - Thomas D. Stoddard {BIO 15071280 <GO>}
 Well, on the asset yield on the annuity business, I don't think we actually disclosed that. I
 don't know if you want to comment any further, but I don't think we provided that detail.
 
-A - Andy D. Briggs
-
-{BIO 4311809 <GO>}
+A - Andy D. Briggs {BIO 4311809 <GO>}
 
 Bloomberg Transcript
 
@@ -1339,10 +1222,7 @@ So, our expectation is that the volume of assets coming out of DB into DC or bul
 is going to grow significantly. And that's why we're confident that our 7% underlying
 growth we delivered this year, we can sustain strong growth in the U.K. going forward.
 
-A - Thomas D. Stoddard
-
-{BIO 15071280 <GO>}
-
+A - Thomas D. Stoddard {BIO 15071280 <GO>}
 Okay. So, on mortality, let me take this as an opportunity to be a little bit more expansive
 and talk about the three elements of mortality that we had because I'm sure others have
 got questions around this. So, there were three things that we did. The first was around
@@ -1394,10 +1274,7 @@ we're going to have to go ahead and release. And so if you look at CMI 2017, we 
 analyzed that yet, but sort of the quick read suggests that it's confirming the trends that
 we've been seeing, so we may be having this conversation again next year.
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 We won't have a choice. And going on your last point in M&A, I'm not going to comment
 on our competitors or their valuations. I'm not going to go there. But I can tell you it wasn't
 on our radar. And we've spoken to a lot of investors and investors are saying to us, giving
@@ -1411,16 +1288,10 @@ on that, but it's bolt-on acquisitions. We're sticking to script. I want a consi
 actually want us to be boring or I just want us to grow EPS by greater than 5%, and I'm
 going to grow dividend by more than that. It's not that complicated.
 
-A - Chris J. Esson
-
-{BIO 6194371 <GO>}
-
+A - Chris J. Esson {BIO 6194371 <GO>}
 Jon, please?
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Page 24 of 31
 
 
@@ -1447,18 +1318,12 @@ if you could talk a little bit about whether that's unusual given you had very h
 in a normal year is the strain on that product such that you should be able to grow the
 earnings and the volume? Thank you.
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 Do you want to take the Italy one first and then we'll hand it over to Maurice on Canada?
 
 Bloomberg Transcript
 
-A - Thomas D. Stoddard
-
-{BIO 15071280 <GO>}
-
+A - Thomas D. Stoddard {BIO 15071280 <GO>}
 Yeah, sure. And then, Maurice, if you want to add on Italy as well. So on the hybrid
 strength, there's nothing unusual about this. This is more just due to the volume that
 we've got this year so we may see more strain in the future if we continue to have high
@@ -1470,10 +1335,7 @@ levels this ought sort of work its way out. And then you'd see actually that fut
 profitability being enhanced and enhanced growth rates on more normal sales volumes.
 Maurice?
 
-A - Maurice Tulloch
-
-{BIO 17683736 <GO>}
-
+A - Maurice Tulloch {BIO 17683736 <GO>}
 Yeah. Thanks, Tom. Just a follow-on on Italy. So the hybrid product which you alluded to,
 so first in the composition of that is actually 30% with product with a par guarantee and
 70% unit-linked. And if you look at what's happened in Italy on the back of the recovery,
@@ -1534,15 +1396,10 @@ paying too much for motor insurance. Every government we talked to agrees when i
 enacted, when it goes to the stakeholder engagement, and when it finally changes, that's
 an additional lift that we don't have. Thank you.
 
-A - Chris J. Esson
-
-{BIO 6194371 <GO>}
-
+A - Chris J. Esson {BIO 6194371 <GO>}
 Two final questions. Angel and then across to Andy Sinclair. Thanks.
 
-Q - Angel Kansagra
-
-{BIO 19712659 <GO>}
+Q - Angel Kansagra {BIO 19712659 <GO>}
 Page 26 of 31
 
 
@@ -1565,9 +1422,7 @@ And the third one is potential bolt-ons, M&A. So you mentioned that you would li
 something in GI in Poland. What are the other areas you're considering? Would it be
 Canada where you want to be a composite? Thank you.
 
-A - Thomas D. Stoddard
-
-{BIO 15071280 <GO>}
+A - Thomas D. Stoddard {BIO 15071280 <GO>}
 
 Bloomberg Transcript
 
@@ -1591,10 +1446,7 @@ higher tax jurisdictions. If Canada is coming back up in the mix, you would expe
 be a drag on the tax rates. So that's why we've guided to something a little bit higher than
 where we were for this year.
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 And look, in the M&A, the answer to that it will depend. I mean, where I would like to do it
 and where we can do it may not be the exact same answer because it would end –
 because M&A, and I think you've seen we're being pretty ruthless on M&A both buying
@@ -1624,15 +1476,10 @@ there unless you give it at the right price. So, I mean, pulling that together a
 depends, but we will be a bit opportunistic. And, I think, we've got a pretty decent track
 record of doing this as well.
 
-A - Chris J. Esson
-
-{BIO 6194371 <GO>}
-
+A - Chris J. Esson {BIO 6194371 <GO>}
 Lets' finish up with Andy.
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 
 Bloomberg Transcript
 
@@ -1645,20 +1492,14 @@ Secondly, on Canada, I just wondered if you could tell us the profitability of t
 over our full year 2017. And thirdly, I just wondered if you could give us an update on AIMS
 flows and request for information now that we've got a bit of a pickup in volatility. Thanks.
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 I'm going to (01:23:32) our number one competitors. But, look, we have – I'll get Andy to
 comment on this as well, but we have an advantage – a big advantage. We do have scale
 across our book. And we have a pretty big scale advantage that we are using. We have a
 balance sheet and a brand. And, Andy, do you want to pass, comment about it, not this is
 a competitors better position?
 
-A - Andy D. Briggs
-
-{BIO 4311809 <GO>}
-
+A - Andy D. Briggs {BIO 4311809 <GO>}
 Sure. So, I mean, two comments I think I'd make. Of our £118 billion long-term saving
 assets in the UK, £68 billion is workplace pensions and our margin on that book as a
 whole is 25 bps. So, basically, we are profitable. It's the majority of that long-term savings
@@ -1686,16 +1527,10 @@ while a lot of our focus has been on the sort of the new direct-sell side, it re
 big impact across all our businesses in basically bringing our administration costs lower,
 and hence margins higher.
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 Canada?
 
-A - Thomas D. Stoddard
-
-{BIO 15071280 <GO>}
-
+A - Thomas D. Stoddard {BIO 15071280 <GO>}
 So, Canada, on the RBC transaction. Look, we're very, very happy with that transaction.
 We think it's expanded our capabilities, and it's going to be a good deal for us over the
 long run. In the short term, that's heavily an Ontario motor business. So, although, we're
@@ -1706,10 +1541,7 @@ still hold up quite well for us.
 
 Bloomberg Transcript
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 Just picking up on the AIMS flow point. And to give you some additional color, as you saw,
 we put on £4 billion into the strategy last year. An actual fact, institutional flows were much
 higher than that and retail flows were negative. And the rationale for that is quite simply
@@ -1751,24 +1583,15 @@ and Aviva Investors were up 8% last year. And AIMS is often compared with those 
 So, do compare our multi-asset funds with other fund managers, balance funds and you'll
 find we're actually pretty good at that as well.
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 Thanks very much.
 
-A - Chris J. Esson
-
-{BIO 6194371 <GO>}
-
+A - Chris J. Esson {BIO 6194371 <GO>}
 Thank you, everyone. I'll hand it back to Mark to close the presentation.
 
 Bloomberg Transcript
 
-A - Mark Andrew Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Andrew Wilson {BIO 7102576 <GO>}
 A nice add for Aviva Investors (01:28:29). Where we are as a Group? We're in a pretty
 good place at the moment. So, you can see broad-based growth. I mean the question
 that we've been asked a lot over the last couple of years is, where is the growth coming

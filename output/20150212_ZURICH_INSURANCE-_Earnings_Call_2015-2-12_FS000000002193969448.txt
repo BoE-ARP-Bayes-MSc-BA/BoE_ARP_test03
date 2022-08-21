@@ -10,10 +10,7 @@ George Quinn
 Martin Senn
 
 MANAGEMENT DISCUSSION SECTION
-Martin Senn
-
-{BIO 3241585 <GO>}
-
+Martin Senn {BIO 3241585 <GO>}
 Welcome to Zurich Insurance Group's Results Presentation for the 2014 Financial Year.
 Business operating proﬁt of $4.6 billion, is down 1% from the prior year and ﬂat in constant
 currency. Net income attributable to shareholders of $3.9 billion, is 3% below 2013.
@@ -161,10 +158,7 @@ Date: 2015-02-12
 
 FINAL
 
-George Quinn
-
-{BIO 15159240 <GO>}
-
+George Quinn {BIO 15159240 <GO>}
 Good morning or good afternoon. My name is George Quinn, and I am the Chief
 Financial Oﬃcer of the Zurich Insurance Group and I'll take you through our results in a bit
 more detail. However, before I go into the numbers, I'll start with the overall picture. The

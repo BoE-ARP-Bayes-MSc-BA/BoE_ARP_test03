@@ -27,10 +27,7 @@ Bloomberg Transcript
 Yaron Kinar, Analyst
 
 MANAGEMENT DISCUSSION SECTION
-Elizabeth A. Werner
-
-{BIO 1557593 <GO>}
-
+Elizabeth A. Werner {BIO 1557593 <GO>}
 Good afternoon. Thank you, everyone, for being here. Before we get started, I'd like to
 note that anyone joining remotely can access the presentation materials online at our
 website, www.aig.com. Those materials include cautionary language regarding forwardlooking statements and non-GAAP financial information contained in today's presentation.
@@ -62,9 +59,7 @@ This afternoon, you'll have the opportunity to hear from the CEO of our Life and
 Retirement businesses, Kevin Hogan and the CFO, Tom Diemer. Thank you all for coming.
 And with that, I will turn it over to Kevin.
 
-Kevin T. Hogan
-
-{BIO 4650423 <GO>}
+Kevin T. Hogan {BIO 4650423 <GO>}
 
 Bloomberg Transcript
 
@@ -452,9 +447,7 @@ products are and the competitive conditions.
 I'm going to take a little break and hand it over to Tom, who is going to continue on this
 slide and talk about it from capital perspective.
 
-Thomas John Diemer
-
-{BIO 18035886 <GO>}
+Thomas John Diemer {BIO 18035886 <GO>}
 
 Bloomberg Transcript
 
@@ -686,10 +679,7 @@ the individual businesses, and what's going on there and our progress. Thank you
 
 Bloomberg Transcript
 
-Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+Kevin T. Hogan {BIO 4650423 <GO>}
 Thank you, Tom. It's always good to have the financial conscience on top of the
 production environment. So, the rest of the session, we're going to recap our franchise
 and position. We're going to talk about each of the businesses a little bit, try to provide a
@@ -1032,22 +1022,13 @@ So, with that, I think we're going to move to Q&A. Tom's going to join me up her
 look forward to our questions.
 
 Q&A
-A - Elizabeth A. Werner
-
-{BIO 1557593 <GO>}
-
+A - Elizabeth A. Werner {BIO 1557593 <GO>}
 Right. As a reminder, please wait for a mic before asking your questions. Thank you.
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 And we're going to try to do one question and one follow-up.
 
-A - Elizabeth A. Werner
-
-{BIO 1557593 <GO>}
-
+A - Elizabeth A. Werner {BIO 1557593 <GO>}
 Yeah. Ideally, a couple of questions and...
 Page 19 of 36
 
@@ -1057,30 +1038,19 @@ Company N ame: American I nternational Group I nc
 Company Ticker: AI G US Equity
 Date: 2018-06-07
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Yeah. Give others a chance.
 
-A - Elizabeth A. Werner
-
-{BIO 1557593 <GO>}
+A - Elizabeth A. Werner {BIO 1557593 <GO>}
 
 FINAL
 
 Yes.
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Mic? Okay. I'm sorry.
 
-Q - Thomas Gallagher
-
-{BIO 3311667 <GO>}
-
+Q - Thomas Gallagher {BIO 3311667 <GO>}
 Hey. Tom Gallagher, Evercore. First question is just on M&A, I think from what Brian has
 said the real emphasis on life insurance is international only, at least that's mainly what I've
 heard. So, is that the right expectation that you're not really open to considering domestic
@@ -1089,10 +1059,7 @@ like the UK and Irish deal that you did over the last three or four years?
 
 Bloomberg Transcript
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Yeah. Thanks, Tom. So, when we look at M&A opportunities, we look for areas, where we
 can enhance either the scale of the businesses that we're in or add to those businesses.
 And from that perspective, whether it's the U.S. market or outside the U.S., I think we take
@@ -1116,10 +1083,7 @@ what we're looking for in acquisitions, right. We're looking for things that are
 things that are complementary to the businesses that we're in that have good
 management teams that we can integrate into the business.
 
-Q - Thomas Gallagher
-
-{BIO 3311667 <GO>}
-
+Q - Thomas Gallagher {BIO 3311667 <GO>}
 Okay. And my follow-up is just on net investment income. The fair value portfolio, I think
 which is largely RMBS. Just want to be clear on where that's trending? I think the guidance
 was that was double-digit return a year ago. And I think Sid had said 6% to 8% is the
@@ -1139,10 +1103,7 @@ class. So, why would it go back to 6% to 8%? Like it's one – I think it was 1.
 1Q. Is there a reason why that's going to recover, because that's a big portfolio and I think
 a big swing factor around NII?
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Yeah. I would say, we continue to be comfortable with what we've stated overall in terms
 of the impact. There is always going to be ins and outs and other things in there that in
 terms of the (01:12:34) so to speak are dynamic there. But I think, again, we continue to be
@@ -1152,9 +1113,7 @@ because it is from a broader perspective, that is an important part, as I allude
 our returns is making sure we're going to compensated for the risk that we're taking,
 particularly on the investment side.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
+Q - Yaron Kinar {BIO 17146197 <GO>}
 
 Bloomberg Transcript
 
@@ -1165,10 +1124,7 @@ there is a shift from dividends to more of a tax sharing payment structure. Can 
 talk a little bit more about what drove that change from more of a dividend, more tax
 sharing and how we should think about that going forward?
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Yeah, what I would say, to answer your question, is there's a lot of dynamics there. And so
 as Kevin in his comments said, there's no way to take that and predict, so to speak, going
 forward. The tax sharing payments particularly with our tax position from an overall AIG
@@ -1186,10 +1142,7 @@ sure our distribution partners are comfortable with our capitalization, et ceter
 absolutely committed that, if I can't use it and deploy it in the way I want to, as we've
 demonstrated, we're going to send it up the chain, so to speak.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Great. And then my follow-up also still on that slide, that 480% RBC ratio, I think, Kevin,
 you'd mentioned it's still a pre-tax reform. What is the impact of tax reform on it? Does it –
 Page 21 of 36
@@ -1204,10 +1157,7 @@ and does it impact the way you're thinking about your capital adequacy?
 
 FINAL
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Yeah. It's an interesting question. Lots of discussion from an industry perspective. I think
 we would all agree that lower taxes shouldn't necessarily indicate higher risk for the
 business. So, I think we would all agree, it's not intuitive that, just as a result, potentially
@@ -1227,10 +1177,7 @@ I'm going to start to move it out and move it up to the parent company.
 
 Bloomberg Transcript
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Yeah. I think it comes down to the tax reform (01:16:38). And if we're not – we are
 participant in the industry. So, we'll be within what the industry response is. We're not
 particularly concerned about the implications or statutory balance sheets or our strategies.
@@ -1239,10 +1186,7 @@ products and our re-pricing is out in the market. And we do think that it's a ne
 the long term. Of course, it does depend on what the competitive response is to the
 availability of lower tax rate, but we're comfortable where we are.
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Yeah. And I think it's a space you have to be thoughtful. And maybe just an example, a
 very minor one, but for years, DRD, as it relates to variable annuities, is an aspect of the
 return of that product. I always knew that the IRS wasn't crazy about it. And so, we were
@@ -1255,10 +1199,7 @@ with pricing that benefit in, knowing that potentially for a product that can be
 30 years, might be gone. And so, net-net impact there for us, specifically just on DRD,
 was not anything to write home about, so.
 
-Q - Elizabeth A. Werner
-
-{BIO 1557593 <GO>}
-
+Q - Elizabeth A. Werner {BIO 1557593 <GO>}
 I think you had a pretty clear message that you're sort of balancing sort of writing new
 business with returning capital. Can you help us to sort of calibrate that a little bit in terms
 Page 22 of 36
@@ -1276,10 +1217,7 @@ holding company?
 
 FINAL
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Yeah. Thanks for the question, Erik (01:18:52). Good question. Hopefully, it's clear from my
 discussion of the market is I wish I had an exact answer. And I'll just go back to really I think
 what is our commitment as a leadership team, which is, and to Kevin's point, no one is
@@ -1300,36 +1238,24 @@ never be at extremes, but if we get the opportunity to deploy the capital and we
 comfortable with the returns, that's first and foremost we're going to put it into the
 business.
 
-Q - Elizabeth A. Werner
-
-{BIO 1557593 <GO>}
-
+Q - Elizabeth A. Werner {BIO 1557593 <GO>}
 Got it. And if you think about it in terms of a ranges, some companies will give guidance
 as to a percentage of your operating earnings that you would think of as free cash flow,
 with that range obviously reflecting the amount of new business you're writing. Is there a
 way to think about that for your business?
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 I wouldn't add anything to my comments of explaining kind of my philosophy which I think
 is consistent with how we've approached it so to speak and demonstrated results.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Two questions. Amit Kumar, Buckingham. Going back to the discussion on consolidation,
 Brian Duperreault, he gave an interview in FT, when you referenced the Validus acquisition
 and he said if they can find something of that size, I'll do that in a heartbeat. Is that how
 we should think about like a $5 billion to $6 billion target or was that a more of a broader
 comment in terms of the target?
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 So I don't think he's – I don't actually have the fingerprint, I don't think he referred to size
 of all. I think he said an acquisition like Validus. And I think Validus is a great example of a
 transaction that has many of the characteristics that Brian has consistently talked about,
@@ -1352,10 +1278,7 @@ expand AIG's franchise, include the SME business, right, include personal lines 
 the Life and Retirement business including outside the United States. So that I think is the
 way that we interpret that statement.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 But the second question I have is, in your opening remarks, you talked about the different
 market opportunity, the acquisitions, et cetera, I got the sense that you were maybe
 trying to temper the timing a bit versus when you listen to Brian, there is a sense of
@@ -1364,10 +1287,7 @@ about that or did I misunderstand your comment?
 
 Bloomberg Transcript
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Well. What I was trying to – I think you did misunderstand my comment. I mean our growth
 opportunities are not limited to M&A. Our growth opportunities include the businesses
 that we're in today. And should there be a continuing change in the environment, so if
@@ -1382,25 +1302,16 @@ at and I think that's the great thing about the position that we're in. We can g
 investing in the businesses. We can grow by going into adjacent businesses. We can go
 grow by going into new markets.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 So, Jay Cohen, BoA Merrill. A couple of regulatory issues I guess. First, if you could
 comment on the latest information out of the NAIC related to the VA capital framework?
 And then secondarily, given changes in the fiduciary rules, do you see your sales on the
 annuity side picking up simply because of that?
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Do you want to cover the second one first.
 
-A - Elizabeth A. Werner
-
-{BIO 1557593 <GO>}
-
+A - Elizabeth A. Werner {BIO 1557593 <GO>}
 I'll cover the second one first and then maybe comment a little on first one. But, yeah, so
 the deal I think is, the Fifth Circuit has still not (01:24:14) the rule. So, they have a ruling out
 Page 24 of 36
@@ -1433,10 +1344,7 @@ them to please do something because there's a huge amount of uncertainty out the
 
 Bloomberg Transcript
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 So on the second part or first part of your question Jay, I would say, I believe that both
 policyholders and shareholders should be aligned in applauding efforts to and we are as
 well applauding efforts to standardize and make a more robust framework around a
@@ -1476,18 +1384,13 @@ comfortable with the direction that it's going and we're active in the discussio
 
 FINAL
 
-Q - Andrew Kligerman
-
-{BIO 1551668 <GO>}
-
+Q - Andrew Kligerman {BIO 1551668 <GO>}
 Hi. Andrew Kligerman, Credit Suisse. Looking at slide 8, you've got a lot of inflows and
 outflows of a variety of different products. Can you talk to the return on equity that you're
 seeing coming in, and is it consistent across all the products? I think I heard you mention
 high-single low-double digit?
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 
 Bloomberg Transcript
 
@@ -1509,28 +1412,17 @@ to the same kind of market impacts that the fixed annuity business is. And so, G
 Retirement is maybe a little bit more comparable. It does have some of those old higher
 interest rate associated outflows. Those are really the main areas of impact.
 
-Q - Andrew Kligerman
-
-{BIO 1551668 <GO>}
-
+Q - Andrew Kligerman {BIO 1551668 <GO>}
 And I have a follow-up, but just real quickly on,
 you mentioned BOLI and GIC, are they meeting that low double digit hurdle right now?
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Oh, yeah.
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Yeah.
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Page 26 of 36
 
 
@@ -1543,20 +1435,14 @@ Yes.
 
 FINAL
 
-Q - Andrew Kligerman
-
-{BIO 1551668 <GO>}
-
+Q - Andrew Kligerman {BIO 1551668 <GO>}
 Great. Earlier you talked about career agency and shutting that down. They were 1,500
 agents that went in, because I remember a time way back when you had over 20,000
 agents, what happened to the economics of that business? I mean, isn't it attractive to
 have your own captive distribution versus these intermediaries that are servicing all of
 your competitors as well?
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 So, I have a lot of experience with agency. In a prior part of my career, I ran AIA China and
 Nan Shan respectively had a 29,000 and 20,000 agents. The agency mechanism can be
 an appropriate mechanism with the right products in the right market. And the decision
@@ -1583,19 +1469,13 @@ us. We have 200 people that are essentially a direct sales force, that we think 
 appropriate for our particular niche in that area. But it's an expensive way to do fiduciary
 business.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Elyse Greenspan, Wells Fargo. So I have couple of questions. My first question is, you think
 about putting capital the use and the opportunities, what would cause you to become
 more aggressive in the pension risk transfer market? Can you just talk about the
 opportunities and on some of the recent deals that you've done there?
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Nothing would cause us to be more aggressive, because we look at every single
 transaction, we see most of them and we go through a really rigorous disciplined process
 of trying to find a way to win the business. And we have an extremely close partnership
@@ -1626,9 +1506,7 @@ have the opportunity I think to be able to meet our expectations in terms of new
 on our terms. And if we can write get more business, we would, we certainly could put
 more capital to it. But the restraint is, is the competitive considerations in the market.
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
+A - Thomas John Diemer {BIO 18035886 <GO>}
 
 Bloomberg Transcript
 
@@ -1640,19 +1518,13 @@ the dynamics of the market from a supply/demand perspective over the long term. 
 one year maybe different et cetera, but we like that approach and we try to be very
 thoughtful around it.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Great. And my second question on – sorry to bring it back, maybe the M&A side a little bit.
 But if you're thinking, where would you say that you guys are subscale? When we think of
 the broader M&A picture, I know Brian mentioned international, but what specifically would
 you find attractive and additive to AIG's Life business?
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Well, we're not sub-scaling very many areas. We do not have an employee benefits
 business. As I mentioned, we actually made the decision to wind down the employee
 benefits business that we did a couple of years ago. And we pretty much, we have scale
@@ -1690,9 +1562,7 @@ transaction associated with that entry, and then what other options do we have a
 time as Life and Retirement and what other options do we have at that time as AIG? So,
 we very much look at the big picture.
 
-Q - John Nadel
-
-{BIO 6998784 <GO>}
+Q - John Nadel {BIO 6998784 <GO>}
 
 Bloomberg Transcript
 
@@ -1707,19 +1577,13 @@ will go to Erik's (01:39:20) question about how do we think about the dividend c
 from the life companies up to the holding company, it's really going to be statuary driven.
 No?
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 That's right. That is true. And each product has a very different signature when it comes
 down to the relationship between the internal capital and the statutory capital, because of
 the – or should I say the uniqueness of our statutory regimes. But I don't know, Tom, do
 you want to...
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Yeah. So, I don't believe we disclosed the individual, particularly if it may be a nugget that
 may find in stifle, I would point to PRT where when we look at that on an economic lens,
 the capital was more than you would otherwise see from a statutory perspective. There
@@ -1745,15 +1609,10 @@ the longevity risk that the statutory aspect maybe not picking up as robustly as
 economic lens, so to speak. So, maybe that is a little helpful in terms of nugget of
 information or detail.
 
-Q - John Nadel
-
-{BIO 6998784 <GO>}
-
+Q - John Nadel {BIO 6998784 <GO>}
 Yeah. Can I...
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 
 Bloomberg Transcript
 
@@ -1771,37 +1630,22 @@ and that whatever changes that we make in our new business profile. We're not wr
 much new business now as we could. We're still writing a lot of new business. It's not like
 we're deploying zero and I think we just have to try to collect it into a framework like that.
 
-Q - John Nadel
-
-{BIO 6998784 <GO>}
-
+Q - John Nadel {BIO 6998784 <GO>}
 Okay. And just if I could follow up real quick on your PRT comments on economic capital
 versus debt. The PRT is in the Institutional Markets sales, correct?
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Correct.
 
-Q - John Nadel
-
-{BIO 6998784 <GO>}
-
+Q - John Nadel {BIO 6998784 <GO>}
 I mean if I'm looking at this chart the right way, in 2017 your sales grew substantially yearover-year, but the capital deployed looks like it barely moved and it looks like it's an
 incredibly small percentage of sales. So, that feels like it's at odds with the comment that
 you made about the economic capital being higher?
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Or maybe just statutory capital is really low for longevity transactions.
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 No, each bar is discrete, it's not accumulative in terms of capital
 Page 30 of 36
 
@@ -1811,18 +1655,12 @@ Company N ame: American I nternational Group I nc
 Company Ticker: AI G US Equity
 Date: 2018-06-07
 
-Q - John Nadel
-
-{BIO 6998784 <GO>}
-
+Q - John Nadel {BIO 6998784 <GO>}
 Yeah. No, I get that.
 
 FINAL
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Yeah. Again, I'm happy to share that you should, I think, view capital and I think others have
 talked about this from an economic basis on PRT probably ranges from 5% to 10%, so to
 speak, of the "premiums". Now again, there'll be different things and remember, there's
@@ -1832,10 +1670,7 @@ of giving you color, that's economically when I talk to the team when we go thro
 of these deals, again each one is different, has different risk. So, it's never a pure rule of
 thumb, but I think that's the way to think about it.
 
-Q - John Nadel
-
-{BIO 6998784 <GO>}
-
+Q - John Nadel {BIO 6998784 <GO>}
 Okay. And I had one other question just on the variable annuity block. I know your block is
 much younger than most of the blocks industry-wide, but can you talk to CTE95, CTE97,
 CTE98, what's your target? Where are you currently? How does that coordinate with what
@@ -1843,10 +1678,7 @@ you feel like is coming out of the NEIC, Oliver Wyman path here?
 
 Bloomberg Transcript
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Yeah, John. So, happy and I'll just kind of reiterate some of the comments, but maybe
 particularly on CTE which I don't want to bash a framework, but I would also caution that
 like other things it's assumption driven, if you will, and so I can appreciate you all want to
@@ -1879,9 +1711,7 @@ Company N ame: American I nternational Group I nc
 Company Ticker: AI G US Equity
 Date: 2018-06-07
 
-Q - John Nadel
-
-{BIO 6998784 <GO>}
+Q - John Nadel {BIO 6998784 <GO>}
 
 FINAL
 
@@ -1890,10 +1720,7 @@ things are going with the Oliver Wyman project, I mean should we expect you to h
 hold more capital against this block or not? I mean, is there an outcome here that could
 require some kind of shift that would be a negative announcement for all of us to hear?
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 I can't speak from an industry perspective at everyone's block, but based on what we
 know today, I don't expect any significant impact and certainly don't expect an outsized
 one from a industry perspective. But lots more details to get through and clarifications
@@ -1901,24 +1728,15 @@ quite honestly, that announcement the other day while it seemed like it was clos
 the devil's in the details around that, but again everything I know today is not causing me
 concern.
 
-Q - John Nadel
-
-{BIO 6998784 <GO>}
-
+Q - John Nadel {BIO 6998784 <GO>}
 Okay. Thank you.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Meyer Shields, KBW. (01:46:30-01:46:46)
 
 Bloomberg Transcript
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Well, as I mentioned, Meyer, we believe we've achieved what we set out to a couple of
 years ago in terms of having a competitive and a sustainable expense level for the
 businesses that we're in. We would obviously always like to get better, but with our
@@ -1930,10 +1748,7 @@ actions across AIG, there will be opportunities that we have to participate in e
 but we are pretty comfortable with respect to the profile that we have for the Life and
 Retirement businesses. Over here.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you. Kai Pan with Morgan Stanley. My first question on net investment income on
 page 9, you mentioned that new money yield is 75 basis points lower than the portfolio
 yield. I just wonder what percentage of your fixed income portfolio turnover each year and
@@ -1942,10 +1757,7 @@ wanted to get a figure out to say (01:48:07) because this year you said net inve
 the overall company coming down, from $1.4 billion down to $1.3 billion. I just wonder
 these are going to be further pressure into 2019 and 2020.
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Yeah. I don't believe, Kai, we've provided the details of the turnover and I would stand by
 our comments around – what we've made around spread, which is really I think – what's
 
@@ -1963,33 +1775,21 @@ is also a stability that I don't think you would see broadly as you think about 
 
 FINAL
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 So, the 2 basis point decline per quarter will persist for future? Is that a fair
 characterization?
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 As the conditions as existed at the first quarter reporting time, yes.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Yeah. Okay, great. My second question is on overall – stepping back, you have
 emphasized on stable earnings for the overall life business. I just want, in your mind what
 could be the biggest risk to the downside?
 
 Bloomberg Transcript
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Well, actually among the things that we have to monitor carefully is policyholder behavior. I
 mean clearly depending upon what happens in the external environment and how
 policyholders respond to that, but I don't see it as a big threat, because these are very
@@ -2000,10 +1800,7 @@ economic and market risks associated with our products. Execution risk is probab
 biggest risk and that's up to us. But in terms of the in-force and the portfolios that are
 there, I think unexpected policyholder behavior probably has been as well (01:50:12).
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Yeah. And I think you can take our comments around deployment of capital and pricing as
 an indication, we probably believe and I don't think I'd get too many arguments that we're
 probably closer to the end of the credit cycle than we are to the beginning. Obviously,
@@ -2011,16 +1808,10 @@ that can go extra innings, but especially with where spreads are, I think that's
 indicative to me that it's in the later stages as opposed to the early stages. So, I think
 that's always something we have to be conscious of.
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 One up here.
 
-Q - Alex Scott
-
-{BIO 20003952 <GO>}
-
+Q - Alex Scott {BIO 20003952 <GO>}
 It's Alex Scott, Goldman Sachs. There has been some conversation about dynamics in the
 pension risk transfer market, it maybe motivate transactions sooner rather than later
 associated with tax rates on funding liability gaps and also Pension Benefit Guaranty Corp.
@@ -2039,36 +1830,24 @@ around this business that we might see a pickup here?
 
 FINAL
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Well, I think that there are some unique characteristics this year that certainly have timings
 associated with them, you name them, I mentioned them earlier. There's a very strong
 pipeline of transactions. And historically, I think it takes companies a while to prepare
 these things, so the second half is generally a period of a lot of activity and there's
 discussions of a lot of activity out there. So, we do see a very strong pipeline right now.
 
-Q - Alex Scott
-
-{BIO 20003952 <GO>}
-
+Q - Alex Scott {BIO 20003952 <GO>}
 And then maybe just one follow-up...
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 I also think that pipeline will continue though because whether you get in under the past
 deadline or not, PGC (01:52:05) premiums are going up and companies are going to
 continue to manage their risk relative to pension risks.
 
 Bloomberg Transcript
 
-Q - Alex Scott
-
-{BIO 20003952 <GO>}
-
+Q - Alex Scott {BIO 20003952 <GO>}
 Okay, thanks. And then maybe just on the stat capital and that conversation and maybe
 the capital requirements are relatively low compared to your internal model. What's the
 expectation with the longevity risk charge that could come for RBC, are you kind of pricing
@@ -2076,10 +1855,7 @@ that in already? So, should I think about that aiding your stat income for a whi
 something is done there? How should I think about sort of that dynamic and what you're
 assuming in terms of the capital you have to hold there?
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Yeah. I think you can expect – I think there'll be – been more conversation around it. I don't
 think anything is imminent on the stat side and I think it's fair to read that part of our
 difference between our economic view and the statutory view is around longevity. There's
@@ -2123,10 +1899,7 @@ transaction such as a pension risk transfer?
 
 Bloomberg Transcript
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Yeah. I mean it's a good question. I think it's hard to quantify because there are so many
 dynamics of what a particular acquisition may look like. But again, I'd go back to our
 philosophical approaches. If I did something that generated excess capital tomorrow, I'd
@@ -2147,21 +1920,13 @@ we're factoring in the expectations of those constituents, including our policyh
 our distribution partners that are also very sensitive, some more than I'd like, the particular
 RBC levels and things like that.
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Already.
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 So, I think that's it. Yeah. Go ahead. Go ahead.
 
-A - Elizabeth A. Werner
-
-{BIO 1557593 <GO>}
+A - Elizabeth A. Werner {BIO 1557593 <GO>}
 
 Page 35 of 36
 
@@ -2173,18 +1938,13 @@ Date: 2018-06-07
 
 Yeah. Thanks. Thank you everyone for coming down and certainly if you have any followup questions, just send them our way. Thank you.
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 
 FINAL
 
 Okay. Thanks, everybody.
 
-A - Thomas John Diemer
-
-{BIO 18035886 <GO>}
-
+A - Thomas John Diemer {BIO 18035886 <GO>}
 Thank you.
 
 Bloomberg Transcript

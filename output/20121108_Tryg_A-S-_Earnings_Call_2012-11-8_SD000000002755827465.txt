@@ -22,10 +22,7 @@ Presentation
 
 Bloomberg Transcript
 
-Lars Moller
-
-{BIO 2301941 <GO>}
-
+Lars Moller {BIO 2301941 <GO>}
 Good morning, everyone here. Welcome to this presentation of Tryg's Q3 results. As you
 probably have seen, it's the ﬁrst time -- it's a long while that we actually published our
 results in the morning, so hopefully that's appreciated from your side as well.
@@ -37,10 +34,7 @@ have here today, so we will also have questions, or the possibility from questio
 outside.
 So with these ﬁrst remarks, then I'll hand over to Morten.
 
-Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+Morten Hubbe {BIO 7481116 <GO>}
 Thank you, Lars, and thank you all for joining us. As Lars said, the ﬁrst time in London and
 the ﬁrst time doubling the physical meeting and live webcast as part of our eﬃciency
 measures. Next measure will be no meetings at all, but we'll see. But thanks a lot for
@@ -215,9 +209,7 @@ Company Name: Tryg A/S
 Company Ticker: TRYG DC Equity
 Date: 2012-11-08
 
-Tor Lonnum
-
-{BIO 16534375 <GO>}
+Tor Lonnum {BIO 16534375 <GO>}
 
 FINAL
 
@@ -329,10 +321,7 @@ you can see, we didn't come out with anything now at Q3, but it will be before y
 
 FINAL
 
-Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+Morten Hubbe {BIO 7481116 <GO>}
 And I guess, before we open for questions, I guess just to summarize, we think that of
 course achieving the best quarterly result in six years is worth mentioning. But more
 importantly, the 35% improvement in the technical result shows that we're on the right
@@ -380,32 +369,21 @@ Date: 2012-11-08
 
 I think, by that, we should open for your questions. And Lars, you will try to manage that?
 
-Lars Moller
-
-{BIO 2301941 <GO>}
+Lars Moller {BIO 2301941 <GO>}
 
 FINAL
 
 Yes.
 
-Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+Morten Hubbe {BIO 7481116 <GO>}
 You will take the diﬃcult questions as well?
 
 Questions And Answers
-A - Lars Moller
-
-{BIO 2301941 <GO>}
-
+A - Lars Moller {BIO 2301941 <GO>}
 I'll try to do that. Thank you very much, but I think we will start with a question from the
 audience inside and then switch to external questions.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thanks. Can I just ask on the Nordea deal? So when you mentioned DKK600 million was
 the cumulative loss on those policies, is it fair to assume that this is a zero sum game, so
 Nordea would have made some of -- so Nordea would have got a better deal so far, so
@@ -413,10 +391,7 @@ they're giving up DKK600 million of cumulative proﬁt?
 
 Bloomberg Transcript
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Well I think it's important to distinguish between the commission element and the claims
 ratio element, because in reality in Sweden we've paid a high commission while at the
 same time having fairly lousy quality in the pricing and therefore the claims ratio. So in
@@ -435,9 +410,7 @@ So I think that the -- and if the quality of the portfolio is not strong and doe
 strongly, then the commission just falls. And that's where we like the new commission
 structure a lot more than the old commission structure.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Page 8 of 22
 
 
@@ -450,10 +423,7 @@ And just to be clear, this new potential cost savings is not part of the DKK300m
 
 FINAL
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 It is not part of, no. No. We try to be very clear that the DKK300 million nominal cost
 target is not changed because of Nordea and it's not changed because of the sale of
 Finland. These are clearly designed structural initiatives in Denmark and Norway, and to
@@ -471,10 +441,7 @@ have the same weather as we had in '10, would you then be able to do 90%?
 
 Bloomberg Transcript
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 I guess I can answer the restructuring reserve ﬁrst. And I guess the approach has been
 how many -- as Morten said, there is a clear list of initiatives that will give the savings that
 we have stated as a target. And clearly what we have looked at is what number of
@@ -486,10 +453,7 @@ There is also -- I think Morten mentioned that, but there is also we have made a
 assessment in terms of oﬃce leases and expenses related to terminating any oﬃce leases
 that we see ﬁt, so there is a very clear and good calculation.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 And at the same time, we could probably add that while we expect the DKK88 million
 should be suﬃcient, we're trying to estimate a process that will take the next three years.
 So clearly bear in mind that there is a number of uncertainties as to the position of those
@@ -517,26 +481,18 @@ So I don't think I would want to put numbers on how diﬃcult weather we can man
 below 90%, but I guess you can see we're trying to design a robustness to be below 90%
 also with bad weather.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 And I think it's just worth mentioning that -- I guess the question was also about below
 90% on a quarterly basis, and I think what we're trying to aim for is a below 90% on a
 sustainable basis, on an annual basis, but it will mean that there will be some volatility in
 the quarters, among other things due to the seasonality. So it's important to --
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 I was -- already four weeks ago, when I was in Oslo, when I went out of the airplane there
 was snow. So I think bear in mind that we always see winter claims in Norway in Q4 and
 Q1, and of course they have a higher combined, usually at least, than Q2 and 3.
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
+Q - Per Gronborg {BIO 15910340 <GO>}
 
 Bloomberg Transcript
 
@@ -549,10 +505,7 @@ The second more related to Tor. You improved quite a lot in Norway. You are catc
 towards Gjensidige. There's still some room. How far delayed are you in -- or how many
 years are you behind Gjensidige in improving your pricing models in Norway?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 I'll take the ﬁrst question; you take the second question. I like your question, Per. Clearly,
 we informed Nordea before we started the process in Finland, so they knew about the
 process before February's announcement. Clearly, you wouldn't want to catch a business
@@ -588,18 +541,13 @@ unrealistic. So I think we're very pleased with that process and with the fact t
 strings attached, so we don't have to look at the reserves for many years or manage a runoﬀ for many years. We can leave it nice and neatly for customers and for employees as
 well.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 And I also thinks it's worth adding to what Morten said that if you look at the in-market
 players, of course there is a few players which could be interested, as Morten said. But if
 you look at the Finnish market in total, it seems like the interest from other parties around
 is less for the Finnish market than perhaps what you see here in Denmark or other places.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
+A - Morten Hubbe {BIO 7481116 <GO>}
 
 Bloomberg Transcript
 
@@ -608,10 +556,7 @@ extremely ﬁerce. My expectation is that most players in the Finnish market cur
 money on the new customers and make money on the old customers. And pricing
 competition is extremely ﬁerce, and of course that has an impact on the value as well.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 I guess, to the last question, I'm not going to make any comments about Gjensidige. I'm
 just going to say that we have made -- we have said that there are a couple of top
 priorities. One is to improve our price diﬀerentiation ability -- capability. And of course, if
@@ -626,10 +571,7 @@ like that, but I'm just going to say that we have said price diﬀerentiation is
 We have a three-year program, and we are going to get in a relatively good shape over
 that remaining now two and a half years or three years.
 
-Q - Karl Morris
-
-{BIO 7154573 <GO>}
-
+Q - Karl Morris {BIO 7154573 <GO>}
 Hi. Just a couple from me. With regard to your dividend policy, could you give us an idea
 of what options you are looking at? I'm not asking you to tell me what you are going to be
 announcing in the Fourth Quarter, but what considerations are you giving, what kind of
@@ -652,10 +594,7 @@ diﬃcult. Are you happy with the size in Sweden or do you think it's subscale? 
 something that you would potentially also look at divesting some time in the future? What
 is in terms of the strategy towards the Swedish business?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 I think ﬁrstly, on dividend, clearly I was ready to announce the dividend policy at Q3 but
 Tor didn't want to, so blame him. No, you can comment on dividend, if I take the Swedish
 question. I understand the question, because of course our Swedish position is a lot
@@ -689,10 +628,7 @@ just disaster. So we'd rather have sound combined ratio, small gradual growth, a
 see if there is a new Moderna out there some day. That might be next year; it might be in
 six years' time. But as long as we have positive earnings while we wait, that's okay.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Yes. I guess to the question, Karl, about the dividend policy, it will be about shareholder
 value. So I guess it's a fairly simple question. No, but to be serious, clearly -- I think I said
 
@@ -719,10 +655,7 @@ Q - Unidentiﬁed Participant
 Just to follow up on the dividend, what's the Board saying, or the TryghedsGruppen?
 What are they saying about dividends? That was the ﬁrst question.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Well I guess TryghedsGruppen is -- they are an owner which is -- they are concerned
 about dividend. That's a part of their -- important part of their cash ﬂow, so they are as
 concerned about dividend as any other shareholder or investor. They are concerned
@@ -730,10 +663,7 @@ about it.
 
 Bloomberg Transcript
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 They just restated the other day their strategy for the coming years. Part of their strategy is
 to pay out roughly DKK550 million per year for public good activities. What is ﬁnancing
 their DKK550 million per year? It's the dividend they get from us. So clearly -- and then of
@@ -748,10 +678,7 @@ competitors in the Nordics have scaled down quite a lot recently. Is that someth
 seeing? And should we be looking for more growth, or are you happy with the size of
 your book?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Well I guess what we've seen clearly, that AIG charges has been down in terms of volumes
 and presence on workers' comp. The pressure we saw on workers' comp two years ago
 has been relieved signiﬁcantly. The minus 30% on pricing workers' comp almost doesn't
@@ -779,19 +706,14 @@ months, but I expect the continuation of improving the results. Then I think it 
 another year or two down the line before pricing for the general corporate market is
 where it should be.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 And I think, just adding to that, I think it's fair to say that we will have to accept, actually, a
 high volatility on the top line in the corporate segment, simply because if we want to stay
 focused on the proﬁtability side there will be more volatility in that segment. And I guess
 that's something that we need to live with, as long as we have, let's call it, the structural
 engine in the bottom that can support the segment.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
+A - Morten Hubbe {BIO 7481116 <GO>}
 
 Bloomberg Transcript
 
@@ -802,19 +724,13 @@ longer term on corporate we do expect a general situation where we should allow 
 line to go up and down more with the market sentiment and the aggression of
 competition.
 
-A - Lars Moller
-
-{BIO 2301941 <GO>}
-
+A - Lars Moller {BIO 2301941 <GO>}
 I think we'll just try to switch to external. So operator, do we have any questions?
 
 Operator
 (Operator Instructions) Gianandrea Roberti from Carnegie is on line with a question.
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 Yes. Good morning, from me as well, I guess. A couple of questions on what has been
 discussed before. There was a question on the combined ratio target. Am I correct in just
 repeating that the target at this point is more on a 20% after tax ROE, which basically with
@@ -823,10 +739,7 @@ you won't be able to make it, and this should be really the cornerstone for your
 and particularly as we move towards the full year '14 as the target is an unsustainable basis
 from Q3? Is that correctly understood?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Yes. It's correctly understood. I think that we've tried to communicate the below 90% and
 the 20% ROE as equal targets, but you're right that with the current interest rates we
 would need to be below 90% to reach the 20%. And clearly the 20% is a sacred target.
@@ -844,10 +757,7 @@ requires below 90%.
 
 FINAL
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 Okay. Great. The second question is on the dividend, but I -- at this point, I am not
 interested really in what you're going to say in one month. I just am kind of puzzled by the
 decisional process here, because this discussion has been going on for, what, six, seven,
@@ -856,9 +766,7 @@ mind up. It doesn't seem like an extremely complicated solution. So I'm just won
 what is the decisional process here, why you didn't come out now and now you will be
 coming out in a few more weeks? Is there a precise reason for that?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
+A - Morten Hubbe {BIO 7481116 <GO>}
 
 Bloomberg Transcript
 
@@ -878,20 +786,14 @@ said within the calendar year 2012 we will come with a new policy. And I think s
 would have liked it to be Q2 and some would have liked it to be Q3, but that's not what
 we said. So hopefully that will play out as planned during the remaining part of this year.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Just to add to what Morten said or perhaps underline it, the fact is that there has been a
 relatively busy quarter and we have been able to, let's call it, solve the Finnish situation.
 We have been able to make changes to the Nordea and land the Nordea agreement. And
 we have also made good progress on the savings. So I guess in all fairness we have made
 the prioritization.
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 Okay. Thanks a lot.
 
 Operator
@@ -905,9 +807,7 @@ Company Name: Tryg A/S
 Company Ticker: TRYG DC Equity
 Date: 2012-11-08
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
+Q - Matti Ahokas {BIO 2037723 <GO>}
 
 FINAL
 
@@ -919,10 +819,7 @@ And I was also wondering, what kind of diversiﬁcation beneﬁt did actually Fi
 from an economic capital point of view? And obviously, that being gone, I'm just curious
 about the magnitude of that, in your opinion. Thanks.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Yes. I guess I can -- in terms of the diversiﬁcation eﬀects, it's relatively low so no major
 impact. I guess when you look at the capital relief, it's important to take into consideration
 that this is mainly a private portfolio, and of course that is the most important impact in
@@ -935,28 +832,19 @@ that in place.
 
 Bloomberg Transcript
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Then I guess that the capital release in Finland, of course, helps the total capital position
 and thereby the payout. But we are trying to achieve a longer-term payout policy that is
 sustainable over years and not just in year one where there is a DKK250 million release
 from Finland. So it doesn't really impact the general work on dividend policy.
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
-
+Q - Matti Ahokas {BIO 2037723 <GO>}
 Great. Thanks.
 
 Operator
 We have no further questions at this time.
 
-A - Lars Moller
-
-{BIO 2301941 <GO>}
-
+A - Lars Moller {BIO 2301941 <GO>}
 Is there a couple of more questions here?
 
 Q - Unidentiﬁed Participant
@@ -980,10 +868,7 @@ done that yet, since I think there was a call on it some while ago?
 
 FINAL
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 I guess the latter question is relatively easy to answer. You're right; the ﬁrst call was at
 June 30, but it can be called every quarter. And that's why we want to look at our capital
 structure before we do anything about that, the subordinated loan. But clearly you are
@@ -992,10 +877,7 @@ want to do something on the subordinated debt, it's important for us to look at 
 structure since it's really a long-term decision. And that's the reason why we are still
 considering options and alternatives.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 And I guess it's fair to say that the rules on the Solvency II -- Solvency I, Solvency II and
 S&P on what capital quality and length do you have on such a mortgage in order to
 qualify are very diﬀerent. So I think you should come away with a message that we are
@@ -1004,18 +886,12 @@ replacement.
 
 Bloomberg Transcript
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 In terms of the ﬁrst question related to the capital relief, yes, you're right; it's a relatively
 low impact. That's why I said that of course it reﬂects the fact that this is mainly a private
 portfolio.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 But I think the logic you were trying to do I didn't quite capture that, because if you take
 the intangibles, the intangibles are already out of the capital base. So the intangibles were
 not part of -- they were deducted previously from capital, and now you take them out of
@@ -1030,10 +906,7 @@ Q - Unidentiﬁed Participant
 I thought DKK250 million minus the price, which if paid would take it down to DKK250
 million minus DKK112m.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 I try to take the goodwill into account as well.
 
 Page 17 of 22
@@ -1047,9 +920,7 @@ Date: 2012-11-08
 Q - Unidentiﬁed Participant
 Okay. No. It's the right calc. Anyway, doesn't matter.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
+A - Morten Hubbe {BIO 7481116 <GO>}
 
 FINAL
 
@@ -1062,10 +933,7 @@ current mix of investment? That's the ﬁrst question.
 And the second question goes to the new policy that you will introduce in Denmark. Do
 you think you will capture market share with that new policy?
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Well I guess to the ﬁrst question, there is -- there are no plans for major changes in terms
 of the investment book. I guess you can say generally we are -- we do think that the
 markets will be turbulent; it will be diﬃcult going forward as well. So there is no major
@@ -1075,19 +943,13 @@ Bloomberg Transcript
 
 I am not quite sure if I catch the last question (multiple speakers).
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Was that on content, whether the new product would result in more market share?
 
 Q - Unidentiﬁed Participant
 Yes (multiple speakers) okay.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 If you look at our total market share on the content, I think the likelihood that we can
 increase that a lot is fairly low. But I think what we can achieve is a more healthy mix of
 which customers we do get. We will start selling the product on Monday. We will start
@@ -1114,10 +976,7 @@ something like that. So bullish views on market shares I think is a bit far away
 
 FINAL
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Sorry for coming back. Vinit from Goldman's. Just three slightly operational questions, just
 following up from the investor day meeting we had. Firstly, on the Swedish motor, I was
 quite surprised, sort of surprised, to see their uptick in the average premium, because I
@@ -1125,15 +984,10 @@ think there was some photos of Ferraris being replaced by other cars. And I'm ju
 wondering if that mix had actually been in place, or working towards it. So that's the ﬁrst
 question. Shall I shoot the other two or --?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Yes.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 Bloomberg Transcript
 
@@ -1148,20 +1002,14 @@ Is that something that will still happen over time? Is that -- because you clear
 that it's been large claims hitting 3Q, but is the portfolio mix still a story for future years
 already? Thanks.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 I guess, to the last question on the corporate book, what we have mentioned is the power
 utilities in the Norwegian market and the municipalities, as you mentioned, and clearly we
 have made those changes. And I guess you can say that if you look at the large claims that
 we had in Q3, it's related to, let's call it, an ordinary exposure that we have in our book, so
 that exposure has been downsized.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 I guess, Tor, we can add that the municipalities were mainly in Denmark, and I think we've
 actually seen subsequently these customers with -- we don't work with anymore. And I
 think we've seen subsequently that that decision was right, because in reality we've had
@@ -1171,9 +1019,7 @@ been worse since last year. And it means that we'll see no new claims from that 
 still we are paying oﬀ some run-oﬀ losses in that business, so I think that decision was
 right.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Page 19 of 22
 
 
@@ -1186,10 +1032,7 @@ Did it happen in this quarter or (multiple speakers)?
 
 FINAL
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 In this quarter as well, we had negative run-oﬀ losses from municipals in Denmark. I guess
 on Sweden I don't think we can say that we are through the change of the motor mix. We
 just saw the other week a status on how many new customers on cars have high horse
@@ -1198,10 +1041,7 @@ And we can clearly see that the mix of new customers is changing dramatically. S
 getting a lot more boring cars in Sweden and a lot less sexy cars. But I think the
 transitioning of the accumulated portfolio is still going on.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 And it's important to understand that you will have some customers that will have a
 relatively high price increase and will still stay with us. So that's the reason why you -- and
 that's why I tried to explain that the curve was a bit wavy, so to speak. It's not a kind of
@@ -1212,10 +1052,7 @@ time before it will ﬂow through the portfolio.
 
 Bloomberg Transcript
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 But I think it's fair to say that two, three years ago Sweden was a country where our mispricing was the broadest. Today, we are actually getting close to a situation that Sweden is
 the area where the largest number of products is priced exactly where we want them. So
 our staﬀ in Sweden has been moving very rapidly on turning around the portfolio. And
@@ -1223,25 +1060,16 @@ you may recall that we hired a number of very senior actuarial staﬀ from some 
 largest competitors in Sweden two years ago, and that is really starting to pay oﬀ on the
 quality.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 And that's why I said to Per's question earlier that in fact we do think that in terms of price
 diﬀerentiation we actually have the best stability -- agility now in the Swedish portfolio,
 Swedish book of business.
 There was another -- there was a ﬁnal question. What was --?
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 The car repairs.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 The car repairs, right. Right. Yes. That is something that will continue to ﬂow into the
 numbers in the coming years. Clearly, you saw that a major impact this year in terms of
 annual eﬀect was related to the fact that we have been able to renegotiate agreements
@@ -1264,30 +1092,19 @@ repair shops, that you get it at -- with an agreed quality level and at an agree
 it's also important to look at, over time, do we actually need to have that many or can we
 scale down and achieve more economies of scale in terms of procurement.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 So the DKK60 million had something to do with that?
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Yes.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 I guess you could say, Tor, that actually our initiatives on car and procurement is slightly
 ahead of plan, whereas, for instance, house and building and procurement is slightly
 behind plan. So there are variations within the project. But generally it is moving along the
 plans we set.
 
-A - Lars Moller
-
-{BIO 2301941 <GO>}
+A - Lars Moller {BIO 2301941 <GO>}
 
 Bloomberg Transcript
 
@@ -1296,26 +1113,17 @@ Any further question from inside here? Operator, do we have any further question
 Operator
 (Operator Instructions) There are still no further questions.
 
-A - Lars Moller
-
-{BIO 2301941 <GO>}
-
+A - Lars Moller {BIO 2301941 <GO>}
 Thank you, operator. Yes. Then I think I will say thank you to all of you for participating this
 morning here with the Q3 presentation, and with these words. And you can see here that
 we have the road show plan up here for the next couple of weeks, where we'll be a little
 bit around all over, I guess. But with these closing remarks, thank you for joining us and
 have a good day.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Thank you.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Thanks.
 
 Page 21 of 22

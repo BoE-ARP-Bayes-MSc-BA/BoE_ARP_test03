@@ -176,10 +176,7 @@ announced today. This demonstrates our commitment to return excess capital to sh
 unless we can better deploy it in other value creating corporate opportunities.
 And with that, I will now hand over to Delfin Rueda. Delfin?
 
-Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Thank you, Lard. Let me start by presenting the 2016 full year results. NN Group reported an
 operating result of the ongoing business of €1.2 billion for 2016, down 14% on 2015. To understand
 this decrease, we need to take into account the operating result for 2015 benefited from higher
@@ -393,10 +390,7 @@ Operator
 Thank you, Mr. Friese. Ladies and gentleman, we will start the question-and-answer session. Your
 first question is coming from Mr. Cor Kluis, ABN AMRO. Go ahead, please, sir.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Good morning. Cor Kluis, ABN AMRO. Got a few questions. First of all about the Eligible Own Funds
 on slide 20, you showed there that the market's variance was €0.5 billion negative in the quarter.
 Could you elaborate on that what exactly the pieces were in that because equity markets were –
@@ -417,10 +411,7 @@ FINAL
 
 Thank you, Cor. Good morning. I will hand that to Jan-Hendrik Erasmus, our Chief Risk Officer.
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Hi, Cor. Thank you, Lard, for the question and Cor. Yeah. The first thing, just to notice that interest
 rates went up in the quarter. So what we saw is that of course our Solvency capital requirement
 came down during the quarter. And Solvency II has a rule that your Tier 3 capital cannot be more
@@ -438,19 +429,13 @@ see them yourselves in the markets. We disclosed some sensitivities to governmen
 spreads, and those have continued to widen for some of the high quality sovereigns in Europe, so
 we expect that it's a little bit lower than the year-end number.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Okay. Very clear. Thanks.
 
 Operator
 Next question is from Mr. Farquhar Murray. Go ahead please, sir.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Good morning, gentlemen. Just two questions, if I may. Firstly, the DNB has issued kind of new
 guidelines from the LACDT. I just wondered if you could work through which elements of those you
 regard as new versus the prior guidance and what the implications are, if any, for NN's Solvency II
@@ -464,10 +449,7 @@ sovereign exposure or are there other dynamics going on there? Thanks.
 A - Eilard Friese
 Yeah. Thank you, Farquhar. So the second question on the sensitivities will be answered by JanHendrik, but let's first do the LACDT question. So, Delfin, can you take that one?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. Thank you, Farquhar. So indeed, I think it – I mean, last Friday, there was a new guidance from
 DNB on the LACDT. So we have taken that guidance very carefully into account, and our approach
 at year-end 2016 is fully compliant with this guidance. And I mean, trying to explain what has
@@ -484,10 +466,7 @@ FINAL
 
 Jan-Hendrik.
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Thank you, Farquhar, for that question. Our sovereign exposures haven't significantly increased. We
 still remain comfortable with the high proportion of sovereigns as part of what we consider to be a
 relatively defensive (35:55). The increase in the sensitivity you see is primarily caused by the tiering
@@ -495,10 +474,7 @@ that I described earlier. Essentially, you get a loss-absorbing effect if you ha
 cap. And when you start hitting it, you'd get less loss-absorbency from deferred tax asset that you
 would set up in those scenarios. So it's primarily caused by the Solvency II tiering.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Okay. Great. Thanks much.
 
 Operator
@@ -506,10 +482,7 @@ Next question from Mr. Michael van Wegen, Bank of America. Go ahead please, sir.
 
 Bloomberg Transcript
 
-Q - Michael van Wegen
-
-{BIO 6435238 <GO>}
-
+Q - Michael van Wegen {BIO 6435238 <GO>}
 Yeah, morning, guys. Quick one or two. First of all, can you indicate on a pro forma basis, including
 the Delta Lloyd acquisition, what capital levels you feel comfortable with, because I think you talked
 about a pro forma Solvency II ratio of low 190s or mid 190s at the Q3 stage. I think that how things
@@ -521,10 +494,7 @@ stage, not possible. Thank you.
 A - Eilard Friese
 Thanks, Michael. Delfin?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. Thank you, Michael. Yes, as you can imagine, without the – having the disclosure of Delta Lloyd
 that come in next week, will be imprudent to comment on new pro forma ratios.
 What we have – I would highlight two things here. I mean, one is the very strong starting position of
@@ -537,10 +507,8 @@ still very comfortable going forward.
 Operator
 Does it answer your question?
 
-Q - Michael van Wegen
+Q - Michael van Wegen {BIO 6435238 <GO>}
 Thank you.
-
-{BIO 6435238 <GO>}
 
 
 
@@ -549,10 +517,7 @@ The next question is from Mr. Arjan van Veen, UBS. Go ahead please.
 
 FINAL
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Yes. Thank you, gentlemen. Just two questions. The first one is on this reduction or the reduction
 eligibility with reference to Tier 3. If I look at your group Tier 3 capital, it's gone up from 11% to 14%,
 the actual number has gone up while the SCR has gone down. So it doesn't look like this is the
@@ -594,10 +559,7 @@ results reducing expenses further – we should really need it in the Motor book
 underwriting actions were needed to ensure that we work toward our combined ratio target.
 Now with that, I would like to hand over to Jan-Hendrik on the first question that you had, Arjan.
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Thank you, Lard and Arjan for that question. Arjan, you are right firstly to say that this impact was
 larger in the Life company than at Group level. But we still saw a small impact at Group level,
 
@@ -609,51 +571,34 @@ compare it with. On the other hand, your insight is also correct.
 
 FINAL
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Can I just ask one last? So, if the DNB is stricter – you've already capped some of your LAC-DT
 now. So it's only potential reductions you already probably would do so now effectively.
 
 A - Eilard Friese
 On LAC-DT? Delfin, you want to comment?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yeah. I think we are talking about different things. The LAC-DT is basically impacting the level of the
 (42:56) capital requirement. And then we talk about the Tier 3, is the deferred tax assets that tier
 impacting own funds (43:04).
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Okay. So, they are quite mutually exclusive?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 
 Bloomberg Transcript
 
 Yes. Thank you.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Yeah. Thanks.
 
 Operator
 Next question is Ashik Musaddi, JPMorgan. Go ahead, please.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Hi. Good morning, everyone. So, just one question with respect to the cash that you are
 upstreaming from subsidiaries. I mean, your guidance has been very clear that it should be roughly
 in line with the operating result. But for past couple of years, it's materially higher, I mean because
@@ -665,10 +610,7 @@ you.
 A - Eilard Friese
 Yeah. Thank you Ashik. Delfin, would you be so kind?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yeah. So, obviously, in order to have a amount of free cash flow generation on the range of the
 operating result, taking into account that there are also holding expenses on the cost of debt, you
 need to have a higher increase – higher dividends coming from the subsidiaries in order to
@@ -684,10 +626,7 @@ forward.
 
 FINAL
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thank you. And just one more follow up question on the sovereign spreads. I mean, sovereign
 spread is kind of widening at the moment, but it's still relatively tighter. I mean, is there any way
 you are thinking about locking those sovereign spread, o, virtually it's very difficult and maybe
@@ -696,10 +635,7 @@ uneconomic as well to do that? Thank you.
 A - Eilard Friese
 Yeah. Thanks, Ashik. So Jan-Hendrik?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Hi. Thank you, Ashik, for that question. The sensitivity we disclosed is, of course, to all sovereign
 spreads moving in parallel by 50 basis points at the same time, which is a relatively big shift. And
 we also need to think about the underlying economics which is that, we think we are more
@@ -708,25 +644,17 @@ capital generation, but the real underlying risk is default risk. Of course, we 
 options, one of them is spread locks and we tend to do these things when it makes sense to them
 rather than to be forced into them.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 Bloomberg Transcript
 
 And at the moment you don't think it's necessary to lock it?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 It's one of the options we are considering. But as I have explained before, I think our Solvency
 position is very strong at the moment, so we will only do it when it makes sense.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. Thank you.
 
 Operator
@@ -767,9 +695,7 @@ It's nothing special, so – but it's partly that plus some growth in some part 
 So, I wouldn't – there's nothing special in that particular line. Let me go to the operating return
 question that you have. So, Delfin, would you be able to take that one? Yeah. Thank you.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 
 Bloomberg Transcript
 
@@ -794,10 +720,7 @@ Okay. Thank you.
 Operator
 The next question is from Mr. Gordon Aitken, RBC. Go ahead please.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Good morning. Couple of questions please. First, on costs. The head count is essentially
 unchanged over 2016. Usually a large component of cost bases of insurance companies are staff.
 And even if you weren't making any return this season (50:36), I expect you still could reduce the
@@ -850,19 +773,13 @@ externals that are sometimes more expensive than hiring on a full-time basis. An
 basis, we also move externals that are actually more permanent into permanent contracts because
 that is better in terms of – financially, so that's why.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Thanks very much.
 
 Operator
 The next question is from Mr. William Hawkins, KBW. Go ahead sir.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hello. Thank you very much. Delfin, when you were talking about the one-offs in the operating
 capital generation on slide 21, you referred to that €100 million of shift from SA to GA. When that
 happened in the first quarter, you were saying that was seasonal rather than explicitly one-off. So,
@@ -883,9 +800,7 @@ something that needs to be addressed in the future? Thank you.
 A - Eilard Friese
 Thanks, William. So, Delfin?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 
 Bloomberg Transcript
 
@@ -903,19 +818,13 @@ the quarter did not only reflect the movement in the quarter, so there was some 
 to previous periods. So, there was a bit of a catch-up in recognizing that morbidity, weaknesses. So
 I would not consider that as a recurrent item.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you, guys. (56:59-57:11)
 
 Operator
 The next question is from Matthias de Wit, KBC Securities. Go ahead, please.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Yes. Good morning. Thank you. Just to come back on the operating return. You referred to the
 negative impact of the growth in the Japanese business. Could you quantify that product stream
 impacts both on a quarterly and a full-year basis, please?
@@ -935,9 +844,7 @@ own funds, and then Delfin will take the other components of your question.
 
 
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 
 FINAL
 
@@ -948,24 +855,15 @@ match asset cash flows with liability cash flows. And that means under the Solve
 that you see that when rates go up, our own funds will go down, and that's what we have seen. So,
 pretty much as expected.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 And you would look at it on an economic basis without UFR, I guess, you would have shown a
 positive fund number there or?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Well, I think on an economic basis, it's pretty much a better match, right. So, we're trying to match it
 closely on an economic basis or on a cash flow basis.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Okay.
 
 A - Eilard Friese
@@ -974,10 +872,7 @@ Bloomberg Transcript
 
 Delfin?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes, Matthias. So, on the impact on the operating return from Japan, I think it's important to
 understand that as Japan is not a Solvency II entity, the dividends and the capital generation are
 driven by the Japanese GAAP profits. And as a consequence, due to the initial acquisition cost,
@@ -989,26 +884,17 @@ depressed somehow the capital generation. We have not specifically quantified th
 not sure if there was another question. I think how does it impact the capital generation going
 forward?
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Yes. The rate...
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yeah. I remember now the question. So, it's about in the operating result, how the higher interest
 rates will impact capital generation. And certainly with higher interest rates and higher spreads, we
 have negative impact on own funds but as we explained in the past that result into higher capital
 generation going forward and I think as you know is related to different aspects but I think that's
 the key message to take away. We should not be quantifying it from one quarter to another.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Okay. Thanks a lot.
 
 Operator
@@ -1016,9 +902,7 @@ Next question, Mr. Bart Horsten, Kempen & Co. Go ahead please, sir?
 
 
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
+Q - Bart Horsten {BIO 2390919 <GO>}
 
 FINAL
 
@@ -1045,16 +929,10 @@ remind you that there are, obviously, pending cases and they may come to rulings
 this year. So, that's that one. Then on sensitivities – of your sensitivities. So, Jan-Hendrik, and then
 the first question will be done by Delfin, Bart.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Okay.
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Thank you, Bart. Yes. I mean, the last time we disclosed the sensitivities was Q2, and indeed if you
 compare the Q4 sensitivities, you will see that these are higher. For the majority of the change, it
 really is this DTA gap which I should reiterate is not an economic effect, it's an effect caused by
@@ -1064,19 +942,13 @@ that is now less of a good match, if you like, with our portfolio. So, that has 
 bit to the increasing sensitivities that you see from Q2 to Q4. But apart from that, there's nothing
 else in there.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Okay.
 
 A - Eilard Friese
 And then Delfin on the growth in Japan Life.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. Indeed. As you know, for Japan Life, the impact on the – when you focus on the quarter, I
 mean, in the quarter in the Q4, basically, there is some drag because of the technical margin in
 Japan, and that is related to more negative mortality results and a lower surrender. Mortality
@@ -1092,19 +964,13 @@ we move forward in the quarters to come.
 
 FINAL
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Okay. Thank you.
 
 Operator
 Your next question is from Mr. Darshan Mistry, Citi. Go ahead please.
 
-Q - Darshan Mistry
-
-{BIO 19807857 <GO>}
-
+Q - Darshan Mistry {BIO 19807857 <GO>}
 Hi there. Thank you for taking my question. Firstly, just coming back to this LACDT issue. I was
 wondering whether you're able to be say – how much of your higher recoverability rates compared
 to some of your peers is due to the fact that you have a well-capitalized group with a significant
@@ -1123,10 +989,7 @@ A - Eilard Friese
 Yeah. Thank you very much, Darshan. So, on LACDT – LACDT, sorry. This is to Delfin, and I will take
 the Polish one later. Thank you.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Darshan, yes. You're absolutely right. I mean, the two factors, the level at which you are capitalized,
 as well as what is the prospects of capital generation (01:06:44) play a role. I think that our ability to
 use the LACDT is driven by both. We should not underestimate also what is the capital generation
@@ -1152,9 +1015,7 @@ fact that it still needs to go through parliament. But, if the proposal will be 
 form, basically, short-term, it may adversely impact the profitability of our Polish pension business.
 But longer term, it also leads to opportunities for the business structurally.
 
-Q - Darshan Mistry
-
-{BIO 19807857 <GO>}
+Q - Darshan Mistry {BIO 19807857 <GO>}
 
 FINAL
 
@@ -1163,10 +1024,7 @@ Okay. Thank you.
 Operator
 The next question is from Mr. Farooq Hanif, Credit Suisse. Go ahead please.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, guys. Just two quick questions. On the SCR, you've alluded to the DB to DC trend, in terms of
 renewals, which is a slow trend in terms of capital release. But, how many years is it going to take,
 in your view, before we reach that wave and we start to see a more material reduction in NN Life
@@ -1190,19 +1048,13 @@ movement which is quite pronounced for which we are very well positioned.
 We have various rods in the pond, a good product line, and a good business to capture that
 opportunity.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 If I may quickly follow up on that.
 
 A - Eilard Friese
 Sure.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 I just – I know you – it's impossible but it's very actuarial but are you basically saying, look, in a
 typical analyst 3-year to 5-year timeframe, don't factor this in at all?
 
@@ -1210,10 +1062,8 @@ A - Eilard Friese
 I would certainly not think that you will see a massive change in the balance sheet in 3 to 5 years.
 No.
 
-Q - Farooq Hanif
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thanks.
-
-{BIO 4780978 <GO>}
 
 
 
@@ -1223,10 +1073,7 @@ the composition of the capital, Delfin?
 
 FINAL
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yeah. I think the question, Farooq, is about what we can do about the tiering and somehow, as you
 know, the tiering works as it works and sometimes it comes in your favor, sometimes comes a little
 bit against you. So, clearly, this quarter with the reduction on the solvency capital requirement and
@@ -1234,51 +1081,33 @@ consequence also with the reduction of the value of our fixed income securities 
 the deferred tax asset and at the same time the tiering cap has reduced. I think that for Tier 3,
 there is not much to do. We'll always be limited to the 15% cap. Maybe – I don't know if JanHendrik, do you want to add something on this?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Yeah. I think that's right, Delfin. Just to add one comment. It's a funny dynamic because the one
 thing we can, of course, do is to increase our SCR by taking more risk, and then we would have
 more Tier 3 capacity. So, it does increase the resilience a little bit if you think about that. But, apart
 from that, we are bound by the rules.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 So, you won't consider taking more Tier 2 or other actions like that?
 
 Bloomberg Transcript
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 In terms of – I mean, as you know, as from January 1, we no longer have the restricted Tier 1
 subordinated bonds from – owned by ING Bank. So, that has reduced our Tier 1, and we replaced
 that already with €850 million of Tier 2. So, we have already increase the tiering of Tier 2, and
 these ratios, of course, will be presented as part of Q1.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thanks.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Thank you very much.
 
 Operator
 Next question is from Mr. Steven Haywood, HSBC. Go ahead, please.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Good morning, everyone.
 Just two questions, please. On the Non-Life business, you still have the 97% combined ratio target
 for next year. Do you think this will be achieved? And then there was one of your peers flagged this
@@ -1297,10 +1126,7 @@ on Non-Life points.
 
 FINAL
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. In Life Korea, we have not disclosed any amount, and we have done that on purpose because
 there is still some negotiations as we speak. And therefore, we consider that to be commercially
 sensitive. The result of both Korea and the transfer of the NN Re Ireland portfolio are reflected in
@@ -1312,10 +1138,7 @@ combined ratio, but obviously right now is that we need to do more work to reach
 pertains to your other point on personal injury, I can't comment on the results of peers, obviously,
 personal injury is not significant for us.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Okay. Thanks very much.
 
 Operator
@@ -1323,10 +1146,7 @@ The next question is from Mr. Darshan Mistry. Go ahead please. Your line is open
 
 Bloomberg Transcript
 
-Q - Darshan Mistry
-
-{BIO 19807857 <GO>}
-
+Q - Darshan Mistry {BIO 19807857 <GO>}
 Hi. Thank you. A couple of follow-up questions please. Firstly, you're going to be taking – if the
 Delta Lloyd acquisition goes through, you're going to be taking on a lot of longevity risk. And so,
 are you considering the use of longevity swaps or longevity reinsurance? And if so, can we expect
@@ -1339,10 +1159,7 @@ reduce that volatility? Thank you.
 A - Eilard Friese
 Thanks, Darshan. Jan-Hendrik?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Thank you, Darshan, for those questions. Yeah. You are right that we will be increasing after the
 transaction, and if it completes as planned, our exposure to Dutch longevity risk. And we are, of
 course, preparing for many scenarios, and we have been investigating for several years, the
@@ -1358,10 +1175,7 @@ scenarios. But, it's premature to speculate.
 
 
 
-Q - Darshan Mistry
-
-{BIO 19807857 <GO>}
-
+Q - Darshan Mistry {BIO 19807857 <GO>}
 Thank you very much.
 
 Operator
@@ -1370,10 +1184,7 @@ FINAL
 
 The next question is from Mr. Steven Haywood, HSBC. Go ahead, please.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Thank you. Just another question, more a case of what you plan to do in the future. Your €2.5
 billion of cash holding, if you take away the final dividend and the cash cost acquisition of Delta
 Lloyd, you get to about €800 million. But then, if your free cash flow in 2017 is again, €1.3 billion or
@@ -1387,10 +1198,7 @@ Yes. Delfin?
 
 Bloomberg Transcript
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. Thank you, Steven. So, basically, with the acquisition of Delta Lloyd, we're not intending to
 change our capital management or dividend approach. So, we will continue be applying the same
 approach of if there is to assist any surplus capital to repay it back to the shareholders in the most
@@ -1402,10 +1210,7 @@ put €2.5 billion of surplus – a part of the surplus capital at play, and fro
 you know how the cash capital at holding develops. But the key message here is no change of the
 capital management and dividend policy as we have explained in the past.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Okay. Many thank you.
 
 A - Eilard Friese
@@ -1430,10 +1235,7 @@ It's our last minute. That's Mr. Ashik Musaddi, JPMorgan.
 
 FINAL
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Hi. Sorry. Just one follow-up. Can you give us some indication about what are the – I mean,
 how much more re-risking possibility is there in your current NN book? I mean, are you looking to
 do – continue to do a bit more or you think that current asset profile is more or less the same? And
@@ -1444,9 +1246,7 @@ A - Eilard Friese
 Yeah. So, Ashik, the first question will be covered by Delfin. The second one, I'll give you some
 views on the Insurance Europe.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 
 Bloomberg Transcript
 
@@ -1469,10 +1269,7 @@ the broker in Poland.
 So, that's our target. That's what we're going to work towards. At the same time, we keep the
 expenses under control and that's what you basically see happening in Europe.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. Thanks. Very clear.
 
 A - Eilard Friese

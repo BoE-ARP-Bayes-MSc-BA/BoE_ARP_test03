@@ -28,10 +28,7 @@ Peter Eliot, Analyst
 Thomas Seidl, Analyst
 
 Presentation
-Jarmo Salonen
-
-{BIO 1860650 <GO>}
-
+Jarmo Salonen {BIO 1860650 <GO>}
 Ladies and gentlemen. welcome to this conference call on Sampo Group's Q3 2013
 results. My name is Jarmo Salonen and I'm Head of Investor Relations at Sampo. And with
 me at this call I have our Group CEO and President, Kari Stadigh; Group CFO, Peter
@@ -42,10 +39,7 @@ transmission on our website, sampo.com/results, and a recorded version of the ca
 later be available at the same address.
 And I think that's all from me now. I'll hand over to Kari.
 
-Kari Stadigh
-
-{BIO 1504152 <GO>}
-
+Kari Stadigh {BIO 1504152 <GO>}
 Thank you, Jarmo. Welcome to the conference call on my behalf as well.
 Page 1 of 13
 
@@ -114,10 +108,7 @@ combined ratio guidance to 88% to 90% -- between 88% to 90% for the full year 20
 And even if we saw exceptionally strong wins in Denmark and Southern Sweden, we see
 no reason to change this. All in all, conﬁdence prevails.
 
-Jarmo Salonen
-
-{BIO 1860650 <GO>}
-
+Jarmo Salonen {BIO 1860650 <GO>}
 Thank you, Kari. And operator, we are now ready for the questions.
 
 Questions And Answers
@@ -126,10 +117,7 @@ Operator
 
 Bloomberg Transcript
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 I have two questions, please. Kari, you mentioned the windstorms just now. I was
 wondering if you are able to comment any further on the impact of those at all. One of
 your competitors put out some numbers this morning. I was just wondering if you were
@@ -141,10 +129,7 @@ strip those out on my numbers, I think in local currency, Q3 was down maybe 2.5%
 and I was just wondering if there was anything that you wanted to highlight there.
 Thank you.
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
-
+A - Kari Stadigh {BIO 1504152 <GO>}
 I think, Peter, I'll turn this over to Ricard.
 
 A - Ricard Wennerklint
@@ -165,9 +150,7 @@ Secondly, on the premiums in Norway, if you look at this in Norwegian kroner, we
 2.3% growth in Norway during the ﬁrst nine months. So I think it's mostly currency eﬀect
 that you see, actually.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter Eliot {BIO 7556214 <GO>}
 
 FINAL
 
@@ -176,10 +159,7 @@ Okay. Thanks a lot.
 Operator
 Hakon Fure, DNB.
 
-Q - Hakon Fure
-
-{BIO 16623060 <GO>}
-
+Q - Hakon Fure {BIO 16623060 <GO>}
 Two questions from me, please. Firstly, Kari, you touched on the internal dividends from If
 and Mandatum. If we then look at Nordea, consensus expectations for Nordea's dividends
 is for them to be up by more than 30% year on year. Given your capital position, is there
@@ -190,10 +170,7 @@ Thanks.
 
 Bloomberg Transcript
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
-
+A - Kari Stadigh {BIO 1504152 <GO>}
 On Nordea, I don't really think you expect me to answer your question, so I think that we'll
 stick to the communication that Nordea has given. And Clausen has clearly stated that you
 will see an increased dividend, but he will come back to this later this year.
@@ -203,19 +180,13 @@ On the combined ratio in Sweden, it's not at satisfactory level, but it's mainly
 volatility in large claims. On the underlying business, we continue to see a need for
 premium increases in the private business and that is taking place as we speak.
 
-Q - Hakon Fure
-
-{BIO 16623060 <GO>}
-
+Q - Hakon Fure {BIO 16623060 <GO>}
 Okay. Thank you.
 
 Operator
 Matti Ahokas, Handelsbanking.
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
-
+Q - Matti Ahokas {BIO 2037723 <GO>}
 Two questions, please; a bit on the details from Ricard. What was the total impact of large
 claims in the Third Quarter? I remember that you previously said that the normal level is
 roughly EUR70 million.
@@ -239,10 +210,7 @@ On large claims, we have said that during the ﬁrst nine months, we're I think 
 above normalized, and that is what we give on the large claims. Nothing really to add on
 that.
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
-
+Q - Matti Ahokas {BIO 2037723 <GO>}
 But the impact of the Swedish discount rate, could you give me that in euros for the Third
 Quarter?
 
@@ -251,9 +219,7 @@ No. We don't disclose speciﬁcally the number in euros. The rate that we use, 0
 course slightly higher than what was in the Second Quarter, but I don't have the speciﬁc
 impact of that change during the Third Quarter, no.
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
+Q - Matti Ahokas {BIO 2037723 <GO>}
 
 Bloomberg Transcript
 
@@ -265,19 +231,13 @@ hikes, but is this more of a cyclical or a structural problem that we're seeing 
 A - Ricard Wennerklint
 I would label this as a very normal ﬂuctuation in the business.
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
-
+Q - Matti Ahokas {BIO 2037723 <GO>}
 Thanks a lot.
 
 Operator
 Jacob Brink, ABG.
 
-Q - Jacob Brink
-
-{BIO 18967018 <GO>}
-
+Q - Jacob Brink {BIO 18967018 <GO>}
 So much about this quarter, but I was just wondering how you're going to treat Nordea
 now where I guess Nordea's going to stop -- capital-wise, how are you going to treat
 Nordea when --? I assume Nordea's going to stop transition rules risk-weighted assets.
@@ -293,9 +253,7 @@ Company Name: Sampo Oyj
 Company Ticker: SAMPO FH Equity
 Date: 2013-11-05
 
-A - Peter Johansson
-
-{BIO 3902189 <GO>}
+A - Peter Johansson {BIO 3902189 <GO>}
 
 FINAL
 
@@ -306,43 +264,28 @@ If I would exclude the transition rules, Nordea would consume EUR2.7 billion. An
 from the Claussen's fully-loaded core Tier 1 ratio that he said on the CEO review, the
 number would be EUR2.9 billion.
 
-Q - Jacob Brink
-
-{BIO 18967018 <GO>}
-
+Q - Jacob Brink {BIO 18967018 <GO>}
 Okay. That would be somewhat less than your economic capital from Nordea, so which
 maybe consider doing something to get up towards the old level, or would you actually
 then use a lower level of capital for Nordea?
 
-A - Peter Johansson
-
-{BIO 3902189 <GO>}
-
+A - Peter Johansson {BIO 3902189 <GO>}
 That would actually be the regulatory capital requirement, but we would continue to take
 our share of Nordea's economic capital, which is the higher number.
 
-Q - Jacob Brink
-
-{BIO 18967018 <GO>}
-
+Q - Jacob Brink {BIO 18967018 <GO>}
 Okay. Thank you.
 
 Bloomberg Transcript
 
-A - Jarmo Salonen
-
-{BIO 1860650 <GO>}
-
+A - Jarmo Salonen {BIO 1860650 <GO>}
 And the slides that Peter is referring to are the supplementary package slides that you'll
 ﬁnd on our website.
 
 Operator
 Blair Stewart.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 A couple of questions. Kari, you talked about buying some covered bonds in the quarter. I
 just wondered what the yield on those investments was, please, just to get an idea of what
 you think is attractive.
@@ -352,9 +295,7 @@ decision as to when that gets crystallized? Or will you use that over time to he
 the earnings of the Company?
 Thank you.
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
+A - Kari Stadigh {BIO 1504152 <GO>}
 
 Page 6 of 13
 
@@ -372,72 +313,43 @@ would sell them and then we would realize the proﬁt. So I think that's the bas
 have -- they are roughly pre-tax, Peter? They are EUR900 million and EUR300 million,
 roughly?
 
-A - Peter Johansson
-
-{BIO 3902189 <GO>}
-
+A - Peter Johansson {BIO 3902189 <GO>}
 Yes.
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
-
+A - Kari Stadigh {BIO 1504152 <GO>}
 EUR900 million in equities and EUR300 million in bonds; a little bit less than EUR900
 million.
 Then on covered bonds, I think the (tenure) was three to ﬁve years and the yield was
 roughly plus/minus 3%.
 
-A - Peter Johansson
-
-{BIO 3902189 <GO>}
-
+A - Peter Johansson {BIO 3902189 <GO>}
 Exactly. It was a total of SEK5 billion, roughly.
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
+A - Kari Stadigh {BIO 1504152 <GO>}
 
 Bloomberg Transcript
 
 Yes. So it's a little bit more than EUR500 million. It was EUR560 million probably in euros.
 
-A - Peter Johansson
-
-{BIO 3902189 <GO>}
-
+A - Peter Johansson {BIO 3902189 <GO>}
 Yes.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 And the yield was about 3%, did you say?
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
-
+A - Kari Stadigh {BIO 1504152 <GO>}
 Yes. Roughly plus/minus 3% depending on the tenure.
 
-A - Peter Johansson
-
-{BIO 3902189 <GO>}
-
+A - Peter Johansson {BIO 3902189 <GO>}
 The ﬁxed income, of course, the unrealized gain of EUR300 million, that will run oﬀ within
 two or three years.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Yes, of course. Yes. And just one other comment, Kari. I'm pleased that they managed to
 persuade you to stay oﬀ the golf course for a few more years and stay on at the Company,
 so thanks for that.
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
-
+A - Kari Stadigh {BIO 1504152 <GO>}
 Page 7 of 13
 
 
@@ -454,10 +366,7 @@ FINAL
 
 Thomas Seidl, Bernstein.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Two questions, please, on the P&C business. Page 33 of the presentation, you show the
 gross written premium by market. I wonder if you could give me a ﬂavor by each of these
 markets what is rate driven versus what is market share driven.
@@ -474,10 +383,7 @@ truth for all the markets.
 
 Bloomberg Transcript
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
-
+A - Kari Stadigh {BIO 1504152 <GO>}
 On capital, I think that we have always been in a way over-capitalized with a strong
 cushion, and I think that in these times, that's a sensible way to run this also in the future.
 For us, we have not been that keen lately on share buybacks, even if we have that in our
@@ -485,23 +391,14 @@ toolbox. We are more here to secure that we can build a dividend history.
 So I have said it many, many times that we are a dividend stock and we like to be able to
 show to you slightly increasing dividends year on year.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay.
 
-A - Peter Johansson
-
-{BIO 3902189 <GO>}
-
+A - Peter Johansson {BIO 3902189 <GO>}
 On the regulatory side, we don't have speciﬁc target for the time being because it's a
 moving target due to the changes in regulation.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay. Thank you.
 
 Operator
@@ -515,9 +412,7 @@ Date: 2013-11-05
 
 Per Gronborg, Danske Markets
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
+Q - Per Gronborg {BIO 15910340 <GO>}
 
 FINAL
 
@@ -530,55 +425,35 @@ also been giving up quite material market share. Who exactly is the ones that ar
 on that part of the market? Do you have any comments on that. Is it Nordics? Is it national
 players in the Nordics that is doing it?
 
-A - Peter Johansson
-
-{BIO 3902189 <GO>}
-
+A - Peter Johansson {BIO 3902189 <GO>}
 On the cost (there), it's roughly EUR18 million to EUR19 million every -- for 50 basis points
 lowering.
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
-
+A - Kari Stadigh {BIO 1504152 <GO>}
 Per year.
 
-A - Peter Johansson
-
-{BIO 3902189 <GO>}
+A - Peter Johansson {BIO 3902189 <GO>}
 
 Bloomberg Transcript
 
 Per year, exactly. EUR 18 million to EUR19 million.
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
-
+A - Kari Stadigh {BIO 1504152 <GO>}
 And on market share industrial?
 
-A - Peter Johansson
-
-{BIO 3902189 <GO>}
-
+A - Peter Johansson {BIO 3902189 <GO>}
 This is, of course, we deﬁne the industrial market in diﬀerent ways in diﬀerent companies;
 impossible to answer. But I would guess that the customers that we are losing are going
 both to domestic players and to international players.
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
-
+A - Kari Stadigh {BIO 1504152 <GO>}
 I have a small comment, Per. We are not really giving away or taking market share
 because that's not the way we work. We price risks and then we see the outcome. So I
 think that's always remember to -- always worthwhile to remind of our culture that market
 share is secondary to us. For us, it's primary to price risks correctly and then earn my
 money for shareholders.
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
-
+Q - Per Gronborg {BIO 15910340 <GO>}
 Sorry for phrasing my question slightly wrong. I understand, yes.
 
 Operator
@@ -592,9 +467,7 @@ Date: 2013-11-05
 
 Gianandrea Roberti, Carnegie.
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 
 FINAL
 
@@ -611,9 +484,7 @@ that started in the middle of last year is continuing. Can you add anything on t
 and especially on the smaller players and how they're behaving.
 Thanks a lot.
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
+A - Kari Stadigh {BIO 1504152 <GO>}
 
 Bloomberg Transcript
 
@@ -626,10 +497,7 @@ On the windstorms, this is still a moving target. So let's say that we are deﬁ
 The Norwegian market, very calm during the Third Quarter. I have nothing new to report,
 so can't really add much to what has been said before about the Norwegian market.
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 All right. So nothing -- I still hear that the smaller ones are being very aggressive and
 chasing market share right and left. There's nothing new on that point?
 
@@ -638,10 +506,7 @@ That would not be the way I would describe the Norwegian market currently. There
 deﬁnitely been an inﬂow of competitors during the last couple of years, but last nine
 months, at least, a fairly calm market.
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 Thank you.
 
 Operator
@@ -657,10 +522,7 @@ Paavo Ahonen, Nordea Bank.
 
 FINAL
 
-Q - Paavo Ahonen
-
-{BIO 6531806 <GO>}
-
+Q - Paavo Ahonen {BIO 6531806 <GO>}
 A question on dividends and on internal dividends. Firstly, on If, you are saying you are
 planning dividend of around EUR500 million in Q4, and this, I guess, would imply maybe
 somewhat lower payout there than on average recently. Are there any speciﬁc reasons for
@@ -670,10 +532,7 @@ million for Q1 next year. So should we expect this will be included or have an e
 some Sampo's dividend payment from this year, or how would you handle this?
 Thanks.
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
-
+A - Kari Stadigh {BIO 1504152 <GO>}
 The EUR500 million should be in line with previous years. That's the SEK4.3 billion, it
 shouldn't be out of line from what we have been distributing in a good year from If.
 
@@ -688,27 +547,18 @@ On our dividends, I have nothing new to communicate. Of course, we want to incre
 the dividend gradually, and you have just to wait until our Board is ready to make the
 decision or proposal for next spring.
 
-A - Peter Johansson
-
-{BIO 3902189 <GO>}
-
+A - Peter Johansson {BIO 3902189 <GO>}
 Technically, of course, if we take in December EUR500 million from If, that means actually
 a pre-dividend from If. So it's this year's proﬁts will be distributable capital only after the
 full-year numbers when they have been audited.
 
-Q - Paavo Ahonen
-
-{BIO 6531806 <GO>}
-
+Q - Paavo Ahonen {BIO 6531806 <GO>}
 Right. Okay. Thanks.
 
 Operator
 David Andrich, Morgan Stanley.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David Andrich {BIO 15414075 <GO>}
 I was just wondering, other than the Swedish private line, are there any other areas where
 you're putting in signiﬁcant rate increases and we might see an improvement in the
 combined ratio going forward?
@@ -731,19 +581,13 @@ private market slightly above claims inﬂation. And the same, of course, goes f
 industrial business throughout the Nordics. Other than that, it's mainly in line with claims
 inﬂation.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David Andrich {BIO 15414075 <GO>}
 Okay. Thanks.
 
 Operator
 Daniel Do-Thoi, JPMorgan.
 
-Q - Daniel Do-Thoi
-
-{BIO 17019775 <GO>}
-
+Q - Daniel Do-Thoi {BIO 17019775 <GO>}
 Most of my questions have already been answered, so just one then on Mandatum Life.
 The accelerated strengthening of the reserve, lowering the discount rate, does that
 change the way you think about asset allocation and capital risk going forward; (thus)
@@ -753,26 +597,17 @@ Bloomberg Transcript
 
 Thank you.
 
-A - Kari Stadigh
-
-{BIO 1504152 <GO>}
-
+A - Kari Stadigh {BIO 1504152 <GO>}
 It does not aﬀect our allocations. That's market driven based on our investment view, and
 we have the capital to have the allocation we want.
 
-Q - Daniel Do-Thoi
-
-{BIO 17019775 <GO>}
-
+Q - Daniel Do-Thoi {BIO 17019775 <GO>}
 Okay. Thank you.
 
 Operator
 There are no further questions at this time. Please continue.
 
-A - Jarmo Salonen
-
-{BIO 1860650 <GO>}
-
+A - Jarmo Salonen {BIO 1860650 <GO>}
 If there are no further questions, then thank you for your attention and have a very nice
 evening.
 Thank you.

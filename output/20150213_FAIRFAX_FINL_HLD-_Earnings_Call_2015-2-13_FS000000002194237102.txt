@@ -30,10 +30,7 @@ this time.
 Your host for today's call is Prem Watsa, with opening remarks from Eric Salsberg. Mr.
 Salsberg, please begin.
 
-Eric P. Salsberg
-
-{BIO 1552007 <GO>}
-
+Eric P. Salsberg {BIO 1552007 <GO>}
 Yeah. Good morning, and welcome to our call to discuss Fairfax's 2014 year-end results.
 This call may include forward-looking statements. Actual results may differ, perhaps
 materially, from those contained in such forward-looking statements as a result of a
@@ -42,9 +39,7 @@ Factors in our Base Shelf Prospectus, which has been filed with Canadian securit
 regulators and is available on SEDAR.
 I'll now turn the call over to our Chairman and CEO, Prem Watsa.
 
-Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
+Vivian Prem Watsa {BIO 16700363 <GO>}
 
 Page 1 of 19
 
@@ -218,10 +213,7 @@ earn attractive returns for its shareholders including Fairfax.
 Now I would like to turn it over to Dave Bonham, our CFO, so he can give you some more
 information on the underlying financials. Dave?
 
-David Bonham
-
-{BIO 15243784 <GO>}
-
+David Bonham {BIO 15243784 <GO>}
 Thank you, Prem. First, I'll focus on Fairfax's consolidated results for the fourth quarter of
 2014, then move on to the operating company results, and finish with our consolidated
 financial position.
@@ -460,10 +452,7 @@ use the remainder of that funding to repay upon maturity the Fairfax and Odyssey
 unsecured notes coming due in 2015.
 With that, I'll pass it back to you, Prem.
 
-Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+Vivian Prem Watsa {BIO 16700363 <GO>}
 Thank you, Dave. Now we're happy to answer your questions. Please give us your name,
 your company name, and try to limit your questions to only one, so that it's fair to all on
 Page 9 of 19
@@ -484,16 +473,10 @@ Operator
 Thank you. Our first question comes from Paul Holden with CIBC. You may ask your
 question.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Hi, Paul.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 Hi. Good morning. I wanted to ask a couple of questions on the CPI-linked derivatives to
 start. So the first one would be since we're so close at least in the U.S. to the weighted
 average strike, is there any way you can give us the dispersion of strike prices so we get a
@@ -503,10 +486,7 @@ options and not European; i.e., can exercise them at any time?
 
 Bloomberg Transcript
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Yeah. So we can exercise them at any time. And the way to think of – these things are very
 volatile, as I said. So if you look at the TIP bonds, the inflation adjusted bonds, and you'll
 see they fluctuate. Maybe a few years ago, the underlying inflation rate in a TIP bond, for
@@ -520,23 +500,15 @@ exercisable at the end. Yeah. So just a correction there, Paul. European style i
 that they're exercisable in the end, but can trade in the marketplace at any time,
 reflecting the fact that it's exercisable at the end.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 Okay. Just as a suggestion, any kind of disclosure you could – additional disclosure you
 could provide us to give us a sense of significant trigger points on the CPI index levels
 would be helpful. Averages are always helpful, but only as helpful as an average is?
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 First, Paul, the averages is not a bad way to look at it.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
+Q - Paul Holden {BIO 6328596 <GO>}
 Page 10 of 19
 
 
@@ -549,46 +521,28 @@ Okay.
 
 FINAL
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 And think of it like this, it's an option contract which is not in the money. So if you think of
 those contracts, say, 1% off out of the money and you have 5% deflation, then the intrinsic
 value is 4%. And then you'd build a premium because it's got a life, six years, seven years,
 seven-and-a-half years on average to go.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 Okay. I understand.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 And on top of that you just have the emotional element that comes in when people worry
 about deflation.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 And then just a final question from me on a different topic.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Yeah.
 
 Bloomberg Transcript
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 Your newest investment and vehicle, Fairfax India, a big part of the investment thesis
 there was a favorable change in government, i.e., much more business-friendly
 government; and that makes a lot of sense to me. On the flipside, I would argue that in
@@ -596,10 +550,7 @@ Greece, we've seen a change in government to a less business-friendly government
 Wondering if you agree with that opinion and if it changes your thesis on any of the
 investments you've made in Greece?
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Yeah. So that's a very good point you make. There has been a change in the Greek
 government. We've actually met them. And for what it's worth, they've reassured us that
 they want private investment. They've emphasized that Eurobank is the only private bank,
@@ -610,10 +561,7 @@ were, and they said they want to encourage it. And so the bottom line, Paul, you
 know what will happen in these negotiations. Our view is that eventually a deal will be
 done.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 Okay. Thank you very much.
 
 Page 11 of 19
@@ -624,10 +572,7 @@ Company N ame: Fairfax Financial H oldings L td
 Company Ticker: FFH CN Equity
 Date: 2015-02-13
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Thank you, Paul. Next question?
 
 FINAL
@@ -636,15 +581,10 @@ Operator
 Our next question comes from Tom MacKinnon with BMO Capital. You may ask your
 question.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Good morning, Tom.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 
 Bloomberg Transcript
 
@@ -659,10 +599,7 @@ there is a need to throw it into those operations to fund growth. And to what ex
 the cash settlement on the equity hedges have anything to do with your thinking to keep
 a significant cash holding at this level?
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Tom, we've had significant amounts of cash over the years, long before we had hedges,
 but the way we get the cash is a resultant. When we don't see opportunity -we're not
 trying to meet some quarterly earnings estimate that you or others might have; and we're
@@ -718,32 +655,20 @@ that, last year all-in, all-out, we had a very good return, significant realized
 underwriting profitability was exceptional. And so, in spite of being very defensive and
 watching the downside, we're making good returns.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 Appreciate the color. Thanks, Prem.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Thank you, Tom. Next question, please?
 
 Operator
 Our next question comes from Mark Dwelle with RBC Capital Markets. Your line is now
 open.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Good morning, Mark.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Yeah. Good morning. Just a couple of questions. First, I was trying to follow on – you had a
 note in the interim report on the OdysseyRe organization and I was trying to follow along,
 was there any net cash distributed from the holding company at the end. By the time all
@@ -757,38 +682,25 @@ Company N ame: Fairfax Financial H oldings L td
 Company Ticker: FFH CN Equity
 Date: 2015-02-13
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Dave, you want to take that?
 
-A - David Bonham
-
-{BIO 15243784 <GO>}
+A - David Bonham {BIO 15243784 <GO>}
 
 FINAL
 
 Yeah. It wasn't very significant; in the neighborhood of about $80 million or so from the
 holding company cash.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay.
 
-A - David Bonham
-
-{BIO 15243784 <GO>}
-
+A - David Bonham {BIO 15243784 <GO>}
 And what we did there, Mark, is simplify our corporate structure so that OdysseyRe was
 basically owned by Fairfax holding company as opposed to being owned at Crum &
 Forster or in our Runoff companies.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 
 Bloomberg Transcript
 
@@ -799,10 +711,7 @@ currency in that amount? It seemed like some of the units, particularly the othe
 the European group and the Northbridge had, I'll say, relatively larger amounts than I
 might have expected, and I was curious if currency was involved there?
 
-A - David Bonham
-
-{BIO 15243784 <GO>}
-
+A - David Bonham {BIO 15243784 <GO>}
 No. Currency was not significant at all, Mark. Basically, we'd like to have that kind of
 reserve redundancies. We're always keeping our accident year loss ratios at a good level,
 so that we'll have reserve redundancies. But as you pointed out in the fourth quarter, we
@@ -813,20 +722,14 @@ positions because at year-end are excellent and the prospects for our combined r
 good. But we've got catastrophes coming in at any time, and so you have to take all of
 that into account. But at the moment things look good.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay. Thanks for that. And one last question, if I may, on the OdysseyRe. Just wanted to
 clarify, make sure I understood the table in the report. So it was $41 million of premium
 that was recorded in the December quarter that all else equal had it been under the old
 way you did it would have been otherwise recorded in January of 2015. Is that the right
 way to think about it?
 
-A - David Bonham
-
-{BIO 15243784 <GO>}
-
+A - David Bonham {BIO 15243784 <GO>}
 That's right. That's the impact on the fourth quarter. And then when you're comparing
 year-over-year, you would make the same adjustment to the beginning of the years to
 Page 14 of 19
@@ -839,9 +742,7 @@ Date: 2015-02-13
 
 adjust for the premium that needs to come out of the first quarter of 2015 (46:44).
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 
 FINAL
 
@@ -849,22 +750,13 @@ Right. So when I'm thinking about my 1Q 2015 estimate, I would want to assume th
 started out $40 million kind of in the hole as it were, and then build up my estimate from
 there?
 
-A - David Bonham
-
-{BIO 15243784 <GO>}
-
+A - David Bonham {BIO 15243784 <GO>}
 I think that's the way look at it. Yeah.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay. All right. Thank you. That's all my questions.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Thanks Mark. Rebecca, next question.
 
 Operator
@@ -876,16 +768,10 @@ Bloomberg Transcript
 
 Hi, Prem.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Hey. Good morning, Howard.
 
-A - David Bonham
-
-{BIO 15243784 <GO>}
-
+A - David Bonham {BIO 15243784 <GO>}
 Hi Howard.
 
 Q - Howard Flinker
@@ -900,9 +786,7 @@ and one day they would have too much. And they probably have cut back that extra
 doesn't look as if they're eating into that inventory yet. So it's possible they could reduce
 demand even more. That's one point I'd like to make.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Page 15 of 19
 
 
@@ -920,10 +804,7 @@ FINAL
 Second, in 1922 oil traded at $2.40 a barrel in United States; in 1972 it was $3 (48:31). Oil
 could go nowhere for a long time.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Yes. I remember looking at the history of the price of oil. Yeah, you're exactly right. Till
 1974, I think, then...
 
@@ -941,29 +822,20 @@ if you had a minus in oil – a big minus in oil?
 
 Bloomberg Transcript
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Yes.
 
 Q - Howard Flinker
 And from what I'm reading and from what he said, they think well, it's just an oil problem.
 You and I don't think so.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Yes.
 
 Q - Howard Flinker
 You and I think it's broader...
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Exactly right, Howard.
 
 Q - Howard Flinker
@@ -981,9 +853,7 @@ Date: 2015-02-13
 wrongly. So that means that if our view, your view and mine, about deflation is on the
 mark, they're going to be surprised; and not only them, but Kearney and Poulos.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 
 FINAL
 
@@ -993,10 +863,7 @@ Q - Howard Flinker
 Yeah. To give you an insight as to how they're thinking and how you can capitalize further; I
 just wanted to pass that on.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 No. Thank you very much, Howard. You're very kind and your observations are good,
 particularly on the price of oil. The fact that, as you said, 1922 to 1974, 1973, 1974, that's a
 long time.
@@ -1004,10 +871,7 @@ long time.
 Q - Howard Flinker
 Yeah. That was a tough trade, 25% in 50 years. It's below my hurdle rate.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 But thank you very much, Howard.
 
 Bloomberg Transcript
@@ -1015,31 +879,19 @@ Bloomberg Transcript
 Q - Howard Flinker
 All right. Thanks, guys.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Thanks again. Rebecca, next question, please?
 
 Operator
 The next question comes from Binoy Jariwala with Sunidhi Securities & Financial Limited.
 
-Q - Binoy Jariwala
-
-{BIO 15214317 <GO>}
-
+Q - Binoy Jariwala {BIO 15214317 <GO>}
 Hi, Prem. Thank you for the opportunity.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Hi, Binoy.
 
-Q - Binoy Jariwala
-
-{BIO 15214317 <GO>}
-
+Q - Binoy Jariwala {BIO 15214317 <GO>}
 Hi. Wanted to ask your thoughts on Fairfax India, I believe when we had acquired Thomas
 Cook India, we said that Thomas Cook India would be the investment vehicle for Fairfax
 
@@ -1056,10 +908,7 @@ at Thomas Cook, likewise how should we look at Fairfax India, your thoughts, ple
 
 FINAL
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Binoy, thank you for asking that question. That's a good question. Thomas Cook was our
 investment vehicle for India, prior to Mr. Modi getting elected. We thought with the fact
 that Mr. Modi got elected with a majority, business-friendly, track record in Gujarat, is a
@@ -1085,32 +934,20 @@ Ramanathan in Sterling Resorts. So there's a lot of opportunity in that company,
 will continue to acquire companies in Thomas Cook. The Modi election changed things,
 and that's why we created Fairfax India.
 
-Q - Binoy Jariwala
-
-{BIO 15214317 <GO>}
-
+Q - Binoy Jariwala {BIO 15214317 <GO>}
 Okay. Thank you. Thank you so much, Prem. Just a follow-up on this. Should we view
 Thomas Cook India to grow in its domain and likewise Fairfax in the other domain? So, for
 instance, if Thomas Cook is in travel, tourism, human resource, should we view Thomas
 Cook as being restricted in these particular areas?
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 I don't think you should view it as being restricted, but that's its area of expertise. And
 we've kept it nice and broad, Binoy, so that both companies can flourish.
 
-Q - Binoy Jariwala
-
-{BIO 15214317 <GO>}
-
+Q - Binoy Jariwala {BIO 15214317 <GO>}
 Okay. Thank you, Prem. That's it from my side.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Page 18 of 19
 
 
@@ -1127,10 +964,7 @@ FINAL
 
 I'm showing no further questions.
 
-A - Vivian Prem Watsa
-
-{BIO 16700363 <GO>}
-
+A - Vivian Prem Watsa {BIO 16700363 <GO>}
 Thank you, Rebecca. Since there are no more questions, thank you all for joining us on this
 call. We look forward to presenting to you again after the next quarter. And, of course,
 looking forward to seeing a lot of you at our annual meeting in April. Thank you, Rebecca.

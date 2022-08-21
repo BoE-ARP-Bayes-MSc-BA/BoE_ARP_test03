@@ -29,10 +29,7 @@ And I'll be your coordinator for today's event. (Operator Instructions)
 I will now hand you over to your host, CEO, Paul Geddes, to begin today's conference.
 Thank you.
 
-Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+Paul Robert Geddes {BIO 2474781 <GO>}
 Thank you. Good morning, everybody. Welcome to our Q3 update. As usual, I'm joined
 by Penny James and other members of my management team. Hopefully you've had a
 chance to read our trading update and have your questions ready.
@@ -124,10 +121,7 @@ Bernstein.
 
 Bloomberg Transcript
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 First, on the Home, it seems pricing is less for you in the market. But you also note that the
 claims inﬂation is 3% to 5%. So is it correct to assume that there is quite some margin
 erosion in the Home segment. And hence, trading environment continues to be diﬃcult
@@ -138,10 +132,7 @@ normal; claims inﬂation now at the upper end. So what has really changed in Q3
 inﬂation. And ﬁnally, on the outlook, you say above 15% return on tangible. Are you also
 comfortable to reach your LTIP target, which is 17.5% at the lower end?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Okay. I'm going to take the Motor one and pass the other 2 to Penny. So yes, what's
 nudged up in Motor is damage. And what's nudging that up is, frankly, paints and parts
 and a trend which we talked about before, which is kind of increasing complexity of cars'
@@ -153,10 +144,7 @@ hit the loss ratios that we need to hit. So we're never worried about. So we don
 But we're always -- we will always trade appropriately. And if that means a volume
 consequence, we'll take that consequence. Penny, on the other 2?
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
-
+A - Penelope Jane James {BIO 15157212 <GO>}
 Yes. Home. And so it remains competitive, very much as we said at half year. So it's slightly
 bifurcated market, with lots of people putting price through. But a couple of players there
 Page 3 of 13
@@ -178,59 +166,38 @@ pleased we've got a small amount of growth. ROTE, I didn't quite catch the end o
 question. But I think the essence is we're not changing our outlook on ROTE at all. So
 that's a normal. And we're comfortable with the targets.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yes, my point on ROTE was you have a long-term target, which is 15%. But your LTIP as
 from this year attached with it is 17.5%.
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
-
+A - Penelope Jane James {BIO 15157212 <GO>}
 Yes.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 And my question was, are you also comfortable to hit the lower bandwidth of your LTIP as
 much as to 15%?
 
 Bloomberg Transcript
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. I mean, just to step in, I mean, 15% is a hurdle. It's jump -- I mean, it's a very long-term
 target. It's something which we use to appraise capital decisions and business decisions.
 We've long said that it's -- and of course, the RemCo has to sit -- has to set ROTE targets
 that are suitably stretching to the business. And those are set out. So -- but as Penny said,
 nothing to look at here. No change in outlook.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay. And Home, did I get it right, you are not expecting a margin deterioration? Is that
 correct?
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
-
+A - Penelope Jane James {BIO 15157212 <GO>}
 That's correct. We've priced claims inﬂation. So the balance is in the risk mix change. So
 we're comfortable that the margins are ﬂat to risen slightly up.
 
 Operator
 The next question comes from the line of Edward Morris calling from JPMorgan.
 
-Q - Edward Morris
-
-{BIO 16274236 <GO>}
-
+Q - Edward Morris {BIO 16274236 <GO>}
 The ﬁrst one is just if we could drill down a little bit more on margins in Motor. So you're
 talking about claims inﬂation at the upper end of this 3% to 5% range. I wonder if you can
 just talk a little bit more detail around average pricing and how it relates to your average
@@ -250,10 +217,7 @@ versus one year ago?
 
 FINAL
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Okay. So we've priced a bit up. Risk mix has come back the other way. So that's 2 things.
 One is as we redo technical price models, it's just a consequence of that is you'll get a
 diﬀerent risk mix that you're competitive for. And that's happened to have gone to a lower
@@ -275,10 +239,7 @@ Bloomberg Transcript
 
 The next question comes from the line of James Shuck calling from Citi.
 
-Q - James Austin Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Austin Shuck {BIO 3680082 <GO>}
 I'm James Shuck from Citi. Two questions, please. Firstly, can I just return to your
 comments, Paul, about just the market behaving rationally? I mean, if I look at -- I mean,
 you posted 0.7% growth sequentially own brands policy count Q3 versus Q2. You say
@@ -293,10 +254,7 @@ insight into how that's evolving in the second half of the year? You did 13.2 po
 So just interested to know how that's developing given some of the trends on the claims
 inﬂation that you've mentioned.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Great. Well thank you, James. So listen, we're not going to disclose exactly the
 percentage rates. We do that twice a year now. We think we probably don't want to overdisclose. But could you get some rates away, as we said, it wasn't quite enough. And
 therefore, we kind of got back to our target. We're a little bit ahead of it. So we have some
@@ -324,10 +282,7 @@ passed this, as we said, the markets behave rationally. We will, of course, take
 choices into the market. And we have a very clear sense of the loss ratios that we want to
 be writing at. Penny?
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
-
+A - Penelope Jane James {BIO 15157212 <GO>}
 PYD? Yes. You may recall at half year, I said we do the bulk of our bodily injury, sort of
 large bodily injury reserve reviews in the ﬁrst half. And the second half, generally, there's
 less coming through on prior year developments. So in eﬀect, no new news on that, on
@@ -338,10 +293,7 @@ The next question comes from the line of Sami Taipalus calling from Goldman Sach
 
 Bloomberg Transcript
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 A couple of questions. First, on Motor IFP growth, you've been -- you've sort of gone
 through a period of fairly strong growth there. But am I sort of interpreting your
 comments right there that you're perhaps approaching the point where you're coming
@@ -351,10 +303,7 @@ into pricing practices in Motor and Home insurance. It would just be really inte
 hear your view about how you see this and what sort of potential risks and outcomes. If
 there's anything you can say, that would be great.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. I mean, I think what we're saying on Motor is really, in terms of the market, to a certain
 extent, what our volumes will be because we will price -- we're priced to hit the loss ratios
 that we want to hit. And if, yes, the market allows, it will grow. And if the market doesn't,
@@ -390,10 +339,7 @@ considered, thoughtful process. And we are -- we kind of overall welcome it.
 Operator
 The next question comes from the line of Andrew Sinclair calling from Bank of America.
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 Just a couple left from me. Just on subsidence claims, ﬁrstly, you're saying don't expect it
 to be materially above normal expectations. I just wonder if you can give us any more
 about how you've managed to keep such claims to manageable levels and whether you
@@ -404,20 +350,14 @@ out after delays as opposed to doing it early in Q3?
 
 Bloomberg Transcript
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. Yes. We don't think subsidence -- sorry, we don't think whiplash kind of ﬁgured really
 in it because it was all -- the timing of it now since it's going to be delayed, it wasn't within
 the 12-month lead-in period. So -- or it's just about the very margins of it. So we don't
 think that's a factor. Subsidence or subsidence, we've been debating how to pronounce it
 this morning.
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
-
+A - Penelope Jane James {BIO 15157212 <GO>}
 Yes, subsidence. Look, we've seen a small uptick in the frequency but not as dramatic as
 sort of through the vent levels. And we reserve a fair amount we allow for a normal level
 of concern in a plenty of way. So we think there'll be a small uptick but not material,
@@ -426,16 +366,10 @@ single-digit million.
 Operator
 The next question comes from the line of Greig Paterson calling from KBW.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 Just have 3 questions, just a catch-up on the other lines.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Greig, unusually, we can't hear you very well. Could you speak up a bit?
 
 Page 7 of 13
@@ -446,20 +380,14 @@ Company Name: Direct Line Insurance Group PLC
 Company Ticker: DLG LN Equity
 Date: 2018-11-06
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 Can you hear me? So in -- I want to do a catch-up on the other lines. Could you give us a
 feel for rates versus inﬂation in your Commercial book, in your Rescue and other personal
 lines book and in the Home partners book, please?
 
 FINAL
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. So which should we go ﬁrst with? I mean, I think Rescue is kind of a little bit volatile
 because, obviously, weather has an impact. So generally, as cars are getting more (novel)
 frequencies going down but severities going up because cars are more complex. So it's a
@@ -474,10 +402,7 @@ very good products. And we're very pleased with that. So we're, again, happy wit
 rating environment in Commercial. And we're bearing fruit now in the bps in the DL4B,
 very happy. And then we're very, very rational and value focused in NIG. Partners?
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
-
+A - Penelope Jane James {BIO 15157212 <GO>}
 Home, yes, no, we're pricing inﬂation across the whole book, including partners.
 
 Bloomberg Transcript
@@ -485,20 +410,14 @@ Bloomberg Transcript
 Operator
 The next question comes from the line of Jonny Urwin calling from UBS.
 
-Q - Jonathan Peter Phillip Urwin
-
-{BIO 6126952 <GO>}
-
+Q - Jonathan Peter Phillip Urwin {BIO 6126952 <GO>}
 Just one left for me. So what's the risk the claims inﬂation breaks up above this 3% to 5%
 long-term range? And the reason I ask is, obviously, we've seen an uptick in the quarter.
 But also just thinking a bit more about the Nordic markets and Norway in particular, where
 we're seeing just consistently rising Motor claims inﬂation mainly due to sort of hybrid and
 electric cars. But do you think there's a similar risk in the U.K.?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. I mean, I think, Jonny, the -- I mean, I think as we've long said, probably the risk to the
 market is claims deﬂation, right? So as long as it nudges up, it's actually -- it's potentially a
 market size increase. And we think claims inﬂation is not unexpected. And you can price
@@ -544,10 +463,7 @@ as well and adjust the PCWs?
 
 Bloomberg Transcript
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. Thanks, Dom. Listen, I mean, as you say rightly, the best case into Compare the
 Market. And I can say we're happy with the interim ﬁlings published last week. And that's
 probably all I could -- can and should say on that. In terms of Civil Liabilities Bill, I think the
@@ -564,10 +480,7 @@ the sides of insurers. Rightly so, this will go to consumers.
 Operator
 The next question comes from the line of Andrew Crean calling from Autonomous.
 
-Q - Andrew John Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew John Crean {BIO 16513202 <GO>}
 Just 2 questions. Firstly, is the inﬂation in Motor, at 5%, a function of the fact that
 frequency fell rapidly in the Third Quarter '17. And therefore, there's a base eﬀect? And
 secondly, you talk about your midterm ambition to maintain 93%, 95%. Could you ﬂesh
@@ -584,10 +497,7 @@ Date: 2018-11-06
 
 FINAL
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. Thanks, Andrew. So yes, listen, let me try and help you on severity versus frequency.
 So basically, our 3% to 5% is severity driven because we have kind of observed frequency
 being pretty ﬂat. You -- against that, you have kind of better than ﬂat years, which is what
@@ -596,26 +506,17 @@ being driven by too cold and then too hot weather. So what when we say underline
 really talking about severity there. Then obviously, you'll get better and worse, depending
 on frequency. Hope that's clear.
 
-Q - Andrew John Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew John Crean {BIO 16513202 <GO>}
 So it's not burn -- you're not talking burn costs, right? You're just talking average claims?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. Now obviously, we change -- if long term, it look like frequency's going up or going
 down, we do not reﬂect that. So for long term, at the moment, reads severity. Penny, on
 the PY?
 
 Bloomberg Transcript
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
-
+A - Penelope Jane James {BIO 15157212 <GO>}
 On the PY, I'll take the feedback on the -- of the year-end reporting on the current year
 and prior years, which we've had that conversation, Andrew. And heard you. I think, yes,
 the other thing to note is it is also supported by kind of reductions in the expense ratio
@@ -630,10 +531,7 @@ Operator
 (Operator Instructions) The next question comes from the line of James Shuck calling
 from Citi.
 
-Q - James Austin Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Austin Shuck {BIO 3680082 <GO>}
 I suppose this is partly a request for the full year as well. But if you're able to give any
 insight now, that would be helpful. But obviously, a large part of what you're doing is to
 drive up the numbers of products that people own. And we haven't really had any update
@@ -644,9 +542,7 @@ year just showing how you're progressing on that would be very helpful. Second q
 is just -- or just around the timing of the succession plans around the CEO and when we
 might expect an update on that, please.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Page 10 of 13
 
 
@@ -676,38 +572,26 @@ there should be opportunities in new systems alongside pricing sophistication, a
 self-service. So that's why we're excited to say that we're on track to bring that in next year
 or something around that next year.
 
-Q - James Austin Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Austin Shuck {BIO 3680082 <GO>}
 But nothing you can share at this moment in terms of the base points sort of starting into
 those new systems?
 
 Bloomberg Transcript
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 We will take away the request for disclosure on it. Yes. We'll add that to our list of things
 you'd like us to say.
 
 Operator
 The ﬁnal question comes from the line of Greig Paterson calling from KBW.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 I'm sorry, just in terms of the Guidewire, when you said it's coming online next year, I
 assume you start with new business and then move on to renewals. When do you think
 the process of moving all new business and renewals will be on the new system? Sort of
 what's the end date?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes, I mean, it's going to be -- it will take -- it will be done in phases, Greig, to be able to
 do it safely. But we're not going to hang around. But it will take a couple of years to get
 through all that. We're obviously going to be making sure that we roll out in the schedule
@@ -724,9 +608,7 @@ Company Name: Direct Line Insurance Group PLC
 Company Ticker: DLG LN Equity
 Date: 2018-11-06
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 
 FINAL
 
@@ -734,66 +616,40 @@ Then before, I mean, because we saw Hastings do a sort of point of inﬂection s
 the amortization of the capitalized software development costs. Are you going to do a
 sort of immediate start-from dates? Or are you going to phase in the amortization of this -of the CapEx on the system?
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
-
+A - Penelope Jane James {BIO 15157212 <GO>}
 Sorry, I'm not certain kind of exactly how it is going to get. But we will phase it as an
 outcome of how the other value is building and how the rollout is happening, as we
 intend to.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 But it's not going to be a cliﬀ edge, it's going to be a slow phase?
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
-
+A - Penelope Jane James {BIO 15157212 <GO>}
 I'm not a big fan of cliﬀ edges if I can help it. So -- yes.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 It makes you feel alive, cliﬀ edges.
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
+A - Penelope Jane James {BIO 15157212 <GO>}
 
 Bloomberg Transcript
 
 I'll bear that in mind.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Very good. Awesome.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 I mean, if there's a will, there's a way.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Thank you very much indeed. Very good.
 
 Operator
 We have no further questions in the queue. So I'd like to hand the call back over to your
 host for any concluding remarks.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. Awesome. Thank you, everybody. Good to speak to you. And we will be in touch. If
 we don't speak before that, have a good Christmas.
 

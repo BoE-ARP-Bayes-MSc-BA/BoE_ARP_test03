@@ -34,10 +34,7 @@ Good day, and welcome to the Munich Re Half Year Financial Conference Call. Toda
 conference is being recorded. At this time, I would like to turn the conference over to Mr.
 Christian Becker-Hussong. Please go ahead, sir.
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 Yeah. Thank you, Elaine. Welcome, everyone, to Munich Re's second quarter earnings call.
 Right next to me are Nikolaus von Bomhard and Jörg Schneider. Jörg delivered his most
 important messages this morning with his audiocast. So, Nikolaus will kick off this call with a
@@ -54,10 +51,7 @@ Date: 2016-08-09
 
 FINAL
 
-Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+Nikolaus von Bomhard {BIO 3123407 <GO>}
 Well, thank you, Christian. Good afternoon, and good morning, to all of you. And I would
 only like to circumphrase, to some extent, the first two slides of the slide deck. And to
 start it off, I think the first quarter we had what one might consider, prima vista, an
@@ -162,10 +156,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2016-08-09
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you. We can now go right into Q&A. The usual rule applies. Please a maximum of
 two questions per person. Thank you. Please go ahead.
 
@@ -175,10 +166,7 @@ Q&A
 Operator
 We'll now take our first question from James Shuck at UBS. Your line is open.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Hi. Good afternoon, everybody. It's James Shuck from UBS. Two questions from my side,
 please. Firstly, could you provide – you commented in the presentation this morning that
 the Solvency II ratio declined to 250% to 260%. That's obviously a quite sharp decline
@@ -204,19 +192,13 @@ it's kind of narrowing down to a stable situation here with the models. Second q
 reinvestment yield for the second half. We would guess roughly 1.6%, so slightly below the
 1.5% in the first half of the year.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 You mean the other way round. You mean, yeah, 1.5% in the second half of the year, yeah.
 
 A - Jörg Schneider
 1.5% for the second half.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Yes.
 
 Page 4 of 21
@@ -230,9 +212,7 @@ Date: 2016-08-09
 A - Jörg Schneider
 Yeah. Sorry.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
+Q - James A. Shuck {BIO 3680082 <GO>}
 
 FINAL
 
@@ -244,9 +224,7 @@ Thank you, James.
 Operator
 We will now take our next question from Thomas Seidl, Bernstein.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
+Q - Thomas Seidl {BIO 17755912 <GO>}
 
 Bloomberg Transcript
 
@@ -264,10 +242,7 @@ risk brings down your Solvency II ratio below the 220% level. But your HTB buffe
 remains high. Is that basically meaning that the buybacks will continue or is the Solvency II
 ratio dominating the HTB view here?
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 Thank you, Thomas. This is Nikolaus. Let me answer the two questions. The first, as of
 today, also looking forward, we see no reason to change our statement so far. We still go
 by the assumption that ERGO will self-finance and that no capital is needed from the
@@ -281,10 +256,7 @@ uncertainty, feel much more comfortable a little bit north of the 220%. But the 
 a threshold where our assumptions or even statements as regards dividend or share
 buyback would change.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Page 5 of 21
 
 
@@ -301,10 +273,7 @@ FINAL
 
 Our next question is from Michael Huttner, JPMorgan.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Thank you so much. On the business, you said you're finding these pockets of profit. I
 know you discussed some a little bit on your Investor Day. But can you give us some
 margin figures or more margin figures, say, on the €500 million innovation and maybe
@@ -321,10 +290,7 @@ what you think on this pricing versus volume thing? Thank you.
 
 Bloomberg Transcript
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 Well, Michael, Nikolaus again. As regards the first question, we have put out so far on the
 revenues and not margins yet. But the assumption – and I don't have a specific number
 here to what extent to take as a proxy combined ratio. This new business has a different
@@ -373,10 +339,7 @@ didn't exist, innovative businesses didn't exist or transactional business. For 
 market, unfortunately, thanks to our franchise, it's very difficult for us to find businesses
 that just has not been seen so far. Jörg, anything you would like to add? No.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -384,10 +347,7 @@ Our next question is from Kamran Hossain, RBC.
 
 Bloomberg Transcript
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi, afternoon. I got three questions. The first one is – I guess this is coming back to
 normalized combined ratio and I guess large and catastrophe loss expectations within
 that. It seems like almost everyone has characterized the second quarter as a particularly
@@ -429,10 +389,7 @@ resilience of the German GAAP calculation vis-à-vis natural catastrophe losses 
 high because it's protected by the equalization reserve which is close to its border. So it's
 a very stable basis for future distributions.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Thanks very much. Really appreciate the color. Thank you.
 
 A - Jörg Schneider
@@ -443,10 +400,7 @@ Our next question will be from Xinmei Wang from Morgan Stanley. Your line is now
 
 Bloomberg Transcript
 
-Q - Xinmei Wang
-
-{BIO 17860767 <GO>}
-
+Q - Xinmei Wang {BIO 17860767 <GO>}
 Hi, thanks. I have two questions please. The first is a follow-up from the previous question
 on the Solvency II number. Could you give us the amount of the decline from 1Q to 2Q
 due to the model change and the amount due to interest rates? And then my second
@@ -456,10 +410,7 @@ you think it would be for it to be a material portion of the Group? And do you t
 needs to be any catalyst to happen to boost that growth, for example, regulation or
 legislation changes that require more of these products to be bought? Thank you.
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 Thank you, Xinmei. On the first question, it's two-third capital market impact especially
 decline in interest rates and one-third model change. And the second question, Xinmei, is
 very difficult to answer. It's not exact science because it's a basket of different initiatives.
@@ -506,10 +457,7 @@ non-financial primary insurance clients, which can drive the demand for insuranc
 
 Bloomberg Transcript
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 Let me give you one further tangible example. If in China, for example, coverage for
 natural catastrophes really takes off because this is a tremendous book of business, of
 course first of all, for the primary insurers, but a lot will have to be reinsured as well. And I
@@ -519,19 +467,13 @@ to do what we can also together with the government to promote the development o
 that business. But this is – for the sheer size of the market and the country, one, if we do
 succeed, you will immediately see it at both balance sheet and P&L.
 
-Q - Xinmei Wang
-
-{BIO 17860767 <GO>}
-
+Q - Xinmei Wang {BIO 17860767 <GO>}
 Okay, brilliant. Thanks very much.
 
 Operator
 Our next question is from Vinit Malhotra from Mediobanca.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Well, hey. Good afternoon. So just on the normalized combined ratio of 100.3% at 1H. Is it
 safe to assume that the difference between 99% which is the guidance and this 100.3% is
 all because of below-the-radar losses, maybe some business mix? Or another way to
@@ -577,10 +519,7 @@ events where we couldn't postpone any longer to set the reserves free. And it wa
 number above €200 million and it's mitigated the effect from the very high loss burden
 from the quarter itself.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 All right. Thank you for the clarity.
 
 A - Jörg Schneider
@@ -589,10 +528,7 @@ Thank you, Vinit.
 Operator
 Our next question is from Olivia Brindle, Bank of America. Your line is open.
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 Hi there. My first question is just around your comments on growth in the renewals, your
 comment that you're continuing the shift to casualty lines. I was just wondering if you could
 give a little bit of color on exactly what you're growing within that and also tying that into
@@ -615,10 +551,7 @@ expected or how we should think about that €400 million? Thank you.
 
 FINAL
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 Well, thank you for your questions, Olivia. The first one, again, a quarter should not be
 overstated. But what we have seen indeed is that for pricing reasons, the property lines
 have been under much more pressure than casualty. This is the starter. Two, we have had
@@ -652,10 +585,7 @@ one because you have all those already insured who have not too much of market s
 So that's why our relative share is higher here in comparison to others in whatever
 measure you take be it relative or be it absolute.
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 Great. Thank you for the color.
 
 Operator
@@ -671,10 +601,7 @@ Date: 2016-08-09
 
 FINAL
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Yes. Good afternoon, everybody. I have two questions. And my first question is on your
 regular investment income. On a Group level and it's similar for the segments, the regular
 investment income is down 11% year-on-year on a quarter. But also on the half year in life
@@ -685,9 +612,7 @@ segment. You quantified it. This is highly appreciated. But can you be a little 
 was this just one event or did it affect several events, which you just had to release now,
 and what was the trigger for the timing now in Q2?
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 
 Bloomberg Transcript
 
@@ -717,10 +642,7 @@ income and you would see the compensation on the net expenses for claims and
 benefits, but we cannot isolate it. On balance, it's more or less, it's very small, a very
 minor loss of profitability here.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay. Thanks.
 
 Operator
@@ -736,10 +658,7 @@ Date: 2016-08-09
 
 FINAL
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Good afternoon. Thank you for taking my question. Two questions for me. Firstly, Nikolaus,
 you refrain from talking about outlook for next year. But when we look at the normalized
 combined ratio, you're still growing into casualty, which presumably would have some
@@ -751,9 +670,7 @@ And second is hopefully a very quick on clarification and the comments around ke
 special dividend. I'm just wondering if that's on a per share basis or total dividends paid.
 Thank you.
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 
 Bloomberg Transcript
 
@@ -777,10 +694,7 @@ for us of a certain attraction that we can easier spread than over the year that
 very extreme situations also stop them for a while like we did in 2011 for some months.
 So, therefore, we do not see enough of an advantage of a special dividend.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Sorry, Jörg, my question is more around not necessarily a special dividend, but because
 your share count is going down because of the buyback, I was wondering whether
 commitment to keeping stable dividend was related to the dividend per share or (40:42)
@@ -790,9 +704,7 @@ A - Jörg Schneider
 Okay. Sorry. No firm commitment I would say, but according to experience, I wouldn't say
 you can rely on it, but my boss always wanted to have it like that.
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 Page 13 of 21
 
 
@@ -803,9 +715,7 @@ Date: 2016-08-09
 
 It's true.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 
 FINAL
 
@@ -814,10 +724,7 @@ Sure. Okay. Thank you.
 Operator
 Our next question is from Andrew Ritchie from Autonomous.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Hi, there. First question, the flip side of the low rate environment is that it's very cheap to
 issue debt, and a number of your competitors or all of your competitors have been
 issuing debt in various innovative forms this year. Your gearing is very low, nobody needs
@@ -850,10 +757,7 @@ gains that it's speeding up a bit, but we still work on the assumption of a decl
 20 basis points and 30 basis points per yield. So it could be rather 30 basis points than 20
 basis points, and that is our expectation at the moment.
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 Let me only add one thing to the first. We are, and, of course, it's a harsh statement
 maybe to make, that financial engineering is not very high on our priority list. And if we
 issue debt of whatever format, we want to have a real, real relevant reason for it. So in
@@ -870,9 +774,7 @@ the case of an M&A or something like that, I could imagine doing that, but we'd 
 keep our powder dry and do not issue debt right now for the reasons, that Jörg
 mentioned.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 FINAL
 
@@ -881,9 +783,7 @@ Okay. Thanks.
 Operator
 Our next question is from Michael Haid, Commerzbank.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
+Q - Michael Haid {BIO 1971310 <GO>}
 
 Bloomberg Transcript
 
@@ -931,29 +831,20 @@ also have the additional earnings from the very strong balance sheet.
 
 FINAL
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 And don't forget one thing, Michael, that the (47:59) for us and the steering of our nonlife reinsurance is a proxy only. So, the steering starts from the different system and
 outfolds by the end combined ratio. So, it's kind of a backwards calculation. That is also
 why we are hesitant to be too specific. But one thing is for clear, what Jörg said, at 99%,
 we are clearly making, creating value.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 So, the FX exposure was more for the reason of asset liability matching than any
 backdraw or anything like that?
 
 A - Jörg Schneider
 Mostly, yes.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Okay. Thank you very much.
 
 A - Jörg Schneider
@@ -965,10 +856,7 @@ Thank you, Michael.
 Operator
 Our next question is from Michael Hawkins (sic) [Will Hawkins], KBW.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hello. Thank you. It's still William, I think. Sorry, just I have one question, but just a follow-up
 on your answer to Michael, first. I don't understand, if you made a 1% profit on premiums
 on new business and you're telling us you're reinvesting at 1.5%, how on earth that could
@@ -1000,10 +888,7 @@ but first remark from my side is that the UFR kicks in dramatic only at the very
 and we have a lot of liabilities between 10 years and 30 years where the UFR doesn't play
 a major role, but Bernhard more specific.
 
-A - Bernhard Kauf mann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kauf mann {BIO 18347993 <GO>}
 Yes. Hi, Will. You have pointed already to the major issue, it's really about the duration and
 in our portfolio the music plays between 10 years, 20 years and 30 years and their view of
 our impact is rather low. And then also you have to consider that it's about the interest
@@ -1012,9 +897,7 @@ or U.S. where we saw a major declines in interest rate that also impacts the ris
 it's mainly the increase in risk capital that drove our solvency ratio down. Owned funds
 were rather stable.
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 
 Bloomberg Transcript
 
@@ -1027,31 +910,19 @@ you pay, a 1% combined ratio can be great. As a margin take the business which w
 write any more, but workers' comp, you could work with 140 combined and still make
 profit. So, it really, really depends on the very business.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thanks, guys. Any sensitivity to the UFR, is it still very, very low?
 
-A - Bernhard Kauf mann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kauf mann {BIO 18347993 <GO>}
 Yes, that is still that the UFR sensitivity for our portfolio is relatively low.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you.
 
 Operator
 Our next question is from Michael Siddall (sic) [Thomas Seidl], Bernstein.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Thanks. It's Thomas Seidl again. A follow-up question. So, two things on the growth side
 apart from last inflection, in the past you mentioned risk solutions being one of the
 alternative areas. So I wonder what organic growth, but even more importantly, what are
@@ -1075,10 +946,7 @@ here. Can you give us an update how you see the risk that, for example, this yea
 year, you enjoy similar benefits like over the last two years, three years on the deferred
 tax side? Thank you.
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 Well, Thomas, we are incessantly working on our second HSB acquisition, so (53:15) the
 right target. But, you're right, in assuming if there was excellent growth, the likelihood of
 seeing it in the risk solution camp is by far the highest right now. So we would be ready if
@@ -1105,17 +973,11 @@ produced their additional tax reserve releases. The same will not apply as of no
 because we are close to being update here – up-to-date. And therefore, I would give you
 the guidance, there could be some but not major amount at least as I know today.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Excellent. And maybe a follow-up on the risk solutions, would you say that the M&A
 pipeline is rather dry compared to last year in this area or is it the same as last year?
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 It has been full all through the last years and it is full as of today as well. So we have
 enough out there that could be of interest, but as you also know not much did realize
 over the last years. I can't even give you kind of a sense for probability of execution on
@@ -1137,10 +999,7 @@ FINAL
 
 But, up to now, it's too expensive.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay. Thanks very much. Very clear. Thanks.
 
 A - Jörg Schneider
@@ -1151,10 +1010,7 @@ Our next question is from James Shuck, UBS.
 
 Bloomberg Transcript
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Hi, there. Thanks for taking my follow-up questions. I just had a couple to circle back on.
 One is, just the looking at the level of realized gains in recent years, I mean, it's obviously
 led to a certain degree of volatility in your earnings in a way you saw that with your Q1
@@ -1169,10 +1025,7 @@ around the $10 million and below level, could you just elaborate a little bit on
 are the trends driving that? Is this just purely a Q2 thing or is this – is there a bigger
 pattern that play here? Thank you.
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 Well, the question of the realized gains, I would not – I mean actually when we do the
 planning, let me start there, we normally do plan for very low level of realized gains. And
 then in the course of the year, things may change for different reasons, one thing is for
@@ -1208,10 +1061,7 @@ positioning here. And for example, we have lower amount of inflation derivatives
 at the moment. So here you could see perhaps a little bit more of stability going forward.
 Back to Nikolaus.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 May I just have a request actually? It would be helpful if you – on the realized gains, it
 would be helpful if you just spilt out the shareholders share as a realized gains, because it
 just takes a little bit of time to get there immediately because it's diluted obviously with
@@ -1223,19 +1073,13 @@ A - Jörg Schneider
 James, we have split of the investment income in the Annex of the presentation. I think it
 provides you with not everything but with a lot of information on that.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Thank you.
 
 A - Jörg Schneider
 Nikolaus?
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 Yeah. The second question that was the question on the $10 million losses either beyond
 that or below that level, that level of course has something artificial to it. By coincidence,
 the second quarter did show a couple of those losses just below that limit so that did not
@@ -1261,20 +1105,14 @@ signs behind that.
 
 FINAL
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 That's very helpful. Thank you.
 
 Operator
 We will now have Michael Huttner from JPMorgan. Mr. Huttner, your line is open. Mr.
 Huttner, if you could just make sure that your line is open, and that it's not muted.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay. I think Michael is not on the call any longer I'm afraid. So thanks to everyone for
 joining us. Thanks for spending your time with us this afternoon. I hope all your questions
 have been answered. And we are happy to follow up on any further questions with the IR

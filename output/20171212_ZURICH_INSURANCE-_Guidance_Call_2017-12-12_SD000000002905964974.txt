@@ -37,10 +37,7 @@ Sarah, the Chorus Call operator. (Operator Instructions)
 At this time, it's my pleasure to hand over to Mr. Richard Burden, Head of Investor
 Relations and Rating Agency Management. Please go ahead, sir.
 
-Richard Burden
-
-{BIO 1809244 <GO>}
-
+Richard Burden {BIO 1809244 <GO>}
 Good afternoon. Good morning, ladies and gentlemen. Thank you very much for making
 yourselves available at relatively short notice today for this Q&A session on the acquisition
 of ANZ's life business that we announced last evening. We will have to run fairly promptly
@@ -62,10 +59,7 @@ FINAL
 Before moving on to your questions, though, I'll just hand over to Mario for some
 introductory remarks on the transaction.
 
-Mario Greco
-
-{BIO 1754408 <GO>}
-
+Mario Greco {BIO 1754408 <GO>}
 Thank you, Richard. Good afternoon, everyone. And thanks again for being on the call on
 such a short notice.
 The transaction is fairly simple. It ﬁts perfectly with our strategy and with our past
@@ -93,10 +87,7 @@ Questions And Answers
 Operator
 (Operator Instructions) The ﬁrst question is Peter Eliot from Kepler Cheuvreux.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 I'm limited to one. I might just ask on the reinsurance ﬁnancials. You show on Slide three
 of your presentation $70 million sort of expected impacts. I'm just wondering if you can
 sort of explain a little bit about the ﬁnances and how you get to that. And I guess
@@ -114,10 +105,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Peter, it's George. I'll take that question. So the reinsurance element of the transaction is
 something that we've agreed to do together, one to allows us to get an exposure to the
 earnings more rapidly and, of course, for ANZ to allow them to release capital more
@@ -145,10 +133,7 @@ view of future expected operating proﬁt.
 Operator
 The next question is from Johnny Vo from Goldman Sachs.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Just a quick question in terms of like your reconciling this transaction with the ongoing
 balance sheet strength of the group, i.e., does this transaction limit your capital ﬂexibility
 in terms of capital returns? Because when I look at this transaction on a pro forma basis,
@@ -158,10 +143,7 @@ consume some central liquidity. But it looks like your ﬁnancial ﬂexibility i
 you give us some view of how this ﬁnancial ﬂexibility is impacted by this transaction and
 what this means for capital distributions going forward?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you. So maybe I can answer actually 2 questions in the course of trying to answer
 this one. So I mean, I think your summary is, I mean, almost spot on. I mean, from an
 economic perspective, I don't expect it to have any signiﬁcant negative impact on the
@@ -189,10 +171,7 @@ but very modest on all the key economic capital metrics.
 Operator
 The next question is from James Shuck from Citi.
 
-Q - James Austin Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Austin Shuck {BIO 3680082 <GO>}
 My one question is just to try and get some insight into the track record on the earnings
 proﬁle please, because you showed the $300 million BOP number by 2019. I'm just keen
 to know the trajectory of earnings over, say, the last ﬁve years or so because I think you -for the industry as a whole, you show the inﬂows and the maturities and surrenders in the
@@ -206,10 +185,7 @@ please.
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So James, it's George again. So from a -- so if we look at our recent experience. So again,
 just a comment on the '17 experience. There is some correction around the DI book
 reﬂected in the ﬁgures. I mean, there is some impact of what we believe -- at least it's our
@@ -254,20 +230,14 @@ most.
 Operator
 The next question is from the Farooq Hanif from Credit Suisse.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Could you please talk about the drivers of the $40 million synergy that you've talked
 about? And talk also about the kind of the strategic synergy, I guess, with Cover-More as
 well as Macquarie.
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes. So on the synergy topic. So I mean, in fact, we've literally just -- well, not literally just. I
 mean, 2 weeks ago, we've switched over on the Macquarie acquisition from the
 Macquarie systems to a single system. It would be our intention to take those same
@@ -306,10 +276,7 @@ Date: 2017-12-12
 
 FINAL
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 It's assumed we can only do one question. But -- and I understand and it's very eﬃcient.
 On the cash, I think 2 numbers. So one is the all-in Australian dollars of $ 300 million
 which would be accretive, if I've got the right numbers, in your 2017 to '19 period. Then
@@ -318,9 +285,7 @@ $300 million. I'm just wondering whether it's a decent portfolio. Maybe you're s
 is VIF beneﬁt. And I just wondered if you could explain a little bit more or share a bit more
 on the cash ﬂow proﬁle you're expecting.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -342,10 +307,7 @@ period.
 Operator
 Your next question is from Andy Hughes from Macquarie.
 
-Q - Andrew Hughes
-
-{BIO 1540569 <GO>}
-
+Q - Andrew Hughes {BIO 1540569 <GO>}
 Just trying to get my head around the 3 diﬀerent metrics of the cash at ECM and S&P
 metrics. So George, when you said there was a $1 billion of capital going to be used for
 the reinsurance, did you mean that? Because obviously, the Z-ECM impact is quite small
@@ -354,10 +316,7 @@ say, well, the Z-ECM impact of the deal isn't very big, then presumably there's 
 generation -- or yes, the capital generation on an ECM basis isn't very big either. And so
 maybe you can kind of break it down by the 3 metrics in terms of kind of what's going on.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes. So on the ﬁrst one, you've got me. I confess I've used the cash and liquidity a bit
 carelessly. So the $1 billion is cash. If you look at the total transaction, the expected
 impacts from an S&P perspective, we estimate around $800 million. I mean, the reason
@@ -386,20 +345,14 @@ years, I mean, we'll see, I mean, almost half the purchase price back. So and it
 important for that ECM and it's very important for the overall proposition behind the
 transaction. And the cash ﬂows are extremely strong.
 
-Q - Andrew Hughes
-
-{BIO 1540569 <GO>}
-
+Q - Andrew Hughes {BIO 1540569 <GO>}
 Yes, I guess the question I was trying to ask was what was the -- what would the Z-ECM
 capital generation be? Presumably, it's a lot smaller than the AUD 300 million a year. But I
 was just wondering what the incremental beneﬁt the Z-ECM capital generation would be.
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So the -- I mean, given the nature of the business. So -- I mean, in spite of that
 conversation we had, I think, again -- I think that's, again, a question that Michael asked
 around Q2. So you need to look at the economic value of the business, the new business
@@ -420,10 +373,7 @@ I just want to check what the expected drag is from earnings from the runoﬀ po
 going forward, is that an eﬀect of the business underlying growing but the runoﬀ of the
 legacy business oﬀsetting that growth and that leading to stable earnings outlook?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Correct. I mean, that's the important thing here. You see that on Slide seven in the
 investor presentation. So again, I mean, it's something that, I mean, we don't see so often
 in others markets. I mean, this business has a step-up feature. So I mean, step-ups in
@@ -445,22 +395,16 @@ Your next question is from Thomas Seidl from Bernstein.
 
 FINAL
 
-Q - Thomas Seidl
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 It's about the business mix on Slide 7. So the Australian protection market is actually quite
 volatile, has been loss making in 2 quarters over the last 3, four years. And the main driver
 has been, as we all know, disability and group risk, which make up more than 50% of the
 book. So I wonder how you would think about the risk and return proﬁle of disability and
 the group risk part of this transaction.
 
-A - George Quinn
-
 Bloomberg Transcript
 
-{BIO 17755912 <GO>}
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes, I mean it's a good question. I think, I mean, you're absolutely right, Thomas. If you
 look over the, I mean, the history of the markets, I mean, group DI, also individual DI, I
 mean, have been challenging, I guess, would be the best way to put it. I think if you look
@@ -478,30 +422,18 @@ sales of term life product. But I mean, the vast bulk of what you see in this tr
 today. And at least today the vast bulk of what we anticipate in the future, comes from the
 term life. And that's characteristic of the market in general.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay. But you'll need to sell the disability in order to get the term life. Is that (inaudible).
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So I mean, not entirely. But it's an important feature of the oﬀering for the distribution. So I
 think you can only sell one and sell one none of the other. It would be a bit optimistic.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yes, because disability is loss making 4 year in a row now, though there's no repricing
 going on, obviously.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Oh, no, there is. So I mean, I think it obviously depends on which part of the market you
 look in. I mean, if I look at our own book, which, of course, we know extremely well, we
 went through this exercise already in 2015. We saw the target do this the earlier part of
@@ -522,17 +454,12 @@ FINAL
 
 The next question is from Nick Holmes from Societe Generale.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Just a question on business mix. The (inaudible) about 30% of group earnings are life
 insurance. Is this acquisition a sign that you want to move this more to life 50-50 or
 embrace the composite model more than you do?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -550,19 +477,13 @@ But there's no target mix of what are you trying to achieve.
 Operator
 The next question is from Arjan van Veen from UBS.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Just a quick question on term life. At least one of your peers there has an issue with an
 older portfolio and hence having some lapse issues as the CPI or the automatic increases
 come through. So just curious, well, what is the average age of the portfolio at ANZ and
 whether they've had any lapse issues in recent years?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thanks. I don't have the average age at my ﬁngertips. But I mean, I do know the lapse
 rates. The lapse rates have been very consistent, I mean, at or around the same number
 for several years for OnePath now. So I mean, we haven't seen signiﬁcant volatility in their
@@ -571,9 +492,7 @@ persistency.
 Operator
 The next question is from Dhruv Gahlaut with HSBC.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 Page 9 of 11
 
 
@@ -587,10 +506,7 @@ within the legacy or the runoﬀ book? And what's the book size currently?
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So the -- I think the total funds under management in the legacy part of the book are
 about $2.5 billion, $2.6 billion. From a capital perspective, I mean, given that the total
 consumption overall is about $800 million, I mean, the proportion here will be quite
@@ -600,10 +516,7 @@ But I mean, I suspect that we're talking about low triple digits, very triple di
 Operator
 The next question is from Vinit Malhotra from Mediobanca.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 So I was just curious, George, about the Slide three and the data on OnePath balance
 sheet here. I mean, there are a few things. Kind of one is the life investment liability of $1.8
 billion. Probably that is the legacy assets. But equally, there's a very large amount of cash
@@ -614,10 +527,7 @@ sheet.
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes, no problem, Vinit. So thank you for the question. The -- so I mean, you're right to
 point out as a -- I mean, the -- you see this legacy investment component, both on the
 liability side and of course, the combination of what's in cash and what's in other ﬁnancial
@@ -638,9 +548,7 @@ track record. We think it's been well managed. We think the balance sheet is in 
 shape. And certainly, from a Zurich perspective, I mean, I'm not anticipating that we will
 make any radical changes here.
 
-A - Richard Burden
-
-{BIO 1809244 <GO>}
+A - Richard Burden {BIO 1809244 <GO>}
 
 Page 10 of 11
 
@@ -657,10 +565,7 @@ happy holiday season.
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes, Merry Christmas.
 
 Operator

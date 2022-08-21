@@ -6,10 +6,7 @@ George Quinn, CFO
 Vibhu Sharma, Group Controller
 
 Presentation
-George Quinn
-
-{BIO 15159240 <GO>}
-
+George Quinn {BIO 15159240 <GO>}
 Good morning, or good afternoon. My name is George Quinn and I am the Chief Financial Officer
 of the Zurich Insurance Group. And I'd like to welcome you to our Q1 results presentation.
 I'll make a few short introductory remarks on our results, before I hand over to Vibhu Sharma, who
@@ -36,10 +33,7 @@ range at 127%. We're deploying additional risk capital in the business. And we e
 the ratio moving back towards the 120% level over the course of 2014.
 With that, I'll hand you over to Vibhu, who'll take you through the details of our results.
 
-Vibhu Sharma
-
-{BIO 15804927 <GO>}
-
+Vibhu Sharma {BIO 15804927 <GO>}
 Good morning, or good afternoon. I will cover the operating performance of GI, Life and Farmers
 shortly. But I will briefly highlight three points on this slide.
 First, in relation to the pension curtailment gain mentioned by George, this arises from changes to
@@ -274,10 +268,7 @@ terms of catastrophe losses.
 I will now hand back to George who will take you through our Group balance sheet and capital. And
 summarize our Q1 results.
 
-George Quinn
-
-{BIO 15159240 <GO>}
-
+George Quinn {BIO 15159240 <GO>}
 Thanks, Vibhu.
 Shareholders' equity increased by just over $2 billion in the quarter, driven by $1.3 billion of net
 income and $0.9 billion of unrealized gains, mainly on our fixed income securities. Our dividend was

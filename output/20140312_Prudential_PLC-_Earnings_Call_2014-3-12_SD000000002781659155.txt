@@ -26,10 +26,7 @@ Bloomberg Transcript
 Jon Hocking, Analyst
 
 Presentation
-Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+Tidjane Thiam {BIO 7518525 <GO>}
 Good morning. Welcome to our full-year 2013 results presentation. Prudential has
 delivered a strong performance in 2013 with double-digit growth across all our key
 performance metrics. We are pleased to announce that we have achieved all six of our
@@ -993,10 +990,7 @@ one metric.
 So with that, let me now hand over to Nic, who will take you through our 2013 results in
 more detail.
 
-Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+Nic Nicandrou {BIO 15589153 <GO>}
 Thank you, Tidjane. And good morning, everyone; just about good morning.
 
 Bloomberg Transcript
@@ -1499,10 +1493,7 @@ With that, I will now hand you back to Tidjane.
 
 FINAL
 
-Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+Tidjane Thiam {BIO 7518525 <GO>}
 Thank you, Nic. So to summarize on 2013. The Group has delivered a strong performance
 with double-digit increases in all our key metrics, as Nic just showed you. And has been
 able to achieve all our 2013 growth and cash objectives.
@@ -1556,10 +1547,7 @@ So for your question, please, raise your hand, state your name and your firm's n
 then we'll take your question. So we'll just let everyone settle. Why don't we start with
 Andrew?
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Andrew Crean, Autonomous. Can I ask three questions, actually? Firstly, on your cash
 target of GBP10 billion over the next four years, you're already at run rate. In 2013, you did
 GBP2.5 billion. You're projecting that the Asian business will go up by GBP400 million. So I
@@ -1574,18 +1562,12 @@ Bloomberg Transcript
 Then thirdly, now that you've bedded the REALIC acquisition down, do you have a further
 appetite for acquisitions in the States?
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Okay. Thank you, Andrew. On the target, I'll let Nic answer. I'll come back on the economic
 capital coverage, and Mike will take REALIC. So Nic, do you want to say the GBP10 billion
 was too conservative, or not?
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 I don't think the GBP10 billion is too conservative. The two things I would say, of course,
 that GBP10 billion is after recycling, is after the investment that we have to make. And
 you've seen in the presentation today an analysis, indeed quite a lot of detail on the
@@ -1611,10 +1593,7 @@ in mind that the GBP10 billion is after deducting considerable investment in new
 
 FINAL
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 That is a really, really important point. It's a change in the way the Group functions. A few
 years back, there used to be a lot of variance embedded in the plan. It's only when we
 started looking at things closely -- so people would assume in the plan that interest rates
@@ -1662,10 +1641,7 @@ doesn't feel odd to me, but do you want to --?
 
 FINAL
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 I guess in response to your question, Andrew, I would probably reiterate two points that I
 made in the presentation.
 One, it's early days. Before we can embed this in a very formal way, we need the dust to
@@ -1693,10 +1669,7 @@ informing decision A or B. 2016 or beyond when it comes in, we'll continue to ru
 business by reference to a balanced set of metrics because we think that is the sensible
 and the disciplined thing to do.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 That's the best advice we can give to anybody running an insurance company; don't run it
 on one metric. It's just such a funny complex animal that you can really always do really,
 really stupid things. Going after maximization or optimization of one of those, you'll get
@@ -1722,10 +1695,7 @@ income from the FAs, which are at a historic low within the cycle, and the techn
 from risk business. But it's Mike who's at the front of that. So do you want to update a little
 bit on --?
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 The market has changed a bit on the buy side, and you've have seen some very clever
 private equity one-transaction particular plays that have a lot of synergies. And I think the
 regulators have shut that door for what I would say non-natural owners in the space.
@@ -1745,10 +1715,7 @@ But I think we have to do them when they're available at a price we like, not on
 schedule. For example, we don't put them in our business plans. We just assume they're
 opportunistic and that doesn't mean we don't have a lot of resources pursuing them.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Jon Hocking, Morgan Stanley. I've got three questions, please, firstly on the US. Without
 seeming churlish on the operating leverage, the expenses grew 18%, but on the life slide,
 I think it was 57 where you break down the drivers, the life expenses are down 5%. I
@@ -1780,17 +1747,11 @@ Then finally, using 10 basis points for the credit risk adjustment. I think ther
 jar for all [ph]. So I wondered if you could just run through those things.
 Thank you.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Okay. Thank you, Jon. Operating leverage in the US, that's between Nic and Mike. But
 Mike, do you want to go to --?
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Yes. You've seen some technical moves, Jon, on some of the guarantees we've pulled
 down, and I think you'll see there -- but as far as the actual acquisition cost, cost of
 administering a policy, normal operations, everything's within pricing; everything continues
@@ -1805,16 +1766,10 @@ But as far as the year-over-year numbers, you're seeing a reduction in expenses 
 policy on admin, you're seeing a reduction in acquisition costs, all within pricing; none of it
 materially different than our pricing.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 I'm not sure --
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Sorry, let me just try and answer that. The 5% that you show, you need to go back in the
 detail in the packs which then breaks that out between acquisition and administration. We
 just haven't done it because there's a lot of data on the slide, but the information is in the
@@ -1844,17 +1799,12 @@ take the maintenance or the recurring cost line, that has grown much more in lin
 growth of the business, but there are still some jaws coming through that, as you'd
 expect to see. And I hope that answers your question.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Okay. Thank you, Nic. Barry, do you want --? The way we run the relationship, we have a
 steering committee on which Barry sits and they meet very regularly and go over the
 business. Do you want to give some color on the penetration?
 
-A - Barry Stowe
-
-{BIO 15021253 <GO>}
+A - Barry Stowe {BIO 15021253 <GO>}
 
 Bloomberg Transcript
 
@@ -1871,31 +1821,19 @@ good as well.
 But under the new scenario, obviously, the opportunity to do a lot better where we
 already are, plus tack on some things like India, like China --
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 India, China, Philippines, Indonesia.
 
-A - Barry Stowe
-
-{BIO 15021253 <GO>}
-
+A - Barry Stowe {BIO 15021253 <GO>}
 Philippines. Bank is very small, but you've got to start somewhere.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 I think we had four questions on the economic capital. Diversification; will you take
 diversification? 250% RBC; do we take credit for elsewhere for what's above that? Would
 you use QIS5? And 10 basis points, is that enough for credit? Or should we be --?
 Nic that's yours.
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Page 36 of 50
 
 
@@ -1940,10 +1878,7 @@ should be when you have a business that will run off for the next 30/40 years. A
 think philosophically that is flawed in this context and we will continue to make those -- the
 case as we move on to level 2 and level 3. But it is another source of uncertainty.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 You probably saw Sergio Bardino's letter page [ph] yesterday mentioning that, and we're
 now on the page [ph] and will continue to lobby. Not everything is resolved. That's why we
 caveat this communication. It gives you our view. We're not saying this is going to be the
@@ -1970,10 +1905,7 @@ And just in terms of financing that, I wonder if you could give us an idea. Are 
 raise some debt, or to what extent can the Hong Kong estate finance a portion of the
 costs?
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Okay. On the financing, for instance, we -- it's funded with our own resources and there's
 no really direct contribution from the Hong Kong with-profit funds. It's quite different from
 the previous deal. But we're in a much different and much stronger position for the over
@@ -1995,10 +1927,7 @@ so we get our money with every sale. It's constructed like that.
 So that's what we have say on the cost. Impact on IDG going to come through, Nic, do you
 want to --?
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Yes. We will follow the same treatment as we have done for UOB, Thanachart. The
 distribution fee will not be capitalized in either IGD or in the economic capital monies [ph].
 
@@ -2007,9 +1936,7 @@ Just to follow up. In terms of the Philippines, we've been thinking for a while 
 market. You never really talk about it. One of your competitors makes a lot of money out
 of there. Just wondering what you're plans are re to try and turbo-charge the Philippines.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
+A - Tidjane Thiam {BIO 7518525 <GO>}
 
 Page 38 of 50
 
@@ -2032,10 +1959,7 @@ we neglect, and we are building there exactly the identical business to Indonesi
 follow the some general agency model.
 So Barry, can you --?
 
-A - Barry Stowe
-
-{BIO 15021253 <GO>}
-
+A - Barry Stowe {BIO 15021253 <GO>}
 I only disagree really with one thing that Tidjane said, which is that I'm too modest to say
 we're number 1. Quite happy to shout from the rooftops that we're number 1 there. It's
 the result of a lot of hard work from Junding [ph] and the team there.
@@ -2056,17 +1980,11 @@ We're over 8,000 now and moving fast. So a lot of the things that you saw in Ind
 several years ago you're starting to see in the Philippines, so I would suggest you should
 be very optimistic about it.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Back to my (inaudible) and energy, and we also have a great CEO. He's really, really, really
 a star; absolute star.
 
-Q - Chris Esson
-
-{BIO 6194371 <GO>}
-
+Q - Chris Esson {BIO 6194371 <GO>}
 Chris Esson, Credit Suisse. Just two quick questions, please, firstly on Thailand. My
 impression from Thailand is that unit-linked is a product that doesn't have a huge amount
 of support, and yet it looks like your IFRS payback is very fast. And certainly, the result
@@ -2087,48 +2005,31 @@ potentially could happen that would make it a sweetspot market in the future.
 
 FINAL
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Okay. Thank you, Chris. Thailand, just a word about Thanachart. They are, I think, number 1
 in auto credit in Thailand. So when you see Barry nodding, so that's what we're selling.
 We're selling insurance, and that's credit [ph]; it's very profitable. Good IFRS; good
 (inaudible).
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Yes, that's exactly it. They are by far the number 1 auto finance business in the market
 who operates not just in Bangkok, but all through up country as well. So it's a very strong
 part of their franchise. We have very high penetration rates attaching the product to that.
 So that's why you're seeing the economics you're seeing.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 And that's a start [ph]. That's (multiple speakers) --?
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
+A - Mike Wells {BIO 4211236 <GO>}
 
 Bloomberg Transcript
 
 Yes, absolutely.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 So we're doing the rest [ph].
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Tidjane alluded to the fast start we've got in auto, but I think it bears dwelling on a little bit
 because when we were getting ready to launch this deal, our partners candidly said, well,
 you've changed some products on us and so forth, so you need to expect that the sales
@@ -2142,10 +2043,7 @@ and then gone like this. It's actually just gone like this. So even the partner 
 surprised at how much efficiency we've been able to bring to that deal. It's a very good
 outcome.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 It's another great CEO and a great team.
 
 Page 40 of 50
@@ -2156,75 +2054,44 @@ Company N ame: Prudential PL C
 Company Ticker: PRU L N Equity
 Date: 2014-03-12
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Another great CEO.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
+A - Tidjane Thiam {BIO 7518525 <GO>}
 
 FINAL
 
 He's done a phenomenal job.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 He's a terrific guy.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Really remarkable.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Yes.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Integration everything. We've been there many times together and it's just a successful
 case [ph].
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
+A - Mike Wells {BIO 4211236 <GO>}
 
 Bloomberg Transcript
 
 It's a great team.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 India, do you want to say a few words? India?
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Oh, about --?
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Prospects?
 
-A - Barry Stowe
-
-{BIO 15021253 <GO>}
-
+A - Barry Stowe {BIO 15021253 <GO>}
 Yes, well, it's a complicated environment. There's not much we can do about the
 environment. We can only respond to the environment. So we've seen some political
 volatility, if you will; effectively translates into the difficulty in terms of getting some
@@ -2263,10 +2130,7 @@ environment is, we'll run a best-in-class business.
 
 Bloomberg Transcript
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 This is actually really an important point about how we run the portfolio. You've got the
 ideal position. That's the sweet spot, the famous sweet spot. For various reasons, we're
 in a really good position with right [ph] business and growth. Hong Kong, Singapore,
@@ -2279,24 +2143,16 @@ a positive; another story that Barry is telling. So it pays a dividend.
 The same is true of Korea, a very difficult market, but we have really shrunk the business
 and got it into a place where it does not really actually destroy the value.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 No, it makes money.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 It makes money. Then you get the long-term options like China. Actually, we haven't
 talked about it, but China is at 41% in 2013. Then back to my compounding argument, 21%
 on top of 30%, on top of 40%, and it's becoming material. It's moving up the ranks every
 year (inaudible), but it's actually doing well.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
+A - Mike Wells {BIO 4211236 <GO>}
 Page 42 of 50
 
 
@@ -2314,10 +2170,7 @@ numbers and then look at that against the rest of our businesses in PCA and you 
 this is actually getting to be a pretty big business. So this is another one where you should
 watch this space.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Farooq Hanif, Citi. I've got three questions on the US business, actually. I want to go back
 to your guidance on remittance. I know you've got this range, but it just seems to me
 when you look at the US business, your statutory profits are up, the book is de-risking,
@@ -2334,18 +2187,12 @@ Bloomberg Transcript
 
 Thanks.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Well, we're really happy to get three questions on the US that don't mention hedging.
 Really pleased. Look, anyway. Really, yes, net profit going up, de-risking, RBC ratio good.
 This is all actually nice problems to have. So Mike, do you want to talk about --?
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Well, remittance ratio, so we showed you in December our percentage of remittance
 versus percentage of book, including comparing that to US companies and share
 buybacks, and I think we're at the high end of anybody's ratios there. With my Prudential
@@ -2369,72 +2216,44 @@ Date: 2014-03-12
 regulatory measurement, but then there's also tactical issues at the Group level to
 consider on top of that.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 FINAL
 
 And just to be clear. You're paying below potential regulatory policy level?
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Above.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 You're paying --?
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Above.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Above.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 Bloomberg Transcript
 
 Above?
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Yes.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 That's why he said three years. We've got 3 times permission to go above. That's what he
 just said.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 And, again, that's just strength of the business, growth of capital, growth of cash flow. If
 you look at last year, funding the sales, funding the dividend, closing REALIC and still
 growing that capital, that's a strong discussion with the regulator on the health of the
 business.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 So thanks for allowing us to make that point because really that's the sensitivity Mike is
 alluding to. In the post-crisis world, we really have quite advanced discussions with
 regulators around dividend, and rightly so. Absolutely, I've no issue with that. But because
@@ -2455,10 +2274,7 @@ because we've been lately above that.
 
 FINAL
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Can I just make one point; just reiterate something that I said in December? When it
 comes to Jackson, using the pure operational free surplus isn't the right reference point.
 You need to factor below the line there. And I illustrated back in December that that is a
@@ -2469,28 +2285,19 @@ is growing so phenomenally, has spent the last few years trying to repair the ba
 sheet the debrief [ph] from the earlier [ph] crisis and of course absorb the acquisition of
 REALIC. So all that is working well.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 And the below the line is the hedging question which I didn't ask basically.
 
 Bloomberg Transcript
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Correct. That has, certainly on the stat [ph] basis, the hedges will also come through. But
 the reserves, given the cleanliness, if you like, or the clean position of the book, the
 reserves are flawed, so you're getting a mismatch come through that particular ratio,
 which will sort itself out because the higher fee base will give you more operating
 performance going forward.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 And page one and 2 in the supplement has the normal realignment to economic capital
 which we didn't show a [ph] consistent in the presentation.
 You asked a question on the impact of the allocation of trail commissions versus the final
@@ -2515,9 +2322,7 @@ Company N ame: Prudential PL C
 Company Ticker: PRU L N Equity
 Date: 2014-03-12
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
+A - Nic Nicandrou {BIO 15589153 <GO>}
 
 FINAL
 
@@ -2530,25 +2335,16 @@ if you like, the slight blip, and this is why when I was answering Andrew's ques
 said there are some elements in there that are one-off in nature in that result across our
 businesses, not just the US.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Thank you very much.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 We'll take two more because we're well into the lunch hour now and you know where to
 find us anyway.
 
 Bloomberg Transcript
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Three questions, if I could. The first one is on the US spread profits. I think you're still
 making well over 220 basis points profit on the spread book, and you said [ph] that's
 going to come down to 200 basis points in the short term. Where is the crediting rate
@@ -2563,17 +2359,11 @@ of cash flow payback period on that, even if you're not prepared to disclose you
 That would be very helpful.
 Thank you.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Okay. Thank you. Another three good questions. We have that, the numbers on the
 crediting and the --?
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Yes. Crediting rates are running around the 320 basis points level. We are -- I don't have
 the figure in terms of the reinvestment yield that we're getting on maturing bonds. It will
 
@@ -2588,18 +2378,13 @@ Date: 2014-03-12
 be 4.25%/4.5%, something like that. So that's part of the pressure that we see bringing
 the number down.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
+Q - Andy Hughes {BIO 15036395 <GO>}
 
 FINAL
 
 So it should drop to 1% over time, that spread margin?
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Well, it depends on mix. Remember, if you make the assumption that we've got our
 estimates of how long people will keep their money with us wrong, then it should do that.
 But remember, people are saving for a purpose. They're saving because they're in their
@@ -2610,18 +2395,12 @@ fixed annuity, or at 1% if you go fixed annuity option on VAs. So all of these t
 working in a way that will -- and we've done a detailed complex calculation for you and
 we've translated into a very simple guidance of 200 basis points.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Mike, do you want to come in?
 
 Bloomberg Transcript
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 The key point; the products being sold at this point in the cycle have a 1% floor. So you're
 at a very different guarantee than you saw pre-crisis. You still have 23 basis points/25
 basis points between our current crediting rates and the floor is on the entire book, so
@@ -2631,16 +2410,10 @@ I think is about as good as any in the industry and in a scenario where the comp
 spreads never widen, our new sales would affect the equation you're throwing out there
 as well because you'd have different math on those.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 All right, and there was then tangible net asset value, debt goodwill --
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 We've rehearsed these many, many times. The reality is there are aspects of value which
 generate profits, IFRS profits that not captured by shareholders' equity. We gave the
 example earlier on of the with-profit transfers. That's not -- accounting convention today
@@ -2661,10 +2434,7 @@ power of this organization.
 
 FINAL
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 On CB [ph], this is actually an interesting point because there used to be a strategy
 discussion in the Group. The old view in Asia was that bancassurance was less profitable
 than agency, the margins were lower and that actually it wasn't a very desirable business.
@@ -2717,10 +2487,7 @@ arithmetic. Okay, Gordon, go ahead.
 
 FINAL
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Just two, Tidjane. Gordon Aitken, RBC. So first question is on the holding company cash.
 It's gone up to GBP2.2 billion. It's a big jump from GBP1.4 billion. As you raised the GBP700
 million of hybrid debt in December, you've shown today that you don't need the cash to
@@ -2729,19 +2496,13 @@ And the second question on the UK. This week you've announced the GBP100 million
 real lack of supply. You presumably expect margins to remain very positive in that market.
 Just what sort of appetite do you have in the bulk market going forward?
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 All right. Thank you, Gordon, for only two questions. Do you want to say a word about the
 cash balance at the center?
 
 Bloomberg Transcript
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Yes, we touched on that in December. Candidly, the one good thing about a low interest
 rate environment is you can raise very high quality debt, and we've been able to raise
 very long debt at very attractive prices. So we took that opportunity. That opportunity is
@@ -2749,19 +2510,13 @@ not going to be available forever. We've locked that in and that gives us, I gue
 of flexibility as we move forward to either repay some of the debt that we carry or to
 deploy it in other areas.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Yes, and just transactions like SCB, which I know you have a lot of interest in the cash
 payment, but we want to have flexibility. But believe me, it's comfortable to be able to go
 into those types of conversations with no real cash constraint. That's very comfortable.
 Jackie, you want to talk about the bulks and the recent buying?
 
-A - Jackie Hunt
-
-{BIO 16204866 <GO>}
-
+A - Jackie Hunt {BIO 16204866 <GO>}
 Gordon, you're absolutely right. I think a recent deal has been publicly announced by a
 counterparty.
 In terms of the market itself, I would see it very similarly to how you set it out. I think
@@ -2791,10 +2546,7 @@ that we do want to make sure we get a proper return against.
 So you should expect to see us participating more aggressively but within the constraints
 of very strict capital return hurdles. We certainly won't let go of that particular discipline.
 
-A - Tidjane Thiam
-
-{BIO 7518525 <GO>}
-
+A - Tidjane Thiam {BIO 7518525 <GO>}
 Jackie has a very balanced portfolio because she's also in charge of Africa. She's got two
 very different jobs.
 So thank you. Thank you very much for your patience. in this team, many of us have seen

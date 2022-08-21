@@ -36,10 +36,7 @@ Instructions)
 I would now like to pass this call over to your first host, Mr. Peter Hill. Sir, you may begin
 your conference.
 
-Peter Hill
-
-{BIO 15385944 <GO>}
-
+Peter Hill {BIO 15385944 <GO>}
 Good morning, and thank you for joining our Third Quarter 2013 financial results
 conference call. Yesterday after the market closed we issued our quarterly release. If you
 didn't get a copy, please call me at 212-521-4800 and we will make sure to provide you
@@ -151,9 +148,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2013-11-06
 
-Jeff Kelly
-
-{BIO 20911735 <GO>}
+Jeff Kelly {BIO 20911735 <GO>}
 
 FINAL
 
@@ -386,10 +381,7 @@ Questions And Answers
 Operator
 (Operator Instructions) Sarah DeWitt, Barclays.
 
-Q - Sarah DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah DeWitt {BIO 18946247 <GO>}
 Given the growth that we are seeing in alternative capital, could you just talk about what
 opportunities you are seeing to manage more sidecars or ventures? I know you
 mentioned increasing Upsilon Re, but not DaVinci. And how much could that be, the
@@ -420,10 +412,7 @@ to us.
 And so, although we are not changing -- increasing the size of DaVinci, we are constantly
 changing the capital structure supporting it, adding efficiency and longevity to the vehicle.
 
-Q - Sarah DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah DeWitt {BIO 18946247 <GO>}
 Okay. Great. Then just looking at your operating ROE, up 19% for the quarter, usually in a
 low cat quarter you are north of 20%. So does this reflect more business mix shift or is it
 because of rate reductions? And to the extent it is because of rate reductions, how much
@@ -432,10 +421,7 @@ return hurdles?
 
 Bloomberg Transcript
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 This is Jeff. So taking the first part of your question, I think the light cat quarter comparison
 with years ago -- years ago returns and similar environments are fundamentally a function
 of the declining interest rate and investment return environment as well as, I think,
@@ -472,19 +458,13 @@ So when I look forward I see ample opportunity for us to continue to provide cap
 also see that we are better positioned to sustain market changes, because of the
 flexibility of our platform.
 
-Q - Sarah DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah DeWitt {BIO 18946247 <GO>}
 Great. Thanks for the answers.
 
 Operator
 Vinay Misquith, Evercore.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 The first question is on top line guidance. The down 10% seems actually pretty good
 considering that we have heard pricing in the prop cat is down more than 10%. Could you
 help me understand the guidance? Because my thoughts would be that you would write
@@ -505,10 +485,7 @@ necessarily reflect the way in which we are going to build the book over the cou
 renewal. There is still a lot of uncertainty as to what 1/1 will look like at this point, and we
 will continue to modify our strategy as we get closer to the renewal date.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay, okay. The second question is you mentioned that rates are -- still meet your written
 threshold. What are those written thresholds right now?
 
@@ -531,10 +508,7 @@ to structure the risk and the way we are going to bring it on to our portfolio o
 
 FINAL
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure. My question was more in terms of what ROE do you think is an adequate return, if
 you want to share that with us?
 
@@ -544,30 +518,21 @@ basis. And what is ultimately produced is how we have done against that expected
 But we have been doing it for 20 years, so I would point you to our long-term returns as
 an adequate place to start.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. Great. Then one last question on share repurchases. Would it be fair to assume that
 100% of your earnings are available either for dividends or share repurchases this year
 and next year?
 
 Bloomberg Transcript
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Yes, I think it would be fair to assume that. We have, as I said, a fair amount of excess
 capital, what we believe is excess capital. And it would be available to be -- if there aren't
 other business opportunities that develop for it, and as Kevin noted, there are a lot of
 levers we can pull in that potential deployment. But it is possible that we could return up
 to that much.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure. I am just looking at next year. The top line guidance is down 10%, but is that mostly
 due to rate and so, therefore, no capital frees up? Or do you actually free up some
 capital from your topline being down on the cat side?
@@ -581,10 +546,7 @@ or less exposed return periods.
 Those sorts of shifts will occur. But I think in general if you think of the guidance as mostly
 rate, it's probably as good as anything.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure, and just to clarify that the growth in the specialty and the Lloyd's will not require (any
 more) capital, correct?
 Page 11 of 23
@@ -604,19 +566,13 @@ collateral at Lloyd's, but those are -- the driver in our decision is the econom
 still going to be dominated by our cat exposure, so the marginal capital allocation is very
 small.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. Thank you.
 
 Operator
 Michael Nannizzi, Goldman Sachs.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 So just one question. On the third-party capital vehicles, what sort of hurdle rate for
 returns do you have in those vehicles versus your own balance sheet? And I'm assuming
 DaVinci is similar, but maybe for Upsilon or some of the other structures, I'm just curious
@@ -637,10 +593,7 @@ Tim Re, we are going out based on an opportunity (multiple speakers). But it rea
 depends on just the risk that we are putting into it, as to the type of investment investor
 we are attracting.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it, thanks. Then what was -- you insinuated a change to the profile of investors in
 DaVinci. Could you elaborate on that a bit more?
 
@@ -664,51 +617,34 @@ is an important point.
 
 FINAL
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it, and then just one other question on the ceded premiums. So clearly, those were
 higher, at least than we had this quarter. I would have thought, though, that maybe
 expense ratio would have benefited a bit more just given how I would imagine the ceding
 commissions would run through there.
 I am just curious. Can you -- is that right or is that not right?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 I am not sure I understand your question. Can you --?
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Should higher ceded premiums help to reduce the expense ratio because of the ceding
 commissions that you receive from the counterparties you are ceding the business to?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
+A - Jeff Kelly {BIO 20911735 <GO>}
 
 Bloomberg Transcript
 
 Well yes. The ceded -- a big part of the increase in the ceded premium in the Third
 Quarter was the cat bond we issued, and there is no ceded premium on that.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it, okay, that makes sense. Okay. Thank you.
 
 Operator
 Mike Zaremski, Credit Suisse.
 
-Q - Crystal Lu
-
-{BIO 21493547 <GO>}
-
+Q - Crystal Lu {BIO 21493547 <GO>}
 This is Crystal Lu filling in for Mike. My first question is can you help us think about the
 potential for new reinsurance demand coming in online in Florida as a result of, number
 one, Citizens' drive to depopulate, and, number two, Citizens' clearinghouse?
@@ -739,10 +675,7 @@ again pointing to confidence that there will be more migration of risk from the 
 facilities to the private facilities. So all of that leads up to be -- for us to be optimistic. But a
 lot can unfold between now and the June/July renewals.
 
-Q - Crystal Lu
-
-{BIO 21493547 <GO>}
-
+Q - Crystal Lu {BIO 21493547 <GO>}
 Okay. Great. And I know you currently don't plan on increasing the size of DaVinci, but
 given current insurance-linked securities market dynamics, if there are very large
 catastrophes would it be more likely RenRe raises more capital within DaVinci versus from
@@ -757,26 +690,17 @@ position us best compared to other participants in the market.
 
 Bloomberg Transcript
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 I would just add to Kevin's answer that we feel that we have -- we do feel we have a lot of
 flexibility to raise capital on both balance sheets.
 
-Q - Crystal Lu
-
-{BIO 21493547 <GO>}
-
+Q - Crystal Lu {BIO 21493547 <GO>}
 Okay. Thank you.
 
 Operator
 Josh Stirling, Sanford Bernstein.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 I am wondering if you could just talk through a little bit more some of what's driving your
 growth in specialty and at Lloyd's. Obviously, you're coming up small bases, but generally
 the market is getting a bit more competitive, and love to get a sense of what your go to
@@ -814,10 +738,7 @@ our spots and being opportunistic and growing it against a very efficient capita
 
 Bloomberg Transcript
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 And I guess I'm curious on your specialty business, actually, I guess I will ask two followups. One, I think you made the point that you're leveraging your capital, and you just drew
 a distinction between economic capital and hard dollars. And I guess the first follow-up is
 would you expect these guys to return appropriate midteens targets on an absolute
@@ -858,18 +779,13 @@ the better rate change.
 As far as workers' comp, you had mentioned that. That is not focus of where we are trying
 to grow the book of business.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 Great. Thanks. Good luck on 1/1. Thank you.
 
 Operator
 Josh Shanker, Deutsche Bank.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
+Q - Josh Shanker {BIO 5292022 <GO>}
 
 Bloomberg Transcript
 
@@ -889,10 +805,7 @@ where we're going to be on one side of the fence or the other. It's really how w
 shaping our portfolio and how we are able to capture the best economics we can on a
 net portfolio basis.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 In negotiations do you need to make clear your appetite to buy retro early on, or is it
 widely available for you after 1/1?
 
@@ -907,9 +820,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2013-11-06
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
+Q - Josh Shanker {BIO 5292022 <GO>}
 
 FINAL
 
@@ -928,10 +839,7 @@ where on the other side, if we are trading at ILWU or something where it really 
 informed by the way we construct our book, we really don't have to have any disclosures
 as to the way we have constructed our portfolio or what we are likely to do.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 And in terms of the market right now, is there plenty of capacity in the market for that
 type of business? Or at least your view will be at 1/1 there will be?
 
@@ -941,10 +849,7 @@ Bloomberg Transcript
 
 You mean for us to cede?
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Yes.
 
 A - Kevin O'Donnell
@@ -955,10 +860,7 @@ somewhat agnostic about.
 But what we are not agnostic about is being in the discussion and being able to see what
 is available early, and be able to respond to those offerings quickly.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Understood. Well thank you for all the answers and good luck.
 
 A - Kevin O'Donnell
@@ -977,10 +879,7 @@ Jay Cohen, Bank of America.
 
 FINAL
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 I guess a question on the specialty business. Looks like the accident year loss ratio is quite
 a bit lower than it had been running, if my numbers are correct. I am wondering what is
 behind that.
@@ -994,36 +893,25 @@ from XoL to a little bit more quota share. Part of that is just the way we're re
 some of our balance sheets with -- and the US platform. And as far as the acquisition loss
 ratio -- just looking for the numbers here.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
+A - Jeff Kelly {BIO 20911735 <GO>}
 
 Bloomberg Transcript
 
 Yes, I think it is just a relatively light loss period, Jay. I don't think there's anything special
 going on.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Great, thank you.
 
 Operator
 Brian Meredith, UBS.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Jeff, just one quick numbers question. The yield on your fixed income portfolio for the
 quarter, does that incorporate the bank loan facilities in there for the full quarter? Or will
 we see a change in the Fourth Quarter result of the switch?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 That's a great question. I think it will probably change it slightly. In the context of the
 overall portfolio, it's a relatively small number.
 But it will be included now as part of the fixed income securities portfolio as opposed to
@@ -1038,24 +926,16 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2013-11-06
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Tick it up a little bit, okay, great.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
+A - Jeff Kelly {BIO 20911735 <GO>}
 
 FINAL
 
 It will be very minimal based on the size, though.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Got you. And Kevin, two questions. First, was wondering if you could just expand your
 comment about the slowdown in demand that you are seeing from alternative capital
 providers?
@@ -1074,10 +954,7 @@ So I think is one that -- if you go back seven months ago, that dialogue wasn't 
 there was just an eagerness to have discussions about cat and cat returns. I think right
 now that discussion is more muted because of the discussions around price change.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Got you. And my second question, Kevin, I am just curious, as we look at your portfolio
 going forward in the cat book and what you retain on your balance sheet versus what you
 cede out to third parties and retro, do you expect that because of what's going on with
@@ -1114,10 +991,7 @@ an important one, because as they move outside of the peak zones, the rated bala
 sheet is at least as efficient as the new capital coming in. So I think it is something for the
 time being we should focus on within Atlantic cat.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 And on that point, do you anticipate looking forward that perhaps the attractiveness of,
 call it Europe versus the US, may increase a little bit?
 
@@ -1127,10 +1001,7 @@ anticipation of more rate competition in the US than we do in Europe. All that b
 the absolute return from US business is still higher than the absolute return for European
 business.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great, thank you.
 
 Bloomberg Transcript
@@ -1138,10 +1009,7 @@ Bloomberg Transcript
 Operator
 Ian Gutterman, BAM.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Kevin, I guess my first question is in the press release you mentioned that our results
 were helped by a decision early in the year to adjust your portfolio. Can you just give a
 little more color on that? Are you trying to say that you got off some risks that caused
@@ -1153,10 +1021,7 @@ back, we bought a cat bond. We changed the size of Upsilon. We didn't renew Tim 
 We change the profile of the book, as I just mentioned, as to how we wrote the Atlantic
 hurricane season. It's all those of things combined.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Got it, got it; makes sense. On Upsilon, I just wanted to refresh my memory a bit. The
 retro that vehicle writes, how much of that -- is that for external parties reinsurance? Or is
 that for your own reinsurance book buying retro? Remind me who the client is on that.
@@ -1175,10 +1040,7 @@ is not writing a retro on RenRe or DaVinci.
 
 FINAL
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Okay, that's what I thought. I just wanted to make sure. Then is there any appetite to
 expand it from just being collateralized retro to doing collateralized reinsurance, given it
 seems the primary insurers are looking to allocate portions of their program to
@@ -1188,10 +1050,7 @@ A - Kevin O'Donnell
 I think when we talk about it, generally the preponderance of risk that is currently in it is
 retro. But we do have flexibility to write reinsurance as well.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Okay, is that a plan to increase that this year? Obviously, as you get -- I think historically
 Upsilon has been a 1/1 vehicle. But to the extent a lot of Florida guys have been putting
 collateral slices on their programs, might we see Upsilon write some midyear too?
@@ -1204,37 +1063,23 @@ targeted at a specific opportunity. I think we may -- if there is different oppo
 Florida we could always change the profile of some of the risk or some of the criteria that
 we have with Upsilon, or we could just start a new vehicle.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Okay, got it, got it. Then I guess it hasn't come up, the reserve releases were the lowest
 in several years. Was there any pockets of adverse that offset the normal level of releases
 or it was just favorable less than usual?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Yes. It was just favorable less than usual.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Okay. And any specific lines that came from -- or types of risk that came from -- actual
 versus expected, versus actual events or anything like that?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 No, favorable -- favorable development in all segments of the business were very light
 this quarter.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Page 21 of 23
 
 
@@ -1245,40 +1090,27 @@ Date: 2013-11-06
 
 Okay, got it.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
+A - Jeff Kelly {BIO 20911735 <GO>}
 
 FINAL
 
 Favorable and unfavorable were very light this quarter.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Got it, great. I think that's all I have for now. Thank you.
 
 Operator
 Matt Carletti, GMP Securities.
 
-Q - Matt Carletti
-
-{BIO 5249827 <GO>}
-
+Q - Matt Carletti {BIO 5249827 <GO>}
 Just a quick question for Jeff. That late reported claim at Lloyd's that had a little bit of
 adverse prior period, can you quantify that, so we can just see what the underlying trend
 was there?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 It was about $3 million.
 
-Q - Matt Carletti
-
-{BIO 5249827 <GO>}
+Q - Matt Carletti {BIO 5249827 <GO>}
 
 Bloomberg Transcript
 

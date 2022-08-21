@@ -22,10 +22,7 @@ Toby R. Langley
 Bloomberg Transcript
 
 MANAGEMENT DISCUSSION SECTION
-Tony Jackson
-
-{BIO 1729093 <GO>}
-
+Tony Jackson {BIO 1729093 <GO>}
 I'm conscious of the time, so we'll get under way. Good morning, ladies and gentlemen.
 My name is Tony Jackson. I'm the Head of Investor Relations at QBE. I'd like to welcome
 you to QBE's 2014 Final Result Briefing.
@@ -36,10 +33,7 @@ Before I hand over to the group's Chief Executive Officer, Mr. John Neal, if I c
 firstly ask everybody to please turn off their mobile phones.
 And with that, I'll hand over to Mr. John Neal. John, thank you.
 
-John D. Neal
-
-{BIO 20988613 <GO>}
-
+John D. Neal {BIO 20988613 <GO>}
 Thank you, Tony, and good morning, everyone. It's a real pleasure for Pat Regan and I to
 be presenting to you this morning.
 In 2014, QBE made very significant progress on a number of important areas, including a
@@ -248,10 +242,7 @@ very importantly, we've laid some solid foundations to build on our business, st
 Now, if I may, I will hand over to Pat Regan to take you through the 2014 year in a little
 more detail. Pat?
 
-Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+Patrick Charles Regan {BIO 15131018 <GO>}
 Thank you, John, and good morning, everybody. Pleasure to be here.
 I'm going to start first by giving a little bit more color on the results division by division.
 Starting with our business here in Australia, which obviously had a strong set of results.
@@ -554,10 +545,7 @@ The last area, we slightly broadening out the type of credit we hold, really to 
 concentrations. You can see we hold a little more A, a little less AA and that's partly to do
 with holding a little bit of less bank paper, a little more non-bank financials and nonfinancials as well. With that, I'll now hand back to John.
 
-John D. Neal
-
-{BIO 20988613 <GO>}
-
+John D. Neal {BIO 20988613 <GO>}
 Thanks, Pat. Just two slides, just to finish with for me, and I want to spend a little bit of
 time talking to you about our outlook for 2015 and the targets that we've set ourselves
 for the year. You'll see that we've put four targets out, two of which sit around the
@@ -662,10 +650,7 @@ Q&A
 
 Bloomberg Transcript
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 James Coghill, UBS. Couple of questions, and they're both focused on insurance margin.
 I'm just trying to understand the circumstances that could lead to an outcome at the
 bottom end of the range at 8.5%. So, I'll ask them separately. The first one is on yields. So
@@ -675,10 +660,7 @@ margin for that 2.9%, although you did at the first-half. It does look very high
 understanding of the run rate. And I appreciate there's a mass allocation shift there, but
 perhaps you can just take us through your thinking of that metric into 2015?
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 Yeah. Thank you, James. So we – you will see the net yield for 2014 was – gross yield was
 2.8%, net yield was 2.6%. In a $800 million of investment income, that was actually after a
 couple of items. There was a small cost to buy back our senior debt, which is netted in
@@ -702,53 +684,33 @@ Date: 2015-02-24
 So I think, there're things like that we're trying to do that can offset the headwinds of
 lower running yields by slightly higher (43:03) options.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
+Q - James Coghill {BIO 14006200 <GO>}
 
 FINAL
 
 The midpoint of guidance implies 2.9%, so that – if my understanding of that number is
 correct? Exactly, the midpoint of guidance you'll be doing 2.9% on...
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 You're not precisely on the midpoint of our numbers, but you're not too far off.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 Okay. And the second one is, how all these reinsurance changes impact the allowance for
 large and cat losses? So – and you've called out $1.1 billion as the limit on large and cat
 losses.
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 Yeah.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 Of course, crop always complicated.
 
 Bloomberg Transcript
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 Yeah.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 And we've got a much lower net earned. So, the dollar value of crop (43:41) numbers to
 work out exactly what that is. But just on the non-crop portion, that's implying around 9%
 as an allowance relative to what would have been 10% on your old metric, the 10.5% total
@@ -756,20 +718,14 @@ was only 10% for non-crop. So hopefully, you understand what I'm saying. It look
 is a benefit in that non-crop allowance as we go into 2015. Have you factored that into
 guidance? Am I thinking about that in the right way?
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 I mean, the math is easy, isn't it? It's $1.1 billion divided by our own premium. So your maths
 isn't wrong. You've got to add in a bit for crop, but as you say, you can go and figure that –
 figure what you think that is. There's a little bit furthermore, but that will be relatively small.
 So yes, you are on your – the right line with the maths, and yes, we factored that into our
 guidance.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 Okay.
 
 Page 14 of 26
@@ -780,9 +736,7 @@ Company N ame: QBE I nsurance Group L td
 Company Ticker: QBE AU Equity
 Date: 2015-02-24
 
-Q - Ross N. Curran
-
-{BIO 15090587 <GO>}
+Q - Ross N. Curran {BIO 15090587 <GO>}
 
 FINAL
 
@@ -793,10 +747,7 @@ business this year and of the impact the Westpac decision will have on the outlo
 2014, and whether the – sorry, FY 2015, and whether the Australian GWP allows for the
 loss of the Westpac contract?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 If I deal with both questions really, the LMI business in terms of its added value for the
 Australian result, it adds a little bit over 2 points of good news through the combined ratio
 in a typical year. So that's the benefit that we would expect that business to provide going
@@ -817,22 +768,13 @@ So I think from our perspective, we'll just take our time. There is no hurry, th
 absolute need to do anything with that business. So we'll just watch how the market
 settles down and decide what construct works best for that business going forward.
 
-Q - Ross N. Curran
-
-{BIO 15090587 <GO>}
-
+Q - Ross N. Curran {BIO 15090587 <GO>}
 And so the GWP guidance for Australia, does that include the loss of the contract?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 It does, it's quite small for us.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 Hi, it's Nigel Pittaway here from Citi. Just picking up first of all on James's question on the
 margin. If we take the underlying this year at 9.8%, we get a favorable swing of 1.5% on
 large losses if you only hit your $1.1 billion. There's another 0.7% to come from the OTP, so
@@ -841,10 +783,7 @@ LMI and the crop variance as well, but it sounds like you are adding – you are
 quite a large number of knocks. And is there something else I'm missing, am I missing
 anything?
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 Page 15 of 26
 
 
@@ -863,24 +802,16 @@ risk. (47:52) There is nothing that's out there – we still got things like len
 is a drag on the results that we said. Certainly, there is nothing we know in that context
 that you don't know.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 All right. So, there is nothing to take it down to 10% against that analysis that's all
 accounted for the, sort of, issues you've mentioned?
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 It's a bit more competitive rating environment now, isn't? I mean, in all of our markets –
 Australia is a clearly a more competitive market than it was 12 months ago, North America,
 (48:25) Europe is still competitive, not be similarly competitive to 12 months ago.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 Bloomberg Transcript
 
@@ -899,10 +830,7 @@ trajectory going against this, we should take some consideration of that when we
 putting our margin forecast out for you. So the two factors that you've not got on the
 math would be one crop, and two, maybe a little bit of caution on market conditions.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 Thanks. Okay, secondly, just on the risk losses that form part of the large loss cost. You've
 made the comment, I think, the risk-loss frequency has continued to increase, yet, if I look
 at what you've actually put through in the second-half, there is only a $130 million of
@@ -910,10 +838,7 @@ specified events, and you've added to your bulk IBNR by $305 million. So can you
 that's not dissimilar to what you did in the first-half. So can you sort of just comment as to
 why you need so much in terms of bulk IBNR?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yes, it's a good question, and it'd be certainly a thought process around the aggregate
 cover that we put in place. I was struggled with large risk losses, when you're cutting in
 Page 16 of 26
@@ -941,9 +866,7 @@ loss, but occasionally, it's going to give you some spikes on large losses. So t
 protection to that is to do what we've done and buy a very complete, almost $1 billion
 aggregate protection to create some high level certainty around that category loss.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 
 Bloomberg Transcript
 
@@ -953,10 +876,7 @@ saying you are forecasting premium to be down a bit again next year and obviousl
 one business, that's not impacted by FX, can you just sort of explain where you think you
 are on that business, please?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I mean broadly it's a little bit, so we're through the restructuring phase. So programs we
 should be through the kind of exiting of most of the program business, so you wouldn't
 expect that to go down too much. We've got a little bit of top-line still from the – the
@@ -966,23 +886,15 @@ in middle market, we're particularly looking to grow in specialty. So you still 
 a headwind from things like lender-placed, but the other areas of the portfolio that the
 teams are much more focused on are, kind of, moderate but some level of growth.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 Thank you.
 
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 Thanks. Daniel Toohey from Morgan Stanley. I've just got two questions, firstly, on the topline. John, you are calling for sort of flat right environment in 2015. You just talked about
 potentially Australia being off 5% in the full-year, and in light of discussions around the
 margin and having room for movement, I mean, is a flat top-line outlook in 2015 bullish?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 Page 17 of 26
 
@@ -1016,20 +928,14 @@ about really demonstrating some predictability and stability around our performa
 
 Bloomberg Transcript
 
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 Okay. And just to follow up on the PoA, traditionally we thought about that as being a
 target of exceeding 90%, something working towards. And you've allowed it, you've
 taken it down 1.3%, outlined a new target of 87.5% to 92.5%. And I guess that 1.3% benefit
 actually helped offset some of the discount rate headwinds. So can you talk through the
 rationale for the shift in the PoA?
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 Yes. Well, first of all, thank you for reading my CFO report and where that ranges
 included, but it's pretty much what you just said really. We've got a range of 87.5% to
 92.5%, we said we'll be in a tight band around 90%, and that's how we have defined a
@@ -1052,27 +958,18 @@ Company N ame: QBE I nsurance Group L td
 Company Ticker: QBE AU Equity
 Date: 2015-02-24
 
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 Okay. Thanks.
 
 FINAL
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 Thanks. Brett Le Mesurier from BBY. Couple of questions, you said there was no prior year
 adverse claims development, but when I look in the accounts, I see, there is about $160
 million on an undiscounted basis both in the claims triangle and the Note 7b. Can you
 reconcile those two comments?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 It's a good question. The $160 million actually is post-Duclos, but includes Argentina. So as
 you could imagine, the Argentina book is complex, it's gone, because it's upper long tail,
 very high interest rate. So it has a large amount of undiscounted – the incomes down to a
@@ -1082,50 +979,30 @@ Tony Jackson is a man to exactly point out those two numbers kind of linked toge
 you. But it is more peculiar, because the reserve development (57:55) in Argentina, which
 is super long tail and high interest rates.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 So you're saying that the development was still about Argentina?
 
 Bloomberg Transcript
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yes, essentially, yes.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 So there is still adverse development in total bank?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 No, no the adverse – those numbers all included with Argentina, about $1 million of
 positive prior year development including Argentina and over – clearly over $100 million of
 positive prior year development, excluding Argentina.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 So why does the claims triangle show something else? It's not clear to me?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 It includes Argentina. So it includes on an undiscounted basis, it shows negative
 development. Once you include discount, it doesn't.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 
 Page 19 of 26
 
@@ -1143,10 +1020,7 @@ long tail classes, refers to amount of $523 million. You said the discount benef
 of the reduction in the interest rate was $324 million, how does that relate to the footnote
 that you've got here?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 The $300 million of – is the movement in discount rates during the year ex-Argentina,
 that's on our slide. So that is our weighted average going from just over 2.1% down to
 1.45% (59:23) something like that. For our major basket, the currency is the Aussie dollar –
@@ -1156,55 +1030,33 @@ In addition to that, obviously if you've increased reserves in a very long tail 
 business, you've increased the gross amount, and then you've increased the discounting
 amount as well, and that's sort of a separate item.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 So you've actually – so what that footnote tells me, you've actually reduced the reserves
 on long tail classes by a recently substantial amount?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 Bloomberg Transcript
 
 No.
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 (01:00:01).
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Just in Argentina.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 So you have identified $324 million as the impact of discount rate. What was the positive
 benefit of reducing the inflation rate?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 No, we didn't reduce the inflation rate anywhere.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 That's what it says in the footnote.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 Page 20 of 26
 
@@ -1217,79 +1069,48 @@ Date: 2015-02-24
 In Argentina, you explicitly link, because both for China, but you explicitly link interest rates
 and discount rates.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 
 FINAL
 
 Yeah. You also referred to Australian dust diseases.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 And Australian dust diseases will be the only other item in Australia.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 So is the footnote wrong?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 It's just two items, Brett.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 Okay. The reinsurance of the medical malpractice showed $362 million claims benefit and
 the premium was $362 million?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 Bloomberg Transcript
 
 Yes. So you got a reduction of NEP by $360 million of reduction claims by $360 million.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 So the $362 million reduction in premium was set for the consequence of the claims
 recovery?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I said the consequence of the premium amount.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 Look, my question is really what came first, the premium or the claim?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I'm not sure I understand the question, Brett. It was part of the negotiation obviously, if we
 had what we – another long tail book of business, quiet and volatile as your claims,
 reassuring that why at a premium equal to the claims and that was a good deal for us, as
 we described at the half year.
 
-A - Tony Jackson
-
-{BIO 1729093 <GO>}
-
+A - Tony Jackson {BIO 1729093 <GO>}
 I mean look at in a different way, it's a reinsurance contract, hence the accounting entries
 that you've just referred to. Any reinsurer looking at that has the availability of all of the
 Page 21 of 26
@@ -1309,21 +1130,13 @@ we were able to negotiate an effective commutation of those at the value at whic
 were reserving them. So we think that's a good deal. I mean obviously the reinsurer feels
 that the long tail nature of those reserves means it's a good deal for them as well.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 Thank you.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 You're welcome.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 
 Bloomberg Transcript
 
@@ -1340,10 +1153,7 @@ whether or not, you're going to be happy with that expense ratio, where it's goi
 next year, what those plans on a go-forward basis to further improve that operating
 efficiency of the business?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yeah. I mean, it's a fair question. I think the plus, as I sort of painting through the
 commentary on what we've done with cost is, is the infrastructure we've created to
 reduce costs on a go-forward basis.
@@ -1357,9 +1167,7 @@ particularly as we move into 2016 and 2017, in which case you'll see some fricti
 in that cost ratio. So short answer is, can we take more money out, yes. I think I'd rather
 wait and present that to you in better details through the half year.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 
 Page 22 of 26
 
@@ -1372,42 +1180,28 @@ Date: 2015-02-24
 Okay. Just to be clear, the guidance you've given for the margin, should I just not include
 that benefit of additional cost down?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 FINAL
 
 No.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Okay. The lender-placed book I think at the half-year you indicated was losing in the order
 of $80 million a year. Is that sort of where it ended up for the full-year?
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 At slightly better than that in 2014 but there's a broad run rate going into 2015 that's
 pretty much where it's at, yes. It's moderately better than the ballpark of that number.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 And reading between the lines, you seem a little bit more optimistic on your ability to
 perhaps exit before the 10-year agreement expires. Can you give any color as to sort of
 some of the options on the table?
 
 Bloomberg Transcript
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I don't know whether I'd use the word optimistic. It's hard, I think. So at one end of the
 spectrum it goes back to your cost question. Do we think we can take more cost out of
 that business? The short answer is, yes, we can. Does that represent a complete solution?
@@ -1420,10 +1214,7 @@ So we'll work through it this year. We're determined to come up with the solutio
 certainly make the business better. Whether we can get a complete solution, we'll just
 have to wait and see.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Thanks. And just final question on the dividends. You said you're happy now with the level
 of gearing on the balance sheet. The reserves are performing well. We've seen your
 reinsurance protections put in place, which reduce the risk as well. We saw that payout
@@ -1431,10 +1222,7 @@ ratio revised down to 50% a couple of years, got to address all those factors, w
 seem like they have been addressed. Is there scope to see that payout ratio now shift
 up?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Page 23 of 26
 
 
@@ -1452,17 +1240,11 @@ today, there is no value in the business carrying surplus capital, just for the 
 it's an item that the board will keep under review throughout 2015. So we'll keep
 reporting on it, but clear message today is, there's an intent to grow dividend.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Okay. And your intentions to grow the business, i.e., you're signaling a fairly flat constant
 currency GWP, but inorganic activities are back on the agenda.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I think possibly, I think that we'll be looking out a little bit further than the next six months,
 focused certainly through the half year is to demonstrate continued ability to deliver on
 performance, and in this has improved performance. We're talking about taking the
@@ -1475,41 +1257,26 @@ performance perspective first and foremost.
 
 Bloomberg Transcript
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Thanks.
 
-Q - Toby R. Langley
-
-{BIO 15924432 <GO>}
-
+Q - Toby R. Langley {BIO 15924432 <GO>}
 Hi. It's Toby Langley from Bank of America Merrill Lynch. On the margin reconciliation
 conversation, I just wanted to chip in with a suggestion. Are we facing a 50-basis-point
 headwind from a lot of those brokerage businesses? Is that one of the reconciling items
 to consider?
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 It is. Yes, it's not quite 50 basis points. So I think we've said, it's circa $50 million of
 EBITDA, so a little bit less than 50 basis points, but yeah that is one of the items.
 
-Q - Toby R. Langley
-
-{BIO 15924432 <GO>}
-
+Q - Toby R. Langley {BIO 15924432 <GO>}
 And then, on the remittance numbers, Pat, at the half year you said that you would
 consider setting out targets. You've not done that today. Is that something that you're
 going to hold yourself to going forward? And then if you can provide a bit more color on
 the shape of those numbers, because obviously it's gone up quite a lot.
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 Page 24 of 26
 
 
@@ -1537,9 +1304,7 @@ from Asia. And the place we really need to get back on stream is North America. 
 means both in profits and in dividend paying. So we've made some good progress, but
 we're not perfect yet.
 
-Q - Toby R. Langley
-
-{BIO 15924432 <GO>}
+Q - Toby R. Langley {BIO 15924432 <GO>}
 
 Bloomberg Transcript
 
@@ -1547,10 +1312,7 @@ So should we think that number is run rate for those businesses that are contrib
 as the others come on stream then that could be enhanced or is there a special nature to
 that figure this year?
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 I mean Australia, to be fair, has paid a very high proportion of our profit. So you might say,
 look, we've now got huge growth for anybody in the Australian market. So we've got a
 high proportion of profit, that's probably reasonably sustainable in Australia. We got a little
@@ -1558,23 +1320,14 @@ bit more in Equator, but we got nothing out in North America. So can we still gr
 Well, yeah, I mean, if we grow our business profits and we ought to be able to grow our
 remittance as we go forward.
 
-Q - Toby R. Langley
-
-{BIO 15924432 <GO>}
-
+Q - Toby R. Langley {BIO 15924432 <GO>}
 Thank you.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Okay. I think that looks like we're about done everyone. So thanks very much for turning
 up today. I appreciate your questions. Thank you.
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 Thank you.
 
 Page 25 of 26

@@ -39,9 +39,7 @@ Relations, Giulia Raffo. And I'm sure all of you know Giulia, we are extremely p
 have Giulia on board in Generali, together with a very strong Investor Relation team.
 Now, I would hand it over to Giulia.
 
-Giulia Raffo
-
-{BIO 20301563 <GO>}
+Giulia Raffo {BIO 20301563 <GO>}
 
 Page 1 of 17
 
@@ -87,10 +85,7 @@ that we had announced at our Investor Day. And we see benefits in having a stron
 growth and continuing to reduce the absolute amount of costs.
 Thank you. And I give the word to Cristiano.
 
-Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+Cristiano Borean {BIO 15246531 <GO>}
 Good morning, everyone. And thank you for Frederic. Frederic just mentioned, we are
 very pleased with these results, as they confirm our focus on value generation and the
 profitable growth.
@@ -135,10 +130,7 @@ Operator
 (Operator Instructions) Operator, we will now begin the question-and-answer session. The
 first question is from Peter Eliot with Kepler Cheuvreux. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you very much. Sorry to start on solvency, but that was very helpful those moves
 you just gave us. I guess within that, the market movements were a little bit more than I've
 been expecting, based on the sensitivities that you had disclosed. I'm just wondering if
@@ -167,10 +159,7 @@ wondering if you could perhaps comment on -- you said it was difficult to read. 
 wondering if you could give us a bit more help in understanding sort of economically the
 progress there? Thank you very much.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Thank you very much Peter for your questions. So let's start from the first question which
 is the market movement likely higher than expected in your sensitivities. So, let me try to
 clarify that the driver for the drop on the market variance is as you know the interest rate
@@ -221,19 +210,13 @@ and the coming years.
 
 FINAL
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 That's correct. Thank you very much. And could I personally just come back quickly on the
 second, one the country VA, I can probably go into the sums. But just wondering if you
 could confirm whether that would kick in at current levels? And also are you able to
 quantify the benefit that you would get from that equivalent so?
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Hi, Peter. So just try to clarify this point. Also the answer for the first question on the
 asymmetric movement in the market. In the sensitivities you use to show the movement
 of the BTP, being each sensitivity, a stand-alone sensitivity than above the swap curve,
@@ -249,29 +232,20 @@ would have not triggered even at the levels you are observing today. And this is
 reason why you get this extra sensitivity, because this has not been triggered. I hope I
 answered your point.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Yes. I think I was just looking for the benefit that you would get the step of discontinuity as
 and when the country period kicks in, but I can follow up offline.
 
 A - Frdric de Courtois
 Principally on the sensitivities as we disclosed there.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. Thank you.
 
 Operator
 The next question is from James Shuck with Citi. Please go ahead.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Hi. Good morning. Good afternoon, everybody. A few questions from me, please. Firstly,
 the outlook for the tax rate at the group levels you flagged the reduction in the Italian
 rate. So I think your effective tax rate has historically been about 34% going forward, kind
@@ -312,10 +286,7 @@ in the life business value.
 And just very final quick one. Can you tell me the contribution to operating profits from
 Generali Leben please in 2018. Now that deal is closed. Thank you.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Okay. Hi, James, it's Cristiano. So first point, the effect you're seeing in this quarter is as
 we explained, driven mainly by an effect of the lower taxation in Italy our a component
 and a lower -- a higher base of deductible earnings in China. This is a movement on the
@@ -357,10 +328,7 @@ And my last comment which is something that we're going to discuss next week in
 London, you know that, especially in Italy, we sell more and more product only with
 maturity guarantee So what I would call ultra capitaliized with very good margins.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 I guess why is the new business value not growing?
 
 A - Frdric de Courtois
@@ -368,10 +336,7 @@ The new business value is not growing, because of the lower unit-linked business
 
 Bloomberg Transcript
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Yeah. Okay. On the last one -- on Gel --
 
 A - Frdric de Courtois
@@ -380,10 +345,7 @@ in the 2018 results on operating profit was zero, because it was fully accounted
 5 principle. So this is the way we account it. I hope I gave you the clear answer with the
 figure of the year-end result disclosure.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Yes. Maybe I'm misunderstanding it, but the -- if I look at the German life divisional results
 for 2018, I thought they still had the Generali Leben in it. If I'm not correct?
 
@@ -404,9 +366,7 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2019-05-16
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
+Q - James Shuck {BIO 3680082 <GO>}
 
 FINAL
 
@@ -423,10 +383,7 @@ which is final net contribution and take everything out from the operating resul
 contribution. That was already done in 2018, after the signing and so everything has been
 clear about.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Okay. That's great. Thank you very much.
 
 Operator
@@ -434,10 +391,7 @@ The next question is from Andrew Ritchie with Autonomous. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 I wonder if you can give us a bit more color behind the strong non-life result. The
 combined ratio was kind of flattish year-on-year, despite the fact, I think in Q1 '18, you had
 a very, very benign man-made kind of average nat cat. So just a bit more color that manmade experience, what is the experience on the combined ratio would be useful.
@@ -464,9 +418,7 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2019-05-16
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
+A - Cristiano Borean {BIO 15246531 <GO>}
 
 FINAL
 
@@ -484,10 +436,7 @@ dilution. Also thanks to what Frederic said on the technical side, we are workin
 profitable saving business underwriting with the new products, especially when we were -the one mentioning in Italy and the strong new production as well with the organization in
 Germany.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. Great. Thank you.
 
 Operator
@@ -496,10 +445,7 @@ Bloomberg Transcript
 
 The next question is from Niccolo Dalla Palma with Exane BNP Paribas. Please go ahead.
 
-Q - Niccolo Dalla Palma
-
-{BIO 16052945 <GO>}
-
+Q - Niccolo Dalla Palma {BIO 16052945 <GO>}
 Hi. Good afternoon. So a couple of questions on the business on the P&C side. So Q1 saw
 3% growth after, I think six years of negative reported growth, I appreciate the like-for-like
 in constant perimeter. But is it -- are you happy to say is the turning point and just making
@@ -556,10 +502,7 @@ product that we usually do and it will be smooth over the year as we are startin
 sell more protection products and less savings products and it had a negative impact
 from the NBV in Asia and one of the group.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Thank you, Frederic. To complete the second question on France. Is it structural lower
 surrender rate? I can confirm you, since last year, I mean, 2017 changes, I think it is a very
 structural change coming from the fact that the tax benefit after September 2017 has
@@ -602,10 +545,7 @@ this three percentage point impact in fact in our Solvency as we disclosed in ou
 funds supplementary information at the year-end '18. Hope, I gave you sufficient visibility
 on that treatment.
 
-Q - Niccolo Dalla Palma
-
-{BIO 16052945 <GO>}
-
+Q - Niccolo Dalla Palma {BIO 16052945 <GO>}
 Thank you very much.
 
 Bloomberg Transcript
@@ -613,10 +553,7 @@ Bloomberg Transcript
 Operator
 The next question is from Farooq Hanif with Credit Suisse. Please go ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, everybody. Thanks very much. Just very quick question. So you mentioned the strong
 growth in nonmotor in your mix which clearly is something that you've been wanting to do.
 How much of that is coming from Italy and what proportion of your business in Italy now is
@@ -649,19 +586,13 @@ accelerate during the year. But again, I'm probably just -- I take a small risk 
 
 FINAL
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. That's very helpful. Thank you.
 
 Operator
 The next question is from Michael Huttner with JP Morgan. Please go ahead.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Yes. Thank you very much. A few questions. The first one is, what is the amount of
 investments in alternatives? You mentioned, infrastructure and also in private funds.
 The second is if I take the EUR 616 million adjusted figure, what ROE is that equivalent to
@@ -672,10 +603,7 @@ update on the current sensitivities to the BTP and the risk-free? Thank you.
 
 Bloomberg Transcript
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Hi, Michael. So, speaking about specific amount on investment -- on seeing this strategy,
 we do not disclose this amount. I just confirm you that our plan has a 3-year time horizon
 to invest around EUR 20 billion among real assets between infrastructure, private debt,
@@ -717,10 +645,7 @@ which are all in the different of the government's bond and the other corporate 
 rates in the EIOPA portfolio. So it's quite complex. But basically message is four different
 things moving together, all in the opposite direction not allowing you to trigger a standalone sensitivity to seven. Hope these were clear.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 If I may just -- I think I understand and I love the faces of the little baby kind of mirroring.
 But the -- so if I understand the activation on change would benefit by 12 points, if it
 happens. And the fact that the activation didn't happen and that all these things move. Is it
@@ -748,10 +673,7 @@ the Kelvin, we are in the Fahrenheit just to explain it because, we changed the 
 This is the complexity of this system. Unfortunately, you cannot predict the movement, the
 joint movement of four different elements that contributes to the activation trigger.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Understand. That's very clear. Thank you so much.
 
 Operator
@@ -767,10 +689,7 @@ The next question is from Nick Holmes with Societe Generale. Please go ahead.
 
 FINAL
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hi, there. Thank you very much. A couple of questions. I have a little bit more simple than
 the last one. Firstly, coming back on unit-linked sales. you're seeing recovery so far in Q2
 on the back of market recovery. And then secondly on P&C, just wonder can you update
@@ -781,10 +700,7 @@ A - Frdric de Courtois
 So, Q2 is on the April, I would say and high-level comment slight recovery compared to
 Q1. The banks, we see no impact on our business in Italy.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. Very good. Thank you very much.
 
 A - Frdric de Courtois
@@ -796,10 +712,7 @@ Bloomberg Transcript
 
 The next question is from Giuseppe Mapelli with Equita. Please go ahead.
 
-Q - Giuseppe Mapelli
-
-{BIO 7269722 <GO>}
-
+Q - Giuseppe Mapelli {BIO 7269722 <GO>}
 Yes. Got to answer two questions. The first one is on your combined ratio. You stated that
 your underlying combined ratio improved by some 80 basis points year-on-year, can you
 give us an idea, and isolate what has been the impact on nat-cat in the first quarter?
@@ -816,9 +729,7 @@ the acquisition ratio, so let's say minus 0.4 on the combined. Then on the impac
 nat, so not including man-made in the Q1 '19 impact was 0.9 points, compared to 1.5 last
 year. So an improvement of 0.6, 0.7 points.
 
-Q - Giuseppe Mapelli
-
-{BIO 7269722 <GO>}
+Q - Giuseppe Mapelli {BIO 7269722 <GO>}
 
 Page 14 of 17
 
@@ -842,18 +753,13 @@ The good news is that the frequency are continuing to decrease, so I see a relat
 significant improvement of the profitability in Italy due to the, as I said the flat average
 premium on one hand and the decrease in frequencies.
 
-Q - Giuseppe Mapelli
-
-{BIO 7269722 <GO>}
-
+Q - Giuseppe Mapelli {BIO 7269722 <GO>}
 Thank you.
 
 Operator
 The next question is from Johnny Vo with Goldman Sachs. Please go ahead.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
+Q - Johnny Vo {BIO 5509843 <GO>}
 
 Bloomberg Transcript
 
@@ -898,20 +804,14 @@ time to see this increase going forward, thanks to the higher profitability of t
 products and the total transformation that we'll be managing through our liabilities, which
 are the product. The third question related to the current year, the reinvestment rate --
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Economic reinvestment rate.
 
 A - Frdric de Courtois
 Yeah, I mean by economic investment rate, I hope if we can agree on the definition, it is
 the IRR of the bond you are buying, so --
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 The market value, which is a little bit, what, not the book accounting ideally.
 
 Bloomberg Transcript
@@ -922,19 +822,13 @@ even in some cases due to the strategy of reinvestment in the so-called private 
 the real asset. We have a slightly higher rates versus first quarter '18 of reinvestment in
 non-life and basically stable in life. This is the actual situation in the group.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Got it. Thank you.
 
 Operator
 Ladies and gentlemen, there are no more questions registered at this time.
 
-A - Giulia Raffo
-
-{BIO 20301563 <GO>}
-
+A - Giulia Raffo {BIO 20301563 <GO>}
 Thank you very much. As usual, the Investor Relation team remains available for any
 question or follow-up you may have. I just wanted to say that we all look forward to seeing
 as many of you as possible at our exploring Generali event which is scheduled to take

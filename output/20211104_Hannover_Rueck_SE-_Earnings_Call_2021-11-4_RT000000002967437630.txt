@@ -28,10 +28,7 @@ Good morning, ladies and gentlemen. I welcome you to today's Hannover Re Interna
 Conference Call on the Q3 2021 Financial Results. For your information, this conference is
 being recorded. At this time, I would like to hand the call over to your host today, Mr.JeanJacques Henchoz, Chief Executive Officer. Please go ahead, sir.
 
-Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Well, good morning, everyone and welcome to our conference call presenting the results
 of Hannover Re for the first nine months of this year. As usual, I'll start with an overview
 before our CFO, Clemens Jungsthofel, goes over the financials in more detail. And then, I
@@ -114,10 +111,7 @@ the change in OCI was slightly positive, because negative valuation effect were 
 positive currency translation.
 On that note, I'd like to hand over to Clemens, who will explain the figures in more detail.
 
-Clemens Jungsthof el
-
-{BIO 22251357 <GO>}
-
+Clemens Jungsthof el {BIO 22251357 <GO>}
 Yes. Thank you, Jean-Jacques and good morning, everyone. I would dive straight into the
 reporting for our business groups and start with P&C. We now look back at all important
 renewal dates in 2021. And you can see gross and net premium in P&C reinsurance grew
@@ -279,9 +273,7 @@ and the fact that we have confirmed our full year profit guidance for 2021 highl
 Hannover Re's strong ability to manage and absorb volatility.
 On that note, I'd hand back to you Jean-Jacques for the comments on the outlook.
 
-Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
+Jean-Jacques Henchoz {BIO 17457677 <GO>}
 
 Bloomberg Transcript
 
@@ -361,9 +353,7 @@ Ladies and gentlemen, we will now begin our question-and-answer session. (Operat
 Instructions) And the first question is from Andrew Ritchie, Autonomous. Your line is now
 open. Please go ahead.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 
 Page 7 of 22
 
@@ -389,19 +379,13 @@ again unreleased further PADs. If there's something, it could be that much of a 
 between when you look at it again, because of the nature of the slow information flow
 from cedents. Thanks.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Thank you. So, first question, Sven on the NatCat budgeting, and Klaus will address the
 longevity release.
 
 Bloomberg Transcript
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Yes. With regard to the major loss budget, happy to give you the split man-made versus
 NatCat. So, we kept the relative percentage just close to the distribution we had in 2021.
 So, it's roughly 80-20 and to be precise, EUR250 million out of the EUR1.3 billion is manmade and EUR1.050 billion is the natural catastrophe. The growth is not a proxy for our
@@ -415,10 +399,7 @@ validating our current modeling assumptions and given the losses over the last t
 four years, of course, there are always some minor changes even there and some of that
 is flowing through into the major loss budget increase for 2022.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Okay. Now, I'm happy to take the question on the longevity side. The way how it works as
 we -- our counterparties are either pension funds or in some cases life and pension
 insurer. And especially, the pension funds, how do I say that tactfully, I'm not at the
@@ -465,37 +446,23 @@ And obviously, we can release all the provisions for adverse deviations for thes
 people because we definitely don't need it. Then you will see a big profit like you see this
 year. This should happen regularly every two or three years.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Yes. Andrew, if I may add, you shouldn't see that as a recurring result (inaudible)
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Sure.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 -- this year, so it's really, as Klaus mentioned, it's a bit of the cleanup to be honest. So,
 there will be an effect in every year going forward, but certainly not to that amount that
 we've seen this year.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 But just to make one point clear, this is not a new assumption setting for mortality in the
 future. This is cleaning up the portfolio for people who have died. And therefore, clearly,
 we don't need to pass any long term.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Page 9 of 22
 
 
@@ -506,9 +473,7 @@ Date: 2021-11-04
 
 Great. Thanks very much. Thank you.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 
 FINAL
 
@@ -518,10 +483,7 @@ Operator
 The next question is from Vinit Malhotra, Mediobanca. Your line is now open. Please go
 ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Hey, good morning. Thank you very much. So, a few questions please if I can. First is that,
 I'm noticing, I mean, you're talking about Solvency FTR growth, but I can't seem to
 recollect that, it was there, for example, similar period last year, might have been, but we
@@ -543,17 +505,11 @@ more remarkable, for instance, I mean, there would also be payouts to be made on
 EUR1 billion plus of losses. Would that be affecting cash flows in the future as well? So, I
 just wanted to understand the cash flow well? Thank you very much.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Thank you, Vinit. So (Technical Difficulty) and cash flow, Clemens will give you status and
 credit (Technical Difficulty) and large losses, Sven will comment on this.
 
-A - Clemens Jungsthof el
-
-{BIO 22251357 <GO>}
-
+A - Clemens Jungsthof el {BIO 22251357 <GO>}
 Yes, Vinit. Good morning. Let's start with the Solvency I. So, it's really as Jean-Jacques
 mentioned, the SCR increase, our own funds have largely not moved at all. So, if we
 would be looking at, let's say, as stable as the Solvency II ratio would mainly be on the
@@ -592,18 +548,13 @@ that we have seen very low payout ratios when it comes to our plane. I think tha
 probably the main driver, that the cash outflows for large losses has been lower than I
 would have expected. I hope that answers the questions, Vinit.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 Bloomberg Transcript
 
 Yeah. Thank you.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 The credit and surety combined ratio, what you are seeing here is the impact of positive
 runoff from old underwriting years. We are still reserving the underwriting years at higherthan-average combined ratios due to the uncertainty, that what will happen to the level of
 insolvencies once the various economic stimulus packages are phasing out, but the runoff
@@ -637,20 +588,14 @@ capacity for construction in the U.S., the reporting is slower compared to the u
 reporting periods. We are used to, but we are under the assumption now that we should
 have seen the full impact of winter storm Uri with this third quarter figures.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Thanks, Sven.
 
 Operator
 The next question is from William Hardcastle, UBS. Your line is now open. Please go
 ahead.
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 Hi, morning, everyone. Just a quick follow-up on that. So, essentially on the fronting
 business, is what you're saying the difference between the gross and net, obviously on
 the floods is bigger versus Ida. Is that because of the greater fronting on European
@@ -658,10 +603,7 @@ business? Is that what you're saying?
 
 Bloomberg Transcript
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 No. Not at all. That's not what I was saying or trying to say at least. When it comes to the
 German business, we hardly do any fronting. So, the difference on burnt between gross
 and net, is really our own retro sessions. So, the gross number you are seeing is also
@@ -670,28 +612,19 @@ the peak portfolio in our fronting activities. So, therefore out of the EUR527 m
 gross, approximately EUR180 million is fronted business, where -- while on burnt, it is
 almost zero.
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 Sure. It's quite the opposite of what I was saying. So, effectively your retro is kicking far
 stronger in your own account from the floods than has on Ida. Is there anything why that's
 happened? Is there a specific reason?
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Well, it's a question of market share. Given that our subsidiary for the German business,
 the ENS, from a market share perspective, the market leader in the German business. Our
 market share in Germany is just much, much higher on the business in general, but also
 the NatCat component within the business compared to where we are in the United
 States, where our market share on cat-related business is underweight.
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 Okay. Moving to (inaudible) I'll go to my actual questions now. What benefit did the
 reinstatement premium have in Q3 for P&C? And is this already factored in when you
 
@@ -712,10 +645,7 @@ And the second one is, you've touched on there on the 2022 guidance, no material
 COVID-19 impact in life and health. Just for clarity, it sounds like you're not assuming zero,
 but certainly less than something like EUR100 million. Is that a very fair assumption?
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Yes. On the reinstatement premium, we be -- our immediately booking those
 reinstatement premiums when we are booking the losses, so there is no spillover effect
 into 2022 from reinstatement premiums. I don't have any precise numbers for you on how
@@ -732,19 +662,13 @@ from those numbers.
 
 Bloomberg Transcript
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 And just on that pandemic retro cover, it sounds like you feel very confident that will pay
 out now, is that because Q3 losses for excess mortality came in ahead of your
 expectation, that it's effectively giving greater certainty that it will kick in. Is that how we
 should read that?
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Yes. That's absolutely correct. Currently, the ratio stands at about 113% according to our
 own calculation. From a formal point of view, there will be a calculation agent who will do
 the calculation, as soon as he gets the official statistics for the years 2020 and 2021. So
@@ -755,10 +679,7 @@ A - Unidentified Speaker
 Just for clarity, when the coverage is, it's a parametric trigger and the coverage is U.S.,
 Australia, and U.K. So, it's not South Africa.
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 Brilliant. Thank you.
 
 Operator
@@ -775,10 +696,7 @@ ahead.
 
 FINAL
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. Good morning. Couple of questions. The first one would be related to the walk from
 the '22 guidance versus 2021. If you could add maybe a bit of color on the underlying
 assumptions you have taken? The second quick question will be, regarding COVID
@@ -795,10 +713,7 @@ given what you achieved this year. Thank you.
 
 Bloomberg Transcript
 
-A - Clemens Jungsthof el
-
-{BIO 22251357 <GO>}
-
+A - Clemens Jungsthof el {BIO 22251357 <GO>}
 Yes. Thomas, let's probably start with the guidance for 2022. So, overall, I think without
 going too much into the details, the core question is, where does the increase in net
 income mainly stem from. It's clearly a mix of effect. In the bottom line, first of all, of
@@ -841,44 +756,29 @@ But I think overall, it's certainly on the Solvency II ratio, probably a double 
 double-digit number, or a high single-digit, a low double-digit number that is attributable
 to that effect. But again --
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. I think, Clemens, I was more thinking about the prospective COVID-19 mortality
 losses that you are expecting to incur in 2022, which may already be reflected into your
 Solvency II ratio at Q3.
 
-A - Clemens Jungsthof el
-
-{BIO 22251357 <GO>}
-
+A - Clemens Jungsthof el {BIO 22251357 <GO>}
 Yes. No, that is not -- I don't think that is included in the SCR and in the own funds yet. We
 will do an update of that planning and the effect I think in the fourth quarter, but it's not
 reflected. But it wouldn't be in a substantial amount as mentioned earlier anyways.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes.
 
 Bloomberg Transcript
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Sorry, Thomas.
 
 Operator
 The next question is from Iain Pearce, Credit Suisse. Your line is now open. Please go
 ahead.
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 Hi. Thanks for taking my questions. The first one is just on the growth numbers. When we
 look at the impact on the Solvency II ratio and the increase in the cat budget, the
 implication is probably that growth is going to be significantly ahead of 5% especially in
@@ -904,17 +804,11 @@ going to be continued favorable longevity development?
 
 FINAL
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Thank you. So, Klaus, maybe you can address the life and health point and the growth in
 P&C, Sven you can add there again.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Okay. Let's start with the growth on the life and health side. We are quite optimistic that
 we are growing, but most of that will be -- and this is where our focus is on the bottom
 line, it's not on the top line. Top line happened every now and then, and you have to
@@ -960,9 +854,7 @@ Date: 2021-11-04
 That is something what we hope to release sometime in the future as soon as we know
 that we have valid data for that from the clients.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 
 Bloomberg Transcript
 
@@ -970,10 +862,7 @@ FINAL
 
 On P&C growth, Sven, do you want to add?
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Yes. As I said earlier, the increase in the major loss budget is not a good proxy for our
 expected growth in net earned premium on the P&C side next year. From a process point
 of view, we are fixing the major loss budget in the autumn of the previous year, so like we
@@ -996,20 +885,14 @@ be a significant number of premium booked out in the fourth quarter in 2022 on t
 particular contract. And that's why the final number for P&C will be closer to the 10%
 rather than staying at the 14.5%, where we are after three quarters.
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 Perfect. Thank you.
 
 Operator
 The next question is from Darius Satkauskas of KBW. Your line is now open. Please go
 ahead.
 
-Q - Darius Satkauskas
-
-{BIO 19724328 <GO>}
-
+Q - Darius Satkauskas {BIO 19724328 <GO>}
 Good morning. Thank you for taking my questions. So, your Solvency II ratio have declined
 11 percentage points since the end of July. Could you tell us how many Solvency II points
 did the expected growth account for? And then, is this capturing the next 12 months? So,
@@ -1029,10 +912,7 @@ you give us a comparable figure if possible? Thank you.
 
 FINAL
 
-A - Clemens Jungsthof el
-
-{BIO 22251357 <GO>}
-
+A - Clemens Jungsthof el {BIO 22251357 <GO>}
 Yes. On Solvency II, it's actually the business growth that we've seen in 2021, that is
 reflected. So, we've updated our model for the current business growth, which has been
 significant so far and also it includes the full 12 months of 2022. So, that's really the usual
@@ -1046,10 +926,7 @@ another contributor was, of course, the asset risk due to our slightly changed a
 allocation and the increase in alternative investments as mentioned earlier. That was
 another contributor.
 
-Q - Darius Satkauskas
-
-{BIO 19724328 <GO>}
-
+Q - Darius Satkauskas {BIO 19724328 <GO>}
 Thank you.
 
 Bloomberg Transcript
@@ -1058,10 +935,7 @@ Operator
 And we have a follow-up question from Vinit Malhotra, Mediobanca. Your line is now open
 again.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Thank you for the opportunity. Sorry to ask again, but on the life side, I mean, I'm just
 curious about a few things please.
 One is that, if I just start with the operated -- the reported EBIT of EUR41 million, and add
@@ -1088,10 +962,7 @@ this burned between (inaudible) and the whole account, please? Thank you.
 
 FINAL
 
-A - Clemens Jungsthof el
-
-{BIO 22251357 <GO>}
-
+A - Clemens Jungsthof el {BIO 22251357 <GO>}
 Okay. The first question was the EBIT. I fully understand that you do a little bit of, let's say,
 recalculation, take a few things out and add others back in, but the COVID reporting of
 COVID claims is, let's say, at least very delayed, if not completely unreliable. So, making
@@ -1111,10 +982,7 @@ nobody can tell you anything about that.
 
 Bloomberg Transcript
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Vinit, to briefly add probably, it just brings to my mind, what is the driver, and which might
 explain what you have observed is in part what Klaus mentioned the profitability of the
 underlying business, but has probably been a bit more pronounced in the first and the
@@ -1125,10 +993,7 @@ And also, the contribution from inflation linker is mainly P&C. And then, we hav
 mentioned derivative in the U.K. results and that is -- that was a deviation in the third
 quarter of roughly EUR10 million. So overall, that should round up the picture probably.
 
-A - Clemens Jungsthof el
-
-{BIO 22251357 <GO>}
-
+A - Clemens Jungsthof el {BIO 22251357 <GO>}
 But definitely the COVID -- the reported COVID claims, not necessarily booked claims,
 but as COVID -- or the identified COVID claims have reporting lag of four to six weeks
 and even then they are not necessarily reliable, because an awful lot of people,
@@ -1138,10 +1003,7 @@ reported as a COVID claim in many countries. That doesn't happen. So I don't rea
 on this analysis. Definitely not on a quarterly basis. And then, could you just repeat your
 question on the retro whether we have included that already in 2021?
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 As the life pandemic cover was already running at a higher and I think at 2Q, you had said
 that you were not yet counting it in or factoring it because of Australian mortality claims.
 Page 19 of 22
@@ -1156,10 +1018,7 @@ Maybe I'm misunderstanding the whole thing. But maybe -- yes.
 
 FINAL
 
-A - Clemens Jungsthof el
-
-{BIO 22251357 <GO>}
-
+A - Clemens Jungsthof el {BIO 22251357 <GO>}
 The cover is for all three countries in total. So, it's a parametric cover and this stands at
 100 and close to 113 right now. If nobody dies for the rest of the year, this will fall below
 the 110 and we don't get anything. It's unlikely that we don't even see normal mortality. So,
@@ -1171,10 +1030,7 @@ who produce that.
 And the calculation agent will only start calculating the final recuperation for us here, as
 soon as he has all the official statistics from the U.S., from Australia, from the U.K.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 And the EUR32 million booked in the U.S. COVID 3Q, that looked a bit lower and that
 could be also this late supporting, Klaus, that you mentioned?
 
@@ -1183,38 +1039,23 @@ Sorry --
 
 Bloomberg Transcript
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 That in the third quarter, the U.S. was rather low mortality in booking of EUR32 million
 versus the deaths and the excess straight were nearly EUR100,000.
 
-A - Clemens Jungsthof el
-
-{BIO 22251357 <GO>}
-
+A - Clemens Jungsthof el {BIO 22251357 <GO>}
 Vinit, sorry, I think -- apologies, Vinit. Go ahead.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 I think the effect in Q3, the overall effect in Q3 was EUR140 million, EUR70 million to
 EUR80 million stemming out of South Africa. So that was the bulk. And I think, it's probably
 a bit higher number than you assume for the U.S. actually, but that was as expected, Klaus,
 wasn't it in life and health in the U.S.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Thank you very much. Thank you.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Yes. On burned, Vinit, you know that we have placed a little over EUR300 million of whole
 accounts coverage. So, you should think about burned in the terms of being a substantial
 partial loss against our whole account cover. I would not be comfortable to give you the
@@ -1238,10 +1079,7 @@ change. So therefore, I would feel uncomfortable to giving you very precise numb
 as I said, you should think about burned as a substantial partial loss against our whole
 account structure with the remainder going to K.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you very much. Appreciate it. Thank you.
 
 Operator
@@ -1250,10 +1088,7 @@ line is now open again.
 
 Bloomberg Transcript
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. Two quick questions. The first one would be on the life reside, this longevity PAD. I
 guess it was included in your EUR600 million EBIT contribution initially targeted for 2023
 and that you move to 2024, but just wanted to -- I guess it was included at the time of the
@@ -1262,16 +1097,10 @@ the second question would be on the P&C side or P&C NatCat. What's your overall
 assessment of the profitability of your book? Maybe you could share with us the year-todate combined ratio or the return on allocated capital you're getting on this book despite
 running ahead of budget? Thank you.
 
-A - Clemens Jungsthof el
-
-{BIO 22251357 <GO>}
-
+A - Clemens Jungsthof el {BIO 22251357 <GO>}
 Yes. Thomas, this is indeed taking into account the longevity and benefits also that -that's including the EUR600 million.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 And on the NatCat, so as Jean-Jacques explained in the Q&A, during the Investors Day, of
 the NatCat portfolio is modeling well against our profitability hurdle rate. So, from pricing
 point of view, the last two rounds of rate increases certainly helped to get that portfolio to
@@ -1292,10 +1121,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2021-11-04
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Thank you. Thank you.
 
 FINAL
@@ -1304,10 +1130,7 @@ Operator
 And there are no further questions at this point. So, I hand back to the speakers for
 closing remarks.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Well, thank you very much for joining, and thank you for the great questions. I think we
 covered the ground very well. You've seen a year impacted by large losses on both
 business segments that numbers demonstrating resilience, net income improved, the

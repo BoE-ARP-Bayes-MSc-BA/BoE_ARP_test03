@@ -30,10 +30,7 @@ being recorded.
 I would now like to turn the conference over to Matt Rohrmann, Head of Investor
 Relations. Please go ahead.
 
-Matt Rohrmann
-
-{BIO 15132648 <GO>}
-
+Matt Rohrmann {BIO 15132648 <GO>}
 Thank you, Kate. Good morning, ladies and gentlemen. I'm happy to welcome you to our
 conference call to discuss the financial results for AXIS Capital for the fourth quarter and
 year ended December 31, 2020.
@@ -67,9 +64,7 @@ presentation may contain non-GAAP financial measures. Reconciliations are includ
 earnings press release and financial supplement.
 With that, I'll turn the call over to Albert.
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -130,10 +125,7 @@ Pete?
 
 Bloomberg Transcript
 
-Peter Vogt
-
-{BIO 17059745 <GO>}
-
+Peter Vogt {BIO 17059745 <GO>}
 Thank you, Albert, and good morning, everyone.
 As Albert noted in his comments, this was a challenging quarter for the company, heavily
 influenced by COVID-19 and above average natural catastrophes. But it also included
@@ -285,9 +277,7 @@ driven by net unrealized gains, partially offset by net losses and common divide
 declared.
 That summarizes our fourth quarter results. With that, I'll turn the call back over to Albert.
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -433,18 +423,13 @@ question is from Brian Meredith from UBS. Go ahead.
 
 FINAL
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Thank you. A couple of questions here. First one, Albert, wonder if you could just dig in a
 little bit more in your cyber exposure. I know you're a leader in that market. I understand
 the ransomware situation. How do you protect yourself in that market, given kind of the
 escalating kind of loss trend we're seeing there?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -465,20 +450,14 @@ done a very good job of both identifying the issues early, making clear changes 
 approach and buying more protection. So, I think we're entering 2021 in a good place with
 regard to cyber.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Thanks. And then my next question on the insurance segment, a little more broadly
 here. Looking at underlying loss ratios and what's going on there, improved, call it about
 100 basis points, 150 basis points year-over-year, but you're getting rate on rate. And I
 assume loss trend is nowhere close to where rate is right now. I mean, as we look into
 2021, should we expect some pretty meaningful underlying loss ratio improvement?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Well, the first thing I want to answer is that my lawyer is listening. And the last thing he is
 going to let me do is give me some documents [ph] (Technical Difficulty). But that said,
 we've had two good years now of rate, 7% in '19, 14% in '20. And as you've heard, Pete's
@@ -504,35 +483,24 @@ until we have more clarity on those lines. So the answer is yes. We expect to co
 make good progress. But I wouldn't ask you to use a formulaic approach to 14% minus
 loss trends, gives you a big reduction in loss ratios.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Thank you.
 
 Operator
 Our next question is from Meyer Shields from KBW. Go ahead.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Thanks. Similar questions as Brian's, I guess. Albert, can you give us some insight in terms
 of the cyber loss ratio increase? Was that on 4Q losses? Was that an adjustment to the
 full-year loss ratio?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
 That's a fair point. Pete, you can jump in on that.
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Yeah. Thanks, Albert. Hey, Meyer. This is Pete. Yeah, we did look at our full year of losses
 for cyber and a loss ratio we pick reflective what we think the full year experience would
 be. I don't like to use words like catch-up or whatnot. But we took a view as to what we
@@ -540,24 +508,15 @@ were seeing throughout the full year. So, I think a little heavy in the quarter.
 we're comfortable with the full-year view we have on cyber and what we've put up. And
 we feel comfortable with all the actions the underwriters have taken going into 2021.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 For [ph] cyber, loss number, we still showed meaningful improvement in year-over-year
 loss ratios for our insurance division.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Right. I want to make sure that we shouldn't expect the cyber issue to offset loss ratio
 improvement in '21.
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Yeah. I think the -- what we saw in the quarter was about 2 points due to cyber and I
 wouldn't expect to see that type of impact going forward every quarter, Meyer.
 
@@ -569,34 +528,23 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2021-01-28
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. And then this is sort of related. But I was hoping you could update us on how we
 should think about loss trend for lines like cyber and based on your recent report for
 catastrophe losses?
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Could you repeat that? I lost the last half of your question.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 So, I just want to get a sense as to how we should think about loss trend for lines like
 cyber and you recently published a report on sort of long-term climate change impacts. I
 just want to get a sense in terms of recognizing the hesitation of the formulaic loss ratio
 model. But how should we think about trends for these one-off lines?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -617,19 +565,13 @@ percentage of our overall book to make sure that we generate sufficient profits 
 lines so that even if profitability and property is not where we want it to be, we don't let it
 drag down the entire company.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Perfect. Thanks so much.
 
 Operator
 Our next question is from Yaron Kinar from Goldman Sachs. Go ahead.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Hi. Good morning. Going back to the cyber question or set of questions. Can you maybe
 talk about what the size of the overall portfolio is? And then with the price actions and the
 Page 11 of 18
@@ -647,10 +589,7 @@ ended 2020? Or would you expect some changes there?
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So, there is a couple of things. First of all, as I mentioned earlier, we use a fair amount of
 reinsurance on this thing and we're increasing that as we're going forward. Secondly, we
 are going to be reducing the amount of units that we're going to be taking in terms of risk
@@ -661,9 +600,7 @@ let's be honest. We are going to have to see how that year develops and make sur
 we reserve appropriately for it.
 I don't know if you want to add anything to that.
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
+A - Peter Vogt {BIO 17059745 <GO>}
 
 Bloomberg Transcript
 
@@ -673,27 +610,18 @@ we have for 2020. And we know the underwriters are getting rate as we go into 20
 they are improving terms and conditions. So, we feel comfortable going forward, but it's
 obviously a lot of business to keep an eye on.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 And it's probably worth mentioning that because we use a lot, I mean, just to put thing in
 scale here. We are probably going to end up with what, somewhere between 125, maybe
 a little bit more of net earned premium in cyber next year. It's not a huge, huge line for us
 on a net basis. We write a lot of it, but we cede a lot of it too.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Got it. That's helpful. And then my second question. I apologize if you touched on it. I did
 have some technical difficulties. PMLs, I think they increased both year-over-year and
 sequentially. Can you maybe talk about what drove those increases?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yeah, I wouldn't make much of the 1/1 PMLs because, obviously, we renew our reinsurance
 in May. And the big increase there is the fact that we non-renewed a couple of ag and
 XOL treaties at 1/1. Obviously, we've got a good five months, at least in front of us to
@@ -710,10 +638,7 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2021-01-28
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 That makes sense. Thank you.
 
 Operator
@@ -722,10 +647,7 @@ FINAL
 
 Our next question is from Elyse Greenspan from Wells Fargo Securities. Go ahead.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi. Thanks. Good morning. My first question on, Albert, I think in your prepared remarks,
 you pointed to, when talking about reinsurance that you pointed to flat premiums. And
 you said you were down around 10% in property cat at 1/1. I just wanted to make sure I got
@@ -734,10 +656,7 @@ reinsurance statement unless we see material changes, I guess, during other seas
 the year, would you expect that book to be kind of closer to -- close to cloud [ph], I guess
 is what you're saying for 2021, the reinsurance book until?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yeah, my expectation is that we're going to write less gross exposures going forward.
 Obviously, price, we're going to be pushing for price everywhere that we can. But net-net,
 that portfolio should have less gross exposures as we go through the year. We still have
@@ -745,32 +664,20 @@ obviously the important renewal seasons of April, May, June and July.
 
 Bloomberg Transcript
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. Even the --
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 That was reinsurance, by the way. The 10% was a reference to my -- to the January 1
 renewals
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Yeah. I just -- like, I guess if conditions remain the same. But then on the casualty, so if you
 are -- if property was down 10 at 1/1, obviously, we'll see what happens the rest of the
 year. I guess you saw, like somewhat of growth on the casualty side to kind of net to kind
 of a flat overall level. Am I thinking about that, right?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 That is. And it's consistent with the strategy that we've been sharing with you, which is
 that we want to make -- there's a lot of good property written, business to be written, by
 the way. And I don't want anybody to broad-brush property, property-cat. But I think that
@@ -801,16 +708,10 @@ opportunity for us in professional lines and casualty and other non-cat exposed 
 so we think that we really have a great opportunity for us to accelerate that rebalancing,
 that the market did not really allow us to do over the last two years, three years.
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Okay. That's part of reserve [ph].
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 That's helpful. And then my second question was on reserves. So, I think you guys have
 pointed out that you released -- some of the lines that you've released reserve that in the
 fourth quarter. And I know during some other quarters of the year, you've taken action,
@@ -819,10 +720,7 @@ strengthened in the fourth quarter? Or was it not material enough to call out?
 
 Bloomberg Transcript
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Hey, Elyse. This is Pete. Yeah, I can handle that, Albert. Yeah, Elyse, probably the only line
 we strengthened in the fourth quarter that's worth calling out is we did strengthen the
 insurance professional lines. And so we did that in the quarter. And that kind of offset the
@@ -836,18 +734,12 @@ increases we didn't, pro lines and liability. And as I look at it, for the calen
 increased pro lines and liability in total with reinsurance and insurance just over $100
 million. And that really was focused on accident years '17, '18, '19
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. That's helpful. And then one more. You guys have obviously been running down
 right on the run-off of the Novae portfolio that's been impacting your margin. Is there any
 run-off that we still need to think about for 2021?
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 No, that's really gone. I mean, there is a little bit of UPR left, but it's less than $10 million.
 So that's insignificant in the grand scheme. So, we're glad that's behind us, Elyse.
 Page 14 of 18
@@ -858,10 +750,7 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2021-01-28
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. Thanks for the color.
 
 Operator
@@ -870,10 +759,7 @@ FINAL
 
 Our next question is from Josh Shanker from Bank of America. Go ahead.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Yeah. Thank you. I appreciate the time. This is a theoretical question, I guess. If you look at
 a year of writing business and building a portfolio, given on COVID and cats and hard to
 measure what the real ROE of the business is. But when you think about the portfolio
@@ -882,18 +768,12 @@ business is than the business you had one year ago for normalization for cats an
 and whatnot? Or maybe even over a three-year period, how much better design you can
 -- your portfolios were more efficient, if that's the right word?
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Albert, you're on mute.
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So the first thing that I would say is the biggest impact needs to be interest rates
 because, obviously, that has a factor on every line of business that you look at. And then
 the second issue is the loss trends that you have. There's no question that other than
@@ -906,17 +786,11 @@ absorb the reduction in interest rates and the loss trends. And end up at about 
 thought we were at the beginning of last year when we did not know about the reduction
 in interest rates or COVID.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Okay. So let's assume that's right and that the book today is a double-digit interest rate
 business. I guess, take COVID out of the equation, what do you think it was one year ago?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So at about this time one year -- and I don't know if it was you or somebody else, but I
 remember answering that. The business that we were writing at January 1 of last year was
 priced to deliver a double-digit ROE. And so we felt that. Now, since then, what
@@ -943,10 +817,7 @@ has improved. So all factors in the portfolio have improved on a price basis yea
 after we fully reflected the trends and the lower interest rates, as well as the pricing and
 the various actions that we've taken to improve the portfolio during the year.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 And let's take like individual lines like cyber or D&O or whatnot, how much of your return is
 based on portfolio construction versus being a better underwriter than the next guy? And
 so your D&O business will have several 100 basis points of better return than somebody
@@ -956,10 +827,7 @@ ROE goal? And how much is it creating the right portfolio?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So, I think it's a combination of both. I mean, at the end of the day, if we don't do a good
 risk selection, we don't get good line results and then it's the allocation of the distribution.
 And by the way, Josh, you've actually identified the way we do our planning, which is we
@@ -972,25 +840,16 @@ tell us that with regard to quota share, we generally get very generous ceding
 commissions compared to the other people in the industry, which leads us to believe that
 our reinsurers are very happy to take a quota share of our business.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 That certainly makes sense. I appreciate the answers, and good luck in the New Year.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, sir.
 
 Operator
 Our next question is from Ron Bobman from Capital Returns. Go ahead.
 
-Q - Ronald Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald Bobman {BIO 17308423 <GO>}
 Hi. Good morning. I hope everyone's well. I had a couple of reinsurance protection
 questions. The reinsurance asset, I guess, are recoverable against COVID losses. I'm
 wondering what sort of magnitude the COVID reinsurance recoverable asset is at year
@@ -1004,82 +863,50 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2021-01-28
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Ron, I don't have that number right at my fingertips. But we do have some reinsurance
 recoverable specifically on our per risk contracts on the insurance side. But we can follow
 up with you on the exact number.
 
 FINAL
 
-Q - Ronald Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald Bobman {BIO 17308423 <GO>}
 Okay. Thanks. And then unrelated, but also sort of reinsurance recoverable. There was
 some disburse -- the reinsurance asset and the program. On the cyber business, the
 quota share that was referenced a couple of times in the Q&A and in the presentation,
 are there any sort of like loss ratio caps or event limits that constrain that? Or is it -- should
 we just assume at 65% protection on all losses?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So some have caps, some don't. And then, of course, on top of that, we've got the XOL.
 
-Q - Ronald Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald Bobman {BIO 17308423 <GO>}
 Okay. Could you describe generally? I'm not looking for terms, but like, generally, what
 type of caps?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
 They're multiples of the premium. So that's basically loss ratio caps...
 
-Q - Ronald Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald Bobman {BIO 17308423 <GO>}
 Got you.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 ...which we feel are very comfortable and give us a lot of comfort in terms of getting
 protections across the curve.
 
-Q - Ronald Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald Bobman {BIO 17308423 <GO>}
 Okay, Thanks, Albert.
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Thanks, Ron.
 
-Q - Ronald Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald Bobman {BIO 17308423 <GO>}
 That's it.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Good.
 
 Page 17 of 18
@@ -1096,10 +923,7 @@ over to Albert Benchimol for closing remarks.
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, operator. And thank you to everybody for participating and for your time this
 morning. I think we've addressed all the big points.
 If you don't mind, I would like to take a minute to express my appreciation to our team

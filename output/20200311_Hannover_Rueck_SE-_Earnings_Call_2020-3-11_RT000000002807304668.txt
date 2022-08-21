@@ -32,10 +32,7 @@ conference is being recorded.
 At this time, I would like to hand the call over to your host today, Mr.Jean-Jacques
 Henchoz, Chief Executive Officer. Please go ahead, sir.
 
-Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Thank you very much, and good afternoon, ladies and gentlemen. I'd like to welcome you
 to our conference call, presenting our results for the financial year 2019. As usual, I'll start
 with a short summary before our CFO, Roland Vogel will go over the financials in detail.
@@ -133,10 +130,7 @@ profitability of the business model and our approach to managing the volatility 
 earnings by means of retrocession protection and conservative reserving.
 With that, I would give the floor to Roland Vogel for more detail on the financials.
 
-Roland Vogel
-
-{BIO 16342285 <GO>}
-
+Roland Vogel {BIO 16342285 <GO>}
 Yes. Good afternoon, and thank you, Jean-Jacques.
 Let's directly move on to the group's figures for the financial year 2019. As usual, I will
 come to the details in the segment reporting. But to sum it up. Hannover Rerecorded very
@@ -394,10 +388,7 @@ left. Again details to follow early April.
 I think this concludes my remarks, and I'd like to hand back to Jean-Jacques for the target
 matrix.
 
-Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Thank you very much Roland. So target matrics 2019 on Slide 27. Most matrix are met or
 exceeded. The target matrix generally confirms the successful strategy execution and a
 favorable year 2019. Almost all targets are achieved, but obviously in P&C the impact of
@@ -485,9 +476,7 @@ Dear ladies and gentlemen, we will now begin our question-and-answer session.
 (Operator Instructions) And the first question we received is from Kamran Hossain from
 RBC. Your line is now open, sir. Please go ahead.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 
 Bloomberg Transcript
 
@@ -501,10 +490,7 @@ some people. Maybe could you just update on kind of how far you've got with plan
 happy you are and kind of when we should expect some kind of further concrete news on
 that? Thank you.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 So I guess I should start with the rate environment. Not that we have not done any really
 simulations of how many basis points we will lose. The reinvestment yields have of course
 gone down on the one hand, because the -- especially the U.S. rates went down. I
@@ -518,15 +504,10 @@ we do against it? An immediate reaction, we cannot take. We pursue our programs 
 estate and private equity and others, but other than that, we -- the answer is the same as
 always, at least medium-term, we have to reflect that in our reinsurance rates.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Okay. That's great. Thanks Roland.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Page 10 of 23
 
 
@@ -549,10 +530,7 @@ business. But so far, we're on track on the numbers, but are lagging behind a bi
 resources and are focusing on that, I would say, in the second quarter of this year and
 beyond, an increase in recruitment across Asia.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Thanks very much.
 
 Operator
@@ -561,10 +539,7 @@ now open, sir. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hi. Its Vivek from SocGen. Good afternoon, everybody. Just a couple from my side. Firstly
 in the Group Annual Report, I see the 200-year aggregate annual loss utilization has gone
 up by nearly 20% year-on-year, while the 100-year and 250-year PMLs haven't moved up
@@ -575,26 +550,17 @@ expectation still around EUR450 million or perhaps that gets closer to EUR500 mi
 given your actions on mortality results and the financial solutions business is doing
 extremely well? Thank you.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Let's start with the second question on the life side. The EUR450 million is probably the
 current plan and expectation for 2020. Of course, we work and hope that we can improve
 that in the future, but the outlook right now is rather difficult. I don't expect any from the
 corona crisis, but it depends on how clients will look for financial solutions in the next
 couple of years in the aftermath of the corona crisis.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay.
 
-A - Michael Pickel
-
-{BIO 3139005 <GO>}
-
+A - Michael Pickel {BIO 3139005 <GO>}
 Page 11 of 23
 
 
@@ -614,40 +580,25 @@ there. And maybe as well in Germany for example as well Solvency II always drive
 demand for cat business. And having the same line with our clients you follow them as
 well in the upper layers and that could distort.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 So we'll follow up offline on this just to make sure that you have the proper response. We
 will check the exact driver for the change if it's okay with you.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Sure, sure, sure. If I can just come back to the life and health EBIT and financial solutions.
 Just trying to understand, what is the biggest risk that you see to the growth in financial
 solutions business?
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Do you mean in terms of insurance risk or that we don't get any business in the future?
 
 Bloomberg Transcript
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Yes. The growth kind of doesn't live up to the trajectory that it has shown overall for
 financial solutions.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 The biggest risk is definitely changes in regulation in the sense that the regulator like we
 have seen in the transition from Solvency I to Solvency II, we had an awful lot of Solvency I
 business, which was basically not helping the client any longer under Solvency II. And
@@ -662,10 +613,7 @@ corner with a 16-year transition period. And suddenly all our business we wanted
 disappeared. Because if the clients get it for free from the regulator, they're not
 interested to buy anything from the reinsurer.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay. That's very helpful. Thank you very much.
 
 Page 12 of 23
@@ -682,10 +630,7 @@ open, sir. Please go ahead.
 
 FINAL
 
-Q - Edward Morris
-
-{BIO 16274236 <GO>}
-
+Q - Edward Morris {BIO 16274236 <GO>}
 Thank you for taking my questions. The first one, just thank you for the update on the
 coronavirus. I wonder if you could just talk a little bit more around how you see potential
 exposures there. So you mentioned a figure of EUR200 million. Is that something that you
@@ -698,19 +643,14 @@ for you to change your assumptions there?
 And then second question just coming back on the reinvestment rate. Can you just clarify
 what is the reinvestment rate on the fixed income portfolio now? And yes, thank you.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 
 Bloomberg Transcript
 
 I think I'll invite Michael to comment on coronavirus and the P&C perspective, and Klaus on
 the life and health side first.
 
-A - Michael Pickel
-
-{BIO 3139005 <GO>}
-
+A - Michael Pickel {BIO 3139005 <GO>}
 Yes. I think coronavirus for us and how we brought together the sum was a bit a risk
 assessment of our current portfolio. This is not really the worst case, but it's a realistic
 case how we address things because for the moment, we do not have any loss advice.
@@ -746,10 +686,7 @@ health organizations worldwide what they should do and behave accordingly, but w
 assessed this as well in order to have a realistic scenario all over our offices. And this is
 the number Jean-Jacques has laid out.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Okay. Maybe on the coronavirus impact on the life side. If you just take our standard
 business and I have to use very simple numbers now in a telephone call. Let's assume we
 have a 10% margin. So if mortality increases by 10%, what does that mean? In the U.S., you
@@ -769,10 +706,7 @@ infectious areas, have probably good access to the health system. And therefore 
 likelihood is even lower than what I just tried to calculate. But this is really a back-of-theenvelope calculation. But I'm absolutely not nervous when it comes to the life and health
 result on Hannover Re.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Hey. If I then continue with the reinvestment rate. You know the number we usually publish
 is more than the yield to maturity. So what happens if I sell everything today and reinvest
 tomorrow? The number today if I look at my report is 1.2%. For the fixed income portfolio, I
@@ -787,10 +721,7 @@ And again I mentioned with the strong unrealized gains, I think if we touch the 
 we will at least in the first years also see realized gains. And in that regard, I do not expect
 that our expectation for the year really comes under pressure.
 
-Q - Edward Morris
-
-{BIO 16274236 <GO>}
-
+Q - Edward Morris {BIO 16274236 <GO>}
 Perfect. Great to hear answers. Thank you.
 Page 14 of 23
 
@@ -806,10 +737,7 @@ now open. Please go ahead.
 
 FINAL
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Yes. Hi. Thanks for taking my questions. The first one is just on the life new business value,
 which was very strong this year. Is it possible to just provide a little bit more detail of how
 that broke down between the different products? For example, was there a particularly
@@ -825,10 +753,7 @@ external data or external observation to take this decision? Thank you.
 
 Bloomberg Transcript
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Yes. Maybe I'll start with the life side. The more than EUR600 million of value of new
 business is dominated by longevity on one hand and financial solutions as well as some
 new business in China on the other. The reason is value of new business is relatively big if
@@ -844,22 +769,14 @@ Whereas in the other cases, longevity and financial solutions, it's usually bloc
 And this is the reason why this is a pretty volatile number. It depends on five, six, seven
 large deals we write in a year. Does this answer your question?
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Yes. That's very helpful. Okay. So I guess your conclusion then is that we should think of
 this as normal volatility rather than anything to...
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 We will do our best to stay always above the EUR220 million and do whatever we can get.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Page 15 of 23
 
 
@@ -872,10 +789,7 @@ Okay. Cool. But the EUR220 million is the best guidance. Thank you.
 
 FINAL
 
-A - Michael Pickel
-
-{BIO 3139005 <GO>}
-
+A - Michael Pickel {BIO 3139005 <GO>}
 Yes. Look just from the U.S. side in casualty business, I think it's important for me to say
 that we are a bit a strange animal in the U.S. casualty business because we hate larger
 limit. So we focus always on limits management when it comes to casualty line of
@@ -891,9 +805,7 @@ on the portfolio. And then finally as well we could not abstain from social infl
 this in hte U.S. and this brought us a bit more to the conservatism that we reserved it
 accordingly. Does this answer your question?
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
+Q - Sami Taipalus {BIO 17452234 <GO>}
 
 Bloomberg Transcript
 
@@ -901,29 +813,20 @@ Yes. Okay. So you're saying you're basically seeing adverse development on the 2
 2016 years but your response has been across all the prior years and in the current year
 as well. Is that correct?
 
-A - Michael Pickel
-
-{BIO 3139005 <GO>}
-
+A - Michael Pickel {BIO 3139005 <GO>}
 As well in the current year, we used a conservative loss fix, but this we did already in the
 past. So we always ultimate and then we are reducing them what we have not done, we
 have not reduced and for the past years and we had for the years '13 to '16, we brought
 precautionary measures.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Okay. Okay. Great. Thank you.
 
 Operator
 And the next question we received is from Andrew Ritchie from Autonomous. Your line is
 now open, sir. Please go ahead.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi, there. A couple of questions. First of all, a boring technical one. In your annual report on
 the balance sheet, there's a very dramatic growth of the unearned premium reserve. And
 I appreciate that's because you've grown new business, but it looks very high. Is there
@@ -950,10 +853,7 @@ requirement went up nearly 40%. And then linked to that, with the financial solu
 business, in the past you've told us is essentially riskless, but there is tail risk. What is the
 tail mortality risk on financial solutions business? Thanks.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 The last one is the easiest. We have usually mortality rate which can easily deal with a
 200%, 250%, in some cases even 400% of expected mortality. So as long as the
 coronavirus does not go up to that level, there is basically no tail risk. And all these
@@ -961,9 +861,7 @@ treaties have a clear purpose for the client, which is usually driven by capital
 own balance sheet. And as soon as he has no problem with that any longer, he wants to
 get the business back. Otherwise, he would just pay for something he doesn't need.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
@@ -971,22 +869,13 @@ And there's no requirement to mark any of that should any of the clients retenti
 consumed? Is there any requirement to reflect any of that in any additional reserve for the
 financial solutions business?
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 It's so far out of the money that there is no requirement to do that.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 So Andrew maybe I come to your technical question. We have not changed any
 accounting practices. We've looked at where it comes from and it comes from all over the
 world. So in this regard the assumption should be that really the strong growth maybe
@@ -1020,39 +909,27 @@ credit spreads widen, the ModCo derivative will be affected. It should be not as
 pronounced as we have seen 10 years ago. But I have to admit I don't have final numbers
 with me now. We will have to look into those portfolios on an individual basis.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 That's fine. And finally, is that unearned premium reserve more skewed by multi-year
 deals? I mean, for example, some of the structure of these, so I shouldn't expect it to
 earn through as quickly as normal, I mean just given the size of it or would you expect it to
 be earning out over the next 12 months?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Well, as I see here from the report in front of me, most of it is P&C. So in this regard, I
 would not assume that it is really driven by multi-year contracts. The earnings pattern
 should be comparable to the past years.
 
 Bloomberg Transcript
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. Okay. Thank you.
 
 Operator
 And the next question we received is from Thomas Fossard from HSBC. Your line is now
 open, sir. Please go ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. Good afternoon. Two questions. The first one would be for Roland. Maybe Roland,
 can you tell us what is your credit exposure to sectors like oil and gas, travel and leisure,
 and maybe also the automotive in your corporate bond portfolio?
@@ -1063,10 +940,7 @@ giant. It's already a pretty concentrated market. You've got 67% of your P&C bus
 coming from broker. What's your view? What's your take? And what's your level of
 dependency, and how you see things going forward? Thank you.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Page 18 of 23
 
 
@@ -1088,10 +962,7 @@ we have a highly diversified portfolio. It goes all over the world, all over ind
 that regard, we will be affected, but there is no concentration whatsoever in those
 industry which you have mentioned.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 So Thomas on the question on the merger, indeed, it's a little bit early to say. Of course,
 this is very much in the context of continued consolidation in the brokerage industry, so
 not totally astonishing. It'll take a little bit of time until this merger is completed. I think it
@@ -1112,20 +983,14 @@ who want to establish new brokerage companies. So I don't see this as a unique p
 There will also be new players in the market to make sure there is healthy competition in
 the brokerage industry.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay. Thanks. Does it change your view regarding the speed at which you would like to
 enrich your product offering? I think that initially you thought that you told us that this is
 something that you had in mind over the next maybe two to five years. Does this kind of
 move, strategic move in the brokerage industry, I mean, potentially accelerating for you
 the need to come up with this kind of new services you were talking about?
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 No, I don't think this news per se changes our intent I think we always had this
 incorporated in our strategy. I think we need to continue to be very relevant to our
 customers, but we continue to be very clear broker partner on the P&C side. So we also
@@ -1143,27 +1008,20 @@ Date: 2020-03-11
 We will have selective services and solutions to expand further, but I don't think this really
 triggers a change.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
+Q - Thomas Fossard {BIO 1941215 <GO>}
 
 FINAL
 
 Okay. Thank you.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Thank you.
 
 Operator
 (Operator Instructions) And the next question is from Vinit Malhotra from Mediobanca
 London. Your line is now open, sir. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 Bloomberg Transcript
 
@@ -1178,10 +1036,7 @@ regionals. And then as the problem trickles down in that segment from large corp
 that's always an open-ended question. So I'm just curious to know how you think about
 redundant reserves, the rebuild and any risks to that from casualty this year? Thank you.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Yes. Vinit, if I start and I might then ask Michael to step in when it comes to the casualty
 details. I think by the end of the third quarter, we were still of the opinion that 2019 might
 be a year when we could add. So there would have been a little bit of room to do it, then
@@ -1210,28 +1065,20 @@ transparent about it and that we have not changed our overall reserving policy a
 
 FINAL
 
-A - Michael Pickel
-
-{BIO 3139005 <GO>}
-
+A - Michael Pickel {BIO 3139005 <GO>}
 Yes. I think only just to add. In the Brazilian market, it's a developing situation. We are not a
 big reinsure in the Brazilian market. Our sweet spot mostly fits in the agro and property
 business. And so far we are sitting a bit on the side steps with a very limited exposure on
 casualty and specialty lines. That's my take for the moment.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Thank you.
 
 Operator
 The next question we received is from Paris Hadjiantonis from Exane BNP Paribas. Your
 line is now open, sir. Please go ahead.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 
 Bloomberg Transcript
 
@@ -1251,10 +1098,7 @@ more or less in line with expectations given that the difference from the 237% t
 shown in your last disclosure is more or less explained by the model changes from the
 dynamic volatility adjuster. Thank you.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 So if come back to the runoff result, you mentioned, I think it's a little bit we've seen that
 or it's a pattern. We've seen that before that the most recent years where we usually then
 add reserves is negative. That had been the case before. It's a little bit increased this time
@@ -1275,10 +1119,7 @@ some other really overall developments going down, but nothing extraordinary.
 
 FINAL
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 On the financial solutions side, yes, we expect to develop this business. But as I
 mentioned in one of my earlier answers, this will be very lumpy. We have a changing
 regulatory environment for our cedent. And therefore it's very difficult to have a steady
@@ -1286,21 +1127,13 @@ growth expectation here. But in general, yes, we would like and we expect this l
 grow.
 So anything else we have forgotten?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Capital generation.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 The capital generation question. Paris, could you rephrase your third question, please?
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 
 Bloomberg Transcript
 
@@ -1308,10 +1141,7 @@ Yes, yes, sure. So basically I was just wondering whether or not your operating 
 generation for 2019 on a Solvency II basis was more or less in line with your expectations
 at the Investor Day.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Yes. As mentioned, I think we gave you the forecast at the Investors Day. At the occasion
 of the Investors Day, we only referred to the potential additional hybrid. So the difference
 between the EUR750 million issue and the potential call in 2020. So we added EUR250
@@ -1320,19 +1150,13 @@ not certainly enough to already consider that at that point in time. If you real
 components which we had not taken into consideration at that point in time, we are
 exactly there.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Thanks for the answers.
 
 Operator
 As there are no further questions, I hand back to Mr.Henchoz for some closing remarks.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Well, thank you very much. I think we had a comprehensive overview. Thank you for all the
 questions. I hope the presentation and the discussion gave you the necessary background
 
@@ -1347,30 +1171,19 @@ Date: 2020-03-11
 on our numbers in 2019. We're going to have our AGM in May. And I don't know when the
 next meeting with our analysts will be probably just for the first quarter.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
+A - Roland Vogel {BIO 16342285 <GO>}
 
 FINAL
 
 Right.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 What's the date?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 It's on the 6th of May.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 6th of May will be the next opportunity to exchange. So thank you very much and have a
 great afternoon.
 

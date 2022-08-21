@@ -22,10 +22,7 @@ Presentation
 
 Bloomberg Transcript
 
-Andrew Horton
-
-{BIO 5697110 <GO>}
-
+Andrew Horton {BIO 5697110 <GO>}
 So welcome, everybody, to the 2011 results presentation.
 We'll move through it relatively quickly. We've got the disclaimer on the second page.
 Hopefully you've all got a copy of the presentations in your hands to make notes. And
@@ -131,10 +128,7 @@ was even better than he was there and didn't know he'd won it, which was fantast
 played [ph] him to go to collect it.
 I'm now going to hand over to Martin, who is going to go through the financials.
 
-Martin Bride
-
-{BIO 15458196 <GO>}
-
+Martin Bride {BIO 15458196 <GO>}
 Thank you very much, Andrew. Good morning, everyone.
 I'm actually going to start with a little bit of PR. My finance team is sat back there. And for
 those of you who want to, you can go and read Beazley's 2011 report and accounts, not
@@ -273,10 +267,7 @@ fully prepared for Solvency II and just waiting to see whether it is or is not a
 come into force as a regulatory regime.
 Neil.
 
-Neil Maidment
-
-{BIO 5232207 <GO>}
-
+Neil Maidment {BIO 5232207 <GO>}
 The challenge of following the excitement of Solvency II. But in the next part of the
 presentation I'm going to talk about our underwriting. Before I get to the numbers, I just
 want to highlight three things about our performance this year.
@@ -404,10 +395,7 @@ course of 2012.
 So on that note of a slightly more positive rating environment, I'm going to hand you back
 to Andrew.
 
-Andrew Horton
-
-{BIO 5697110 <GO>}
-
+Andrew Horton {BIO 5697110 <GO>}
 Anybody would think we'd planned the order of these slides. So I can start with the
 positive rate environment that Neil was talking about.
 So our plan for 2012 is to see positive rate movements in aggregate. Neil mentioned the
@@ -442,48 +430,31 @@ sport to sponsor. It's something the staff can get involved in, clients can get 
 And it's been our first major sponsorship for the Company.
 
 Questions And Answers
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 We are now open to any questions. And there is a microphone. Chris.
 
 Bloomberg Transcript
 
-Q - Chris Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris Hitchings {BIO 2034501 <GO>}
 Good morning. Chris Hitchings, KBW. Couple of things. You mentioned, Martin, in looking
 at the reserve releasing, that this is as good as it gets. Can you try and explain --?
 
-A - Martin Bride
-
-{BIO 15458196 <GO>}
-
+A - Martin Bride {BIO 15458196 <GO>}
 Is that a quote?
 
-Q - Chris Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris Hitchings {BIO 2034501 <GO>}
 I think you said as good as you can hope to get, in terms of 2011. Can you try and explain
 just is that a sort of veiled warning that going forward you're not likely to see anything like
 this, going forward?
 
-A - Martin Bride
-
-{BIO 15458196 <GO>}
-
+A - Martin Bride {BIO 15458196 <GO>}
 No. It's absolutely not that, Chris. So we reserve conservatively. That's always been our
 philosophy. What you've got this year is all six classes of business actually delivering very
 strong reserve releases. And just statistically, if you look at the past of that chart, it's been
 quite rare that you would have all six classes of business hitting the sweet spot in one
 year. So I think that's statistically unlikely. So that's all that that's supposed to mean.
 
-Q - Chris Hitchings
-
-{BIO 2034501 <GO>}
+Q - Chris Hitchings {BIO 2034501 <GO>}
 
 Page 9 of 17
 
@@ -501,66 +472,40 @@ drivers obviously is reserving to best estimates. If we took your loss reserves 
 7.4%, would that be the amount -- the contribution to that from reserving correctly? So the
 rest of -- would that be an accurate measure?
 
-A - Martin Bride
-
-{BIO 15458196 <GO>}
-
+A - Martin Bride {BIO 15458196 <GO>}
 Not quite, because that X axis on that 7.4% chart, our internal actuary is not an absolute
 stripped to the bone 50/50 on that X axis.
 
-Q - Chris Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris Hitchings {BIO 2034501 <GO>}
 Okay. So it would be higher than that?
 
-A - Martin Bride
-
-{BIO 15458196 <GO>}
-
+A - Martin Bride {BIO 15458196 <GO>}
 It would be higher than that.
 
-Q - Chris Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris Hitchings {BIO 2034501 <GO>}
 How much higher?
 
-A - Martin Bride
-
-{BIO 15458196 <GO>}
+A - Martin Bride {BIO 15458196 <GO>}
 
 Bloomberg Transcript
 
 Higher.
 
-Q - Chris Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris Hitchings {BIO 2034501 <GO>}
 All right. Fine. So --
 
-A - Martin Bride
-
-{BIO 15458196 <GO>}
-
+A - Martin Bride {BIO 15458196 <GO>}
 Quite higher. You can probably work -- you've got our total capital number. As I say, the
 big components that go into Solvency II capital are the reserve release, the discounting
 and the fact that you take profit on all future business that you're committed to. So you've
 got a year's worth of extra profit. You've got discounting. You've got reserve release. So
 you can probably work out roughly from that.
 
-Q - Chris Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris Hitchings {BIO 2034501 <GO>}
 Yes. Well I'm trying -- clearly, I'm trying to work out what one component is so that I can
 work out what the other is. That's all. Thank you.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
-
+Q - Ben Cohen {BIO 1541726 <GO>}
 Thanks. Ben Cohen at Collins Stewart. Could I ask a couple of things just in terms of claims
 frequency and on pricing? Could you maybe talk a little bit to slide 29, where you're
 highlighting how frequency has declined across a number of US classes? Could you
@@ -581,10 +526,7 @@ of that happening in the next 12 to 24 months? Thanks.
 
 FINAL
 
-A - Neil Maidment
-
-{BIO 5232207 <GO>}
-
+A - Neil Maidment {BIO 5232207 <GO>}
 So on the second point, I think it would vary by product line. So I mentioned that large risk
 lawyers and large risk architects and engineers professional indemnity, two of the product
 lines which Beazley is well known for, we've been underwriting since 1986. We have a very
@@ -616,10 +558,7 @@ our assumptions in the business plan. And once Adrian and his team highlighted t
 were experiencing increased frequency, they executed a more conservative underwriting
 strategy. So part of that is reflected in these charts as well.
 
-Q - Nick Johnson
-
-{BIO 1774629 <GO>}
-
+Q - Nick Johnson {BIO 1774629 <GO>}
 Just wondering if you could talk a bit about the sensitivities around the capital available
 and requirement, specifically what happens with different discount rates and any change
 in expected underwriting profitability, what sort of impact those two variables might have
@@ -634,9 +573,7 @@ Company N ame: Beaz ley PL C
 Company Ticker: BEZ L N Equity
 Date: 2012-02-07
 
-A - Martin Bride
-
-{BIO 15458196 <GO>}
+A - Martin Bride {BIO 15458196 <GO>}
 
 FINAL
 
@@ -656,9 +593,7 @@ that period of uncertainty. And that will lead us, as a management team and a Bo
 think about what capital we need to carry. But we've not formalized a thought process of
 margins in a Solvency II world at this stage.
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
+Q - Fahad Changazi {BIO 15216120 <GO>}
 
 Bloomberg Transcript
 
@@ -666,39 +601,24 @@ Good morning. Fahad Changazi from Nomura. Could you comment on Hardy? Do you
 mean that if the financing is in place there would not be a rights issue -- potential rights
 issue for that acquisition?
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Yes. If we have enough financial resources and with the current spare capital plus a letter
 of credit facility, which can be used as funds at Lloyd's.
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
-
+Q - Fahad Changazi {BIO 15216120 <GO>}
 Okay. So you will go with higher gearing. And does that mean that other business
 opportunities will not be curtailed either?
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 What other -- well, it depends whether they come along. It's always a challenge. We will
 consider other business opportunities and we'll have to determine how to finance those
 at that time.
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
-
+Q - Fahad Changazi {BIO 15216120 <GO>}
 I'm just talking about organic growth, because you mentioned you had 20% more capital
 but you're running more capital because you see business opportunities.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Page 12 of 17
 
 
@@ -711,77 +631,48 @@ Yes. Sorry, I'm missing the point. So if we acquired Hardy, we'd end up using so
 surplus capital. We wouldn't be using every dollar of capital. If we found other
 opportunities, we'd have to find other ways to finance them.
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
+Q - Fahad Changazi {BIO 15216120 <GO>}
 
 FINAL
 
 Okay. And the final --
 
-A - Martin Bride
-
-{BIO 15458196 <GO>}
-
+A - Martin Bride {BIO 15458196 <GO>}
 Sorry. That surplus also is a self-enforced discipline. We don't have to carry that surplus
 capital all of the time. So you should expect, if we got a significant growth opportunity,
 potentially that we would operate the Company with a lower margin in the short term.
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
-
+Q - Fahad Changazi {BIO 15216120 <GO>}
 Okay. And in terms of the rationale for Hardy, has anything changed from your previous
 attempt?
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 No. The rationale stays the same, that it's a good business, good underwriting, good track
 record, a portfolio that we can easily understand.
 
 Bloomberg Transcript
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
-
+Q - Fahad Changazi {BIO 15216120 <GO>}
 Okay. And the final thing. So did you mention the Chile earthquake reserve release, what
 it was?
 
-A - Martin Bride
-
-{BIO 15458196 <GO>}
-
+A - Martin Bride {BIO 15458196 <GO>}
 It's of the order of $20m, I believe, in the reinsurance account.
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
-
+Q - Fahad Changazi {BIO 15216120 <GO>}
 Okay. Thank you.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Any other questions? Ben.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
-
+Q - Ben Cohen {BIO 1541726 <GO>}
 Just maybe a point -- a question of clarification, in terms of your plans for the Reinsurance
 business. And I guess also in terms of what you did actually do in the January renewals.
 Can you maybe just split out as to how much you grew the book in terms of underlying
 exposure. And then how much growth you've got and how much more growth you think
 you will achieve that is driven by pricing rather than exposure?
 
-A - Neil Maidment
-
-{BIO 5232207 <GO>}
-
+A - Neil Maidment {BIO 5232207 <GO>}
 Page 13 of 17
 
 
@@ -798,25 +689,16 @@ budget. So we get the maximum bang for our buck. And we'll expect to get paid mo
 the catastrophe risk that we take on. So most of it, most of the growth in terms of
 premium volume, will come from rate.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
-
+Q - Ben Cohen {BIO 1541726 <GO>}
 Sorry. And in the January renewal, did that then mean a shift in the mix of business, I don't
 know, towards international from --?
 
-A - Neil Maidment
-
-{BIO 5232207 <GO>}
-
+A - Neil Maidment {BIO 5232207 <GO>}
 Not materially. We had a good distribution. I think we have a well-balanced portfolio. I think
 the reinsurance split is about 50/50 US/non-US anyway. So I think the team are happy with
 that split.
 
-Q - Joy Ferneyhough
-
-{BIO 18267149 <GO>}
-
+Q - Joy Ferneyhough {BIO 18267149 <GO>}
 Hi. Sorry. Joy Ferneyhough from Espirito Santo. Just following on from that, with respect to
 your own reinsurance purchase in April/May, given what you've experienced at renewals,
 is there likely to be any significant change in the pricing or the structure of that
@@ -824,10 +706,7 @@ reinsurance?
 
 Bloomberg Transcript
 
-A - Neil Maidment
-
-{BIO 5232207 <GO>}
-
+A - Neil Maidment {BIO 5232207 <GO>}
 We're not planning to change the structure. So our expectations are to renew a similar
 program. As I've just mentioned in response to Ben, since we're only at a similar risk
 budget, we're planning on a similar reinsurance structure to provide that budget and to
@@ -835,30 +714,19 @@ take that budget. In terms of pricing, I think it's too early. We -- the retroce
 think is probably hardening since last year. So we may experience some increase in
 pricing. But I think it's too early to say.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Chris.
 
-Q - Chris Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris Hitchings {BIO 2034501 <GO>}
 Couple of things. One of your competitors announced this morning that its January
 premium comes up 19%. Do you have any figures for January premium income?
 
-A - Neil Maidment
-
-{BIO 5232207 <GO>}
-
+A - Neil Maidment {BIO 5232207 <GO>}
 Only the one that I mentioned, which is the reinsurance Division, that over -- across the
 entire portfolio achieved plus 10%. So that's US and non-US risk mixed together (inaudible)
 premium.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
+A - Andrew Horton {BIO 5697110 <GO>}
 
 Page 14 of 17
 
@@ -874,19 +742,13 @@ the risk of the business is more spread.
 
 FINAL
 
-Q - Chris Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris Hitchings {BIO 2034501 <GO>}
 I'm well aware of that. But I just wondered if you have any number which -- secondly, when
 you cut back the admitted property book in the year, are there any -- that was presumably
 because it wasn't working and wasn't producing the results you wanted. Where can we
 see that damage in the P&L? Where is it?
 
-A - Neil Maidment
-
-{BIO 5232207 <GO>}
-
+A - Neil Maidment {BIO 5232207 <GO>}
 The reason for it was that when we considered it strategically, in other words how could
 we grow it, how could we build it, we -- our view was that that marketplace is very well
 provided for with very large competitors. And the chance for us to grow a business of
@@ -899,41 +761,26 @@ off. So they're integral in the property Group numbers in 2011.
 
 Bloomberg Transcript
 
-Q - Chris Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris Hitchings {BIO 2034501 <GO>}
 Finally, two rather more detailed things. That same competitor also gave an estimate for
 its Costa Concordia loss. Do you have an estimate too?
 
-A - Neil Maidment
-
-{BIO 5232207 <GO>}
-
+A - Neil Maidment {BIO 5232207 <GO>}
 We didn't have any exposure for that. But for the moment Clive has, I think, taken a
 cautious view. Well Clive is here; you can speak with him. No. Taken a cautious view about
 pricing generally for cruise ships.
 
-Q - Chris Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris Hitchings {BIO 2034501 <GO>}
 And finally, there have been some comments by US specialists about signs of trauma in
 the E&S market and increasing volumes. Are you seeing any of that?
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 I think we're typically seeing more pricing rather than significant volumes of new business,
 although we are aware of one large competitor who appears to be de-risking somewhat.
 So I think we're expecting to see continued opportunities during 2012 in the property E&S
 space.
 
-Q - Chris Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris Hitchings {BIO 2034501 <GO>}
 Thank you.
 
 Page 15 of 17
@@ -944,9 +791,7 @@ Company N ame: Beaz ley PL C
 Company Ticker: BEZ L N Equity
 Date: 2012-02-07
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
+Q - Fahad Changazi {BIO 15216120 <GO>}
 
 FINAL
 
@@ -956,44 +801,26 @@ time for Hardy equated to a certain multiple and you said the rationale hasn't c
 the acquisition. So does that mean that that's the upper limit for the multiple, or because
 the outlook is better?
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Haven't got that far in the process. So I haven't got a view on that.
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
-
+Q - Fahad Changazi {BIO 15216120 <GO>}
 Can we leave it at that multiple then? Thank you.
 
-Q - Eamonn Flanagan
-
-{BIO 14018002 <GO>}
-
+Q - Eamonn Flanagan {BIO 14018002 <GO>}
 I just want to question you on the cost of this investment return that you delivered. It's still
 around about $10 million for the loss of $6 million on the capital growth assets. At some
 point, are you going to renegotiate that charging structure? It does seem a bit high.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Well do you want me to start? Shall I start and (multiple speakers).
 
 Bloomberg Transcript
 
-Q - Eamonn Flanagan
-
-{BIO 14018002 <GO>}
-
+Q - Eamonn Flanagan {BIO 14018002 <GO>}
 Presumably it's based on the total assets (multiple speakers), is it?
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 The logic of it, if we go back to 2008, was paying for more expertise on our investments. I
 suppose back in 2008 we didn't realize interest rates were going to come down to 1%.
 Remember, they don't -- they manage the whole portfolio rather than just the alternative
@@ -1006,16 +833,10 @@ having their expertise, in my view, than relying on management to decide the ext
 fund managers to put it towards. Our view is the value we get is they choose managers
 better than we would.
 
-Q - Eamonn Flanagan
-
-{BIO 14018002 <GO>}
-
+Q - Eamonn Flanagan {BIO 14018002 <GO>}
 And it's a fixed percentage of the total assets?
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Page 16 of 17
 
 
@@ -1027,41 +848,25 @@ Date: 2012-02-07
 No. It's more of a fixed cost. It's more of a cost plus basis, rather than a percentage of the
 assets.
 
-Q - Eamonn Flanagan
-
-{BIO 14018002 <GO>}
+Q - Eamonn Flanagan {BIO 14018002 <GO>}
 
 FINAL
 
 So if it does go to 4% yield (multiple speakers).
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Yes. The cost won't move up with it. The cost will stay there.
 
-Q - Eamonn Flanagan
-
-{BIO 14018002 <GO>}
-
+Q - Eamonn Flanagan {BIO 14018002 <GO>}
 Yes. So the cost to you will be roughly $10 million still to the rest of your bottom line?
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Yes.
 
-Q - Eamonn Flanagan
-
-{BIO 14018002 <GO>}
-
+Q - Eamonn Flanagan {BIO 14018002 <GO>}
 Okay.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
+A - Andrew Horton {BIO 5697110 <GO>}
 
 Bloomberg Transcript
 

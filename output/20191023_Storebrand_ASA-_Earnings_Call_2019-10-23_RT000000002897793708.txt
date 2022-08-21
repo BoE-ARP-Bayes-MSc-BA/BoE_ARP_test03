@@ -29,10 +29,7 @@ will have the opportunity to ask questions at the end of the presentation.
 (Operator Instructions)
 I will now hand you over to your host Kjetil Krokje to begin today's conference. Thank you.
 
-Kjetil R. Krokje
-
-{BIO 20060140 <GO>}
-
+Kjetil R. Krokje {BIO 20060140 <GO>}
 Good afternoon, ladies and gentlemen. Welcome to Storebrand's third quarter 2019
 conference call. My name is Kjetil Krokje and I'm the Head of Finance and Strategy at
 Storebrand.
@@ -56,10 +53,7 @@ presentation on Slide 2.
 
 FINAL
 
-Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+Odd Arild Grefstad {BIO 5483351 <GO>}
 Thank you, Kjetil. Storebrand presented solid group result of NOK 700 million in the third
 quarter and NOK 2 billion year-to-date. For the quarter, we have booked performance
 related costs of NOK 49 million without the corresponding NOK 99 million in
@@ -145,10 +139,7 @@ and NOK 100 billion invested in fossil free portfolios and that is actually 13% 
 asset under management.
 And with that I give the word to Lars.
 
-Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+Lars Aasulv Loddesol {BIO 3969188 <GO>}
 Thank you Arild. Let move to page 7 key ﬁgures.
 
 Page 3 of 13
@@ -272,10 +263,7 @@ Operator
 (Operator Instructions) And the ﬁrst question comes from the line of Peter Elliot from
 Kepler Cheuvreux. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you very much. I have three questions, please. The ﬁrst one was you mentioned the
 EIOPA consultation at the start of the call. And I guess one of the key points of that was
 then consulting on moving the last liquid point. I'm just wondering if you can give any
@@ -294,10 +282,7 @@ Final question was on the consolidation ratio. SPP I mean, you're at 107% still.
 just sort of share what that means in terms of fees that you can take if you're still there at
 year end and what the possible upside or downside risk is? Thank you very much.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Okay, Peter. that can give you -- give us the shock. On the area of consolidation paper, last
 liquid point was there have been many diﬀerent proposals there and we are trying to
 calculate the diﬀerent proposals and the impact and it's too early to give you an impact
@@ -330,19 +315,14 @@ on that is, we have a roughly 40 basis point higher expected return on the asset
 liabilities in that portfolio, meaning that you will slowly build up towards little bit more
 than 108% level. That means at that level you can take full indexation.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thanks. Thanks very much.
 
 Operator
 The next question comes from the line of the Matti Ahokas from Danske Bank. Please go
 ahead.
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
+Q - Matti Ahokas {BIO 2037723 <GO>}
 
 Bloomberg Transcript
 
@@ -354,10 +334,7 @@ The second question is regarding as Lars you mentioned that or was it Odd Arild 
 don't expect to reach the 180% solvency margin at the end of the year. Is this based on
 the current interest rates? Or is this what do you base the view on? Thanks.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Okay. Let me start with the reinsurance. On one hand, we can do more. And there is a
 constant evaluation of the tools in the toolbox and how much we want to use at any point
 in time. What I actually said was that it's an optimization. We reduced the coverage in
@@ -365,10 +342,7 @@ Norway, and we've built it up in Sweden. So this is the way to get more bang for
 by making these ships. And there is a possibility to do more, and we always have to trade
 it towards the cost.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 Yeah. I can take the 180 solvency movement. I think it's fair to say that, ﬁrst of all, you have
 to take out as Lars has said, the subordinate debt, that's 3% and also any increased
 interest rate as we have seen so far this quarter have washed out again, the transitional
@@ -387,9 +361,7 @@ Date: 2019-10-23
 market. And there is a need to augment on normal operation of the solvency capital in the
 fourth quarter. We guide that we are below the NOK 180 million at the end of this year.
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
+Q - Matti Ahokas {BIO 2037723 <GO>}
 
 FINAL
 
@@ -399,9 +371,7 @@ Operator
 The next question comes from the line of Blair Stewart from Bank of America. Please go
 ahead.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
+Q - Blair Stewart {BIO 4191309 <GO>}
 
 Bloomberg Transcript
 
@@ -420,10 +390,7 @@ basis points, which is a historically high level. I just wondered why that was. 
 been changing your actual assets against the reference portfolio? Or what's actually
 driving that increase in the volatility adjuster? Thank you.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Thank you, Blair. I can start on the interest rate question. Today, we have negative interest
 rates in our base calculation but with -- as according to the standard model, we don't
 stress negative interest rates. I guess the general comment here is that all increases in
@@ -448,18 +415,12 @@ Company Name: Storebrand ASA
 Company Ticker: STB NO Equity
 Date: 2019-10-23
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Sorry, Odd Arild, what's the timing on that review What was the timing on that review?
 
 FINAL
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 We wait now for the Minister of Finance to give out a hearing process in the market. And
 we just have to see what that moves out and when it's actually going to be -- could be
 ineﬀective with the uncertainly actually.
@@ -469,10 +430,7 @@ comment that it's historically high now. So there's an implicit. I guess there's
 downside than upside from this level compared to many other countries. But it's
 approaching normals --
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 So it's nothing that you've done, it's just what comes out from EIOPA. Okay, very clear
 Thank you very much.
 
@@ -483,10 +441,7 @@ Bloomberg Transcript
 The next question comes from the line of the Jackie (inaudible) from JP Morgan. from JP
 Morgan. Please go ahead.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 This is Ashik. I'm just using Jackey's [ph] line. I just have a couple of questions. First of all,
 with respect to the 180%, I mean, if you just remind us, is this 180% that you had guided
 earlier -- I remember that it's including transitionals, right? And I mean, it looks like you
@@ -503,10 +458,7 @@ And last question would be about P&C results. P&C results were a bit weak in thi
 I mean group life clearly improved quite a lot, but P&C was a bit weak. What was the
 reason behind it and any thoughts on outlook for that?
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Page 9 of 13
 
 
@@ -529,15 +481,10 @@ will use a combination of dividends and share buybacks. And that, of course, mak
 more attractive for us to use these tools also during the year. And most likely, the board
 will look at this at the end of the year, not at -- in the middle of the year.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 
 Bloomberg Transcript
 
@@ -553,20 +500,14 @@ none that changes our -- in any signiﬁcant way, changes our view on the future
 said that the reserves were weak, but I don't think the reserves are weak. I think we just
 had weaker results in certain P&C lines.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay, that's helpful. Thank you.
 
 Operator
 The next question comes from the line of Peter Eliot from Kepler Cheuvreux. Please go
 ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thanks for allowing, two follow-ups. Maybe just a couple on the numbers. I mean,
 obviously, a great set of results. If I was being picky, maybe there was only one small item
 that I thought was a little bit negative which was the SPP risk result. I'm just wondering, if
@@ -588,20 +529,14 @@ in terms of the growth we see in this quarter is that something we should expect
 continue in future quarters? Yes, if you could comment on that, that would be great.
 Thanks very much.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Okay. On the SPP risk result, it's longevity that is weak in the quarter. However, unlike the
 Norwegian longevity risk, the Swedish longevity can be repriced on an annual basis. And
 we are constantly doing adjustments to make that recently proﬁtable on an ongoing
 basis. So this is a quarterly weak results, but this is not a reserve risk or anything else. It's
 just a repricing issue.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 Yes. When it comes to the P&C market that both -- Storebrand has a very strong brand
 name in the market when it comes to P&C. We also due to our business have huge capital
 eﬀects, positive capital eﬀects compared to other companies when it comes to insurance
@@ -609,9 +544,7 @@ business. So we have appetite for growing our insurance business. We are very ha
 see the growth now coming through, and we'll work, of course, to make sure that the
 growth in insurance comes through as we have guided on.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter Eliot {BIO 7556214 <GO>}
 
 Bloomberg Transcript
 
@@ -620,10 +553,7 @@ Okay. Thanks a lot.
 Operator
 Next question comes from the line of Blair Stewart from Bank of America. Please go head.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Just two follow-ups. Just on decisions with regards to capital return, would that be right in
 thinking that you would want to wait for clarity from the Solvency II review before you
 would make any decisions on capital return? And we talked -- you talked about maybe the
@@ -635,10 +565,7 @@ Day. I think you indicated at that time that the release of that capital would b
 back-end loaded within the 21 to 27 timeframe. I just wonder if your views on that have
 changed at all. Thank you.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 First of all, when it comes to our decision around 180%, I think, of course, we'll wait. The
 Board needs to make views on their knowledge, their insights, the situation and forwardlooking view of the company, when they should -- and dividends. They have to do that
 Page 11 of 13
@@ -657,67 +584,44 @@ both for being overcapitalized and setting limits for our capital situation. And
 we have, put forward this level of 180%, and we are very committed to, of course, fulﬁll
 that in the market.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Are you saying Odd Arild, that, that's somewhat independent of what the Solvency II
 review then brings out? I would have thought that the solvency review would be integral
 of this.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 I think it's fair to say that we and the Board needs to take into account all the knowledge
 we have when we are making decisions around dividends. I don't have that kind of
 knowledge now, but if I do get new knowledge about, this is a kind of situation, of course,
 we need to take that into account.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Yes. I guess the question is if there's too much uncertainty as to what the impact from the
 Solvency II review is going to be then, I guess, that would be a problem.
 
 Bloomberg Transcript
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 That might be a problem. But I think also, it's fair to say that Storebrand's business will be
 all the same. It's just the way you measure it into Solvency II, that is done diﬀerent. And we
 have to look at that situation, look at our business, what is our re-capital situation as we
 view it and make new decisions based on that together with the Board.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 yes. I understand. .And the NOK10 billion?
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 Yes, hopefully, there are other NOK10 billion. I think it's still the same message there that
 is back-end loaded, the released assets.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Okay great. thank you.
 
 Operator
 We have no further questions in the queue. (Operator Instructions). There are no further
 questions. So I will hand you back to your host to conclude today's conference.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Page 12 of 13
 
 

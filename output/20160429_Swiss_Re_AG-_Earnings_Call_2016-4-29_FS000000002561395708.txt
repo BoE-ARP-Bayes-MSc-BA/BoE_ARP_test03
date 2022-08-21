@@ -36,10 +36,7 @@ recorded.
 At this time, I would like to turn the conference over to David Cole, Group CFO. Please go
 ahead, sir.
 
-David Cole
-
-{BIO 7251632 <GO>}
-
+David Cole {BIO 7251632 <GO>}
 So, thank you very much. Good morning or good afternoon, everyone and welcome to
 our first quarter results conference call. I'm here today with Matt Weber, our Group Chief
 Underwriting Officer; Patrick Raaflaub, our Group Chief Risk Officer; and Philippe Brahin,
@@ -81,10 +78,7 @@ which explains that our Solvency II comparable ratio is estimated to be 312%
 So with that I'll hand over to our Head of Investor Relations; Philippe Brahin, who'll
 introduce the Q&A session.
 
-Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+Philippe Brahin {BIO 19081619 <GO>}
 Many thanks, David, and good day also to all of you from my side. Just before we turn to
 the Q&A, I would like to remind you to please restrict yourself to two questions each and
 re-register for follow-up questions. So with that operator, could we please have the first
@@ -94,10 +88,7 @@ Q&A
 Operator
 The first question comes from Daniel Bischof, Baader-Helvea. Please go ahead.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Yes. Good afternoon, two questions please. Firstly, could you provide some more details
 on the reserve strengthening on the liability motor side, for instance on motor I would be
 interested to know which accident years these movements relate to. And on that, I mean
@@ -121,16 +112,10 @@ which we see does not provide any top line guidance, but maybe you could, just p
 some comments on the pipeline or the demand side in general, both in P&C and Life &
 Health specifically and further large transactions.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Okay. Thanks, Daniel. I'll let Matt take the first question.
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
-
+A - Matthias Weber {BIO 16674983 <GO>}
 Okay. So we have indeed a little bit of prior year loss development on the motor side
 especially coming from Germany where we make an adjustment to our longevity pattern
 that is relevant to assess the amount of the research. We also had some prior year
@@ -143,20 +128,14 @@ looks rather full.
 
 Bloomberg Transcript
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 All right. Thanks, Matt. You actually picked up both questions. So, thanks. And, let's go to
 the next question.
 
 Operator
 The next question is from Xinmei Wang, Morgan Stanley. Please go ahead.
 
-Q - Xinmei Wang
-
-{BIO 17860767 <GO>}
-
+Q - Xinmei Wang {BIO 17860767 <GO>}
 Hi, hi. Thanks for taking my questions. So firstly I wanted to ask on capital. In the past, the
 message has been that a 200% SST related to $3 billion to $5 billion above S&P AA. Has
 that binding constraint changed under the new SST methodology and how should we view
@@ -167,10 +146,7 @@ year with some of the budget going into next year with late reporting? And I am 
 wondering if you could give some color on why you decided to make the change this year
 as opposed to previous years on that? Thank you.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Okay. Thanks for both questions. I will pick up the first and then hand over to Matt for the
 second. So, first, the overall economic regime, SST hasn't really changed a whole lot. We
 Page 3 of 20
@@ -206,10 +182,7 @@ So, the broad message on capital management is no change from earlier
 communications. Let me then turn over to Matt for our discussion about nat cat
 normalization.
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
-
+A - Matthias Weber {BIO 16674983 <GO>}
 Okay. Related to your question if it's okay, I'd like to take the opportunity to over deliver a
 little bit and give – explain the changes we made and why we made the changes in the
 broad context, I will not forget about your specific question and add it at the very end.
@@ -277,10 +250,7 @@ That was the trigger for looking deeper into our methodology and since we did th
 felt now is the right time to review it in full and to adjust it to bring it to the best of our
 knowledge.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Thanks, Matt. I appreciate that. Also, I just like to remind this, as Matt indicated, there
 always will be some approximations here, and at the end of the today we are referring to
 estimates. These estimates are based on a number of assumptions about the future
@@ -302,10 +272,7 @@ FINAL
 
 The next question is from Anasuya Iyer from Jefferies. Please go ahead.
 
-Q - Anasuya Iyer
-
-{BIO 18981555 <GO>}
-
+Q - Anasuya Iyer {BIO 18981555 <GO>}
 Oh, hi. My two questions, the first one just on the negative prior-year developments
 again, I just wondered if you had any commentary about whether within that there's any
 offsetting impacts and therefore, what that looks like on the positive side? And my
@@ -315,18 +282,12 @@ wondering as you see more negative prior developments in casualty, are you worri
 about this? Are you worried that this reach for casualty growth brings more unexpected
 reserve developments in that area? Thanks.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Excellent. Thanks for both questions. I'm going to, I think, ask Matt to respond to both.
 
 Bloomberg Transcript
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
-
+A - Matthias Weber {BIO 16674983 <GO>}
 Okay. So, also, here I would like to tell you a little bit more than you asked for to get, I
 hope this is okay. We had in Reinsurance adverse development of $141 million in total,
 more than half of this adverse development actually does not come from loss site or from
@@ -365,10 +326,7 @@ reserves, for instance. So you win some, you lose some, but if we take out the N
 Zealand earthquake loss development, the rest is plus/minus awash on the loss reserve
 site.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 And if I may, (20:49) if I go to the question about casualty, I'd just like to remind everyone
 our philosophy approach to reserving remains unchanged. Best estimates, I think we
 continue to have what we consider to be a prudent overall reserving level. If you look at
@@ -381,10 +339,7 @@ Let me just turn back to Matt now for the question on the casualty.
 
 Bloomberg Transcript
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
-
+A - Matthias Weber {BIO 16674983 <GO>}
 Okay. So you asked me whether I am concerned with the fact that we have 51% of our
 renewed 20 (21:39) business in the area of casualty. The answer is, look, as an underwriter
 I always am concerned about everything. That's my job. I have to be a little bit paranoid.
@@ -396,19 +351,13 @@ looked at and thoroughly whetted and we were when we wrote (22:36) these deals a
 also now we continue to be confident that these deals will continue as expected, meaning
 they will be profitable.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Thanks, Matt. May we go to the next questioner now?
 
 Operator
 The next question is from Andrius Budnikas from Citi. Please go ahead.
 
-Q - Andrius Budnikas
-
-{BIO 18952195 <GO>}
-
+Q - Andrius Budnikas {BIO 18952195 <GO>}
 Hello. This is Andrius Budnikas from Citigroup. Two questions please. The first one is on
 Life & Health Re [Life & Health Reinsurance]. Could you give us more information
 regarding the underlying performance of this business unit? How much of this strong
@@ -429,10 +378,7 @@ $1.7 billion, given that this quarter the run rate was well below expectations? 
 
 FINAL
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Yeah, thanks. I'll actually pick up both of those. So first on Life & Health Re. Now we've had
 this quarter of, I think, very good result. Always we're going to be on the life portfolio, we
 think about the notional value or the policies we have over the period of times, they are in
@@ -493,16 +439,10 @@ than $1.4 billion in cash, part of which we will invest in our open life busines
 Admin Re. So that is what leads to the overall $1.4 billion to $1.7 billion, which is
 confirmation of our earlier communication.
 
-Q - Andrius Budnikas
-
-{BIO 18952195 <GO>}
-
+Q - Andrius Budnikas {BIO 18952195 <GO>}
 Thank you.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Go to the next questioner please?
 
 Operator
@@ -510,10 +450,7 @@ The next question is from Kamran Hossain, RBC. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi, I'm Hossain. Three questions. First on, I mean, sorry it's (27:29) coming back to the
 prior year development, and I don't know Matt is more paranoid (27:33) on that, but I
 could only just ask. There's, I guess, the prior-year development and the unfavorable
@@ -525,16 +462,10 @@ kind of how you think about the buyback going forward? So do you need large loss
 be a little bit lower to execute the buyback? Do they have any impact still? Just interested
 in any thoughts from that. Thank you.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Okay. I'll ask Matt to address the first and I'll comeback around the second question.
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
-
+A - Matthias Weber {BIO 16674983 <GO>}
 Okay. I assume when you distinguish between cedent related and Swiss Re related, what
 you mean is, is it due to higher than expected reported losses coming from the cedent to
 Swiss Re or is it due to a massive volatile change on the Swiss Re side. And the answer is,
@@ -557,10 +488,7 @@ increased longevity of people who encountered a motor accident. So both elements
 matter. However, again, both elements are less than 50% of our total research
 development. More than 50% comes from the premium and the commission side.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Thanks, Matt. As to the second question, let me just reiterate a couple of things. First, no
 adjustments that we made now to the way we talk about normalizing our combined ratio,
 the way we look at the emergence of losses. We'll change the way we have start about or
@@ -584,32 +512,21 @@ So I think you need to understand that we assume a certain level of loss. We'll 
 how those losses develop during the year. It's not just the individual number that would be
 important to us. It would be what type of loss emergence, where. Matt, you want to add?
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
-
+A - Matthias Weber {BIO 16674983 <GO>}
 I would like to add that on the nat cat side, due to the asymmetric loss distribution
 typically in one year out of five years, we have an actual loss burden that is bigger than
 the mean expected loss burden. And in four years out of five years, it is smaller.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Okay. Thanks. (31:56).
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 All right. Thank you. Let's go to the next question.
 
 Operator
 The next question is from Vinit Malhotra, Mediobanca. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Page 10 of 20
 
 
@@ -632,15 +549,10 @@ decision? How do you think this affects future investment income potential? And 
 mentioned just now the Guardian portfolio not yet fully optimized. Should we expect more
 of these kind of realization gains in this coming year? Thank you.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Okay. Thanks. I'll ask Matt to pick up the first follow-up and I'll get the second.
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
+A - Matthias Weber {BIO 16674983 <GO>}
 
 Bloomberg Transcript
 
@@ -655,32 +567,21 @@ we would have to add the $300 million to be released next year, again, with $1.2
 losses that will be released as a normal course of matter and this will, of course, then still
 add up to the $1.5 billion.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Sorry. It should add up to $1.8 billion. Shouldn't it, Matt? Because otherwise we are literally
 taking away $300 million out of the system and not counting it anywhere.
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
-
+A - Matthias Weber {BIO 16674983 <GO>}
 Now because also next year, they will have again $300 million that will not be released
 next year, but the year after next year, so in 2018. So in fact, if we didn't grow, it will be a
 very stable situation.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Key thing is just recognizing we've been too conservative in the past in the way that we've
 calculated this normalized expected contribution to combined ratio. When I think of
 (35:36) second question...
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Page 11 of 20
 
 
@@ -693,10 +594,7 @@ Thank you.
 
 FINAL
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Listen, we're not opportunistically realizing gains due to lower interest rates. We haven't
 been doing that. As you know, we came off the back of financial crisis with a very
 significant de-risked portfolio. Over the course of 2012, 2014, we rebalanced fully in line
@@ -730,16 +628,10 @@ otherwise would want to carry going forward. We want to clearly work out to our
 advantage. We're (38:03) always very transparent about that. And in Q2, we'll see how
 that plays out.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Thank you.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Next question?
 
 Operator
@@ -755,10 +647,7 @@ Date: 2016-04-29
 
 FINAL
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Yes. Good afternoon, everybody. I have to apologize. I would like to come back again to
 this nat cat budget and to the normalized combined ratio of 95.7%. I understand that
 there's some sort of timing effect and you shift forward (38:36) $300 billion of budget.
@@ -772,10 +661,7 @@ derivatives. If you exclude all these noise from the derivatives, could you shed
 on how you see the underlying development and contribution of the Guardian portfolio
 and ideally you have some number for this?
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
-
+A - Matthias Weber {BIO 16674983 <GO>}
 Thanks. Okay. So regarding your first question, I take this. We did not readjust the
 adjusted combined ratios of the past to reflect what would they have been had we
 applied also the current methodology. So all I can repeat, it was too conservative and you
@@ -784,10 +670,7 @@ explain.
 
 Bloomberg Transcript
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Okay. As to the second question, so if you take away a couple hundred million so (40:19)
 rough order of magnitude of the gains associated with the derivatives portfolio, then I
 think you end up with still a very acceptable underlying result, certainly in line with our
@@ -795,25 +678,16 @@ overall expectation, in line with our overall target of achieving ROE of between
 for this business in the medium-term. So I think the underlying result was very much in line
 with our expectation. Obviously, there was a significant impact from the derivatives book.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay. Thanks.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Thank you. Can we go to next question, please?
 
 Operator
 The next question is from Sami Taipalus from Berenberg Bank. Please go ahead.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Hi. Good afternoon, everyone. Thanks for taking my question. The first is one on these
 large transactions that you've been doing quite a lot recently. And I'm just wondering how
 those impact concentration risk within the Group and how you've managed this
@@ -838,16 +712,11 @@ bit above what your peers have. So I'm just wondering if you're having any discu
 internally about maybe reducing the minimum requirement that you have on the SST ratio
 given how conservative it seems that this ratio is. Thank you.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Thanks very much for both questions. So, Matt, why don't you take the first, then I'll ask
 Patrick to pick up the second?
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
+A - Matthias Weber {BIO 16674983 <GO>}
 
 Bloomberg Transcript
 
@@ -865,16 +734,10 @@ independent on how small or how large they are and we control the total and make
 that the total exposure with respect to these correlating perils stays within the allocated
 capacity limits.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Thanks, Matt. Patrick, do you want to pick up the question about Solvency II?
 
-A - Patrick Raaflaub
-
-{BIO 16381419 <GO>}
-
+A - Patrick Raaflaub {BIO 16381419 <GO>}
 Yes. So, Sami, I'm not sure whether your scaling up from SST to Solvency II is really helping
 us a lot. I mean, we have a group risk policy, which states on the capital side what our
 target capital level is. It depends on a multitude of parameters. It has a respectability
@@ -902,10 +765,7 @@ in any revision of our capital risk tolerance. Obviously, we are constantly thin
 capital risk tolerance. And any element of our group risk policy is permanently also
 challenged and can be potentially revised.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Thanks, Pat. Indeed (46:00) just walk to Solvency II is really just for facilitation purposes,
 but it doesn't change the regime under which we operate. Of course, on a Group-wide
 basis, this was Solvency test and breach of our underlying operating subsidiaries carrier
@@ -914,15 +774,10 @@ operate, some of which are operating in Europe under Solvency II, others operate
 U.S. under the safe (46:23) regime, some operate in Asia under the respective regimes
 there. So the overarching capital regime for Swiss Re remains the SST.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Right. Thank you.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
+A - David Cole {BIO 7251632 <GO>}
 
 Bloomberg Transcript
 
@@ -931,10 +786,7 @@ Thanks.
 Operator
 The next question is from Andrew Ritchie, Autonomous Research. Please go ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Hi there. First question, on the premium growth in renewable year-to-date, can you just
 tell me how much of that premium is multi-year deals and are we seeing all of the multiyear premium in the delta? Or another way of putting it is how quickly will the increased
 volume earn through? And I'm assuming it carries with it probably a normalized combined
@@ -962,18 +814,12 @@ change to the annual basis. Just to clarify that. That's what you mean. Thanks.
 
 FINAL
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Okay. Thanks for the observation. I'll come back to that in just a bit. But let me first go to
 the question regarding the overall component multi-year and the combined ratio on the
 cash. Let me ask Matt if he'll address those first?
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
-
+A - Matthias Weber {BIO 16674983 <GO>}
 Okay. So we do have multi-year contracts in the large transactions. We are not disclosing
 how much of it is multi-year. In case of a multi-year contract, the written premium which we
 are disclosing here reflects the total amount of premiums across all years if a contract is
@@ -987,17 +833,11 @@ with a higher than average combined ratio. So that is taken into account. It's a
 
 Bloomberg Transcript
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 (50:02) come back on the question regarding the convergence of all (50:05) solvency
 regimes?
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
-
+A - Matthias Weber {BIO 16674983 <GO>}
 Yeah. So, I guess it depends a little bit on your perspective, but what I was trying to
 express in the video is really if you take a relatively broad perspective, you can see that
 there are several countries also outside Europe that are modernizing or modifying their
@@ -1010,18 +850,13 @@ partial element of internal models being introduced in the NAIC RBC approach wit
 respect to nat cat for example. So, that was really the trend I was referring to and that is
 certainly a trend that we are encouraging.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Okay. With respect to your question, 2b, so I note in total you've asked in fact four
 questions. So, with respect to your question, 2b, what I explained applies both on a
 quarterly basis, as well as on an annual basis. So, in order to do the nat cat normalization,
 we release $1.2 billion and add-back $1.5 billion, that leads to a too conservative outcome.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Page 16 of 20
 
 
@@ -1032,9 +867,7 @@ Date: 2016-04-29
 
 (51:59).
 
-A - David Cole
-
-{BIO 7251632 <GO>}
+A - David Cole {BIO 7251632 <GO>}
 
 FINAL
 
@@ -1043,10 +876,7 @@ All right. Next question please.
 Operator
 The next question is from William Hawkins, KBW. Please go ahead.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hi. Thank you very much. Back on the combined ratio, with no apologies. First of all this is
 picking up I think on what you were saying Matt to Andrew's question. I'm still confused
 about what you are doing at the full year stage. You said very clearly in your prepared
@@ -1071,17 +901,11 @@ them, Reinsurance seems to have paid its dividends a quarter early. Are we, give
 haven't seen a dividend from quarter, are we budgeting for a zero this year? And are we
 still assuming about 300 million from the Life Capital by the end of the year? Thank you.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Thanks, Will. For both of the questions. Now, Matt, you want to pick up the first, and I'll
 come back to the second.
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
-
+A - Matthias Weber {BIO 16674983 <GO>}
 Yeah. So, look, with respect to the first question, I really don't know what else I could add,
 or what else I could explain, other than just repeating myself, but I don't believe that
 makes a lot of sense to do so with respect to the underlying combined ratio and the 99%.
@@ -1117,10 +941,7 @@ reasonable number to assume.
 
 Bloomberg Transcript
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 I'll come back to your second, I think, your eyes are as always are quite sharp. And, if you
 look at our Q1 results, you'll see that the Reinsurance unit did pay a dividend of the group
 of just under $3 billion prior to quarter end. Last year, you may recall that Corporate
@@ -1137,20 +958,14 @@ Next question, please?
 Operator
 The next question is from Thomas Fossard, HSBC. Please go ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Good afternoon. I've just got one question left, which is related to SST. It seems to be that
 a couple of Swiss-based player (58:04), but discretion or potentially FINMA pushed
 toward I would say going more for the standard formula and scratching internal models.
 So I just wanted to better understand where – how do you view potentially FINMA
 evolution in that respect and potentially its implication? Thank you.
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
-
+A - Matthias Weber {BIO 16674983 <GO>}
 So, I guess to get an alternative answer to that question you would have to ask FINMA and
 as you know, I'm no longer speaking for FINMA. Actually, I've not been for two years now,
 but what we see is that there is an attempt to develop standard models. So we don't
@@ -1167,26 +982,19 @@ smaller – especially smaller insurance firms to use the standard model rather 
 up with their own internal model. I don't expect this to apply to Swiss Re or to any of the
 large groups for that matter, but that's just my personal expectation.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
+Q - Thomas Fossard {BIO 1941215 <GO>}
 
 FINAL
 
 Thank you.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Thanks Thomas. Next question please.
 
 Operator
 Our last question is from In-Yong Hwang, Goldman Sachs. Please go ahead.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 
 Bloomberg Transcript
 
@@ -1200,17 +1008,11 @@ And my second question is on the losses that we've seen so far in the second qua
 earthquake in Japan and Ecuador. Is there anything, that's worrying you in terms of the
 losses in those places? Thank you, very much.
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Thanks for both questions. So, Matt, I want you to take the first and either you or I can
 take the second, if you would prefer?
 
-A - Matthias Weber
-
-{BIO 16674983 <GO>}
-
+A - Matthias Weber {BIO 16674983 <GO>}
 Okay. And I'll take both if that is okay. So, with respect to your first question, the answer is
 no, that takes place every year. Because, we have – every year, we have a late reporting
 loss pattern, coming from our clients. With respect to the losses that happened in Q2, the
@@ -1219,10 +1021,7 @@ process of estimating our loss and it's too early to talk about it or if any sig
 respect to the other nat cat related losses that have happened in Q2 so far. They are not
 of an order of magnitude that is we're speaking about?
 
-A - David Cole
-
-{BIO 7251632 <GO>}
-
+A - David Cole {BIO 7251632 <GO>}
 Okay. So just to confirm, these are Q2 events and so there's nothing in our Q1 numbers.
 We'll look at each of them of course individually to determine what their appropriate level
 of reserving would be, but as Matt said, this will be little bit too early. I think it's always
@@ -1241,10 +1040,7 @@ here.
 
 FINAL
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Okay, David. This is Philippe again. I'd like to come to the end of the Q&A. So, I thank you
 all very much for joining. Also, big thank you to Matt, to Patrick, and David. If you have any
 follow-up questions, don't hesitate to call us Investor Relations at Swiss Re. Thank you

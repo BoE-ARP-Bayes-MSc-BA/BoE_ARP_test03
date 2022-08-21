@@ -34,10 +34,7 @@ Ladies and gentlemen, welcome to the Ageas conference call on the full year 2012
 results. I am pleased to present Bart De Smet, CEO; and Christophe Boizard, CFO.
 (operator instructions) Gentlemen, please begin.
 
-Bart De Smet
-
-{BIO 16272635 <GO>}
-
+Bart De Smet {BIO 16272635 <GO>}
 Good morning, ladies and gentlemen. Thank you, all, for dialing in to this conference call
 and for being with us for the presentation of the 2012 results of Ageas.
 As usual, I am joined in the room by my colleagues of the Executive Committee; our newly
@@ -183,10 +180,7 @@ report in a disciplined way on our performance against those targets.
 And I would like now to give the floor to Christophe to shed a bit more light on the
 financials, and to provide you with some additional insights before we move on to Q&A.
 
-Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+Christophe Boizard {BIO 15390084 <GO>}
 So thank you, Bart. After that presentation, let me give you some more additional
 comments on three things; first, our Insurance operations and the General Account and
 Investment portfolio.
@@ -367,10 +361,7 @@ outstanding commitments and bids.
 Ladies and gentlemen. I'd like to end my comments here and hand over to Frank.
 
 Questions And Answers
-A - Frank Vandenborre
-
-{BIO 15168443 <GO>}
-
+A - Frank Vandenborre {BIO 15168443 <GO>}
 Thank you, Christophe. Ladies and gentlemen, this concludes the introduction, and I would
 like now to start a Q&A session. Please limit yourself to three questions so that everybody
 has some time to ask his questions.
@@ -383,10 +374,7 @@ Bloomberg Transcript
 Okay, ladies and gentlemen, we will now begin the Q&A session. (Operator Instructions)
 Farooq Hanif, Citigroup.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 I had actually three questions. Firstly, could you give us further future thoughts on strategic
 asset allocation given the good performance of the business, your confidence on capital?
 Presumably still confident on economic capital Solvency II. So could you tell us how that
@@ -397,10 +385,7 @@ And thirdly, your -- you've been asked this before, but the 100% combined ratio 
 has been met. What's the next step?
 Thank you.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay, I think the three questions relate somewhere to the 2015 targets that we've set.
 If we look to the allocation of capital within the Group and the target we have set
 ourselves for return on equity of 11% for the Insurance activities, it's clear that we are not
@@ -469,10 +454,7 @@ so the next step is to deliver and to continue the performance we have last year
 
 FINAL
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Bart, maybe I can give some comments on the strategic asset allocation. That was the
 first question. So here no big changes. We have broadly maintained the asset allocation
 that we had at the beginning of the year. What we tried to do is to find some
@@ -487,9 +469,7 @@ with a greenfield operation only, and there is delays between starting to study 
 booking it into the (inaudible). So it's slightly slower than expected, but we still maintain
 the objective of allocating EUR3 billion.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 Bloomberg Transcript
 
@@ -498,10 +478,7 @@ Okay. That's very, very clear. Thank you.
 Operator
 Matthias de Wit, Petercam.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Three questions from my side as well, please. First, on the General Account, you reported
 the sharp increase in the value of the put option. What is driving that increase, and is there
 any impact on deployable excess cash on the Group level considering the negative
@@ -521,51 +498,34 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2013-02-20
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay. I'll take the last one and give the first to Christophe and the second to Kurt.
 
 FINAL
 
 You take the one on General Account put option?
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Yes, sorry. So on the put option, you remember that this relates to AG, our Belgian
 operation. So the bidding -- the sharp increase in put option is related to the increase in
 the embedded value of the AG and valuation of the put option. So the put option gives a
 view of the value of AG, and the value is up thanks to a better embedded value
 compared to last year at the end of 2011. That's the main driver.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Okay. And is there any impact on the deployable excess cash on the Group level, because
 there is a negative solvency impact on the Group level?
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 No, there is no direct impact.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
+Q - Matthias de Wit {BIO 15856815 <GO>}
 
 Bloomberg Transcript
 
 Okay.
 
-A - Kurt De Schepper
-
-{BIO 6240700 <GO>}
-
+A - Kurt De Schepper {BIO 6240700 <GO>}
 Shall I take the question on the legacy issue, the criminal case? Perhaps for the people
 that do not read the Belgian press, a little extra word of explanation. Last night, we were
 informed that the Public Prosecutor has formulated these requisitions and has requested
@@ -590,9 +550,7 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2013-02-20
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
+A - Bart De Smet {BIO 16272635 <GO>}
 
 FINAL
 
@@ -602,19 +560,13 @@ due to storms in January, escape of water events in February, storms in June, an
 and continuing bad weather in Q4. And in total amount, in British pounds, we talk about a
 gross impact of some GBP52 million.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Thank you.
 
 Operator
 Robin Buckley, Deutsche Bank.
 
-Q - Robin Buckley
-
-{BIO 3596512 <GO>}
-
+Q - Robin Buckley {BIO 3596512 <GO>}
 Couple of questions, please, first of all, just on the Life operating margin, that was
 reported at 90 basis points. Could you perhaps just give an outlook in terms of how you
 see that evolving? I guess specifically breaking that down into the Underwriting
@@ -631,10 +583,7 @@ the operating entities, are you able to give any detail of just how much came fr
 unit?
 Thanks very much.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay, the first question on the Life operating margin, I think you now dispose of these
 figures, and if we go back in time, I think we also -- we always indicated that we target a
 margin of 70 to 90 basis points pre-tax, so we are at that level. And it's a combination of,
@@ -668,24 +617,15 @@ So in Non-Life in Belgium, impact of releases this year was 4.5% compared to 7.3
 of the -- due to these bodily injuries; year before 8%. So it's on average more between
 7% and 8%, and this year it was 4.5%.
 
-Q - Robin Buckley
-
-{BIO 3596512 <GO>}
-
+Q - Robin Buckley {BIO 3596512 <GO>}
 I guess the question is --?
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 The last question was about the up-streaming of cash.
 
 Bloomberg Transcript
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Dividend. I can pick that up, if you want. So on the up-streaming of the dividend, so
 obviously, the target that we have is that the incoming dividend is coming from the
 subsidiaries, corporate[ph]. The dividend paid to the shareholders of Ageas plus -- covers
@@ -702,10 +642,7 @@ impairment, AG didn't pay a dividend, but it will resume the payment this year. 
 will help us to achieve the objective I've just mentioned, full coverage of the dividend paid
 to shareholders plus the costs.
 
-A - Frank Vandenborre
-
-{BIO 15168443 <GO>}
-
+A - Frank Vandenborre {BIO 15168443 <GO>}
 Next questions?
 
 Operator
@@ -719,9 +656,7 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2013-02-20
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
+Q - Albert Ploegh {BIO 3151309 <GO>}
 
 FINAL
 
@@ -736,15 +671,10 @@ average guarantees are now on the new business written and what your investment
 yields are for new money?
 Thank you.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay. Christophe will start on RPI.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
+A - Christophe Boizard {BIO 15390084 <GO>}
 
 Bloomberg Transcript
 
@@ -759,16 +689,10 @@ have a shareholder agreement, and we are very satisfied with the results.
 And on Ageas side, as we said several times in the past, we are quite satisfied with RPI
 operation and we would like it to keep on like this for a while.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 But would you also be willing to expand then the stake maybe next year?
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 That's not something we have on the agenda at this moment, but nothing is excluded.
 We'll see later. But at this time, as I said, we'd like to keep on as it is with very satisfactory
 results.
@@ -797,10 +721,7 @@ So unfortunately, I was not convincing enough, but the fact that we don't pay a 
 doesn't impair the long-term value of RPI but more the deferred dividend that we will
 obtain a little bit later. So it's --
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Good. Thank you, Christophe. Then, the second question on the margins in Belgium for
 new business.
 
@@ -817,19 +738,13 @@ at the Investor Day. For the stock of provisions, so the business[ph] of the pas
 almost zero duration mismatch, we can say that the margins that we realized in the past
 are almost protected for the future.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay. Thank you, very much.
 
 Operator
 Jan Willem Weidema, ABN AMRO
 
-Q - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+Q - Jan Willem Weidema {BIO 15133400 <GO>}
 A few questions. Firstly, looking at your dividend, you have a clear payout policy. But are
 you also looking to pay a stable and growing dividend going forward?
 And secondly, the RPI tangible solvency is now at 29%. Do you have any indication from
@@ -847,9 +762,7 @@ Date: 2013-02-20
 
 That's it.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
+A - Bart De Smet {BIO 16272635 <GO>}
 
 FINAL
 
@@ -873,10 +786,7 @@ account what we see as possibilities for the future and that we fixed the divide
 a level that in normal circumstances we can be quite sure to be able to keep a dividend at
 this level, and going forward to try to do better.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Maybe on RPI, coming back on the dividend. So as I said, we have not been very
 successful in obtaining the dividend so I don't want to take commitment in the future. But I
 will only give you some elements so that you can make up your mind on this.
@@ -890,10 +800,7 @@ The underlying idea here is that the two other shareholders don't want to take s
 on the payment of the debt, so everything is linked to the repayment of the debt. But in
 the coming years, the debt will go down very quickly.
 
-A - Kurt De Schepper
-
-{BIO 6240700 <GO>}
-
+A - Kurt De Schepper {BIO 6240700 <GO>}
 And then on the different targets, you will remember that we have communicated the
 targets earlier at the annual meeting when we produced our -- the remuneration policy.
 
@@ -915,19 +822,13 @@ So for us, the Vision 2015 targets are perfectly aligned with the target that we
 the management, and having alignment of shareholders and management objectives is
 an important issue in the way we try to manage the Company.
 
-Q - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+Q - Jan Willem Weidema {BIO 15133400 <GO>}
 Okay. Thank you. Very clear.
 
 Operator
 David Andrich, Morgan Stanley.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David Andrich {BIO 15414075 <GO>}
 I just wonder if you could give a bit more color on what's been driving the increase in
 inflows in your Belgium Life business, because I know you guys have been decreasing
 your guaranteed rates. Have competitors just been decreasing their rates more, or was
@@ -943,10 +844,7 @@ recently in terms of coming up with a settlement on that.
 And then finally, just in terms of legal proceedings, I was just wondering if you could give a
 bit more color around what to possibly expect in 2013 in terms of timelines, etc.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay. The first question; it's not that 2011 has been a bad year so 2012 is indeed a good
 year. In Life inflow, a number of reasons. I think first of all, we have a very solid book of
 Group Life insurance where salary increases that are mandatory in Belgium have a natural
@@ -986,18 +884,13 @@ So it's a combination of innovation in products, a combination of some market
 circumstances in a decreasing rate environment; and finally, I would say, quite active and
 proactive distribution channels.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
+Q - David Andrich {BIO 15414075 <GO>}
 
 Bloomberg Transcript
 
 Thanks.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 And on the BNP Paribas option; so first, I'd like to remind you that it's a very specific
 instrument. You have some (inaudible) features in it, which means that it's not a very liquid
 instrument, back to the starting point.
@@ -1007,10 +900,7 @@ preferred solution is not to sit on the coal[ph] and to wait until the expiratio
 are doing our best efforts to find a solution on this, but it is premature to announce
 anything on the color[ph]. So -- but we are doing our best, be sure.
 
-A - Kurt De Schepper
-
-{BIO 6240700 <GO>}
-
+A - Kurt De Schepper {BIO 6240700 <GO>}
 And then unfortunately, I think I have to disappoint you a bit on the legacy proceedings.
 On page 77 of the presentation, we've given the usual overview of the different
 proceedings and where they stand currently. We indicated there that we might expect a
@@ -1030,9 +920,7 @@ Date: 2013-02-20
 that evolves. For the others, we do not expect any significant change in the procedures
 during this year.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
+Q - David Andrich {BIO 15414075 <GO>}
 
 FINAL
 
@@ -1041,10 +929,7 @@ Thank you, very much.
 Operator
 Francois Boissin, Exane BNP Paribas.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Three questions, please, the first one on your quarterly guidance. You used to say EUR120
 million is about the kind of run rate we should expect from Insurance operations. Is it still
 valid, or would you guide on a higher number given the growth of the business and the
@@ -1059,10 +944,7 @@ spread in this environment, and what is the pace of that repayment in the coming
 you have that in mind?
 Thank you.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 First question, I must say I don't fully see where the EUR120 million net profit run rate
 comes from. If you look to the Insurance results, EUR624 million, I think out of all those
 documents you've received, or the figures you received, you could say that there are
@@ -1098,30 +980,18 @@ plus profit sharing in Individual Life has been almost round 3%, and in Group Li
 some 3.25%, which positions Ageas Insurance somewhere in the upper fourth quartile in
 the market.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Okay. So you said 3.25% in Group Life, and 3% in Individual, right?
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Individual Life, yes.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Okay. And on RPI?
 
 Bloomberg Transcript
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Yes, on RPI, so you ask about the spread. So there is a positive carry, and it was about
 EUR30 million this year. So it's not a lot but it is still positive. That was your question. The
 main driver is interest rate, and to be more precise, that's the LIBOR. So in case the LIBOR
@@ -1135,17 +1005,11 @@ have additional nice result.
 And then I think your question was about duration. And on duration, we are at six years on
 RPI, so it's a short duration portfolio.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 So it's at six year's duration, but let's say two years from now, what would be the level of
 outstanding debt in the current estimates?
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 It's a good question. I would say you could reduce -- the amount of debt, as I said, is
 EUR4.7 million (sic; see slide 74 "billion"). You could reduce that by EUR1.7 billion. That
 Page 20 of 29
@@ -1158,33 +1022,22 @@ Date: 2013-02-20
 
 would be the order of magnitude.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
+Q - Francois Boissin {BIO 16045021 <GO>}
 
 FINAL
 
 Over two year, yes?
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Yes, in two years, we would be at EUR3 billion instead of EUR4.7 billion.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Okay. Thank you, very much.
 
 Operator
 William Hawkins; KBW.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 I'm just following on the RPI question. Can you give us any kind of shorthand for how we
 can think about the earnings sensitivity for RPI now that it is affecting your IFRS accounts?
 
@@ -1200,10 +1053,7 @@ yields would have been an overriding negative for the EV, but you seem to say th
 has actually gone up a lot.
 Thank you.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Okay. So on RPI's earnings sensitivity, so we would not re-establish goodwill in case the
 portfolio went down. So it means that you are right in saying that we take the full volatility.
 In case we have an increase in the market value of the portfolio we take the full upside. If
@@ -1224,10 +1074,7 @@ Date: 2013-02-20
 
 FINAL
 
-A - Kurt De Schepper
-
-{BIO 6240700 <GO>}
-
+A - Kurt De Schepper {BIO 6240700 <GO>}
 So I'll then follow up on the embedded value question. Embedded value is, as you know, a
 combination of assets and liabilities. And if you just look at the rates in the market, which I
 have here at hand, you can say that the risk-free, the swap rate came down with about
@@ -1244,9 +1091,7 @@ increase-- sorry, decrease in interest rate, of course, leads to an increase in 
 So it's normal that the embedded value increases over the year 2012. The exact amounts
 will be communicated when we communicate our embedded value in mid-March.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
@@ -1255,10 +1100,7 @@ Great. Thanks, chaps.
 Operator
 Jason Kalamboussis, Societe Generale.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Just a quick follow-up question on the BNP. You said that you are looking at a solution. Are
 you looking at the solution outside of the Belgian Government, so do you consider that
 there are other solutions? Or basically, the main solution is your negotiations with the
@@ -1291,10 +1133,7 @@ expect the same thing, or are you saying that actually this is driven by bodily 
 Belgium so we should expect it to go back up over the next two or three years.
 Thank you.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Maybe on the call[ph] option for BNP Paribas. So as you know, there is a contract with
 three parties, Ageas, Belgian state and BNP Paribas, so it means that it's rather difficult to
 structure something outside of the Belgian State. So it's the reason why I said that the
@@ -1302,10 +1141,7 @@ Belgian was the preferred -- the Belgian State was the natural counterpart. So t
 said, we study all the different options, including modern monetization, but frankly, this is
 not easy to put in place and this is under study, but I cannot say more on this.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay. With respect to the second question, I assume you refer to page 49 in the
 presentation. We see indeed that in 2012, the prior[ph] releases were 2.1%. Last year
 there was a slight strengthening of 0.1, but that was, if my memory is correct, due to
@@ -1313,39 +1149,24 @@ settling of reserves in Household.
 
 Bloomberg Transcript
 
-A - Barry Smith
-
-{BIO 4992205 <GO>}
-
+A - Barry Smith {BIO 4992205 <GO>}
 It was a minor adjustment to bodily injury.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Bodily injury, sorry. But the years before it was 3.5% in 2009, 1.1% in 2010, and so we
 managed the calculation of the treatment of the reserves in methodological way. It is not
 used to drive the result in one sense or another.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Sorry to interrupt. The prior year, the UK question was on slide 49, but specifically more
 the Fourth Quarter; the expense ratio on page 50. The prior year reserves release is it
 was more overall. That means page 35 we have --
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay. But in the expense ratio, there are EUR50 million costs for the Groupama
 integration.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Okay, and we should be seeing it staying at these levels?
 
 Page 23 of 29
@@ -1356,10 +1177,7 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2013-02-20
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 That may bring the expense ratio up. This is a one-off. It's not a structural one.
 
 Operator
@@ -1368,10 +1186,7 @@ FINAL
 
 Ashik Musaddi, JPMorgan.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 A couple of questions. The first is on Asian earnings. Can you give us some color on the
 Asian earnings, especially the non-consolidated ones? Can you give us some color on the
 split of that same?
@@ -1388,10 +1203,7 @@ Bloomberg Transcript
 
 Thank you.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 The question was not that clear to us due to technical problems so I hope that we
 catch[ph] the question correctly. If we look to the first question is the non-consolidated
 entities in Asia, what we can say is that we talk about China, Thailand, Malaysia and India,
@@ -1417,24 +1229,16 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2013-02-20
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Maybe the upstream dividend from AG.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
+A - Bart De Smet {BIO 16272635 <GO>}
 
 FINAL
 
 Upstream dividend of AG.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Yes. So I won't give you precise figures. We don't want to disclose the exact amount of
 dividend collected from the different subsidiaries. But as I mentioned in the presentation,
 the reported net profit for Belgium is EUR324 million. That's the starting point.
@@ -1445,47 +1249,30 @@ without being more precise than this. And this will take place in, I don't know,
 preliminary[ph] after the Board has taken place and has approved the payment of the
 dividend.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. And this applies to the UK as well more or less?
 
 Bloomberg Transcript
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Yes. That's Group policy.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 And just the last one on the Investor Day. Groupama thing, basically. It was mentioned that
 Groupama will be self-funded by the UK.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 So part of the -- first of all, out of the acquisition, there has been an upstream of cash
 from Groupama to the Group. And then for the remainder, funding has been done partly
 by the UK and partly by the General Account.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay, fantastic. Thank you.
 
 Operator
 William Elderkin, Goldman Sachs.
 
-Q - William Elderkin
-
-{BIO 3349136 <GO>}
+Q - William Elderkin {BIO 3349136 <GO>}
 
 Page 25 of 29
 
@@ -1508,9 +1295,7 @@ Quarter, that did look quite weak on an accident year basis, if I've read the fi
 correctly. Could you give us an idea of how much of that Fourth Quarter accident claims
 relate to adverse weather events and so on?
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
+A - Bart De Smet {BIO 16272635 <GO>}
 
 Bloomberg Transcript
 
@@ -1557,10 +1342,7 @@ FINAL
 
 Jan Willem Weidema, ABN AMRO.
 
-Q - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+Q - Jan Willem Weidema {BIO 15133400 <GO>}
 Two follow-on questions, if I may. On the put option, you're mentioning about a value
 increase, but I was under the impression that you use book value time[ph] multiple. So I
 was thinking that probably the increase in both book value and the multiple would be a
@@ -1569,44 +1351,29 @@ And secondly, could you please comment on the intangible impairment in the other
 segments?
 Thank you.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay, Christophe, over to you.
 
 Bloomberg Transcript
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Yes. On the put option, we changed the methodology and this was proposed by our
 auditors, but this is not something we did on the Fourth Quarter. You are right that in the
 past, we had the multiple on the book value, but in 2012, we switched to the -- something
 more related to the embedded value. So there was a change in 2012 method. We
 changed in Q3.
 
-Q - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+Q - Jan Willem Weidema {BIO 15133400 <GO>}
 And do you purely take the embedded value, or do you take a multiple on the embedded
 value?
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 It's a multiple on the embedded value, something which is observed on the market. We
 try to -- we have the benchmark with peers, and we try to find what the market value
 would be because that's the purpose of the (technical difficulty) to see what the -But if you take the IFS, the financial statement of Q3, you have multi-tail on this, because
 as the change took place in Q3, we have elaborated on this.
 
-Q - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+Q - Jan Willem Weidema {BIO 15133400 <GO>}
 Okay. Thank you.
 
 Operator
@@ -1620,9 +1387,7 @@ Date: 2013-02-20
 
 Gentlemen, that seems to be our final question, so I will hand back to you.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
+A - Bart De Smet {BIO 16272635 <GO>}
 
 FINAL
 

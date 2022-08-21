@@ -38,10 +38,7 @@ Instructions).
 Thank you. I would now like to hand the conference over to Abbe Goldstein, Senior Vice
 President of Investor Relations, Ms. Goldstein. Please go ahead.
 
-Abbe Goldstein
-
-{BIO 20602454 <GO>}
-
+Abbe Goldstein {BIO 20602454 <GO>}
 Thank you. Good morning and welcome to Travelers' discussion of our First Quarter 2021
 results. We released our press release, financial supplement, and webcast presentation
 
@@ -78,10 +75,7 @@ Bloomberg Transcript
 
 And now, I'd like to turn the call over to Alan Schnitzer.
 
-Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you, Abbe. Good morning everyone and thank you for joining us today. We are very
 pleased to report first-quarter core income of $699 million or $2.73 per diluted share,
 both up from the prior-year quarter despite our highest ever level of first-quarter
@@ -212,9 +206,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2021-04-20
 
-Dan Frey
-
-{BIO 20727678 <GO>}
+Dan Frey {BIO 20727678 <GO>}
 
 FINAL
 
@@ -288,9 +280,7 @@ And as Alan also mentioned, our Board authorized an increase in the quarterly di
 $0.88 per share. And with that, I'll turn the call over to Greg for a discussion of Business
 Insurance.
 
-Gregory C. Toczydlowski
-
-{BIO 16615940 <GO>}
+Gregory C. Toczydlowski {BIO 16615940 <GO>}
 
 Bloomberg Transcript
 
@@ -353,10 +343,7 @@ execution and further improving the underlying margins in the book we continue t
 in the business for long-term profitable growth.
 With that, I'll turn the call over to Tom.
 
-Thomas M. Kunkel
-
-{BIO 16615934 <GO>}
-
+Thomas M. Kunkel {BIO 16615934 <GO>}
 Thanks, Greg. Bond & Specialty posted strong returns and solid growth in the quarter
 despite the ongoing headwinds of COVID-19. Segment income was $137 million, an
 increase of 12% from the prior-year quarter, driven by an improved underlying
@@ -392,10 +379,7 @@ retention levels in our high-quality portfolio. So Bond & Specialty results were
 despite the challenges in the current environment.
 And now, I'll turn it over to Michael to discuss Personal Insurance.
 
-Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+Michael F. Klein {BIO 19674145 <GO>}
 Thank you, Tom and good morning everyone. Personal Insurance began 2021 with strong
 profitability and growth. Segment income was $314 million and net written premiums grew
 7%. The combined ratio of 90.3% was about 2 points from the prior-year quarter, primarily
@@ -463,20 +447,14 @@ Bloomberg Transcript
 In summary, we're off to a great start to the year and are well-positioned to continue to
 deliver profitable growth. With that, I'll turn the call back over to Abbe.
 
-Abbe Goldstein
-
-{BIO 20602454 <GO>}
-
+Abbe Goldstein {BIO 20602454 <GO>}
 Thanks, Michael. We are ready to open up for Q&A.
 
 Questions And Answers
 Operator
 Certainly. (Operator Instructions). Michael Phillips with Morgan Stanley, your line is open.
 
-Q - Michael W. Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Michael W. Phillips {BIO 21023048 <GO>}
 Thanks, good morning everybody. First question on Business Insurance. I guess, as we
 kind of think about the rest of the year and Alan, your comments on pricing, continue to
 outpace loss trends. I guess want to get your take on how the renewal price -- renewal
@@ -485,9 +463,7 @@ maybe better exposure growth for the year and how you think about that versus ma
 continued deceleration in pricing. So how we can think about maybe the RPC for Business
 Insurance?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 
 Page 9 of 22
 
@@ -515,50 +491,33 @@ account all the variables of account rate adequacy. So we feel great about this 
 level, we are near all-time highs in pricing, and we expect to continue -- the favorable
 environment to continue for some time.
 
-Q - Michael W. Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Michael W. Phillips {BIO 21023048 <GO>}
 Okay, thanks, Alan. I guess one more if we could switch over then through the
 authorization. Anything to read there on that that would signify any interest or lack of
 interest in any kind of large scale M&A?
 
 Bloomberg Transcript
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Dan, you take that.
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Michael, it's Dan. No signal at all, that's simply the math I gave you by the time we did the
 repurchases we did in the first quarter of this year, we were down to $800 million of
 authorization remaining under the share repurchase. If you look at, our history over the
 last 10 or 12 years, every time we sort of get down to this level the Board authorizes an
 additional buyback and this was just the timing to do that.
 
-Q - Michael W. Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Michael W. Phillips {BIO 21023048 <GO>}
 Okay, yeah. Perfect, thank you guys.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
 Operator
 Ryan Tunis with Autonomous Research. Your line is open.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Page 10 of 22
 
 
@@ -576,10 +535,7 @@ needing much at all? Or if we were to look at across the book of renewals, is it
 that you're still getting positive rate on kind of the vast majority of accounts that are
 renewing?
 
-A - Gregory C. Toczydlowski
-
-{BIO 16615940 <GO>}
-
+A - Gregory C. Toczydlowski {BIO 16615940 <GO>}
 Morning Ryan, this is Greg. Yes, we absolutely are in the vast majority of our accounts are
 getting rate and as Alan said with nine consecutive quarters with year-over-year rate
 change certain pockets, of course, are becoming more rate adequate and you know just
@@ -588,10 +544,7 @@ underwriters to look at every single account based on its own merit and we think
 been doing a terrific job of retaining the book and continuing to get some pricing change
 across the portfolio.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Got it. Again, I guess for Alan, just I guess looking for an update on your current thinking
 around M&A strategy there. I think in the past you haven't done any larger deals. I think
 maybe Simply Business might have been the last one I remember, which was, I think, less
@@ -599,10 +552,7 @@ than a bill. How are you thinking about scale, how are you thinking about M&A ap
 
 Bloomberg Transcript
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. Ryan, I understand the question, and albeit the thought process behind it there is no
 change in our approach to M&A, and that's not to say that we're not interested. Our
 shareholders should expect that all the time we are evaluating transaction opportunities
@@ -618,16 +568,10 @@ create shareholder value through some other important strategic benefit. So I me
 course we do the analysis as granularly detailed is something that you would expect from
 us, but essentially that's the lens and that hasn't changed.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Thank you.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
 Page 11 of 22
@@ -643,17 +587,12 @@ David Motemaden with Evercore ISI. Your line is open.
 
 FINAL
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
-
+Q - David Motemaden {BIO 18818634 <GO>}
 Hi, good morning. I guess I had a question for Greg. Was there, just in Business Insurance.
 I'm wondering if there was any sort of COVID benefit that you guys had underneath in
 that underlying loss ratio that we should be thinking about.
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
+A - Dan Frey {BIO 20727678 <GO>}
 
 Bloomberg Transcript
 
@@ -672,10 +611,7 @@ COVID specific losses in things like workers' comp, but very modest. And we'd sa
 probably largely offset, if not slightly more than offset by related benefits and non-COVID
 frequency.
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
-
+Q - David Motemaden {BIO 18818634 <GO>}
 Got it. Great, that's helpful. And then maybe if I could just follow up on that obviously
 great to see the margin expansion, a little under 2 points of underlying loss ratio
 improvement NBI that increased from I calculate around 150 basis points in the fourth
@@ -686,10 +622,7 @@ a bit more than 2 points of improvement this quarter.
 So maybe you could help me just think about some of the moving pieces here as we think
 about margin improvement going forward.
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Sure, David. It's Dan again. So I think the numbers that we see coming through Business
 Insurance for rate versus trend align with what we've seen from written results over the
 last several quarters if you just factor in what's earning its way through. So we did see a
@@ -715,19 +648,13 @@ less than 2 points of margin expansion. So being close to 2 points of margin exp
 and expecting that number to increase maybe very slightly from here as the higher rates
 aren't through is right where we thought we'd be.
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
-
+Q - David Motemaden {BIO 18818634 <GO>}
 Great, thank you.
 
 Operator
 Josh Shanker with Bank of America. Your line is open.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Yeah, good morning everyone. A few out of left field questions that I hope I can get some
 information on. As you restated the personal line segment and I guess folded the directto-consumer business into homeowners and personal auto segments, what does that say
 about Travelers interest in the direct to consumer as a channel going forward, should we
@@ -736,10 +663,7 @@ in the long run, makes more sense just to fold it in.
 
 Bloomberg Transcript
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Sure, Josh. It's Michael, I would say very specifically the restatement of the financial
 doesn't say anything about our commitment to direct to consumer one way or the other,
 it's still an important capability for us. Still a segment of the business we're investing in.
@@ -756,10 +680,7 @@ doesn't indicate a change in our emphasis and if anything I would say, it reinfo
 importance of that business to us, both as a business segment and as essentially a place
 to continue to build and test and learn and build capability.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 And similarly, how should I think about simply business going forward sort of two parts;
 one, how big is it -- how big does the Travelers think it's going to be over the next few
 years and two, not that we need numbers. But when you are taking a quote in from a
@@ -775,24 +696,16 @@ Date: 2021-04-20
 direct to consumer manner in business, is the loss ratio materially different than it is from
 your agency-directed book?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 
 FINAL
 
 You are talking about Simply Business, Josh.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Simply business. Yeah, absolutely.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Just as a reminder there, we are the intermediary in that business. We're not the market
 behind it. So we wouldn't comment on the profitability of that and I would say about
 Simply Business. It continues to be a medium-term initiative that we feel urgent about.
@@ -802,9 +715,7 @@ direct approach to buying the product other than at a very micro-end, but we're 
 betting, that's going to stay the same and we're investing in capabilities to make sure that
 we are prepared to address that market as it matures. Greg anything?
 
-A - Gregory C. Toczydlowski
-
-{BIO 16615940 <GO>}
+A - Gregory C. Toczydlowski {BIO 16615940 <GO>}
 
 Bloomberg Transcript
 
@@ -812,34 +723,19 @@ Just to give you a little more color on geographies but for us the premium is st
 but we've invested in infrastructure in the United States to capture some of that value that
 Alan just articulated, but that we believe is going to take some time.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Rest[ph] of the revenue, Greg. Not coming through premiums.
 
-A - Gregory C. Toczydlowski
-
-{BIO 16615940 <GO>}
-
+A - Gregory C. Toczydlowski {BIO 16615940 <GO>}
 Correct.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. Thank you.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Okay, well thank you for the answers.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thanks, Josh.
 
 Operator
@@ -854,10 +750,7 @@ Date: 2021-04-20
 
 FINAL
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi, thanks. Good morning. My first question is on, going back to the Business Insurance
 discussion. So it sounds like you guys are kind of looking for a stable rate, I guess across
 your businesses hoping to kind of confirm, I guess that would be the case kind of stable
@@ -866,10 +759,7 @@ you guys expect workers comp, it sounds like that feels slightly negative. Would
 expect that to inflect this year, or perhaps that's something that we should more be
 thinking about in 2022?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Elyse on the go forward view of rate, we actually didn't give a view of direction other than
 to say we expect it to continue to be at levels that will continue to contribute to margin
 expansion and we're just trying to get away from given outlook and prognosticating, but
@@ -893,10 +783,7 @@ bounces around there a little bit before making the term positive.
 But again, not a bad sign. It's reflective of the profitability of the line, which has been very
 strong, and we continue to think we're making a bottom and moving towards a turn north.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, great. And then my second question, going back on the M&A discussion. Alan, I
 think you said you guys would consider deals with the caveat of not wanting to add to the
 volatility of the company. As you think about transactions on are there certain business
@@ -904,10 +791,7 @@ lines that are higher up on the list as you evaluate potential M&A? Can you just
 think through potential transactions from where you might want to add on to business
 offering?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 I guess, when we put the comment was, of the three prongs to the lens as we think about
 reducing volatility is one of the virtues that we might look for. I guess to your question
 when we think about our portfolio, we think about our capabilities, we think about the
@@ -931,16 +815,10 @@ acquisition opportunity for us. So it's hard for me to say this is what we're lo
 That's what we're looking for. Again, no gaps in capabilities but potentially some
 opportunities.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, thanks for the color.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thanks Elyse.
 
 Operator
@@ -948,10 +826,7 @@ Mike Zaremski with Credit Suisse. Your line is open.
 
 Bloomberg Transcript
 
-Q - Michael Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Great guys. Good morning. Maybe sticking with our Business Insurance, you gave us some
 nuggets about kind of recent loss trend, I think you said there might be a slight benefit,
 workers' comp is trending a little better than expected and I know you guys for longer-tail
@@ -962,10 +837,7 @@ of gotten back to normal or maybe even more than normal in the digital age, zoom
 So kind of curious if you could give us some kind of color on the near term loss trends
 you've been seeing in commercial long tail lines?
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Sure, Mike. It's Dan. So I'll take that maybe in a couple of parts. On the court and -question and sort of that activity let's say, we see that to continue to be pretty slow. We
 talked about it last year in terms of there is definitely a change in the data from the fact
 that courts were closed for a long time and other settlements have been less active. And I
@@ -996,18 +868,13 @@ we're still going to take the view that we think that severity pressure has not 
 away. And that's one of the reasons that you see us continuing to pursue rate in Business
 Insurance to the degree that we are.
 
-Q - Michael Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Okay, that's very helpful and my follow-up is probably for Dan, on the investment
 portfolio. Curious if you can update us on approximate new money yields in the fixed
 income portfolio versus the expiring portfolio yield. I know there has been a pickup in
 interest rates. I believe there's still a gap there that you guys are trying to overcome?
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
+A - Dan Frey {BIO 20727678 <GO>}
 
 Bloomberg Transcript
 
@@ -1018,27 +885,18 @@ enough that even when we factored in the current environment that didn't actuall
 as we gave a $10 million range around our quarterly view of fixed income NII on a goforward basis. So it moved to the needle but only very, very modestly. Still a gap, so yes,
 new money yields still below what's maturing on the portfolio.
 
-Q - Michael Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Thank you.
 
 Operator
 Brian Meredith with UBS. Your line is open.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes, thank you. A couple of just quick ones here, first, I'm just curious, could you comment
 on workers' compensation insurance. As we start to see payrolls increasing here should
 that have a positive benefit on margins?
 
-A - Gregory C. Toczydlowski
-
-{BIO 16615940 <GO>}
-
+A - Gregory C. Toczydlowski {BIO 16615940 <GO>}
 Hey Brian. Good morning, this is Greg. The short answer on that is yes. And we saw that
 this quarter as Alan said on an RPC basis workers' comp was up and obviously we don't
 project where exposure is going to go long term but what we have shared with you that
@@ -1054,18 +912,12 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2021-04-20
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Right which favorably impacts margins, that is top-line.
 
 FINAL
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Yeah, Brian, margins to the -- you get two pieces of exposure coming through comp. One
 could be more workers, for which there is not really an expected margin benefit related
 to that in and of itself to the degree that we just go up and we collect more -- more
@@ -1074,19 +926,13 @@ portion of exposure can behave like rate, that's where you see that.
 So it's a little bit of both. To the degree that workers are being added to the payroll that
 brings with it additional risk, higher -- higher wages bring higher exposure as well.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 And obviously, as volumes go up, regardless of which those come from you get some
 expense levers.
 
 Bloomberg Transcript
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Makes sense. And then, can I just focus a little bit on the premium in Business Insurance,
 workers' comp I understand also saw CMP continue to be down, is that just purely related
 to what's going on from economic activity or are there other things that are going on right
@@ -1094,10 +940,7 @@ now there where you're calling your portfolio underwriting initiatives to stuff 
 potentially pressuring that top line and perhaps, are there any kind of programs in place
 to kind of recharge that growth at some point.
 
-A - Gregory C. Toczydlowski
-
-{BIO 16615940 <GO>}
-
+A - Gregory C. Toczydlowski {BIO 16615940 <GO>}
 Yeah, Brian, this is Greg. Really, two drivers in that. The first one, you mentioned in my
 prepared comments. We've really been trying to improve the profitability of that book
 and you can see that with the RPC increase in 5 points over the last five quarters. And so
@@ -1105,19 +948,13 @@ that's the primary driver. But we are still feeling the COVID impact flow overal
 submissions from the volume from our agents is down also, but I would also say that is
 the secondary driver.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great, thank you.
 
 Operator
 Yaron Kinar with Goldman Sachs. Your line is open.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Good morning, everybody. My first question is in Personal Lines, can you talk about the
 uptick in the expense ratio, considering that premiums are not for up quite a bit, where if
 that maybe it would remain a bit flatter, where are you investing there?
@@ -1129,9 +966,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2021-04-20
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
+A - Michael F. Klein {BIO 19674145 <GO>}
 
 FINAL
 
@@ -1142,19 +977,14 @@ ratio was just volume-related costs in the business, and I wouldn't pay too much
 to a one-quarter change in expenses. We still feel good about the expense ratio, the
 efficiency in the business.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay and then my second question in Bond & Specialty. I was just curious about the
 comment that new business declined due to discipline. I'm just trying to read that with the
 fact that management liability rates are near all-time highs. I would have thought that even
 with discipline, you'd have more opportunities to write new business, maybe talk about
 the dynamics there?
 
-A - Thomas M. Kunkel
-
-{BIO 16615934 <GO>}
+A - Thomas M. Kunkel {BIO 16615934 <GO>}
 
 Bloomberg Transcript
 
@@ -1166,33 +996,21 @@ going on that at this point in time, it makes sense to really be prudent about t
 you're selecting and we really actually feel quite comfortable with where our new
 business is coming in.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Got it. I appreciate the responses. Thank you.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
 Operator
 Tracy Benguigui with Barclays. Your line is open.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Thank you. I just wanted to follow up on BI rates. Is there seasonality in your first quarter
 business mix? I realized that workers' comp renews on one on one so I'm just wondering
 if that might be impacting your wage story for this quarter versus last.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 There is a little bit more workers' comp in this quarter than typically, but not a meaningful
 amount.
 
@@ -1204,9 +1022,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2021-04-20
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 
 FINAL
 
@@ -1216,10 +1032,7 @@ states introduced new statue of limitation reform bill, and you commented in the
 New York, but wondering how you feel about this strength in your reserve in light of
 potentially higher reviver cases, beyond New York.
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Hi Tracy. It's Dan. I think we were very -- very early to tackle child victims act stuff,
 remember we took our charge related to New York in the first quarter of 2019. So I think
 pretty far ahead of the market. We've been very cognizant of abuse, molestation, and
@@ -1229,47 +1042,30 @@ boy scouts, we are very cognizant of our exposures and what the latest news may 
 for those exposures and we continue to be quite comfortable with how those things are
 reflected in our reserves.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 If I could just sneak in would you be willing also to enter into a settlement on the Boy
 Scout similar to one of your competitor?
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
+A - Dan Frey {BIO 20727678 <GO>}
 
 Bloomberg Transcript
 
 I don't think we'll comment on any specific -- specific matter.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Okay, thank you.
 
 Operator
 Meyer Shields with KBW. Your line is open.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Great, thanks. Tom, in your comments you mentioned I guess other losses of the
 category within the segment and (inaudible).
 
-A - Thomas M. Kunkel
-
-{BIO 16615934 <GO>}
-
+A - Thomas M. Kunkel {BIO 16615934 <GO>}
 I'm sorry, I couldn't hear the last part of the question.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 I am sorry. I was hoping you could flesh out when you were talking about the underlying
 loss ratio in Bond & Specialty. You mentioned something about other losses, but I'm not
 sure what you were referring to?
@@ -1282,9 +1078,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2021-04-20
 
-A - Thomas M. Kunkel
-
-{BIO 16615934 <GO>}
+A - Thomas M. Kunkel {BIO 16615934 <GO>}
 
 FINAL
 
@@ -1294,17 +1088,12 @@ miscellaneous things, as well as things like mix issues. And so in this particul
 had some cyber claims this quarter and those actually hit our numbers a little bit, but
 generally it was COVID and a variety of other things.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, that's helpful. And then a question for Michael, if I can. I know there's been some
 news about California's Insurance Commissioner looking for more data and possibly more
 rebate? How are you thinking about that for Travelers?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
+A - Michael F. Klein {BIO 19674145 <GO>}
 
 Bloomberg Transcript
 
@@ -1323,20 +1112,14 @@ California and are working to be responsive to again request for information and
 request for level adjustments, et cetera. So we just continue to monitor and manage the
 situation.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Understood. Thank you so much.
 
 Operator
 This finishes the time allotted for the Q&A session. It is now my pleasure to turn the call
 back over to Abbe Goldstein for closing comments.
 
-A - Abbe Goldstein
-
-{BIO 20602454 <GO>}
-
+A - Abbe Goldstein {BIO 20602454 <GO>}
 Thank you all for joining us this morning. We really appreciate your time and as always if
 there is any follow-up, please reach out to Investor Relations. Have a great day. Thank you.
 

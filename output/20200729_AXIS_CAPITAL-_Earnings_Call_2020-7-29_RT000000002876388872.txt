@@ -29,10 +29,7 @@ today's presentation, there will be an opportunity to ask questions. (Operator I
 Please note this event is being recorded. I would now like to turn the conference call over
 to Mr.Matt Rohrmann, Investor Relations. Mr.Rohrmann, the floors is yours, sir.
 
-Matt Rohrmann
-
-{BIO 15132648 <GO>}
-
+Matt Rohrmann {BIO 15132648 <GO>}
 Thank you, Mike. Good morning, ladies and gentlemen. I'm happy to welcome you to our
 conference call to discuss the financial results for AXIS Capital for the second quarter
 period ended June 30, 2020. Our earnings press release, financial supplement and 10-Q
@@ -67,9 +64,7 @@ measures, reconciliations are included in our earnings press release and financi
 supplement.
 With that, I'll turn the call over to Albert.
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -145,10 +140,7 @@ improvements in our performance. We feel good about where our business is today 
 even better about where we're headed. Peter will now walk us through the financials, and
 I'll come back to talk more about pricing and have our Q&A. Pete.
 
-Peter J. Vogt
-
-{BIO 17059745 <GO>}
-
+Peter J. Vogt {BIO 17059745 <GO>}
 Thank you, Albert and good morning, everyone. As Albert noted, this was a quarter where
 we continued to see sustained improvement in our financial performance. During the
 quarter, we generated net income available to common shareholders of 112 million and an
@@ -307,10 +299,7 @@ as we entered the year in a strong position with capital in excess of AAA levels
 this moment, we have the ability to grow into the hardening market.
 With that, I'll turn the call back over to Albert.
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you. Peter. Let's do a brief overview of market conditions and outlook, and we'll
 then open the call for questions. As I noted in my upfront comments, we continue to see
 accelerated improvement in pricing throughout our business. For our Insurance segment,
@@ -420,20 +409,14 @@ Operator
 Thank you, sir. We will now begin the question-and-answer session. (Operator Instructions)
 And the first question we have will come from Brian Meredith, UBS.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Peter, for you first. I'm curious, can you talk a little bit about your capital position? I know
 you've got your debt to capital is down, which is great. But just kind of looking forward,
 where are you in the process of reducing your volatility? Where are you right now from a
 capital position where you feel comfortable that you can kind of really ramp up growth for
 this hard market?
 
-A - Peter J. Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter J. Vogt {BIO 17059745 <GO>}
 Hey, Brian, this is Pete. Let me hit that with a couple of things; one, we do feel good about
 where our capital position is, we have rebuilt it and actually that both rating agencies and
 
@@ -466,38 +449,26 @@ AAA entering this year. So we feel really good about the capital position right 
 
 Bloomberg Transcript
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. That's terrific. And then just quickly, you mentioned that some of the businesses
 you exited had a 3% headwind on -- in the insurance segment premium growth. Curious,
 was there any impact from the runoff lines on the underlying loss ratios in the insurance
 segment?
 
-A - Peter J. Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter J. Vogt {BIO 17059745 <GO>}
 Yes, there still was. I'll point out, we got about -- still got about $30 million of unearned
 premium on that book, especially this quarter we had about two points on the combined
 ratio, really centered in the loss ratio, Brian. Really came out of some losses coming out of
 the whole business that we exited. And so, if I take out the exited business, the ex cat
 loss ratio for insurance would be just about two points better than the reported 55.6%.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Alright. That's terrific. And then last one for Albert. I'm just curious, Albert, when you set
 your COVID-19 loss estimates here, what are your kind of assumptions with respect to the
 international BI losses? I know there's something going on right now with the FCA. Does
 that matter at all to you all and just kind of thoughts around that?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yes. So let's talk about the FCA and what's happening in the U.K. As you know, they're
 reviewing all the wordings, and just to set the table here, our expectation is that the
 arguments will be finished this week. We probably will get a response sometime in
@@ -527,10 +498,7 @@ reinsurance side, but we don't have a large cat book in the U.K. So, I think the
 judgment, ultimately, would have a limited impact on us if it went against us. But it's still
 early days.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Thank you.
 
 Operator
@@ -538,18 +506,12 @@ Next we have Meyer shields, KBW.
 
 Bloomberg Transcript
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Thanks. Good morning. I think this is a question for Pete. I was hoping you could run
 through, maybe give us a little more color on the reserve adjustments for the longer tail
 liability and professional lines?
 
-A - Peter J. Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter J. Vogt {BIO 17059745 <GO>}
 Yes, Meyer. So in the quarter, mostly on the insurance liability side, we strengthened those
 reserves by about $17 million, and it was really focused on, I'll call it, some adverse signals
 we were seeing coming out of the '17 and '18 accident years. As you know, early on in the
@@ -563,10 +525,7 @@ And then we had really favorable development continuing in property and credit a
 surety that offset that, so we ended up with just a small positive development reported in
 the quarter.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. I know this is an impossible question, but should we assume that that longer tail line
 strengthening is like a one-time adjustment, assuming that reality doesn't get worse?
 
@@ -578,9 +537,7 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2020-07-29
 
-A - Peter J. Vogt
-
-{BIO 17059745 <GO>}
+A - Peter J. Vogt {BIO 17059745 <GO>}
 
 FINAL
 
@@ -595,20 +552,14 @@ book on excess casualty and primary casualty. So the -- when I look at the '18, 
 and '20 year, they're at a much level -- better level of premium than we saw, call it, the
 '15, '16 year.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. No, thanks. That's very helpful. Albert, just big picture question. When we look at the
 Southeast U.S. Hurricane PML on a sequential basis, it's up. Is that the cat bond? Is there
 anything else playing a role there?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yes. So if you look at it, I think it's down year-over-year. So if you look at July 1 to July 1, it's
 down meaningfully year-over-year across every period. And with regards to the difference
 between Q1 and Q2 it's -- as Pete noted earlier, the different reinsurance program that we
@@ -617,28 +568,19 @@ And we decided not to renew our cat bond. And since the cat bond was attaching a
 high level, you can see this impact in the 1-in-250 going up, but that's the impact. And we
 think, right now, we think we've built a better book across the curve.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Understood. Thank you very much.
 
 Operator
 The next question we have will come from Elyse Greenspan of Wells Fargo.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi. Thank you. Good morning. My first question, I guess, goes back to one of the earlier
 questions, you guys said that there was about two points on the insurance loss ratio from
 some of those runoff lines in the quarter. Could you just remind us, I thought maybe it was
 the first half of the year or when do you expect kind of have those all off your book?
 
-A - Peter J. Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter J. Vogt {BIO 17059745 <GO>}
 So, Elyse, this is Pete. As I mentioned at the beginning of the year, we had right around
 $50 million of UPR of that -- those exited books. It's down to about $30 million now. By the
 end of the year, it'll be de minimis. That will run off pretty much -- it'll be like low-single-
@@ -658,10 +600,7 @@ should be done by the end of the year. We'll have single-digit UPR into 2021.
 
 FINAL
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Great. And then I guess a follow-up to that. You guys are running at about kind of a 55%
 underlying loss ratio in insurance through the first half of this year, right? So if we kind of
 neutralized for that two points, I guess that would put you at round 53%. So, you're
@@ -669,9 +608,7 @@ getting a lot of rate in your insurance book. So is that the right pace to think
 improvement off of in 2021. I guess with some assumption, way to [ph] counterbalance
 against loss trend within that thought process?
 
-A - Peter J. Vogt
-
-{BIO 17059745 <GO>}
+A - Peter J. Vogt {BIO 17059745 <GO>}
 
 Bloomberg Transcript
 
@@ -688,10 +625,7 @@ the insurance division alone, which we also think could be an improvement. And t
 there's the ongoing improvements in the book of business as we go forward. So we're
 feeling very optimistic about the trend of improvement going forward from here.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. Great. And then on the capital side, you guys made the point (inaudible) saying, feel
 [ph] confident in your capital position, but what feels like a pretty good market that we're
 heading into for 2021. So as we think about -- you guys brought down the leverage, but as
@@ -700,10 +634,7 @@ premium to capital basis for all of AXIS or maybe thoughts around the insurance 
 reinsurance that we can think about, what incremental writings that your current capital
 would be [ph]?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So I would look at it from two perspectives. I think, as Pete mentioned, our portfolio is
 increasingly capital efficient given the way we're managing the cat book. And importantly,
 one of the things that we are very focused on is making sure that our growth, as we take
@@ -731,19 +662,13 @@ So in both cases, we think we've got opportunities to increase our profitability
 forward. But at this point in time, given where our people are sizing the opportunities, we
 don't see ourselves as being limited.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. And then one last one. When you guys set up your COVID loss last quarter, I believe
 you had mentioned taking some event cancel covers through the middle of July. So given
 that we're, obviously, not fully back to normal, can you just talk to the potential for losses
 on that business to pop up in the third quarter?
 
-A - Peter J. Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter J. Vogt {BIO 17059745 <GO>}
 Yes, Elyse, this is Pete. We are not big in the event cancellation business at all. We, literally,
 have two contracts and they're both associated with the Olympics. So we're just looking
 at that one event. And we feel good about the reserve, the loss provision we have up. But
@@ -751,29 +676,20 @@ for us, that's the only event we're really looking at.
 
 Bloomberg Transcript
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. Thank you. I appreciate the color.
 
 Operator
 Next we have Josh Shanker, Bank of America.
 
-Q - Josh Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Josh Shanker {BIO 21718992 <GO>}
 Thank you very much. The first one, looking at the renewal season and what you're seeing
 [ph] about rates in various areas. One thing that we're very understanding of is this
 (inaudible) the PML. Can you sort of explain how the pricing improvements related to
 decline in property cat reinsurance? And whether 2Q '20 is a period of time to be taking
 more exposure rather than less exposure in the cat markets?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So two thoughts there. We think the cat markets are now, they were pretty inadequately
 priced. We think, right now, they're probably somewhere in the teens, which we're happy
 to take, and it's important as part of our overall book of business. But these are not the
@@ -802,10 +718,7 @@ And so, yes, we will certainly grow our cat exposures in this market in a balanc
 take advantage of it, but we have a very clear expectation of our appetite for cat and for
 our portfolio in general.
 
-Q - Josh Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Josh Shanker {BIO 21718992 <GO>}
 Okay. And then unrelated question. Looking at companies that have reported so far, most
 companies that reported have a very low paid to incurred ratio during the quarter as the
 slowdown in COVID has may be slowed payments, maybe slowed claims and there's a lot
@@ -815,41 +728,26 @@ period we should see a low paid to incurred ratio? Do you have any thoughts ther
 
 Bloomberg Transcript
 
-A - Peter J. Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter J. Vogt {BIO 17059745 <GO>}
 Yes. Probably -- this is Pete -- the only thing that I would suggest we had paids in the
 quarter associated with the Japanese cats. So that flow through this quarter and that
 would be affecting that ratio, Josh.
 
-Q - Josh Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Josh Shanker {BIO 21718992 <GO>}
 And if I exclude those, are you also experiencing unusually low paid to incurred under the
 current conditions in the market?
 
-A - Peter J. Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter J. Vogt {BIO 17059745 <GO>}
 Yes. Overall, I don't have the exact number in front of me, but we can get back to you on
 that exact one. I'd say what's been a little bit more interesting is we saw lower frequency
 coming in and that could be just due to lower losses or could be due to just us not being
 able to get the -- just slowdown in the reporting of claims, and we did not recognize that
 at all in the quarter.
 
-Q - Josh Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Josh Shanker {BIO 21718992 <GO>}
 Okay. And the Japanese cats, you're fully paid out on those for the most part?
 
-A - Peter J. Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter J. Vogt {BIO 17059745 <GO>}
 No, no, we're not fully paid out. We just made -- some payments were made in the
 quarter.
 
@@ -861,10 +759,7 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2020-07-29
 
-Q - Josh Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Josh Shanker {BIO 21718992 <GO>}
 Okay. Thank you for all the detail.
 
 Operator
@@ -873,22 +768,13 @@ FINAL
 
 Next we have Yaron Kinar of Goldman Sachs. Sir, your line might be muted?
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Hello. Can you hear me?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yes.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay. Sorry about that. Yes. So I guess my first question actually goes back to the fixed
 income yield. I think the quarter-over-quarter compression, 25 basis points or so, it seems
 a little greater than I would have expected for this type of duration. Any comments as to
@@ -896,10 +782,7 @@ the moving parts there and what would have led to that level of compression?
 
 Bloomberg Transcript
 
-A - Peter J. Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter J. Vogt {BIO 17059745 <GO>}
 Yes. It actually compressed about 22 points in the quarter. This is Pete. And where we saw
 that come through is, one, about 15% of that portfolio is on -- is associated with floaters.
 So while we were actually getting some good rate increases in 2018 due to the floaters
@@ -910,25 +793,17 @@ this particular quarter and so they got reinvested at a lower rate. So, I wouldn
 bp drop in the quarter is going to be an indicative run rate going forward. It just happened
 to be some specifics in this quarter.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay. That's helpful. Then on the BI debate. Can you give us any sense of what the limit of
 that U.K. reinsurance treaty is of how much protection you have once you get to that $75
 million attaching point?
 
-A - Peter J. Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter J. Vogt {BIO 17059745 <GO>}
 This is Pete. I know we've looked at it, it's got a couple of layers to it. And in the most
 extreme circumstance, we didn't feel we'd go through the top of the tower. That's what I
 can tell you, Yaron.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
+Q - Yaron Kinar {BIO 17146197 <GO>}
 
 Page 15 of 21
 
@@ -946,10 +821,7 @@ environment we're seeing now, is this the point to start prioritizing growth ove
 improvement or are you still more focus on the improvement over growth, or both
 achieved at the same time?
 
-A - Peter J. Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter J. Vogt {BIO 17059745 <GO>}
 Well, this is Pete. I'll just start with that, then I'll let -- I'd ask Albert to pile on. But I would
 just say that, especially, overall, one, we've re-positioned the portfolios and if I think just
 about insurance, they were at 7.2% growth, the exited line was about 3% drag. And I
@@ -963,10 +835,7 @@ hardening markets. Albert, would you like to add on to that?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I think that's right. Look, I think on the reinsurance side, in particular, you will have noticed
 that those reductions actually came mostly in the first quarter as we were non-renewing
 certain books that we felt would not be part of our book going forward. So, we believe
@@ -976,10 +845,7 @@ during our prepared remarks, we're incredibly well positioned in the markets tha
 seeing some of the best improvements. We've got great relationships with our clients
 and our brokers and we are looking to take advantage of the growth opportunity.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Thank you.
 
 Operator
@@ -994,10 +860,7 @@ yield that you mentioned to allocate a portion of this to returning additional c
 shareholders, maybe by repurchasing some of the shares that are trading at currently
 about 80% of tangible book.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Page 16 of 21
 
 
@@ -1025,10 +888,7 @@ keep writing business at these hard rate -- at the hard market rate levels and g
 a return there. But what did you say about -- with the stock trading so low to tangible, did
 you say it does not make sense to repurchase some of those shares?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 No, what I said was --I agreed with you that the stock price was very attractive, especially
 given the opportunities ahead of us.
 
@@ -1037,10 +897,7 @@ Bloomberg Transcript
 Q - Douglas Eden
 Okay. And is it relates to repurchasing shares?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Right now, we believe that we can create more value by growing our franchise and taking
 advantage of the growth opportunities that we have in the insurance and reinsurance
 markets in which we participate.
@@ -1054,10 +911,7 @@ So, I'm in your guys' corner, we're all on the same team, but I think it doesn't
 have to be an either/or. I think maybe it could be a hybrid of both with a 20% discount to
 book.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I agree with you that the price of the stock does not make sense and I'd be happy to talk
 to any investor who wants to analyze our book, our reserves and our opportunities. This
 price does not make any sense to us either.
@@ -1073,9 +927,7 @@ Date: 2020-07-29
 Q - Douglas Eden
 Yes. Thank you very much. Keep up the good work.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 FINAL
 
@@ -1084,10 +936,7 @@ Thank you.
 Operator
 Next we have Adam Starr, Gulfside Asset Management.
 
-Q - Adam Starr
-
-{BIO 3781726 <GO>}
-
+Q - Adam Starr {BIO 3781726 <GO>}
 Hi. Thanks for taking my question. Just approaching the volume and growth from a
 different angle. If we look how much of your business is shrinking and how much is
 growing, you've certainly mentioned the price activity and the appeal that certain lines
@@ -1095,45 +944,31 @@ have today. Where did the lines cross over? And where do you start to see the gr
 lines more than offset the business you've non-renewed or discontinued. Is there a way of
 looking at it from that standpoint?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
 Adam, I'm sorry. I'm not quite sure I understand the question. Because if you look at our
 insurance book --
 
-Q - Adam Starr
-
-{BIO 3781726 <GO>}
-
+Q - Adam Starr {BIO 3781726 <GO>}
 That's growing very nicely.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 No, but -- so I'm not sure I understand what you mean by the growing point. Our disc ops
 or cancelled lines probably took three point negative impact on gross written premium
 this quarter. But the rest of the lines went up 10 points. So that, net-net, it was a positive
 seven. So, I believe that we've crossed the line over there. So I'm not sure I understand
 your question.
 
-Q - Adam Starr
-
-{BIO 3781726 <GO>}
-
+Q - Adam Starr {BIO 3781726 <GO>}
 Well. When we look at the reinsurance business, you're kind of neutral and that brings
 down the overall company growth rate below the growth of price that you're getting. So
 you're actually shrinking exposures, which isn't necessarily a bad thing, but all your prices
 grow [ph]. You're not -- and if business is so attractive today, one would assume that
 there's an incentive (Technical Difficulty)
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Hello?
 
 Operator
@@ -1150,10 +985,7 @@ somewhere. We'll go ahead and proceed to the next question. Josh Shanker --
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Let me at least address the question as I think I understood it. Again, I think if we look at
 the reinsurance book, it was flat and we explained that one of the areas for that was that
 we curtailed our cat book and I believe that the financial supplement provides the
@@ -1174,27 +1006,18 @@ Operator I'm happy to go to the next question.
 Operator
 Yes, sir. It'll be a follow-up, Josh Shanker, Bank of America.
 
-Q - Josh Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Josh Shanker {BIO 21718992 <GO>}
 Thank you for letting me a second one. It's not (inaudible) question, but a comment.
 Albert, you said you'd be happy to talk to any investor about the status of your reserve, I
 can tell you that Matt does a great job explaining, but I just want to make a suggestion
 you could really benefit from changing your disclosure on the reserves make them more
 granular. The basic analysis doesn't do justice to what you're talking about.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thanks for that. And you know what, we'll sit down with you and we'll take a look at what it
 is that you're looking for and we'll see if we can be helpful.
 
-Q - Josh Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Josh Shanker {BIO 21718992 <GO>}
 Thank you.
 
 Operator
@@ -1207,35 +1030,24 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2020-07-29
 
-Q - Adam Starr
-
-{BIO 3781726 <GO>}
-
+Q - Adam Starr {BIO 3781726 <GO>}
 Yes. I'm sorry. We got cut off. And if you were answering me, I didn't hear it. So I hope I'm
 not wasting everyone else's time. But when you think you'll start to see unit growth as well
 as price growth across the board, both primary and reinsurance.
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 That's a fair question. And I would say that, we would be looking that on the insurance
 side, very likely as we enter the rest of this year. And I would say that on insurance and
 reinsurance, I would expect both of those to happen next year in 2021. It will, of course,
 depend on the market opportunities, but that would be our outlook.
 
-Q - Adam Starr
-
-{BIO 3781726 <GO>}
-
+Q - Adam Starr {BIO 3781726 <GO>}
 But you'll be pretty much done with the non-renewal process and the sorting out the
 existing exposures.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -1246,16 +1058,10 @@ corrective action. But our expectation is that if these trends continue, if the 
 to equilibrate at reasonable double-digit ROEs, then we would be very happy to resume
 growth, but it will be obviously treaty and risk dependent.
 
-Q - Adam Starr
-
-{BIO 3781726 <GO>}
-
+Q - Adam Starr {BIO 3781726 <GO>}
 Okay. Well, thank you very much. I appreciate your answers.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you.
 
 Operator
@@ -1263,10 +1069,7 @@ I see [ph] no further questions at this time. We will conclude our question-and-
 session. At this time, I'd like to turn the conference call back over to Mr.Albert Benchimol
 for any closing remarks. Sir?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you very much, operator, and thank you to all of you for joining us this morning. And
 just to conclude, obviously, we feel really good about our second quarter results. And as I
 hope, we communicated even better about our future and our outlook. We've got a very

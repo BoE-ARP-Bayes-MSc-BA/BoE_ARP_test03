@@ -30,10 +30,7 @@ hosts, followed by Q&A session.
 At this time, I would now like to hand the call over to Mr. Chris Figee, CFO. Go ahead
 please, sir.
 
-Chris Figee
-
-{BIO 18815839 <GO>}
-
+Chris Figee {BIO 18815839 <GO>}
 Good afternoon, ladies and gentlemen, welcome to the ASR Annual Results Presentation.
 I am here joined by Jack Julicher. As is customary, Jack who heads up our Financial
 Markets and Asset Management business, and myself, CFO, will guide you through the
@@ -376,10 +373,7 @@ investment portfolio.
 
 FINAL
 
-Jack Julicher
-
-{BIO 5943222 <GO>}
-
+Jack Julicher {BIO 5943222 <GO>}
 Thank you, Chris. Let me turn to Slide Number 13 and we see an overview of the
 investment portfolio. Last year's economic environment was characterized by upcoming
 [ph]optimism around economic recovery, extremely low interest rates, and uncertainty
@@ -545,10 +539,7 @@ and institutional clients and integrated proposition.
 That brings me to the end of the presentation of the investment portfolio. Chris, I want to
 hand over to you.
 
-Chris Figee
-
-{BIO 18815839 <GO>}
-
+Chris Figee {BIO 18815839 <GO>}
 Jack, thank you. Ladies and gentlemen, let's turn to page 16 on Solvency and Balance
 Sheet management. It's my understanding that this day and age most investors look at
 insurance capital, the way Winnie the Pooh looks at honey, with lots of interest and lots of
@@ -927,9 +918,7 @@ Thank you, Chairman. Ladies and gentlemen, we're starting the question-and-answe
 session now. (Operator Instructions) Our ﬁrst question is from Mr. Cor Kluis from the
 Rabobank. Go ahead please.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
+Q - Cor Kluis {BIO 3515446 <GO>}
 
 Bloomberg Transcript
 
@@ -949,10 +938,7 @@ in the past that the SCR growth of the year would be around 12% to 18%. How do w
 to relate that it will be made less or to be also to take the normal operational part of the
 normal remittances? These are my questions.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Cor, it's Chris, I'll ask this question to Jack. Jack will go into details on the hedging
 program. One point on Solvency II ex-UFR, we do not disclose SCR to ex-UFR. We believe
 at this point in time, the UFR is such an integral part of Solvency II. An estimate, it make
@@ -965,10 +951,7 @@ So in terms of the world, ex-UFR, it's not something we feel it's appropriate to
 we do disclose as if we can UFR, and in terms of rate sensitivity, I think Jack can talk about
 the eﬀect that you mentioned.
 
-A - Jack Julicher
-
-{BIO 5943222 <GO>}
-
+A - Jack Julicher {BIO 5943222 <GO>}
 Yeah. With respect to let's say the sensitivity in an upward and downward interest
 scenario, those plus 5, what is important to understand that the -- ﬁrstly, the competitive
 Page 18 of 31
@@ -988,33 +971,21 @@ when you look to longevity risk, there is interest sensitivity. And then you hav
 impacts and all those eﬀects, then yeah, in totality, the peculiar impact is that in both
 scenarios there is a plus in the sensitivity.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Okay.
 
-A - Jack Julicher
-
-{BIO 5943222 <GO>}
-
+A - Jack Julicher {BIO 5943222 <GO>}
 Yeah. And then concerning your question on exposure to NHG and CoCo. What I can say
 with respect to NHG is that we are underweighted in NHG. In NHG sector it is possible
 that you can say the way that our portfolio is about half of the weighted indexes that we
 apply and CoCo exposure is limited. Yeah, it's around 50 million, 60 million.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Okay.
 
 Bloomberg Transcript
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Okay. Cor, it's Chris again. On the remittances, last year, did we mention some number,
 but that was about capital generation, nothing is capital remittance. So if you strip the two
 to capital remittances here operationally it was 245 and historically, the last year we had a
@@ -1031,16 +1002,10 @@ remittance, the other is capital generated and when you compare that; take page 
 compare to the 9% and the 16%, and you can see, we're still in line with that payment that
 we made last year.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Okay. Wonderful and good disclosure. Thanks.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Okay. Thank you.
 
 Operator
@@ -1056,10 +1021,7 @@ The next question is from Matthias De Wit from KBC. Go ahead please.
 
 FINAL
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Yes. Good afternoon. Also number of questions from my side, could you ﬁrst of all on
 Solvency II, provide the breakdown in the movement in the full year Solvency II ratio, but
 also maybe in H2 and an even Q4, breakdown between market movements also M&A, it's
@@ -1080,10 +1042,7 @@ book? Thank you.
 
 Bloomberg Transcript
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Right, Matthias. Thank you. In answering your questions, I'll be very careful not to make
 any forward-looking statements. You can only reﬂect what we did in the past. So, bear
 with me, Matthias, in my answers. In terms of development of Solvency over time by
@@ -1099,17 +1058,11 @@ did all the work on the methodology changes. So from our perspective, if I look 
 last year, looking at on a quarter-by-quarter basis is less relevant, because the
 methodology changes peaked [ph] in one certain season but --
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 But if you just look at the Q4 movement and you strip out the methodology changes,
 could you provide any indication of what's -- for the movement, maybe directionally --
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Page 20 of 31
 
 
@@ -1124,32 +1077,20 @@ can divide by month, that's roughly what I need -- what I estimate looking back.
 
 FINAL
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 And with the volatility now in Q1, like the ﬁrst month, January and ﬁrst week, any update
 on the sensitive -- based on sensitivity you could provide?
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Just you will understand, I can only refer you to page 25. There are sensitivities and they
 will allow you and here you can make your own estimate at this point in time.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Okay.
 
 Bloomberg Transcript
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 In terms of the impact of the acquisitions again, we issued a 500 million hybrid. If you
 look at the 11% growth and roughly a 3 billion capital base, you can easily back-out the
 acquisitions. But that eﬀectively is net, net cash out toward capital contribution and/or
@@ -1191,19 +1132,14 @@ support this ﬁxed viable cost assumption. In the past we saw that at the end o
 proving to assume at this point in time, actually an increased ﬁxed portion of the
 traditional Life and Pensions business.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Okay. Thank you.
 
 Operator
 The next question is from Jan Willem Knoll from ABN Amro. Go ahead please. Mr. Knoll,
 you can open your line now and ask your question.
 
-Q - Jan Willem Knoll
-
-{BIO 18247722 <GO>}
+Q - Jan Willem Knoll {BIO 18247722 <GO>}
 
 Bloomberg Transcript
 
@@ -1226,10 +1162,7 @@ And more speciﬁcally on visibility, do you see any beneﬁt from the economic 
 your claims trends. The claims trends have been moving down nicely, so some insights
 there would be helpful as well? Thanks.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Yeah, Jan. Thank you. It is four questions in one. On LAC DT, you asked whether we kind
 of solve [ph] to lower the LAC DT, well, let me tell you, there are very few insurance
 companies who solve for lower Solvency DT days. We've actually worked very hard on the
@@ -1267,9 +1200,7 @@ Had we had last year the deferred tax liability that would have made life a lot 
 cannot at this point speculate on future scenarios, I think that's not appropriate for this
 call, that's what I leave it with that.
 
-Q - Jan Willem Knoll
-
-{BIO 18247722 <GO>}
+Q - Jan Willem Knoll {BIO 18247722 <GO>}
 
 Bloomberg Transcript
 
@@ -1277,10 +1208,7 @@ So just may I jump in on that. Sort of, has been soft guidance from the regulato
 component 4. And you have, let's say, interpreted that in a quite conservative way, in my
 own words, and that's how you got to this well, rounded sort of 50% number?
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Yeah. That's a good way of summarizing it, yes. In terms of capital, yes, we are -- have a
 conservative capital base we have headroom in Tier 1 and Tier 2. How do we think, how
 we thought about in the last year. We issued a Tier 2 instrument last year. We had Tier 2
@@ -1337,19 +1265,13 @@ the combined ratio, because we've been below 100 for the last ﬁve years since 
 from my perspective, if I look back at our business the way we run the business makes it
 relatively inelastic for economic developments.
 
-Q - Jan Willem Knoll
-
-{BIO 18247722 <GO>}
-
+Q - Jan Willem Knoll {BIO 18247722 <GO>}
 Okay. Very clear. Thanks a lot.
 
 Operator
 The next question from Albert Ploegh from ING Bank. Go ahead please.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Yes. Thank you for taking my questions. First of all many thanks for the presentation on
 Solvency II. I've got a question on two slides, number 20 and number 26 basically. On
 slide 26, where you have talked about your operational remittance and already some
@@ -1378,9 +1300,7 @@ developments, I understand your comments that maybe part of the 16 points is als
 somewhat organic related as well. Is there basically also already some form of relief of -the release maybe of some beneﬁcial books in there versus purely, let's say, of 2015 really
 organic generation of the insurance business so to speak? Thank you.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
+A - Chris Figee {BIO 18815839 <GO>}
 
 Bloomberg Transcript
 
@@ -1424,15 +1344,10 @@ Company Name: ASR Nederland NV
 Company Ticker: ASRNL NA Equity
 Date: 2016-02-17
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay. That's very helpful. Thank you.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
+A - Chris Figee {BIO 18815839 <GO>}
 
 FINAL
 
@@ -1441,9 +1356,7 @@ Yeah.
 Operator
 The next question is from Mr. William Hawkins from KBW. Go ahead please.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
@@ -1462,10 +1375,7 @@ still sort of in what you would consider abnormal circumstances and given your o
 structure. And around that how did you exactly arrive 170 million, so just as a range, why
 wasn't it 150 or 200 for the sake of argument?
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Okay, William, its Chris. Thanks. On the life side, turning into page nine, the operating
 result increased 349 to 434. And the most important component was the non-recurrence
 of a provision we made last year. That number is around 40 million relate to 2014. Second
@@ -1475,17 +1385,11 @@ increase contributed to (inaudible) from the capital gain reserve. So 40 million
 2014 released into 2015 that we used to spend on regulatory projects, the remainder by
 and large, the increased contribution from the capital gains reserve.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 I may be -- excuse me, passing it [ph]. I may be getting confused, but this time last year
 there was a 93 million VOBA charge is that outside the operating result of life?
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Yes, outside, that does not feed into at all, yes.
 
 Page 26 of 31
@@ -1496,18 +1400,12 @@ Company Name: ASR Nederland NV
 Company Ticker: ASRNL NA Equity
 Date: 2016-02-17
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thanks.
 
 FINAL
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Okay. In the investment margin, if we continue to talk about the underlying increase, but
 the investment margin therefore is an important factor that increase the life results, right.
 The underlying increase in the -- is basically due to the higher amortization of realized
@@ -1525,27 +1423,19 @@ more clarity on our future dividend policy, but again that this is not the time 
 the 170 was agreed between us and the shareholder taking into account the
 developments in the business.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
 That's helpful for now. Thank you.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Yeah.
 
 Operator
 The next question is from Marcus Rivaldi from Twelve Capital. Go ahead please.
 
-Q - Marcus Rivaldi
-
-{BIO 5739374 <GO>}
-
+Q - Marcus Rivaldi {BIO 5739374 <GO>}
 Good afternoon, everybody. I've got questions. Chris, ﬁrst could you -- you can help out is
 on the seasonality and the holding and the other line. I think at half year that's 61, I think
 full year on 93, what's more -- ﬁscal half-year run rate please?
@@ -1576,10 +1466,7 @@ I'm just trying to think maybe -- if you look at that -- if you're looking backw
 and shape of the group, are you happy with the diversiﬁcation of (Technical Diﬃculty)
 maybe could it be improved? Thanks.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Right, Marcus. You had couple of questions into one. Let me ﬁrst comment on the real
 estate development business. The past years, we've made signiﬁcant contributions to the
 provisions for that business. We felt that we're comfortable with the provisioning that we
@@ -1602,17 +1489,11 @@ So last year we have classiﬁed this as a one-oﬀ deduction from our Solvency,
 wanted to make sure by the end of the year, last year we were rock solid in all our
 assumptions.
 
-Q - Marcus Rivaldi
-
-{BIO 5739374 <GO>}
-
+Q - Marcus Rivaldi {BIO 5739374 <GO>}
 So we would expect to see that sort of movement, you think, as (inaudible), but this is a
 one-oﬀ ﬁnancial? Okay.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 We were -- last year, we have actually taken a one-oﬀ perspective and make sure at the
 end of the year we are rock solid. In terms of diversiﬁcation beneﬁt, we're very pleased
 with the diversiﬁcation of our business. Now, I can't see anything about potential future
@@ -1631,18 +1512,13 @@ Date: 2016-02-17
 very good underwriting machine. That's something how we looked at the acquisitions last
 year and it's all I can say at this point as you understand that.
 
-Q - Marcus Rivaldi
-
-{BIO 5739374 <GO>}
+Q - Marcus Rivaldi {BIO 5739374 <GO>}
 
 FINAL
 
 Okay.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 In terms of holding expenses, I think what you see in the holding expenses, ﬂuctuations in
 the operating expenses in the holdings tend to run relatively stable over time and where
 you can see ﬂuctuation is pension charges that runs through the year. Sometimes because
@@ -1660,24 +1536,15 @@ holding cost base after September.
 
 Bloomberg Transcript
 
-Q - Marcus Rivaldi
-
-{BIO 5739374 <GO>}
-
+Q - Marcus Rivaldi {BIO 5739374 <GO>}
 Okay. So one that comes one quickly oﬀ and you mentioned about the running yield on
 your life booked ups, which is over 3%, where you were investing new money today,
 please?
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Jack?
 
-A - Jack Julicher
-
-{BIO 5943222 <GO>}
-
+A - Jack Julicher {BIO 5943222 <GO>}
 Yeah. What I mentioned was that running yield of 3.2% and that it was well above the -let's say, the guarantees on the life products. We had it reinvested on the basis of our
 strategic asset allocation, so a general investment policy. That means in general you can
 say, when you look to the composition of the investment portfolio as it is, what still
@@ -1685,15 +1552,10 @@ important is that we in the past always, yeah, we invested based on the composit
 the investment portfolio. So that is what I can say about it. For the future it's -- I'm not in a
 position that I can comment on that.
 
-Q - Marcus Rivaldi
-
-{BIO 5739374 <GO>}
-
+Q - Marcus Rivaldi {BIO 5739374 <GO>}
 You may say where roughly were you investing at the end of 2015, I mean [ph]?
 
-A - Jack Julicher
-
-{BIO 5943222 <GO>}
+A - Jack Julicher {BIO 5943222 <GO>}
 Page 29 of 31
 
 
@@ -1708,20 +1570,14 @@ small part in equities and also a small share in real estate.
 
 FINAL
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Markets, I think, at the end of last year, as Jack said we invested into credits, into
 mortgages, into real estate and equities. If you look at the direct yields of those
 instruments, it is hard work to stay above 2%. But I think that the end of last year, we are
 still able to stay above 2% in new money direct yields. But as you're aware, is it hard these
 days to ﬁnd these instruments.
 
-Q - Marcus Rivaldi
-
-{BIO 5739374 <GO>}
-
+Q - Marcus Rivaldi {BIO 5739374 <GO>}
 Thank you very much.
 
 Operator
@@ -1729,10 +1585,7 @@ Next question is from Steven Haywood from HSBC. Go ahead please.
 
 Bloomberg Transcript
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Hello, everyone. I just wonder, if you could answer couple of more questions on the
 investment portfolio as well. Do you have an estimate of rough kind of guide, what sort of
 duration -- average duration your ﬁxed income portfolio is? And then could also relate
@@ -1741,25 +1594,16 @@ about the running yield being higher than the guarantee average, if you can prov
 with the average guarantee on your life and pension plans that would be very helpful?
 Thank you.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Yeah. To start with the ﬁrst question, in last year the average yield was at the safe level of
 yield of 3.2 and the average guarantee level at 2.6. When you look to duration versus
 liabilities, yeah, we have a matchbook a long-term matchbook and then you look to last
 year duration levels were around 16 liability side and 14 at asset side.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Okay. Perfect. Thank you.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 But it is important to take into consideration also the complexity, because this only look
 into liabilities is not a indicating -- really the -- let's say, the interest (inaudible).
 
@@ -1774,9 +1618,7 @@ Company Name: ASR Nederland NV
 Company Ticker: ASRNL NA Equity
 Date: 2016-02-17
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
+A - Chris Figee {BIO 18815839 <GO>}
 
 FINAL
 

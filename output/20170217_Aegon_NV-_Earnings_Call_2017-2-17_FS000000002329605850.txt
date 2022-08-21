@@ -34,10 +34,7 @@ Good day and welcome to the AEGON Q4 Results Analyst and Investor Conference Cal
 Today's conference is being recorded. At this time, I would like to turn the conference
 over to Willem. Please go ahead, sir.
 
-Willem van den Berg
-
-{BIO 15203834 <GO>}
-
+Willem van den Berg {BIO 15203834 <GO>}
 Thank you. Good morning, everyone, and thank you for joining this conference call on
 AEGON's fourth quarter 2016 results. We would appreciate it if you take a moment to
 review our disclaimer on forward-looking statements, which is at the back of this
@@ -56,9 +53,7 @@ Date: 2017-02-17
 
 I will now hand it over to Alex.
 
-Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 FINAL
 
@@ -295,10 +290,7 @@ Bloomberg Transcript
 Thank you. Thank you. So, now, we'll take our first question from Ashik Musaddi from
 JPMorgan. Please go ahead. Your line is now open.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Hi. Good morning, Alex. I have three questions. First of all, can you give us some clarity
 about your interest rate sensitivity, especially in the U.S. Somehow, it shows that rising
 interest rate is negative and falling interest rate is negative as well. So, what are we
@@ -315,10 +307,7 @@ dividend from Netherlands and from UK, your dividend is still covered going forw
 well, dividend and HoldCo cost. That would be great if you can give clarity on these three
 ones. Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Page 6 of 23
 
 
@@ -382,15 +371,10 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2017-02-17
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay, that's very clear. Thank you. Thanks, Alex.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 FINAL
 
@@ -400,10 +384,7 @@ Operator
 Thank you. And now we'll take our next question from Albert Ploegh from ING. Please go
 ahead. Your line is now open.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Yes. Good morning, all. Two questions from my side. Would like to go a little bit into the
 U.S. earnings and especially what has been flagged as the one-time items. I mean, this
 quarter, clearly, there was a quite positive experience in the long-term care, which, of
@@ -417,10 +398,7 @@ that specific business line? At the same time, you mentioned also the, let's say
 adverse persistency on the universal life policies, give a little bit color there and how
 comfortable are you with that experience going into 2017? Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 So, Albert, thanks for your question. Yeah. In terms of the claims experience, yes, we are
 pleased to see positive claims experience in long-term care and in our health business – in
 both businesses. Now, the seasonality of it is the following. As you say, a lot of the
@@ -436,10 +414,7 @@ with what is the expected volatility range. I don't believe that – we don't be
 most – the recent experience we've seen here is something that we naturally will see
 continuing going forward. Thank you.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 And maybe one small follow-up more from a cash flow perspective. You mentioned the
 UK Part VII transfers. What can we expect a little bit in terms of timing? Will it be then
 more, let's say, a Q2 event so more news in August or is it more in, let's say, end of year
@@ -457,10 +432,7 @@ you.
 
 FINAL
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah. Albert, as we mentioned, Part VII, we have two Part VIIs. The one was with the first
 deal, with the Rothesay deal, and the second Part VII was with the – second deal with
 Legal & General, and we were planning for the summer. Now, that means that this – the
@@ -469,10 +441,7 @@ now a very different business in the UK, very much derisked, much more a fee bus
 and that makes it also more predictable for us to be able to become comfortable about
 upstreaming their dividend to the holding.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay. Thank you.
 
 Operator
@@ -481,10 +450,7 @@ ahead. Your line is now open.
 
 Bloomberg Transcript
 
-Q - Darshan Mistry
-
-{BIO 19807857 <GO>}
-
+Q - Darshan Mistry {BIO 19807857 <GO>}
 Morning. Two questions please. Firstly, on the Solvency II sensitivities within the UK. Could
 you provide some color as to why the sensitivities for the UK business have increased
 significantly versus 2Q? And could it be that once your Part VIIs are in fact, completed in
@@ -495,10 +461,7 @@ of where you would have been on a rolling forward basis, but your interest rate
 sensitivities don't seem to have decreased materially. So, could you please again provide
 a bit more color as to what's going on within the Netherlands? Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Thanks, Darshan. In the UK, the way you need to look at is that effectively by executing on
 the sale of our annuity book, we are reducing our SCR. And that means that interest rate
 sensitivity that we have remaining in the UK is related to our employee pension funds. So,
@@ -546,20 +509,14 @@ regulator has actually given us 6 months to come up with this clarification. And
 like to use 6 months to address all the other items I just mentioned to you before. So,
 that's what I would like to add on the Dutch Solvency II ratio. Thank you.
 
-Q - Darshan Mistry
-
-{BIO 19807857 <GO>}
-
+Q - Darshan Mistry {BIO 19807857 <GO>}
 Perfect. Thank you.
 
 Operator
 Thank you. And now, we'll take our next question from Farooq Hanif from Credit Suisse.
 Please go ahead. Your line is now open.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Thank you. Hi, everybody. I just want to come back on this inflation expectation. Is this
 related to wage increases on the defined benefit book? Just wondering if you could
 clarify that. And secondly, in the U.S., if we do get a delay to the DOL regulatory changes, I
@@ -579,10 +536,7 @@ Date: 2017-02-17
 
 FINAL
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Farooq, good to hear you're back. On inflation, I would say, it's really general inflation, so
 it's not so much the wage increases that is in our defined benefit plans. It's just the fact
 that we need for our cost going forward, long-term business, we need to make
@@ -607,20 +561,14 @@ selling the product because we can adjust ourselves and be well-prepared, but
 distribution needs to be comfortable that they are in line with the changes and that is
 something we still have to see.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 So, in terms of just – if I may just follow-up on that, sales have been weak in the market.
 Do you think there's still going to be a period of uncertainty on sales? When do you think
 it can rebound and what part do high yields play? I know that these products have been
 derisked, but what part does that play on demand and ability to be a more attractive
 guarantee?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Well, Farooq, I think it's difficult to share what sales will do in the future. But what I can say
 is that with interest rates now clearly higher than what they were, the good thing is that
 the cost of guarantees is down for customers, so they will begin using them better to buy
@@ -633,9 +581,7 @@ should know for sure that whatever comes out of Department of Labor is something
 which we already implemented and have implemented, and that should be positive for
 our sales.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Page 11 of 23
 
 
@@ -653,10 +599,7 @@ FINAL
 Thank you. And now, we'll take our next question from Arjan van Veen from UBS. Please
 go ahead. Your line is now open.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Thank you. I have a couple of questions on just dividend upstreaming and the cash
 position at the HoldCo. Firstly, on Netherlands, the solvency ratio is 141%. You kindly gave
 us sensitivities to (36:11) LAC-DT changes. One of your peers yesterday said that their
@@ -688,10 +631,7 @@ capacity is or upside to what you said previously around some of the other divis
 asset management in Europe and whether Asia is still going to be a negative drag as per
 your guidance. Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Right. Yeah. On the Netherlands, there's not so much more I can say than we have said
 already. So, I think that's being clear. I would just add one point in relation to the comment
 on the government spreads. I think you know that the positioning of our portfolio
@@ -735,20 +675,14 @@ should also give us some room there. In addition to the announced – measure we
 announced already which is the exiting of our Affinity business, which is effectively also
 generating cash flow and, as such, dividends.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Thanks, Alex. That's very helpful.
 
 Operator
 Thank you. And now, we'll take our next question from Farquhar Murray from Autonomous.
 Please go ahead. Your line is now open.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Good morning, gentlemen. Just two questions, if I may, all focused on the LAC-DT
 guidance discussion. Firstly, please, could you just work through which elements of the
 guidance you regard as new and what will be the process to reaching certainty around the
@@ -767,10 +701,7 @@ Date: 2017-02-17
 
 FINAL
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Farquhar, on the LAC-DT, what you're seeing is a guidance that is covering a number of
 points. It's not addressing all the aspects of LAC-DT. This is a guidance. It's more like a
 Q&A I think that's been talked about that's addressing a number of specific points. Now,
@@ -786,15 +717,10 @@ Solvency II ratio. We've told you already that we have submitted a request for s
 model changes and they need also regulatory approval. So what we are trying to achieve
 is to get all these things together. And that will be done by the end of the second quarter.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Okay, thanks.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
@@ -804,10 +730,7 @@ Operator
 Thank you. And we'll take our next question from Nadine van der Meulen from Morgan
 Stanley. Please go ahead. Your line is now open.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Yes. Good morning. Thanks for taking my questions. Sorry, another question on LAC-DT.
 You mentioned if the sector drops from 75% to 25%, that it would have an impact, I think,
 on the Netherlands solvency ratio of 8 percentage points. So that would, on the current
@@ -840,10 +763,7 @@ you've guided that if yields would remain where they were; in year one, there wo
 negative €40 million impact; year two, €60 million; and year three, €100 million. Perhaps
 you can update us on that guidance. Thank you very much.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Nadine, thanks for your question. I think on the LAC-DT, there really is not much more than
 what I can say – what I've said earlier. We just wanted to give you some sensitivity. But you
 need to keep on mind that the sensitivities – I said that earlier in the context of the VA
@@ -854,33 +774,21 @@ materiality. But the pieces usually work in different ways together. So that wha
 need to keep in mind. And I'm not repeating what I said earlier about all the other things
 which we're working on in Q2. Now, in terms of -
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 No, I completely appreciate – yeah, sorry, I completely appreciate that. And sorry to push
 you on this one. But would you mind giving at least an indication of what the solvency
 range would be in the Netherlands that you would be comfortable with to upstream?
 
 Bloomberg Transcript
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 I just want to make first – I was just going to get there, Nadine, to make a comment that's
 -
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Sorry.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 No, don't worry. No problem. The last time that we did upstream dividends, I need to
 remind you we were not yet in the Solvency II world. So there was no 160% because the
 last time we upstreamed dividends, it was in the Solvency I world. And so we've given you
@@ -914,70 +822,42 @@ fourth quarter, that was 3.8% while the current new money yield is 4.2%. And the
 book yield actually hasn't changed and remained at 4.7%. So what you see is the gap is
 closing. I think that was your question really, you wanted to find out the gap closing.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Yeah.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 New money at 4.2% versus 4.7%. That's only 50 basis points gap. And that means,
 therefore, that the earnings drag from rates staying at this level is they would not move
 up is also reduced. Yeah -
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Yeah, okay. Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
 Was that your question, Nadine?
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Yeah. Even on the €1.1 billion cash upstream for the full year, could you give a split of that,
 of the different regions?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Well, the largest part, obviously, as we discussed earlier, is coming from the U.S.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Yeah, of course.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 And we have received a dividend from – in Central and Eastern Europe, we received a
 dividend. We received a dividend from asset management and we received a dividend
 from our business in Spain. These are the big chunks.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 All right, thanks.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Page 16 of 23
 
 
@@ -995,10 +875,7 @@ FINAL
 Thank you. And we'll now take our next question from Nick Holmes from Société
 Générale. Please go ahead. Your line is now open.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hi, there. Thank you. Two quick questions. The first is, Alex, can you give us a bit more
 color on your plans for the U.S. run-off book? I think you said you're looking at payout
 annuities, BOLI/COLI. Just wonders what the latest was there. Then secondly, coming
@@ -1006,9 +883,7 @@ back on the DOL. I remember at the Investor Day, you were talking about fixed in
 annuities and the opportunities for you with that product. Wonders is that something
 you're getting into at the moment? Thank you very much.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
@@ -1037,10 +912,7 @@ fixed index annuity. I want to say we've introduced that product also. But it's 
 to talk about a really sizeable amount of sales. But now we have that product also and
 then introduced it. And just on the...
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 That's great.
 
 Page 17 of 23
@@ -1053,10 +925,7 @@ Date: 2017-02-17
 
 FINAL
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 ...Department of Labor, so it's about implementing. But the pieces that we felt were the
 most difficult for us is, in particular, when we have difference with customers. In the past,
 any differences or disagreements would be dealt within the arbitration court, which means
@@ -1072,16 +941,10 @@ addressed, it's going to be quite risky for providers and distributors to get en
 selling these products. So it's not only about the product in itself, but it's also about all the
 modalities around it. I hope that gives you a bit more color.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Yeah. That's great, Alex. Thank you very much. Very interesting and very clear. Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Thank you.
 
 Bloomberg Transcript
@@ -1090,10 +953,7 @@ Operator
 Thank you. And now we'll take our next question from Bart Horsten from Kempen & Co.
 Please go ahead. Your line is now open.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Yes, good morning. I will try to ask a few questions also on LAC-DT which have not been
 asked so far. First of all, you said that you upstreamed €100 million from your operating
 entities to the HoldCo in the Netherlands. Does that mean that these entities are wellcapitalized enough or don't you need approval for that from the DNB? And secondly, just
@@ -1118,10 +978,7 @@ Date: 2017-02-17
 
 FINAL
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah, Bart. On your first question, it's, I think, quite obvious that if we would effectively
 upstream a dividend from operating companies in the Netherlands to the holding of the
 Netherlands, that you can assume that these operating companies are well-capitalized.
@@ -1144,34 +1001,22 @@ investment yield is 4.2% while our book is 4.7%. So there's a 50 basis points di
 
 Bloomberg Transcript
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Yes, I know that. But could you flag what do you need in terms of rate movements in the
 U.S. to get to that same level? Would that be a 50 basis points increase in the Treasury
 yield or -
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah. Well, as you know, we invest in a book which has a lot of different categories. So
 assuming the spread doesn't change, you would need 50 basis points in Treasuries. But
 this could be lower if the spread increases or higher. So you need to look at the
 combination, the spread plus Treasury. But I think the point is we're pretty close now. And
 we've never been so close to it for a long time.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Okay, good to hear. Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Thank you.
 
 Operator
@@ -1188,10 +1033,7 @@ Date: 2017-02-17
 
 FINAL
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Hi. Thanks so much. A couple of questions on the Netherlands, if I could, and one on the
 group cash flow. So on the Netherlands, the inflation assumption has changed. Could you
 just clarify what it's gone from to? And I'm just looking at the January movement in the
@@ -1213,10 +1055,7 @@ quarter's results on your cash flow guidance, please? Thank you.
 
 Bloomberg Transcript
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah, Andy, there's not much more I can say really on the Netherlands. You've seen the
 sensitivities. As I said, there's many moving parts. The EIOPA curve clearly also has quite
 an impact as one of many other items. So moving to your second question, yes, we're
@@ -1224,32 +1063,21 @@ seeing improved morbidity. As I said to it, some of it is seasonal. I explained 
 We're seeing also improved margins. Yeah, over time, that is going to be positive on cash
 flows. That is (59:52).
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Okay. And just clarify, what is the inflation assumption the Netherlands is coming from to?
 Are you able to say what you're assuming now in inflation in the Netherlands?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 I'll defer to Willem. He'll come back to you. But it is the public inflation. And as you know,
 that has been something which had been tracked. I'm sorry I don't know the exact
 number. But it has increased actually recently. And that's why we had a step-change in our
 Solvency II.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 And it's an active assumption. So if the Dutch implied inflation rate changes, then that
 automatically changes in your assumptions or is it something you set periodically?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 Page 20 of 23
 
@@ -1262,9 +1090,7 @@ Date: 2017-02-17
 No. We just have to reflect the updated assumptions once every so many – yeah,
 whatever time. But Willem will come back to the exact number on the inflation.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
+Q - Andy Hughes {BIO 15036395 <GO>}
 
 FINAL
 
@@ -1274,9 +1100,7 @@ Operator
 Thank you. And now we'll take our next question from Gordon Aitken from RBC. Please go
 ahead. Your line is now open.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
+Q - Gordon Aitken {BIO 3846728 <GO>}
 
 Bloomberg Transcript
 
@@ -1295,10 +1119,7 @@ movement in the net or the net-net outflow and compare that to the movement in t
 gross flow, it's clear that the level of gross outflows have also increased. Is DOL having an
 impact on the in-force book as well as having an impact on sales? Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Hi, Gordon. Yeah, now on Cofunds, actually, it's of course early because we have only got
 the keys since I think January 1 early in the morning. But what we're pleased to see is a
 number of things. First of all, we're seeing good flows coming and good retention.
@@ -1331,16 +1152,10 @@ FINAL
 
 ...your question.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Yeah, thanks.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah, thank you.
 
 Operator
@@ -1349,10 +1164,7 @@ line is now open.
 
 Bloomberg Transcript
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Good morning. Thank you, Alex. You mentioned the €500 million of capital that's freed up
 in the UK. Could you say to us sort of what proportion or what is available to shareholders
 to be upstreamed from the UK business here? And then on the implementation of the
@@ -1360,10 +1172,7 @@ fiduciary rules. Have they actually been delayed or are they still being part im
 from April 2017 and obviously on 1 January? Or is the review going alongside the
 implementation stage? Any update there will be quite helpful. Thanks.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah. No, what I did mention is the freeing up of capital for the transaction. By the way,
 that doesn't mean that that whole amount is available because you need to look at your
 starting point. I'm not going to give you a number now about the amount of capital that is
@@ -1374,16 +1183,10 @@ So we're working towards it and are prepared for implementation in April. And if
 things have changed, yes, then we'll have to see. But our base case is still we need to get
 ready for implementation in April.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Okay, that's very helpful. Thank you.
 
-A - Willem van den Berg
-
-{BIO 15203834 <GO>}
-
+A - Willem van den Berg {BIO 15203834 <GO>}
 Thanks, Steve.
 
 Operator
@@ -1398,9 +1201,7 @@ Date: 2017-02-17
 Thank you. And as there are no further questions at this time, I would like to turn the call
 back to Mr. Alex Wynaendts for any additional or closing remarks.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 FINAL
 

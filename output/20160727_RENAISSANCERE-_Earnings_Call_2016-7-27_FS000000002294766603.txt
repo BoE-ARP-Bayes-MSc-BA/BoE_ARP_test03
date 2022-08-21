@@ -30,10 +30,7 @@ background noise. After the speakers' remarks, there will be a question-and-answ
 session Thank you.
 Mr. Peter Hill, you may begin your conference.
 
-Peter Hill
-
-{BIO 15385944 <GO>}
-
+Peter Hill {BIO 15385944 <GO>}
 Thanks, Jessa, and good morning, everyone. Thank you for joining our second quarter
 2016 financial results conference call. Yesterday, after the market close, we issued our
 quarterly release. If you didn't receive a copy, please call me at 212-521-4800, and we'll
@@ -126,10 +123,7 @@ And with that, I'll turn the call over to Jeff.
 
 Bloomberg Transcript
 
-Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+Jeffrey D. Kelly {BIO 1390834 <GO>}
 Thanks, Kevin, for those kinds words, and good morning, everyone. Before I begin my
 prepared remarks, I just like to say how much I've enjoyed getting know and working with
 all of you in the analyst investor community over the last seven years. I know I leave
@@ -441,10 +435,7 @@ Operator
 And your first question comes from the line Michael Nannizzi from Goldman Sachs. Please
 go ahead.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Thanks so much. I guess, Kevin, one question, to start out, is how would you look at the
 first half of 2016 compared to what a normal-ish year would look like for rent today, given
 the mix of business that you have and that you expect to move towards in the future?
@@ -472,10 +463,7 @@ that's where the market is, we'll build a performer for 2017, and then we will e
 strategy, and which I think will be largely similar to the strategy that we have in 2017 and
 2016.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. I mean, I guess, more simplicity thinking just ROE. I mean, first half of year, your
 average about a 6% ROE, $50 million in Cat, or $40 million, depending on how you're
 looking at it during the first half of the year. Is there anything about – I think if – is the Cat
@@ -514,10 +502,7 @@ because what we're doing now, I think, puts us on the stronger platform going fo
 
 Bloomberg Transcript
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. That's very fair. Thanks for that. And, I guess, just a couple of quick numbers, I
 wondered if I could, Jeff. Good luck with the where you go – with what's next in front you,
 Jeff. But fixed yield, should assume the Q1 $36 million is better starting point than the $46
@@ -526,10 +511,7 @@ confirm that. And in the Lloyd's business, the operating expense number, the dol
 in the second quarter which contributed to the lower ratio. I just wanted to get some
 context on that as well.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Okay. On the fixed income securities, yeah, I would say – I wouldn't put too fine a point on
 it. I think the – on the last few quarters, the recurring income on fixed maturity investment
 has been between $36 million and $38 million. I think, it's going to be – my guess is it's
@@ -537,10 +519,7 @@ going to be around that number, perhaps around the higher end of that range goin
 forward. But, yeah, there were a couple of onetime items in the quarter that created that
 anomaly. And the second question is about Lloyd's, right – the Lloyd's expenses?
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Yeah. The operating expense at Lloyd's, yup. Just sort of seeing the growth there,
 normally, I mean, I would expect that the operating expense maybe would be flat, and
 then, you'd get some leverage. But it looks like you got both. You got leverage on the top
@@ -554,9 +533,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2016-07-27
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 
 FINAL
 
@@ -566,16 +543,10 @@ wouldn't point too much at, but I think we don't see any significant expense gro
 near term at Lloyd's. So, I'd say, the first six months compared to the last six months is
 probably a good proxy.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. Great. Thanks so much.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Thanks, Michael.
 
 A - Kevin J. O'Donnell
@@ -584,24 +555,16 @@ Aye.
 Operator
 Your next question comes from the line of Amit Kumar from Macquarie. Please go ahead.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
+Q - Amit Kumar {BIO 19777341 <GO>}
 
 Bloomberg Transcript
 
 Thanks, and good morning. And thanks for all your help, Jeff, over the years.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Thank you.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Just two or three, I guess, quick questions. Maybe a follow-up to Michael's question too.
 The first question is on the discussion on the cat rate. And I think you mentioned maybe a
 5% number for June 1 renewals. And I know that you don't sort of look for that when you
@@ -631,10 +594,7 @@ than we anticipated when we built the pro forma for the June, July renewal perio
 
 FINAL
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Got it. That's helpful. The other question I had was on – I think, on the cat side in the
 opening remarks. And forgive me if I mixed up with all the calls. You mentioned the
 increase in retro purchase this year. And did you describe what areas will that protect in
@@ -663,20 +623,14 @@ hurricane is less this year than what it was last year. So, despite the growth w
 achieve in property cat over the course of the quarter, we're still managing our net risk to
 be lower.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Got it. And the – so, the Florida specific piece that was non-renewed last year, that hasn't
 changed?
 
 A - Kevin J. O'Donnell
 The Florida...
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Specific retro you had previously.
 
 A - Kevin J. O'Donnell
@@ -700,10 +654,7 @@ have Atlantic hurricane risk. That trend continued this year, although to a less
 we do have slightly less limit deployed in the indigenous Florida market, and we have a
 different ceded program, which has reduced the net risk.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Thank you. Thanks for the clarification. And final question, and I'll get off. In terms of – we
 always talk about consolidation, and there's always chatter, and again, there is chatter
 today, this is sort of a step back question, do you think RenRe would – being a private
@@ -722,16 +673,10 @@ I think, having the balanced approach from where we are and the way we're execut
 strategy is preferred. And we really enjoy having the most diverse group of capital that
 we can possibly attract and bringing it to our customers and our clients.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Got it. That's very helpful. Thanks, and good luck for the future. And thanks again, Jeff.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Thank you.
 
 A - Kevin J. O'Donnell
@@ -741,10 +686,7 @@ Operator
 Your next question comes from the line of Elyse Greenspan from Wells Fargo. Please go
 ahead.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Yes. Good morning. I was hoping we could just spend – I had a few more questions. Just,
 first, in terms of the Specialty, you guys didn't update the guidance for the year. Is that just
 that you kind of just don't really – it's a little bit of a lumpy business, I know, just being with
@@ -765,10 +707,7 @@ on the year.
 
 FINAL
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Yeah. But I guess, I mean, you've seen pretty strong growth in the first half of the year, so
 that would imply, I guess, a slowdown in the second half of the year, or was that just the
 20% growth more just a half-year too comment?
@@ -779,9 +718,7 @@ the business is originated during the year, and the fact that, as you said, it i
 lumpy business. We don't want to put too fine a point on percentage increases in the
 book.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 
 Bloomberg Transcript
 
@@ -820,29 +757,20 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2016-07-27
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. And then, Jeff, on the alternative investments that did rebound this quarter, what's –
 for modeling purpose, what's kind of a normal return that you would assume on those
 investments on a quarterly basis?
 
 FINAL
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 We don't have – I wouldn't suggest there is a normal, Elyse. It's – I think, the way we think
 of it is on an expected basis is kind of tracking the S&P 500. But given the makeup of it,
 that's – there – it's hard to say. But we generally think about it as kind of tracking the S&P
 500.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. And then, one capital question, the share repurchase did pick up this quarter. Given
 that we're now in wind season, would you guys book, I guess, maybe to curtail repurchase
 a little bit, or is it just kind of more based on opportunity and evaluation of the stock. How
@@ -850,10 +778,7 @@ does that kind of come into play this year in your decision-making?
 
 Bloomberg Transcript
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Well, the third quarter is rarely the largest quarter for share repurchases in any given
 calendar year. And I'd probably say this year is no exception to that. But it tends to be
 really based on opportunities we see for the business, the profile of our risk portfolio and
@@ -864,32 +789,20 @@ too much or think too carefully about what – how much we do in any specific qu
 try and steer away from that. But other things being equal, I expect us to be in the market
 over the course of the remainder of the year.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Thank you. And Jeff, congrats on your retirement. Best wishes to you.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Thanks, Elyse.
 
 Operator
 Your next question comes from the line of Kai Pan from Morgan Stanley. Please go ahead.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Good morning, and thank you. And Jeff, congratulations, and hopefully this time, it's a true
 retirement.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Page 15 of 23
 
 
@@ -902,10 +815,7 @@ Thanks, Kai.
 
 FINAL
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 So, Kevin, you mentioned mortgage risk have been growing very strong, and we saw a lot
 of competitor coming into that place. I just wonder, could you talk more about your sort of
 underwriting competitive advantage in that and risk management in that, particularly longtail business, as well as sort of what capital requirements is in this line of business?
@@ -933,10 +843,7 @@ us in a preferred position to many of our competitors as well. So, I think we do
 unique capabilities here. We do see continued opportunity, but I think, you're right, as
 more people look at this it's likely to become increasingly competitive.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 In terms of capital requirements?
 
 A - Kevin J. O'Donnell
@@ -950,9 +857,7 @@ we will amend. More opportunity we'll allocate more capital, less opportunity we
 less capital. But we're not at the point, where we're capital constrained within the
 mortgage business.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
+Q - Kai Pan {BIO 18669701 <GO>}
 Page 16 of 23
 
 
@@ -976,9 +881,7 @@ early of your book. I just wonder sort of like, because you're building out Lloy
 you make sure your reserve is prudent like – as you have did – always did in the
 Catastrophe book.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 
 Bloomberg Transcript
 
@@ -1028,16 +931,10 @@ But again, I agree with everything that Jeff said. We're comfortable with our re
 I don't – we're not seeing any signals at this point that are concerning with the overall level
 of reserve that we have by class or by underwriting year.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Great. Well, thanks so much.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Thank you.
 
 Operator
@@ -1045,35 +942,20 @@ Your next question comes from the line of Brian Meredith from UBS. Please go ahe
 
 Bloomberg Transcript
 
-Q - Brian Robert Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Robert Meredith {BIO 3108204 <GO>}
 Yes. Thanks. Just a couple quick questions here. First, could you give us what your gross
 cat loss was for the quarter?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Yeah. Why don't you give us...
 
-Q - Brian Robert Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Robert Meredith {BIO 3108204 <GO>}
 Related to Fort McMurray and those – yeah, go ahead.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Give us just a sec, Brian. Do you have another question you want to ask?
 
-Q - Brian Robert Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Robert Meredith {BIO 3108204 <GO>}
 Yeah, yeah. And the next one, I guess, just as a follow-on. Kevin, just curious, how much of
 an impact do you think the catastrophic events in the quarter had on the retro markets?
 And are you seeing much opportunity to write some back up covers and stuff because of
@@ -1096,10 +978,7 @@ backups to retros that were hit.
 
 FINAL
 
-Q - Brian Robert Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Robert Meredith {BIO 3108204 <GO>}
 Okay. Great. And then, any thoughts on kind of appetite from the alternative kind of
 capital providers at Florida renewals, and maybe your renewals, any change?
 
@@ -1112,10 +991,7 @@ roughly the same size as we have in the past. We did add a little bit of capital
 worth highlighting in any material way to both Upsilon and to our Medici Fund but we kept
 DaVinci, the same size as it was previously.
 
-Q - Brian Robert Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Robert Meredith {BIO 3108204 <GO>}
 Great. Thank you.
 
 A - Kevin J. O'Donnell
@@ -1124,31 +1000,19 @@ Bloomberg Transcript
 
 Still strong interest, but not a great opportunity to deploy.
 
-Q - Brian Robert Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Robert Meredith {BIO 3108204 <GO>}
 Got you.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 And, Brian, the gross losses on the Fort McMurray and Texas – Fort McMurray Wildfire and
 the Texas weather events across Cat, Specialty and Lloyd's was about $77 million. So, net
 negative impact, $41 million. The gross losses across all three platforms – or all three
 segments was $77 million.
 
-Q - Brian Robert Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Robert Meredith {BIO 3108204 <GO>}
 Great. Thanks. And, Jeff, best of luck with your retirement.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Thanks, Brian.
 
 Operator
@@ -1162,9 +1026,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2016-07-27
 
-Q - Quentin McMillan
-
-{BIO 19411547 <GO>}
+Q - Quentin McMillan {BIO 19411547 <GO>}
 
 FINAL
 
@@ -1185,10 +1047,7 @@ a lot more time monitoring those reductions because they are less transparent th
 increase in ceding commission. Either one has the same net effect on the overall returns
 on the margins on the business, which is one is harder to figure out than the other.
 
-Q - Quentin McMillan
-
-{BIO 19411547 <GO>}
-
+Q - Quentin McMillan {BIO 19411547 <GO>}
 Okay. Thanks. Just a quick numbers question as well. The credit business that you wrote,
 is that basically a 100% mortgage, or is – what is the mortgage number in there?
 
@@ -1199,10 +1058,7 @@ For the growth, it is – the vast majority of the growth is coming from the mor
 business. We do have some renewals in there for the trade credit stuff. But in thinking
 about the growth, the vast majority of it is coming out of the mortgage markets.
 
-Q - Quentin McMillan
-
-{BIO 19411547 <GO>}
-
+Q - Quentin McMillan {BIO 19411547 <GO>}
 Okay. Thanks. And then last, you guys have – you were talking about the cession strategy
 and appreciate the color there, but can you just – is there any sort of optimization of the
 portfolio or optimal level that you guys are kind of moving towards? Is it just what the
@@ -1234,10 +1090,7 @@ opportunity to increase the cessions.
 
 FINAL
 
-Q - Quentin McMillan
-
-{BIO 19411547 <GO>}
-
+Q - Quentin McMillan {BIO 19411547 <GO>}
 Okay. Just to quickly follow-up on that, within the casualty, specialty, then you're saying
 that's more about the risk profile, so to kind of follow-up on Brian's question within the
 retro market and sort of buying some of that. It's not about the fact that you might see
@@ -1247,10 +1100,7 @@ And are you seeing more attractive pricing in the casualty retro market?
 A - Kevin J. O'Donnell
 For ceded or for...
 
-Q - Quentin McMillan
-
-{BIO 19411547 <GO>}
-
+Q - Quentin McMillan {BIO 19411547 <GO>}
 For ceding that, sorry.
 
 Bloomberg Transcript
@@ -1263,16 +1113,10 @@ economics back to the cedent. I wouldn't say, broadly, we're seeing a material c
 the economic benefit of cessions between last year and this year, though. I think, that's
 normal market behavior what I'm commenting on.
 
-Q - Quentin McMillan
-
-{BIO 19411547 <GO>}
-
+Q - Quentin McMillan {BIO 19411547 <GO>}
 Okay. Great. Thanks very much. And again, Jeff, congrats, and best of luck to you.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Thank you.
 
 A - Kevin J. O'Donnell
@@ -1298,10 +1142,7 @@ ahead.
 
 FINAL
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Yeah. Good morning, everyone. My first question relates to – I don't know if you've
 listened to other conference calls but a very widely listened to conference call this
 morning suggested that the catastrophe activity in the quarter was in line with long-term
@@ -1321,10 +1162,7 @@ Texas companies.
 
 Bloomberg Transcript
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 That's fair. And on the Canadian wildfire, to what extent has the industry reinsurance been
 exhausted for that event? And if numbers were to go up, would that go back to primary
 layer, or could reinsurance loss continue to rise for that event?
@@ -1337,22 +1175,14 @@ normally do bottom up and top down, we did a much more granular bottom up analys
 And we feel pretty comfortable with our estimate, even at a larger than what's discussed
 industry loss.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Okay. And I also pass my wishes on to Jeff. Everyone wants to retire Jeff, but I have a
 great Korean sell-side research I can talk to you about if you're really itching.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Thanks, Josh.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Page 22 of 23
 
 
@@ -1363,9 +1193,7 @@ Date: 2016-07-27
 
 Take care. Thank you very much.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 
 FINAL
 

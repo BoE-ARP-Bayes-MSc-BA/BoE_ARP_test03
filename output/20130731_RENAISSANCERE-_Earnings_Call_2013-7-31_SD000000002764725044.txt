@@ -31,10 +31,7 @@ background noise. After the speakers' remarks there will be a question-and-answe
 session. (Operator Instructions)
 I would now like to turn the conference over to Mr. Peter Hill. Please go ahead.
 
-Peter Hill
-
-{BIO 3135705 <GO>}
-
+Peter Hill {BIO 3135705 <GO>}
 Good morning, and thank you for joining our Second Quarter 2013 financial results
 conference call. Yesterday after the market close, we issued our quarterly release. If you
 didn't receive a copy, please call me at 212-521-4800 and we will make sure to provide
@@ -112,10 +109,7 @@ During the Second Quarter, much of the focus is, of course, on Florida renewals.
 give you more color on how that looked along with comments on key dynamics in the
 markets in a moment. But first let me turn the call over to Jeff to go over our results.
 
-Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+Jeff Kelly {BIO 20911735 <GO>}
 Thanks, Kevin. Good morning, everyone. I will cover our Second Quarter and year-to-date
 financial results and then give you an update to our 2013 topline forecast.
 
@@ -423,10 +417,7 @@ Operator
 
 Bloomberg Transcript
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 I am curious. Look, obviously, we know that some pricing at 6/1 was down relative to a year
 ago, but -- and I have tried to play with reinstatement premiums, so my numbers might
 not be exactly right, but it looks like net premium written in cat grew by 14% this quarter
@@ -434,10 +425,7 @@ against that -- after reinstatement premiums against that backdrop. I am wonderi
 can talk about -- maybe away from Florida, did you write business? I am trying to
 understand that growth, which is surprising.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Well let me maybe touch on the dynamics and the numbers. There's really three things
 going on here in addition. So the first one is the reinstatement premiums. So recall that
 we had the negative reinstatement premium adjustment last year of $31 million and then
@@ -458,9 +446,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2013-07-31
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
+Q - Josh Shanker {BIO 5292022 <GO>}
 
 FINAL
 
@@ -469,16 +455,10 @@ line this quarter -- (437) of net written premium, less 10 for the reinstatement
 (344 less 31). I think I am doing the math right there, but maybe I am not. That is on the
 written side.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Yes. So it's -- I think you are just looking at a reduction in the ceded there, Josh.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Just on the net side -- I don't know. Maybe I will go off-line and ask some more questions
 about it. And I might be wrong about this, but it looks like there was actually growth in your
 cat book during the quarter, at least on the dollar basis.
@@ -487,19 +467,14 @@ A - Kevin O'Donnell
 The gross cat book did not grow after adjusting for reinstatement premiums, just to be
 clear.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
+Q - Josh Shanker {BIO 5292022 <GO>}
 
 Bloomberg Transcript
 
 Yes. That seems correct. I think I am looking at the net written book after reinstatement
 premiums, which shows about 14% growth.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Yes. And I think the difference there is just a reduction in ceded premiums purchased in
 the quarter.
 
@@ -510,10 +485,7 @@ But I think if you look at our ceded over more than just a quarter, you will see
 impact of the reduction in ceded is less over a longer period than it is just quarter to
 quarter. Which is timing differences.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Okay. I will follow up a little more. And the other question was I am a little surprised about
 Oklahoma tornado losses. Maybe I need to know a little bit about that market. It didn't
 seem like a major insurance loss that would hit the reinsurance layers.
@@ -541,19 +513,13 @@ we have decent penetration to some of those accounts, and there was some particu
 ones that were relatively more exposed to where these tornadoes hit, similar to what we
 saw in Joplin.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 And these were principally personal lines companies ceding the risk, I assume?
 
 A - Kevin O'Donnell
 Yes.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Thank you for the answers.
 
 A - Kevin O'Donnell
@@ -562,28 +528,19 @@ Bloomberg Transcript
 
 Yes. Smallish regional companies (multiple speakers).
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Smallish â€”.
 
 A - Kevin O'Donnell
 Yes.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Thank you for the answers. Much appreciated.
 
 Operator
 Mike Zaremski, Credit Suisse.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Good morning. First question. So on third-party capital, so it is my understanding, and
 maybe I am wrong, that third-party ILS funds took some pretty meaningful market share in
 Florida during 2Q.
@@ -633,10 +590,7 @@ credits, and we move our book around to where we can find the best returns. So f
 perspective the majority of the competition we faced came from rated balance sheets.
 But there was certainly the overture of the third-party capital in the market.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Mike, just to touch on the last part of your question as it related to the business written on
 and re-limited versus DaVinci's balance sheet, there are some types of contracts that we
 will write on RenRe's balance sheet, but that we don't write for DaVinci. And the principal
@@ -656,10 +610,7 @@ Date: 2013-07-31
 
 FINAL
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay. That is very helpful. My last question is regarding to the catastrophe bonds that
 were issued in recent months. So it is my understanding they come with an interest
 expense, which I need a model in the income statement. So I was trying to -- I wanted to
@@ -668,10 +619,7 @@ retention levels witnessed this quarter, and that should produce potentially mor
 earnings? Or is there another dynamic we should take into account? If that question
 makes sense.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 It should show up -- it will show up as ceded premium.
 
 A - Kevin O'Donnell
@@ -682,34 +630,23 @@ putting it against our balance sheet, and it won't change the way in which we ar
 form of which we bring that capital in it won't change the way in which we write our
 inwards book.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
+Q - Mike Zaremski {BIO 20606248 <GO>}
 
 Bloomberg Transcript
 
 And just to be clear, is there an interest expense associated with it, or this all flows
 through the premiums lines?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 It will flow through ceded premium.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Got it. Thank you.
 
 Operator
 Michael Nannizzi, Goldman Sachs.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 One basic question looking at the year over year. I also was surprised to see the premium
 levels -- not necessarily the growth relative to the Second Quarter, but just I was
 expecting slightly lower levels. But I guess on top of that, the underlyings were a lot better
@@ -726,32 +663,21 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2013-07-31
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Yes. Just a clarification. When you said the underlyings, I am not sure what you were
 referring to -- (multiple speakers).
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 
 FINAL
 
 I'm sorry, so like X cat, X PPD, combined ratio.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Okay. So I think I am still a little confused on your question. I think what you are asking is
 did we see significant shift in opportunity this quarter to last quarter?
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 I guess the question is --- so, and then let me know if these numbers are wrong, but
 action year combined ratio X cat was (49.7%) in the Second Quarter of last year. It was
 (44.2%) this year in the Second Quarter. And you wrote a decent amount of business, and
@@ -759,9 +685,7 @@ you have talked about some rate pressure. So I would think in a period where you
 rate pressure, you would see margins deteriorate, but it doesn't look like that happened.
 So I was trying to understand that.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
+A - Jeff Kelly {BIO 20911735 <GO>}
 
 Bloomberg Transcript
 
@@ -777,18 +701,12 @@ recent foray we have into the US and some of the other things that we are doing 
 looking to expand some of those lines, which on a standalone basis are beginning to look
 better. Particularly some of the professional lines.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. Okay. And one question on DaVinci, if I could. What is the fee structure there in
 terms of the unrealized losses or gains? Do you get fees based on underwriting income,
 or does this -- do the fees that you get include the change in unrealized?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Yes. We -- without going into the specific fee structure, we are -- our fees are generated
 off of underwriting income, and then we do get a percent of the overall profits of the
 company, which would include investment results.
@@ -801,10 +719,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2013-07-31
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay, so, that doesn't -- okay, thank you.
 
 Operator
@@ -813,10 +728,7 @@ FINAL
 
 Greg Locraft, Morgan Stanley.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Good morning. Kevin, first off, congratulations on the new role. I wanted to get a sense as
 to your priorities in the lead job. How will they differ from Neill and from the past?
 
@@ -838,10 +750,7 @@ So large and large, it will be a very consistent story to what you have seen. Bu
 market changes so will our position within it. Again that is consistent, but we can look
 different from year to year based on the opportunities that are available.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Great. So it sounds like more of the same, mostly. Good. So digging into the underwriting
 side, one of the things -- and I think we are circling it on this call -- is the net to gross.
 I was surprised to see it rise year over year. I would have thought in this market that you all
@@ -885,10 +794,7 @@ amount, but not as much as we are at the bottom end of the distribution.
 
 Bloomberg Transcript
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 So Greg, I would just add to that. The other thing to keep in mind, although ceded
 premium was down about $95 million in the Second Quarter over last year, it was actually
 up about $27 million in the First Quarter of this year; and then as Kevin mentioned, in the
@@ -898,10 +804,7 @@ I guess the message in all that is we purchased ceded protection and traded
 opportunistically, and that opportunity rarely occurs on an even calendar quarter basis. So I
 think you do have to look at it over a bit longer period of time as well.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Okay, that's good color. I guess my takeaway is that it sounds like you are more protected
 than before against a very large loss, but you have got more exposure to frequency given
 that Kevin says he is hot down low. So is that the right takeaway?
@@ -912,9 +815,7 @@ other thing I wanted to touch on within ceded is we have a core portfolio of ced
 or CPPs or their quota share like instruments. And that has been pretty consistent
 throughout the year.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Page 16 of 24
 
 
@@ -962,10 +863,7 @@ standalone return, and that is really where the pressure is coming into the mark
 So I think it is good underwriting discipline. But it is also a changing market as to the types
 of capital and the return they need, based on the margin of returns of their portfolios.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 That's great. Very thorough. If I could sneak one more in, apologies. But I am trying to
 compare the alternative capital or collateralized vehicles. If they are willing to accept a 7 or
 an 8 return or a 9, let's say, is that -- what is the equivalent for the rated balance sheet? Is
@@ -1000,9 +898,7 @@ It is difficult for me to comment on each of the models of the individual capita
 are -- going back to the BBB one, there are different ways in which people are thinking
 about it.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
+Q - Greg Locraf t {BIO 4221265 <GO>}
 
 Bloomberg Transcript
 
@@ -1011,10 +907,7 @@ Thanks for the answers and congratulations again on the new role.
 Operator
 Vinay Misquith, Evercore.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Good morning. Sorry for beating a dead horse, but trying to wrap my head around the net
 premium increase for the cat segment. So that is about $90 million roughly up this quarter
 versus the year-ago quarter. And I believe you mentioned about $40 million came from
@@ -1024,10 +917,7 @@ So it seems that the net premiums were up even more (than) those two items. So w
 that because of buying less reinsurance on the lower layers like you mentioned? Just
 trying to get a sense for -- yes, sorry, go ahead.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 I think the principal variable that you are trying to identify in the two comparisons is the
 fact that we didn't write Tim Re III this year compared to last year, which was about $31
 million.
@@ -1040,40 +930,26 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2013-07-31
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure, but that would have been -- right, so that would have lowered your gross premiums
 too, right? But your gross premiums were roughly flat. So you actually wrote more gross
 payments this year adjusting for Tim Re III, correct?
 
 FINAL
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 No. It was in cat it was about flat.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Right, but the premium was $31 million and last year it was in the numbers in the gross,
 correct? Then you ceded it out, correct?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Right. So Tim Re was about $40 million in last -- and the reinstatement premium swing
 from quarter to quarter was about $40 million as well. So those two things canceled one
 another out roughly.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
+Q - Vinay Misquith {BIO 6989856 <GO>}
 
 Bloomberg Transcript
 
@@ -1094,10 +970,7 @@ We try to keep the DaVinci cat portfolio to be closely correlated with the RenRe
 but we have a lot of discretion as to how to do that and to make sure that each of the
 balance sheets are being treated fairly and appropriately.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure, but let's say that you saw less opportunities in the market. Could you take more
 premiums from your other balance sheet and put them on your own balance sheet,
 therefore generating more premiums for yourselves?
@@ -1121,10 +994,7 @@ think about it. We think about constructing a portfolio that is largely very sim
 RenRe portfolio. And we are more likely to adjust capital or our ownership than to change
 inward lines simply to benefit the RenRe Limited balance sheet.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Yes, just to add to that, the way we look at managing third-party capital is like most things
 here over a very long-term basis. And we want to provide excellent returns for our
 investors in all of our third-party capital vehicles over the long term. And we also want to
@@ -1133,19 +1003,14 @@ We are probably -- to the extent that we would be willing to adjust those, we wo
 probably be more willing to do it in sidecars than in DaVinci. And such was the case with
 not renewing Tim Re III this year.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
+Q - Vinay Misquith {BIO 6989856 <GO>}
 
 Bloomberg Transcript
 
 Fair enough, thanks. One last question with the buybacks. Curious as to whether you guys
 were blacked out this quarter, that is why the share repurchases were low?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 No. I wouldn't say that. During the quarter we did -- we had 10b5-1 plans in place -- 10b5-1
 plan in place coming into the quarter. I think through the first half of the month our shares
 were trading above the cap that we had set on that. We instituted one after the
@@ -1155,19 +1020,13 @@ So there was a period of time where we weren't in the market, but I would say th
 principal factor during the quarter was just the relative valuation during the -- at least the
 first half of the quarter.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure. Thank you.
 
 Operator
 Ryan Byrnes, Janney Capital Markets.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Good morning. Quickly, obviously there was some pressure on cat rates in Florida. And
 you guys rearranged or restructured your portfolio. Just wanted to figure out year over
 Page 20 of 24
@@ -1200,10 +1059,7 @@ is very beneficial.
 
 Bloomberg Transcript
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Great. Then, shifting over to the new US platform. Wanted to see what types of risks you
 are looking to write there and where you see the opportunities.
 
@@ -1215,19 +1071,13 @@ that really is quota share -- specialty lines quota share. And the type of quota
 needs more contact, more ability to audit the book, more ability to understand as the
 book is changing over time, which can be difficult to do with an offshore balance sheet.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Great. Thanks.
 
 Operator
 Josh Stirling, Bernstein.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 I will end with one big picture question. Margins are coming down, it's -- so you're seeing
 at the margin less acceptable business. And you guys have your three superiors, and long
 
@@ -1294,9 +1144,7 @@ Date: 2013-07-31
 the past. But our ability to play between a rated balance sheet and third-party capital I
 believe will be the optimal structure within the vast majority of scenarios.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
+Q - Josh Stirling {BIO 17463087 <GO>}
 
 FINAL
 
@@ -1308,10 +1156,7 @@ I think we have time for one more question here.
 Operator
 Amit Kumar, Macquarie.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Two quick follow-up questions. First of all, just going back to RenaissanceRe specialty US.
 That operation has roughly $100 million of shareholders' equity.
 How are you thinking about the premiums going forward? I am not looking for a specific
@@ -1331,10 +1176,7 @@ around opportunity-based growth.
 I think there is an opportunity now, but it is not one in which we want to deploy a
 significant amount of capital until we have more of a foothold in the market.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. That's helpful. And the only other question, going back to the discussion on the
 Florida marketplace. I appreciate the discussion on retooling of the book. But let's say as
 we go forward in rates, rates are down let's say another 10%, 15% in 2014.
@@ -1363,10 +1205,7 @@ perspective between our inwards and our outwards.
 But in pretty much any scenario I see that we will have a strong presence in the Florida
 market. So we can be surprised by things, but I think that is extremely unlikely.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. Thanks. I will stop here. Thanks for all of the answers.
 
 A - Kevin O'Donnell

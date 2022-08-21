@@ -58,10 +58,7 @@ FINAL
 I would now like to introduce your host for today's conference, Mr.Marc Grandisson and
 Mr.Francois Morin. Sirs, you may begin.
 
-Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+Marc Grandisson {BIO 4369887 <GO>}
 Thank you, Liz. Good morning and welcome to our fourth-quarter earnings call. Overall,
 we are pleased with the current market conditions and the opportunities available to Arch
 as we close out 2020 and spring into 2021. One of our fundamental principles is that
@@ -210,10 +207,7 @@ And now, I'll turn the game commentary over to Francois.
 
 FINAL
 
-Francois Morin
-
-{BIO 17410715 <GO>}
-
+Francois Morin {BIO 17410715 <GO>}
 Thank you, Marc, and good morning to all. We at Arch hope that you are in good health
 and the 2021 is off to a good start.
 On to the fourth-quarter results. As a reminder, and consistent with prior practice, the
@@ -365,27 +359,16 @@ FINAL
 Thank you. (Operator Instructions) Your first question comes from Elyse Greenspan with
 Wells Fargo.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi, thanks. Good morning. My first question --
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Good morning.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Good morning.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 
 Bloomberg Transcript
 
@@ -395,10 +378,7 @@ for all three businesses, insurance, reinsurance and mortgage, can you give us a
 the return profile of the business you're writing today versus what you would have said, if
 I'd asked the same question 12 months ago?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yes. I think the -- well, nice to talking to you, Elyse. I think the high level 2018 sort of longterm expected return on the MI was roughly in the mid-teens. So we're going back to that
 level, which is really good place for us to be.
 On the insurance, I think that we had a bit of a decrease in expected returns, even
@@ -409,10 +389,7 @@ we have a really, really different risk, risk return -- risk-adjusted return pro
 portfolio, it has improved and larger, as a result of the price increase, not certainly as a
 result of the investment return as you know, Elyse.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Yes. And then my second question on, I think you alluded to this a little bit in your
 prepared remarks, Marc, when you were mentioning on a few issues that would help from
 the pricing momentum side, like persisting from here. A big question that I get is, does
@@ -430,10 +407,7 @@ Date: 2021-02-10
 
 FINAL
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 We expect it to be the case, Elyse, because, of all the factors I've mentioned, the social
 inflation, there's a lot of uncertainty in terms of loss ratio picks for years, specifically, 2015
 through '19 as we all know. A sort of mix for correcting some of the ongoing pricing. So
@@ -451,9 +425,7 @@ being sort of a new way to deal and do the business. And eventually that builds 
 itself. I would fully expect to be lasting to 2021 and into 2022, this is what we believe at
 this point in time.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 
 Bloomberg Transcript
 
@@ -462,10 +434,7 @@ but in terms of your cat load, I thing in the past, aren't used to talk to like 
 quarterly cat. Obviously, we've seen growth in cat reinsurance and in other property
 related lines like you mentioned, how should we think about the cat load from here?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yes. I mean no question that we've written a lot more property premium in the last -- I
 want to say four to six quarters, we really ramped up our property exposures, I mean,
 there's a lot of -- in different areas, as you know, a different lines of business, U.S.,
@@ -473,22 +442,13 @@ international et cetera. Yes, so the can't load I think on a quarterly basis has
 gone up from what we were in the old days thinking about like $40 million a quarter. It's
 still evolving but I'd say it's probably more in the $60 million to $70 million range right now.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. That's helpful. Thanks for the color.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Thanks, Elyse.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 You're welcome.
 
 Operator
@@ -505,10 +465,7 @@ Our next question comes from Mike Zaremski with Credit Suisse.
 
 FINAL
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Hey, good morning. Follow-up on mortgage insurance and Elyse's question, if you're
 talking about kind of encouraged about the downward delinquency rates and assuming
 the economy progressively improves, and you -- I think you mentioned mortgage biz can
@@ -516,10 +473,7 @@ draw up return similar to 2018 levels. Are you saying kind of directionally we s
 thinking about a combined ratio that continues to move south at kind of towards 2018
 levels? Or have the capital assumptions changed since then?
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Mike, in terms of combined ratio, the capital is a different story, because it's a bit of a
 lagging indicator based on the delinquencies we have, but if you look at the combined
 ratio, yes, we think that we're turning to go towards more, so the run rate that we had in
@@ -533,18 +487,12 @@ terms of combined ratio.
 
 Bloomberg Transcript
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay. That's helpful. Switching gears to the non-MI insurance segments. You've been -the expense ratio has been better than expected for a number of quarters and you guys
 have called out some items. Maybe you can kind of remind us and talk to kind of what's -what you think is kind of cyclical? And what's kind of structural in terms of the expense
 ratio improvements?
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Yes. I think this is more structural, I would say, Mike, because right now you have to factor
 in the fact that our platform grew both sides, both in the sense of growing the top line for
 in our organic lines of business and we will have the acquisition in London and really push
@@ -571,9 +519,7 @@ Date: 2021-02-10
 expense deployment very, very nicely. So a bit more structural than I would have told you
 probably two years ago.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
+Q - Mike Zaremski {BIO 20606248 <GO>}
 
 FINAL
 
@@ -582,38 +528,23 @@ Thank you.
 Operator
 Our next question comes from Yaron Kinar with Goldman Sachs.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Hi. Good morning, everybody.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Good morning.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Good morning.
 
 Bloomberg Transcript
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 I guess my first question revolves around MI. Do you have any comments or thoughts
 around the potential changes, the FHA fees and its potential and would their potential
 impact on the MI business?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yes. I can -- listen, it's still early on MI, and it's a new administration change as a couple of
 things going on all over the place. Washington, I'm sure they're very busy right now trying
 to changing things. What we -- we hear the same things that you guys hear about the 25
@@ -645,10 +576,7 @@ so we're not losing sleep over that.
 
 FINAL
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Got it. That's helpful. And then my second question, you previously talked I think about
 shifting capital deployment from MI more into P&C. I think last call, you used more of a
 basketball analogy that was easier for me to follow than hockey but thank you for
@@ -658,9 +586,7 @@ two, the outlook was a quarter or two ago, and MI may be a little better than th
 was the quarter or two ago. Does your appetite for capital deployment between the
 three segments, has that shifted or will it shift into 2021?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 Bloomberg Transcript
 
@@ -674,10 +600,7 @@ second half of the year, how things progressed and that's good. I mean, that's s
 that we take -- I think it works in our favor. So -- but in a big picture, we don't see major
 changes and how we deploy capital.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 And Yaron, one thing I would mention to you that -- it's always -- it's hard for people not to
 see us being in Bermuda as being a property cat writer on the reinsurance side, but I
 would argue that, yes, in the property cat side is not as good, and you heard it from other
@@ -687,22 +610,13 @@ United are actually better now or the prospects what we want better than they we
 you will from your perspective, but by and large, I think there are prospectus that is very,
 very good on our reinsurance side, very much so.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Got it. Thank you. And thanks for translating hockey into basketball for me.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 You're welcome.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Thanks.
 
 Page 12 of 22
@@ -718,19 +632,14 @@ Our next question comes from Jimmy Bhullar with JPMorgan.
 
 FINAL
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
-
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 Hi. Good morning. I had a couple of questions. First, if you could just talk about your sort of
 comfort level with your BI reserves given the developments in the U.S., seem to be
 favoring the industry for the most part. So do you feel like you're overly conservative on
 your reserves? And obviously internationally things haven't gone as well? And then I had a
 -- another one as well.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 Bloomberg Transcript
 
@@ -751,26 +660,17 @@ policies well north of 90% across the book that has these both of these call it 
 So we're very confident that our results are reserves at this point won't develop
 adversely, and we're -- we will keep looking at it, but it's -- we're in a good spot.
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
-
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 And I think you said about two-thirds or three-fourths were IBNR as of last quarter, what it
 looks that number now?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Two-thirds. We're going down a little bit. So we fixed roughly from 75 to 67 roughly, I
 mean it hasn't changed much and it's --. So -- and some of that is around, as you can
 expect mostly on the reinsurance side right, where we do -- a lot of our reserves are still
 in the reinsurance side with significant IBNR and ACRs on that book.
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
-
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 And then on buyback, you did a decent amount in -- you've done a lot of this year. So
 what's driving your sort of action there, is it the stock price, is it -- I'm assuming there's
 
@@ -787,10 +687,7 @@ drove the big uptick in buybacks versus what you've done in the last few quarter
 
 FINAL
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yes. Certainly, more visibility, right? I think that, we said that from the start, we -- at the
 end of the first quarter last year, we said listen, we're going to take a little bit of a pause,
 because we need to know where things are going to -- how things are play out and
@@ -804,15 +701,10 @@ exclusive. We think our growth is still very strong. We expect to keep growing i
 across the book. But we also see a good opportunity at the current level, pricing levels for
 the stock to buyback at this point.
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
-
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 Thank you.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 Bloomberg Transcript
 
@@ -820,10 +712,7 @@ You're welcome. So before we go to the next one, I think I have to stop the broa
 think I believe we have a breaking news, this is just hit the wire. So I think we have to go to
 Francois for some commentary that you want to share with us. Francois?
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Yes, that's long overdue Marc, but just wanted to take advantage of the opportunity to fill
 everybody on the call on the latest developments with our proposed acquisition of a
 29.5% ownership stake in Coface, the global trade credit insurer. To confirm what some of
@@ -849,10 +738,7 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2021-02-10
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Thank you, Francois, for the update. And Liz, if we can go back to Mr.Dunn, who's waiting
 in line, I believe.
 
@@ -861,66 +747,42 @@ FINAL
 Operator
 Geoff Dunn with Dowling & Partners. Your line is now open.
 
-Q - Geoffrey Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Dunn {BIO 3447798 <GO>}
 Thanks. Good morning.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yes. Good morning.
 
-Q - Geoffrey Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Dunn {BIO 3447798 <GO>}
 A couple questions on MI. First of all, what was the incidence assumption for the current
 period provision as well as the average severity factor this quarter?
 
 Bloomberg Transcript
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yes. So 9.4% for the new annuities in the quarter and the average reserve for DQ was a
 little bit over 5,000, pretty much in line with the third quarter, Geoff, because the risk that
 came in were little bit less coverage in this quarter. So that would explain the average
 being a bit lower or a bit more in line.
 
-Q - Geoffrey Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Dunn {BIO 3447798 <GO>}
 Okay. And so as you think about '20 or the first part of '21, there -- to my knowledge, they
 extended the forbearance period up to 15 months, but you can't enter new forbearance
 activity. So what did your provision for non-forbearance loans? Or are your incidence
 assumption for non-forbearance loans look like in the fourth quarter?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yes. I don't think we did not -- the way we reserve that we sort of trying to make an
 overall all-encompassing assessment and put that in that numbers. So I think that -- that's
 what you might have said, might have thought in the past that our number could have
 been a bit higher. So we think that we have enough in the reserving in totality based on
 the number of factors we've used.
 
-Q - Geoffrey Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Dunn {BIO 3447798 <GO>}
 Okay. But with forbearance options going away, fair to assume that, that incidence
 assumption will probably climb in the first half ?
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Page 15 of 22
 
 
@@ -938,29 +800,18 @@ people asking for forbearance that might help again more, we'll have to readjust
 as we see the quarter. We'll have another month of non-forbearance, effective new -- not
 new forbearance, so we'll have to re-evaluate when we get there.
 
-Q - Geoffrey Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Dunn {BIO 3447798 <GO>}
 Okay. And then within the P&L, can you talk a little bit about what drove the pretty notable
 sequential drop in earned premium as well as some of the movement on both the
 expense lines? Was there any reallocation on the expense stuff ?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Specific to any segment or in -- I mean (Multiple Speakers).
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 General. All in MI. Right, Geoff ?
 
-Q - Geoffrey Dunn
-
-{BIO 3447798 <GO>}
+Q - Geoffrey Dunn {BIO 3447798 <GO>}
 
 Bloomberg Transcript
 
@@ -968,10 +819,7 @@ All MI, I think premium line was down $50 million sequentially and then you had 
 it looks like a little bit of abnormal movement, particularly, in the acquisition expense line
 relative to the third quarter, but just a little bit more volatility than where we tend to see?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yes. The first one I'd say, a, was a -- call it, a, and the accounting catch up or true up on
 our Australian business how we on the written side, so that I'd say that's more of a oneoff kind of blip that we had to adjust for or actually it was present last quarter and wasn't
 this quarter. So that's how we the -- that explains that movement. On the acquisition,
@@ -980,16 +828,10 @@ covering our U.S. MI book and that actually gives us a benefit than in terms of 
 acquisition, it's a reduction to the acquisition turning to the ceding commission. So that is
 what is starting to flow through in our numbers.
 
-Q - Geoffrey Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Dunn {BIO 3447798 <GO>}
 Yes. All right. Great. Thank you.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Sure. You're welcome.
 
 Operator
@@ -1003,9 +845,7 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2021-02-10
 
-Q - Phil Stef ano
-
-{BIO 18965951 <GO>}
+Q - Phil Stef ano {BIO 18965951 <GO>}
 
 FINAL
 
@@ -1014,10 +854,7 @@ roughly two-thirds of the defaults are in forbearance. I was hoping you could gi
 flavor for how many people are nearing the end of their forbearance window? And how
 many people in forbearance? Does it feel like are current on their mortgages?
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Yes. So -- yes, the numbers we report to you are those are in forbearance and then I have
 skipped two payments at least, so we have a few more as you could appreciate that are
 in forbearance and are still current. The data is coming in very, very haphazardly. So it's
@@ -1028,35 +865,23 @@ cured by now. So it seems to be the pattern of going to forbearance and sort of 
 there for four, five months, and then eventually things get back to normalcy. So that's what
 we would expect it to be the case going forward. (Multiple Speakers) Yes, go ahead.
 
-Q - Phil Stef ano
-
-{BIO 18965951 <GO>}
-
+Q - Phil Stef ano {BIO 18965951 <GO>}
 No, no, no. That's -- so the -- I think the one question that we're trying to get to and I get
 a lot of questions about is, you had mentioned 89% of the delinquents have at least 10%
 in equity in the home.
 
 Bloomberg Transcript
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yes.
 
-Q - Phil Stef ano
-
-{BIO 18965951 <GO>}
-
+Q - Phil Stef ano {BIO 18965951 <GO>}
 And you had talked about visibility allowing you to repurchase shares. I mean at what point
 do we get visibility that maybe the MI reserves are a little more redundant and we can
 start to see a release there. I mean how do we think about what you're looking for in the
 visibility to adjust that?
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 So from your lips to God's ear, I hope you're right that it's  it's going to be redundant,
 we'll see, only time will tell for us. I think the way we look at reserve, Phil, is very simple. It's
 just -- we have to wait till we get the data that we feel confident that we're going to get
@@ -1067,9 +892,7 @@ what it is. So we hope. But having said all this, I hope that by the summer, aft
 vaccines have been ruled out that we'll have much, much, much better visibility as to what
 if any the reserve needs to be released or is not necessary to pay claims.
 
-Q - Phil Stef ano
-
-{BIO 18965951 <GO>}
+Q - Phil Stef ano {BIO 18965951 <GO>}
 
 Page 17 of 22
 
@@ -1088,10 +911,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 I think the growth in 2021 should be more in line, at least with what we were doing last
 year. I think the opportunities on the reinsurance side -- oh, we have an echo here. I think
 the reinsurance opportunities are still very, very solid, very strong. They're not necessarily,
@@ -1112,33 +932,22 @@ strong. Well beyond that the year to two years beyond that. So we expect that to
 again a strong leading indicator and we -- our facultative team is telling us that it's a really
 good market for them at this point in time, which is encouraging.
 
-Q - Phil Stef ano
-
-{BIO 18965951 <GO>}
-
+Q - Phil Stef ano {BIO 18965951 <GO>}
 Great. Thank you.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Yes.
 
 Operator
 Our next question comes from Meyer Shields with KBW.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Great. Thanks. So two questions on the P&C side. First, Arch's confidence in the pricing
 cycle have clearly born itself out. But is it safe to say that maybe this is as good as it gets
 on the property cat's eye, because there is this level of capital available. So that cycle
 won't play out a long historical lines?
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
+A - Francois Morin {BIO 17410715 <GO>}
 
 Page 18 of 22
 
@@ -1167,33 +976,22 @@ think you'll have a -- you may have a massive excess of capital out of the door 
 might create more opportunities for us. I'm not saying it will happen, Mayer, but I could
 see scenario, where your premise does not actually hold true. So there's always a chance.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. No, just wanted to understand what you're thinking about it.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
+A - Francois Morin {BIO 17410715 <GO>}
 
 Bloomberg Transcript
 
 Sure. Yes.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Second, you talked I think on the insurance segment about market dislocation. And I think
 maybe the sense of that out there that that has been a major factor or was a major factor
 in 2020, but now most companies are kind of settling down and are comfortable with
 their books of business. Are you still feeling like today that level of market dislocation?
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Dislocation is -- you're right, there's some realignment. There's a couple of people going
 back to the market. This is truly happening, but it's not across the Board. And there are
 still, we believe bad news that needs to come finance their way through the system, that
@@ -1216,15 +1014,10 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2021-02-10
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Understood. Thank you so much.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
+A - Francois Morin {BIO 17410715 <GO>}
 
 FINAL
 
@@ -1233,10 +1026,7 @@ Welcome.
 Operator
 Our next question comes from Brian Meredith with UBS.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Hey, thanks. A couple of them for you here. The first one Marc first, I wonder if you could
 just confirm, it used to be that your determination on whether you buy back your stock or
 not is that if you could actually recoup the premium you paid relative to book value over a
@@ -1246,10 +1036,7 @@ trading right now?
 
 Bloomberg Transcript
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yes. I think that rule of thumb is still in place. I mean, obviously, it's not a black-and-white, I
 mean, there's always factors we consider around the blowing whether there's business
 opportunities and et cetera. But yes, we still think in those terms of the buyback, the
@@ -1260,10 +1047,7 @@ year. Well, we'll assess, obviously, as we do -- every day, every quarter, we wi
 what's in front of us, but for the time being I think we're -- certainly something we're
 considering and we probably will do more of.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Got you. And then just on that topic. So just maybe a little bit on usage of capital or cash
 kind of here going forward for the next 12 months, it sounds like you've got $453 million
 that's going out here. We've got Watford, but I think is yet to close. Is that it all going to be
@@ -1271,10 +1055,7 @@ constraining to your ability to actually buyback stock, given the also the capit
 need to fund your growth in your business, and particularly, Marc, just on the reinsurance
 business is going to be very capital kind of generated type of transactions?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 No. Because we -- I mean, we raised the $1 billion in capital as you know last summer it -we didn't deploy it fully until, right -- they was all part of that kind of one-one, looking
 ahead as to, what the one-ones will do. We know these transactions were, on the horizon.
 And we have a lot of faith in our ability to generate earnings moving forward on our -- I
@@ -1289,42 +1070,27 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2021-02-10
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 And Brian, both these acquisitions that you mentioned will actually be accretive and grow
 book value for us. So the capital positive for us.
 
 FINAL
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Got you. That makes sense. And then last question, I guess just now that is closed,
 Francois, maybe you can give us a little bit of color and what the title insurance market
 looks like in Europe kind of return profile. What should we expect here?
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 It's been about what 20 minutes that we announced this. So you have to give me a couple
 of more quarters. (Multiple Speaker)
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 But (Multiple Speakers) it is challenging.
 
 Bloomberg Transcript
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 No, no. We have it. But listen, we got to -- we're going to think it through, well we got, we
 have going to have a directors on there that are going to be working very close in hand in
 hand with Coface. And we're very excited as you know, Brian. I think there's more than
@@ -1333,26 +1099,17 @@ us, way beyond just to know the initial investment. I think it's a formidable, e
 company across so many countries with so many client contacts. We're really excited
 about that.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Thank you.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Thanks, Brian.
 
 Operator
 I'm not showing any further questions. I would now like to turn the conference over to.
 Mr.Marc Grandisson for closing remarks.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Thank you very much, everyone. Have a next --- the nice several months ahead for the -ahead for the first quarter return an exciting time to be at Arch's and we're very pleased
 that you are there with us to enjoy. Thank you.
 

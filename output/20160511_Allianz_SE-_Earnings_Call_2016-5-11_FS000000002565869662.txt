@@ -33,18 +33,13 @@ for the First Quarter 2016. For your information, this conference is being recor
 At this time, I would like to turn the call over to your host for today, Mr. Oliver Schmidt,
 Head of Investor Relations. Please go ahead, sir.
 
-Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+Oliver Schmidt {BIO 2473131 <GO>}
 Yeah. Thank you, Maria. Good afternoon from my side as well and welcome to our
 conference call about the results of the ﬁrst quarter 2016. I think I can keep it brief. We
 have published key numbers already last week and you have seen our analyst
 presentation this morning, so all the details you will now get from Dieter.
 
-Dieter Wemmer
-
-{BIO 4755450 <GO>}
+Dieter Wemmer {BIO 4755450 <GO>}
 
 Page 1 of 27
 
@@ -510,10 +505,7 @@ Bloomberg Transcript
 Thank you. We will now take our ﬁrst question from Peter Eliot from Kepler Cheuvreux.
 Please go ahead. Your line is open.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Thank you very much. I have three questions, please. The ﬁrst one was on slide 11. Thank
 you, Dieter, very much for the (45:00). I guess you make this point yourself on the slide,
 but it seems to me that the industry is currently getting quite a big beneﬁt from the shape
@@ -549,10 +541,7 @@ And lastly, the €0.6 billion number you mentioned for operating assumption cha
 could you just say to what extent you consider that number to be repeatable? Thank you.
 I'm sorry for the lengthy question.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah. Thank you, Peter. So, next time, I only do the Solvency II chart and for that, let's skip.
 So, on the swap curve, I'm not really following you because the valuation curve is the spot
 rate. So, what we observed is the green line in the market. We have plotted the gray line
@@ -562,49 +551,32 @@ forward rate to construct the spot rate. But the spot rate is in the end the spo
 whether the two curves absolutely follow the formula we have added to the base, I'm not
 sure.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Yeah.
 
 Bloomberg Transcript
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 But actually when I look at the gray curve, you can also say we have – yes, it's a very steep
 and the years from 6 to – for 15 (47:59) but this dip between 14 and 20, you can also say
 that it's not natural. So, actually our valuation and the spot rate is actually too low at the
 moment and, actually, we see that we have a very artiﬁcial market on this one. So, you can
 also make this point. I cannot conclude your conclusion.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Okay. Could I just quickly explain what I was meaning there? Because I take your points
 completely, but my interpretation is that the blue part of the curve is basically calculated
 from the green curve at 20 years and a combination with the green curve and the gray
 curve. And the reason...
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 No, no, no, no. It's the green curve and then you add every year so one divided by 60 of
 the 4.2%. That is the formula which is being shown here.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Okay. I guess I'll just follow-up oﬄine with the IR (49:06).
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Page 11 of 27
 
@@ -622,18 +594,12 @@ FINAL
 Well, actually look at the valuation rate, 21. We have actually put the formula in how you
 move from 20 to 21.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Yes. And the 2.2% in that formula is taken from the gray curve, and it's quite a bit higher
 than the 20-year point because the curve is steep for 20 years. And so, it rises quite
 sharply after 20 years because of the...
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah, I think we stated oﬀ. Otherwise, we are doing the rest of the day this one here.
 Disposals, I think we only update and publish M&A budget when the transactions are
 closed. I'm not doing now rough, tough estimates. But with the numbers I have given you,
@@ -647,20 +613,14 @@ million special, €200 million is more normal. So that means if you want to nor
 €2 billion assuming that the pre-tax new business value is unchanged, then we are
 somewhere at €1.6 billion-plus for a quarter.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Okay. Thanks a lot.
 
 Operator
 We will now take our next question from James Shuck from UBS. Please go ahead. Your
 line is open.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Good afternoon, Dieter. I also had three questions, please. Just starting – or turning to
 slide nine. Thanks again for the reconciliation between the two ratios. I just wanted to sort
 of check my understanding of this because, clearly, the operating Solvency II earnings are
@@ -697,9 +657,7 @@ And then, thirdly, just very quickly, I wonder if you could just comment on how 
 the M&A market evolving particularly in the kind of €5 billion to €10 billion sort of range in
 terms of opportunities and ﬁnancial returns. Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Bloomberg Transcript
 
@@ -736,10 +694,7 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2016-05-11
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Okay. Thank you very much, Dieter.
 
 FINAL
@@ -748,10 +703,7 @@ Operator
 We will now take our next question from Michael Huttner from JPMorgan. Please go
 ahead. Your line is open.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Fantastic. Thank you so much. On the solvency, can you say how much beneﬁt the
 announced disposals of Korea and Taiwan would be? And on the asset management, you
 said with conﬁdence that – or understood that the total net outﬂow this quarter would
@@ -761,9 +713,7 @@ And then, the ﬁnal point is – the question is the booklets (57:17), I mean t
 information but they're getting thinner every time you report. Clearly, that's a voluntary
 decision. Why do you think the market would reward less information? Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Bloomberg Transcript
 
@@ -785,10 +735,7 @@ and I never – (59:15) it's one-on-one. They have some good ideas and plans how
 it forward, but you also know that the asset management industry is a very conﬁdential
 industry which is not disclosing too early ideas and plans.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Thank you very much.
 
 Operator
@@ -819,9 +766,7 @@ costs, I guess, of that shift that further down the line, we might see fall away
 therefore, the VNB margin actually increases more into the future because of lower
 ongoing costs or is that not something that's really big enough to register? Thanks.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Bloomberg Transcript
 
@@ -866,10 +811,7 @@ FINAL
 We will now take our next question from Thomas Seidl from Bernstein. Please go ahead.
 Your line is open.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Thank you. Good afternoon. First question on capital management. Let's assume that for
 the rest of the year you paid 186% because what you earned is basically consumed by
 capital market. And you would have, let's say, €3 billion M&A budget left by end of the
@@ -884,10 +826,7 @@ trending in the wrong direction. So, what are the actions to get you to the 94%?
 
 Bloomberg Transcript
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Okay. Thank you, Thomas, for the questions. Capital management, we manage the
 company in a range 180% to 200% as announced and explained at the Capital Market
 Day in November. We think we have no reason to change any statements made at this
@@ -903,10 +842,7 @@ the negative direction. So our – we had last year 94.5% (01:07:45). I feel tha
 playing around this number as a combined ratio, but I said that is still a guess to the 94%.
 So, with this part, I clearly agree with you, Thomas.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay. On the – maybe one follow-up (01:08:02). So, let's assume 185 (01:08:04) is the
 number in Q4. Would you then be willing to go to 175 (01:08:08), assuming you return €3
 billion to shareholders or is that violating the 180 to 200 tolerance (01:08:15)?
@@ -919,15 +855,10 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2016-05-11
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 That would violate the 180 (01:08:19), but don't worry.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
+Q - Thomas Seidl {BIO 17755912 <GO>}
 
 FINAL
 
@@ -937,10 +868,7 @@ Operator
 We will now take our next question from Farooq Hanif from Citigroup. Please go ahead.
 Your line is open.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi there. Thank you very much. Just going back to couple of generation, going also back
 to what James Thomas Seidl Shuck was saying earlier. In numerical terms, you're ending
 up with a number in a post kind of business evolution increase in SEI. You're ending up
@@ -963,10 +891,7 @@ casual continuation of poor combined ratio at that line because that's obviously
 high growth decent proﬁtability? Just wondering to what extent we should worry that a
 reduction in possibility for more than a quarter? Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Let me start backwards, AWP. I don't think that it is a long-term deterioration but it might
 be still in Q2. On the €7 billion number, well, there is still some variation. And I said €400
 million is still a – was still a one-oﬀ, so therefore you get a bit lower than €7 billion. And
@@ -975,10 +900,7 @@ usually the tax man wants its share. And therefore that is then maybe a bit goin
 out of the Life segment. But overall, I think we are in a good way to manage our Solvency
 II ratio going forward and still can pay an attractive dividend.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Page 17 of 27
 
 
@@ -993,10 +915,7 @@ materially high than your guidance on cash ﬂow. But obviously, you don't recog
 
 FINAL
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yes. But look, the guidance on cash ﬂow was the real cash ﬂow. Here, you have still a
 Solvency II calculation generating surplus but whether you can distribute the surplus. Let's
 take a company who is only doing unit links. You could use very stable at nice (01:12:19).
@@ -1019,20 +938,14 @@ will then show up over time in the business evolution number because the busines
 evolution number is a capital consumed by new business minus capital released by
 maturing business.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Yes. Thank you very much.
 
 Operator
 We will now take our next question from William Hawkins from KBW. Please go ahead.
 Your line is open.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hello. Thank you very much. Hopefully, these two are quick. The pension beneﬁt that you
 said will probably recur in ﬁrst quarter 2017, is that something that could recur in years
 after that as well or is 2017 the last time it happens? And then secondly, just conceptually,
@@ -1041,9 +954,7 @@ disposal as a loss? So, things like Korea and Taiwan relevant for our thinking a
 number or would you just completely exclude them from the way you're thinking about
 the M&A budget? Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Page 18 of 27
 
@@ -1061,22 +972,13 @@ thought about it that this would be a possibility, that when we sell something a
 we could reduce the budget. I have probably to ask our shareholders what they would
 think about the idea, but I pick up your proposal and see whether we should subtract it.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 I suppose, sadly, I meant it would increase the budget, but I'm By the way you think it's excluded from your thoughts about the budget?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Until ﬁve minutes ago, it was. Yes.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Okay. Cool. Thanks.
 
 Operator
@@ -1085,10 +987,7 @@ ahead. Your line is open.
 
 Bloomberg Transcript
 
-Q - Federico Salerno
-
-{BIO 2565091 <GO>}
-
+Q - Federico Salerno {BIO 2565091 <GO>}
 Yes. Thank you. Dieter, two questions both on P&C for me, please. The ﬁrst is on France,
 you have an excellent combined ratio there still at 95% with spread relative to the market
 gain, why there is possible? Do you have a view how much better it could get from here?
@@ -1096,10 +995,7 @@ That's the ﬁrst question.
 And the second is on Italian Motor, some local players are mentioning less competition,
 do you have a view on this? Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Well, I think also our French business has to contribute to the 94% group target, and we
 are not giving to anybody relieve to participate in the 94% target. And as a French
 businessman, you look at the last quarters as somewhere in between 94% ﬂat and 96%, so
@@ -1108,10 +1004,7 @@ believe it is certainly possible.
 On Italian motor, it depends probably on your starting point, but we feel that the
 competition is still pretty strong.
 
-Q - Federico Salerno
-
-{BIO 2565091 <GO>}
-
+Q - Federico Salerno {BIO 2565091 <GO>}
 Okay. Thank you.
 Page 19 of 27
 
@@ -1127,10 +1020,7 @@ ahead. Your line is open.
 
 FINAL
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Hi good afternoon. I've got three questions please. First the reinvestment yields, (01:17:51)
 Life and P&C unless you're looking sort of Q1-on-Q1, the gap between the actual
 reinvestment yield and the economic reinvestment yield is widened. So I guess 10 points
@@ -1147,10 +1037,7 @@ what have you been doing in Q2 subsequent to quarter end? Thank you.
 
 Bloomberg Transcript
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Okay. Thank you. Let me start with reinvestment yields. Well, the disclosure I actually – I
 did not explain it during my presentation. What is under the economic reinvestment yield,
 we have just included here the cost of hedging foreign currency exposure. So, it's mainly
@@ -1160,28 +1047,17 @@ have maybe taken more foreign currency ﬁxed income investments this year than 
 and therefore we have a bigger cost of hedging.
 So, the new...
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Sorry to interrupt you. Since the issue then you've actually – you proportionately invested
 more in foreign currency or the cost of the hedging has gone up year-on-year?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I think it's more volume-driven and not cost of hedging.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Okay. Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Page 20 of 27
 
 
@@ -1202,16 +1078,11 @@ idea for our – when we do an end-of-the-year full update on where we stand wit
 strategic agenda that we could also include something about it. Does this answer your
 question?
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Yes. And then just the question about what you can do from the ALM perspective to
 reduce the rates?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Bloomberg Transcript
 
@@ -1225,10 +1096,7 @@ which has been a bit late during the state here. I don't know. I'm not sure that
 year long liabilities we want to match with these bonds. But that is a decision of our asset
 management guys whether this year that you get enough margin out of this bond.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 So, just to ask a follow-up. On the Korea and the Taiwan disposal, I can see that that's a
 perfectly sensible thing to do. Your ROE target for the life entities to get everything by to
 10% by the end of the target period. That is a very volatile metric. I just wondered whether
@@ -1236,10 +1104,7 @@ there is actually underlying that is a more value-based metric. The actions you 
 is simply based more on economic capital absorption rather than non-GAAP equity. So, is
 there actually an underlying metric as well as the ROE?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yes. That is, on one hand, true. But we will evaluate each of our entities whether they
 exceed a sustainable 10% ROE number. What we can only disclose here in the numbers is
 the actual number without any adjustments. But in our internal judgment when we look at
@@ -1258,10 +1123,7 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2016-05-11
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Okay, excellent. Thank you, Dieter.
 
 FINAL
@@ -1270,10 +1132,7 @@ Operator
 We will now take our next question from Michael Haid from Commerzbank. Please go
 ahead. Your line is open.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Thank you very much. Good afternoon. Two questions. Can you shed a little bit more light
 on the weather-related losses in the ﬁrst quarter? To my understanding, you expect
 normalized 2.9% weather-related losses. Net capital is only 0.2%. How much was the
@@ -1283,9 +1142,7 @@ The second question, you mentioned a negative impact from German health on the
 operating proﬁts. Can you say what it was and whether it is kind of one-oﬀ eﬀect in nature
 or whether it could be recurring?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Bloomberg Transcript
 
@@ -1318,38 +1175,24 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2016-05-11
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Okay. Thank you very much. Certainly, the weather-related and plus NatCat in the ﬁrst
 quarter, one could say it was around 1.2% and that compares to a normalize...
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 FINAL
 
 Take 1.2% (01:28:31).
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 And that compares to the 2.9% which you, on a normalized basis, expect for the whole
 year?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yes.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Perfect. Thank you very much.
 
 Operator
@@ -1359,20 +1202,14 @@ Bloomberg Transcript
 We will now take our next question from Nick Holmes from Société Générale. Please go
 ahead. Your line is open.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hi, there. Thank you very much. Just two questions. Firstly, coming back to your shift
 towards Capital Life products, I wonder, Dieter, whether you could say that the objective
 here is growth or capital eﬃciency and capital return? And then second question on Asia.
 You're accessing Korea and Taiwan; do you see investment opportunities elsewhere? And
 if so, where would they be? Thank you very much.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah. Nick, thank you for the questions. Well, actually, we believe that the capital-eﬃcient
 products oﬀer both, growth and capital returns because the construction of the product
 allows us actually to run more attractive investment portfolios for our customers. And
@@ -1404,56 +1241,32 @@ certainly introduce also our capital-eﬃcient products. And therefore, in our d
 we're keeping it clearly separate from the unit-linked box because we see it as two longterm life insurance business, and opportunities for our industry and not just saving capital
 and shifting the investment work to the customer. In Asia...
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Sorry.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yes. We see in Asia...
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Sorry. A quick follow-up to your comment there. Do you think that, therefore, that the
 growth prospects in life will actually be quite good from this shift to capital-light?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yes.
 
 Bloomberg Transcript
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Deﬁnitely. Otherwise I – we should change our strategy immediately because the
 company, which doesn't (01:32:18).
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 That's great. Thank you. I'm sorry. With Asia?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 With Asia. Yeah. We are expanding our bank distribution in Asia in Southeast Asia in
 particular. Korea was actually not anymore an Asian closed market. Korea is a matured
 market. Therefore when you buy and invest in businesses in Asia for high growth, then
@@ -1478,31 +1291,19 @@ now go beyond the time we have for the call.
 
 FINAL
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 But would it be correct to say that you do see material investment opportunities in Asia?
 This is a territory that you're looking at.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I would say good investment opportunities work material in context of a group which
 makes annual €12 billion revenue and €6 billion net income plus the word material is
 always a big word.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. Thank you very much.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 All right. It's already half past 3:00. So, I guess we have time for one last question, please,
 if there's any.
 
@@ -1512,32 +1313,20 @@ Operator
 Yes. We will now take our last question from Vinit Malhotra from Mediobanca. Please go
 ahead. Your line is open.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Many thanks. Thanks. I'll keep it really quick. Just in the P&C – so one on the P&C, please,
 and then one on (01:35:03), all quick ones. P&C, the attritional improvement that we used
 to talk about from the turnaround operations, that slide was sort of not here because of its
 contract structure, if you could comment on that just a bit brieﬂy how the 94.5 goes to 94
 (01:35:19) if they still are thinking on the operational side.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Vinit, you are really hard to understand. Some of your line is broken and breaking in.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Is this better?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah. Yeah. Maybe can you repeat your question? I couldn't get it.
 
 Page 25 of 27
@@ -1548,9 +1337,7 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2016-05-11
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 FINAL
 
@@ -1559,10 +1346,7 @@ there used to be a slide showing the three buckets of combined ratios. And there
 focus also on the turnaround units. Is there still that kind of focus or it's just under the
 quarterly compression of slides that we haven't seen?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 You mean our chart with various categories? Yeah. So, we are still having the same focus
 and nothing has changed there. We still drive our business the same way as before. I see
 you all made a strong point for the additional appendix, which I really think we surely are
@@ -1573,24 +1357,16 @@ out as some of you also observed that we have to see that it's getting back on t
 are actually the main areas to focus on.
 Okay. And then you had another question on Life.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Asset management.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Bloomberg Transcript
 
 Or asset management.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Sorry. On Life – or I think the asset management ﬁrst. So, on PIMCO, when we track
 the monthly total return fund and the PIMCO income fund ﬂow data, for the quarter they
 seemed to have netted out each other. And we keep reading about how various
@@ -1598,26 +1374,17 @@ strategies are still attracting money. Where is this €10 billion outlook comin
 know it's a very good number and the trend is positive, but I'm just quite curious where
 this is really coming from.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I think that's mainly institutional who are attracting their strategies in the environment.
 That has nothing to do with PIMCO's attitude. Your observation on that the two big ones
 are netting out is fully correct.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Can I ask one more, please? The French Group life business, what's the motivation to
 write when the market was weak and the pricing was not good? Was it just the growth you
 wanted or?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Page 26 of 27
 
 
@@ -1636,16 +1403,10 @@ customer and have the opportunity to price up this business otherwise you are ri
 should not continue all of these policies since we are not getting it to a pricing position
 where we want to have it.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 All right. Thank you very much Dieter.
 
-A - Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+A - Oliver Schmidt {BIO 2473131 <GO>}
 Then, thank you, all. From my side as well, thank you for joining the call. And we say
 goodbye for now and wish you all a very pleasant remaining afternoon. Bye.
 

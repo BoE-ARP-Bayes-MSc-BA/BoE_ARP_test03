@@ -35,10 +35,7 @@ noise. After the speakers remarks, there will be a question-and-answer session.
 (Operator Instructions)
 Mr. Peter Hill, you may begin your conference.
 
-Peter Hill
-
-{BIO 15385944 <GO>}
-
+Peter Hill {BIO 15385944 <GO>}
 Thank you. And thank you all for joining our Third Quarter 2012 financial results conference
 call. Yesterday, after the market closed, we issued our quarterly release. If you didn't
 receive a copy, please call me at 212-521-4800, and we'll be sure to provide you with one.
@@ -65,9 +62,7 @@ are Neill Currie, Chief Executive Officer; Jeff Kelly, Executive Vice President 
 Financial Officer; and Kevin O'Donnell, Executive Vice President and Global Chief
 Underwriting Officer. I'd now like to turn the call over to Neill. Neill?
 
-Neill Currie
-
-{BIO 6676681 <GO>}
+Neill Currie {BIO 6676681 <GO>}
 
 Bloomberg Transcript
 
@@ -252,10 +247,7 @@ we have a number of levers we could deploy to continue to generate attractive re
 for our shareholders.
 Thanks, and I'll turn the call over to Jeff.
 
-Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+Jeff Kelly {BIO 20911735 <GO>}
 Thanks, Kevin. Good morning, everyone. I'll begin with a few comments about Hurricane
 Sandy, and then cover our results of for the Third Quarter and year-to-date, and also
 provide you with our initial 2013 top line forecast. As Neill and Kevin mentioned, it is far
@@ -398,10 +390,7 @@ Finally, I'd remind everyone that premium estimates of this nature are subject t
 considerable risk and uncertainty, and our goal in providing them to you is to give you our
 best estimates at this time. Thanks, and with that I will turn the call back over to Neill.
 
-Neill Currie
-
-{BIO 6676681 <GO>}
-
+Neill Currie {BIO 6676681 <GO>}
 Thank you, Jeff. Operator, we are ready to take questions.
 
 Questions And Answers
@@ -410,27 +399,18 @@ Operator
 
 Bloomberg Transcript
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Could you talk about the thought process behind the $180 million share buyback? That is
 definitely a lot more than I believe some of us were expecting, and I guess maybe one of
 the drivers was your -- it looks like the growth outlook for 2013 is well below 2012 levels?
 And I have a follow-up, thanks.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 I will start on that, and then turn it over to Jeff. It's a combination of two things, the
 amount of excess capital that we have on hand, and two, the stock price, the valuation of
 the stock. Jeff ?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Yes, I certainly agree. I'd say that the -- we have been saying for the last couple of
 quarters that we have capital well in excess of what we think we need to run the business,
 and I think our willingness to buy back a reasonably large amount of stock in wind season
@@ -439,10 +419,7 @@ you for 2013, our best guess is that our capital position in the absence of furt
 management will continue to strengthen. So we do think -- we do expect at least at this
 point that you should see some capital management activity in the coming quarters.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Maybe we'll do a ricochet hear and come back to me. One other thing that you have to
 think about here, sort of playing back Kevin's comments about flexibility, you will note that
 our ownership of DaVinci is down, and then we instituted Upsilon and Tim Re. Had not
@@ -457,31 +434,20 @@ Date: 2012-11-02
 done those things, we would need a little bit more capital. So I wouldn't take it necessarily
 as a negative that we are buying back shares, I view it as a positive step.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
+Q - Mike Zaremski {BIO 20606248 <GO>}
 
 FINAL
 
 Okay, that's helpful. And did hear -- lastly, did I hear correctly that the outlook for the joint
 ventures' managed CATs would be down in 2013, in terms of premiums written?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 No. Our forecast for managed CAT premiums is -- at this point is about flat for 2013.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 And we will continue to manage that. For example, we thought -- we feel like we have got
 a very good book of business. We let new investors into DaVinci because we thought they
 were quality, good long-term investors, and we manage the Company on a long-term
@@ -489,10 +455,7 @@ basis.
 
 Bloomberg Transcript
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Got it. So just as a follow-up to that, then would it be a general rule of thumb then if
 property CAT prices are up a lot next year, then that business could probably grow, and if
 they are down, maybe it would be weaker? Thank you.
@@ -507,10 +470,7 @@ traditional retro. So I think even if top line does not change, we have a lot of
 to how we want to construct the net risk portfolio that sticks to us, which has the largest
 impact on returns to shareholders.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 One thing I'll point out, too, just so people understand precisely what Kevin was saying.
 That does not mean that we are lackadaisical on a gross basis, and we take on business
 that's not profitable. We'll always take on a profitable business, it's just according to how
@@ -527,19 +487,13 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2012-11-02
 
-Q - Sarah Dewitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah Dewitt {BIO 18946247 <GO>}
 Hurricane Sandy, what is the threshold in terms of characterizing losses as significant, and
 how large of an industry loss are you looking for there?
 
 FINAL
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Sarah, it's Neill, I'm always the guy that says, oh Sarah, I just cannot answer that for you, so
 one of these days we will break that tradition. So significant -- it's one of the reasons we
 gave you more color this morning, to let you know that we envision that the loss on that
@@ -549,10 +503,7 @@ update on the loss as we know more. It is important to us to give good quality n
 versus sort of rushing out there with a number that may not be particularly accurate. And
 as to the industry loss, we're not going to give a number.
 
-Q - Sarah Dewitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah Dewitt {BIO 18946247 <GO>}
 Okay, that's fair. Then on the January 1 renewals, can you talk about what you are
 expecting in terms of rate increases, supply and demand, and the outlook for Citizens
 and the Florida Hurricane CAT Fund?
@@ -570,19 +521,13 @@ not an area that we focus a lot of attention. It is much more about our ability 
 the net portfolio, which we mentioned. We feel that we have a very good portfolio going
 into 2013, and our ability to optimize the net remains as strong as it has ever been.
 
-Q - Sarah Dewitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah Dewitt {BIO 18946247 <GO>}
 Okay. Great. Thanks for the answers.
 
 Operator
 Greg Locraft, Morgan Stanley.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Wanted to just pursue a bit on capital management. It looks to me like you have earned
 over $500 million year-to-date, you have bought back about $270 million year-to-date,
 and so you have got a $200 million, $250 million or so, that you have made this year that
@@ -603,18 +548,13 @@ given you did a lot in the Third Quarter on the buyback front?
 
 FINAL
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Greg, I hope you're doing okay up there, and didn't too wet. It's Neill. So I agree with
 everything you said, with one caveat, is that we have 60 days to run on the Fourth
 Quarter, so we don't know whether it will be profitable or not for the Fourth Quarter, but
 everything else you said I agree with. So with that, I will turn it over to Jeff.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
+A - Jeff Kelly {BIO 20911735 <GO>}
 
 Bloomberg Transcript
 
@@ -635,20 +575,14 @@ special dividends. We really do look at everything all the time. That said, I'd 
 this level of -- or roughly this level of our share price, we'd have a biased toward share
 repurchases as the primary means of managing that excess capital position.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Okay. Great. Thanks. I'll try to get a little color on Jan 1, I don't know if you'll be able to
 provide it, but the initial guidance of flat is -- you know, in a world where it seems that
 Property CAT pricing, at least pre-Sandy, had been slipping a bit. So is this -- are you guys
 thinking you're going to take some market share? How are you thinking about the market
 year-over-year into Jan 1?
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Greg, I will start, then over to Kevin. Please, everyone, take these estimates with a grain
 of salt. We see -- as being a first call market, we get to see some mighty big deals, and
 it's an imprecise science when we give you estimates. We're just trying to give you
@@ -672,10 +606,7 @@ we were looking at our budget; it is the same way we're approaching it after San
 
 FINAL
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Yes, one piece of color perhaps, too, Greg, is that after losses, there is a lot of learning
 here. Some people learn more than others, and there may be some people that said, you
 know what, my retention -- you know, we've seen a couple of these now with Irene,
@@ -684,10 +615,7 @@ folks that said holy smokes, if I've had this kind of loss from something that w
 even a Cat 1 when it hit, they might re-look at the amount of capacity they want to buy. So
 there is some potential things that could occur.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Okay. Great. Then one last one if I can. This is a Top 10 -- probably a Top 10 event, if you
 take the midpoint of Eqecat's range, for better or worse. Sounds like again it is going to
 be contained -- well, I mean your guidance is it will be contained within the Fourth Quarter
@@ -701,10 +629,7 @@ Bloomberg Transcript
 
 I think the world --
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 I'm sort of interested vis-Ã -vis your competitors. Like how you all are thinking about it
 versus where they may be?
 
@@ -738,16 +663,10 @@ BI and CBI, which I think will be a significant area of uncertainty in how that 
 that is really kind of a highest level as to where losses will come from and how they will
 flow into the market.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 That is great.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Two other points, quickly, Greg, is of course some of our competitors are interested in
 writing pro-rata coverage than we are, and the folks with pro-rata will have a little bit
 different outcome here. And secondly, loss -- it's early for us yet, we are studying this right
@@ -756,10 +675,7 @@ WeatherPredict. So we have ideas that can be confirmed, we've got specialists in
 surge and storm surge models we look at. This will help validate the work that we have
 done there.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Okay. Thanks a lot.
 
 Operator
@@ -768,10 +684,7 @@ Bloomberg Transcript
 
 Amid more, ( Indiscernible ).
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Good afternoon. Just going back to the discussion on Hurricane Sandy, I know you
 touched upon BI, can you also talk about the demand surge component, and does that
 become a bigger deal down the road?
@@ -786,10 +699,7 @@ people will experience increased prices for things that they need to purchase, i
 necessarily flow-through to the insurance market or reinsurance market, just because of
 the way the coverages are working on this event.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. And the other question I have, and I guess it relates to the competition and the
 models, just like we had all these modeling resets; do you think that maybe this wasn't
 fully understood, and there is a high likelihood that many of the modeling companies will
@@ -817,10 +727,7 @@ from this event. I would say, though, that on individual accounts we will probab
 things, and we'll reflect that specifically in pricing, but it won't be a 2006; or 2011-type
 model change in which there is a reset on the perception of risk.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Along those lines, interestingly, going back to the formation of our Company in the early
 90s, as I recall there was only one modeling company that understood an event like this
 could happen this far north, that it could continue west. But over the years, I think all of the
@@ -828,9 +735,7 @@ modeling companies have done more work in this area, particularly in the last co
 years, so I think there is an acknowledgment that this can occur, it's just a matter of the
 return period.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
+Q - Amit Kumar {BIO 15025799 <GO>}
 
 Bloomberg Transcript
 
@@ -839,10 +744,7 @@ Okay. Thanks, that's all I have for now. Thanks for your answers.
 Operator
 Vinay Misquith, Evercore Partners.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 The first question is the impact of Sandy on pricing, just curious as to what your
 perspective is? And in that context, looking at how much did RMS 11, how much did that
 raise pricing for Property in the Northeast? And do you think that there is more to go in
@@ -877,10 +779,7 @@ potentially to their customers. So we are hopeful that as people understand wher
 coverage is retained, there are opportunities for increased a demand, which could have a
 resultant change in price.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Okay, that's helpful. The second question was on guidance. What were the assumptions
 for pricing? So were you assuming down pricing before? And the second is, what were
 your assumptions on the potential benefits of the depopulation program?
@@ -899,10 +798,7 @@ to how we think about constructing our portfolio. We believe our portfolio has a
 independence from the market, because of all of the levers on capital and retained risk
 that we have embedded within the construction of it.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Okay. And was the potential benefit from the depopulation considered within guidance?
 
 A - Kevin O'Donnell
@@ -914,18 +810,13 @@ opportunity for reinsurance -- for us to sell more reinsurance. So we do have an
 that there is a positive trend within the Florida market for more reinsurance capacity to be
 deployed.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 That's helpful, thank you.
 
 Operator
 Jay Cohen, Bank of America/Merrill Lynch.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
+Q - Jay Cohen {BIO 1498813 <GO>}
 Page 15 of 22
 
 
@@ -940,19 +831,13 @@ essentially a suggestion you do not expect to lose money in the Fourth Quarter?
 
 FINAL
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Yes, Jay. To be clear, Greg kind of touched on this earlier, based upon what we know now,
 that is correct. But we have got 60 days to go, so I'm not going to promise you a
 profitable Fourth Quarter until it is over. But yes, it should be contained. It should be a
 profitable quarter, all things being equal.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Great. Then second question, you kind of make a comment relating the BI loss here, and
 maybe to the Thai floods, and I guess I saw them pretty differently. The Thai floods, my
 assumption was -- they lasted for months, and it was a highly-industrialized area of
@@ -969,33 +854,21 @@ interpretation of BI coverage between Thailand and the US as well. So I think, I
 don't have certainty as to how this will play through, but I was trying to highlight that that is
 a significant source of uncertainty, with the ultimate loss from Sandy.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Got it.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 I think the punch line is that any type of business interruption, contingent business
 interruption, is very difficult to ascertain. It is one of the hardest parts from a reserving
 standpoint.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Absolutely. Thank you.
 
 Operator
 Josh Stirling, Sanford Bernstein.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 So we're obviously all sort of sitting at home trying to figure out how to understand this
 and help clients, and you guys probably have the best database, especially with respect
 Page 16 of 22
@@ -1036,10 +909,7 @@ to what percentage of commercial businesses, or percent of businesses, are impac
 We are taking a more ground-up approach, and talking to our customers from that
 perspective.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 Kevin, that is very helpful. Is the intuition -- I mean, you responded related to commercial
 lines, sort of like large account commercial lines. Is the intuition for the regional writers, or
 say small standard policies or mid-market, things like that typically don't come with flood
@@ -1051,10 +921,7 @@ this, but if you move to smaller and smaller, ultimately to a BOP-type policy, I
 imagine there will be less take-up rate than the more -- much more sophisticated Fortune
 500 buyer, for this type of coverage.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 Got it. Then this my last question, in a typical scenario does -- what sort of level for your
 larger accounts would you expect the CBI and the flood limits -- or the flood sub-limits to
 be? Is this sort of a fraction of the total exposure, sort of a trivial level for some of these
@@ -1076,26 +943,18 @@ actually is -- comes into play or not. I think it is early days to figure that o
 
 FINAL
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Yes. That it is very account specific, and I know our D&F folks will reply, as we look at the
 losses, that they will underwrite an account and they will come in above the sub-limit. So in
 the larger accounts, the underwriters look at this quite closely in terms of what that sublimit is.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 Right, great. Thanks for taking the time. Good luck.
 
 Operator
 Mike Nannizzi, Goldman Sachs.
 
-Q - Mike Nannizzi
-
-{BIO 15198493 <GO>}
+Q - Mike Nannizzi {BIO 15198493 <GO>}
 
 Bloomberg Transcript
 
@@ -1115,18 +974,12 @@ time to manage the gross to net portfolio. We view it as much more of a dynamic 
 where, at any point in time we will look in the market for retro opportunities that enhance
 the net returns of the book of business. We had good success with that in 2012.
 
-Q - Mike Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Mike Nannizzi {BIO 15198493 <GO>}
 Great. Thanks. Then just one capital question, how much did the reduced run stake in
 DaVinci year-over-year influence the share buyback decision, versus your outlook on how
 much premium you may write at 1/1?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 It was certainly a consideration, but in the -- I would say in the grand scheme of how we
 view our overall capital structure and excess capital position, it wasn't a dominant reason
 in our decision to move forward with that.
@@ -1138,9 +991,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2012-11-02
 
-Q - Mike Nannizzi
-
-{BIO 15198493 <GO>}
+Q - Mike Nannizzi {BIO 15198493 <GO>}
 
 FINAL
 
@@ -1150,10 +1001,7 @@ could potentially impact the way that these programs are run, if at all, or the 
 some of the risk to move into more of a private-market format? And thanks for all your
 answers.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 That is a great question. There is area of opportunity here. We no longer are in the crop
 business as an insurer; we view that business now as a reinsurer, sort of for the reasons
 mentioned, the government influence there, quite frankly. However, it is interesting on the
@@ -1162,54 +1010,33 @@ the US government in a tough time, with the fiscal cliff hanging over and the de
 think over the coming years there's opportunities for the private market to certainly be
 involved and to participate.
 
-Q - Mike Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Mike Nannizzi {BIO 15198493 <GO>}
 Is that something you'd want to do on the flood side?
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Sure. We do it everywhere else.
 
 Bloomberg Transcript
 
-Q - Mike Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Mike Nannizzi {BIO 15198493 <GO>}
 Thank you.
 
 Operator
 Seth Bienstock, TimesSquare Capital.
 
-Q - Seth Bienstock
-
-{BIO 16459134 <GO>}
-
+Q - Seth Bienstock {BIO 16459134 <GO>}
 Just following up on the LIBOR losses, what percentage of the reserves that have been
 posted is IBNR at this point?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Seth, all of it is IBNR.
 
-Q - Seth Bienstock
-
-{BIO 16459134 <GO>}
-
+Q - Seth Bienstock {BIO 16459134 <GO>}
 Okay. Just second, about five years ago, I think also in the Casualty Clash book, Ren
 posted I think $55 million in losses for potential sub-prime exposure. Was wondering if you
 could provide us roughly how much of this amount has been paid out to date?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Page 19 of 22
 
 
@@ -1220,28 +1047,20 @@ Date: 2012-11-02
 
 I think on the sub-prime exposure, to this point about 75% of that is paid out Seth.
 
-Q - Seth Bienstock
-
-{BIO 16459134 <GO>}
+Q - Seth Bienstock {BIO 16459134 <GO>}
 
 FINAL
 
 Okay. Great, thank you very much.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Operator, our time is about up. Let's take one more question, and then I think we will have
 to -- it is lunchtime here in Bermuda.
 
 Operator
 Ian Gutterman, Adage Capital.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 I will just limit myself to two, and follow-up with the others later. First, any exposure -- you
 obviously talked about where you are exposed on the CAT side. Is there anything to think
 about on either Lloyd's or the Specialty business to this kind of this event?
@@ -1253,10 +1072,7 @@ Bloomberg Transcript
 Yes. Within Lloyd's we do write some Property CAT, so that is a similar analysis as to what
 we would do here in Bermuda.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Right.
 
 A - Kevin O'Donnell
@@ -1265,10 +1081,7 @@ facultative reinsurance, and I think there's certainly exposure that can come th
 there. We have gone though that book of business, we've -- and continue to look through
 to determine if there is exposure that will come through from there.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 What kind of retentions do you take on that book?
 
 A - Kevin O'Donnell
@@ -1276,10 +1089,7 @@ Again, it depends on the account and the pricing, so a lot of them are layered, 
 programs, and we look at really what the risk return is by layer. As Neill had mentioned, it's
 not uncommon for us to be above the flood sub-limit on those deals as well.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Got it. And the Specialty book?
 
 Page 20 of 22
@@ -1292,10 +1102,7 @@ Date: 2012-11-02
 
 FINAL
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Ian, I'm sorry, sticking with the D&F book, then the Specialty, interestingly it took us a while
 to get that the D&F book up and going, because a lot of people that write D&F, frankly,
 don't go to the trouble of properly allocating the property exposure, and we've spent
@@ -1304,10 +1111,7 @@ risk in that D&F book and look at the footprint, so we know where it is and we k
 exposures. And all of those potential losses are rolled into our estimated losses, and will
 be in our estimate when we put it out, and is within our estimate now.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Great. Kevin, when you mentioned that this event played out largely as you guys might
 have anticipated, the only place I can think of that might be a little bit different is would
 you have modeled an event like this for this kind of wind field and so forth, would you
@@ -1326,20 +1130,14 @@ comfortable, I think the wind -- with where the wind speeds are, and then the ap
 of the hurricane deductible, I don't think has as a material impact us -- on us for this event,
 as a reinsurer.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Okay. Even though some of your national cedants have said they are going to waive
 those, and you have to follow-the-fortunes?
 
 A - Kevin O'Donnell
 Yes. But I think -- I'm speaking specifically for this event.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Got it, okay.
 
 A - Kevin O'Donnell
@@ -1347,10 +1145,7 @@ If that decision was made on significantly larger events, called it a major hurr
 or above, the implication of waiving or not applying hurricane deductibles can be
 significantly more material to a reinsurer like us.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Got it. Okay. Thanks so much, and I'll let you guys go.
 
 Page 21 of 22
@@ -1361,9 +1156,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2012-11-02
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
+A - Neill Currie {BIO 6676681 <GO>}
 
 FINAL
 

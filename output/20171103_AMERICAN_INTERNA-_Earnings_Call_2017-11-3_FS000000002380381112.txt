@@ -32,10 +32,7 @@ Today's conference is being recorded.
 At this time, I'd now like to turn the conference over to Ms. Liz Werner, Head of Investor
 Relations. Please go ahead, ma'am.
 
-Elizabeth A. Werner
-
-{BIO 1557593 <GO>}
-
+Elizabeth A. Werner {BIO 1557593 <GO>}
 Thank you, Derek. And before we get started this morning, I'd like to remind you that
 today's presentation may contain forward-looking statements, which are based on
 management's current expectations and are subject to uncertainty and changes in
@@ -66,9 +63,7 @@ management team, including Brian Duperreault, Sid Sankaran, Peter Zaffino and Ke
 Hogan. The format will follow that of past calls with one question and one follow-up.
 With that, I'd like to turn the call over to our CEO, Brian Duperreault.
 
-Brian Duperreault
-
-{BIO 1645891 <GO>}
+Brian Duperreault {BIO 1645891 <GO>}
 
 Bloomberg Transcript
 
@@ -177,10 +172,7 @@ FINAL
 
 With that, I'll turn it over to Sid to discuss the numbers.
 
-Siddhartha Sankaran
-
-{BIO 17003278 <GO>}
-
+Siddhartha Sankaran {BIO 17003278 <GO>}
 Thank you, Brian, and good morning, everyone. This morning, I'll comment on our third
 quarter financial results and provide an update on our capital and liquidity. Turning to slide
 4, we reported an after-tax operating loss per share of $1.22, reflecting catastrophe
@@ -302,10 +294,7 @@ Now, I'd like to turn the call over to Peter.
 
 Bloomberg Transcript
 
-Peter Zaffino
-
-{BIO 15942020 <GO>}
-
+Peter Zaffino {BIO 15942020 <GO>}
 Thank you, Sid, and good morning, everyone. Today, I will discuss some of my early
 observations at AIG, our third quarter business results for the Commercial business, and
 our focus on building an operating structure that will drive long-term sustainable
@@ -434,10 +423,7 @@ choices we're making to deliver a repositioning that will solidify AIG as an ind
 look forward to keeping you updated on our progress.
 With that, I will turn the call over to Kevin.
 
-Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+Kevin T. Hogan {BIO 4650423 <GO>}
 Page 8 of 19
 
 
@@ -519,10 +505,7 @@ being realized in 2019 and beyond. To close, I'm pleased with the progress we ar
 making across our businesses.
 Now, I would like to turn it back to Liz to open up to Q&A.
 
-Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+Brian Duperreault {BIO 1645891 <GO>}
 Okay, well, listen, let me do it. So, operator, let's start Q&A.
 
 Bloomberg Transcript
@@ -532,10 +515,7 @@ Operator
 Absolutely. Thank you. And our first question comes from Josh Shanker with Deutsche
 Bank. Please go ahead.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Yeah. Good morning, everyone. Thank you for taking my question. Working through all the
 changes with reserve – inter-quarter reserve charges and whatnot, I look at the liability in
 Financial Lines segment and I see about 300, 400 basis points of initial PICC
@@ -543,18 +523,13 @@ improvement from the first half of 2017 to third quarter 2017. Give that you had
 emergent loss problems in the 2016 year, is it prudent to be picking the third quarter of
 2017 so much higher – or so much better than the first half of the year?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Well, Josh, I think we're being realistic about our loss PICCs. There was improvement. I
 think there is some – recognize, the starting points, but if you go accident-year-toaccident-year there was improvements in Casualty, whether it's reducing areas of high
 loss levels or changing reinsurance, et cetera, we're basically getting rid of programs, et
 cetera. So we have made improvements, so I think they're realistic. Yeah.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Page 10 of 19
 
 
@@ -568,10 +543,7 @@ saying?
 
 FINAL
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Well, I don't know if it's the third quarter. I mean, I look at it on a year-to-date basis. That's
 the loss ratio you got to look at and that's the one I concern myself with. And Sid tried to
 give you a kind of a general idea of what the accident year for the – for all of 2017 is going
@@ -580,10 +552,7 @@ to be and I think that's really, to me, our starting point. And that's the one I
 Operator
 Your next question comes from Ryan Tunis with Credit Suisse.
 
-Q - Ryan J. Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan J. Tunis {BIO 16502263 <GO>}
 Hey. Thanks. So just going back to, I guess, Brian's earlier comments. You originally said
 that reserves appear reasonable, and I think you also said this morning that, that you still –
 that, that conclusion still holds. If that's the case, is this – is the lower reserve, I guess,
@@ -592,10 +561,7 @@ or expect on a go-forward basis? Thanks.
 
 Bloomberg Transcript
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Okay. Yeah. Thanks, Ryan. Let me clarify. I think the reserve process is reasonable. And
 when I look at 2016, it's the first chance we get to look at it really, first real view of it. So, I
 consider this more underwriting than actuarial. This is looking at our underwriting and
@@ -608,19 +574,13 @@ then get the right base going forward. And that's – I think the real takeaway 
 I would like you to understand is, the process is reasonable. The underwriting will get
 better, and we will get these accident year loss ratios down and we'll get to profitability.
 
-Q - Ryan J. Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan J. Tunis {BIO 16502263 <GO>}
 And, I guess, thinking about the process of – whether it's establishing reserves this
 quarter or even just losses on the hurricane, is there anything different about, I guess, the
 approach that you might have taken in establishing what the right size of those was versus
 what you think AIG may have done in the past?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Well, look, it's very wise for me to comment on what AIG did in the past, and so, I don't
 want to do that. What I want to do is, say, look, I come here and I look at what we're doing
 now, and I think it's reasonable. I do. And to me, if you've got a problem, you recognize it,
@@ -643,19 +603,13 @@ FINAL
 
 Your next question comes from Jay Gelb with Barclays. Please go ahead.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Thank you. One question and then a follow-up. The first, I just want to clarify that, as the
 remaining reserves are reviewed for Property Casualty in the fourth quarter, and we
 realized there's around 20% left. Am I right in saying or characterizing, what you're saying
 as, don't expect anything meaningful from a development standpoint in 4Q?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 I had a feeling you'd ask something like that, Jay. So, let me give you a couple of data
 points, okay. There was – yeah, there's about 20% left (36:12) $10 billion, I think something
 like that and 80% – here's the data point, 80% of that's basically covered by the ADC. So
@@ -665,19 +619,13 @@ indications of what the fourth quarter might produce.
 
 Bloomberg Transcript
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 That's helpful. Thank you. And then for Peter, I believe you mentioned in your prepared
 remarks expectations for double-digit rate increases in Commercial. Are you talking about
 just Commercial Property insurance? And, I don't if at this point you want to give any
 expectations for accident year loss ratio improvement in 2018?
 
-A - Peter Zaffino
-
-{BIO 15942020 <GO>}
-
+A - Peter Zaffino {BIO 15942020 <GO>}
 Thanks, Jay. Why don't I just comment on what's happening on with rate. And as Brian
 mentioned and I followed-up is that the tax have been a catalyst for pushing rate, but the
 accident years for Property have underperformed I think in the industry, with a lot of rate
@@ -702,9 +650,7 @@ Company N ame: American I nternational Group I nc
 Company Ticker: AI G US Equity
 Date: 2017-11-03
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 
 FINAL
 
@@ -715,16 +661,10 @@ strategy to get enough price on your own business to offset the impact of paying
 reinsurance price and just how do you envision that all coming together in the margins in
 your Commercial line's book?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 I think you want to – she wanted you to answer that, Peter?
 
-A - Peter Zaffino
-
-{BIO 15942020 <GO>}
-
+A - Peter Zaffino {BIO 15942020 <GO>}
 All right, Elyse, well, we had a fairly traditional CAT program on a per occurrence basis.
 We're looking at a variety of different options in the market now. We're looking at
 different ways of structuring the CAT, we're looking at different ways to structure our per
@@ -737,10 +677,7 @@ improve our accident years in Property.
 
 Bloomberg Transcript
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Can I just add to that? Elyse, let me just add to that. Look, we're buying reinsurance
 because we have too much volatility, frankly. And I want the partnership of a reinsurer to
 help me look at our portfolio. There's a lot of value in reinsurance, and we don't expect
@@ -748,10 +685,7 @@ rate compression. We don't think that the resulting numbers are going to be out 
 with where they should be, but we're going to see real value out of the reinsurance. And I
 don't expect that to be a problem. It's going to be a help to us.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. And then my second question, if we kind of think about the Property market today
 and just the expectations for higher prices, I mean just from sitting through and thinking
 about the softness that we've seen over the past years, how sustainable do you think a
@@ -759,10 +693,7 @@ hard market could be? And, Brian, as you kind of think back, is there another ki
 period you would compare the type of hardening market we're potentially looking
 forward to on the Commercial Lines side?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Elyse, that's interesting. I've been around a while, seen a few hard markets, but there
 haven't been that many. I mean, so we'll not talking about 20. They're all different. They're
 all different. They all start out different. They all end different. It's usually – obviously, it
@@ -800,40 +731,25 @@ Your next question comes from Kai Pan from Morgan Stanley. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you and good morning. My first question on the underlying loss ratio trends, and if
 you look at the (42:52) trend, it improved about 2 points like to 69% in the first nine
 months of 2017. So, given the underwriting action you are taking right now, and just
 wonder, the pace of the improvements, the 2 points, do you see that will be slower in
 2018?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 No, I don't think it'd be slower. I don't think it'd be slower.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Because we're addressing non-Property lines with the actions they require, and risk
 selection is the number one action taken, and we've already talked about the Property,
 so, no, I don't think it'll be slower.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. Great. My follow-up question on capital management, you purchased about like
 $275 million of shares in the third quarter. Is that level the investor can expect going
 forward? And how do you see the $4 billion to $5 billion sub-dividends (44:00) going
@@ -847,9 +763,7 @@ Company N ame: American I nternational Group I nc
 Company Ticker: AI G US Equity
 Date: 2017-11-03
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
+A - Brian Duperreault {BIO 1645891 <GO>}
 
 FINAL
 
@@ -863,10 +777,7 @@ number one priority. Okay. Next question.
 Operator
 Thank you. Next, we'll hear from Tom Gallagher with Evercore.
 
-Q - Thomas Gallagher
-
-{BIO 3311667 <GO>}
-
+Q - Thomas Gallagher {BIO 3311667 <GO>}
 Good morning. Two questions, Brian. The first one, just on the SIFI de-designation; given
 when you read the Fed's commentary about how much you shrunk the balance sheet as
 the rationale for the de-designation. Does this inform your view of what types of deals
@@ -875,10 +786,7 @@ added a lot of balance sheet given what the Fed said in that process?
 
 Bloomberg Transcript
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Well, that's interesting, Tom. When I do a deal that adds to the – well, I think most deals
 do add to the balance sheet, so that's not my first thought, though, obviously. My first
 thought is, is it strategic? Is it something that makes us better? Do we get better people
@@ -886,10 +794,7 @@ or better technology or better market penetration, or are we in places we don't?
 not – anything we do would make us larger. But I want us to be better and better balanced
 and have more diversification on earnings stream. And that trumps anything else.
 
-Q - Thomas Gallagher
-
-{BIO 3311667 <GO>}
-
+Q - Thomas Gallagher {BIO 3311667 <GO>}
 Got you. And then my follow-up is, when I think about the message at AIG in 2015 and
 2016, it was getting far more conservative and shrinking the casualty book. And now you
 have all this adverse development on the 2016 accident year for the long-tail lines. I
@@ -897,10 +802,7 @@ guess, what I ask myself, is it possible that there was a lot of adverse selecti
 AIG was executing the pivot? Is that part of what's going on here? Or is that – do you think
 that's not the right observation?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Tom, look – there's probably some of that. I would say that selection trumps price; let's
 start with that, okay. And if one takes action and it's price-oriented, you could suffer some
 risk selection issues if you're not thinking selection first. And so I've tried to emphasize in
@@ -922,19 +824,14 @@ Your next question comes from Erik Bass with Autonomous Research. Please go ahea
 
 FINAL
 
-Q - Erik Bass
-
-{BIO 19920101 <GO>}
-
+Q - Erik Bass {BIO 19920101 <GO>}
 Hi. Thank you. With the issues we've seen in 2016, 2017 books, it's clear and as you
 alluded today, AIG has continued to have some underwriting challenges. Based on what
 you observed, what do you think is driving this? And can you provide more detail on what
 you're doing on the underwriting side in terms of talent, processes, data, et cetera, to
 improve the results?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
+A - Brian Duperreault {BIO 1645891 <GO>}
 
 Bloomberg Transcript
 
@@ -960,18 +857,12 @@ and you hold them accountable, and this is very doable. I've seen it before, I h
 – there's nothing I haven't seen before. This is all basic execution and it's execution that
 will win the day here. And we are executing.
 
-Q - Erik Bass
-
-{BIO 19920101 <GO>}
-
+Q - Erik Bass {BIO 19920101 <GO>}
 Thank you, appreciate the comments. And just – from the specialization of the business
 units, what does that mean from a practical basis? And how do you see that improving the
 results?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Well, we talked about AIG Risk Management. That's a business in our marketplace that
 comes in, in a certain way, has to be handled by specialists. We have diffused that and
 spread it across the business. Now we've created the unit, again, we used to have one,
@@ -992,10 +883,7 @@ Lexington. Peter, maybe you want to add something?
 
 FINAL
 
-A - Peter Zaffino
-
-{BIO 15942020 <GO>}
-
+A - Peter Zaffino {BIO 15942020 <GO>}
 Yeah, Brian, I think just to add to what you were saying is that by creating these distinct
 units that have very strong capabilities within their segment, if you look AIGRM, the ability
 to share best practices across the loss sensitive and Risk Management business is going
@@ -1011,10 +899,7 @@ ahead.
 
 Bloomberg Transcript
 
-Q - Larry Greenberg
-
-{BIO 16478161 <GO>}
-
+Q - Larry Greenberg {BIO 16478161 <GO>}
 Yeah. Thanks. Just following up on underlying loss ratio. I just want to be sure I'm
 understanding this, that usually when we hear about underwriting actions and how the
 accounting works in this business, it usually takes a year to two for it to flow through the
@@ -1022,34 +907,22 @@ bottom lines. But am I understanding that, that with reinsurance, with cutting b
 with some of the actions that you or your predecessors might have taken to-date that we
 can expect or should expect an improvement in 2018 levels?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Well, one would hope our 2018 has improved over 2017, that's the actions we're taking.
 And yeah, reinsurance can speed it up a little bit, I suppose. Things still have to earn out.
 2017 is going to earn out into 2018, that's just life. And there's nobody that wants to get
 this done any faster than me. I know you're impatient I'm even more impatient than you
 are. There is a sense of urgency here. We'll get it done as fast as humanly possible.
 
-Q - Larry Greenberg
-
-{BIO 16478161 <GO>}
-
+Q - Larry Greenberg {BIO 16478161 <GO>}
 Great. And then the volatility in the larger severe losses in the Property line, is there any
 way to kind of give us a tolerance level for severe losses? Or how we should be thinking
 about that prospectively as you cut back limits?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Peter is going to answer that.
 
-A - Peter Zaffino
-
-{BIO 15942020 <GO>}
-
+A - Peter Zaffino {BIO 15942020 <GO>}
 Yes. I think Larry, back to what we had talked about on the risk appetite for a property per
 risk, we probably – when we were re-underwriting the book, I think we took some very
 
@@ -1076,10 +949,7 @@ through reinsurance purchasing above severe.
 Operator
 Thank you. Your next question comes from Brian Meredith with UBS.
 
-Q - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+Q - Brian Duperreault {BIO 1645891 <GO>}
 Hey. Good morning. Two quick questions here for you. First, if I look at the general
 operating expenses, down 20% year-over-year in the Commercial line segment. So, Brian,
 Peter, I'm wondering, when are we going to start seeing the investments in the business
@@ -1101,20 +971,14 @@ will bear. We've got to address that. There's no question about it. And there's 
 ways to address it, but getting better people in is – has to be a priority, period. Sid, you
 want to say something?
 
-A - Siddhartha Sankaran
-
-{BIO 17003278 <GO>}
-
+A - Siddhartha Sankaran {BIO 17003278 <GO>}
 Yeah, Brian, I'd just remind you one of the areas that we've been most aggressive on and
 that has contributed to our expense discipline has been areas such as professional
 services fees, overhead IT infrastructure, real estate and we're going to continue to
 attack those areas I think with a tremendous amount of discipline, both at AIG level and in
 Commercial.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Right. And we're going through this – we mentioned the structure. The structure calls for –
 like all unit integrity, more specialized units, more of them. Technically speaking, that
 Page 18 of 19

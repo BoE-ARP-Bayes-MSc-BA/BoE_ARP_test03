@@ -26,10 +26,7 @@ session. (Operator Instructions) The conference must not be recorded for publica
 At this time, it's my pleasure to hand over to Mr. Richard Burden, Head of Investor Relations and
 Rating Agency Management. Please go ahead.
 
-Richard Burden
-
-{BIO 1809244 <GO>}
-
+Richard Burden {BIO 1809244 <GO>}
 Good morning and good afternoon everybody, and welcome to Zurich Insurance Group's third
 quarter 2019 call. On the call today is our group CFO, George Quinn. Before we start with the
 Q&A, George will make a few introductory remarks, and when we come to the Q&A, as usual, ask
@@ -37,10 +34,7 @@ you to keep your questions to a maximum of two, if we have time we will come bac
 you have follow-up questions.
 George let me pass over to you now.
 
-George Quinn
-
-{BIO 15159240 <GO>}
-
+George Quinn {BIO 15159240 <GO>}
 Thanks, Richard. And good morning and good afternoon to all of you. And thanks for joining this
 call on our Q3 results. So before we move to the Q&A just a few initial remarks on the third quarter.
 Just as a reminder, the focus of the third quarter releases as you've known from the past typically
@@ -110,18 +104,12 @@ Bloomberg Transcript
 
 FINAL
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hi there. Thanks very much. I have just one question which is, what are your thoughts about making
 changes to the bond yields sensitivity in the Z-ECM ratio calculation, because it's just clearly too
 conservative isn't it, compared to peers?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you. I wondered how long I'd have to wait for that question. So maybe, its sort of benefit
 everyone who may be doesn't understand quite as well as you and some of your colleagues. So
 obviously we apply an internal model. Let me model the impact of interest rates. That model is
@@ -140,34 +128,22 @@ of unintended consequences. I mean, probably all I can say today is I'll update 
 come back at the full year, but as a topic, we're looking at trying to find a way to be more
 consistent with the peer group.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 That's really interesting. Thank you. So are you saying that 113% would be 133% with UFR?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So, we estimate roughly. So I mean, we obviously have a very sophisticated internal model. We've
 done a far more simplistic calculation. I'm not sure I'd necessarily claim that we'd be precisely
 133%, but we estimate the difference of the current Solvency II UFR apply to Z-ECM is of the order
 of 20 points versus where we are today.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. Thank you. That's very clear. Thank you very much.
 
 Operator
 Next question comes from the line of Vinit Malhotra, Mediobanca. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Well, yes, good afternoon. Thank you very much. So one question on the top line reported today.
 And George, you just said that you expect pricing (inaudible) to improve outside US as well. Now in
 the EU segment, we can see very strong growth, as well, so I think it was 5%, 1H and 6% for nine
@@ -186,10 +162,7 @@ again, you know from 113% to 120%, is there something else that has happened in 
 Or does it just the fact that we can't just simply liquidate [ph] at euro swap and apply to the
 sensitivity because of definition? Just any comment would be helpful. Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yeah, great, thanks Vinit. So on the growth topic, the -- I mean Europe -- Swiss business is the one
 that still stands out as driving growth, but I mean we see growth across mainly driven by
 commercials. So commercial is the one that I actually see most of the rate in Europe and in fact if
@@ -213,19 +186,13 @@ But I mean just to go back to what you said, I mean we haven't formally estimate
 interest rate moves you've seen, given other changes that we anticipate, I mean, today, we would
 anticipate that we will be back lately very close to the top end of our target range.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you very much.
 
 Operator
 Next question comes from the line of Andrew Ritchie, Autonomous. Please go ahead.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi, there. George is inevitable, I'm going to touch on the US casualty topic. You used the phrase at
 the beginning, not immune. Just want to explore what you mean. I guess you mean you're seeing - you're observing those trends for severity and a bit of frequency. It's not requiring you to further
 increase loss picks or is it and that's being offset by something else? Or is it causing you to think
@@ -237,10 +204,7 @@ sort of economic effect of low rates or on IFRS earnings. And I'm curious to kno
 referring to just some things like, is it just (inaudible) drag or something what you intending to
 mean by that? Thanks.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you. So the, let's start with liability. So the no immune comment. So if we had a full quarter as
 well as the disclosure, and we were talking about PYD, I'll be giving you a number for PYD that you
 would all instantly recognize, I know you would ask me to break it down. And within that you would
@@ -286,19 +250,13 @@ perspective well, and see that we work hard to deliver net [ph] performance.
 I mean, I suspect we'll see P&C pickup some of the significant benefits we talked about really from
 rate, but I expect life to slow down a bit, just given some of those economic headwinds.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. Thanks.
 
 Operator
 Next question comes from the line of James Shuck from Citi. Please go ahead.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Hi, good afternoon. Two questions from me please. On Farmers, you had some issues around kind
 of trying to sell life products through the Farmers networks. Q3 seems to got a bit better versus
 H1. Just be interested to see whether you actually seen any tangible improvement there? And also
@@ -316,10 +274,7 @@ assuming for crop within that, please? Thank you.
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 That's the longest, two questions I've ever heard. So on the -- first of all, on Farmers. So I think the
 short summary here would be that we -- there's a long way to go. I think before, we'd be happy
 with the progress that we see on the life side of Farmers. I mean I know that Jeff and the team at
@@ -361,18 +316,13 @@ given the late planting for a number of farming clients, the season will play ru
 normally does. But it prevented planting, and I'm assuming about 7 or 8 points one crop versus a
 normal expectation.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Great. Thank you, George.
 
 Operator
 Next question comes from the line of Farooq Hanif of Credit Suisse. Please go ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 
 
@@ -383,10 +333,7 @@ is this inflationary versus a real customer growth? Thank you.
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thanks, Farooq. So the story on the mid market part of the commercial business in the US and
 what progress that we made, we got some more expenses and we did a main summary so far. So
 I mean Kathleen and her team are working hard to reshape our existing mid-market business. But I
@@ -409,26 +356,17 @@ they typically reprice very quickly deductibles typically float with the result 
 to a dollarized answer pretty quickly, but it will tend to overstate the growth on a like-for-like basis.
 So inflation in Argentina post slightly flattening the growth rate than we're achieving in Argentina.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Just coming back on that, I mean, you're still quite happy that you're getting decent double-digit
 growth, underlying?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yeah. So I think the -- I mean again if I look to -- I mean a good indicator across the entire region,
 which is the joint venture. I mean their back well into double-digit growth again. I mean I think we're
 back in the 20s. So even if I extract a reasonable number for the impact of inflation in some of the
 stronger inflation markets, I mean the underlying is still strong positive growth.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thanks very much.
 
 Operator
@@ -447,10 +385,7 @@ expansion states vis-a-vis capital really not what's holding that back. Thank yo
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you, Jon. So the -- on the reserving and the impact of things we've done in the past in terms
 of reduced exposure could we reevaluate risk appetite. So the answer is yes, but it quite goes in
 both directions, though. So, on the positive side, I mean, I think you guys are all aware that I mean
@@ -487,10 +422,7 @@ forgotten your second point. What was the second question Jon, sorry?
 Q - Jonathan Hocking
 Just on the Farmers surplus and whether that giving you the opportunity to expand faster?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So Jon, that's a yes. So the -- I mean the issue with Farmers, I don't think it's not a capital issue that
 holds the exchanges back here. I mean you need, the right people with the right skills and the right
 capabilities to divest in the right way. And of course they don't grow on trees. So when that tends
@@ -502,10 +434,7 @@ Okay. Great. Thank you very much.
 Operator
 Next question comes from the line of Jonny Urwin, UBS. Please go ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi there. Thanks, and thanks for taking my questions. Just to focus on the casualty stuff a bit more.
 So I was just trying to gauge, George is that comment that you're not immune to these trends? Is
 
@@ -518,10 +447,7 @@ you.
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So the -- I think, I mean the real reason for the comment I made at the start with simply to relate
 the fact that, I mean we recognize with in our portfolio, that the general trends that I think we hear
 from others, they haven't had the same financial impact on us for a number of reasons, which
@@ -546,19 +472,13 @@ maybe 20 basis points, 30 basis points over the figures I gave back in the Q2 ca
 tends to be a bit more stable around this topic. So I wouldn't expected the picture to have change
 markedly other than, net-net, we see a bit more loss cost inflation in the US.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thanks, George.
 
 Operator
 Next question comes from the line of William Hawkins, KBW. Please go ahead.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hi, there. Thank you very much. First of all, George, is there any chance you could give us an
 update on where you think you're SST ratio has moved to by the middle of the year or may be at
 the end of September? Some kind of update on that would be helpful. And then secondly, I think
@@ -569,10 +489,7 @@ like to be a little bit more cautious on the outlook for P&C investment income g
 have fallen. I suppose, if you can just think about next year, as well as the ouster would be helpful?
 Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yeah. Good. Okay. So apologies on the SST topic, I cannot give you an update today on that. I
 mean SST has a different methodology from Z-ECM. SST does permit a slightly -- a bit more
 conservative UFR methodology than the Solvency II. So, I do have a number for you, but
@@ -594,17 +511,12 @@ the assets is around five years. So it's a reasonably slow burn. But I mean, jus
 if interest rates remain where they are, more lately that's a bit of a headwind, rather than a tailwind
 for us.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 And I know it's a really complicated equation in practice, but I mean, are you guys comfortable in
 general, you can pass on the strain of low yields to the customer by adjusting the combined ratio
 down, even at this very low level for yields?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -615,19 +527,13 @@ So I think there is a piece in there that I guess you could attribute to the imp
 hard to do that very scientifically. So I think the overall rate environment is doing more than enough
 to help us with the yield issue coming.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 That's great. Thank you.
 
 Operator
 Our next question comes from the line of Peter Eliot, Kepler Cheuvreux. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thanks very much. George, just want to follow-up quickly on your comment on Thomas Cook.
 Because this fund is behind the curve here, but last time we spoke, I thought that the message
 was we shouldn't really expect anything material. And it seems -- were a little bit different. So I was
@@ -639,10 +545,7 @@ showed very little sensitivity. I mean my understanding was that the new SST fra
 insensitive to interest rates. So I was just wondering if you could explain that to me or what you
 know, why you have the largest sensitivity. Thanks.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes. Thanks, Peter. So on Thomas Cook, I think last time we met, I talked about the loss, I gave a
 very broad indication where the loss would fall. The thing that I'd like to have that conversation with
 the impact of reinstatement premium. I don't expect the combination of these two things to be
@@ -661,46 +564,28 @@ you see this much more sensitive picture than our SST than you might see elsewhe
 obviously a topic that as we look at the, the need to be a bit more consistent, but we're also going
 to consider as we approach the year end.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Yeah, I mean, if I can just follow-up that very quickly. I mean obviously just that Z-ECM is used for
 your internal view and management view and my interpretation was with the SST really it's only
 purposes is regulatory. So I guess I'm just wondering why there should be any need to divert from
 the regulatory framework.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yeah, I --
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Make sense in their lines on --
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So, specifically, we don't deviate from the regulatory framework because that wouldn't be
 permitted.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 I'm sorry.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 We agree with them and the approach that we take and of course, I mean one of the challenges
 with these complex models as the overhead of running these things is pretty substantial. So to the
 extent that we can have consistency between them, it makes life a bit easier. So we've taken a
@@ -712,16 +597,10 @@ mean we don't have a freedom in SST, that's something that if we do wish to chan
 (inaudible) will expect to review and take their decision on whether they are comfortable with any
 change we may or may not propose in future.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 That's great.
 
-A - Richard Burden
-
-{BIO 1809244 <GO>}
-
+A - Richard Burden {BIO 1809244 <GO>}
 Okay. As we have no more questions on the call, I'd just like to thank everybody for dialing in today.
 If you have any follow-ups, please feel free to contact the IR team. Otherwise, we look forward to
 seeing you all in London next week. Thank you.

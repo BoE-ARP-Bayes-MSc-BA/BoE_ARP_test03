@@ -32,10 +32,7 @@ recorded (Operator Instructions).
 I would now like to hand the conference over to your speaker today, Keith McCue, Senior
 Vice President, Finance and Investor Relations. Please go ahead, Mr. McCue.
 
-Keith McCue
-
-{BIO 20595590 <GO>}
-
+Keith McCue {BIO 20595590 <GO>}
 Good morning. Thank you for joining our third quarter financial results conference call.
 Yesterday, after the market closed, we issued our quarterly release. If you didn't receive a
 copy, please call me at 441-239-4830, and we'll make sure to provide you with one.
@@ -172,9 +169,7 @@ opportunities.
 I'll provide more detailed update on the renewal in our segments at the end of the call.
 But first, I'll turn it over to Bob to discuss the financial performance for the quarter.
 
-Bob Qutub
-
-{BIO 15269353 <GO>}
+Bob Qutub {BIO 15269353 <GO>}
 
 Bloomberg Transcript
 
@@ -503,10 +498,7 @@ Operator
 Thank you. (Operator Instructions) Your first question this morning comes from Elyse
 Greenspan from Wells Fargo. Please go ahead.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi, thanks, good morning. My first question, Kevin, on -- I was hoping to get a little bit
 more color on your specific pricing outlook for January 1 in terms of both what you would
 expect in the US, Europe as well as in the retro markets, recognizing, obviously, we're still
@@ -536,10 +528,7 @@ effect on how much reinsurance capacity reinsurers like to sell. So, as the retr
 contracts further, we expect that to add more momentum to the price gains that we
 anticipate in the property cat market.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, that's helpful. And then my second question. I appreciate the disclosure on the
 losses that you guys saw in the third quarter. But as we think about the fourth quarter with
 
@@ -568,10 +557,7 @@ talking to customers about what the impact is.
 But I would expect that there will be increased aggregate participation in these losses
 simply because there's been more events earlier in the year.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, thanks. I appreciate the color.
 
 A - Kevin O'Donnell
@@ -581,19 +567,13 @@ Bloomberg Transcript
 Some of the ags are actually exhausted as well. So I think there is aggregate exposure out
 there, but not all of it is exposed on a continued basis. It's important to point out.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, that's helpful. Thanks, Kevin.
 
 Operator
 Your next question comes from Josh Shanker from Bank of America. Please go ahead.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Yeah, thank you for taking my question. You talked about casualty pricing being ahead of
 expectations at this point right now. Can you talk about RenRe's role a little bit in terms of
 how you capture that with what you write? If you write quota share business and there's a
@@ -625,10 +605,7 @@ from our existing core relationships and likely in existing lines at equal to be
 than what we had in 2020. And then amplifying that is the benefit of the underlying rate
 increase.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 And when you look at various cedents in the casualty markets who might be interested in
 sending you business, what is your sense of the -- their reserve adequacy. Or to what
 extent is the reinsurance markets, I guess, more aware of problems, I guess, in the quality
@@ -649,10 +626,7 @@ time, they'll probably reconcile into a much more closely aligned representation
 risk. So, I think from a current underwriting year basis, we do look at it for older reserves
 and legacy portfolios, we're less interested because we're not in that business.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Well, I mean, you are through TMR, although you obviously have the adverse cover, so
 you're not as concerned about it, I suppose.
 
@@ -661,10 +635,7 @@ Yeah. And on those, we're developing them on our best estimate of the portfolios
 as they age, they're becoming much more stable. But you're absolutely right, all of that
 legacy business is protected.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Thank you.
 
 A - Kevin O'Donnell
@@ -681,9 +652,7 @@ Date: 2020-10-28
 Operator
 Your next question comes from Meyer Shields from KBW. Please go ahead.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 FINAL
 
@@ -692,10 +661,7 @@ Thanks, good morning.
 A - Kevin O'Donnell
 Good morning.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Kevin. you talked about more accurate pricing models, I may be phrasing that poorly. Is
 the gap between proprietary models and vendor models in terms of assessing
 catastrophes? Do you see that gap as increasing or shrinking?
@@ -719,10 +685,7 @@ clarity and the deeper understanding. So, it's a more complicated conversation. 
 can be quite large, depending on the peril, but then even within the layers that we're
 writing, I believe it to be meaningful.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. That's very helpful. Second question, this is particularly early because I'm thinking
 about January 1, 2022. But should we think of the current dislocation in the ILS or the retro
 market? Does that mean that pricing will be excessive because you've got this temporary
@@ -756,10 +719,7 @@ retro market grows or shrinks for a company like us, simply means we're a buyer 
 seller. And we're going to use it solely to enhance returns and to solve our customers'
 problems.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. And then one final question, if I can squeeze this in. When you look at 2020, and
 let's exclude COVID because hopefully, these pandemics are more rare. Is this an
 average loss year or an above-average loss year for the industry?
@@ -777,10 +737,7 @@ medium severity that we had this year. So, I think we can look at it from an ins
 from a formation. Formation is certainly high, but from an energy creation, from all the
 storm activity, it's probably more normal.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, perfect. Thank you very much.
 
 A - Kevin O'Donnell
@@ -789,10 +746,7 @@ Sure.
 Operator
 Your next question comes from Yaron Kinar from Goldman Sachs. Please go ahead.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Hi, good morning. Thanks for taking my questions. My first question is related to top line
 growth. I think year-to-date, you're growing at about, what, 30-ish percent gross
 premiums written. I think that earlier in the year, you had talked about really seeing more
@@ -820,10 +774,7 @@ actually put a judgment as to whether I think this year's growth is greater than
 But I'm pleased to see it because I see the quality of the portfolio coming in, and I think
 it's long-term accretive.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay. And then my second question, the California wildfire exposures. You talked about
 the impact of climate change, and I think it's a question that came up a couple of years
 ago as well with the wildfires we saw back in '17 and '18. Is that still a risk that is as it's
@@ -844,10 +795,7 @@ there are appropriate retentions for insurers to participate in that risk. And f
 reinsurance perspective, we want to provide capacity to allow that for that protection to
 be available.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay. I appreciate the answers.
 
 A - Kevin O'Donnell
@@ -856,10 +804,7 @@ Sure.
 Operator
 Your next question comes from Ryan Tunis from Autonomous Research. Please go ahead.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Hey, thanks, good morning. So I had an observation, Kevin and then just a question, I
 guess kind of more from a stock analyst standpoint, but when I think about Ren, there
 Page 15 of 21
@@ -904,10 +849,7 @@ to build our portfolios, but we don't provide the guidance that you're asking wi
 to the financial supplement. But I would say the tangible book value or book value per
 share is the primary metric that we look at for success.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 I understood. I mean I hear you. I'm just saying in that context, in some ways, this is clearly
 one of the best stories in P&C, but it's in a lot of ways, just dependent on whether or not
 we have an elevated or not elevated cat year in 2021, but thank you.
@@ -918,10 +860,7 @@ Yeah.
 Operator
 Your next question comes from Brian Meredith from UBS. Please go ahead.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Page 16 of 21
 
 
@@ -954,10 +893,7 @@ increased profitability within the property cat book that we're underwriting.
 
 Bloomberg Transcript
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Okay thanks. And then curious, one other quick question. What are your thoughts kind of
 as we head into 2021 on reinsurance demand from a buyer's perspective? I mean,
 thinking that, one, we've had a lot of frequency of events, do you think that one increases
@@ -976,10 +912,7 @@ flat demand in some casualty classes. And as I mentioned earlier in the call, I 
 a lot of the benefit of the insurance rate enhancement will -- in order to our benefit
 because terms are relatively flat to improving.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 That makes sense. Thank you.
 
 A - Kevin O'Donnell
@@ -999,19 +932,14 @@ FINAL
 
 Your next question comes from Phil Stefano from Deutsche Bank. Please go ahead.
 
-Q - Phil Stef ano
-
-{BIO 18965951 <GO>}
-
+Q - Phil Stef ano {BIO 18965951 <GO>}
 Yeah, thanks. Just wanted to dig in on the mortgage rebook a little bit more. I guess -and Kevin, you had talked about the improving default environment, home price
 appreciation. To me, these are metrics that would have augured for an improvement in
 the loss ratio, not a deterioration. So, I was hoping you could just give us a little color on
 what you saw in that book and whether this is a reaction to maybe a second wave of
 unemployment coming? Or how you thought about taking losses up there?
 
-A - Bob Qutub
-
-{BIO 15269353 <GO>}
+A - Bob Qutub {BIO 15269353 <GO>}
 
 Bloomberg Transcript
 
@@ -1025,10 +953,7 @@ neutralizes it. But we're not seeing dramatically an increase in it. We're seein
 reported coming in, which is what did elevate our current accident year loss ratio on the
 casualty side.
 
-Q - Phil Stef ano
-
-{BIO 18965951 <GO>}
-
+Q - Phil Stef ano {BIO 18965951 <GO>}
 Okay, got it. That's it from me. Thanks.
 
 A - Kevin O'Donnell
@@ -1037,10 +962,7 @@ Yeah.
 Operator
 Your next question comes from at Elyse Greenspan from Wells Fargo. Please go ahead.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 All right, thanks for fitting me back in. I just had two follow ups. The first kind of, Kevin, if
 we combine all your comments together, obviously, a little bit in response to my question
 earlier on this, the 1/1 pricing environment. But where you sit today right about almost five
@@ -1068,10 +990,7 @@ point of our portfolio assessment, we're seeing affirming to better news. So, al
 demonstrated good confidence in our ability to deploy the money in June, we have even
 stronger confidence in our ability to deploy as we go into -- as 2021 becomes closer.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. Great. And then my second question. You guys sound pretty positive on the retro
 market. I think you also made the point right that you might see less of the ILS capacity
 and could potentially write less for Upsilon and more on your own rated balance sheet.
@@ -1085,10 +1004,7 @@ the retro can we renew or -- across our platform?
 
 Bloomberg Transcript
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Yeah, well, I was trying to get a sense of how much you wrote for Upsilon as well as some
 that I assume some you kept on Ren's [ph] on balance sheet away from Upsilon in 2020
 in terms of refills. So I was trying to get a sense, I guess, of what's in the growth right for
@@ -1108,10 +1024,7 @@ in a way that is more suitable for rated balance sheet. And we have the flexibil
 our platforms to provide solutions for every deal within Upsilon. It just depends on which
 balance sheet we choose to put it in or which vehicle we choose to put it in.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, that's helpful. Thanks, Kevin.
 
 Page 19 of 21
@@ -1131,10 +1044,7 @@ FINAL
 
 Your next question comes from Jimmy Bhullar from JPMorgan. Please go ahead.
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
-
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 Hi, good morning. So I just had a question along the lines of some of the earlier questions
 and your response that the returns have been poor because of -- in recent years, just
 because of elevated cats. Given your optimism on pricing, how do you think about your
@@ -1147,9 +1057,7 @@ A - Kevin O'Donnell
 So let me divide your comments first, between property and casualty, and then I'll talk
 more generally.
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 
 Bloomberg Transcript
 
@@ -1171,10 +1079,7 @@ right level of return for the portfolio. So, when we bring them both together, o
 would achieve a capital efficiency. So, the combined portfolio then enhances the
 adequacy of both portfolios.
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
-
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 Okay. And then just on COVID. Obviously, it's going to take a while to determine ultimate
 losses. But what's your sort of level of confidence in your reserves based on the
 information you have thus far? Like are your reserves sort of contemplating whatever
@@ -1198,10 +1103,7 @@ It's an ongoing event. It's an ongoing pandemic event, and it's something that w
 going to continue to need to monitor. But we feel as if we've got our best estimate on
 the reserves we're currently holding.
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
-
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 Thanks.
 
 A - Kevin O'Donnell

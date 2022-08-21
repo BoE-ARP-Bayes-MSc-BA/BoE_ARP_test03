@@ -39,10 +39,7 @@ Vinit Malhotra, Banca di credito finanziario S.p.A., Research Division
 William Hawkins , MD, Head of European Insurance Research and Senior Analyst
 
 Presentation
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 Good morning, everyone. Welcome to our Investor Day, Munich Re driving digital
 transformation. Welcome to everybody here in this room. But also a warm welcome to
 Page 1 of 91
@@ -113,10 +110,7 @@ FINAL
 
 So far from my side. And now I have the pleasure to hand it over to Joachim.
 
-Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+Joachim Wenning {BIO 16273429 <GO>}
 Thank you very much, Christian. Ladies and gentlemen. Good morning from my side as
 well to all those here in this room. And also, a good morning to all those who are actually
 listening and/or watching us through the transmission on our website. I am pretty amazed
@@ -329,9 +323,7 @@ you find this encouraging. I hope you will have many good insights. And I hope y
 appreciate that this will be a good Investor Day. Thank you very much for your attention.
 I hand over to you, Mark. Thank you.
 
-Mark Klein
-
-{BIO 1994583 <GO>}
+Mark Klein {BIO 1994583 <GO>}
 
 Bloomberg Transcript
 
@@ -539,10 +531,7 @@ Thank you very much for your attention. I will now hand over to Marcus.
 
 FINAL
 
-Marcus Winter
-
-{BIO 3035598 <GO>}
-
+Marcus Winter {BIO 3035598 <GO>}
 Thank you, Mark. Thank you, Christian, for the nice introduction. Good morning. I brought
 something along for you. This is a commercial-grade sensor that was a design by one of
 our IoT teams, part of Greg's team at HSB. And you will hear more about what we do
@@ -1047,10 +1036,7 @@ optimized. And by that, we also help our cedents to grow their business and make
 business decisions.
 With that, come to the end. And thank you very much for your attention.
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 So thank you, colleagues, for your presentation. Now I'd like to open the floor for firstround of Q&A.
 Please, who is first? (Michael), please.
 
@@ -1093,16 +1079,10 @@ replaces the old way of underwriting by a new way of underwriting. And the outco
 this may be pretty much the same outcome, if you like. But just -- you are in the market.
 And you would no longer be in the market if you hadn't transformed.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Kamran, please. Sorry. Please, yes.
 
-A - Mark Klein
-
-{BIO 1994583 <GO>}
-
+A - Mark Klein {BIO 1994583 <GO>}
 Maybe one thing to add. And you see that in the ESP, it is a big investment case. And you
 know the overall numbers. When I look at investments like nexible, you see the gross
 written premiums coming pretty fast. So basically this is one-year time. The profits for sure
@@ -1116,10 +1096,7 @@ because (growth) initiatives in the company that is of such a size as Munich Re,
 beginning will always look small. But it has the potential to really grow and build a new
 future in the long term. And that's why the investment is now.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 okay. Kamran, please.
 
 Page 21 of 91
@@ -1130,9 +1107,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2017-11-21
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 
 FINAL
 
@@ -1141,16 +1116,10 @@ on over the last few years, do you think that's great potential of innovation, t
 impact in, I guess B2B or B2C? So I guess primary or reinsurance? And if the answer's
 primary, do you actually expect the shape of the (inaudible) over time?
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 So that's a very big question.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 I see potential in both, right? And I could even add, it's not only B2B. It's B2B2C but it's
 also B2C. And by the way it's also B2D or D2C, sorry it's not -- it's D2C. I would
 differentiate these types of business by speed. So I think the more front-end loaded
@@ -1165,16 +1134,10 @@ possibly push the speed more than the other counter-parties responsible to it.
 
 Bloomberg Transcript
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay, Kamran? Vinit and then Frank.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 So Vinit, from Mediobanca. Just on the Slide 41 of the last presentation. You said that it
 was digital augmented underwriting. When you spoke, it looked like you'd eliminated the
 underwriter. So it was not very clear what was going on there because is there -- and I
@@ -1188,10 +1151,7 @@ need you, I'm not even sure that, that's true. I mean, does -- I'm not even sure
 changes you mention happen in reinsurance today. So if you could just comment a bit
 about this balance of power versus technology companies that would be great.
 
-A - Mark Klein
-
-{BIO 1994583 <GO>}
-
+A - Mark Klein {BIO 1994583 <GO>}
 So to your first question, I was referring to the improvement of the technical loss, whereas
 a complete tariff includes a lot of other components as well, though. You have to add your
 own costs, you have to add the profit margin and lot of other components, which is not a
@@ -1216,10 +1176,7 @@ can, for example, use aerial imaging to identify the destroyed houses after an
 earthquake, or identify the flooded areas like we've seen after Hurricane Harvey. And by
 that, enable a faster loss adjustment and by that, helping the people.
 
-A - Marcus Winter
-
-{BIO 3035598 <GO>}
-
+A - Marcus Winter {BIO 3035598 <GO>}
 And if I may add on your question to whether we bring anything of value to companies
 that came out with us in the Silicon Valley or in other innovation areas, our experience is,
 yes. We see that many ideas center around availability of data, also in this case. But in
@@ -1231,18 +1188,13 @@ large ones, they prefer, apparently to corporate with a large entities on the ri
 management side as well. And so that there is a good balance. And we have a number of
 examples that we can maybe, take it off-line and go into more detail what we do there.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 
 Bloomberg Transcript
 
 Frank, please. And then William.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 It's Frank from Deutsche Bank. I would like to dig deeper into your strategy in respect to
 the startups in the insure techs. So you mentioned you have more than 10 investments
 currently, invested more than EUR 60 million. Do you have some sort of budget in mind
@@ -1255,10 +1207,7 @@ provide reinsurance capacity, not only to these companies but only to 2 other in
 techs, maybe can also give a bigger picture on, to how many insure techs you provide the
 reinsurance capacity and how much this is?
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Yes, let me take this question, please. So is there a budget that we have defined? A
 budget in the sense we have to spend the money? No. Is there a budget understanding in
 the sense that we say "If we find good investment opportunities, we're absolutely willing
@@ -1286,42 +1235,27 @@ cooperating with them, through cooperation or minority shares, plugging in our r
 propositions into their platform. That is pretty much what Andy Rear is going to tell you
 about digital partners later in the day.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Maybe on the reinsurance capacity, other -- whether it comes also in...
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 If I think it's true, I hope I don't miss maybe one investment, there is no capacity limit to
 this. So what we do with the startups is not really eating up capacity. The capacity limit that
 we have to consider is on the cyber side. But all the others aren't.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay? Was it, William. And then (Sinon), please.
 
 Bloomberg Transcript
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 The 200-odd innovation projects and pilots that you referred to, if we take that as a
 sensible starting point. Could you just give us roughly your guide of how that breaks down
 between what you been doing on the reinsurance and the primary side? Then also, your
 counter-parties, if there are any, how many those have been with incumbent insurers or
 startups or people from just outside the industry, industrial companies or whatever?
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Good question. So I start with the reinsurance side. You can roughly split that into, I would - it's a bit a guess, I'm looking at (raw), that was my latest knowledge, because I have
 made out the statistics. I thought like, at least 2/3 would be reinsurance and 1/3 of them.
 That's a rough estimate, right? Don't take me too precisely. Of the 2/3 of reinsurance,
@@ -1329,10 +1263,7 @@ how much is with incumbent clients and how much of that is with new type of clie
 startup clients? My rough guess, I don't have the statistics before me. My rough guess, it
 would be like 50-50-ish.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 (Sinon), please.
 
 Q - Unidentified Participant
@@ -1357,10 +1288,7 @@ et cetera, or do you think that this is purely just to stand still and it's prob
 years down the road, the return profile in reinsurance is probably not to be materially
 different to what it is now?
 
-A - Marcus Winter
-
-{BIO 3035598 <GO>}
-
+A - Marcus Winter {BIO 3035598 <GO>}
 So it depends. I have a personal guess. But we're going to see if that's going to happen. I
 think the return profile is potentially shifting as we digitally transform. It is shifting from
 pure capacity or mainly capacity-driven into providing, let's call it, coverages, services
@@ -1379,25 +1307,16 @@ highly appreciated. So any development that we'll come across, in cooperation wi
 players, new startups, I think we are well-positioned and should, over time, be to our
 benefit.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 There was a question from Jochen Schmitt, then Andrew.
 
-Q - Jochen Schmitt
-
-{BIO 4227302 <GO>}
-
+Q - Jochen Schmitt {BIO 4227302 <GO>}
 Jochen Schmitt, Metzler. I have two questions on Slide 16, please. First of all, is this in
 terms of premiums written or in terms -- or in number of policies? And second, what
 makes you hesitant not to expect the figure of greater than 25% for pure online insurance
 sales by 2020?
 
-A - Mark Klein
-
-{BIO 1994583 <GO>}
-
+A - Mark Klein {BIO 1994583 <GO>}
 Right. First of all, the, these are number of customers that are counted in terms of market
 research. If you would ask me now, is 25% really the limit? I'm not sure. These were the
 latest numbers we had. I believe that both the search online and potentially even the
@@ -1420,16 +1339,13 @@ Date: 2017-11-21
 to 50%. I think that the research online, purchase offline is one of the dominant fields we
 see up to 2020.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 
 FINAL
 
 Andrew, please.
 
-Q - Andrew James Ritchie
-
+Q - Andrew James Ritchie {BIO 18731996 <GO>}
 Couple of questions. Mark, unlike your reinsurance colleagues, you have legacy systems,
 significant legacy systems. Can you just bring us up-to-date as to how you've managed to
 improve the front-end by dealing still with talking to the back-end and how much of a
@@ -1445,14 +1361,9 @@ you balance that? Working with them, hopefully tying them in, versus them just s
 years down the line, we'll give you a bit of reinsurance. But actually most of the value add,
 we're going to keep.
 
-A - Mark Klein
-
 Bloomberg Transcript
 
-{BIO 18731996 <GO>}
-
-{BIO 1994583 <GO>}
-
+A - Mark Klein {BIO 1994583 <GO>}
 I would start with the first one. Well for sure, legacy is a challenge. And we see that. It is
 part of our IT transformation journey. And to give you one concrete example, what we do
 with hybrid customer is basically building a new platform that is transforming our legacy,
@@ -1469,17 +1380,12 @@ nexible, fully greenfield, is extremely fast, we are a bit slower with hybrid cu
 Nevertheless, it helps us to transform our core, which we have to do, because we are not
 a greenfield operation. Does that answer your question?
 
-Q - Andrew James Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew James Ritchie {BIO 18731996 <GO>}
 Yes, I guess I'm worried that -- I mean, I've seen other insurance companies do this. And
 old customers get lost, because you're in between -- they're not nexible customers,
 they're old customers and they're (not especially) causing service levels to decline.
 
-A - Mark Klein
-
-{BIO 1994583 <GO>}
+A - Mark Klein {BIO 1994583 <GO>}
 Page 26 of 91
 
 
@@ -1499,10 +1405,7 @@ customers fall. Much too many, much too important to do so. And we are fully awa
 that. So for me, nexible is really an experiment with a lot of potential. But the core is the
 core. And we also have to work on that. Pretty clear.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 So I think that your second question, with regard to how do we incentivize people, how do
 we incentivize the businesses working on innovation. First of all, we have had all of these
 discussions internally, right? Going whether the current incentivization is like the most
@@ -1525,16 +1428,10 @@ based into the organization. And the organization becomes less dependent from on
 individual. So in the few cases where we have seen turnover, the initiatives have kept
 going. So this gives us confidence that incentivization-wise, we are on a good path.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Maybe I think there was a third topic.
 
-A - Marcus Winter
-
-{BIO 3035598 <GO>}
-
+A - Marcus Winter {BIO 3035598 <GO>}
 When you look at the structure of large companies going into the insurance phase, you
 would expect in, at least in what we see in Europe and in the U.S., to start on the, first
 Allianz space, that's motor, that's warranty attachments to products, that's maybe home
@@ -1571,16 +1468,10 @@ buy insurance and reinsurance from large reinsurers. So again, that is helpful f
 some of our larger competitors, because we have the global reach, we have the digital
 product expertise and can provide solutions that fit their needs.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you. Nadine, you had a question?
 
-Q - Nadine Adrienne Marion van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine Adrienne Marion van der Meulen {BIO 15200446 <GO>}
 A question for Marcus, I suppose. The future -- the sensors were handed out earlier. The
 future seems to be much more focused on risk prevention. Can you elaborate a little bit
 on what you think your role or your business model is going to be there?
@@ -1591,10 +1482,7 @@ Second question is, again, Marcus, you mentioned that the world is getting riski
 from the obvious cyber security, can you mention other lines of business where you see
 opportunities in the future?
 
-A - Marcus Winter
-
-{BIO 3035598 <GO>}
-
+A - Marcus Winter {BIO 3035598 <GO>}
 That's absolutely spot on. Risk prevention will be a core component of insurance products.
 You will see that in the commercial space. And in particular, for the smaller risks, that the
 insurance product will change its form. You will have not just the financial indemnification
@@ -1632,16 +1520,10 @@ the penetration of the insurance and reinsurance markets in the emerging markets
 our growth in market share in traditional markets, that is large pockets of growth, in
 addition to what we see.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you. Samit, you had a question and then (Mauritzio) ?
 
-Q - Samit Patel
-
-{BIO 16996758 <GO>}
-
+Q - Samit Patel {BIO 16996758 <GO>}
 Thanks. Samit from Goldman Sachs. Just on the data side of things, could you just, sort of
 give us some guide on how. And what percentage of your tariffs are currently being set
 with these new methods? And how you expect that to develop in the medium-term?
@@ -1654,10 +1536,7 @@ transformation in that business, or would it somehow end you?
 
 Bloomberg Transcript
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 So to your first question, we are currently piloting the digitally augmented underwriting in
 various projects. So this is little more than half a dozen pilot projects that we're doing with
 some of our customers already. And that's why we are having feedback already on what
@@ -1670,10 +1549,7 @@ key people would leave. And take this IP with them, you cannot chop off their he
 There's always a risk that know-how is getting off the company. And apart from that,
 regarding the technical measures, I don't think we can disclose them.
 
-A - Mark Klein
-
-{BIO 1994583 <GO>}
-
+A - Mark Klein {BIO 1994583 <GO>}
 Let me just add on what you said because especially on the tariff side, we have basically
 run very close together, because nexible is one of the examples where we started testing
 the new methodology and here, I think the U.K. market is, how I understood, really
@@ -1699,10 +1575,7 @@ colleagues from ERGO.
 
 FINAL
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Let me take your third question, with regard to the back book. Will this be a relief ? In an IT
 sense, an IT legacy sense. It will not. It will not in 2 senses. One is, the back book is sitting
 in an encapsulated legal entity and that encapsulation means that already today, the
@@ -1711,10 +1584,7 @@ legacy is in capsule. So if it is not burdened, then it would also not benefit i
 book was sold. And it will also not be a relief in the sense, any potential purchaser would
 take, of course, legacy also into account. And make you accountable for it.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay. We'll take a last question for this round (Mauritzio), please.
 
 Bloomberg Transcript
@@ -1748,9 +1618,7 @@ that's why I'm asking you, I mean if you can tell me effectively how much of thi
 available to everyone in terms of components. And how much is actually developed from
 a technology point of view in-house?
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
+A - Joachim Wenning {BIO 16273429 <GO>}
 Page 30 of 91
 
 
@@ -1765,10 +1633,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - Mark Klein
-
-{BIO 1994583 <GO>}
-
+A - Mark Klein {BIO 1994583 <GO>}
 Yes, I would kick it off. Well basically where you're fully right is, most of the components
 we are developing and using are externally available, standard software programs that
 we use and that implement. When I look what is the differentiator, it's, at the end, how
@@ -1791,10 +1656,7 @@ even though other companies could access the same technology, it's really about
 implementing and making it happen. And that is easy said, very difficult to do. It's not an
 easy task.
 
-A - Marcus Winter
-
-{BIO 3035598 <GO>}
-
+A - Marcus Winter {BIO 3035598 <GO>}
 When you look at some of the technologies that are out there, I was really enthusiastic
 about Artificial Intelligence. We had a trip to Silicon Valley three years ago. It was the first
 time that a company really showed to us, how they could, with Artificial Intelligence, select
@@ -1835,10 +1697,7 @@ recognition in the broader sense. And to really train those functionalities on o
 data and that's what we need to achieve. Of course, we are not developing Artificial
 Intelligence as a methodology, completely new.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay. Thank you, gentlemen. And thanks for your questions. We are running behind
 schedule, which I think is a good sign. So what we will simply do is, we will have a break
 now until 11:15. But please be back on time. And we will then continue with the second
@@ -1889,10 +1748,7 @@ FINAL
 
 Thank you, colleagues. And I hand it over to Daljitt.
 
-A - Daljitt Barn
-
-{BIO 20704654 <GO>}
-
+A - Daljitt Barn {BIO 20704654 <GO>}
 Thank you, Christian. Okay. Daljitt Barn, okay. So good morning. We had some pretty good
 conversations last night with 1 or 2 of you about cyber. So I'll try and demystify what the
 topic is, how it's related to business transformation organizations are going through, from
@@ -2276,9 +2132,7 @@ ground consulting. But actually, some of the things -- some of the tools we're u
 quite innovative to understand what their ongoing risk would be.
 So I will hand over to Mary. Thank you.
 
-A - Mary Forrest
-
-{BIO 15882114 <GO>}
+A - Mary Forrest {BIO 15882114 <GO>}
 
 Bloomberg Transcript
 
@@ -2669,10 +2523,7 @@ partnerships and business models -- modules. All in all, our growth targets cont
 winning further strategic partnerships to mobilize the entire growth potential of our group.
 Thank you very much.
 
-A - Ritesh Kumar
-
-{BIO 19363386 <GO>}
-
+A - Ritesh Kumar {BIO 19363386 <GO>}
 Thank you, Karsten. A very good afternoon to all of you. I think in a true spirit of what we
 call the interlock business model, I'm looking at 2 out of the 3 here, sort of helping us one
 on developing some products on cyber. And on solar and we've done that. We've actually
@@ -3086,19 +2937,14 @@ So we've essentially, I think to summarize, I think what is very, very important
 have to stay relevant as a company, we will have to invest and continuously look at digital
 innovation. And this is something which is of paramount importance.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 
 Bloomberg Transcript
 
 Thank you very much. Now for the next round of Q&A. Who is first? Kamran.
 +++qanda
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 It's for Daljitt on cyber. I guess the 2 main concerns that we hear from cyber buyers is
 actually there's a lack of capacity and the scope of coverage isn't that wide. Can you talk a
 little bit about what you expect to happen to profitability? Because I guess, ultimately,
@@ -3107,10 +2953,7 @@ that profitability is very good. But the product doesn't pay out when people nee
 because you've got this really limited coverage. So will kind of coverage become wider?
 Or will prices come down? Or what do you see as being the end result?
 
-A - Daljitt Barn
-
-{BIO 20704654 <GO>}
-
+A - Daljitt Barn {BIO 20704654 <GO>}
 I -- one of my slides showed how coverage is already expanding across the lines for cyber.
 An example I used last night was from SME perspective. So some issues SMEs have had,
 have been around maybe their money being defrauded from their accounts, which is
@@ -3142,16 +2985,10 @@ largest (ever) insurance tower is about 550 million, okay. And that was for a fi
 institution. If somebody wants 600 million, 650 million, 700 million, the insurance market
 will be able to insure it.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Ivan, do you had a question.
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 My question is on the PMLs that you mentioned. I mean on your current premium base,
 can you disclose what would be the highest one? And I'm just wondering, how will it
 change as we approach the EUR 800 million number that you mentioned as your
@@ -3159,10 +2996,7 @@ aspiration?
 
 Bloomberg Transcript
 
-A - Daljitt Barn
-
-{BIO 20704654 <GO>}
-
+A - Daljitt Barn {BIO 20704654 <GO>}
 I can't disclose what those PML numbers are internally. But I think we -- because we
 continuously look at those models and we are -- and our risk appetite is driven by that's
 our foundation block of accumulation. We will continuously test our own models. But also
@@ -3171,18 +3005,12 @@ scenarios to be able to benchmark and test those. So this, I think, I'd call it 
 race. So whoever in the external market, be it RMS, be it Verisk, whoever, comes up with a
 really good probabilistic model, I think the industry will then try to embrace that.
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 Question. Thinking about the, for example, for the group, the largest PMLs, I think the
 third-largest that you disclosed is 2.3 billion of the European storm. How large would the
 cyber business need to become to be able to one of those top 3 perils?
 
-A - Daljitt Barn
-
-{BIO 20704654 <GO>}
-
+A - Daljitt Barn {BIO 20704654 <GO>}
 Okay. That's a difficult question to answer, actually. Our ambition is to get to 10% market
 by the end of 2020. The board have agreed what the overall PML would be as a
 threshold. We're not within any kind of -- if you think of green, amber red, we're not
@@ -3191,9 +3019,7 @@ across the other PMLs. I think if we continue to hit those numbers, year-on-year
 think we would need to have significant losses for that appetite to change. And as an
 industry, as you know, there's not many losses.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Page 56 of 91
 
 
@@ -3206,8 +3032,7 @@ Okay. Guilhem, please. And then Roland.
 
 FINAL
 
-Q - Guilhem Horvath
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Yes. So the question on cyber and I guess you partly answered that already. But just going
 back on your ambition of having 10% market share in 2020. I'd like to know a little bit how
 you got there? Is it only about PML and capital consumption? Because on the one hand,
@@ -3224,14 +3049,9 @@ nat cat and cyber. Not all of them -- not everything is similar but there are so
 So how confident are you that you're not ahead of a softening market such as the one
 we're experiencing now in nat cat?
 
-A - Daljitt Barn
-
 Bloomberg Transcript
 
-{BIO 18460437 <GO>}
-
-{BIO 20704654 <GO>}
-
+A - Daljitt Barn {BIO 20704654 <GO>}
 Okay. Let me address the first one. So we -- at each point across the -- from now on until
 the end of 2020. So we'll look at the results in January. Initial indication is that we'll beat
 the number that we've written as a strategy. And some of that growth is organic so, as I
@@ -3277,10 +3097,7 @@ tech institution, the other was capital market. So there are ways to enter. But 
 perspective, they would rely on somebody like Munich Re to say what is the real peril of
 going that far up, looking at those limits.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Roland?
 
 Q - Roland Pf Ã¤nder
@@ -3292,10 +3109,7 @@ your country?
 
 Bloomberg Transcript
 
-A - Ritesh Kumar
-
-{BIO 19363386 <GO>}
-
+A - Ritesh Kumar {BIO 19363386 <GO>}
 Okay. Talking in terms of the combined ratio. So for the six months ended September, our
 combined ratio was 99.8%, okay. Our combined ratio last year for the year ended March
 31, 2017 was 100.7%. This was because we had also merged the entity that we had
@@ -3320,10 +3134,7 @@ of, since you spoke of branding costs. I think the sheer fact that our majority 
 allows us to use those 4 magical alphabets called HDFC really helps us because this is
 really a household brand in the Indian context.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Next question. Paris, please.
 
 Page 58 of 91
@@ -3334,9 +3145,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2017-11-21
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 
 FINAL
 
@@ -3347,26 +3156,17 @@ terms of coverage and products, what are the differences? And why do you think t
 more profitable in Canada right now and you're taking a aggressive approach when it
 comes to life insurance?
 
-A - Mary Forrest
-
-{BIO 15882114 <GO>}
-
+A - Mary Forrest {BIO 15882114 <GO>}
 Are you asking me why the U.S. market -- the U.S. reinsurance market has not been as
 profitable in the U.S. versus Canada? The reinsurance market or...
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 I'm saying why experience now going forward for Canada will be any different given the
 tale of the business? Then why do you think that it's the right moment to push so hard?
 
 Bloomberg Transcript
 
-A - Mary Forrest
-
-{BIO 15882114 <GO>}
-
+A - Mary Forrest {BIO 15882114 <GO>}
 Okay. So I think the answer is different with if you look at the individual life and the group.
 So if you look at the U.S., I think all of you are very familiar with the old-age mortality issue
 and the fact that reinsurers are using outdated tables. So that didn't happen in Canada.
@@ -3388,16 +3188,10 @@ platform. And in the meantime, we're already in the process of comparing our -- 
 platform that we're building, compared to what is already out there in the U.S. Does that
 answer your question?
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Andrew?
 
-Q - Andrew James Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew James Ritchie {BIO 18731996 <GO>}
 Just one quick question on Cyber. How is Vector doing the Beazley joint venture
 
 Page 59 of 91
@@ -3417,10 +3211,7 @@ company not very far from here who has done a lot of partnerships auto manufactu
 for quite a long time. I'm just trying to judge to what degree you're playing catch-up with
 them or what's different about what you're doing with some of your competitors.
 
-A - Daljitt Barn
-
-{BIO 20704654 <GO>}
-
+A - Daljitt Barn {BIO 20704654 <GO>}
 Can I do the first? Do you want me to go? Okay. Vector. So that's a -- for those who aren't
 aware, that's a partnership between Corporate Insurance Partners, one of our business
 units and Beazley. So Beazley has been -- is already a long-established client from a
@@ -3435,19 +3226,13 @@ share sits in the reinsurance business or with HSB. But we do see doubt digit gr
 
 Bloomberg Transcript
 
-Q - Andrew James Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew James Ritchie {BIO 18731996 <GO>}
 Maybe just to clarify, what is it that sells? Because it used to be Cyber was sold on
 particularly post-breach services, the quality of that, I mean particularly with Beazley. What
 is it now? Is it limit that people want? Or is it the ability to cope with unusual risk? What is
 this nature...
 
-A - Daljitt Barn
-
-{BIO 20704654 <GO>}
-
+A - Daljitt Barn {BIO 20704654 <GO>}
 You know, that's a good question. So I think the service wrapper is still very important. So if
 you think of the paradigm moves, a client without it, the clock is ticking because the
 regulator, the investor, everybody hit the spotlights on you. It's the same when it's cyber.
@@ -3492,15 +3277,10 @@ the software solution which we bought as a standard software, external solution 
 believe that this combination gives us the opportunity to take a huge share of this
 accessible market which is, for us, quite significant.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Time maybe for one last before the break. Vinit.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 Bloomberg Transcript
 
@@ -3510,35 +3290,23 @@ a few years ago, tariff changes were quite a big issue in the market. So that's 
 Indian situation. If I can have one more question or maybe a couple more just quick ones.
 In Canada...
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 One.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Very quick. Canada's slight 70s, I mean you were clearly more than surprised. You
 sounded delighted at that, the way it has worked, this pilot. So why are you giving it away
 as just being an agent? I mean, Munich Re can do more as well. Is that -- has that thought
 come to your mind ever?
 
-A - Mary Forrest
-
-{BIO 15882114 <GO>}
-
+A - Mary Forrest {BIO 15882114 <GO>}
 So I'll answer that. We're not just an agent like -- from doing the solution, how we're going
 to allow clients to take advantage of the distribution is by getting 50% of the reinsurance.
 So if I -- we look at our projections, it's about 60% will come from Reinsurance business.
 So we're still a reinsurer, But this is actually just tying us more because they want to use
 the -- digitalize that agency. Okay you can take this.
 
-A - Ritesh Kumar
-
-{BIO 19363386 <GO>}
-
+A - Ritesh Kumar {BIO 19363386 <GO>}
 Okay. Talking in terms of the interest rates and what this means for the (mind issue).
 You're right, on 100 combined, we had 45.5 ROE post-tax. See ours, as an industry, a one
 Page 61 of 91
@@ -3564,10 +3332,7 @@ ratio by 150 basis points.
 
 Bloomberg Transcript
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you, colleagues, time for a break. We will go downstairs and have lunch together
 and we should take about 90 minutes so please be back at a 2:45. Why such extended
 break? Because we want to make use of it in order to present even more projects and
@@ -3632,10 +3397,7 @@ Bloomberg Transcript
 
 Gentlemen, please go ahead and if I may ask you to start Greg, okay. Greg?
 
-A - Greg M. Barats
-
-{BIO 17365510 <GO>}
-
+A - Greg M. Barats {BIO 17365510 <GO>}
 Thank you very much. Greg Barats, Hartford Steam Boiler. I was asked to give a little
 promo intro on who HSB is a little bit. Hang on here. So I can get this going the right way.
 There we go. Let's just kind of go through the numbers very quickly. HSB was founded
@@ -3943,9 +3705,7 @@ understand and drive forward on this strategy. We've made one acquisition in thi
 as well with Meshify. So it's been an exciting journey and hope to have more
 conversations about this down the road. Thank you.
 
-A - Andrew Rear
-
-{BIO 1839965 <GO>}
+A - Andrew Rear {BIO 1839965 <GO>}
 
 Bloomberg Transcript
 
@@ -4327,10 +4087,7 @@ maintained technology advantage over the industry, as well as their shareholding
 board seats in our partners and, hopefully, an advantaged position for when the
 InsurTechs begin to mature and look for exits.
 
-A - John Paul Pieper
-
-{BIO 2232973 <GO>}
-
+A - John Paul Pieper {BIO 2232973 <GO>}
 All right, I have the pleasure for having the last slot. The first good message I have -we've decided not to invest in wildfire insurance California, all right. The nexible punitive
 play-off ERGO's auto motor insurance in Germany. Couple of words first. I start with the
 most important number: nexible is a sizably lower investment into a niche market. We
@@ -4819,17 +4576,11 @@ resource of my own team and leading back into the ERGO organization in order to 
 from learnings that might be beneficial for ERGO as a group.
 And that is basically nexible. Thank you. So much.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you very much, colleagues. Last round of Q&A, William, please.
 +++qanda
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 First of all just for Greg, when you were talking about HSB, can you talk a bit about the
 challenges that you see working with the new data you're going to get from all of the
 sensors. Because on the one hand, it's an obvious opportunity. But when you talk, even to
@@ -4863,10 +4614,7 @@ money, buddy.
 
 Bloomberg Transcript
 
-A - Greg M. Barats
-
-{BIO 17365510 <GO>}
-
+A - Greg M. Barats {BIO 17365510 <GO>}
 Okay, I'll start, a. And hopefully I capture your question. So the challenges that we kind of
 came up against in the IoT space. Quite a few of them, actually. I think, if I give you a fastforward of 4.5 years. And said, which one of the biggest lessons learned about IoT is that
 IoT is not simple. It is definitely not, it's very complex. So being an engineering mindset
@@ -4920,10 +4668,7 @@ that's just a small little challenge. So we, like I said, four years at this, we
 unraveled a lot of the problems and a lot of the topics here. So -- but it's purely by testing
 and interfacing with customers and taking it apart. It's really just rolling up your sleeves.
 
-A - Andrew Rear
-
-{BIO 1839965 <GO>}
-
+A - Andrew Rear {BIO 1839965 <GO>}
 Maybe I can address that Digital Partners versus nexible question. I mean, first of all,
 nexible is a part of ERGO and benefits from ERGO's presence in this particular market, in
 this particular country. Had that not been the case, if nexible was an independent external
@@ -4943,10 +4688,7 @@ Paul will make a lot of progress on claims automation, for example, which I can 
 some of that technology. But if we end up competing in certain markets, then we end up
 competing, that's all part of the game.
 
-A - John Paul Pieper
-
-{BIO 2232973 <GO>}
-
+A - John Paul Pieper {BIO 2232973 <GO>}
 I would agree, I think 2 things from an objective standpoint might be important. The first
 and most important mission of nexible is to push the boundaries, to push the limits of
 doing insurance fully digitally. The reason why it is important also for ERGO is because
@@ -4956,16 +4698,10 @@ actively bigger, which is also something that can be done much easier when you h
 support of a primary insurer like ERGO at your side because it will not always be as easy
 as it might sound.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you. Kamran?
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Two questions, both for Andy. First one is, what's the one biggest challenge that you face
 working with startups? Is it speed of doing things, culture, IT, security? And the second
 question is, I guess, apart from nexible, what's the one thing you wish you had invested
@@ -4983,10 +4719,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - Andrew Rear
-
-{BIO 1839965 <GO>}
-
+A - Andrew Rear {BIO 1839965 <GO>}
 The biggest challenge for us, yes, is primarily speed. Startups have -- we like that they're
 aggressive and they move quickly. But the reality is insurance is complicated. It's highly
 regulated. That's particularly so in the U.S. In the U.S., it's almost impossible to launch a
@@ -5020,25 +4753,17 @@ digital experiments and what else you could do that there's a whole problem of a
 workers' comp as a line of business. So so far, that's an area that we have completely
 avoided just because we think the insurance element is just a bit too difficult.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 There was a question from Vinit.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thanks, John, for sharing transparently that you had to beat up roll-out time, you had to
 completely revamp it. I mean -- and you're still persisting with speed as very critical. Are
 you happy to share -- I mean, how bad was that first stab at it and how was -- I mean,
 because -- sorry, how bad was the first experiment? And obviously, you're still sort of -you have launched sooner than probably some people who are agreeing with or anyways.
 So if you're just happy to share, it will be great.
 
-A - John Paul Pieper
-
-{BIO 2232973 <GO>}
+A - John Paul Pieper {BIO 2232973 <GO>}
 
 Page 88 of 91
 
@@ -5067,10 +4792,7 @@ then we have to do the opposite. It was probably the best experiment that you co
 and the upcoming months showed us that we can do it entirely differently in an even
 shorter time frame. So it was a really good one.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Sorry, Andy, can I ask you one thing? You mentioned a few times that you don't want to be
 involved with customers for cost reasons. But clearly, with your experience and expertise,
 isn't that what you should be also thinking about, getting involved with and helping them
@@ -5079,10 +4801,7 @@ customers...
 
 Bloomberg Transcript
 
-A - Andrew Rear
-
-{BIO 1839965 <GO>}
-
+A - Andrew Rear {BIO 1839965 <GO>}
 So we're deliberately a wholesale business. That is why Digital Partners sits in Munich Re
 rather than in ERGO. So you can think of us as, if you like, a digital version of the traditional
 MGA business model where in the MGA business model, the MGA looks after the
@@ -5092,23 +4811,14 @@ our model. If I build a customer management front end, then there's no way I can
 multicountry, multiline, then I've become a business more like John Paul's, which is more
 about how you manage the customer.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Please, Nadine?
 
-Q - Nadine Adrienne Marion van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine Adrienne Marion van der Meulen {BIO 15200446 <GO>}
 I was wondering if you could comment on the usefulness and just your views on
 blockchain technology and whether you're investing in that?
 
-A - John Paul Pieper
-
-{BIO 2232973 <GO>}
-
+A - John Paul Pieper {BIO 2232973 <GO>}
 So I can -- is it for me or for all of us? I can start. So actually, we are considering a use case
 but the thing is when you look at blockchain and you really want to get, well, immediate
 value out of it in a business model like mine, it comes down to things like making sure that
@@ -5130,25 +4840,16 @@ think about it further is actually totally democratizing the entire insurance pr
 not thinking about that at the moment because we don't think it's a commercial model at
 the moment for us. That's my take on that.
 
-A - Andrew Rear
-
-{BIO 1839965 <GO>}
-
+A - Andrew Rear {BIO 1839965 <GO>}
 So for me, I admit I've become slightly obsessed with gambling on crypto currencies. But
 it from my business side, I don't see a use case yet.
 
-A - Greg M. Barats
-
-{BIO 17365510 <GO>}
-
+A - Greg M. Barats {BIO 17365510 <GO>}
 Yes. In IoT, we're looking at it. There are also a lot of complex, you'll say, transactions of
 data within a manufacturing facility that we're looking at some scenarios there but right
 now, we have a lot of other things that we're looking at. So -- but that's on the list.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you. Time for our last question, maybe? Roland?
 
 Q - Roland Pf Ã¤nder
@@ -5159,10 +4860,7 @@ Coming back to nexible, it looks to me it's a very technology driven solution ap
 isn't it normally the customer the first one, shouldn't you look more for customer demand
 than wishes?
 
-A - John Paul Pieper
-
-{BIO 2232973 <GO>}
-
+A - John Paul Pieper {BIO 2232973 <GO>}
 So in the end, we have already processed around 400 customer feedbacks during the
 entire process of building up nexible, all right? So yes, I agree with you and that's exactly
 what we do. But in order to be able to actually use those feedbacks in a very agile and
@@ -5172,20 +4870,14 @@ to comply with the wishes of your customers quickly, then I think you're wrong. 
 exactly why we say customers are interested in technology excellence and therefore,
 speed.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Good last words, speed. Thank you very much, colleagues. Thank you. Thanks to all of you
 for coming to Munich for being interested in our story. We certainly found the day very
 interesting and we would just like to ask you for feedback because it would be very
 important for us in order to further improve. And I wish you safe travels. And with that, I
 give it back for a last remark to Joachim.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Thank you, Christian. Thanks to you for your attention. I think, it found a lot of interest
 looking to your faces. I followed the Q&A and in the afternoon, frankly, I had my headset
 Page 90 of 91

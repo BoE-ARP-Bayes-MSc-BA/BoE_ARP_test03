@@ -28,10 +28,7 @@ opportunity to ask questions. Please note this event is being recorded.
 Now I would like to turn the conference over to Linda Ventresca, Director of Investor
 Relations. Ms. Ventresca, please go ahead.
 
-Linda Ventresca
-
-{BIO 5930519 <GO>}
-
+Linda Ventresca {BIO 5930519 <GO>}
 Thank you, Keith, and good morning, ladies and gentlemen.
 I'm happy to welcome you to our conference call to discuss the financial results for AXIS
 Capital for the third quarter ended September 30, 2015. Our earnings press release and
@@ -82,10 +79,7 @@ please refer to our press release and financial supplement, which can be found o
 website.
 With that, I'd like to turn the call over to Albert.
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+Albert A. Benchimol {BIO 2023727 <GO>}
 Thanks, Linda; and good morning, ladies and gentlemen. Thank you for joining us today.
 Last night, AXIS reported third quarter net income available to common shareholders of
 $248 million or $2.50 per diluted common share. On an operating basis, we report net
@@ -148,10 +142,7 @@ our portfolio and enhance the efficiency of our platform, position us well to co
 deliver shareholder value against the backdrop of an increasingly difficult market.
 And now, Joe will walk us through the results. Joe?
 
-Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+Joseph C. Henry {BIO 13390626 <GO>}
 Page 3 of 27
 
 
@@ -483,10 +474,7 @@ FINAL
 
 And with that, I'll turn the call back over to Albert.
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, Joe.
 Moving on to market conditions; competition in the market continues to escalate. Within
 our insurance segment, the overall AXIS insurance rate change for the third quarter of
@@ -694,54 +682,34 @@ Q&A
 Operator
 Thank you. And the first question comes from Mike Nannizzi from Goldman Sachs.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Thanks so much. Just one real quick one up front here, Joe, on the buyback. Can you say
 what was the dollar spent in the quarter on buybacks? Do you have that handy?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I was talking about 4.1 billion – or 4.1 million shares and then the size of the authorization,
 but I don't know if I saw it in the dollar amount.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
+A - Joseph C. Henry {BIO 13390626 <GO>}
 
 Bloomberg Transcript
 
 Mike, we are about halfway through the ASR.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 I'll get you the specific number. We did buy back a few additional shares beyond the ASR
 before we implemented it, but the number is actually $246 million to be specific.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Great. Perfect. Thank you so much. And then, on the profitability actions, restructuring
 efforts, to the extent that more actions are necessary in order to get to run rate savings,
 do you expect that there may be further charges along the way in order to monetize
 those eventual savings?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 We don't expect that. I think that we are well on our way to creating improvement on a
 consistent basis. So it's really changed in the way we approach the underwriting and the
 portfolio construction. And as you know Mike, it takes a little while for those things to earn
@@ -757,28 +725,20 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2015-10-28
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay. So you don't anticipate further head count reductions, because that would probably
 the more expensive from a charge standpoint?
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 No, we have tried very hard to make sure that we identified those areas that required
 immediate and coordinated action. Again, what we need to do as an organization, what
 every organization needs to do is to make sure they're vigilant on a daily basis about the
 staffing, organizations of various departments. But in terms of a coordinated action like
 the one we announced on October 7th, it is our strong desire not to do that.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 
 Bloomberg Transcript
 
@@ -796,10 +756,7 @@ your own internal goal for an ROE or a return, how you define it? And how do we 
 there? And if it's a double-digit number in this environment, how much of the heavy lifting
 will reserve releases be forced to carry?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Okay. Let me see if I can address most of these comments.
 The first thing that I would say is that we're not so much moving away from volatility lines.
 You'll recall that I mentioned earlier, excuse me, in the call, that I envision this to be the
@@ -882,10 +839,7 @@ four, five-year period, what you're really dealing with is the core underwriting
 of the company and our core underwriting performance will be in the top quintile of the
 industry.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 And Mike, it's Joe. Let me just add to that briefly.
 There is a lot of noise in our results this quarter as you could probably tell with the
 merger, expenses, expense reimbursement, and the charge that we took. If you remove
@@ -895,10 +849,7 @@ opposed to ratios. If you normalize the premium decrease that we've had year-ove
 the expense ratio is actually 15.3% in the quarter and 15.3% on year-to-date basis. So, I just
 want to throw those out to add to what Albert said.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Great. Thank you.
 
 Bloomberg Transcript
@@ -906,32 +857,20 @@ Bloomberg Transcript
 Operator
 Thank you. And the next question comes from Vinay Misquith with Sterne Agee, CRT.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Hi, good morning. I just like to drill down further on these expense saves. So if I
 understand it correctly, number one, we have $30 million of expense saves that will come
 through in the future from here from the restructuring charge. Is that correct?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 It's correct.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. The second piece is the $50 million and that's from 2014 to 2017. So the question is,
 how much do we have left from here on out, because you just mentioned that the
 expenses were down $11 million, so do we have about $40 million left from here on out?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 No, no, no. Vinay, we've outlined $50 million worth of expense savings to get our expense
 ratio from where it was at the midpoint of 2014 to where it's expected to be in 2017. We
 expect further expense reductions from this point forward. But to date, and we've talked
@@ -955,64 +894,40 @@ and analytics. So, that's what we've achieved to-date. I'd quantify it as saying
 non-personnel related expenses, $30 million through the charge that we just took. And
 then we expect further increases to get to the $60 million that we outlined in 2014.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. So the $30 million is a subset of the $50 million?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 That's correct.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. And the improvements on the data and analytics, that's already come through
 mostly?
 
 Bloomberg Transcript
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 No. I would say that we've achieved substantial benefit from that as Albert said in his
 remarks. Particularly in professional lines, but we've expanded that to property lines and
 frankly, the insurance and reinsurance groups are completing, if you will, that across the
 rest of our portfolio. So we still expect further enhancements coming from the investment
 we've made in data and analytics.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay, sure. So, to summarize, it seems that from an expense perspective you have about
 $30 million to $40 million maybe over the next couple years plus in the form of data and
 analytics, some small improvements. And also in the scale, some of your smaller
 businesses you have a little bit of improvement? Does that sound about right?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 The first part of it, I think it's a geography question. We are expecting further
 improvement in our loss ratio through enhancements that we've made in the data and
 analytics, not necessarily on the expense side.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure. Fair enough.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 On the second question, I'm sorry, wasPage 18 of 27
 
 
@@ -1021,25 +936,17 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2015-10-28
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Can I just take this back a bit, because I – Vinay, I'm little concerned, we are throwing a lot
 of numbers around.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
+Q - Vinay Misquith {BIO 6989856 <GO>}
 
 FINAL
 
 Yes.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 And I want to make sure that they are properly done. We want to achieve at least $50
 million annualized savings by the fourth quarter of 2017. As Joe just mentioned, we've
 achieved approximately $10 million, $11 million this year through IT reorganizations, lease
@@ -1049,18 +956,12 @@ We have already expenses that are on our schedule that will be coming on line or
 that will be coming on line of at least an additional $10 million which will be coming on line
 in 2017. That work has already been done, Vinay.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure.
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So, we have actually – we have now done what needs to be done to deliver $50 million.
 The $11 million that we've just discussed, the $30 million that we've announced on
 October 7th and I can tell you at least another $10 million that is already on the books as
@@ -1075,15 +976,10 @@ million in savings, and I'm telling you now, we have already done all the work t
 that. $11 million already this year, $30 million announced on October 7th and at least $10
 million that is already on the books for coming online in 2017.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. That's helpful. Thank you and – go ahead.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
+A - Joseph C. Henry {BIO 13390626 <GO>}
 
 Page 19 of 27
 
@@ -1103,32 +999,20 @@ house. That had a slight drag on our results and an improvement from where it wa
 see a benefit coming out of those initiatives in 2017. So, that's a swing from a slight drag
 to a slight benefit with increased premium coming from those new business initiatives.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 And that benefit was already about 0.7 points of combined ratio, this year year-to-date
 alone.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Right.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 And as those businesses grow further in 2016 and so on, we would expect some
 additional improvement as they start to contribute to the bottom line of the company.
 
 Bloomberg Transcript
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. That's helpful. And then on the primary insurance, on the reserves related, I believe,
 there was a charge this quarter for the U.S. professional lines. I just want to be sure,
 because historically your U.S. – I mean, your insurance business, had meaningful amount of
@@ -1136,32 +1020,21 @@ favorable. Just want to be sure that the rest of the reserves are pretty much on
 this quarter was really a bump in the road because of the professional lines business in
 Australia.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 You're correct, Vinay. Basically we've strengthened reserves by a net amount of $18 million
 in the quarter for Australia. We actually had positive development in the rest of our
 remaining professional lines.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. All right. Thank you very much.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Okay.
 
 Operator
 Thank you. And the next question comes from Charles Sebaski with BMO Capital Markets.
 
-Q - Charles J. Sebaski
-
-{BIO 17349221 <GO>}
+Q - Charles J. Sebaski {BIO 17349221 <GO>}
 Page 20 of 27
 
 
@@ -1177,17 +1050,11 @@ addition to. So, the total expense is $50 million, not $80 million.
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 That is correct. The $50 million was the target. And what we are giving you is a progress
 report on working towards that $50 million.
 
-Q - Charles J. Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles J. Sebaski {BIO 17349221 <GO>}
 Okay. Thank you for that. I guess, bigger picture, just would like your thoughts on the
 reinsurance business. Obviously, a lot has gone on this year. And talk a bit about –
 conceptually maybe scale was a more appropriate means to operate in that business.
@@ -1199,10 +1066,7 @@ going forward.
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you for the question. I think that the short answer is that in reinsurance, you need a
 minimum amount of scale. Because if you're going to provide the resources globally for
 your clients, you need to make sure that you've got the representation globally to
@@ -1262,10 +1126,7 @@ they need more capacity, we feel very confident that we can access alternative c
 provide them with the size of capacity that they need at any point in time. I hope that
 answers your question.
 
-Q - Charles J. Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles J. Sebaski {BIO 17349221 <GO>}
 No, it does, and I appreciate it. I guess, just one follow-up on capital management. And
 obviously, Albert, you outlined that you guys have, over the last few years, returned all of
 your operating income and then some, and I don't know if this is just timing matters.
@@ -1275,10 +1136,7 @@ operating earnings over the first couple of quarters. And so, I guess, just conc
 how did you get to $300 million? I guess I would have ballparked it as operating income
 plus the $280 million into more of the $400 million, $500 million range.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I guess there's a couple of things to look at. The first is there's no one thing. We just said
 over $2.3 billion returned to our shareholders. It's done over a period of time. I think when
 you do an ASR, in many ways, it boxes you out of the market, and it forces you into a
@@ -1305,42 +1163,27 @@ returned 115% of all the operating income including the PartnerRe breakup fee ye
 our dividends and share repurchase authorizations. I think that our actions have been very
 consistent with our words.
 
-Q - Charles J. Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles J. Sebaski {BIO 17349221 <GO>}
 I appreciate all the color. Thank you very much.
 
 Operator
 Thank you. And the next question comes from Ryan Byrnes with Janney.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Hi, good morning, guys.
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Good morning.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Just a question on the A&H growth in the quarter, and I guess the year as well; I think you
 guys noted that it was coming from Middle East. Was it a kind of a large new program, a
 reinsurance contract? And again separately, just want to go over the return profile now
 that that book is kind of – your target $300 million on an annualized basis.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Yes, Ryan, it is Joe.
 The third quarter is not a big quarter for A&H. A lot of for our businesses is one-one. But
 we did have a large new reinsurance quota share program in the third quarter. So that
@@ -1365,20 +1208,14 @@ relative to the improvement from new business initiatives.
 
 FINAL
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Okay, great. Thanks for that color. And then just my last question, just want to get a quick –
 the Australian professional liability book was a pressure on reserves. I think you also
 mentioned there was a pressure on the underlying loss ratio. Just wanted to get the size
 of how big that book is? And I guess try to figure out what kind of pressure that can be for
 the next kind four quarters going forward.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I think it's a fair request, because as you pointed out, as we earn down the UPR from
 Australia that will have a negative effect. On an annualized basis, Australia is about $80
 million of premium a year. It's come down a little bit, frankly in the last quarter since it was
@@ -1387,9 +1224,7 @@ end of the third quarter for Australia. But if you assume that they are somewher
 between – and we will specify that – but my guess is somewhere between $40 million and
 $50 million of UPR from Australia that would probably be in the right range.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 
 Bloomberg Transcript
 
@@ -1398,20 +1233,14 @@ Okay, great. Thanks guys.
 Operator
 Thank you. And the next question comes from Christopher Campbell with KBW.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
-
+Q - Christopher Campbell {BIO 20262752 <GO>}
 Yes, good morning. My first question relates to acquisition cost ratios across both
 segments. Insurance is up about 110 bps over the past two quarters and reinsurance is up
 about 50 bps over the same timeframe. Can you help us kind of understand what's
 driving this upward trend in each segment, and should we expect these trends to
 continue?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Well, there is a couple of things that I would say. There's always going to be a little bit of
 volatility in our acquisition expense ratio because of profit, shares that we provide both on
 the insurance and the reinsurance side. On the reinsurance side, I think you've heard
@@ -1440,10 +1269,7 @@ that the reported acquisition cost number comes up. I hope that gives you some
 coverage some explanation.
 Joe, you want to add to that?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Yes, I'd like to just add two things to it. Number one on the reinsurance side, we also have
 profit commissions when we take down reserves, when we release reserves from prior
 years that actually flows through the current year acquisition ratios. So that's one of the
@@ -1457,42 +1283,24 @@ sense to you.
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 On some of the lines.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Yes.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
-
+Q - Christopher Campbell {BIO 20262752 <GO>}
 Yes, thank you. That's very helpful. And just one more question relating to corporate
 expenses: what's a good quarterly run rate you assume for these excluding
 reorganization and related expenses?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 And are you dealing with corporate or are you dealing with the consolidated?
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
-
+Q - Christopher Campbell {BIO 20262752 <GO>}
 The consolidated – yes, the consolidated corporate expenses?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 They average somewhere in the $26 million to $27 million range for corporate.
 
 Page 25 of 27
@@ -1503,34 +1311,24 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2015-10-28
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yes. We'll have to – they will be coming down over the next six quarters as we speak. So
 we'll have to come back to you with a more precise number.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
+Q - Christopher Campbell {BIO 20262752 <GO>}
 
 FINAL
 
 Okay, thank you very much. Best of luck this quarter.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Good. Well, operator?
 
 Operator
 Yes. And that was the last question actually. So, I would like to turn the call back over to
 management for any closing comments.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -1542,10 +1340,7 @@ absolutely focused on improving the results of our company for the benefit of al
 shareholders. And we look forward to giving you more progress on more improvements
 when we speak again in January. Have a good day.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Thank you.
 
 Operator

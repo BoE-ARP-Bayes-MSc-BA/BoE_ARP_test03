@@ -29,10 +29,7 @@ Results. All lines have been placed on mute to prevent any background noise. Aft
 speakers' remarks, there will be a question-and-answer session. Thank you.
 Peter Hill from Kekst, you may begin your conference.
 
-Peter Hill
-
-{BIO 15385944 <GO>}
-
+Peter Hill {BIO 15385944 <GO>}
 Thanks, Matthew, and good morning. Thank you for joining our first quarter 2017 financial
 results conference call. Yesterday, after the market close, we issued our quarterly release.
 If you didn't receive a copy, please call me at 212-521-4800, and we'll make sure to
@@ -133,10 +130,7 @@ purchased approximately $103 million of shares since January 1.
 I'll provide more details on the opportunities we're seeing later in the call, but first let me
 turn it over to Bob to talk about our financials.
 
-Robert Qutub
-
-{BIO 15269353 <GO>}
-
+Robert Qutub {BIO 15269353 <GO>}
 Thanks, Kevin, and good morning, everyone. Today I'd like to first give you a few overall
 themes for the quarter, then provide some detail on our consolidated segment financial
 results, and conclude with investments and capital activities. As Kevin pointed out in his
@@ -434,10 +428,7 @@ FINAL
 
 Thanks. And with that, I'll turn it over to questions.
 
-Peter Hill
-
-{BIO 15385944 <GO>}
-
+Peter Hill {BIO 15385944 <GO>}
 Operator, will you please give the instructions?
 
 Q&A
@@ -447,10 +438,7 @@ open.
 
 Bloomberg Transcript
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Hi. Good morning. So if we look at the ROE, you guys reported in the quarter a little bit
 over 4%. And so if I just make some adjustments for the Ogden charge, and then some
 of the higher specialty losses, I think you called out a combined $23 million in the quarter, I
@@ -507,10 +495,7 @@ they were in 2016.
 
 Bloomberg Transcript
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. That's great. And then in terms of the reserve releases, we saw a slowdown in the
 Q1. I think in the commentary you guys did point to some prior year adverse development
 in the other property book. But historically if I go back the past couple of years, Q1 has
@@ -529,10 +514,7 @@ and, secondly, we're renewing a lot of business. So to the extent there is any s
 it could be in response to just the normal financial calendar that our seasons have and the
 fact that we do often receive more details and additional information as we're renewing.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. And then in terms of the Ogden loss that you guys disclose, so you guys had
 pointed to this coming from your med mal exposure, so two questions there. It seems like
 from some of the discourse on the Lloyd's book that this stemmed from, I think, both
@@ -565,10 +547,7 @@ a going-forward basis, it's not something we anticipate for it to continue to de
 us, because, as I said, it's a single account and we are in negotiations with full information
 on Ogden as to how to think about (31:19).
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay, great. Thank you.
 
 Bloomberg Transcript
@@ -579,10 +558,7 @@ Sure.
 Operator
 Your next question comes from the line of Kai Pan with Morgan Stanley. Your line is open.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you and good morning. So just want to be clear on the sort of Elyse's question on
 Ogden rates. So, this impact is only impact the past reserve, not your ongoing business
 going forward?
@@ -615,10 +591,7 @@ attractive than 2016 for mortgage business, but we believe that the mortgage bus
 will still be attractive. We anticipate that we will grow, but we probably will grow at a lesser
 rate than we grew from 2016 to 2015.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. So the return of the mortgage re you think is still probably better than the other
 lines business you're having right now?
 
@@ -630,10 +603,7 @@ still pretty efficient to us to add it, particularly on a reinsurance basis.
 
 Bloomberg Transcript
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. Lastly, just follow up your commentary on the – you're monitoring inflation trend.
 Some of your peers talking more about this – see some signs writing inflation in
 commercial auto, as well as in the professional lines. Could you talk little bit more about
@@ -652,10 +622,7 @@ watching carefully. At this point in time it's not driving our results, but to t
 sorts of claims begin to get traction, it could begin to move up into more awards that
 affect the excess layers, and then we would be more impacted.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thanks so much for all the answers.
 
 Page 12 of 24
@@ -669,9 +636,7 @@ Date: 2017-05-03
 A - Kevin J. O'Donnell
 Sure.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
+A - Robert Qutub {BIO 15269353 <GO>}
 
 FINAL
 
@@ -680,10 +645,7 @@ Thanks, Kai.
 Operator
 Your next question comes from the line of Amit Kumar with Macquarie. Your line is open.
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
-
+Q - Amit Kumar {BIO 16979665 <GO>}
 Thanks and good morning and thanks for the questions.
 
 A - Kevin J. O'Donnell
@@ -691,10 +653,7 @@ Good morning.
 
 Bloomberg Transcript
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
-
+Q - Amit Kumar {BIO 16979665 <GO>}
 Firstly, just going back to the Casualty and Specialty discussion, when you talked about
 timing versus trend, we've seen some noise sort of lingering in this segment quarter-toquarter. I'm curious why shouldn't we think about this as maybe some sort of a problem
 with the business that is being sourced, or maybe just talk about any changes you've
@@ -728,9 +687,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2017-05-03
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
+Q - Amit Kumar {BIO 16979665 <GO>}
 
 FINAL
 
@@ -744,10 +701,7 @@ terms of the volatility of the numbers. Thanks.
 A - Kevin J. O'Donnell
 Okay. Just to clarify. You're asking about our ceded strategy, is that right?
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
-
+Q - Amit Kumar {BIO 16979665 <GO>}
 Yes. Yes. Exactly.
 
 Bloomberg Transcript
@@ -791,9 +745,7 @@ Date: 2017-05-03
 
 our portfolios, these will be accretive over time.
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
+Q - Amit Kumar {BIO 16979665 <GO>}
 
 FINAL
 
@@ -807,10 +759,7 @@ tail than what we've experienced. For Casualty, this is as the books mature, I t
 continue to see the increased sessions in the more recent books soaking up some of the
 losses as they come through.
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
-
+Q - Amit Kumar {BIO 16979665 <GO>}
 Got it. And I'll stop here and let others ask. Thanks.
 
 A - Kevin J. O'Donnell
@@ -823,29 +772,20 @@ Bloomberg Transcript
 Your next question comes from the line of Jay Cohen with Bank of America. Your line is
 open.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Yes, thank you. A couple of questions. In the other property segment, the acquisition
 expense ratio was higher. Obviously, a shift towards quota share business would do that.
 Is that a number that we should think about going forward over the next couple of
 quarters or for some reason was that inflated in this particular quarter?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 No. Jay, I think you're right. It's related to our growth in proportional and delegated
 authority. You saw that we had a lot of growth and you can see that the growth in the
 acquisition really parallel what we saw in the net earned premium. So as that business
 continues to grow, you'll see that growth what you would normally see with the
 proportional business.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 And does that business have a lower loss ratio than your other business?
 
 A - Kevin J. O'Donnell
@@ -866,19 +806,13 @@ of economics than of reinsurance.
 
 FINAL
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Got it. That's helpful.
 
 A - Kevin J. O'Donnell
 Yeah.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 And then secondly, in the Specialty business, these kind of losses that you talked about in
 the quarter, can you talk about what lines – I mean, what kind of losses we're talking
 about?
@@ -895,10 +829,7 @@ couple of things like that, but there is not – it's not one line of business. 
 size that we are treating more as an event and bringing it through our reserves that way.
 Ultimately the curve I think will catch up.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Got it. That's helpful. Thank you.
 
 A - Kevin J. O'Donnell
@@ -908,10 +839,7 @@ Operator
 And your next question comes from the line of Josh Shanker with Deutsche Bank. Your
 line is open.
 
-Q - Joshua D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua D. Shanker {BIO 5292022 <GO>}
 Yeah, good morning, everyone.
 
 A - Kevin J. O'Donnell
@@ -925,18 +853,12 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2017-05-03
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Good morning, Josh.
 
 FINAL
 
-Q - Joshua D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua D. Shanker {BIO 5292022 <GO>}
 I want to know how to think about excess capital as you write proportional business versus
 excess loss business. And where you sort of look in terms of the extent to which you're
 maximizing what you think is sort of the right amount of capital at this point in the market
@@ -968,10 +890,7 @@ So for us, internally it's reasonably transparent, lots of sophisticated kind of
 behind it, but it's what we do everyday regardless of whether it's other property, surety,
 or another property cat line.
 
-Q - Joshua D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua D. Shanker {BIO 5292022 <GO>}
 What about making investments in non-core related businesses? I think at some points in
 your history you guys have been a total return company and there has been – and,
 obviously, you do have some investments out there. Instead of returning the capital,
@@ -989,10 +908,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2017-05-03
 
-Q - Joshua D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua D. Shanker {BIO 5292022 <GO>}
 Could be. I mean, ChannelRe, Japan yen, I mean, all sorts of.
 
 A - Kevin J. O'Donnell
@@ -1001,10 +917,7 @@ FINAL
 
 Yeah.
 
-Q - Joshua D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua D. Shanker {BIO 5292022 <GO>}
 Over the years some have worked out, some haven't.
 
 A - Kevin J. O'Donnell
@@ -1025,10 +938,7 @@ market. So we'll make an investment potentially there looking to expand the fran
 little bit more than something like Tower Hill. All of them are made independently to make
 sure that we are seeing an IRR that we believe to be accretive to the firm over time.
 
-Q - Joshua D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua D. Shanker {BIO 5292022 <GO>}
 And as you weigh that against, I guess, is returning capital viewed as an accretive – I
 mean, the balance between those two things, to return the capital, I guess, is accretive
 through a buyback at a certain price versus a dividend which is probably not accretive. I
@@ -1054,10 +964,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2017-05-03
 
-Q - Joshua D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua D. Shanker {BIO 5292022 <GO>}
 Okay. Well, thank you for the answers and good luck in this tough year.
 
 A - Kevin J. O'Donnell
@@ -1069,27 +976,18 @@ Okay. Appreciate it, Josh. Thanks.
 Operator
 Your next question comes from the line of Brian Meredith with UBS. Your line is open.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Thanks. Kevin, just two quick ones, and I think it kind of follows on Josh question. The
 Tower Hill loss in the quarter, is that kind of an unusual situation? What was that all about?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Tower Hill did take – we take an equity method on that, Brian, and it was down in the
 quarter. But if you look at our investment in Tower Hill over time, it's had quite attractive
 returns.
 
 Bloomberg Transcript
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Okay. And then I'm just curious. Could you just remind us on the reinsurance contracts, you
 book those kind of as fair value. How should we think about that line item as far as
 earnings? It is down, it is down pretty significantly year-over-year.
@@ -1097,31 +995,20 @@ earnings? It is down, it is down pretty significantly year-over-year.
 A - Kevin J. O'Donnell
 I'm not sure.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yeah.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 I'm not following your question.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 I'm sorry. Your other – under other income, you've got that one line that's a fair value, I
 assume it's ceded reinsurance. I guess it's your cap lines (51:14).
 
 A - Kevin J. O'Donnell
 Give us a second. I want to pull that line up, just to make sure.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 Page 19 of 24
 
 
@@ -1132,34 +1019,23 @@ Date: 2017-05-03
 
 It seems that ceded reinsurance cost accounted for at fair value or as deposits?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
+A - Robert Qutub {BIO 15269353 <GO>}
 
 FINAL
 
 Okay. Brian, let's keep going here. Let's take a look at. Do you have other questions, while
 we take a look (51:35).
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 That's all I have. You guys had been really clear this call. Thank you.
 
 A - Kevin J. O'Donnell
 Sure.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 We'll circle back up with you, Brian, okay?
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Okay. Great.
 
 A - Kevin J. O'Donnell
@@ -1168,30 +1044,21 @@ Bloomberg Transcript
 
 Any other questions?
 
-A - Peter Hill
-
-{BIO 15385944 <GO>}
-
+A - Peter Hill {BIO 15385944 <GO>}
 Operator, can we get the last question please?
 
 Operator
 And your last question comes from the line of Ian Gutterman with Balyasny. Your line is
 open.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Thank you. First of all, FYI, Brian was referring to page 15, because I was going to ask the
 same thing, but I'll get to that in a minute.
 
 A - Kevin J. O'Donnell
 Okay.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 My sort of big picture question might be that (52:25), one observation I had looking at the
 results was, your underwriting income for the quarter pretty much all came from DaVinci. I
 think there was about $1 million if I backed out the DaVinci that came from the Ren
@@ -1220,16 +1087,10 @@ So all the other components that we're seeing within Casualty and Specialty are 
 resident within DaVinci and what you're seeing is just the pure property cat performance
 coming out of DaVinci.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Right. (53:35)
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Got it. Okay.
 
 A - Kevin J. O'Donnell
@@ -1238,20 +1099,14 @@ Bloomberg Transcript
 
 Yeah.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Makes sense. Makes sense. Okay. And then, I just wanted to follow-up Amit's earlier
 question about the Casualty book, maybe just ask a little bit differently.
 
 A - Kevin J. O'Donnell
 Sure.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 The thing I notice is the last three quarters on an accident year basis it's been running at
 about a 110 (53:52). And I know there's been sort of issues that have come up each
 quarter that I wouldn't want to call that a run rate. But then again three quarters in a row,
@@ -1286,10 +1141,7 @@ From a run rate perspective, I don't have a return period to think about what a 
 little bit of a lumpy ride to get there, but as the book matures we should see more
 stability in the results.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Do you think it would be profitable – on an accident year basis, profitable this year?
 
 A - Kevin J. O'Donnell
@@ -1297,42 +1149,27 @@ Looking at the expected value of the portfolio, the answer is yes.
 
 Bloomberg Transcript
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Okay, good. Okay. And then the other sort of subcomponent of that I've been trying to
 figure out is can you give us a ballpark sense of how much of the earned premium at this
 point is from mortgage? And again in rough view, where that books? I would have thought
 that would have been well below 100, and that what would have been helping the mix/
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 We don't – I mean, in terms of looking at the combined ratio for mortgage, we don't really
 show that, but what we do show is the amount of gross written premium in our financial
 line sector...
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Right.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 That's about 60% of the total, the gross written premium in the first quarter. Now that's
 down significantly from the prior year on the comparative basis, which have the larger
 deals. So when you factor that out, there was some growth, but it runs about 60% of what
 the total financial lines was for the first quarter this year.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 But it earns much slower, right? So if I looked at that $179 million of earned, I would guess
 mortgages – I don't know – 20%, 30% – I mean, it's not certainly as much as the gross
 would imply.
@@ -1344,9 +1181,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2017-05-03
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
+A - Robert Qutub {BIO 15269353 <GO>}
 
 FINAL
 
@@ -1355,28 +1190,19 @@ reflective of the risk and the degree of risk over the life of that contract. So
 earn-out. It's more reflective of the risk over the 7 to 10 years, probably little bit more in
 the frontend and longer tail to backend.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Okay, got it. And then just one last one for me is on the investment income, the fixed
 income has been sort of a run rate in the high 30s for a while and it bumped up to 43 this
 quarter. I think you mentioned higher invested assets. But was there anything unusual this
 quarter? Is this a new run rate up in the 40s?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 No, we had some higher invested assets that came in. We had a slight uptick in the rates
 this quarter, overall 2.1 to 2.3, and we did a little bit of rebalancing with little bit more
 closure on the credit side, but nothing significant, just modest changes to it, but we were
 able to benefit from those changes in our structure, as well as in the market.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Great. Thanks so much.
 
 Bloomberg Transcript

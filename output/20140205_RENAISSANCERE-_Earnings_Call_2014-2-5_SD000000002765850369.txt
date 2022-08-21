@@ -34,10 +34,7 @@ All lines have been placed on mute to prevent any background noise. After the sp
 remarks, there will be a question-and-answer session. (Operator Instructions) Thank you.
 Mr. Peter Hill, you may begin your conference.
 
-Peter Hill
-
-{BIO 15385944 <GO>}
-
+Peter Hill {BIO 15385944 <GO>}
 Good morning, and thank you for joining our Fourth Quarter 2013 financial results
 conference call. Yesterday after the market closed, we issued our quarterly release. If you
 did not receive a copy, please call me at 212-521-4800 and we will make sure to provide
@@ -118,9 +115,7 @@ efficient to do so.
 I'll discuss the market conditions in more detail, but let me turn the call over to Jeff to go
 over our results.
 
-Jeff Kelly
-
-{BIO 20911735 <GO>}
+Jeff Kelly {BIO 20911735 <GO>}
 
 Bloomberg Transcript
 
@@ -399,10 +394,7 @@ Questions And Answers
 Operator
 (Operator Instructions) Greg Locraft, Morgan Stanley.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Good morning, guys. Congrats on the quarter and a great year. I wanted to actually isolate
 on the guidance and specifically the downward trend from down 10% to down 15%. Can
 you talk a bit about what's changed November versus February?
@@ -425,10 +417,7 @@ by some markets to protect market share. That was sensed by both buyers and brok
 and with that, there was increased pricing pressure. But it's nothing fundamental in the
 market that's changed.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 But I guess, again, you guys are in the markets. You're sitting in November. You are having
 conversations. You put out a down 10%, and then now all of a sudden it's a down 15%. In
 your commentary, you suggested that actually the rate of descent is flattening out, but
@@ -453,20 +442,14 @@ best estimate. Obviously, the future is unknown, so there's things that can disl
 but I feel, at this, point with what we know and the work we've done, that it is our best
 estimate as to where we think the market is going.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Okay. Great. Then second topic is just on capital deployment. I'm trying to -- it sounds like
 DaVinci gave back everything that was earned on the year, so call it 100% payout ratio for
 the DaVinci owners. Why didn't the RNR owners, the public equity owners, receive the
 same kind of payout ratio in 2013? It was significantly lower when you look at dividends
 and buybacks as a percentage of total earned.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Yes, so, I think the only difference there is the DaVinci shareholders go in and out at book
 value. And what we are trying to do in our share repurchase activities is to repatriate
 capital at levels that we think are very attractive for the shareholders of RenRe who do not
@@ -490,17 +473,11 @@ emerging at DaVinci. So we could increase our share in DaVinci at any given poin
 there was an opportunity for that book to grow. So the more financial flexibility is kept at
 the holding company then we will keep at DaVinci or any of the operating levels.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Yes. That is a good point. We do manage DaVinci closer to -- a little closer to our
 exposures than we did at the holding company just for the reasons Kevin cited.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Okay. Great. Then last topic is actually away from the core property cat business. Kevin,
 can you talk a bit about how -- what are your ambitions in the Lloyd's and specialty
 segments? Obviously, the growth there is significant. Can you talk a bit about the historical
@@ -531,10 +508,7 @@ on the cat side, and we have been very fortunate to have a good reception from t
 buyers, making room for us in some of their best programs. So it's kind of a little different
 story for each one, but both of them I believe will be long-term contributors.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Okay. Great. Thanks for the answers, guys, and congrats again on an excellent quarter
 and another great year even as the macro is getting more difficult.
 
@@ -551,10 +525,7 @@ Mike Zaremski, Credit Suisse.
 
 FINAL
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Thanks. I guess I was -- first on capital. Is there an element -- can you tell us how much
 money is at the holding company, or is that an element you think that's material?
 
@@ -567,10 +538,7 @@ deployments among the various balance sheets of the company or through share
 repurchase. Then in addition to that, we have a revolving credit facility of $250 million that
 we can draw on if need be.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Got it. And as a follow-up to one of Greg's questions on capital as well, so the $300
 million redemption at DaVinci, is that a use of capital? Is that how we should think about it?
 
@@ -581,10 +549,7 @@ No. It's actually -- so we get an infusion of that to the holding company from t
 standpoint that it comes out of DaVinci and goes to the parent. But given that we only
 own 26.5% of it, the vast majority of that is the dividend to the third-party shareholders.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 I guess, as a further clarification then, if I'm looking at net income for the year, subtracting
 out share repurchases or the use of capital, subtracting out the dividend, I shouldn't be
 subtracting out that $300 million.
@@ -592,10 +557,7 @@ subtracting out that $300 million.
 A - Kevin O'Donnell
 No.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay. Thank you. I guess, lastly, on the topline guidance for cat, I believe in 2013 you guys
 increased your quota share transactions. What do you guys think about that for 2014?
 Could that potentially be a wildcard? Thanks.
@@ -621,19 +583,13 @@ determine whether that's going to be an appropriate product for them, but we cer
 have capacity to write it. We have the tools to understand the risks that we are taking. But
 it's too early to be definitive as to whether there will be opportunities or not.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Thank you.
 
 Operator
 Amit Kumar, Macquarie Capital.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Two quick I guess follow-up questions. First of all, on the discussion on pricing, if I sort of
 ex out the reserve releases and Essent gain, you're sort of looking at a midteens ROE.
 And I'm sort of wondering. At what point do the returns on the catastrophe business
@@ -652,10 +608,7 @@ between weighted balance sheets or permanent third-party capitals or temporary
 vehicles as to how we would structure traditional retro as well. It's more of a continuum
 but I don't see a bright line that we are either in or out of the market.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 I guess what I was trying to ask was you mentioned and it was still meeting your hurdle
 rate, and it was sort of hard to put a range on what sort of earn hurdle return on rate
 might be.
@@ -667,10 +620,7 @@ looking for is different between fee capital and risk capital, but I wouldn't th
 something that I would focus in on as being of binary point or a single point of having
 interest or no interest in a market.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Page 12 of 22
 
 
@@ -692,60 +642,38 @@ specifically is something that is accretive to what we are already doing, so I d
 it as a trade against the risk capital that we've deployed. It's augmenting the footprint that
 we have in the market by adding a product that we wouldn't otherwise sell.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Okay. And I guess, finally, did you mention the holding company capital? I think Mike was
 asking that question? The number you gave, was that the holding company level?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Mike asked the question of how much cash and how much cash we have available at the
 holding company. And I said approximately $700 million with an additional $250 million
 that's accessible via a revolving credit facility. It's not necessarily the same as an excess
 capital figure.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
+Q - Amit Kumar {BIO 15025799 <GO>}
 
 Bloomberg Transcript
 
 Right. And is at $700 million sort of an unencumbered number?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Yes. That's cash and securities --
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Short-term securities, solid holdings.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Perfect. Okay. That's all I have. Thanks for the answers.
 
 Operator
 Josh Stirling, Bernstein Research.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
+Q - Josh Stirling {BIO 17463087 <GO>}
 
 Page 13 of 22
 
@@ -795,10 +723,7 @@ believe our Singapore office will not be a meaningful contributor in the near te
 over the long-term, it's imperative that we are in the region and will continue to find
 opportunities and build relationships there.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 That's helpful color Kevin. Thank you. I wonder if I could just talk a little bit shorter-term
 about the coming year. So the renewal at 1-1 was bad. How should we be thinking about
 how this bodes for renewals as we work our way here through the year? And I guess if
@@ -843,19 +768,13 @@ there's some reason to be optimistic about that but, again, our change in guidan
 reflects that. So I think there's uncertainty as to what it is, but I look forward but leasing a
 healthy market that we are going into in Florida.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 Okay. Great. Thanks Kevin. Good luck guys.
 
 Operator
 Mike Nannizzi, Goldman Sachs.
 
-Q - Mike Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Mike Nannizzi {BIO 15198493 <GO>}
 Hi. Thanks. I guess a question in terms of the specialty Lloyd's business. How should we
 think about the margins that you're going to target there? And how does a mix change
 towards those areas potentially away from property cat impact your target ROEs and
@@ -874,9 +793,7 @@ Date: 2014-02-05
 So let me explain the way we think about it and then we'll talk about how it will represent
 itself on the financials.
 
-Q - Mike Nannizzi
-
-{BIO 15198493 <GO>}
+Q - Mike Nannizzi {BIO 15198493 <GO>}
 
 FINAL
 
@@ -898,10 +815,7 @@ portfolios.
 
 Bloomberg Transcript
 
-Q - Mike Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Mike Nannizzi {BIO 15198493 <GO>}
 So what kind of profitability do you need to see in specialty lines for that to be -- it makes
 sense, the math makes sense. But is that market allowing you to see kind of increasingly
 positive opportunities to invest just on a standalone basis, or is it more because of the
@@ -921,10 +835,7 @@ can quickly become unacceptable from a standalone return basis and we would not 
 them. So we continue to be very focused on standalone within the marginal -- sorry, within
 the specialty lines.
 
-Q - Mike Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Mike Nannizzi {BIO 15198493 <GO>}
 Got it. Do you expect others -- I knew you can't speak for others, but we've seen this sort
 of math of diversification into specialty could make sense for others that are looking to
 Page 16 of 22
@@ -953,10 +864,7 @@ but I feel like even though ceding commissions are going up, there's a bit of an
 primary fundamentals. So the business is still good, but we need to watch it closely. If it
 does move to negative standalone returns, we would come off business in that area.
 
-Q - Mike Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Mike Nannizzi {BIO 15198493 <GO>}
 Great. Thanks for your answers, Kevin. Appreciate it.
 
 Operator
@@ -965,19 +873,13 @@ Bloomberg Transcript
 
 Josh Shanker, Deutsche Bank.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 All of my questions have been answered. Thank you.
 
 Operator
 Jay Cohen, Bank of America Merrill Lynch.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Yes. Thanks. A couple of questions. First is, on the cat guidance, that is obviously a gross
 number. Given your ceding of business in 2014 or expected sessions of business, is it fair
 to expect the net premiums written to be down more than 15%?
@@ -1000,9 +902,7 @@ Date: 2014-02-05
 tools to determine whether it's accretive to the portfolio. We think that's the biggest area
 of uncertainty within our net writings year-over-year.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
+Q - Jay Cohen {BIO 1498813 <GO>}
 
 FINAL
 
@@ -1011,17 +911,12 @@ Just tough to say at this point, then.
 A - Kevin O'Donnell
 Yes.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Okay. Second question was related to the operational expenses, which were higher than
 they had been running. I'm assuming that was bonus accruals because you guys made a
 lot of money this quarter and this year.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
+A - Jeff Kelly {BIO 20911735 <GO>}
 
 Bloomberg Transcript
 
@@ -1032,29 +927,20 @@ year is largely reflective of an increase in compensation accruals, and it also 
 donation we made to a local charity to commemorate the 20th anniversary of the
 company. Those two things account for almost all the difference.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Got it. Thank you.
 
 Operator
 Vinay Misquith, Evercore.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Good morning. The first question is on the specialty rate, I just wanted to dig further. What
 are the targeted combined ratios in that line? Are they mid-80s%?
 
 A - Kevin O'Donnell
 In the specialty -- I think
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Yes.
 
 A - Kevin O'Donnell
@@ -1073,20 +959,14 @@ that is the risk that we are taking and might carry through.
 
 FINAL
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay, helpful. Second question is on excess capital. Sort of looking at my math, you
 bought back just 40% of earnings plus dividends this year. I'm curious as to what held you
 back, number one. Number two is I think you mentioned $700 million of capital at the
 holding company. How much cash do you normally keep there? So how much is it running
 in excess of normal that you could use to buy back stock?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Yes, so the $700 million number that I discussed is probably a couple hundred million
 dollars, $100 million to $200 million, higher than normal and is I think reflective of really the
 strength we've had in earnings in the last several months of the year.
@@ -1107,10 +987,7 @@ where the price of the stock is, we think it's an attractive level to buy shares
 been buying shares pretty aggressively, and I would expect that would be -- if all those
 things continue to hold, that would be our intent going forward.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay, that's helpful. Just one clarification on margins sort of deteriorating next year versus
 this year. Would it be fair to assume that your purchase of retro would have reduced the
 negative margin deterioration impact on RenaissanceRe?
@@ -1119,10 +996,7 @@ A - Kevin O'Donnell
 So I think what you're asking is are we getting a positive spread on our ceded to our
 inwards business?
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Yes.
 
 A - Kevin O'Donnell
@@ -1142,19 +1016,13 @@ are willing to deploy into the market so that we are purchasing from -- on a tra
 we are certainly looking to have a cheaper cost of capital brought our balance sheet, and
 therefore improve the overall attractiveness of our portfolio.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. Thank you.
 
 Operator
 Brian Meredith, UBS.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 I've got one quick one and then one follow-up here for (inaudible). Tower Hill I noticed had
 a pretty good income in the Fourth Quarter. They generally lose money or earn a very
 small profit. Did something unusual happen there?
@@ -1167,25 +1035,16 @@ No. I think it's -- Tower Hill has been an investment we've had for several year
 performed pretty well, so I'm not sure what exactly the number is that we are looking at
 there.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Just looking at your equity and earnings of other ventures and specifically Tower Hill. I
 could follow up on this. It's not that important.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 The only other factor that would increase our earnings there, Brian, is the amortization of
 goodwill there is going as reasonably rapid in that, so even in a static earnings
 environment, our earnings in that should go up over time.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Then my second question, Kevin, just a follow-up to Jay's question, on the ceded
 side, when do you make your purchasing decisions on that? Is it later and that's why you
 don't know necessarily whether you've got any attractive retro opportunities at 1-1?
@@ -1208,9 +1067,7 @@ Date: 2014-02-05
 that we opportunistically look for in the market, and add to the portfolio only when it's
 accretive.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 
 FINAL
 
@@ -1219,10 +1076,7 @@ Great, thank you.
 Operator
 Sarah Dewitt, Barclays.
 
-Q - Sarah Dewitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah Dewitt {BIO 18946247 <GO>}
 Hi. Good morning. You've mentioned that the pace of price decline is slowing, but it hasn't
 reached a floor yet. How much lower do you see the floor versus current levels?
 
@@ -1243,20 +1097,14 @@ market. So I'm not particularly concerned that we are going to hit a pricing poi
 we're going to need to exit and we don't have a specific forecast as to what that could be
 for others.
 
-Q - Sarah Dewitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah Dewitt {BIO 18946247 <GO>}
 Okay. Great. Thanks. Then just another question on excess capital and potential share
 buyback. I look back historically, the most you've ever bought back is $500 million a year.
 Given that you have a significant excess capital position right now and your premiums are
 going to be down for this year, any reason why we shouldn't expect a similar amount in
 2014?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 We don't like to forecast what we might do over the course of an entire year, but by my
 description of the liquidity position we have at holdings. And I certainly don't see that we
 are bounded by that number or any other number for that matter. We have already
@@ -1272,10 +1120,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2014-02-05
 
-Q - Sarah Dewitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah Dewitt {BIO 18946247 <GO>}
 Okay. Great. Thanks for the answers.
 
 Operator

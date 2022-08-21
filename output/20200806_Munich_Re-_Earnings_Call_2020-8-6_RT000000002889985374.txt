@@ -32,10 +32,7 @@ Conference Call. Today's conference is being recorded.
 At this time, I would like to turn the conference over to Mr.Becker-Hussong. Please go
 ahead.
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you, Elaine. Hello. Good afternoon or rather good morning to everyone, a warm
 welcome to our Q2 earnings call. Hope you are all well and healthy.
 Our CEO, Joachim Wenning; and our CFO, Christoph Jurecka will kick it off with a short
@@ -51,9 +48,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2020-08-06
 
-Joachim Wenning
-
-{BIO 16273429 <GO>}
+Joachim Wenning {BIO 16273429 <GO>}
 
 FINAL
 
@@ -134,10 +129,7 @@ you know since 2018. And you can see that we are currently ranking number two wi
 return of close to 50%.
 With this introduction, I'd like to hand over to Christoph.
 
-Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+Christoph Jurecka {BIO 17223019 <GO>}
 Thank you, Joachim. Good afternoon, and good morning also for my side. As usual, I will
 not go through the presentation slide by slide. But just highlight some aspects of our
 numbers in my introductory remarks. As said by Joachim already, our number -- Q2
@@ -302,10 +294,7 @@ EUR54 billion now for this year.
 With that, I'd like to close my introductory remarks. I'm looking forward to answering your
 questions, and now hand it back to Christian.
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 Yes. Thank you. Before handing it back to Elaine, in order to kick off the Q&A, just my usual
 housekeeping remark. Please restrict yourself to maximum two questions per person,
 please. And now we are looking forward to answering your questions. Thank you.
@@ -327,10 +316,7 @@ FINAL
 Thank you. (Operator Instructions) We will take our first question from Vikram Gandhi from
 Societe Generale.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hi. Good afternoon, everybody. It's Vik from Soc Gen. I hope everybody can hear me all
 right. Just two questions from my side. Firstly, can you break down the EUR1.4 billion worth
 of COVID claims and the P&C really across the four major lines contingency, BI, credit
@@ -351,10 +337,7 @@ incorporate these impacts on the correlation and volatility of various asset cla
 investment side or the answer is that simply we have to live with these knowns, and
 there's not a lot that we can do about it? Thank you.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Okay. Vik, thank you for the question.
 With respect to the breakdown, what we can say is that contingency continues to be the
 biggest share. Then we see, of course, business interruption having a relevant share and
@@ -394,15 +377,10 @@ are still in the middle of that event. It's still ongoing. The pandemic is not o
 unlike other topics, where we have to pay claims like hurricanes, this is something which
 may last a very, very long time. And so, it's still early to draw conclusions.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Thank you.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 
 Bloomberg Transcript
 
@@ -411,10 +389,7 @@ Okay, next question please.
 Operator
 We will take our next question from Andrew Ritchie from Autonomous.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi there. I think it's a question for Joachim to start with. You encouraged us to normalize
 the first half to say that you are on track for the EUR2.8 billion. I mean I get if you add back
 the COVID losses, that's the case, but there was some tailwinds to your result as well. So,
@@ -440,9 +415,7 @@ Date: 2020-08-06
 was the language you used, as one of the reasons why you didn't sort of do any forward
 thinking on COVID. Maybe if you'd just clarify what you meant by that.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
+A - Joachim Wenning {BIO 16273429 <GO>}
 
 FINAL
 
@@ -475,10 +448,7 @@ a strain. And we will have to understand how much longer-term COVID-19 economic
 impact is indirectly then impacting the primary and the reinsurance business, which,
 frankly, today we couldn't qualify.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 And the -- on-top reserves, yes, that's indeed something we have not been talking about
 a lot recently. What we generally do is on top of what Solvency II is proposing to do, so
 bottom-up calculation of the reserves you're setting, we have bulk top-down provisions,
@@ -500,27 +470,19 @@ Date: 2020-08-06
 So, we -- for certain risk scenarios, we have these on-top provisions in life and health, but
 also in P&C.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 
 FINAL
 
 Okay, thanks.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thanks Andrew. Next question please.
 
 Operator
 We will now move to our next question from Jonny Urwin from UBS.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi guys. Good afternoon. Thanks for taking my question. So, a quick one -- so just two; so,
 firstly, how are you thinking about the growth and margin trade-off from here? And so, are
 you looking for increased growth at 97% combined in P&C Re, which you know is a good
@@ -533,10 +495,7 @@ guess it's that you're very comfortable with the position. It gives you the ammu
 kind of weather a downside scenario and still enable growth on the other side. Yes, I
 suspect the answer to that is yes, but would love to hear your thoughts. Thank you.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Jonny, this is Joachim. Good afternoon.
 So, building on the 97% combined ratio, which we have reported on normalized for all the
 other effects, I don't want to come up with a new commitment for combined ratio,
@@ -562,9 +521,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2020-08-06
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
+A - Christoph Jurecka {BIO 17223019 <GO>}
 
 FINAL
 
@@ -575,16 +532,10 @@ indeed, we feel very comfortable that we are able to cope with any downside. We 
 able to finance the growth and also, we will stick to our capital management strategy as
 already also highlighted by Joachim.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thank you.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you, Jonny. Next question please.
 
 Operator
@@ -592,10 +543,7 @@ We will take our next question from Paris Hadjiantonis from Exane BNP.
 
 Bloomberg Transcript
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Yes, hi everyone from my side as well. I hope you're doing well. Couple of questions from
 me as well; so on the life re side, I'm just thinking about the potential further impact in the
 second half of the year. I mean can you help us with the framework of how exactly you will
@@ -609,10 +557,7 @@ ratio. But at times, that can be suboptimal for your ROE targets. So, in the cur
 environment, where you actually see quite a lot of growth, do you consider raising hybrid
 capital to essentially fund this growth?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yes. Thank you, Paris, for your questions. First of all, yes, life re, going forward, obviously,
 the development will follow the development of the pandemic. We see a pretty
 consistent pattern in our claims when you follow the path of the pandemic in the media.
@@ -649,15 +594,10 @@ would never rule out that hybrid debt would be something, which would be of any 
 us. But it really depends on the situation and what the targets are. Again, just to increase
 the payout, that doesn't make sense. Growth financing, yes, indeed, it does.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Thank you.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 
 Bloomberg Transcript
 
@@ -666,10 +606,7 @@ Paris, thanks for your contribution. So, now for the next question please.
 Operator
 We will take our next question from Vinit Malhotra from Mediobanca.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes, good afternoon everybody. Thank you very much. If I can ask one on the COVID and
 one on P&C and one on life, please. So, just on life re, Christoph, I noted that you've
 commented that there is -- there are some good claims in Europe and Asia. And I'm a bit
@@ -693,9 +630,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2020-08-06
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
+A - Joachim Wenning {BIO 16273429 <GO>}
 
 FINAL
 
@@ -710,9 +645,7 @@ as you all know. And if you look then into the mortalities and how age structure
 COVID fatalities and how that compares to the issuer portfolio, then that matches most in
 the U.S. with the higher insured ages. That's the main reason.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
+A - Christoph Jurecka {BIO 17223019 <GO>}
 
 Bloomberg Transcript
 
@@ -727,33 +660,22 @@ the exposures are maybe not as similar as they are in the cat area. So, market s
 might deviate in contingency, in BI in various different lines. So, I think it's not always
 completely straightforward to compare everything.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you, Vinit.
 
 Operator
 We will take our --
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 And next question please. Thank you.
 
 Operator
 Edward Morris from JPMorgan.
 
-Q - Edward Morris
-
-{BIO 16274236 <GO>}
+Q - Edward Morris {BIO 16274236 <GO>}
 Page 13 of 22
 
 
@@ -786,10 +708,7 @@ optimal range. Thank you.
 
 Bloomberg Transcript
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yes. Maybe I'll start with the second question, because it's a follow-up to the one -- last
 one before. We are saying we are not keen to finance the buyback by issuing hybrid. I
 think we would even like to do that; it's just not possible. So, it's really the restrictions we
@@ -822,9 +741,7 @@ Date: 2020-08-06
 that our impression is still that the wordings are tight outside of what we would call
 affirmative BI where I think the coverage is pretty clear.
 
-Q - Edward Morris
-
-{BIO 16274236 <GO>}
+Q - Edward Morris {BIO 16274236 <GO>}
 
 FINAL
 
@@ -833,10 +750,7 @@ Okay, thank you.
 Operator
 We will take our next question from Kamran Hossain from RBC.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Two questions for me. The first one is just on pricing. You -- yes, Joachim, your comments
 at the beginning on reinsurance pricing were -- for Munich Re, though, it's surprisingly
 positive. Now I know you're kind of super cautious on these things over the years, but you
@@ -853,10 +767,7 @@ seeing any changes in the cyber book? What's the loss experience being like in t
 half in cyber? Have IBNR just kind of gone up there as well as we potentially find out those
 being all hacks, et cetera, ransomware attacks in the first half ? Thank you.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 So, I will take the first one. Good afternoon, Kamran.
 So, with regard to pricing, why is our talk now pretty confident with regard to it? It has
 been the -- very clearly, it has been the highest rate change and rate increase since many,
@@ -881,18 +792,12 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2020-08-06
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 That's clear. Thank you.
 
 FINAL
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Cyber; well, the -- we are full of a key opinion that the cyber market globally will continue
 to grow in a very, very, very fast way. So, assumption goes up to maybe a EUR20 billion
 cyber market in some years from now. And obviously, our strategy is to participate in that
@@ -907,40 +812,26 @@ growth with a variety of entities toward our group in primary as well as in rein
 having a global market share around 9%, 10% or something, and we got ourselves as a
 clear number one player in this area and globally.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 
 Bloomberg Transcript
 
 Christoph, can I just check? So, in terms of first half, there's nothing really to note in on
 claims experience on the cyber; there's no kind of change there.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 No, no change.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Okay, thanks.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you, Kamran. Next question please.
 
 Operator
 We will now take the next question from Ivan Bokhmat from Barclays.
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 Hi, good afternoon. Thank you very much. I've got a couple of questions, please. The first
 one, on solvency and peak peril risk. You have indicated that you've increased the capital
 allocation to nat cat risk over the past six months. So just wondering if you could help put
@@ -962,10 +853,7 @@ mean, premium growth versus VA and other factors? Thank you.
 
 FINAL
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yes, sure. Now the nat cat growth, first of all, a couple of these analyses you're asking for,
 we're doing them more on an annual basis, and we are in the midst of that quote at that
 point in time. Therefore, I cannot give you exact figures. In the current year, the 8% is
@@ -1022,24 +910,16 @@ process regularly to review the scenarios and the really unprecedented volatilit
 Q1 led to the effect that these scenarios are also more conservative now again, because
 we immediately reflect that.
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 Thanks.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you.
 
 Operator
 We will now move to our next question from Michael Haid from Commerzbank.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
+Q - Michael Haid {BIO 1971310 <GO>}
 
 Bloomberg Transcript
 
@@ -1053,10 +933,7 @@ both in the first quarter and in the second quarter, mostly at ERGO. Can you giv
 update to what extent these hedging instruments are still in place? And what are your
 thoughts about them going forward.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yes. Michael, thank you for the question. I'm very happy to answer them. Lower frequency,
 I mean, basically, if you look at our -- especially ERGO International numbers, you will see
 some countries, where the combined ratio is particularly low and lower frequency due to
@@ -1102,25 +979,16 @@ have in life and health specifically, which are asymmetric, as you know. And the
 your liability structure much better by the way you do -- you handle your assets if you have
 also this asymmetric pattern in your assets. And that's how we do it basically.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Thank you very much.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you, Michael. Next question please.
 
 Operator
 We will take our next question from Thomas Fossard from HSBC.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes, good afternoon. One of the question related to the current low interest rate
 environment. The reinvestment yield is -- new money yield was at 1.6%. Just wanted to
 know if you could split that out between reinsurance or maybe the new money rates
@@ -1141,10 +1009,7 @@ Date: 2020-08-06
 
 FINAL
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Sure. Yes. I mean first of all, the 1.6% is, of course, heavily affected by the lower U.S. dollar
 interest rate we're having. We did invest in some investment-grade corporate bonds in
 that quarter, selling some German-covered bonds to finance that. Given that also the
@@ -1173,19 +1038,13 @@ a little bit more. But we are -- we think next year, we're going to catch up, an
 maybe 10, 20 basis points again as a yearly negative attrition. And I think that's the way to
 look at it.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Thank you.
 
 Operator
 We will take our next question from Paris Hadjiantonis from Exane BNP.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Yes. I have a couple of follow-ups. When I look at your risk-adjusted prices year-to-date, I
 think you are just below 2%. Is there a reason we shouldn't be factoring in over time a 2%
 improvement in your combined ratio? So, are there any offsetting factors for your
@@ -1206,10 +1065,7 @@ comments you've made to media earlier today, that might be helpful.
 
 FINAL
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yes, sure. First of all, the price change over the year, according to our calculation, across
 the three renewals would be around 1.8% or something. So, pretty close to the 2% you're
 mentioning. We always have been emphasizing in the past already that we are talking
@@ -1237,19 +1093,13 @@ into any further detail here. Maybe a mid-double-digit number is the best estima
 again, it's extremely early, and the only thing we know is that we will be affected in some
 way.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you, Paris.
 
 Operator
 We will now take our next question from Vikram Gandhi from Societe Generale.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hi, thank you for the opportunity again. I've got two follow-up questions. Firstly, I think you
 flagged in the past that the U.S. E&S market was an area, where you have an inclination to
 grow. Given the very strong pricing momentum on the primary commercial side, I
@@ -1265,9 +1115,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2020-08-06
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
+A - Christoph Jurecka {BIO 17223019 <GO>}
 
 FINAL
 
@@ -1279,19 +1127,14 @@ the way how we conduct that business.
 On mortgage, I can only say it's not really material from a group perspective. It's not a
 material activity we're having.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Thank you.
 
 Operator
 It appears this was the last question. Mr.Becker-Hussong, I'd like to turn the conference
 back to you for any additional or closing remarks.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 
 Bloomberg Transcript
 

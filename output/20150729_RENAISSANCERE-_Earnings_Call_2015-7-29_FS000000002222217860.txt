@@ -32,10 +32,7 @@ Results Conference Call. All lines have been placed on mute to prevent any backg
 noise. After the speakers' remarks, there will be a question-and-answer session.
 Thank you. I'll now turn the call over to Peter Hill. Please go ahead, sir.
 
-Peter Hill
-
-{BIO 15385944 <GO>}
-
+Peter Hill {BIO 15385944 <GO>}
 Good morning and thank you for joining our second quarter 2015 financial results
 conference call. Yesterday, after the market closed, we issued our quarterly release. If you
 didn't get a copy, please call me at 212-521-4800 and we'll make sure to provide you with
@@ -102,9 +99,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2015-07-29
 
-Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
+Jeffrey D. Kelly {BIO 1390834 <GO>}
 
 Bloomberg Transcript
 
@@ -386,10 +381,7 @@ Operator
 Your first question comes from the line of Michael Nannizzi with Goldman Sachs. Your line
 is open.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Sure. Thanks. Just quick numbers question. The expense ratio in the Specialty segment
 look like it was down a decent amount compared to the first quarter. Was there
 something in there or how should we be looking at that on a year-to-date basis or can you
@@ -397,17 +389,11 @@ just give me some context on that, please? Thanks.
 
 Bloomberg Transcript
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Yeah. Sure, Mike. I think the answer to that question is largely the operating leverage in
 the business and applying more premium to the overhead in that segment.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Sure. But the acquisition expenses were also lower. So, I mean, there's the kind of split
 between the two, so I am guessing those are more sort of variable? So just to give you
 some numbers, $21.8 million in the first quarter on acquisition down to $18.2 million, I mean
@@ -415,16 +401,10 @@ that was running about $24 million last year for the full year. So I'm just tryi
 understand kind of what happened actually to have an impact on the consolidated
 numbers? I can come back to that if that's – or if you think you guys can answer it later.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Yeah. Let me have a look at the data.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Yeah. Okay. No problem. And then, I wanted to just ask about the buybacks. I mean is the
 idea that – because it seemed like the areas where you're growing maybe shouldn't be
 incrementally capital intensive from a diversification standpoint. Is there an operational
@@ -441,10 +421,7 @@ Date: 2015-07-29
 
 FINAL
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Yeah. Thanks for the question. I anticipate there might be more than one in that regard. I'd
 say, admittedly, we probably perhaps took a conservative approach as we went through
 the close of the Platinum acquisition. But, recall, we did deploy about $600 million of cash
@@ -467,20 +444,14 @@ done. And I think now we're in a good position to move forward.
 
 Bloomberg Transcript
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 All right. Great. Thanks for the answer. I guess and then just one question on – I mean, you
 didn't have any reported cats that met your threshold, but sounds like you had some loss
 activity. Is this like a normal cat quarter, like weather quarter or heavy weather quarter,
 light weather quarter? Like if you're kind of taking it all in one bucket, how does this
 quarter stack up for you guys?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 I would characterize that from a cat perspective as a little higher than normal. And there
 were principally two things that – two buckets of things that kind of pushed that beyond
 the norm. The first was some windstorms and hailstorms in Texas. There were a number
@@ -493,10 +464,7 @@ with the frequency of them, I think, that it's kind of hard to determine losses,
 event – and there's some movement there. But that wasn't a big number. But, overall, I'd
 describe it as just a little bit higher than normal.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay.
 
 Page 9 of 23
@@ -518,10 +486,7 @@ normal coverage. We have seen some expansion of terms coming through on programs
 but we've been disciplined in looking at those and making sure that we understand the
 extensions of coverage and price for it.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay. I guess, I'm just trying to figure out like 9% ROE this quarter – I mean is that how we
 should be thinking about now as our first quarter of Platinum in numbers? Just sort of
 given the opportunities you're seeing, is this kind of like of a normal-ish quarter and this is
@@ -555,10 +520,7 @@ capital sources and access to great business. And I think that we continue to fo
 great execution. We'll continue to provide superior returns. And as the market continues
 to evolve and things change, I think, we're at the exact right place to take advantage of it.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Great. Thank you so much for the answers, Kevin. I appreciate it.
 Page 10 of 23
 
@@ -577,46 +539,31 @@ Operator
 Your next question comes from the line of Josh Shanker with Deutsche Bank. Your line is
 open.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Thank you. Buyback question number two. So you seem to be standing in front of us
 saying, look, you feel that you have more capital than you need for your business. Can you
 give us any idea? Is it bigger than a bread box? Can we talk about in terms of scale what
 that might mean for shareholders to think about?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Yeah. Thanks, Josh. Yes, bigger than a bread box. It would be – we don't say – we don't
 identify specific numbers because that isn't how we think about it, but it's several hundred
 million dollars, I would say.
 
 Bloomberg Transcript
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Okay. That sounds very reasonable. And you did say that you deployed $600 million in
 cash by Platinum. Is there any frame of reference that you have for how much cash you
 got back? I mean, generally, we view Platinum or I view Platinum as an underutilized
 balance sheet. Is there a net cash deployed idea that we can think about?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Well, I would say we had some cash on the balance sheet, $100 million, $150 million, after
 the Platinum deal closed. But we are – let's say, we have at least as much cash at the
 holding company as we did now prior to the Platinum acquisition.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Okay. And then one final question in this same sort of area. In terms of thinking about
 ASRs versus open market, you guys have been very much wanting to buy your stock as
 cheaply as possible, which prefers open market. But given what might be your ambitions
@@ -624,10 +571,7 @@ to do buybacks, are you worried about any constraints on the amount of shares av
 in the market to manage what you might have in mind, depending on the hurricane
 season's outcome?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 No. I don't think we've – I mean there are sometimes seasonally when volumes are lower
 than we like. But I would say, over time, we have not had any significant issue around
 acquiring the amount of shares we'd like to get in the open market. And, again, I'd just
@@ -641,15 +585,10 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2015-07-29
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 You've never been shy about it. Thank you and good luck in the back half of the year.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 
 FINAL
 
@@ -659,9 +598,7 @@ Operator
 Your next question comes from the line of Josh Stirling with Sanford Bernstein. Your line is
 open.
 
-Q - Josh Clayton Stirling
-
-{BIO 17463087 <GO>}
+Q - Josh Clayton Stirling {BIO 17463087 <GO>}
 
 Bloomberg Transcript
 
@@ -719,10 +656,7 @@ So, I feel that there is a secular shift where the market is maturing and becomi
 competitive. That's something we all have to deal with. But we've positioned ourselves as
 best we can to make sure that we optimize on opportunities as they emerge.
 
-Q - Josh Clayton Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Clayton Stirling {BIO 17463087 <GO>}
 Well, that's helpful, Kevin. Then the gross to net comment sound very much like the old
 RenRe. So, we'll look forward to that developing. I am interested though a little tactically,
 just as a follow-up, on -
@@ -732,10 +666,7 @@ Sure.
 
 Bloomberg Transcript
 
-Q - Josh Clayton Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Clayton Stirling {BIO 17463087 <GO>}
 Obviously casualty and specialty pricing and some of the commentary from like Lloyd's
 and brokers is not that constructive on pricing, more meaningful price declines than we've
 seen in other parts of the business. I'm curious to see, one, if that's sort of consistent with
@@ -774,10 +705,7 @@ efficient to run that business. But, by adding ceded, we're still relieving some
 pressure that's been resonate in the market and improving net returns to us on a gross –
 on a standalone basis and a marginal basis within our portfolios.
 
-Q - Josh Clayton Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Clayton Stirling {BIO 17463087 <GO>}
 Okay. That sounds great. Thanks, Kevin. Good luck for summer.
 
 A - Kevin J. O'Donnell
@@ -786,9 +714,7 @@ Thanks, appreciate it.
 Operator
 Your next question comes from the line of Seth Canetto with KBW. Please go ahead.
 
-Q - Seth J. Canetto
-
-{BIO 20249864 <GO>}
+Q - Seth J. Canetto {BIO 20249864 <GO>}
 
 Bloomberg Transcript
 
@@ -813,10 +739,7 @@ less convinced that it will have a material impact on the way people are thinkin
 structuring their programs or thinking about the risk that they have. But that's something
 that – it will take some time to figure out whether people adopt it or not.
 
-Q - Seth J. Canetto
-
-{BIO 20249864 <GO>}
-
+Q - Seth J. Canetto {BIO 20249864 <GO>}
 Okay. Great. That's it. Thanks.
 
 A - Kevin J. O'Donnell
@@ -834,10 +757,7 @@ Your next question comes from the line of Kai Pan with Morgan Stanley. Your line
 
 FINAL
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Good morning. Thank you. Just adding question number three to buyback. Just basically
 your decision now to renew the retro coverage in Florida, would that impact your ability or
 like basically you said in the past you normally like slowing down during the peak of the
@@ -848,10 +768,7 @@ that would like slow your buyback during the hurricane season.
 A - Kevin J. O'Donnell
 Slow our what back? I'm sorry I missed.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Buybacks.
 
 A - Kevin J. O'Donnell
@@ -894,20 +811,14 @@ our decisions as to how we behave with buybacks going into this wind season.
 
 FINAL
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 The only thing I would add to Kevin's comments is where ceded purchase does or does
 not come in is in our assessment of how much excess capital we have. So, excess capital –
 our assessment of excess capital is the raw material for buybacks. That does incorporate
 ceded. And as I said earlier, I think we come into this at this point with very healthy level of
 capital flexibility.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you for the details. Then follow-up on Lloyd's. So, it looks like you have pretty
 healthy growth over there. And so do you think you're at a level – at a scale that – in terms
 of an operating expense ratio in the low 20%s – is that where you want to be or there is
@@ -924,10 +835,7 @@ Lloyd's market. But the infrastructure that we have can continue to add premium 
 proportional increase in expense for that premium. So we do have more scope to
 increase the size of Lloyd's and further improve the expense ratio there.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. Lastly, on the Platinum, you had – this quarter you had $33 million reserve releases.
 How much of that coming from Platinum? More generally, just now you have a quarter
 after integration of Platinum. Do you see like different reserving philosophy on the owned
@@ -944,10 +852,7 @@ reserve release and a legacy RenRe reserve release. We're going to look at it as
 combined entity going forward, both underwriting side and on the claims and reserve
 side.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Great. Thank you so much. And good luck with the hurricane season.
 
 Page 16 of 23
@@ -967,25 +872,16 @@ FINAL
 
 Your next question comes from the line of Sarah DeWitt with JPMorgan. Your line is open.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Hi. Good morning.
 
 A - Kevin J. O'Donnell
 Good morning.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Good morning.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Given some of the secular shifts that you've talked about, do you think your acquisition of
 Platinum is enough? Or could you look to do some more acquisitions to position the
 company for this new world?
@@ -1023,9 +919,7 @@ Date: 2015-07-29
 to our customers. And as long as we continue to do that, I don't anticipate that the size
 dialogue that's been in the market is really going to include someone like Renaissance.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 
 FINAL
 
@@ -1045,9 +939,7 @@ actually, I feel pretty good about all the things that we're doing and don't spe
 time wishing for the world to be different. I just focus on executing in the world that we
 have.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 
 Bloomberg Transcript
 
@@ -1057,31 +949,19 @@ Operator
 Your next question comes from the line of Jay Cohen with Bank of America Merrill Lynch.
 Please go ahead.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Yeah. Just I guess a request. I'm not sure if it's possible. From a modeling standpoint, it
 would be helpful to have sort of historical pro formas to put the Platinum premiums into
 the segments – the RenRe segment – so we can project it more easily. Is that something
 that you guys could do?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Jay, it's not something that we're planning on doing now.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Okay.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 As Kevin indicated, we're operating as one company. And at this point, we're renewing
 lines on balance sheet, some of which were Platinum balance sheet. We're renewing
 
@@ -1098,18 +978,12 @@ book today.
 
 FINAL
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Yeah. I'm just saying taking their little business and just dividing it into your different
 segments; Specialty, Cat, specifically, but we can talk more about that later. That was
 really the only question. The other questions are answered. So, thanks for the call.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Thanks, Jay.
 
 A - Kevin J. O'Donnell
@@ -1118,10 +992,7 @@ Thanks, Jay.
 Operator
 Your next question comes from the line of Ryan Byrnes with Janney. Your line is open.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 I'm all set as well. So, thank you.
 
 Bloomberg Transcript
@@ -1129,10 +1000,7 @@ Bloomberg Transcript
 Operator
 Your next question comes from the line of Ian Gutterman with Balyasny. Your line is open.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Hi. Thank you. First, Jeff, I had a question on the balance sheet. I was a little confused by
 the invested asset movement in the quarter. It looked like it went up about $600 million
 sequential. I'm assuming since Platinum should have been on the books at March 31, that
@@ -1147,10 +1015,7 @@ So, the other part of it is – so, I guess, this equates to two questions. One,
 invested assets up so much? And two, why is the investment income lower than what it
 looked like pro forma should be?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Let me take the second question first, Ian. I think the answer to the second question is
 that we continue to reallocate the Platinum portfolio from a structure that we acquired to
 Page 19 of 23
@@ -1174,25 +1039,16 @@ though, I think, about 1.5% yield and we anticipated we could push that up maybe
 points. And I think we're still on track to do that to match our own yield on our investment
 portfolio. So we expect that will be the case.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Got it. Okay.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Hang on just a sec. On the invested – on the – well, let me come back to you on the
 increase in the balance sheet, Ian.
 
 Bloomberg Transcript
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Okay. Yeah. Why don't I move on to Kevin then? Kevin, I guess, two quick questions. One, I
 was a little surprised that the managed cat GPW was flattish. I guess I would've thought
 that given all the – I mean I'm guessing obviously on how much premium there was on the
@@ -1208,20 +1064,14 @@ cost of doing anything else. We had ample room to write that as well as our exis
 We chose not to write some of our existing lines simply because we thought the pricing
 was inadequate for the risk.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Okay. Got it. Okay. I mean it just looks like if I took out my guess on that, you would have
 had a very healthy double-digit decline in managed cat?
 
 A - Kevin J. O'Donnell
 I think it's difficult to extract one deal and then assume nothing else changes.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Page 20 of 23
 
 
@@ -1262,10 +1112,7 @@ the Northeast winter storms because the snow accumulated over several events, bu
 accumulated on top of the previous storms. And then many of the losses that have come
 in have come in from ice dams, which makes the allocation back to the original -
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Okay.
 
 A - Kevin J. O'Donnell
@@ -1273,10 +1120,7 @@ Difficult. That's not a soft market phenomenon. That's something that hard or so
 experience. But other than that, I wouldn't point to anything at least in our book of
 business that is other than what I would consider normal cat activity.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Okay. So you don't feel like you're attaching at least significantly lower to regional storms
 than you do have historically?
 
@@ -1292,10 +1136,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2015-07-29
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Okay.
 
 A - Kevin J. O'Donnell
@@ -1305,24 +1146,15 @@ FINAL
 And what I can say is we're not surprised by the losses coming in, because we
 inadvertently expanded cover without knowing it.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 No, of course, of course. Okay. Just double checking, again, that's really from the industry
 level. But – okay. Jeff, do you have an answer on the balance sheet or should we follow-up
 later.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Let's just follow-up later on that one. Okay.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Okay. Perfect. Okay. Thanks.
 
 Operator
@@ -1331,10 +1163,7 @@ Bloomberg Transcript
 
 Your next question comes from the line of Seth Canetto with KBW. Your line is open.
 
-Q - Seth J. Canetto
-
-{BIO 20249864 <GO>}
-
+Q - Seth J. Canetto {BIO 20249864 <GO>}
 Hi. I just had one follow-up question. You guys mentioned that you still believe the Jan 1
 renewal season will be difficult due to the current competitive market conditions. But
 given the distraction other companies have with all of the M&A occurring in the industry,
@@ -1370,10 +1199,7 @@ to improve ratings and to provide better platforms for people to trade with. And
 that that will – on the casualty and specialty, in particular, we'll find great opportunities as
 the market continues to have uncertainty.
 
-Q - Seth J. Canetto
-
-{BIO 20249864 <GO>}
-
+Q - Seth J. Canetto {BIO 20249864 <GO>}
 Great. Thanks a lot. Good luck going forward.
 
 A - Kevin J. O'Donnell

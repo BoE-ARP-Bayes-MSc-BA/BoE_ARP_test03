@@ -24,10 +24,7 @@ Presentation
 
 Bloomberg Transcript
 
-Rodney Cook
-
-{BIO 14008420 <GO>}
-
+Rodney Cook {BIO 14008420 <GO>}
 Good morning, everyone. I'm Rodney Cook, CEO of Just Group PLC. I'm joined this
 morning by David Richardson, our Deputy CEO and the Interim CFO. I'd like to thank
 Nomura for the use of their conference facilities and welcome all of you joining us today
@@ -173,10 +170,7 @@ FINAL
 So I'd like to now pass over to David, so that he can take you through all of the numbers in
 detail before I come back to conclude.
 
-David Richardson
-
-{BIO 18045016 <GO>}
-
+David Richardson {BIO 18045016 <GO>}
 Great. Thanks. Okay. Good. First of all, thank you, Rodney, and good morning, everybody.
 And I'll now take you through the IFRS results and then onto a discussion on policy
 statement 31/18, before going through the Solvency II balance sheet. So let's start with the
@@ -509,10 +503,7 @@ FINAL
 
 And with that, I'll hand back to Rodney for his concluding remarks.
 
-Rodney Cook
-
-{BIO 14008420 <GO>}
-
+Rodney Cook {BIO 14008420 <GO>}
 Thanks, David. Let's look to the future outlook of the business. Let me say just for the
 avoidance of doubt that we are committed to achieving capital self-sufficiency, and
 discussions with shareholders indicate that, that is an important element. As a
@@ -673,25 +664,16 @@ you want to talk about that as well.
 
 FINAL
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 Well, you're obviously going to make David work hard. David, do you want to take top
 slicing? Just to be clear, we have given you a great deal of insight into how to run your
 models. So we're not going to do your models for you. So you can work out how the ratio
 will go down over the next three years, but David should answer top slicing.
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Yeah.
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 And also comment on EBT. Because clearly, the PRA's consultation isn't even out. Other
 companies haven't included an allowance. And of course, I think the most important thing
 is we do hope that the regulator will take note of the input from the Institute of Actuaries
@@ -700,10 +682,7 @@ consultation. But can you pick up on that one and top slicing?
 
 Bloomberg Transcript
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Yeah. So I'll do top slicing, and that's quite straightforward. It's been a very small part of
 new business sales, Greig, for a while now. And we still do some reasonable volumes as
 medically underwritten business in the DB space. But increasingly, it's our DB Choice
@@ -723,10 +702,7 @@ There are some outliers out there saying there should be higher capital requirem
 we'll engage very constructively with the regulator once that consultation comes out. But
 from our perspective, that's -- you just can't call it at this stage, it would be speculative.
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 Oliver Steel, Deutsche Bank. First, can you give us some guidance on the cost overruns in
 the roll forward of your Solvency II figure? And secondly, I actually think Greig's question
 on the Solvency II outlook is quite a reasonable question. You're raising almost half your
@@ -746,10 +722,7 @@ sort of target range or solvency you're targeting? And secondly, in order to kee
 that range, how do you see the outlook for new business volumes, not just in 2019, but
 also in 2020 and 2021?
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 Right, will you -- I'll do the second part, if you'd like. So just to repeat, so we're saying in
 terms of your models, think of the business level from the second half of last year, so
 maybe GBP2 billion and growing from there. We will base our -- we intend to husband [ph]
@@ -786,9 +759,7 @@ bonds. You can see that in our accounts, and we're well above the coverage. So I
 that's as good as I can give you in terms of how that will trend down, it clearly will. And
 David, importantly, costs.
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
+A - David Richardson {BIO 18045016 <GO>}
 Page 14 of 22
 
 
@@ -812,9 +783,7 @@ that revised base, I think you should assume there will be a degree of expense o
 for the next, say, couple of years, 1 to 2 years. But it should not be a significant component
 of your roll forward really, really beyond that.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 Bloomberg Transcript
 
@@ -835,10 +804,7 @@ of paying a dividend at the moment, given that it feels like in three years' tim
 kind of close to 130%, 140% solvency ratio. So I know it's a token dividend, I mean, 1% -1.5% be -- dividend yield would be 1%. That's not material, but what's the rationale behind
 doing that? Thank you.
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 So I'll do the dividend one first because obviously spoken to a large number of investors
 this week prior to the launch of the placement. So the sum -- all investors want us to
 husband this capital very carefully, and the breakeven self-sufficiency is important to them.
@@ -878,10 +844,7 @@ part? And then if we can go to Gordon after.
 
 Bloomberg Transcript
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Yes. So just to round out what Rodney was saying there. So absolutely, you're thinking
 about it in the right terms, in terms of the in-force surplus, you take the net 125 million and
 grow it at about 15%. But then in terms of working out the new business strain might look
@@ -893,16 +856,10 @@ chance to go through our financials, you see the increase by about 4% from the y
 kind of interest rate sensitivity going on there, so that reflects the growth of the balance
 sheet.
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 Hi, Gordon?
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Thanks. Gordon Aitken from RBC. Three questions please. First, reinsurance was an
 option. David, you mentioned it. What happened there? Why wasn't it chosen? And
 economic capital ratio of 256%, it just begs the question why you didn't use a reinsurer
@@ -934,9 +891,7 @@ year early and one year before you're required to do so? And this sounds like be
 overly prudent. And prudence in an insurance company is great, but prudence when it
 causes you to issue equity is not so great. Thanks.
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
+A - Rodney Cook {BIO 14008420 <GO>}
 
 Bloomberg Transcript
 
@@ -955,10 +910,7 @@ your mind and those of investors that our declared profits are more sustainable,
 we've been asked those questions. David, can you tackle the 256% and the CMI very
 quickly? Because I'd like to give Barry a chance and maybe Andrew if we have time.
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Okay. So on the longevity, we did a comprehensive review across frankly all our retirement
 income business and all our LTMs. So it wasn't a simple X month change. And a really
 important thing to bear in mind in our business is that whilst overall mortality improvement
@@ -1007,10 +959,7 @@ requirements on LTMs being so onerous is that risk transfer solutions around the
 risk itself may now look more attractive. And so that's an area that we will -- we are
 looking and will continue to look at.
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 Just an important comment on models. There are many models as the Institute talked
 about. We can operate, given time, on any model that is put to us. We have a real
 portfolio of real customers. What we announced at the interims was if we applied the
@@ -1024,16 +973,10 @@ Obviously, we know that they will read carefully the Institute's input, and we h
 for that.
 Barry, a quick question rather than three and then to Andrew please.
 
-Q - Barrie Cornes
-
-{BIO 2389115 <GO>}
-
+Q - Barrie Cornes {BIO 2389115 <GO>}
 How about two then?
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 Okay.
 Page 18 of 22
 
@@ -1043,9 +986,7 @@ Company N ame: Just Group PL C
 Company Ticker: JUST L N Equity
 Date: 2019-03-14
 
-Q - Barrie Cornes
-
-{BIO 2389115 <GO>}
+Q - Barrie Cornes {BIO 2389115 <GO>}
 
 FINAL
 
@@ -1056,10 +997,7 @@ be (multiple speakers)? And second one, just wondered -- going into all this pro
 wondered if the Board maybe took a view on strategic options ahead of going into the
 capital raising again. So any comments on that please?
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 Well, let me do the strategic options. Of course, I met with 50 investors after the interims.
 And a number of them said, is your company for sale? We are listed on the stock market.
 Of course, our company is for sale. The important thing that we undertook from that point
@@ -1073,10 +1011,7 @@ the negative hedging...
 
 Bloomberg Transcript
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Yeah, just very quickly. So what we've seen out there, Barrie, is there is a demand -- an
 ability, a desire to provide long-term economic risk transfer on NNEG risk. Long term -and I'm not talking about over a couple of years but over 20, 30 years plus. And what
 we're working through at the moment is can we find the right type of solution which gets - that's Solvency II compliant, higher yield -- or not just get the economic risk transfer. But
@@ -1084,29 +1019,20 @@ you'll also get the benefit in your Solvency II calculations and make sure, for 
 it all works in the context of this new effective value test. So that works in an ongoing
 (multiple speakers)
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 Because, Barry, as you know you have to convert the mortgages in a group into notes
 before it flows through into your Solvency II balance sheets. So we're delighted that there
 is parties interested in, we were at the forefront, we believe, in this sort of innovation.
 Andrew, I think this will have to be our last question. (inaudible), sorry about that.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Okay. It's Andrew Crean with Autonomous. Could you just say based on IFRS and on
 Solvency II if we get flat property markets this year, what would be the impact on those
 two things? And secondly, you talked about the growth in the BPA market. From what I
 understand, quite a lot of that growth was on big-ticket stuff, above the GBP250 million.
 What is this -- what is the growth prospects of your part of the BPA market?
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 Page 19 of 22
 
 
@@ -1117,25 +1043,17 @@ Date: 2019-03-14
 
 Right.
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
+A - David Richardson {BIO 18045016 <GO>}
 
 FINAL
 
 Yeah. So we are still -- on the latter question, we are still seeing a strong growth in our
 target segment.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Is it the same as in the bigger market?
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 We don't have full visibility on the big market because we don't play there. But the big
 market's clearly lumpier, yeah? So if a GBP4 billion transaction comes along, that could
 make the difference to the growth rate in that market quite significantly. But we're seeing
@@ -1143,30 +1061,19 @@ very strong growth drivers, very healthy flow of transactions because pension sc
 are improving their funding levels all the time. They're going further along that derisking
 journey, yeah.
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 Right. And movements in property prices.
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
+A - David Richardson {BIO 18045016 <GO>}
 
 Bloomberg Transcript
 
 So...
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 And could you cover our experience in the last half of last year?
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Yes. So within the GBP256 million of in-force surplus that we show in the Solvency II
 waterfall, that bakes in our assumed rate of property growth, okay, which will now be
 3.8%. So you get a positive surplus by achieving that. If you have flat growth, then you
@@ -1176,15 +1083,10 @@ that we had a GBP49 million variance from what was, from memory, just shy of a 2
 variance. So it was a pretty -- it was a slight negative, so just below flat. So it would be -broadly speaking, that 256% will be reduced by, I don't know, high double digits, maybe
 around 100 million.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 But in the second half of last year...
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
+A - David Richardson {BIO 18045016 <GO>}
 
 Page 20 of 22
 
@@ -1197,19 +1099,14 @@ Date: 2019-03-14
 Second half of last year was in line with our assumptions, those negligible property
 variance on both on IFRS and the Solvency II (multiple speakers)
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
+Q - Andrew Crean {BIO 16513202 <GO>}
 
 FINAL
 
 And the next question was the difference between the IFRS and the Solvency II. Is there
 difference for that flat property market versus 3.8%?
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 So absolutely, yeah, because there is just less -- you're holding a lot more margin. We've
 also published our IFRS sensitivities today, so you'll be able to contrast those versus the
 Solvency II -- to see the relative sensitivity.
@@ -1220,44 +1117,30 @@ Just one very quick. Am I correct, were you saying you could -- sorry about that
 Were you saying that on the lifetime mortgages that customers will now be able to pay
 interest rather than it ratcheting up on the LTV?
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
+A - Rodney Cook {BIO 14008420 <GO>}
 
 Bloomberg Transcript
 
 So we've launched this suite of intraservice, and we've expanded our portfolio, so that
 people can pay interest. David, it -- I mean, it applies to business written from now?
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Yes.
 
 Q - Unidentified Participant
 Yes. And what I can go out on all products?
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Yes...
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 For all in new option -- on owned new, new sales...
 
 Q - Unidentified Participant
 And will that -- does that materially change the dial in terms of how much capital you have
 to hold against the product?
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 Absolutely. Because if you service the interest, it might be 5%.
 Page 21 of 22
 
@@ -1272,10 +1155,7 @@ Yeah.
 
 FINAL
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 And we give preferential. If you're servicing the interest, the interest rate is slightly lower.
 And if you're not servicing, so there is all sorts of incentives. Then the loan doesn't
 increase at all, and you've lent someone 30% on a GBP30,000 or a GBP100,000. So of
@@ -1285,10 +1165,7 @@ Q - Unidentified Participant
 Would those -- does that mean, you'd be prepared to lend higher LTV against that
 product by virtue of the fact that paying annually?
 
-A - Rodney Cook
-
-{BIO 14008420 <GO>}
-
+A - Rodney Cook {BIO 14008420 <GO>}
 Slightly. Then to be absolutely clear, the customers in this market are ones that have got
 income. So for example, government employees, DB pensioners, they can't borrow
 money. But they've got income, and they can definitely service. And we can regard a DB

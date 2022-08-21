@@ -24,10 +24,7 @@ Good day and welcome to the CNP Assurances Annual Results Conference Call. Today
 conference is being recorded. At this time, I would like to turn the conference over to
 Antoine Lissowski. Please go ahead.
 
-Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+Antoine Lissowski {BIO 4384399 <GO>}
 Thank you. Good afternoon to everybody. I'm glad to present to you the 2015 results of
 CNP Assurances. I propose you to start to go through the slide show by page ﬁve, which
 outlines the main ﬁgures which we published with this year's premium income staying at
@@ -417,10 +414,7 @@ Operator
 We will now take our ﬁrst question from Michael Huttner from JPMorgan. Please go
 ahead.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Fantastic. Thank you so much. I wanted to ask on the Solvency ratio, the 192%. And can
 you explain – or can you – not explain – it's a wrong word, but kind of – it jumped from
 Page 8 of 17
@@ -437,10 +431,7 @@ it. Thank you.
 
 FINAL
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 It's another way to ask a question we had already had. In fact, the improvement of this
 ratio is attributable to diﬀerent factors. We have issued a diﬀerent subordinated debt. We
 have result, additional result in the company. We have PPE, which was increased. We have
@@ -462,37 +453,22 @@ Aside to that, consider that the internal elements of ﬂexibility on the SCR si
 eligible capital side of the company are suﬃcient to consider that the average around the
 level where we stay is suﬃcient.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 That's brilliant. And can you maybe just say something about the sensitivity, which I think
 some of your competitors give on the – to the ultimate forward rate, if we assume it might
 be lower?
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 To UFR you mean?
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Yes, please.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Well, if there was a decrease of 100 basis points, meaning that UFR staying 3.2% rather
 than 4.2%, it would result in an 8 point decrease in our coverage ratio.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Fair enough. Thank you very much.
 
 Page 9 of 17
@@ -503,9 +479,7 @@ Company Name: CNP Assurances
 Company Ticker: CNP FP Equity
 Date: 2016-02-17
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
+A - Antoine Lissowski {BIO 4384399 <GO>}
 
 FINAL
 
@@ -514,10 +488,7 @@ the duration of our liabilities is not so long, when we are clearly – we are n
 the same situation of some companies which were looking (44:24) very harshly on this
 UFR issue.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Of course. Yes. Brilliant. Thank you. That's really helpful. Thank you very much.
 
 Operator
@@ -539,10 +510,7 @@ right to assume that all outstanding sub-debt, except for the latest 4.5%, 30 no
 the new product placements are not Solvency II compliant in their own right, but fall
 under the grandfathering regime?
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Oh, we are compliant with the regime, clearly. Those which we had at the end of the year
 were grandfathered. I don't see at once how to make a reconciliation. You mentioned I am
 looking around myself, but clearly, we take the question of these reconciliation, and we
@@ -570,10 +538,7 @@ The next question comes from Ralph Hebgen from KBW. Please go ahead.
 
 FINAL
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Hi, guys. Ralph Hebgen from KBW. Just a few things and I'm going back to the Solvency II
 ratio, I'm afraid. Would you be able to disclose what the magnitude of a positive uplift was
 which you got from hedging? Then staying with the hedging, at what point in the year did
@@ -583,9 +548,7 @@ I'm afraid, I noticed that the experience variances in the MCEV were positive an
 high indeed at about €610 million. It would be interesting to know what drove that
 decline. Thank you.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
+A - Antoine Lissowski {BIO 4384399 <GO>}
 
 Bloomberg Transcript
 
@@ -602,10 +565,7 @@ by the customers' portfolios.
 Regarding the question of MCEV. Could you, Ralph, reformulate and shout because
 Thomas Béhar doesn't listen you very well?
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Of course. I noticed that in the MCEV disclosure this year, there were positive experience
 variances of a total of €600 million. Now – normally, I wouldn't actually focus on this sort
 of stuﬀ, but it is – ﬁrst point is it's positive. And second, it's about 3 times the run rate of
@@ -616,10 +576,7 @@ A - Thomas Béhar
 One year before, we hadn't forecast to add so much PPE in the balance account and
 that's a result of it.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Sorry. What you're saying is the fact that the PPE went...
 
 A - Thomas Béhar
@@ -634,18 +591,13 @@ Date: 2016-02-17
 One part is in PPE and the other part all reimbursement of the balance sheet. For
 example, (50:23) that we added to the balance sheet during the year.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 
 FINAL
 
 Okay. Thank you very much.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Ralph, and everybody, for instance, the one ﬁgure which we disclosed this morning with
 the French analysts which you have to bear in mind, when you consider the years 2014
 and 2015, we had to provision the eﬀect of low interest rates in our balance sheet. It's
@@ -654,10 +606,7 @@ it is, of course, explaining – it is a way to protect our balance sheet to red
 also to improve the MCEV. Then all these diﬀerent eﬀects come from diﬀerent part of the
 balance sheet and at diﬀerent levels of income ratio – of income returns (51:26).
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay. That's very helpful. Thank you very much.
 
 Operator
@@ -665,37 +614,25 @@ The next question comes from Avinash Singh from Nomura. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Avinash Singh
-
-{BIO 20134511 <GO>}
-
+Q - Avinash Singh {BIO 20134511 <GO>}
 Yeah. Hi. Two questions please. First one, can you please provide some color on the
 dynamics of French saving markets, and how are you placed versus the mutual fund
 players in 2016? And secondly, can you provide that, if at all, some impact of this Brazilian
 sovereign downgrade on your Solvency II ratio? Thank you.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Well, very slight eﬀect of downgrade in Brazil. When you consider the solvency ratio, you
 have two eﬀects. One eﬀect on the eligible capital and another eﬀect on the SCR. And as
 a whole, the net eﬀect of that is very, very secondary, very slight. Could you repeat your
 ﬁrst question?
 
-Q - Avinash Singh
-
-{BIO 20134511 <GO>}
-
+Q - Avinash Singh {BIO 20134511 <GO>}
 Yes. First question was on this current dynamics of French savings market. I mean, for
 certain products, the mutual fund players are also competing with you. So how do you
 see, I mean, yourself positioned in the French savings market in 2016 versus the mutual
 fund players?
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Okay. It's completely well. Where we operate in insurance, usually, there is relatively
 diﬀerent tax regime in terms of life products to mutual funds, then you are not really
 competition. And on addition, people who detain life insurance contract can have mutual
@@ -715,19 +652,13 @@ prefer the very low risk level of traditional within a contract. All that with u
 regime of life insurance which is much more eﬃcient program than mutual funds direct
 tax regime.
 
-Q - Avinash Singh
-
-{BIO 20134511 <GO>}
-
+Q - Avinash Singh {BIO 20134511 <GO>}
 Okay.
 
 Operator
 The next question comes from Michael Huttner from JPMorgan. Please go ahead.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Hello. I'm sorry, and thanks for this opportunity. You mentioned, I think, slide 30 or 32,
 that as the portfolio BPCE will shrink over time, this will reduce required capital in terms of
 solvency. And I just wondered, if you could give a ﬁgure to that. It's not slide 32, it's slide
@@ -739,10 +670,7 @@ And then, the other question is, so the new target growth in EBIT of 5% per annu
 you give a feel for is this a stretched target and also where would you expect the growth
 to come from mainly? Thank you.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 On the ﬁrst aspect, well, we have integrated in the calculation of our diﬀerent ratios and
 so on, the impact of the agreement with BPCE. But in fact, that will be very slow because –
 very progressive because if you consider not only the premiums but the outstanding
@@ -753,22 +681,14 @@ the reform. And the reform will be completed only at the end of 2016. And after,
 still have the part of the business in – not the new business but added money (55:54) in
 the existing contracts and so and so. Then, the eﬀect on that will be really very, very slow.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Okay.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Yes. Regarding the 5%, well, everything is supposed to be relative and we expect the
 diﬀerent areas to bring results. There is no speciﬁc beneﬁciary of (56:27).
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 
 Page 13 of 17
 
@@ -783,10 +703,7 @@ achieve?
 
 FINAL
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 No progress is never easy to achieve. But we say we are very (56:44) to be able, in the
 current environment, to achieve it. Of course, even with (56:52) something in the
 economic and ﬁnancial environment new shocks comparable to 2008 shock, of course,
@@ -795,17 +712,12 @@ the economies, with interest rates being at normal level, at slightly higher val
 at a level which we could expect when we made this forecast at the end of the year, it will
 be just a result of our strategy to post this result.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 And on that, if I may, could you – we – here in London, everybody – or we – I don't know if
 everybody, but we worry about the higher corporate bond spreads. So the market seems
 to imply there may be a risk of default. How do you see that? And how could it aﬀect you?
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
+A - Antoine Lissowski {BIO 4384399 <GO>}
 
 Bloomberg Transcript
 
@@ -820,19 +732,13 @@ have, the largest seems to be (58:45) where we have €18 million or something l
 which is not so great. But even if there was a default, which would be clearly an event in
 the market of (58:59), it would be of a very low eﬀect on CNP Assurances.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Thank you.
 
 Operator
 The next question comes from Ralph Hebgen from KBW. Please go ahead.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Hi. Thank you for taking my question again. It's going back to the EBIT growth targets.
 Just looking at EBIT growth over the last few years since 2011, I mean, it always depends
 on where you start the clock, of course, but over the last few years there, it was basically
@@ -855,10 +761,7 @@ just like to understand precisely what these dynamics describe.
 
 FINAL
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Okay. Regarding the 5% growth, having – you must have in mind that the two last years
 were hampered by very important provisions due to the decrease of interest rates. There
 were – I already mentioned this ﬁgure – more than €300 million in France. Then, at the
@@ -892,17 +795,12 @@ basis of current level of cost. For doing the same things, we will pay €60 mil
 of course, we will also invest to do that (01:03:56). And we do not precise the net cost we
 will have in three years.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 That's clear. I think you mentioned that this will require some investment upfront or
 restructuring cost, whichever word you want to put on that, would you be able to disclose
 what your estimate is on that?
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Page 15 of 17
 
 
@@ -915,9 +813,7 @@ Well, most of these investments are already in our budget, and they are included
 budget. And if there are supplementary investments, they will be disclosed when the
 accounts of the company (1:04:40) these investments will come to the market.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 
 FINAL
 
@@ -926,10 +822,7 @@ Okay. Great. Thank you.
 Operator
 There is one question from Michael Huttner from JPMorgan. Please go ahead.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 I promise it's the last one, but it's – you've been so helpful. I appreciate it. It's just on the
 net inﬂow ﬁgures. So, €2.2 billion which is great in unit-linked, €200 million in traditional,
 except for the (1:05:18) traditional was negative at nine months. I think €700 million is now
@@ -941,10 +834,7 @@ guidance, but just to see how you're shaping your products or marketing.
 
 Bloomberg Transcript
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Michael, please, it is already diﬃcult to explain the existing activities and the business of
 2015. Don't ask me to extrapolate on 2016. It is the strategy of the group to encourage
 unit-linked and discourage the traditional business. And we operate the strategy, notably
@@ -955,19 +845,13 @@ have also diﬀerent actions to the networks in terms of commissions paid to the
 unit-linked. But, of course, it depends on the eﬀorts made on both sides, and now the ball
 is in the playground of our networks.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 That's helpful. Thank you. Thank you very much.
 
 Operator
 And the next question comes from Avinash Singh from Nomura. Please go ahead.
 
-Q - Avinash Singh
-
-{BIO 20134511 <GO>}
-
+Q - Avinash Singh {BIO 20134511 <GO>}
 Hi. This is on your Italian joint venture with UniCredit. If I remember correctly, your
 distribution agreement is coming up for renewal next year, I mean, 2017. So what's your
 view? You also, I guess, have a put option, so, you may, I mean, exit out of the joint
@@ -982,28 +866,20 @@ Date: 2016-02-17
 venture. So how do you assess at the moment – I mean, are you looking to renew a
 distribution contract or you would prefer to just, I mean, walk out of it?
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
+A - Antoine Lissowski {BIO 4384399 <GO>}
 
 FINAL
 
 Well, you raised the fact that it is diﬃcult for me to say what we will do in 2016, what more
 in 2017. And in terms of relation with a partner, we have clearly no disclosure. I'm sorry.
 
-Q - Avinash Singh
-
-{BIO 20134511 <GO>}
-
+Q - Avinash Singh {BIO 20134511 <GO>}
 Okay.
 
 Operator
 There are no further questions in the queue.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Okay. Thank you very much, everybody, and see some of you tomorrow. Bye-bye.
 
 Operator

@@ -74,10 +74,7 @@ synergies over time.
 On the next slide, our CFO, Paul Norton, will provide you with more details on the structure of the
 acquisition, the financing structure and the financial implications.
 
-Paul Norton
-
-{BIO 16145125 <GO>}
-
+Paul Norton {BIO 16145125 <GO>}
 Thank you, Philipp. Good morning also from my side. Caser is owned by a group of shareholders,
 most of whom are banks with distribution agreements with Caser. Helvetia has reached an
 agreement with a group of these shareholders on the sale of their share packages. Helvetia would
@@ -178,10 +175,7 @@ Bloomberg Transcript
 We will now begin the question-and-answer session. (Operator Instructions) The first question
 comes from the line of Peter Eliot from Kepler Cheuvreux. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you very much. I'll try and limit myself to three questions initially. The first one was on
 earnings. I mean, I guess, given your comments, you can't give us a better indication of the
 underlying IFRS earnings, but I was wondering if you can give us any idea or quantification of the
@@ -201,10 +195,7 @@ the number of shares and all that, but we are not planning as of today to have a
 our dividend payout ratio, as we used to comment on that during the last years. So instantly, there
 is no change in dividend policy. Now, for the other two questions, I would like to hand over to Paul.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Maybe I can just add to the dividend policy. As you know, we have a new strategy period coming
 up and we will update our dividend policy as part of the strategy. As you know, we also have
 strategic gear increase in dividends and with the Nationale Suisse transaction, we increased
@@ -241,10 +232,7 @@ Bloomberg Transcript
 Operator
 Your next question comes from the line of Jonny Urwin from UBS. Please go ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi, guys. Good morning. Thanks for taking my questions. Well done for getting this over the line. It
 looks like it was quite competitive. I guess, from our perspective, as Peter touched on, it is just
 quite difficult to get a feel for the financials. You've helped us with the one-off, but just
@@ -260,10 +248,7 @@ you more kind of powder future M&A going forward? Thank you.
 A - Philipp Gmur
 Okay. Johnny. Thanks. I would like to hand over for answering the two questions to Paul.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 I understand your needs to get more direction on the earnings and EPS. I really at this stage, would
 not like to give you anything there. I mean the EPS will be very mildly accretive at the moment, it's
 not -- we don't foresee a huge EPS accretion. But given the differences, and we're also dealing
@@ -283,10 +268,7 @@ for a couple of years. It's about making us resilient and ensuring that we have 
 enables us to keep growing without any problems while we integrate the company. So that's why
 we didn't want to do that out of the existing funding.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 That's great. Thank you.
 
 A - Philipp Gmur
@@ -307,10 +289,7 @@ costs will be on the hybrids that you will issue? Thank you.
 A - Philipp Gmur
 Thank you, Simon. Paul?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Yes. I mean, I have to look at the return on equity ratios. We think it actually will be not much
 different. Actually, it will be probably slightly positive given the two thirds funding is on hybrid and
 not in equity. So it should be slightly positive on that. The hybrid cost we estimate to be under 3%.
@@ -319,10 +298,7 @@ It's pretty good at the moment. And what was your third question, Simon.
 Q - Simon Fossmeier
 On the life guarantees.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Yes. There are guarantees. It is a traditional book, it is relatively small, we think -- actually due to
 the acquisition accounting for it and so on, but we think we can manage that book of business and
 make sure that it's more than adequately reserved. So we don't have a problem with that.
@@ -333,10 +309,7 @@ All right. Thanks a lot.
 Operator
 The next question is a follow up from Peter Eliot from Kepler Cheuvreux. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you very much. Apologies if I missed this, but I was just wondering if your major shareholder
 has said anything about whether it will sort of take its share of the extra shares? That was first
 question. I am maybe out of luck with the other two, but you've given the -- you have said you'll
@@ -359,9 +332,7 @@ on whether they are positive or not and whether they are helping us increasing t
 However, so far, they also -- they always we're supporting Helvetia's strategy and we are pretty
 confident that they would do so also with this transaction. Paul?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 Bloomberg Transcript
 
@@ -382,10 +353,7 @@ Great. Thank you.
 Operator
 The next question is from Rene Locher from MainFirst. Please go ahead.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Yes. Good morning, everybody. So I am referring to Slide 57, the half year results, where we can
 see these net economic dividend capacity and you have explained that it's going to be used for
 dividends or growth purposes. So I was wondering why you have not touched a little bit of this
@@ -397,10 +365,7 @@ what is the thinking behind it? Thank you very much.
 A - Philipp Gmur
 Thanks Rene. I hand over to Paul.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 I'm glad somebody is now reading our NEDC disclosures. That's good. The NEDC is only one part
 of the equation, Rene. You're right, it is there partly for dividends and partly for growth, because
 you also have to look at the solvency, the SST, and the two are indicative, but not directly. So you
@@ -418,29 +383,18 @@ earlier, we will have a new strategy period coming in, but then we will explain 
 dividend policy. So at the moment, we'll leave it as it is and you'll get more information later on
 that. So what was the other one?
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 The equity financing. The CHF270 million.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Is that the right pocket or left pocket. I'm not quite sure what you meant by that, are you
 suggesting that we're taking it out of NEDC to --
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 No. I mean, you could out scrap the one year's dividend and with that you could have financed the
 equity of the deal.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 Bloomberg Transcript
 
@@ -448,62 +402,37 @@ Yeah. But I mean don't forget that -- I said that's part of the connection betwe
 solvency and the S&P rating. You can't make that simple connection. Also don't think you'll be too
 happy if we scrap the year's dividend.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 That's right.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 We can of course pay a dividend and we think the ongoing capital structure is really important to
 maintain that balance. Always have to keep the resilience going forward.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 No. That's fine. And can I just on this page or Slide 57, you show a hybrid capital of CHF1.5 billion. So
 that means you know everything equal, you just add like CHF500 million to this CHF1.5 billion, so
 hybrid is going up to CHF2 billion and you have a leverage of roughly 35%?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Roughly, yeah.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Okay.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 We paid back CHF150 million of senior debt.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 That's right.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 
 
 Last year.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
+Q - Rene Locher {BIO 1921075 <GO>}
 
 FINAL
 

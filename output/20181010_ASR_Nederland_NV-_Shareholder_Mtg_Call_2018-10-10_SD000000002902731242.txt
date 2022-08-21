@@ -113,10 +113,7 @@ FINAL
 With that said, ladies and gentlemen, I know that the speakers are eager and ready to
 present their story. I hope you are ready. Let's go. Jos?
 
-Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
-
+Jos P. M. Baeten {BIO 2036695 <GO>}
 Thank you very much, Michel. Ladies and gentlemen, also from my side, welcome to our
 ﬁrst Capital Markets Day after our IPO in 2016. And today, hopefully, for all of you, we
 have a full and exciting program.
@@ -1117,9 +1114,7 @@ microphone. So everybody in the audience can hear. But also the viewers on the l
 webcast. Please state your name, your company name. (Operator Instructions)
 Yes? So I see Benoit already raising his hand. So...
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 
 Bloomberg Transcript
 
@@ -1147,10 +1142,7 @@ And at some point, we'll formally go over to a new model. But give you guys a hi
 an audit trail of capital relative to various capital numbers. So you'll get used to the ratios
 that are linked to that. And at some point, when we go over, it feels very natural.
 
-A - Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos P. M. Baeten {BIO 2036695 <GO>}
 And Benoit, to your second question. Actually, there is no relationship between the bank
 and our mortgage business. Yes. It is the same management team. But a balance sheet of
 the bank on which we decided that it will become noncore doesn't mean that we are not
@@ -1173,10 +1165,7 @@ FINAL
 
 Okay. Johnny Vo?
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 It's Johnny Vo from Goldman Sachs. Just the ﬁrst question, just in terms of gearing of
 assets to unrestricted Tier 1. I mean, if I just think about a.s.r. 11, you had about EUR 5
 billion of unrestricted Tier 1 in there, a little bit over EUR 5 billion of unrestricted Tier 1.
@@ -1231,10 +1220,7 @@ EUR 9 million in the full year and EUR 7 million in the half year. So I feel com
 we're not kind of -- we're not eating into ourself or promising returns that we can't make
 in the OCC number.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 It's Farooq Hanif from CrÃ©dit Suisse. Going to M&A, what you've done really successfully
 since IPO is using cash to buy things that probably a lot of us analysts didn't know existed
 and added portfolios and it was small and you were able to sort of digest it. Very, very
@@ -1247,10 +1233,7 @@ market is amenable, would you rather just use equity if it's really, really big?
 
 Bloomberg Transcript
 
-A - Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos P. M. Baeten {BIO 2036695 <GO>}
 Well Farooq, to your ﬁrst question, what is the preference, what we've tried to convene
 today is that our preference is and remains small; and medium-size bolt-on acquisitions.
 We're for sure we're good at it, we're able to integrate them in a very fast mode and I
@@ -1311,10 +1294,7 @@ Okay. Cor?
 
 Bloomberg Transcript
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Yes, Cor Kluis, ABN. Question on the partial internal model. Are you already doing
 something internally to work little bit on the internal model, especially as there might be
 some delay on IFRS 17? And in the past I think you've said, it's about -- it would take 1.5
@@ -1367,10 +1347,7 @@ wait and see. But there is the preparation work for the preparation phase is ong
 
 Bloomberg Transcript
 
-A - Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos P. M. Baeten {BIO 2036695 <GO>}
 And on your Generali question, Cor, the combined of the Generali book of Non-life
 business was 101.4 for the ﬁrst half 2018. What that a surprise? Not really. We -- during the
 due diligence, we already have seen what the quality of the book was. However, between
@@ -1392,20 +1369,14 @@ to get rid of parts of the business because we can't really reprice them, we wil
 A - Michel HÃ¼lters
 Okay. Claudia?
 
-Q - Claudia Gaspari
-
-{BIO 15148414 <GO>}
-
+Q - Claudia Gaspari {BIO 15148414 <GO>}
 Claudia Gaspari from Barclays. Just one question on the ﬁnancials criterias for M&A. You
 keep going back to this 12% ROI hurdle rate. But would you not require a higher ROI for a
 larger deal given the larger execution raise, potentially longer time to integrate, especially
 if it then comes also with a lot of debt on balance sheet. And how do you think about
 that?
 
-A - Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos P. M. Baeten {BIO 2036695 <GO>}
 I think, Claudia, that it is a very realistic view. What we always do -- the 12% is the minimum
 hurdle rate. And we take into account what are the operational risk, how long will it take.
 And you only can do that after you have done thorough due diligence on a certain M&A
@@ -1430,9 +1401,7 @@ A - Michel HÃ¼lters
 Maybe just on that topic, can you also comment on the governance that we have in place,
 where we are looking at consolidation?
 
-A - Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
+A - Jos P. M. Baeten {BIO 2036695 <GO>}
 
 Bloomberg Transcript
 
@@ -1453,10 +1422,7 @@ have said before we started.
 A - Michel HÃ¼lters
 Okay. In the back, Robin?
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Robin van den Broek from Mediobanca. First question is on the operating result for Life.
 EUR 633 million is your reference point. Think you printed EUR 340 million in H1 '18
 already. I appreciate that has public equity dividends in there elevating H1 versus H2. But
@@ -1507,10 +1473,7 @@ guidance that we put on the screen.
 
 Bloomberg Transcript
 
-A - Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos P. M. Baeten {BIO 2036695 <GO>}
 Okay. And on your second question, well, hopefully you understand, we cannot comment
 on individual cases on which we are or not working. But let me answer the question a bit
 more anecdotal. two years ago, when we identiﬁed potential companies that we would
@@ -1577,10 +1540,7 @@ diﬃcult. And I think that realization is now sinking in.
 A - Michel HÃ¼lters
 Okay. Matthias, in the back.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Matthias De Wit from Kempen. Only one question from me on the capital generation
 target for 2021 of EUR 430 million. I had a slightly higher number in mind considering that
 you are already at EUR 377 million for '17, excluding Generali. So at the growth you foresee
@@ -1636,10 +1596,7 @@ Bloomberg Transcript
 
 Okay. Any further questions? Yes. Steven?
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Steven Haywood from HSBC. Following up on the previous question about the Life
 business and the stable earnings outlook. You've mentioned a 45 to 55 basis points Life
 operating expense target. And is that coming down from 57 or 75? I just wanted to
@@ -1648,10 +1605,7 @@ conﬁrm that. And...
 A - H. C. Figee
 57.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 57. And how is this achieved and is this required, this improvement to maintain that stable
 Life earnings target? Then secondly, on the -- you already mentioned that 14% ROE is not
 an upper limit. With regards to the other targets, the EUR 0.55 payout ratio, the 94%
@@ -1673,10 +1627,7 @@ Date: 2018-10-10
 
 FINAL
 
-A - Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos P. M. Baeten {BIO 2036695 <GO>}
 And to your second question, I think target setting in itself, it's always fun to exceed
 targets. So if we announce a target, it's not that we, let's say, if we have reached the target
 in September that we send everybody home and start early holidays. So it's fun to try to
@@ -1700,19 +1651,13 @@ Okay. In the back, Jason?
 
 Bloomberg Transcript
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Jason Kalamboussis, KBC. The ﬁrst thing is on your targets. Do you ﬁnd that if you were to
 do a larger acquisition, you would try to stick to most of them? And the second thing is on
 the internal model, is it fair to assume that's about two years that you would need to
 develop?
 
-A - Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos P. M. Baeten {BIO 2036695 <GO>}
 On your ﬁrst question, all the targets are based on the a.s.r. as it is today. We didn't
 included yet any M&A in that. So if and when we would do large M&A, we at least have to
 reconsider what will be the eﬀects and it would be great to remain on those targets, for
@@ -1743,10 +1688,7 @@ Okay. Any further questions? Open for second round. Oh, you have. Yes?
 
 FINAL
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Steven Haywood from HSBC again. When you say safely above 160% Solvency II ratio,
 what do you mean by safely above there? How much scope downwards do you have
 there? Obviously, you've got plenty of debt headroom as well. If you take EUR 900
@@ -1771,10 +1713,7 @@ in that period. So -- but very conservative thinking, if you're 171% in three ye
 will still be above 160% barring any unforeseen circumstances. On DNB's question, what's
 DNB going to do? I think, you should ask them.
 
-A - Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos P. M. Baeten {BIO 2036695 <GO>}
 Maybe we can make 1 comment from that. The role of DNB is protecting policyholders.
 And what you would see in general, if they think a company is not viable going forward,
 the ﬁrst thing they tend to do is stop writing new business. That is, in general, a ﬁrst signal
@@ -1808,10 +1747,7 @@ Okay. Jason?
 
 FINAL
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Jason Kalamboussis, KBC. Just a quick follow-up on what was asked just on the -- are you
 -- how many companies are you aware of that are in that phase, where the -- there is
 pressure from the DNB to derisk, et cetera, et cetera, in the Individual Life where you're
@@ -1825,10 +1761,7 @@ and diﬃculties. But the honest answer is we don't know.
 A - Michel HÃ¼lters
 Okay. Yes, Darius?
 
-Q - Darius Satkauskas
-
-{BIO 19724328 <GO>}
-
+Q - Darius Satkauskas {BIO 19724328 <GO>}
 Darius Satkauskas with KBW. Within your 94%, 96% combined ratio target, what's your
 assumption for disability growth here, because it had decent combined ratios there?
 
@@ -1837,20 +1770,14 @@ Bloomberg Transcript
 A - H. C. Figee
 Sorry, what is...
 
-Q - Darius Satkauskas
-
-{BIO 19724328 <GO>}
-
+Q - Darius Satkauskas {BIO 19724328 <GO>}
 What's your assumption for disability growth within the combined ratio target of 94% to
 96%?
 
 A - H. C. Figee
 Disability growth? Or...
 
-Q - Darius Satkauskas
-
-{BIO 19724328 <GO>}
-
+Q - Darius Satkauskas {BIO 19724328 <GO>}
 Yes.
 
 A - H. C. Figee
@@ -2649,10 +2576,7 @@ There's already a couple of heads popping up already. Please state your name, yo
 company name and then -- we're ready for that. All right. Who's ﬁrst? I think Hadley was
 actually ﬁrst so...
 
-A - Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos P. M. Baeten {BIO 2036695 <GO>}
 Don't ﬁght.
 
 A - Michel HÃ¼lters
@@ -2660,10 +2584,7 @@ Then we have Farooq and then we have...
 
 Bloomberg Transcript
 
-Q - Hadley Cohen
-
-{BIO 18331131 <GO>}
-
+Q - Hadley Cohen {BIO 18331131 <GO>}
 It's Hadley Cohen from Deutsche Bank. A question for Michel, please. You're -- the 3% to
 5% growth guidance that you're -- or target that you're giving, how sustainable do you
 think that is? And I guess within that, what are you assuming your competitors are doing?
@@ -2719,10 +2640,7 @@ Okay. Farooq?
 
 Bloomberg Transcript
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Farooq Hanif from CrÃ©dit Suisse. What is it now about Individual Life that's making you
 interested? Is it just that you now have the platform? Is it litigation risk? IFRS 17? What is it?
 Why now? Because you didn't talk about it before, I would have thought you didn't always
@@ -2777,10 +2695,7 @@ Okay. I think Benoit is actually ﬁrst.
 
 Bloomberg Transcript
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Benoit Petrarque from Kepler Cheuvreux. A couple of questions on disability. There have
 been lot of complaints from self-employed that pricing is relatively high. I think a lot of
 self-employed in this country are actually not buying the products. At the same time, you
@@ -2839,10 +2754,7 @@ because it's our main goal. But it's hard in a shrinking to stable market.
 
 Bloomberg Transcript
 
-A - Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos P. M. Baeten {BIO 2036695 <GO>}
 To add on, on the discussion on the self-employed, as said there are currently roughly 1
 million self-employed. And there is a generic discussion on whether they are able to pay,
 to get disability insurance at a reasonable rate. But if you zoom in to this population,
@@ -2860,10 +2772,7 @@ them to help them to pay an aﬀordable premium going forward.
 A - Michel HÃ¼lters
 Okay. I think Johnny Vo was -- and then Farquhar.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 It's Johnny Vo from Goldman Sachs. Just the ﬁrst question, to Karin, just in relation to the
 product features and the fund rationalization that's happening, I mean what is the conduct
 risk there, that you're forcing policyholders eﬀectively to take a.s.r. funds? So that's the
@@ -2899,10 +2808,7 @@ rationalize and only migrate the books, then it's much harder to get the real be
 of it. And by having done it on 7 legacy books. And now 8 with the Generali with it, we
 have built up quite some insights.
 
-A - Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos P. M. Baeten {BIO 2036695 <GO>}
 And on the PE part of your question, Johnny, over the last 10 years, I think there is not one
 insurance company in the Netherlands that didn't have a conversation with PE, whether
 they were willing to sell their books to PE, like happened in the U.K. And until now none
@@ -2918,10 +2824,7 @@ Bloomberg Transcript
 
 Farquhar?
 
-Q - Farquhar Charles Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Charles Murray {BIO 15345435 <GO>}
 Farquhar Murray, Autonomous Research. Just 3 questions, just 2 on the Non-life side. Just
 on -- you mentioned on the broker channel, which is obviously where you're mainly
 focused, kind of loyalty. But I just wondered if you could give us some numbers around
@@ -2981,20 +2884,14 @@ any time. But we only do that when it brings value.
 A - Michel HÃ¼lters
 Okay.
 
-Q - Farquhar Charles Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Charles Murray {BIO 15345435 <GO>}
 Just a follow-up on that. I mean can you actually give us the numbers in terms of churn? (I
 understand) you're giving us 2x versus 1. But can you actually give us the level?
 
 A - M. H. Verwoest
 I have to seek for it and then we will...
 
-Q - Farquhar Charles Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Charles Murray {BIO 15345435 <GO>}
 And how's the trend in that been? As you say the intermediaries themselves are changing.
 But is that having any change in terms of churn behavior that you've seen in recent years?
 
@@ -3359,9 +3256,7 @@ architecture agile and nimble.
 I want to thank you for your attention. I would give the ﬂoor to Jack Julicher. He's going to
 talk about asset management.
 
-A - Jack Julicher
-
-{BIO 5943222 <GO>}
+A - Jack Julicher {BIO 5943222 <GO>}
 
 Bloomberg Transcript
 
@@ -3582,9 +3477,7 @@ changing pension landscape and in the changing pension market.
 Thank you. That concludes my presentation. And I want to give the ﬂoor to our CEO of
 real estate, that is Dick Gort.
 
-A - Dick Gort
-
-{BIO 16118720 <GO>}
+A - Dick Gort {BIO 16118720 <GO>}
 
 Bloomberg Transcript
 
@@ -4136,10 +4029,7 @@ Bloomberg Transcript
 All right. So the end is nearing. Final Q&A. And well, you know the drill. So I'll just â€“ like
 2 questions per round per speaker, name and stuﬀ like that. So Johnny Vo?
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 It's Johnny Vo from Goldman Sachs. Just a few questions. First question to Jack. I mean
 with growing your asset management business, I mean there's probably 3 levers you can
 do to try and grow assets. There's distribution, probably pricing in terms of costs or in
@@ -4155,10 +4045,7 @@ you not choose that?
 A - Michel HÃ¼lters
 Okay, ﬁrst question. Jack?
 
-A - Jack Julicher
-
-{BIO 5943222 <GO>}
-
+A - Jack Julicher {BIO 5943222 <GO>}
 Yes, ﬁrst question. I think we use all 3 aspects. So in the ﬁrst place, distribution, example is
 the DC product but also using the expertise when we distribute, for example, the
 residential fund proposition, that's one. Pricing of -- always, you have to be competitive in
@@ -4180,19 +4067,13 @@ portfolios. So in all the ESG funds, we have a very speciﬁc policy integrated 
 show our clients that we create alpha given, of course, the benchmarks and the
 parameters for the ESG proposition. Then the second question?
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Yes. The assets to increase in your insurance. So you said that we could increase the risk
 for insurance liability.
 
 Bloomberg Transcript
 
-A - Jack Julicher
-
-{BIO 5943222 <GO>}
-
+A - Jack Julicher {BIO 5943222 <GO>}
 Yes. What we do is we have -- what I said was that we were on a pace -- the original pace
 of re-risking the portfolios for the insurance companies. That means that we have 2 paths.
 One path is a slight re-risking. So Chris explained that we have to go with 3percentage of
@@ -4269,10 +4150,7 @@ probably similar messages, similar direction as the solvency ratio. That's a goo
 A - Michel HÃ¼lters
 Okay. Hadley?
 
-Q - Hadley Cohen
-
-{BIO 18331131 <GO>}
-
+Q - Hadley Cohen {BIO 18331131 <GO>}
 Hadley Cohen from Deutsche Bank. Question for Dick, please, ﬁrst. On your retail fund,
 how are you thinking about that on a medium to longer term sort of view? I mean I guess I
 get the point that it's a very high-quality asset. But ultimately, the retail model is changing,
@@ -4302,10 +4180,7 @@ Okay. Dick, ﬁrst question.
 
 FINAL
 
-A - Dick Gort
-
-{BIO 16118720 <GO>}
-
+A - Dick Gort {BIO 16118720 <GO>}
 Yes. Well I think, of course, there's a lot of doubts about retail internationally. And
 especially if you look to the U.K., you see some diﬃculties with retail companies. I think in
 the Netherlands, if you look to the retail market, it's very depending on which kind of
@@ -4372,9 +4247,7 @@ matter? Now it is a new base point. And from there on, we'll see what happens.
 A - Michel HÃ¼lters
 Okay. Can we have, ﬁrst, Farquhar, please?
 
-Q - Farquhar Charles Murray
-
-{BIO 15345435 <GO>}
+Q - Farquhar Charles Murray {BIO 15345435 <GO>}
 
 Bloomberg Transcript
 
@@ -4392,31 +4265,19 @@ aspirations would you have from here?
 A - Michel HÃ¼lters
 Okay. Start with Dick.
 
-A - Dick Gort
-
-{BIO 16118720 <GO>}
-
+A - Dick Gort {BIO 16118720 <GO>}
 Yes, okay. If I understand your question correctly, you were talking about fee pressure on
 the slide?
 
-Q - Farquhar Charles Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Charles Murray {BIO 15345435 <GO>}
 On the third-party AuM. It looks like -- on the third-party AuM, it's like, it's about EUR 10
 million for three years. And obviously, AuM is going up a little bit. It could be noise. Or is
 it fee pressure?
 
-A - Dick Gort
-
-{BIO 16118720 <GO>}
-
+A - Dick Gort {BIO 16118720 <GO>}
 No. I don't understand exactly what you mean.
 
-Q - Farquhar Charles Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Charles Murray {BIO 15345435 <GO>}
 So I think if you look at Slide 135, you're showing revenues by third parties. And it's about
 EUR 10 million, EUR 11 million each year for last three years, I think. And at the same time,
 obviously, third-party AuM is actually going up. So it feels like maybe there's possibly
@@ -4431,34 +4292,24 @@ Date: 2018-10-10
 some fee pressure. But the numbers are obviously in the range that it could be a bit of a
 noise. I'm just trying to understand, is there fee pressure in that picture?
 
-A - Dick Gort
-
-{BIO 16118720 <GO>}
+A - Dick Gort {BIO 16118720 <GO>}
 
 FINAL
 
 No. There is no fee pressure because our fees are linked to the assets under
 management. So there's a direct correlation with it.
 
-Q - Farquhar Charles Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Charles Murray {BIO 15345435 <GO>}
 Okay. So why has the revenue number not gone up then?
 
-A - Dick Gort
-
-{BIO 16118720 <GO>}
-
+A - Dick Gort {BIO 16118720 <GO>}
 Well I think we are also selling assets as well because we want to be very -- on top of the
 market. And if we foresee, for example, in the retail market that we have an asset we don't
 want to have anymore, we sell it. The assets under management go down and our fee
 goes down as well. So it's -- there's a direct correlation with it. The second question you
 had about retail was which amount of assets is invested in those high street locations?
 
-Q - Farquhar Charles Murray
-
-{BIO 15345435 <GO>}
+Q - Farquhar Charles Murray {BIO 15345435 <GO>}
 
 Bloomberg Transcript
 
@@ -4467,20 +4318,14 @@ to get a sense, can you be a little bit speciﬁc about how much of that is obvi
 prime retail in inner cities, which I think we'd all agree they're probably pretty solid versus
 kind of second relocations where maybe we've got legitimate concerns?
 
-A - Dick Gort
-
-{BIO 16118720 <GO>}
-
+A - Dick Gort {BIO 16118720 <GO>}
 Yes, yes, yes. Okay. So 2/3 of the Dutch Prime Retail fund is invested in those high street
 locations, in those 20 -- top 20 cities. So about 95% of high street is located in those top
 20 cities. And 1/3 of the assets under management within the fund are invested in district
 shopping centers. So convenience shopping centers like supermarkets and small shops
 around it. But the core of the -- those investments are supermarkets, yes.
 
-A - Jack Julicher
-
-{BIO 5943222 <GO>}
-
+A - Jack Julicher {BIO 5943222 <GO>}
 Yes. Then the question on mortgages, at what level it wouldn't be attractive, what we do is
 we use cost price model. So that means that we calculate for the credit risk, that we
 calculate for the capital consumption, that we calculate for the options that are in the
@@ -4505,10 +4350,7 @@ Okay. Can we have Benoit?
 
 FINAL
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Benoit Petrarque from Kepler Cheuvreux. Two questions on the asset management, one
 on the real estate. So on the asset management, could you -- on the EUR 20 million target,
 could you come back on the earnings model behind the improvement of your purchasing
@@ -4529,10 +4371,7 @@ First question is on for you, Jack.
 
 Bloomberg Transcript
 
-A - Jack Julicher
-
-{BIO 5943222 <GO>}
-
+A - Jack Julicher {BIO 5943222 <GO>}
 Yes. The percentage unit linked and, yes, all kinds of policies of the insurance there, that is
 31%. And yes, the model behind the EUR 20 million, you can say we have diﬀerent ﬂows
 of assets. So we have the in-sourced assets. We have the balanced mandates and the ESG
@@ -4542,16 +4381,10 @@ upon the scale of the insurance companies in the sense that we have an organizat
 has a scale. So that means that, yes, we expect -- that we are able to do that with a fairly
 stable cost base.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 And the inﬂows in (DMs), how much would that be?
 
-A - Jack Julicher
-
-{BIO 5943222 <GO>}
-
+A - Jack Julicher {BIO 5943222 <GO>}
 That depends. That is -- but I explained was one main part are the mortgages. So EUR 1
 billion to EUR 1.5 billion. And we expect, let's say, EUR 0.5 billion to EUR 1 billion in other
 mandates, balanced mandates, et cetera.
@@ -4592,10 +4425,7 @@ Okay. Then the question on the rural portfolio and the returns.
 
 Bloomberg Transcript
 
-A - Dick Gort
-
-{BIO 16118720 <GO>}
-
+A - Dick Gort {BIO 16118720 <GO>}
 Yes. Thank you. Well the EUR 4 per square meter is about right. It's a good math. I think
 that's the -- more or less the agricultural value for land on average. Our focus within the
 portfolio is to rent the land to farmers. So that is our main focus. And due to the fact that
@@ -4615,10 +4445,7 @@ think the price appreciation is when farmers want to expand, they want to grow t
 and buy land or trade land. Then there is land scarcity, that's actually what causes a
 gradual uplift in value. It's not a development play.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Because you assume a 300 bps excess return on your real estate. So I mean it's quite low
 versus what you could expect in a normal real estate. But it's probably linked to this
 relatively low return you make on your lands, right?
@@ -4640,10 +4467,7 @@ lowest and retail is in the middle. So the non-land business has a 4% to 5% in d
 return. The land business has a 2.5% return. But historically, as Dick said, we've been
 delivering 9% total return over how long a period?
 
-A - Dick Gort
-
-{BIO 16118720 <GO>}
-
+A - Dick Gort {BIO 16118720 <GO>}
 15 years. (Or it can be longer).
 
 A - H. C. Figee
@@ -4659,10 +4483,7 @@ one ﬁnal question. Farooq, you've been holding up your hand for quite a while 
 
 Bloomberg Transcript
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Philippe, can you just say a little bit about the Individual Life service book? Because
 you've got a lot of customers, maybe some of them you often not talk to a lot. What
 solutions do you have? Or what are you thinking about in terms of retaining those
@@ -4676,10 +4497,7 @@ If you could comment on that, that'd be quite useful.
 A - Philippe Wits
 Yes. So on the life service book, how do we retain customers? That was your question?
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Yes, because obviously (inaudible) you hold the money and (a do-it conclusion) might be
 a good way.
 
@@ -4710,10 +4528,7 @@ those are just 2 examples on how we are thinking about it and what we're doing.
 A - Michel HÃ¼lters
 Jack?
 
-A - Jack Julicher
-
-{BIO 5943222 <GO>}
-
+A - Jack Julicher {BIO 5943222 <GO>}
 Yes. Yes. We look to all asset classes. So that means that infrastructure debt is one of
 them. But as I mentioned, there are also others. And when you look to speciﬁc
 infrastructure, what is important to know is that the duration is often very long. So that's
@@ -4769,10 +4584,7 @@ FINAL
 
 Then the wrap-up for Jos. So.
 
-A - Jos P. M. Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos P. M. Baeten {BIO 2036695 <GO>}
 So ladies and gentlemen, some ﬁnal words on hopefully what was for all of you an
 interesting and, at least for us, what was an exciting day. We were very proud that we were
 able to present a.s.r. to you in the way as we did it today. We delivered over the past 2.5

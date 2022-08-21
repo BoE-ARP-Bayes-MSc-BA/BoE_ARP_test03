@@ -16,10 +16,7 @@ MANAGEMENT DISCUSSION SECTION
 
 Bloomberg Transcript
 
-Vincent Damas
-
-{BIO 18954595 <GO>}
-
+Vincent Damas {BIO 18954595 <GO>}
 Good afternoon, everyone, and thank you for joining this event. I'm Vincent Damas, Head of
 Investor Relations. I would like to welcome you to our conference on the Solvency II Methodology
 applied by CNP. This event is being recorded and all participants will be on mute during the
@@ -41,10 +38,7 @@ MCR. And finally, before concluding and opening up the floor for the Q&A session
 you informed about public disclosures for next year. Thank you again for your attention and I will
 now leave the floor to Antoine.
 
-Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+Antoine Lissowski {BIO 4384399 <GO>}
 Hello, everybody. To start with this presentation, I will just point out a few, a very basic elements
 first. But, the regime which we are speaking about has been in force since the beginning of this
 year. And as you know CNP has deliberately chosen to use standard formula without any
@@ -80,10 +74,7 @@ Now, I give the floor to Marie for starting of the explanation of the metrics.
 
 Bloomberg Transcript
 
-Marie Grison
-
-{BIO 15895562 <GO>}
-
+Marie Grison {BIO 15895562 <GO>}
 Okay. So as an introduction I will explain some of the things that we use for the calculation of our
 SCR coverage ratio. The first one is that we use static volatility adjustment which is positive, it can
 be negative, but it's positive spread added on the interest rate curve. You have the label of the
@@ -385,10 +376,7 @@ I will now leave the floor to Antoine for the conclusion.
 
 FINAL
 
-Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+Antoine Lissowski {BIO 4384399 <GO>}
 Thank you. As we may have shown you, very clearly, very specific elements when you look at
 Solvency II, which make this measure very peculiar and we insist on the fact that in fact different
 ways of assessing CNP Assurances Solvency as overall company's solvency and everybody has to
@@ -428,10 +416,7 @@ improvement of our solvency over the last years was very obvious and the managem
 solvency is now very strict in order to remain permanently at a very comfortable level.
 Now, I give floor to Vincent who receives your different questions.
 
-Vincent Damas
-
-{BIO 18954595 <GO>}
-
+Vincent Damas {BIO 18954595 <GO>}
 Thank you. So, at the time we welcome any questions investors and analysts would have regarding
 this Solvency II presentation. If you have any question, please write it down and send it through the
 webcast form and our management team will be happy to give you an answer as clear as possible
@@ -443,20 +428,14 @@ Q&A
 
 FINAL
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 So, our first question comes from David Barma from Exane BNP. So, I read the question and I will
 lead the floor. Could you explain if the latest regulatory developments have or will have in the
 future any impact on the Solvency II calculation, particularly thinking about the (50:16) which is a
 French – recent French law, Article 21b and the potential new provision for future returns PRF
 (50:27)? Thank you.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 Thomas, first reaction to that question.
 
 A - Thomas Béhar
@@ -471,17 +450,11 @@ full tool that will enable us towards a countercyclical tool for our solvency. T
 
 Bloomberg Transcript
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Thank you, Thomas. So, next question comes from Benoît Valleaux from Natixis. Looking at slide 37,
 do you plan to replace in the future Tier 1 sub debt by Tier 2 sub debt?
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 (52:12).
 
 A - Thomas Béhar
@@ -498,19 +471,14 @@ in 2018 and 2019. Obviously, these are quite costly debt and that they could be 
 less costly debt, and why not Tier 2, but it will depend on the current situation. So, there is no
 explicit plan as of today, but it's a clear possibility.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Thank you. So, the next question comes from David Barma from Exane BNP. You mentioned on the
 slide 11 that you intend to use an economic scenario generator that includes negative interest rate.
 Is it fair to assume the impact will be negative, and if so, could you provide us with the range of
 expectations, so as not to be surprised on the day of duplications, any guidance such as 10 points
 or 20 points or 30 points, I'm not sure whether negative impact would be useful? Thank you.
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
+A - Antoine Lissowski {BIO 4384399 <GO>}
 
 
 
@@ -526,17 +494,11 @@ Second, the impact of that should be of certain magnitude, but I really do not k
 we'll not disclose any extension of this impact, just save up to (55:48), so far it doesn't look as big
 as dramatic as people were expecting few months ago.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Thank you. So our next question comes from Thomas Fossard from HSBC. What would be the
 equivalent minimum Solvency II ratio required in order to maintain an S&P single A rating?
 
-A - Marie Grison
-
-{BIO 15895562 <GO>}
-
+A - Marie Grison {BIO 15895562 <GO>}
 Okay. I think there is no good answer to this question, because as you know S&P has a
 methodology to rate companies and it's not a simple quantitative equivalent to Solvency II ratio.
 So, there is no real minimum, because it depends off a lot of criteria of precision by S&P of the
@@ -544,10 +506,7 @@ financial and operational profile of the company.
 
 Bloomberg Transcript
 
-A - Antoine Lissowski
-
-{BIO 4384399 <GO>}
-
+A - Antoine Lissowski {BIO 4384399 <GO>}
 And if I may add that the S&P rating agency has publicly stated that they – of course they are
 looking at Solvency II ratio, but they want to keep their own capital model, because it's the same
 one for all over the world; however, Solvency II is only for European insurance company. And I'll
@@ -557,38 +516,23 @@ required capital and what is the S&P rating agency model and you see that on –
 are quite important differences, so it's the reason why it's not – there was no direct link between
 the two.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Next question is also from Thomas Fossard from HSBC. What is the frequency of revision of the
 countercyclical equity dampener?
 
-A - Marie Grison
-
-{BIO 15895562 <GO>}
-
+A - Marie Grison {BIO 15895562 <GO>}
 Okay. EIOPA is recalculating the equity dampener every month.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 And it's public on the EIOPA website, you can look at it. So, next question is from Sean Kelly (58:11)
 from JPMorgan. Thank you for the presentation. Will you be disclosing the MCR together with the
 SCR, as part of your normal reporting in February and in May?
 
-A - Marie Grison
-
-{BIO 15895562 <GO>}
-
+A - Marie Grison {BIO 15895562 <GO>}
 The answer is, yes. And I assume by May, you're meaning SFCR report and QRT, it's in the public
 disclosure.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Thank you. So, the next question comes from Benoît Valleaux from Natixis. What is the contribution
 of the PPE to the Solvency II margin at the end of 2015 and at the end of June 2016? What would
 be the impact of an increase in the PPE of €1 billion for example?
@@ -602,25 +546,16 @@ on the level of the interest rate.
 
 FINAL
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Thank you. Next question comes from Thomas Fossard from HSBC. How do you expect your
 Group Solvency II ratio to perform against the values ACPR, EIOPA stress test scenario simulation
 at the end of 2016?
 
-A - Marie Grison
-
-{BIO 15895562 <GO>}
-
+A - Marie Grison {BIO 15895562 <GO>}
 Okay. To my knowledge, there is no specific request on performing a stress test by ACPR at the
 end of 2016.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 So, next question comes from Thomas Fossard from HSBC. Could you please come back on why
 you are not taking the €2.1 billion excess capital from following subsidiaries? Is this because of the
 standard formula requirements, CNP management prudence or specific constraints preventing to
@@ -637,10 +572,7 @@ Yes. PPE plays the role of a buffer and enables us towards a longer duration of 
 we have longer liabilities, we can take our loadings on the contract on longer terms, and it give us
 back, so value of infos (01:01:14) that goes to our reserve of reconciliation.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Thank you. So, next question is from Thomas Fossard, HSBC. Could you say a word on your
 Solvency II yearly capital generation?
 Maybe I can take this one. So, we are skeptical about using Solvency II capital generation, as a
@@ -653,10 +585,7 @@ dividend paying capability of CNP.
 Next question comes from Thomas Fossard, HSBC. Last updated sensitivities have been provided
 with your 2015 results, should we expect deviation next year?
 
-A - Marie Grison
-
-{BIO 15895562 <GO>}
-
+A - Marie Grison {BIO 15895562 <GO>}
 So the correct answer is, yes, but depending on the point, the market will be at the end of
 December. I think we've always said, and we said when we published also June 2016 that the
 sensitivities depends on the point, while you calculate them. And obviously if, end of December it
@@ -665,20 +594,14 @@ fact that we will modelize negative rates.
 
 
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Thank you, Marie. Next question is from Michael Huttner, JPMorgan. Can you say, what is the total
 positive of the UFR on Solvency II? What will be the upside? Is the PPE were fully in Solvency II?
 What levels of interest rates do we need for this? And what is the Solvency II now?
 
 FINAL
 
-A - Marie Grison
-
-{BIO 15895562 <GO>}
-
+A - Marie Grison {BIO 15895562 <GO>}
 I think on the UFR, we have nothing more to say than the sensitivity we based on the last year
 calculation that we've published. On the ways, Solvency II now, we in fact don't calculate in real
 time everything. And what is upside of the PPE, we have – perhaps we are not (1:04:14) completely
@@ -691,9 +614,7 @@ Just to add a question that we have (1:04:42) said about Article 21 (1:04:46) we
 impact of an action of the national authority to stop the lapses so it's not something that we have
 in our model and we will not modelize that.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
+A - Vincent Damas {BIO 18954595 <GO>}
 
 Bloomberg Transcript
 
@@ -715,20 +636,14 @@ presentation, so there will be additional information for example in the balance
 more detail or in the – as the premiums or as the reserves, but the main information has already
 disclosed in rough (1:07:03) slides.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Thank you. Next question is from Ralph Hebgen, KBW. Slide 23, how do you – how do the
 sensitivities in the work reconcile with those published on slide 21 of the financial year 2015
 presentation. And as an example, Ralph, "French government yields (1:07:29)" that came down
 over the period, and the Solvency II ratios had (1:07:32) decrease, and it has – the reconciliation
 with the sensitivities?
 
-A - Marie Grison
-
-{BIO 15895562 <GO>}
-
+A - Marie Grison {BIO 15895562 <GO>}
 Okay. In fact, the sensitivities that have been published in December 2015, work more or less,
 when I say more or less, it's what we expressed is, the global movement is well captured. But you
 have a kind of convexity plus cross correlation
@@ -742,10 +657,7 @@ by sensitivity. The global effect is not exactly the effect, due to this impact 
 
 FINAL
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 The next question is also from Ralph Hebgen, KBW, and is a follow-up on the negative interest
 rates question. You said in Q2 conference call that with a (1:09:08) low negative interest rates in
 model (1:09:11) at the end of 2016 where – are you on that and how will this change the
@@ -756,51 +668,34 @@ You will know all that in next February when we will publish our results as a nu
 sensitivities will be changed due to negative rates. We are working on that, but we don't have
 results to produce to you today.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Thank you. Next question also from Ralph Hebgen, KBW. Inclusion of 100% SCR of subsidiaries
 whether the minority shares, is that a conservative choice of CNP rule What will Solvency II issue
 would be if you only included your ownership share?
 
-A - Marie Grison
-
-{BIO 15895562 <GO>}
+A - Marie Grison {BIO 15895562 <GO>}
 
 Bloomberg Transcript
 
 In fact it's a rule. So we don't see even though it's – if we were not applying the rule.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Next question is from Adam Robinson, Securis Investments (1:10:18) Within the life underwriting risk
 module, what are the most significant components making up this risk and what are the relative
 magnitudes exemplar e.g. lapse risk, mass lapse makes up 50% of the module (1:10:30) et cetera.
 Thank you.
 
-A - Marie Grison
-
-{BIO 15895562 <GO>}
-
+A - Marie Grison {BIO 15895562 <GO>}
 Okay. The main component is lapse risk, but as of now, we don't publish the exact amounts by
 component.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Thank you. Next question from David Damar Exane BNP (1:10:57) regarding Brazil, could you give us
 some details on all the process works in terms of choosing between the Solvency II application or
 equivalence regulatory measure application. Could you also give us some color on the latest local
 developments, are they moving towards Solvency II frameworks in terms of regulation?
 
-A - Marie Grison
-
-{BIO 15895562 <GO>}
-
+A - Marie Grison {BIO 15895562 <GO>}
 In fact, regarding Brazil, while they've been included in our Solvency II project three years ago, so it
 was something while that was already functioning when Solvency II (1:11:32) project and the teams
 they're trained to the Solvency II calculation. As of now, as a local regulator, which is called (1:11:46)
@@ -808,10 +703,7 @@ is changing from year-to-year, the way they calculate the local solvency ratio a
 (1:12:03) from Solvency II then down now (1:12:05) especially by perhaps it's a project including the
 market risk.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Next question is from Niccolò Dalla Palma, Exane BNP. How will your asset allocation evolve in a
 context of Solvency II and IFRS 9, should we expect any significant change?
 
@@ -828,10 +720,7 @@ the work is still in progress, the main consequences will be the mark-to-market 
 especially on the funds under IFRS 9. So we cannot – that there could change in this allocation to
 cope with a sensitivity, but we cannot be very specific about it today.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Thank you, Mikaël. And as a remainder, IFRS 9 will be enforcing 2021, so it's not a short time term
 consume (1:13:45)
 Next question is from Benoit Valleaux, Natixis. What is the amount of future profits included in your
@@ -840,9 +729,7 @@ Tier 1 unrestricted capital?
 A - Thomas Béhar
 We are not disclosing that number.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
+A - Vincent Damas {BIO 18954595 <GO>}
 
 Bloomberg Transcript
 
@@ -852,27 +739,18 @@ reconciliation reserve in fact.
 Next question is from Niccolò Dalla Palma, Exane BNP. What is the investment of the full strategic
 participation treated under Solvency II?
 
-A - Marie Grison
-
-{BIO 15895562 <GO>}
-
+A - Marie Grison {BIO 15895562 <GO>}
 Okay. For the time being, it's treated as an equity and I assume the question was, do you
 recognize that with a lower shock like a strategic participation first time being no, but you have – so
 we are kind of a using a present shock that can evolve. But it's not very material on the global
 coverage ratio as a group.
 
-A - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+A - Vincent Damas {BIO 18954595 <GO>}
 Next question is from Ralph Hebgen, KBW. As a follow-up where will the effect of interest spread
 show up on slide 23, the impact must be in different components of the work market SCR
 diversification et cetera?
 
-A - Marie Grison
-
-{BIO 15895562 <GO>}
-
+A - Marie Grison {BIO 15895562 <GO>}
 Okay. The main – because the market SCR, it's quite complicated because we show a global figure
 and you have a diversification effect within this market SCR, but the main impact of interest rate
 shows in the €1.4 billion decrease of loss absorbing capacity of deferred tax, because interest
@@ -881,10 +759,7 @@ absorbing capacity. So, in fact this decrease of interest rates are – have a d
 effect is on own fund and the second effect is on the SCR and especially on loss absorbing
 capacity of deferred tax within SCR.
 
-Q - Vincent Damas
-
-{BIO 18954595 <GO>}
-
+Q - Vincent Damas {BIO 18954595 <GO>}
 So, we come to the end of the Q&A. So, this concludes today's presentation. We would like to
 thank you all for participating in our webcast. As a reminder, the presentation we used today and a
 replay of this webcast will be available on CNP website. Thank you for your participation and have a

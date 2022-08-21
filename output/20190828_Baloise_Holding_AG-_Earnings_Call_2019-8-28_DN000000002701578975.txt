@@ -27,19 +27,13 @@ and the conference is being recorded. The presentation will be followed by a Q&A
 At this time, it's my pleasure to hand over to Markus Holtz, Head of Investor Relations. Please go
 ahead, sir.
 
-Markus Holtz
-
-{BIO 20240672 <GO>}
-
+Markus Holtz {BIO 20240672 <GO>}
 Good morning, everyone, and welcome to Baloise Q&A call about our half-year results 2019. In our
 call today, we have our CEO, Gert De Winter; our CFO, Carsten Stolz; and our CIO, Matthias Henny.
 So now, I would like to hand over to Gert. He will give you a short overview of our results before we
 start the Q&A.
 
-Gert De Winter
-
-{BIO 19720616 <GO>}
-
+Gert De Winter {BIO 19720616 <GO>}
 Thank you, Markus. Today, we are very pleased and proud to present a very strong half-year result
 for Baloise and a very dynamic and a high momentum first half of 2019. We generated a very good
 profit for our shareholders of CHF395 million. This result is based on our unchanged strong
@@ -72,10 +66,7 @@ The first question comes from Peter Eliot from Kepler Cheuvreux. Please go ahead
 
 Bloomberg Transcript
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you very much. I'll try to limit myself to three initially. And the first question, I guess,
 predictably [ph] on the life result. I'm just wondering if you're able -- what you can -- guidance you
 can give us looking forward? I mean, if interest rates stay at the current level, can you give us any
@@ -93,10 +84,7 @@ likely is it that you will do anything else? And if in the near future, you're n
 expect anything big, I'm wondering if you can comment on the sort of appropriate capital structure
 you consider as a long-term being appropriate. Thank you.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Thank you, Peter. Gert here. I will certainly -- I will try to tackle the questions from a high level and
 then hand over to the colleagues if further details are required or appropriate. In terms of the life
 result, what we have been doing over the last years is, of course, a lot of actions in order to tailor
@@ -125,9 +113,7 @@ Mobly, like Movu, so the ecosystems around home and mobility which is -- which c
 exported more easily than brick-and-mortar classical M&A.
 But Carsten, do you have anything to add on the tax on life?
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
+A - Carsten Stolz {BIO 6055047 <GO>}
 
 Bloomberg Transcript
 
@@ -152,10 +138,7 @@ money through the share buyback program at the moment, and therefore, there is n
 the capital structure. We're still and continue to act on a strong capital position, and that remains
 unchanged for -- as we speak.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -172,10 +155,7 @@ acquisition? Thank you.
 
 FINAL
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Thank you, Simon. Let me try to tackle the questions first. So if you look at the Fidea deal, of
 course, in the first half of 2019, the numbers are not yet in. Closing has taken place beginning of
 July, so the second half -- the second half of 2019 and year-end closing, the numbers will be in. If
@@ -186,10 +166,7 @@ but it's always takes two to three years to actually really integrate it fully, 
 line impact of CHF35 million indeed to happen as of 2019.
 Solvency impact, I'll hand that over to Carsten.
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 Yes, thanks for the question. The deal has been closed in early July. So the effects that Gert
 mentioned will come into the numbers in the full-year figures. All the processes to integrate Fidea
 financially into the numbers are ongoing. From a solvency perspective, we do not expect a material
@@ -206,10 +183,7 @@ Okay. Thank you.
 Operator
 The next question comes from Frank Kopfinger, Deutsche Bank.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Hi, it's Frank Kopfinger from Deutsche Bank. I have two questions. My first question is also on life. In
 the first half year, your current yield declined by almost 20 basis points to now 2.43%. Is this 20
 basis points, the natural decline, we should expect going forward, and also looking at the current
@@ -217,16 +191,10 @@ interest rate level, whether this is really the right number? And then secondly,
 you quantify the -- I think you also mentioned that there are some integration costs coming in H2. I
 think, at least at your full year call, can you remind us on the cost you expect on this?
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 I propose that Matthias takes the first question, Frank.
 
-A - Matthias Henny
-
-{BIO 17600048 <GO>}
-
+A - Matthias Henny {BIO 17600048 <GO>}
 Sure. The decrease in current income is due to various factors. First of all, of course, the low
 interest rate environment, which leads to lower reinvestments, also to certain extent due to the
 lower equity quote that we have, and as dividends are mainly paid out in the first half, this has a
@@ -235,10 +203,7 @@ composition. We decreased the U.S. dollar bonds with a high yield before FX hedg
 reinvested into Eurobonds. And this shows now in the pure current income number at a larger than
 natural decrease. The natural decrease we estimate roughly at around 10 basis points per annum.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Maybe do add. I think that in 2018, we had a very low number of expiring bonds, which actually
 explains why it remained stable between 2017 and 2018. We have some renewals in 2019. That's
 why indeed the -- it has gone down slightly. On Fidea integration costs, I think there's -- I don't
@@ -249,38 +214,24 @@ know whether we have given guidance on that, but that's certainly integrated int
 business case. There is nothing spectacular about it, it's primarily some IT investments, some
 synergies that need to be taken, it's a low-double number at a million digit.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 
 FINAL
 
 And the CHF35 million profit contribution is net of these integration costs?
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Yeah. It's net off. Yeah.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay. Thanks.
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 But just on a -- if I may add -- Carsten speaking -- the CHF35 million that we had communicated
 when we announced the deal is the run rate after finalizing the integration. So that is the run rate
 after the end of integration.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay, thanks.
 
 Bloomberg Transcript
@@ -288,20 +239,14 @@ Bloomberg Transcript
 Operator
 The next question comes from Jonny Urwin from UBS. Please go ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thanks, good morning. Just three from me, please. The -- I guess, just more philosophically, what
 you think [ph] the levers are that you have to manage low bond yield risk from here? Clearly, nonlife performing well. What about the life? What can you do to sort of offset the yield pressure
 going forwards? Secondly, the 3 points of improvement in the underlying loss ratio and (inaudible)
 what drove that, please? And is it sustainable? And then finally, how are the German med mal
 reserves developing in the legacy unit? Thank you.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 I'll try to tackle the questions at first, but I certainly think that Matthias and Carsten would add to
 that. In terms of low interest rate environments, basic, I think, asset management strategies, one
 to invest more in real estate on one side and secondly is with given the high exchange costs we
@@ -316,9 +261,7 @@ zero. So it's fully reserved and under control. So it confirms actually the rese
 have done in the first half year of last year.
 Although yields on low bonds --
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
+A - Carsten Stolz {BIO 6055047 <GO>}
 
 
 
@@ -351,19 +294,13 @@ points, and it had tailwinds from the sale of the run-off operations as disclose
 together, as of today, we expect for full year to be at the low end of the 90% to 95% combined
 ratio, the target that we have set ourselves.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thank you very much.
 
 Operator
 The next question comes from Farquhar Murray, Autonomous Research. Please go ahead.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Morning, gentlemen. Just two questions from me. Firstly, just coming back to the life business.
 Thanks for reiterating the structural guidance of CHF300 million per annum. My question is
 probably a little bit shorter term, which is, could you give us a sense of how to think about
@@ -376,10 +313,7 @@ and stated that it will actually also apply to the capital requirements for the 
 just wondered if you had some -- perhaps, some preliminary understanding of that change and
 whether it's material to you or all the actual insurers in more generally? Thanks.
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 Thanks Farquhar. So with regard to the obviously, the new lows that you alluded to on the interest
 rate side, I think given the dynamics and given the volatility in it, it's too early to make a statement
 with regard to the full year. We have also some offsetting effect. I would like to remind you that
@@ -403,10 +337,7 @@ banking side with regard to fear of overheating, especially on mortgages, so the
 know. I haven't heard of any discussion that goes into the direction of measures tend to be taken
 on the insurance front.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Okay. Thanks.
 
 Operator
@@ -414,19 +345,13 @@ The next question comes from Kevin Ryan from Bloomberg Intelligence. Please go a
 
 Bloomberg Transcript
 
-Q - Kevin Ryan
-
-{BIO 1814771 <GO>}
-
+Q - Kevin Ryan {BIO 1814771 <GO>}
 Thank you. My question, I'm afraid to be boring again, is about the life business. Could you give us
 a few for your appetite for doing more group life business in Switzerland? And also traditionally,
 this has been a slightly lower margin business than some others, how you intend to manage that
 proposition going forward? Thank you.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Thank you, Kevin. We, of course, on a continuous basis, evaluate the strategy we follow in group
 life in Switzerland. We have been extremely selective in signing a new business taking into account
 the structure -- the age structure of the group and also the balance between the mandatory and
@@ -442,19 +367,13 @@ of course, offer the semi-autonomous Perspectiva solution, which has grown subst
 first semester too, so that's more or less our group life strategy moving forward. Careful, cautious,
 selective, but actually good profitable business.
 
-Q - Kevin Ryan
-
-{BIO 1814771 <GO>}
-
+Q - Kevin Ryan {BIO 1814771 <GO>}
 Thank you.
 
 Operator
 (Operator Instructions) The next question comes from Rene Locher, MainFirst. Please go ahead, sir.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Yes, good morning all. Well first of all on the life business -- the non-life business. And you have
 achieved a combined ratio of 87.4% in H1 although with the help of some PYDs [ph] and low claims.
 
@@ -472,9 +391,7 @@ And last question if I may, the buyback, I mean, you started April '17, we are n
 I've learned and (inaudible) 56% still to go on till April 2020 targets up to 3 million shares. Should I
 expect a bit of a speed up in the buyback in the coming months? Thank you.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
+A - Gert De Winter {BIO 19720616 <GO>}
 
 Bloomberg Transcript
 
@@ -496,39 +413,25 @@ increasing share price, of course, slows down a bit the buyback program. So, we 
 over the next coming months to live up to the expectations and the commitments we have taken.
 On the life reserves, I would hand over to Carsten. Second question.
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 Yeah. Well, thank you, Rene for the question, that is mainly an accounting effect, a major part that is
 in that unearned premiums, which will level out in full year. So, the AXA business is in fact as you're
 correctly stated in the mandatory and non-mandatory bucket.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Okay. Thank you.
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 And to complete the picture, I mean, you've read that the overall AXA effect was CHF560 million
 effect in the first half of the year, both comprising continuous premiums as well as the one -overtaking effect of the year of the book.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Okay. Thank you very much.
 
 Operator
 We have a follow-up question from Peter Eliot from Kepler Cheuvreux. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter Eliot {BIO 7556214 <GO>}
 
 
 
@@ -541,10 +444,7 @@ question, I mean, you sort of -- you're well on track for cash and the life resu
 impacted the cash flows. Are you able to give us any numbers or any updates on what cash has
 been remitted in the half year? Thank you very much.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 I think on the first part, there are of course some technical details on the expenses. I think the most
 important thing that happened there is, we are investing quite intensively in a new IT solutions and
 digital solutions, so that certainly is also an impact on the slight increase of the cost. So that's
@@ -556,10 +456,7 @@ Something to add on the expenses in non-life, I don't know, Carsten?
 
 Bloomberg Transcript
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 Yeah. Well, on the expenses in non-life, I think it's half-year figure, so there is a -- how do you say,
 an occurrence [ph] of effect, an effect that will split it into the two different parts of the year, so
 parts of that increase will level out on the yearly -- year-end basis. There is also elements in that
@@ -568,33 +465,21 @@ transaction in the first half is in there as well, as well as some branding inve
 the major effect is that it's the split between the two halves, where we have hurt more than in
 equal parts, it will level out over the year as we expect today.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you. Do you have a feel for what that should be on an annual basis going forward? I'm just
 wondering to what extent some higher investments might continue.
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 No, guidance on that, I think we should -- we stick to the 90% to 95% overall in the technical
 performance guidance targets for non-life.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Sure. Thanks very much.
 
 Operator
 (Operator Instructions) Gentlemen, so far we have no more questions.
 
-A - Markus Holtz
-
-{BIO 20240672 <GO>}
-
+A - Markus Holtz {BIO 20240672 <GO>}
 Well, if there are no more questions, then I would like to thank you for an interactive Q&A. If of
 course there are follow-up questions, the investors relationship team is, of course, ready and able
 to answer the detailed question going forward. Having said that, again, thank you and again we are

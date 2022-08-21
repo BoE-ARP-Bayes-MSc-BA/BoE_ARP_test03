@@ -87,10 +87,7 @@ strategy. I will come back to this later in the second part of my presentation.
 With that, I would like to hand over to our CFO, Paul Norton, who will now provide you
 with the most important information about the ﬁnancial ﬁgures.
 
-Paul Norton
-
-{BIO 16145125 <GO>}
-
+Paul Norton {BIO 16145125 <GO>}
 Thank you, Philipp. Ladies and gentlemen, I would also like to welcome you to our
 analysts conference today. Within the next 25 minutes, I will give you more detailed
 information on our ﬁnancial performance in 2018. I would like to start with Slide 6. We
@@ -478,10 +475,7 @@ Operator
 (Question And Answer)
 The ﬁrst question is from Peter Eliot from Kepler Cheuvreux. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Page 9 of 18
 
 
@@ -519,10 +513,7 @@ Bloomberg Transcript
 Thank you, Peter. I'll ask Paul to answer questions number one, with regard to solvency
 and three with regard to cash remittance. And I then turn to question number two. Paul?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 I'll give you some just a couple of broad comments on the solvency. I think we should wait
 until the buﬀer will come out when we have a full presentation as explains that. With the
 new models, we have more deterministic modeling in there and much more short-term
@@ -538,10 +529,7 @@ a good guide, but clearly can be optimized and we're working on that. In terms o
 virtually everything of the cash that we receive from the operating units up to the holding,
 which then go straight out to the shareholders.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. And just -- I guess I just wanted to -- the 290, basically it's fully available, but the
 distribution and right well --.
 Page 10 of 18
@@ -555,9 +543,7 @@ Date: 2019-03-06
 A - Philipp Gmur
 Yeah, 290 is fully available for distribution that question of yours.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter Eliot {BIO 7556214 <GO>}
 
 Bloomberg Transcript
 
@@ -584,10 +570,7 @@ underwriting new businesses, whether they come from AXA or other competitors. We
 have beneﬁted, but we were not very aggressively underwriting new contracts, and we'll
 tell you and show you those numbers in due time.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. Thank you very much. I had a couple other questions, but I'll be patient and rejoin
 the queue in case of time oﬀ to the ones in the room. Thank you.
 
@@ -597,10 +580,7 @@ Other questions on the phone.
 Operator
 The next question is from Johnny Urwin from UBS Please go ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi. Good morning. Thanks for taking my questions. Good results to date. So ﬁrstly, I guess
 just what was the message you're trying to send here on dividends by disclosing the net
 economic dividend capacity that looks strong. But, I guess on that earnings, which is the
@@ -627,9 +607,7 @@ A - Philipp Gmur
 Thanks, Johnny. I'll ask Paul to answer those two questions with regard to dividend
 coverage payout ratio and the luxury problem of an SST of above 240%.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 Bloomberg Transcript
 
@@ -678,10 +656,7 @@ over 240%.
 
 FINAL
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Yeah. Thanks. Fair enough. And thank you for the disclosures and the sort of enhance
 capital management framework, you're right, I have been critical in the past. I much
 appreciate it. I guess just on the message on the dividends, that's very clear and it's -- I
@@ -689,16 +664,10 @@ mean that is a good message. I think that's what the markets been looking for. B
 missing piece in the puzzle is what it -- in the puzzle is what is the headroom on earnings?
 And so I guess any disclosure rules there.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 That's in the dark, I'm on slide where it is we show it's the 0.5 billion capacity.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Okay. Great. Thanks very much. Thanks, Paul.
 
 A - Philipp Gmur
@@ -710,10 +679,7 @@ Bloomberg Transcript
 
 The next question is from Kevin Ryan from Bloomberg Intelligence. Please go ahead.
 
-Q - Kevin Ryan
-
-{BIO 1814771 <GO>}
-
+Q - Kevin Ryan {BIO 1814771 <GO>}
 Good morning. Thank you for taking my question. I just like to explore a little more about
 your business volume targets, okay. Do you have any particular focus on either general
 insurance or life for boosting the volume. And could you explain a little bit about how you
@@ -754,10 +720,7 @@ we are standing at 91. And the new business margin of above 1%, we are standing 
 So all that demonstrates that we are well on track steering our diﬀerent portfolio speed in
 Life or Non-life.
 
-Q - Kevin Ryan
-
-{BIO 1814771 <GO>}
-
+Q - Kevin Ryan {BIO 1814771 <GO>}
 Brilliant. Very clear. Thank you.
 
 A - Philipp Gmur
@@ -767,10 +730,7 @@ The ﬁrst question comes from Deutsche Bank from Frank Kopﬁnger.
 
 Bloomberg Transcript
 
-Q - Frank Kopﬁnger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopﬁnger {BIO 16342277 <GO>}
 Hey, it's Frank Kopﬁnger from Deutsche Bank. My ﬁrst question is on the current income
 on investment side. You said that you pointed out it was stable. However, as we have now
 a lower yield environment, would you expect that investment income the regular income
@@ -784,20 +744,14 @@ Okay. Thanks. I ﬁrst ask Ralph Honegger, our Chief Investment Oﬃcer to answe
 question regarding the current income, and then Paul to answer the second question with
 regards to the Life business.
 
-A - Ralph-Thomas Honegger
-
-{BIO 4932832 <GO>}
-
+A - Ralph-Thomas Honegger {BIO 4932832 <GO>}
 Okay. I mean there was still some room for due to interest rates that the result is coming
 down a little bit more. I mean we have seen for the last year's always about 0.1 point. And
 obviously there's still higher yielding period [ph] set-up coming back that the lapse and
 obviously the new investment right around 1.5%, which I believe should be stable, a little
 bit further down.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Going to the Life result, the risk result, there was a one-oﬀ positive eﬀect in the prior year,
 which came from the integration of a Nationale Suisse portfolio, so that should be taken
 
@@ -819,10 +773,7 @@ FINAL
 A - Philipp Gmur
 More questions in the room? Rene Locher from MainFirst.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Yes. I'm Rene Locher from MainFirst. So, just with big picture question, this morning when
 I saw this CHF 431 million net -- I thought myself, when equity markets are going back to
 normal, we should see quite a strong result in 2019. Yes, as I so -- perhaps you can just
@@ -852,10 +803,7 @@ Okay. Is that I mean, you were going back and forward between assumptions and
 questions. I will now ask Paul -- the issue with the equity markets and are there any oneoﬀs into technical result. And then the cash production and remittance topic. And third,
 the question with regard to the SST and the accounting the assumptions.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Yeah, maybe I can take your assumption, so yeah the SST, the credit risks spreads
 whatever they are, you looking for mark-to-market which is a point landing point of view,
 it's not over a period of time. So, and that's the ﬁnancial of our approach instead of there
@@ -898,37 +846,22 @@ Bloomberg Transcript
 
 The next question is from Peter Eliot from Kepler Cheuvreux. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you for taking my follow-up questions. Well, just plus one point of clariﬁcation. Any
 DC pool, you set the position now was 500 million as of the end 2018 of the dividends?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 17 --
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Yeah. But I thought you also commented on the position now and said that as at the end
 of 2018 it would also be about 500.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 No, I think it was we would give the ﬁnal ﬁgures for '18, with the buﬀer, but it's roughly
 about that, yes.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. So just a check that we have understood that correctly, so they hasn't changed
 across the year. I'm just checking that the deﬁnition is the same there so after proposed
 dividend in both cases?
@@ -940,19 +873,13 @@ Company Name: Helvetia Holding AG
 Company Ticker: HELN SW Equity
 Date: 2019-03-06
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Yeah. The deﬁnition is the same. It will changes to them, when we ﬁnalized, put this way I
 can't expect -- I can't imagine it will be below 500 million.
 
 FINAL
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Yeah, okay. Great. Thank you. And the other one it just on the other result. I mean I guess
 the cost of line was basically in line with the guidance that you gave, but if I look at H2 and
 isolation minus 38, it's a little bit much higher run rate. Should we always expect that sort
@@ -967,10 +894,7 @@ developments in the corporate development where we've increased expenditure to
 campus strategic developments. So, it's diﬃcult to predict, when those kind of things will
 actually fold you.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. Thank you very much. Thank you.
 
 Bloomberg Transcript
@@ -978,33 +902,21 @@ Bloomberg Transcript
 A - Philipp Gmur
 More questions in the room? Rene Locher?
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Yes.
 
 A - Philipp Gmur
 Yes. Continue with the question.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 No, but I think given that we are going to see two showcases. But, ﬁrst of all my question
 is, when I'm looking at the Swiss and expense ratio, I would have argued that should be a
 little bit lower because you are selling more and more products by a Smile direct.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Smile is a relatively small percentage and it's 90 million of their overall premium.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 90, okay, yes. And then the other question is on MoneyPark, where do I see MoneyPark
 within the group now?
 Page 17 of 18
@@ -1018,9 +930,7 @@ Date: 2019-03-06
 A - Philipp Gmur
 You don't, it's too small at the moment.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
+Q - Rene Locher {BIO 1921075 <GO>}
 
 FINAL
 

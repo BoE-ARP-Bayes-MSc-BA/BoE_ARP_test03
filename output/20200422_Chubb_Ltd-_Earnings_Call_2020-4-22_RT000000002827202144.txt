@@ -35,10 +35,7 @@ Today's call is being recorded. (Operator Instructions).
 For opening remarks and introductions, I would like to turn the call over to Karen Beyer,
 Senior Vice President, Investor Relations. Please go ahead.
 
-Karen Beyer
-
-{BIO 6404488 <GO>}
-
+Karen Beyer {BIO 6404488 <GO>}
 Thank you, and welcome to our March 31st, 2020 first quarter earnings conference call.
 Our report today will contain forward-looking statements, including statements relating to
 company performance and the impact of the COVID-19 pandemic and its economic and
@@ -66,10 +63,7 @@ take your questions. Also with us to assist you with your questions are several 
 of our management team.
 And now, it's my pleasure to turn the call over to Evan.
 
-Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+Evan G. Greenberg {BIO 1444445 <GO>}
 Good morning.
 
 Bloomberg Transcript
@@ -242,10 +236,7 @@ confident Chubb will weather these difficult times, and emerge stronger from thi
 challenge.
 With that, I'll turn the call over to Phil, and then we'll be back to take your questions.
 
-Philip V. Bancrof t
-
-{BIO 4621336 <GO>}
-
+Philip V. Bancrof t {BIO 4621336 <GO>}
 Thank you, Evan. I want to begin with a few words on our financial position, which remains
 exceptionally strong. Our balance sheet includes a AA-rated investment portfolio with a
 relatively short duration and a conservative approach to our loss reserves. We have over
@@ -336,9 +327,7 @@ was 16.3%. We continue to expect our annual core operating effective tax rate to
 range of 14% to 16%.
 I'll turn the call back to Helen -- I mean, to Karen, sorry, excuse me, to Karen.
 
-Karen Beyer
-
-{BIO 6404488 <GO>}
+Karen Beyer {BIO 6404488 <GO>}
 
 Bloomberg Transcript
 
@@ -350,20 +339,14 @@ Operator
 (Operator Instructions) And with that we will take our first question from Michael Phillips
 with Morgan Stanley. Go ahead.
 
-Q - Michael Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Michael Phillips {BIO 21023048 <GO>}
 Thank you, and good morning, everybody. Thank you. Good morning. Thanks Evan for
 your comments. I guess the first question is going to be on the future impact on the
 wealth side from COVID in the coming quarters. And obviously without giving numbers,
 but maybe just where you feel Chubb is most exposed to that from I guess a geographic
 and coverage perspective?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 I'm not going to give any specifics in that, there will be -- it'll come from a variety of areas
 as we imagine right now. And there will be the reason we didn't put up numbers in the
 first quarter is because we're going to do it in a thoughtful way based on claims that
@@ -391,9 +374,7 @@ geography -- well, over half our business is in the United States. So, I expect 
 being equal since our greatest exposure is in the US, by territory, the greatest amount of
 loss will come out of the US and I hope that helps you.
 
-Q - Michael Phillips
-
-{BIO 21023048 <GO>}
+Q - Michael Phillips {BIO 21023048 <GO>}
 
 Bloomberg Transcript
 
@@ -405,10 +386,7 @@ the US. And not really looking for your one expectation, but just your thoughts 
 all kind of shakes out in different scenarios on how the pressure on insurance kind of
 unfolds? And what to expect maybe as this thing kind of shakes out?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 You know, the insurance industry is a -- is an important part of the financial plumbing of our
 economy in the US. And frankly, it's part of the financial plumbing that's critical globally.
 The insurance industry I think is performing quite well and I think it will perform very well in
@@ -446,53 +424,36 @@ roughly from what we can estimate about $0.70 on the $1 and every business inter
 every business interruption dollar of premium we collect in claims and that's pretty good
 value for money. So thank you for the question.
 
-Q - Michael Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Michael Phillips {BIO 21023048 <GO>}
 All right. Thanks a lot of Evan. Appreciate it.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Welcome.
 
 Operator
 And we will take our next question from Elyse Greenspan with Wells Fargo. Go ahead.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 
 Bloomberg Transcript
 
 Good morning.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi. Good morning, Evan. My first question I guess picks up on the BI conversation a little
 bit. So internationally, due to the policy language typically follow the standard language
 within the US, I guess you did mention that you could see some business interruption
 losses from COVID. But should we think conceptually that the same exclude by with
 exclusions would imply internationally as well as you attribute it to within the US?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Yes. Elyse, two comments. First, internationally it follows the same pattern generally which
 is, it requires direct physical loss to property as a trigger for BI. And number one -- and
 then number two, the exceptions are to that for Chubb are where we purposely
 extended cover for different clients in different industries and purposely took on the
 exposure. And in those cases, it's clearly defined.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, thanks. And then my second question, you guys suspended your buybacks on
 indefinitely in the language and -- the prepared remarks as well as your press release kind
 of attributed to seem like economic uncertainty as well as just having capital flexibility.
@@ -512,10 +473,7 @@ potential for some M&A here, given that valuations are much more attractive righ
 
 FINAL
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 You know, Elyse, when you look at the historic -- and let's just look at this from a big
 picture perspective. We are in the worst economic event that we have faced as a nation
 and globally since the great depression. The economy is shut down. The opening of the
@@ -528,47 +486,29 @@ those are attributes and strength you can't have enough of. And very fundamental
 basic. And when there is visibility, and there is certainty, and we all have a better sense
 then we will reassess.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, that's helpful. Thanks for the color.
 
 Bloomberg Transcript
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
 Operator
 And we will take our next question from Paul Newsome with Piper Sandler. Go ahead.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 Good morning. Thanks for the call. So first question, I was wondering if you could talk
 about how you might see a really fundamental change in the perception of risk. I think it's
 sort of hard and soft markets is happening, because of underwritings fee risk change.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 I can't really hear what you're saying. Can you speak up Paul? And --
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 I'm sorry about that.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Because we're on a funny line right now, yes.
 
 Page 10 of 23
@@ -579,9 +519,7 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2020-04-22
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
+Q - Paul Newsome {BIO 1541286 <GO>}
 
 FINAL
 
@@ -590,10 +528,7 @@ the perception of risk changing in the insurance industry, given the current env
 Where do we see underwriters likely changing how they do underwriting and rethinking
 risk concentrations and such?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Yes. First of all, we're asking a question right now that is asking about what do you think of
 the results of the wildfire when we're in the middle of the fire, this event is unfolding. And
 I would urge you to think that way. It's not like it has occurred and now we're looking back.
@@ -619,19 +554,13 @@ exposures and underwriters who were maybe not as good will have many surprises t
 will emerge. And time will tell, and we'll see that as this event unfolds. I hope that helps
 you.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 No, that's great. My second question, we've focused very much on the business
 interruption issues and the political risks in the US, could you speak to how that may differ
 outside the US? And I think, just some of the basics, I think sometimes you just don't know
 how extensively it was included overseas and how the political situation may differ?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Yes, the overseas, we're not the -- in any one country, Chubb is not a large middle market
 or small commercial writer. It's a business we're growing. And in most every jurisdiction, no
 different than the United States, small commercial and middle market customers have
@@ -655,23 +584,14 @@ manuscript basis. And so, each customer's forms speak to a large degree for them
 and in each jurisdiction, they'll be adjudicated based on the wordings as they were
 drafted.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 Thank you very much.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 And frankly Paul to-date, I feel more stability outside the United States on the regulatory
 and legal front than I do in the United States, the irony.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 Absolutely.
 
 Operator
@@ -679,40 +599,25 @@ And our next question will come from Mike Zaremski with Credit Suisse. Go ahead.
 
 Bloomberg Transcript
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Hey, good morning. First question. Do you feel the COVID losses will impact your
 reinsurance cover and you'll get some help from your reinsurance partners?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 You know, that's good. That's specific to each reinsurance cover, it's very fact specific,
 we'll see.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay. My next question, if I look at the North America commercial segment, and I heard
 your commentary about exposure in pricing being at 10% I think plus and I'm looking at
 gross written premiums in the segment growing up a lesser 6%. As there -- is exposure
 shrinking in the North America commercial segment? Trying to understand the dynamics
 there.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 North America commercial grew like 9%.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay.
 
 Page 12 of 23
@@ -723,43 +628,27 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2020-04-22
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 So I don't know what you're saying --
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
+Q - Mike Zaremski {BIO 20606248 <GO>}
 
 FINAL
 
 So still less than --
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Middle and small grew, you can see double digit, large account grew a little slower. And
 last year, we wrote a one-off transaction related to or two one-off transactions related to
 wildfire last year that didn't repeat this year.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay, got it. So maybe some noise in there?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 But underlying, it's like really strong growth.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
+Q - Mike Zaremski {BIO 20606248 <GO>}
 
 Bloomberg Transcript
 
@@ -767,32 +656,20 @@ Okay, I'll just sneak one quick one in. Given you announced the no layoff policy
 valued employees and there will be top-line pressure. Should we expect a material spike
 in the expense ratio in 2Q?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 No.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Thank you.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 That's as far as I'll go on forward guidance, because I don't give forward guidance, but
 nope.
 
 Operator
 And we will take our next question from Greg Peters with Raymond James. Go ahead.
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
-
+Q - Greg Peters {BIO 3111497 <GO>}
 Good morning. So on the call and then your press release, you reported $13 million of
 catastrophe losses related to COVID-19. Then you made the statement saying this will be
 tracked as a separate ongoing catastrophic event. So it's clear that there's going to be
@@ -811,10 +688,7 @@ programs, in the interim US small business to personal lines, et cetera.
 
 FINAL
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Yes, well, I'm not going to give you much satisfaction on that question, but the -- nice try.
 The loss part will be tracked. You're doing your job. So the loss part will be tracked as part
 of cat. And that's what we report as cat. The revenue reduction from exposures, et
@@ -826,24 +700,15 @@ So just a pretty basic there and that'll just be on a published basis, but we ca
 assigned to cat number is to coral the losses and distinguish them from this -- for the cat
 event from what we would think is the underlying sort of run rate at the time.
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
-
+Q - Greg Peters {BIO 3111497 <GO>}
 Got it. I had to try. But maybe --
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 I gave you a framework and I think that will help you.
 
 Bloomberg Transcript
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
-
+Q - Greg Peters {BIO 3111497 <GO>}
 I understand, and I do appreciate it. So I guess my second question, the investment
 market has been clearly thrown into chaos. And so, I was curious if you could comment
 one -- and I know you guys did provide some color in the opening comments, but just
@@ -852,10 +717,7 @@ then maybe also dovetail on the life insurance business, because a lot of that b
 a spread-based business and with interest rates at nearly zero, I've got to imagine that
 the outlook for those types of businesses is under a great deal of duress.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Remember, I'll just answer the life insurance part quickly for you. Our life business is not in
 the United States, it's in Asia. It's savings and protection related and very strongly
 protection related. And the interest rate environment is quite different. It's -- and so -- and
@@ -875,9 +737,7 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2020-04-22
 
-A - Timothy Boroughs
-
-{BIO 2284585 <GO>}
+A - Timothy Boroughs {BIO 2284585 <GO>}
 
 FINAL
 
@@ -893,53 +753,34 @@ And as Evan mentioned overall, I think that there's -- there remains too much un
 on how the virus will progress and how quickly the economy recover to make any
 significant moves off our current allocation.
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
-
+Q - Greg Peters {BIO 3111497 <GO>}
 Great. Thank you.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 I hope that helps you little bit.
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
+Q - Greg Peters {BIO 3111497 <GO>}
 
 Bloomberg Transcript
 
 Yes.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Welcome.
 
 Operator
 And next we will hear from Meyer Shields with KBW.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Thanks. Good morning, all. We're hearing a lot of I think very legitimate opposition to
 changing the definition of business interruption exposure. And it seems like a lot less
 concern over expanding production within workers' compensation. Is that a fair read? And
 should we expect that difference in attitude to persist?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 I'm -- say that again Meyer, the second part or repeat the question for me?
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 Page 15 of 23
 
@@ -957,10 +798,7 @@ insurance companies about the fact that workers compensation presumptions are
 changing a lot of states. And I understand the sort of emotional components of that, but
 from an economic standpoint, how are you thinking about that change of exposure?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Yes Meyer, a very bright line distinction that should not confuse anyone. Business
 interruption insurance, not the regulatory, the political activity around it where there are
 those who are suggesting to retroactively change contract and add coverage that was
@@ -978,28 +816,19 @@ related. So workers comp is very different in that regard.
 
 Bloomberg Transcript
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Thank you. That really helps to illustrate the difference.
 
 Operator
 And next we'll hear from Brian Meredith with UBS.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes, thanks. Evan, so just curious, I understand the implications for exposures here going
 forward. And do you think any impact that on pricing going forward be it -- will, where
 companies lax up a little bit on pricing, given the economic strain or is it going to go the
 other way, given potential increase in exposure?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 I think that the industry is -- has woken up to rate to exposure in the last year in particular
 last year one and a half. And understands generally the need to get paid for properly for
 the exposures take on. I don't see that trend changing. And I think this event is very likely - more than very likely, I think this event will be the largest event in insurance history,
@@ -1015,9 +844,7 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2020-04-22
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 
 FINAL
 
@@ -1026,26 +853,17 @@ to give us a percentage of number of your policies that actually carry a virus e
 and maybe some perspective on would it typical kind of supplement on that is, I know it's
 typically pretty heavily supplemented?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 No, Brian, I'm not going into that level of detail and -- but what's very clear, the vast
 majority of our policies require direct physical loss. And then the sub limits vary by whether
 it's in a major account or it's a middle market or it's a small commercial client, it really
 varies. And on both, what we offered and what they bought because we offer different
 options.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Thank you.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
 Operator
@@ -1054,19 +872,13 @@ Bloomberg Transcript
 
 And next we'll hear from David Motemaden with Evercore ISI. Go ahead.
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
-
+Q - David Motemaden {BIO 18818634 <GO>}
 Thanks. Good morning. Evan, just hoping to get your outlook on D&O and other
 management liability lines, mid-COVID and likely lawsuits, alleging misleading disclosures
 and other things related to COVID. I mean how big of an issue do you think this is for the
 industry and then for Chubb in particular?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Who knows. So I'm not going to overly speculate about that and I'd just -- but out of every
 event and every event creates trial bar, ambulance chasing, drive-by shooting, where they
 get most of the money and the supposed aggrieved to get very little.
@@ -1087,9 +899,7 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2020-04-22
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
+Q - David Motemaden {BIO 18818634 <GO>}
 
 FINAL
 
@@ -1098,23 +908,14 @@ think top five in the workers comp market. Just wondering if you could give us a
 the percentage of your book that is healthcare and other frontline responders, what sort
 of exposure you have there?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 It's -- I won't give you specifics and only to say though, healthcare is not a meaningful part
 of our book of business.
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
-
+Q - David Motemaden {BIO 18818634 <GO>}
 Great. Thank you.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
 Operator
@@ -1122,44 +923,26 @@ Our next question will come from Yaron Kinar with Goldman Sachs. Go ahead.
 
 Bloomberg Transcript
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Hi. Good morning, everybody. Just couple questions. One, I've heard a lot about cyber risk
 being greater in this environment as a lot of locals are working from home.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 I can't hear you. Can you speak more clearly? I'm sorry. Just -- it's not coming --
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Can you hear me better now?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Now I can hear you.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Yes. So my first question is around cyber. I know you guys have a large cyber practice.
 There's been speculation or talk about an increased cyber risk, considering that a lot of
 employees are working from home. Do you see that as a large issue? And if so, how can
 the industry address that?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 No, to-date, we're not seeing a meaningful change in patterns.
 
 Page 18 of 23
@@ -1170,9 +953,7 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2020-04-22
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
+Q - Yaron Kinar {BIO 17146197 <GO>}
 
 FINAL
 
@@ -1182,62 +963,42 @@ exclusions around pandemic and around COVID-19 specifically in policies. Do you 
 that actually could create an opening for the plaintiffs bar to go after a prior language that
 was maybe less explicit in the exclusions?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 You know, I can't speak to what people's manuscript forms look like and therefore
 whether they're correcting weaknesses with that value, I can't speak to that, but generally
 no, I think COVID-19 or pandemic-related exclusions are just belt and suspenders on
 policies, on the basic policies that require direct physical loss.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay. If I could sneak one -- other quick one then. I think in response to Brian's question if
 we look at the vast majority of your business interruption policies have physical damage
 trigger requirements. Can you say anything about what -- how many of your policies have
 viral exclusions?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 
 Bloomberg Transcript
 
 No, it really -- no, it's -- I'll leave it at that, no, there is -- it's -- where it's appropriate, it
 does.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay. Thank you.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
 Operator
 And we will take our next question from Ryan Tunis with Autonomous Research. Go
 ahead.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Hi, thanks. Good morning. I guess one more time on this business interruption. But I mean,
 I guess one question I have is, should we -- is the real question in terms of business
 interruption exposure, how many? Or is it how long is this lockdown happen? What's kind
 of more relevant in terms of sizing that loss?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Say that again.
 
 Page 19 of 23
@@ -1248,9 +1009,7 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2020-04-22
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
+Q - Ryan Tunis {BIO 16502263 <GO>}
 
 FINAL
 
@@ -1259,27 +1018,19 @@ questioning and then so far that what percentage might actively cover the virus?
 question is, how dependent will that loss ultimately be? And how long the lockdown is in
 place? Or in other words, are there other caps and limits on that?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 There are caps and limits in all policies and duration of shutdown, it's just axiomatic in
 business interruption, that length of shutdown can impact and does impact severity of
 loss, pretty basically any BI cover.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Okay. Got it. And then my other question just taking a step back. I know you mentioned in
 the general op ed that this morning that you think ultimately the industry will pay out tens
 of billions of dollars in claims, is there any reason in your mind that you should think that
 Chubb's market share of those claims should be more or less than what its global market
 share is currently as a global leader in P&C?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 
 Bloomberg Transcript
 
@@ -1291,29 +1042,20 @@ Chubb as well, it's an earnings event. It's not a balance sheet event as I said.
 think, it will be the largest loss, single loss in the industry history when you add up both
 sides of the balance sheet and look at the capital impact to the industry.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Thank you.
 
 Operator
 And our final question will come from Larry Greenberg with Janney. Go ahead.
 
-Q - Larry Greenberg
-
-{BIO 16478161 <GO>}
-
+Q - Larry Greenberg {BIO 16478161 <GO>}
 Thank you very much. I just want to be certain that I understand the accounting and the
 intent of how you're going to recognize losses in the second quarter. So should we
 assume that you will put up a catastrophe loss or what you expect will be your ultimate
 exposure from COVID, recognizing that so much is changing and there's a lot of
 unknowns down the road? But is that your plan?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Page 20 of 23
 
 
@@ -1331,63 +1073,39 @@ around that to help define it and give you a sense. But I'm not going to specula
 where we'll be by the end of the second quarter to give you a definitive color on the
 question you asked.
 
-Q - Larry Greenberg
-
-{BIO 16478161 <GO>}
-
+Q - Larry Greenberg {BIO 16478161 <GO>}
 Okay. And then --
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Depends on what we know. Get used to being in a world with a lot of unknowns and a lot
 of uncertainty right now. And you're requesting certainty when there's a great deal of
 uncertainty. And a lot of that is for worksheet projection related. And I would caution
 against trying to over speculate on any of them.
 
-Q - Larry Greenberg
-
-{BIO 16478161 <GO>}
-
+Q - Larry Greenberg {BIO 16478161 <GO>}
 Yes. I'm really not asking for any level of certainty, but really just is the intent to, do you put
 a number up for what you, given your level of information at that given point of time for
 what you can best estimate as your ultimate exposure?
 
 Bloomberg Transcript
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Exactly right. We will put up and we always do our best estimate of ultimate loss to an
 event. We always do that. And I think it'll be no different here -- we're consistent that way.
 So you can expect that of us.
 
-Q - Larry Greenberg
-
-{BIO 16478161 <GO>}
-
+Q - Larry Greenberg {BIO 16478161 <GO>}
 Thank you.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
-Q - Larry Greenberg
-
-{BIO 16478161 <GO>}
-
+Q - Larry Greenberg {BIO 16478161 <GO>}
 And then just curious on your thoughts on legislative proposals that might be productive,
 probably just prospectively, but is there any conceivable model, where government
 involvement would be helpful on a retrospective basis?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 There is a -- I absolutely see a public private partnership, prospectively. I don't see the
 sense of one on some retrospective so there is -- and I'm going to give you both very
 quickly. The retrospective one would say well, why don't you pay the BI losses and the
@@ -1422,28 +1140,20 @@ partnership in shouldering the burden in the future and Chubb has put together i
 proposal and we will be sharing that around shortly with the appropriate parties, both
 inside the industry and outside the industry.
 
-Q - Larry Greenberg
-
-{BIO 16478161 <GO>}
+Q - Larry Greenberg {BIO 16478161 <GO>}
 
 Bloomberg Transcript
 
 Thank you very much.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
 Operator
 And this concludes today's question-and-answer session. And I would now like to turn the
 call back to Karen Beyer for any additional or closing remarks.
 
-A - Karen Beyer
-
-{BIO 6404488 <GO>}
-
+A - Karen Beyer {BIO 6404488 <GO>}
 Thank you all for joining us this morning. We look forward to speaking with you again. Have
 a nice day and stay well.
 

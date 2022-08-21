@@ -26,10 +26,7 @@ For your information, today's conference is being recorded.
 At this time, I would like to turn the conference over to Mr. Matteo Del Fante, CEO. Please
 go ahead, sir.
 
-Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+Matteo Del Fante {BIO 6237992 <GO>}
 Thank you. Good afternoon, ladies and gentlemen. We're pleased to report the results for
 the ﬁrst nine months of 2017. Revenues for the period were up €524 million, 2% over last
 year, reaching €26 billion.
@@ -108,10 +105,7 @@ speciﬁc business segment. Thank you.
 
 FINAL
 
-Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+Roberto Giacchi {BIO 20101579 <GO>}
 Thank you, Matteo and good afternoon, everybody. Let's now move into each speciﬁc
 business unit results. Starting from our Financial Services revenues evolution on slide
 number 5. As you all know, BancoPosta business model is similar to asset gathering and
@@ -346,10 +340,7 @@ the cash-out for €278 million for the SIA stake.
 Thank you for your attention and let me hand over to the CEO, Matteo Del Fante for some
 closing remarks.
 
-Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+Matteo Del Fante {BIO 6237992 <GO>}
 Thank you, Roberto. Just some ﬁnal remarks on our principal area of focus at the moment.
 As you know, we recently announced and created in October a new business unit, a new
 segment named Mobile Digital And Payments (sic) [Mobile and Digital Payments] (32:40).
@@ -386,10 +377,7 @@ Operator
 Thank you. And we will take our ﬁrst question from Giovanni Razzoli of Equita. Please go
 ahead. Your line is open.
 
-Q - Giovanni Razzoli
-
-{BIO 7269718 <GO>}
-
+Q - Giovanni Razzoli {BIO 7269718 <GO>}
 Yes. Hi, everybody. I want to ask a couple of questions from my side. First of all, I'd like to
 ask whether it is a target of the plan to substitute credit (34:51) income of BancoPosta with
 more recurring revenues? And my second question is about alternative day delivery, in
@@ -398,19 +386,13 @@ updated yield spread sensitivity for BancoPosta? Thank you.
 
 Bloomberg Transcript
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Yeah. Thank you, Giovanni. It's not yet a target to replace the capital gain with recurring
 items, but we're clearly well aware of the fact that the multiple that the market is
 recognizing to Poste is clearly – bank debt is clearly taking a hit because of this factor. The
 second question is for the CFO.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 I'll make a comment on the overall restructuring Mail and Parcels business, part of which is
 the alternative delivery model. For the Parcels business, we aim to take further advantage
 of the growing e-commerce segment, which represents a great opportunity both for
@@ -435,24 +417,16 @@ Company Name: Poste Italiane SpA
 Company Ticker: PST IM Equity
 Date: 2017-11-09
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 And I think the third question was on the yield on our investment portfolio.
 
-Q - Giovanni Razzoli
-
-{BIO 7269718 <GO>}
+Q - Giovanni Razzoli {BIO 7269718 <GO>}
 
 FINAL
 
 Yes.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 As you have seen on page 16, we experienced a marginal decrease in interest income that
 was more than compensated by additional capital gains for 2017 versus 2016. And the
 eﬀect is, basically, the ﬂip side of the increase, if you look at the last few months of the
@@ -461,10 +435,7 @@ unrealized gains we have in the portfolio. So we put on page 6 end of September 
 when rates going down, we have a negative eﬀect on the interest income of the new
 investments we do where we have a positive eﬀect on our investment portfolio.
 
-Q - Giovanni Razzoli
-
-{BIO 7269718 <GO>}
-
+Q - Giovanni Razzoli {BIO 7269718 <GO>}
 Okay. Thank you.
 
 Operator
@@ -474,10 +445,7 @@ Bloomberg Transcript
 We will take our next question from Michael van Wegen of Bank of America Merrill Lynch.
 Please go ahead. Your line is open.
 
-Q - Michael van Wegen
-
-{BIO 6435238 <GO>}
-
+Q - Michael van Wegen {BIO 6435238 <GO>}
 Thank you. Good afternoon. Thank you. Good afternoon. A couple of questions. First of
 all, on the one-oﬀs that you highlighted for the nine-month, can you specify how much
 they are for each of them and can you also clarify which ones or how much of that is
@@ -490,10 +458,7 @@ And then, ﬁnally, your Solvency II ratio in Q3 dropped by about 10 points. Can
 understand what the moving parts were in the quarter and what the sensitivities of that
 Solvency II ratio are going forward? Thank you very much.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Okay. I'll take the ﬁrst one. And I do a summary of the one-oﬀ in cards in the nine months
 of 2017 versus the same period last year. During this period, we have had – during the ﬁrst
 nine months 2017, we have had the following one-oﬀ. Real estate fund distributed by
@@ -517,67 +482,41 @@ showed you. So we are basically saying that our management fees are increasing b
 both to the increase of the net technical reserves and to the pricing structure of the
 products that we place in the network.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 And I think the sensitivity on the Solvency II, we can tell you that a 100% increase, if we
 look simply at our exposure in the portfolio to (43:30) a 100% increase in yield has an
 impact of 40 basis points in terms of unrealized – of Solvency. And the same increase of
 the spread between Italian registry and bond of 100 basis points has an impact of 75 basis
 points.
 
-Q - Michael van Wegen
-
-{BIO 6435238 <GO>}
-
+Q - Michael van Wegen {BIO 6435238 <GO>}
 To clarify, interest rates going up is a negative of 48 (44:12) percentage points or a
 positive or negative?
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
+A - Matteo Del Fante {BIO 6237992 <GO>}
 
 Bloomberg Transcript
 
 It is negative.
 
-Q - Michael van Wegen
-
-{BIO 6435238 <GO>}
-
+Q - Michael van Wegen {BIO 6435238 <GO>}
 (44:17)
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 (44:19) yes. We show on page, unrealized gain on the portfolio – the investment portfolio,
 if you go to page 15, we're showing 30th of September, a ﬁgure of €7.840 billion, that
 ﬁgure revise (44:50) for the decrease in interest rate is now above today €9 billion.
 
-Q - Michael van Wegen
-
-{BIO 6435238 <GO>}
-
+Q - Michael van Wegen {BIO 6435238 <GO>}
 And can you help us understand (45:03) capital in the quarter from Q2 to Q3? Thank you.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 If you agree, we can take this question oﬄine.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Michael...
 
-Q - Michael van Wegen
-
-{BIO 6435238 <GO>}
-
+Q - Michael van Wegen {BIO 6435238 <GO>}
 Sure, no problem.
 Page 10 of 15
 
@@ -587,30 +526,19 @@ Company Name: Poste Italiane SpA
 Company Ticker: PST IM Equity
 Date: 2017-11-09
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 We'll give you the answer by mail, okay.
 
-Q - Michael van Wegen
-
-{BIO 6435238 <GO>}
+Q - Michael van Wegen {BIO 6435238 <GO>}
 
 FINAL
 
 Thank you.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Thank you.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Thank you and sorry.
 
 Operator
@@ -619,10 +547,7 @@ open.
 
 Bloomberg Transcript
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Hi. Good afternoon. Just a couple of questions. One, can you give us the yield to majority
 of the bond portfolio on the BancoPosta business? And secondly, you mentioned on the
 previous question that you have changed some pricing structure on the insurance back
@@ -631,28 +556,16 @@ because it's a material increase in terms of proﬁts from management fees? And 
 one would be, you have done some asset derisking in the Insurance business again. So
 how much more can you do? Is there any target you have? Thank you.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Ashik, I'm sorry, we have a really hard time to hear. I just ask you to...
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah, sir. There is a voice...
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 ...repeat your question, the quality of the – sorry.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah, the voice is having some problem, maybe we'll take it oﬄine. I'll speak to you later
 on. There is some issue with the voice. Thanks.
 
@@ -671,71 +584,44 @@ ahead. Your line is open.
 
 FINAL
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 Good afternoon and thank you for taking my question. You rightly mentioned that there
 were a number of (47:10) one-oﬀs as recorded in the (47:12). And I'm wondering (47:17)
 expect that the portfolio would be based on adjusted earnings (47:25) earnings. In other
 words I would like to (47:27) dividend of 2017 (47:32) for the dividend of 2017?
 And the second question on the...
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Anna, sorry. Can you repeat the question slowly, the line is very bad. I don't know why. If
 you can...
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 I know. I'm hearing my voice.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Can you repeat it please?
 
 Bloomberg Transcript
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 I just want to understand whether the dividend policy for 2017 will be based on adjusted
 earnings rather than state of earnings.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Okay.
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 Because obviously you mentioned there are a number of one-oﬀs (48:10) nine months
 results.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 But Anna, we are really sorry, but the line is very bad, so we got just part of the question.
 We understood that you are making a question about the dividend policy, and if this is the
 right questions, we have already stated the dividend policy for this year. And we will
 provide the dividend policy for the following years as soon as we will present at the
 beginning of next year our industrial plan.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 But I think maybe I got the question sorry, the dividend policy which stated for 2017 is...
 
 Page 12 of 15
@@ -746,42 +632,28 @@ Company Name: Poste Italiane SpA
 Company Ticker: PST IM Equity
 Date: 2017-11-09
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 (48:59) whether this dividend policy is based on adjusted earnings.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
+A - Matteo Del Fante {BIO 6237992 <GO>}
 
 FINAL
 
 Yes. I was about to say, yes, exactly, is on stated proﬁts, okay, is on accounting proﬁts.
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 Okay. Thank you. And lastly, just on the restructuring expenses in the fourth quarter, can
 you remind us about how much the restructuring expenses will be recorded in the total
 business?
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 That speciﬁc item relates to the amount of people that will exit the ﬁrm over the course of
 the plan and there would be an accounting item in the last quarter. But given we are in
 process of discussing on the one hand with the unions, on the other, obviously, on the
 plan, unfortunately, Anna, we understood the question, but we're not in a position of
 giving a precise answer at this point in time. Sorry.
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 Okay. Thank you.
 
 Bloomberg Transcript
@@ -790,10 +662,7 @@ Operator
 Our next question comes from Emanuele Borghetti of Intermonte. Please go ahead. Your
 line is open.
 
-Q - Emanuele Borghetti
-
-{BIO 19118661 <GO>}
-
+Q - Emanuele Borghetti {BIO 19118661 <GO>}
 Good evening, everybody. Just a couple of questions from my side. The ﬁrst one regards
 the duration of the BancoPosta portfolio bonds. I mean I saw some changes in the – even
 a slight changes in the duration of the bond portfolio. If you could provide us with, I don't
@@ -806,9 +675,7 @@ And ﬁnally, regarding the cost of labor, if in third quarter the cost of labor
 elements regarding the negotiation of the national labor agreement with the unions?
 Thank you.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
+A - Roberto Giacchi {BIO 20101579 <GO>}
 
 Page 13 of 15
 
@@ -826,10 +693,7 @@ capital gains that has been realized over the course of the last 12 months. And 
 the interest rate environment that does not suggest taking duration risk at this point in
 time.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Yes. I'll answer to your second and third question. I'll start from the third one on labor
 contract. Clearly, the negotiation is undergoing. So we cannot yet provide speciﬁc
 numbers. Anyhow, the value is in line with the usual market negotiation and the labor cost
@@ -842,9 +706,7 @@ technical reserves mainly invested in govies and corporate bonds. Anyhow, keepin
 moderate risk appetite, our investment diversiﬁcation process will continue in the coming
 years should increase in multi-assets and alternative investments.
 
-Q - Emanuele Borghetti
-
-{BIO 19118661 <GO>}
+Q - Emanuele Borghetti {BIO 19118661 <GO>}
 
 Bloomberg Transcript
 
@@ -852,26 +714,17 @@ Okay. If I may, there is one more question regarding your partnership with ANIMA
 Investment Management, I would like to know if there is any update on the negotiation or
 on the strategy regarding this side of the business? Thank you.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 No speciﬁc update. Sorry, but we keep working.
 
-Q - Emanuele Borghetti
-
-{BIO 19118661 <GO>}
-
+Q - Emanuele Borghetti {BIO 19118661 <GO>}
 Thank you.
 
 Operator
 As we have no further questions, I would like to turn the call back to the speakers for any
 additional or closing remarks.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 We thank again everybody for the attention and the time you spent analyzing our share
 and obviously feel free to contact us directly and we will do the follow-up oﬄine of the
 two questions and analysts that unfortunately couldn't hear well and couldn't answer on

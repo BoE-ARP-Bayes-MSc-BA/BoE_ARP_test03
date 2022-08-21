@@ -48,9 +48,7 @@ Company N ame: M arkel Corp
 Company Ticker: M K L US Equity
 Date: 2015-08-06
 
-Thomas S. Gayner
-
-{BIO 1896932 <GO>}
+Thomas S. Gayner {BIO 1896932 <GO>}
 
 FINAL
 
@@ -62,10 +60,7 @@ with comments on our investment results and Markel Ventures.
 As always, we thank you for your interest and support of Markel, and we look forward to
 your questions. With that, Anne?
 
-Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+Anne G. Waleski {BIO 16735457 <GO>}
 Thank you, Tom, and good morning, everyone. Our financial results for the first half of
 2015 are solid, and we produced underwriting profits in all three of our ongoing insurance
 segments, each of which have improved from a year ago. While our underwriting results
@@ -189,10 +184,7 @@ completed in the period. Invested assets at the holding company were $1.4 billio
 30, 2015 as compared to $1.5 billion at December 31, 2014.
 With that I'll turn it over to Mike to talk about our U.S. Insurance segment.
 
-F. Michael Crowley
-
-{BIO 6836605 <GO>}
-
+F. Michael Crowley {BIO 6836605 <GO>}
 Thanks, Anne. Good morning. U.S. Insurance segment as we've said before, comprised of
 all direct business written on our U.S. Insurance companies and includes all of the
 underwriting results of our Wholesale, Specialty divisions as well as certain products
@@ -245,10 +237,7 @@ Bloomberg Transcript
 
 With that, I'll turn it over to Richie.
 
-Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+Richard R. Whitt {BIO 7084125 <GO>}
 Thanks, Mike, and good morning, everybody. My comments are going to be extremely
 brief today. I'm going to focus on our underwriting results for the first half of 2015 for both
 the International Insurance and Reinsurance segments. While not as strong as their
@@ -300,10 +289,7 @@ Bloomberg Transcript
 
 With that, I'd like to turn it over to Tom to discuss investments and Markel Ventures.
 
-Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+Thomas S. Gayner {BIO 1896932 <GO>}
 Thank you, Richie. I'd like to make a few comments about our investing and Markel
 Ventures operations this morning that I hope will accurately describe our results and give
 you some insight about what we and you should expect going forward.
@@ -420,10 +406,7 @@ Operator
 Thank you, sir. We will now begin the question-and-answer session. And the first question
 we have comes from Mark Dwelle of RBC. Please go ahead.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Yeah. Good morning. A couple of numbers questions to start off with. The expense ratio
 in the quarter was a little bit higher than where it had been running for the last several
 quarters, and I was wondering if there was anything unique or unusual in the quarter or
@@ -436,9 +419,7 @@ Company N ame: M arkel Corp
 Company Ticker: M K L US Equity
 Date: 2015-08-06
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
+A - Anne G. Waleski {BIO 16735457 <GO>}
 
 FINAL
 
@@ -446,57 +427,37 @@ Hi, Mark. It's Anne. Sort of to Tom's point about good news, facts, we did make 
 adjustment to the profit-sharing accrual during the quarter based on the results year-todate. So that's what you're seeing push through the expense ratio. It's about two points in
 the quarter, I think.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay. Very good. The second question relates to amortization expense, which is normally
 pretty stable but it kind of popped up relative to the last several quarters' run rate. Was
 there some re-visitation of prior acquisitions or something in that?
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 We've been working on a – for lack of a better term, some simplification within the legal
 entity structure, and we closed off the legacy Europe operations of Alterra. Then we
 finalized that at the beginning of the year, so there was a write-off for some licenses that
 they held and you saw that in the quarter. That's what I think you're seeing there.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 I see. So sort of a one-off there on that.
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
+A - Anne G. Waleski {BIO 16735457 <GO>}
 
 Bloomberg Transcript
 
 Correct.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay. The third question, Tom mentioned the earn-out related to Cottrell. Was that all in
 the second quarter results, or was there any in the first quarter?
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 There was nothing in the first quarter. You're seeing the change come through in the
 second quarter. To the extent that the forecast for Cottrell moves around, you could see
 some movement up or down in the third and fourth quarter. But we're not expecting it to
 be a material move.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay. And then the last question I had related to the tax rate. And I think I understand
 from last quarter how that was meant to be calculated and estimated. And I guess what
 confused me is that the tax rate that came down in the quarter relative to the first quarter,
@@ -504,9 +465,7 @@ yet the earnings related to the related international entities were actually wor
 second quarter than the first quarter. So that seems counterintuitive, and I was hoping you
 could help me reconcile it.
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
+A - Anne G. Waleski {BIO 16735457 <GO>}
 
 Page 9 of 11
 
@@ -520,74 +479,46 @@ Yeah. I think the thing to remember there is that it's all about what portion of
 operations get taxed in the U.S. And during the quarter when we did the provision work,
 the amount of foreign income that we expect to be taxed in the U.S. declined.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 
 FINAL
 
 Okay. Maybe I'm not sure I understand that last point.
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 I'm not exactly sure how to articulate it differently, but not all of our foreign operations get
 taxed in the U.S. So when we do the provision work, we have to do an allocation to
 determine how much of it we expect will be taxed in the U.S. And...
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 I see. It's not just what you earned; it's very specifically exactly where you earned it, which
 isn't something...
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 That's correct.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 
 Bloomberg Transcript
 
 Which isn't something that anybody with my level of financial statements is ever going to
 see; it'll be something at your internal level that you'll be able to track.
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 That's right. And if it makes you feel any better, it's as challenging for us as it probably
 seems to you.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 I guess the last question on that point is, shall I think about the 16% year-to-date run rate
 as being the best estimate to think about for the balance of the year? Or should it be...
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 That's right.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay. That's fine.
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 That's right. Although, just to make sure we're all sort of talking about the same thing.
 That would be our estimate for the year that we would expect for future years, our best
 estimate is what the historical run-rate has been. So low to mid-20s.
@@ -600,10 +531,7 @@ Company N ame: M arkel Corp
 Company Ticker: M K L US Equity
 Date: 2015-08-06
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Yeah. Okay. That's all my questions. Thank you.
 
 FINAL
@@ -613,10 +541,7 @@ Well at this time, we're showing no further questions and we'll go ahead and con
 question-and-answer session. I would now like to turn the conference back over to
 management for any closing remarks. Ms. Waleski, gentlemen?
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Thank you very much. I was glad to be with you. Talk to you soon. Bye-bye.
 
 Operator

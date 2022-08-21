@@ -30,10 +30,7 @@ Good day, and welcome to the Munich Re Half Year Financial Report 30th June 2021
 Conference Call. Today's conference is being recorded. And at this time, I would like to
 turn the conference over to Mr. Becker-Hussong, please go ahead, sir.
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you, Simon. Ladies and gentlemen, dear friends, good afternoon, good morning
 wherever you are. A warm welcome to our conference call Munich Re's second quarter
 2021 results. Pleasure to have you all with us, and very happy to welcome our today's
@@ -42,10 +39,7 @@ The two gentlemen will start this call with a short statement based on the slide
 provided on our website. Afterwards there will be ample opportunity for Q&A as always.
 And with that I hand it over to you, Joachim.
 
-Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+Joachim Wenning {BIO 16273429 <GO>}
 Thank you, Christian, and good afternoon, everybody. Thanks for joining the conference
 and I hope you're all doing well. Let me talk you through some important achievements of
 Page 1 of 21
@@ -177,10 +171,7 @@ by this terrible catastrophe, and thank for the immediate and extensive support 
 solidarity from all corners of our society.
 And with this introduction, I'd like to hand it over to Christoph. Thanks.
 
-Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+Christoph Jurecka {BIO 17223019 <GO>}
 Thank you, Joachim. Warm welcome also from my side. It's a pleasure to run you through
 the Q2 figures today. As usual I will not go through the presentation as you were able to
 look at that in advance anyway, but start with a few personal remarks on the
@@ -290,9 +281,7 @@ EUR400 million technical result guidance as given at the beginning of the year.
 So that pretty much concludes my introduction. Joachim and I are now looking forward to
 answering your questions. But first, I'll hand it back to question.
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+Christian Becker-Hussong {BIO 19080254 <GO>}
 
 Bloomberg Transcript
 
@@ -311,10 +300,7 @@ Operator
 Thank you very much, sir. We'll now move to our first question over the phone, which
 comes from Vikram Gandhi from Societe Generale. Please go ahead.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hello, good afternoon, everybody. I hope you can hear me all right. It's Vik from SocGen.
 I've got two questions. One on COVID, the other on renewals. Firstly on COVID reserves,
 the IBNR level of 68% looks particularly strong and even more so considering nearly 57%
@@ -337,10 +323,7 @@ Japan? Thank you.
 
 FINAL
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah, Vikram, Christoph here. I'm happy to take both of your questions. First of all the
 IBNR level. Indeed the numbers are still a significant and we are feeling comfortable with
 that given that the one-off of the business of the claims adjustment both as I must say is
@@ -373,10 +356,7 @@ growth. So in that regard I think independently now of the precise numbers I thi
 general answer would be it's growth pretty well diversified across the various businesses
 we are having.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -384,10 +364,7 @@ We'll now move on to our next question over the phone, which comes from Will
 Hardcastle from UBS. Please go ahead. Just to confirm, Mr. Hardcastle not receiving any
 audio across the line? You might be on mute.
 
-Q - Will Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - Will Hardcastle {BIO 16346311 <GO>}
 Page 7 of 21
 
 
@@ -408,9 +385,7 @@ Q-on-Q, which is quite sharp and just can't really understand what asset realloc
 duration shifts have been taken and which segment is that likely to benefit. So all this all
 through Life and Health for example. Thanks.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
+A - Christoph Jurecka {BIO 17223019 <GO>}
 
 Bloomberg Transcript
 
@@ -466,38 +441,26 @@ to also the insurance risk. So the balance is unchanged and the slight increase 
 on the investments side, I've been mentioning before (Technical Difficulty) -- is fully within
 the limits of our risk strategy. So fundamentally no change.
 
-Q - Will Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - Will Hardcastle {BIO 16346311 <GO>}
 Thanks a lot. Just one very quick follow-up on that. Just, I guess, it has a bit reallocation
 and better duration is there more to go, or have we sort of caught up of the mix that
 you're looking to achieve here?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 I think it's just a -- if you want it's a little bit arbitrary what you invested one quarter to the
 next, and so I would not see any strategic irrelevance in this volatility from one quarter to
 the other with respect to new investments.
 
 Bloomberg Transcript
 
-Q - Will Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - Will Hardcastle {BIO 16346311 <GO>}
 Very clear. Thanks.
 
 Operator
 Thank you. We'll now move on to our next question over the phone which comes from
 Andrew Ritchie from Autonomous Research. Please go ahead.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi, there. Could you just focus first of all on the gross premium growth in P-C Re. I mean, it
 was exceptional in Q2, 37%. Was there anything particularly lumpy or unusual about that?
 Is there, I mean it's a fronting business in there or something, and I guess linked to that
@@ -523,10 +486,7 @@ given where reinvestment rates were obviously very depressed last year?
 
 FINAL
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Hello, Andrew. This is Joachim. Hi. So with regard to P-C reinsurance growth, is there any
 things special about this spectacular 1/7 growth, the straightforward answer is no. Nothing
 special, no underwriting policy has changed. There is no one single large transaction that
@@ -543,10 +503,7 @@ second question, Christoph can you take it?
 
 Bloomberg Transcript
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah. Andrew you founded the technical topic. Sorry, we have a noise here. Okay, ahead.
 Andrew you found that the technical one-off hit in the investment result of the P-C Re
 business. What's happening there is that I agree you would have probably expected a
@@ -554,30 +511,21 @@ little bit higher running yield given also that the dividend season is in very m
 offsetting one off in here is that we have a lower regular income from associated
 companies compared to prior year, and that's a non-recurring effect.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Can I just ask on the P-C re growth. There must also be an effective from risk solutions
 being stronger than you expected, because we can see the renewal of the reinsurance
 premium in recent renewals. Okay there is a timing issue as to when that flows through. I
 get that, but we can see that 10%,11% growth the most will be a quite a big impact from
 risk solutions is stronger as well. Is that what the case?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Andrew there is growth coming from both, from core P-C Reinsurance business, but also
 from risk solutions business. And with regard to the latter at this point I wouldn't say that
 we had underestimated or overestimated the growth outlook back last year is rather than
 already end of last year, we expected this to grow with 10% CAGR. And this is what we
 have seen to-date, slightly more.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. Alright. Thanks.
 
 Page 10 of 21
@@ -594,10 +542,7 @@ Malhotra from Mediobanca. Please go ahead. Your line is open.
 
 FINAL
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes, good afternoon and thank you very much. So, I had two questions on growth and
 investment can do, but I'll just rephrase. So on the growth side thank you for the answers
 on the P-C re, but from the ERGO P-C Germany as well when I see the numbers, it seems
@@ -615,10 +560,7 @@ commodity exposure was lower. But could just help us understand. Thank you.
 
 Bloomberg Transcript
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Good afternoon,Vinit. This is Joachim. So I take the first question. Christoph takes the
 second one. So ERGos, P-C Germany growth that comes from a couple of reasons.
 Before I come to the reasons I would like to highlight ERGO P-C Germany is growing
@@ -636,10 +578,7 @@ Germany, I would suggest you cannot possibly compare it at all with US casualty 
 It's totally different market, it's totally different market dynamics. I would say the German
 casualty business is plain vanilla business.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you.
 
 Page 11 of 21
@@ -650,9 +589,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2021-08-10
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
+A - Christoph Jurecka {BIO 17223019 <GO>}
 
 FINAL
 
@@ -671,19 +608,13 @@ for this inflation kind of hedges.
 In the reinsurance portfolio altogether, it's about 25% of our assets which are inflation
 sensitive to give you an order of magnitude.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Sure. Christoph sorry to ask. Is there any -- as there been an increase in commodities,
 basically because of inflation or was it just stable and now we are seeing the result?
 
 Bloomberg Transcript
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 I mean this is commodity position is not a static position per se. So in that regard, we are
 always looking into opportunities, and then also given on the opportunities we see on the
 opportunistic base, increasing the portfolio, if we think it's a right environment to do so.
@@ -692,10 +623,7 @@ basis for comparison, but indeed we have been benefiting quite a lot this quarte
 commodities. Maybe let's put it that way. And I think that's about it what I can say about
 that.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you very much.
 
 Operator
@@ -721,10 +649,7 @@ overweight and underweight in terms of growth going forward? Thank you.
 
 FINAL
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 So on Antony, this is Joachim. So on the life and health reinsurance side where is the
 potentially bigger loss potentials or claims potentials sitting. On the mortality side it's
 always there were seeing the largest event is a pandemic actually, if it's not a pandemic it
@@ -742,17 +667,11 @@ any color on US and non-US fleet of the COVID claims, would be helpful.
 
 Bloomberg Transcript
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 You mean the COVID claims only. Sorry then on the COVID claims for the US these were
 in the first half year around, Christoph was it around 300 around?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Well the point is we have EUR140 million in the quarter. I think you were referring to the full
 half year, but for the quarter EUR140 million, and what I cannot give you or what we do not
 provide you with the exact split between the emerging markets and the mature markets,
@@ -767,9 +686,7 @@ Africa.
 Q - Antony Wang
 Sure. Thank you.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
+A - Joachim Wenning {BIO 16273429 <GO>}
 Page 13 of 21
 
 
@@ -814,10 +731,7 @@ Operator
 Thank you. And we'll now move to our next question over the phone, which comes from
 Ashik Musaddi from JPMorgan. Please go ahead.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah, thank you. I just have a couple of questions. First of all, in terms of capital return, I
 mean I think you mentioned earlier the solvency capital has been very strong and has
 been largely supported by strong diversification benefit. So if I think about it, I mean, last
@@ -851,9 +765,7 @@ market, you would say, getting better in terms of loss frequency severity pricin
 is it getting more profitable? Or would you say there remains a constructive uncertainty
 around cyber in next, say, 2 to 3 years? Thank you.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
+A - Christoph Jurecka {BIO 17223019 <GO>}
 
 Bloomberg Transcript
 
@@ -881,10 +793,7 @@ So really, wherever we look into the business, the underlying profitability, the
 development of the business from an operational perspective is really outstanding. And
 the third question, I think, Joachim, do you want to take that?
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 I will take it in, Christoph. Ashik, this is Joachim. Is the cyber market getting better? So I
 would say the cyber market started pretty much as an immature market in various sensors
 
@@ -920,26 +829,17 @@ question at this point.
 
 Bloomberg Transcript
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thank you. Thanks a lot.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Thanks.
 
 Operator
 Thank you. And we'll now move on to our next question over the phone, which comes
 from Thomas Fossard from HSBC. Please go ahead, your line is open.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes, good afternoon, everyone. Two questions, please, on the Life and Health
 reinsurance business. Actually, we talked a lot of growth coming from P-C, but can you
 explain us a bit more what's going on the Life and Health Re side in terms of top line
@@ -970,10 +870,7 @@ I was wondering if actually you're not too conservative -- too prudent as well a
 now regarding your technical margin, including fee income guidance for maybe over the
 next two years? Thank you.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 So Thomas, thanks for your question. This is Joachim. The Life and Health reinsurance
 business is expected to grow in the next years with a CAGR of 4%. In this year and in this
 quarter, we have seen a slight premium decrease, I mean, a marginal decrease which
@@ -1005,10 +902,7 @@ Operator
 Thank you. We will now move on to our next question over the phone, which comes from
 Ian Pearce from Credit Suisse. Please go ahead, your line is open.
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 Hi, thanks for taking my questions. I just had one on a follow-up on cyber. I'm just
 wondering if you could add a little bit more detail as to sort of what sort of rate increases
 you're seeing on your cyber book? What your sort of growth expectations are there if
@@ -1035,9 +929,7 @@ to continue to grow, but that sort of first cohort of investments that you've ma
 sort of ready to start showing some gains.
 Thanks.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
+A - Joachim Wenning {BIO 16273429 <GO>}
 
 Bloomberg Transcript
 
@@ -1055,18 +947,12 @@ Second question. Can you -- Iain, we have a difficulty in this room because the 
 a little bit poor of the transmission when you asked your second question. And we are not
 exactly sure what it was. Would you mind just repeating it?
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 Yes, sure. Sorry about that. Yes, it was just around the line in the presentation around the
 monetization of digital investments. I was just wondering if you could elaborate on how
 you're thinking about going about monetizing those digital investments.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 And this is -- first of all, we are keen to make these investments with the intent to improve
 our strategic position going forward, allowing us access to the original market, which we
 would never have as a pure classic a traditional reinsurer. And we are not going for the
@@ -1093,19 +979,14 @@ anything. But if you ask me, are we more keen to increase those earnings or to e
 further investments? I would say, if we can do good further investments, I will be happy to
 do that.
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 Perfect. Thank you.
 
 Operator
 (Operator Instructions). We'll now move to our next question over the phone, which
 comes from Darius Satkauskas from KBW. Please go ahead, your line is open.
 
-Q - Darius Satkauskas
-
-{BIO 19724328 <GO>}
+Q - Darius Satkauskas {BIO 19724328 <GO>}
 
 Bloomberg Transcript
 
@@ -1116,10 +997,7 @@ to exclude social inflation trends, if possible? And are you cautious about the 
 inflation outlook at all? And the second question is, any update on South African right
 losses for yourselves and the industry? Thank you.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah, Christoph here. I'll start with your second question. There's nothing I can give you
 today on the South African losses. It's too early to tell finally. And on the inflation on the
 liabilities side, social inflation, I think that's a topic we covered quite often already in the
@@ -1158,10 +1036,7 @@ role. But again, we have annual contracts to be reflected in pricing as soon as 
 have some index clauses for certain tariffs, also certain treaties, certain tariffs, certain
 covers also in place. So all in all, we feel well prepared for inflation.
 
-Q - Darius Satkauskas
-
-{BIO 19724328 <GO>}
-
+Q - Darius Satkauskas {BIO 19724328 <GO>}
 Apologies, I think I misphrased my question. I'm essentially asking about the monetary
 stimulus driving the inflation. So I'm talking about general claims inflation rather than social
 inflation. So I'm just curious if you're cautious about the outlook for material prices going
@@ -1169,10 +1044,7 @@ into cat season and things like that, what is your view? Thank you.
 
 Bloomberg Transcript
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 I think the general answer is the same that we feel well prepared. Part of our cat models
 are already the post-claim amplification of prices. So that there is a certain increased price
 of material after a big cat event is something which is anyway part of our model
@@ -1182,10 +1054,7 @@ talking more about social inflation is a signal that if you would ask me persona
 the more difficult part or the more difficult piece of inflation, it continues to be the social
 inflation more than anything else.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 And then I'd like to maybe add one comment with regard to Thomas' question before
 asking for some life and health reinsurance background. Gratefully both Christoph and
 Christian, they made me aware that one of my statements maybe was not precise
@@ -1195,18 +1064,13 @@ actually seen a EUR100 million fee income. Now you cannot just double it to have
 annual figure. But going forward, we-- as, in the past, we would expect this number to
 grow over time.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay. I guess there are no further questions. May I ask Simon to confirm?
 
 Operator
 No, sir. The queue is clear. Thank you.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 
 Page 20 of 21
 

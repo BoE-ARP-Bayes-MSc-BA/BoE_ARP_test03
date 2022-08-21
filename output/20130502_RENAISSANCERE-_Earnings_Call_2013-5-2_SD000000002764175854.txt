@@ -33,10 +33,7 @@ results conference call. All lines have been placed on mute to prevent any backg
 noise. After the remarks there will be question and answer session. (Operator
 Instructions) Thank you. I would like to turn the call over to Peter Hill. Please go ahead sir.
 
-Peter Hill
-
-{BIO 15385944 <GO>}
-
+Peter Hill {BIO 15385944 <GO>}
 Good morning, and thank you for joining our First Quarter 2013 financial results
 conference call. Yesterday after the market closed we issued our quarterly release. If you
 did not receive a copy, please call me at 212-521-4800, and we will make sure to provide
@@ -65,10 +62,7 @@ Neill Currie, Chief Executive Officer, Jeff Kelly, Executive Vice President and 
 Officer, and Kevin O'Donnell, President and Global Chief Underwriting Officer.
 I would now like to turn the call over to Neill. Neill.
 
-Neill Currie
-
-{BIO 6676681 <GO>}
-
+Neill Currie {BIO 6676681 <GO>}
 Thank you. Good morning, everyone. RenaissanceRE reported a good First Quarter,
 achieving an operating ROE of 22.5%, and growth in tangible book value per share plus
 accumulated dividends of 4.8%. Our results reflected the quality of the book of business
@@ -236,10 +230,7 @@ With that, thank you. And I will turn the call back over to Jeff.
 
 Bloomberg Transcript
 
-Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+Jeff Kelly {BIO 20911735 <GO>}
 Thanks Kevin. Good morning, everyone. I will cover our results for the First Quarter, and
 then give you an update to our 2013 top line forecast. First quarter profitability was
 strong, benefiting from solid underwriting, low catastrophe losses, and healthy income
@@ -344,10 +335,7 @@ uncertainty. We don't use them as targets or goals; our purpose in providing the
 is to give you our best estimates at this point in time.
 And with that, I will turn the call back over to Neill.
 
-Neill Currie
-
-{BIO 6676681 <GO>}
-
+Neill Currie {BIO 6676681 <GO>}
 Good, thanks, Jeff. Operator, we are happy to take questions.
 
 Bloomberg Transcript
@@ -356,10 +344,7 @@ Questions And Answers
 Operator
 (Operator Instructions) Michael Nannizzi, Goldman Sachs.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Thanks. I had a couple of questions on the capital management. $150 million came out of
 DaVinci. It sounds like that was financed by the holding company. Then you bought back
 some debt and then the share buybacks. I am just trying to get an understanding. Should
@@ -367,10 +352,7 @@ we interpret that as being consistent with your view on managed cap premiums bei
 down, and you're just sort of taking capital that you don't think you will need this year out
 of the business? Then just one follow-up, thanks.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Okay, so on the senior debt issue, that was actually an issue that matured. We didn't buy it
 back. But in terms of the $150 million we returned, that actually left DaVinci pretty much
 flat in the quarter. So we were just returning additional -- we took in some additional
@@ -379,9 +361,7 @@ about flat in the quarter. But it does reflect -- whether it is at DaVinci or Re
 does reflect our view of our ability to deploy the new business opportunities going
 forward.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Page 7 of 21
 
 
@@ -399,10 +379,7 @@ interest in a structure like DaVinci. Is it that investors -- you can help us un
 other things that you are doing allowed you to meet those clients' needs in a different
 way? Or any color would be helpful. Thanks.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Sure, this is Neill, Michael. A couple of things. First of all, we are always looking for good
 long-term players to add to DaVinci. In my opening comments, I talked about matching
 the right capital with the right risk. In DaVinci, it is very important to get long-term investors
@@ -421,36 +398,24 @@ third-party capital, and we did grow the Upsilon vehicle, but it really is about
 the different types of capital that we have, and trying to match it against the best risk that
 we can find to meet those return profiles.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Great, thank you.
 
 Operator
 Michael Zaremski, Credit Suisse.
 
-Q - Michael Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Great. Thanks. I noticed the catastrophe segment ceding levels ran at 36%, which is up
 from last year. Was that driven by Upsilon II, or were there other dynamics I should think
 about when modeling that out for the rest of the year?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 I think what you are seeing there mostly is Upsilon II. One difference that we have to allow
 to the other reinsurers is that we don't go out with a traditional reinsurance program. We
 will buy at different points in the year, depending on how our portfolio is shaped. But the
 change specifically you are referencing is really Upsilon.
 
-Q - Michael Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Page 8 of 21
 
 
@@ -461,18 +426,13 @@ Date: 2013-05-02
 
 Okay, got it.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
+A - Jeff Kelly {BIO 20911735 <GO>}
 
 FINAL
 
 Dominated by Upsilon.
 
-Q - Michael Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Okay. Another numbers question; the operating expense ratio ran a couple points higher
 than previous First Quarters. So if you can elaborate on the drivers.
 
@@ -485,10 +445,7 @@ delta between the First Quarter of last year and the First Quarter of this year 
 majority of that was related to that change in the accrual reversal, essentially for incentive
 compensation.
 
-Q - Michael Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Okay. Got it. Thank you, guys.
 
 Bloomberg Transcript
@@ -496,19 +453,13 @@ Bloomberg Transcript
 Operator
 Amit Kumar, Macquarie.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Good morning. I guess one follow-up and one other question. Going back to the
 discussion on capital, what do you think about capital management during the hurricane
 season? And since this is freeing up more capital, what are your updated thoughts on a
 possible special dividend down the road?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 So last year, I think we said as we went into wind season that we thought there was some
 possibility we would repurchase shares throughout wind season. That was, I think, the first
 time in our history that we had done that. That was a reflection I think of both the
@@ -540,20 +491,14 @@ So that is not to say that we wouldn't consider it. But I would say that if we w
 consider special dividends, it would be very close to the end of the year, certainly not
 before wind season (multiple speakers).
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 This is Neill. I would put an exclamation point on the earlier comments that Jeff said, in
 terms of a preference for share repurchase and the valuations. It would be at a higher
 price point than we have got now.
 
 Bloomberg Transcript
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it, that is helpful. The only other question I have is going back onto the discussion on
 third-party capital and its impact. One other company earlier today sort of opined that
 probably they expected XOL to be down 5% to 10%. And they sort of drew the distinction
@@ -575,10 +520,7 @@ program, either one free, pre-paid, whatever. I think there could be more compet
 potentially for RPPs, because it is more appealing to a second set of capital, but at this
 point, it is a little too early to call exactly what those rate changes will look like.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Okay. That is all I have for now. Thanks for the answers.
 
 Operator
@@ -595,10 +537,7 @@ Gregory Locraft, Morgan Stanley.
 
 FINAL
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Good morning. I just wanted to delve a little deeper into the Florida market. What I am
 really trying to do is parse units and price. I know you guys talk in terms of premium
 dollars. But just looking at the glide path from last November to today, is it fair to say that
@@ -608,10 +547,7 @@ thoughts with regard to Citizens, depop, and how that is going to play out at Ju
 A - Kevin O'Donnell
 To help me answer the question, when you say units, what are you referring to?
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 I guess for me, it is demand. You know, it's just unit demand or the amount of reinsurance
 that needs to be purchased, versus the price per unit or price per exposure.
 
@@ -640,10 +576,7 @@ the front end prices changes per unit of risk, I would hope that we can manage m
 efficiently because of the tools that we have been able to build, and the experience we
 have in doing this.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Greg, it is Neill. I might add one comment to Kevin's comments. We tend to look at things
 at a point in time. We have the renewals now, so everybody is focused on that. But when
 
@@ -662,10 +595,7 @@ demand coming through the pipe over the next 12 months.
 
 FINAL
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Okay. So there is a longer tail to that effect. I guess what I am really trying to get at is,
 back in November, you thought the year would be flat. In February, you thought the year
 would be down 5, and now it is down 10. And so something is slipping considerably
@@ -673,10 +603,7 @@ relative to the view internally five, five-plus months ago. I guess it seems to 
 Citizens situation is a break to the positive, so therefore what has to be slipping to the
 negative then is just -- it is all pricing. Is that a fair assessment?
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Greg, you are always on the ball. A couple of comments here. There are a few things.
 When you see these changes, there are all sorts of movements. There are deals coming
 into the portfolios. There are deals coming out of the portfolio. Is it low layer, is it high
@@ -698,18 +625,12 @@ that change occurred is not something that we saw. I wouldn't necessarily sit he
 and draw a regression out that what we have seen in that market from last year to this
 year is something that I would continue from this year to next year.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Okay, that is great color. Then last, just a small one for Jeff, is you mentioned in your
 commentary that you took out a hedge to lower portfolio duration. Can you talk a bit
 about the thinking and logic behind that?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Sure, Greg, we are actually making -- and I don't mean to overdramatize it. It is only a
 quarter of a year. We are making actually two relatively small tactical changes in
 positioning the portfolio.
@@ -742,9 +663,7 @@ think we emphasize -- or we anticipate a total commitment in the near term to th
 market of about $100 million. So it is not huge, but it is bigger than we have been there
 before.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
+Q - Greg Locraf t {BIO 4221265 <GO>}
 
 Bloomberg Transcript
 
@@ -752,10 +671,7 @@ Okay. Great. Then I guess just it has been a long time since I have done the sen
 if interest rates go up, what is the sensitivity into your earnings, and your ROE? And that is
 my last one. Thanks again.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Well it is probably worth a longer discussion. The answer is it depends. It depends how
 much, and where on the yield curve. Most of our investment securities are actually very
 short term, and inside of five years. So we think that the increase that is likely to take
@@ -764,10 +680,7 @@ hedge in 30-year Treasury bond futures.
 But I think the shortness of our duration inside now of two years really makes for a very
 limited impact on the earnings and equity of the Company from a rise in interest rates.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Yes, Greg, it is Neill. Maybe just for the benefit of some other folks on the call, or that will
 read the transcript, that are not as up to speed on our Company as you are, is on a
 comparative basis, compared to some other folks, there is less risk there for us than
@@ -775,10 +688,7 @@ some of our competitors, because we don't have as much leverage on the balance s
 in terms of assets to equity, and of course, we have a pretty short duration, high quality.
 Back over to Jeff.
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Not to kill the question with answers, Greg, but as of the end of the year, we do have a
 table in our Annual Report, which showed that the sensitivity of the portfolio -- at the end
 Page 13 of 21
@@ -793,9 +703,7 @@ of the year, the sensitivity to just the shift in the level of rates was about $
 100 basis point immediate increase in rates. So we would anticipate it would be
 somewhat less than that today.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
+Q - Greg Locraf t {BIO 4221265 <GO>}
 
 FINAL
 
@@ -804,10 +712,7 @@ Okay. Great. Thank you, so much.
 Operator
 Vinay Misquith, Evercore Partners.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Good morning. The decline in prices certainly are a little bit disappointing. Though what
 ROE do you think that you are writing the business right now, both from a property cat
 perspective as well as from a Company-wide perspective?
@@ -815,9 +720,7 @@ perspective as well as from a Company-wide perspective?
 A - Kevin O'Donnell
 Can you repeat the last part of the question? Sorry. I didn't hear it.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
+Q - Vinay Misquith {BIO 6989856 <GO>}
 
 Bloomberg Transcript
 
@@ -837,10 +740,7 @@ would expect that our portfolio will continue to outperform by a wide portion. B
 giving a specific number on that, I don't think that is the best way for us to talk about our
 book of business.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay, the second question is on the Florida market. My sense is there is more demand.
 Now, did I understand you correctly, that your view is that will take a longer time to play
 out, and that is why softer guidance in the past?
@@ -869,49 +769,31 @@ market. It is our belief that the private market, every dollar of insurance prem
 associated with the private market has more reinsurance dollars associated with it, which
 will enhance the growth prospects for the reinsurance business there.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay, that is helpful. On the capital, you bought back $100 million of debt this quarter,
 more than $100 million of stock. Should we expect you guys to buy back more than 100%
 of earnings, given that the opportunities are less versus the past?
 
 Bloomberg Transcript
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Well I wouldn't focus on specific amounts like that, Vinay. I think the way I would
 characterize it is we have always been and are committed to return capital to
 shareholders that we don't feel we can deploy effectively, and it would be our intention
 over some period of time to do that. But the precise method with which that is done, and
 the exact timing, I wouldn't bucket into any calendar quarter or calendar month.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure. But it is fair to assume there is today more capital than you need right now, correct?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 It is indeed.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Great. Just a numbers question, if I may. The fixed maturity income decline, about $4.6
 million this quarter versus the prior quarter. Were there some (indebted) losses in that?
 
-A - Jeff Kelly
-
-{BIO 20911735 <GO>}
-
+A - Jeff Kelly {BIO 20911735 <GO>}
 Vinay, there were actually three things that account for that decline. The first is that the
 average invested assets were down about $400 million in the fixed maturity portfolio.
 That accounted for about $1.5 million of the decline. And also had a change in derivative
@@ -933,19 +815,13 @@ elevated from previous quarters. So we converted a lot of assets that were on th
 at high yields, realized some significant gains in that, and invested them at current market
 yields. The overall market yield of the investment portfolio though is about the same.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 That is great. All right. Thank you.
 
 Operator
 Jay Cohen, Bank of America Merrill Lynch.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Thank you, yes, I guess the one area where there seemed to be some growth that you
 had mentioned was the crop business. I am wondering if you could talk about what you
 are doing there, and what you are seeing in that market?
@@ -961,10 +837,7 @@ million right now on an XOL basis. So it is a significant position we are buildi
 is one we feel comfortable with. It's also split between our Lloyd's operation and
 Bermuda; it's one of the lines that we write in both venues.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Great, thank you.
 
 Operator
@@ -988,9 +861,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2013-05-02
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
+A - Neill Currie {BIO 6676681 <GO>}
 
 FINAL
 
@@ -1018,19 +889,13 @@ years, but we have been fortunate and want to keep it that way.
 Q - Ron Bobman
 Thanks. Best of luck.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Thank you.
 
 Operator
 Amit Kumar, Macquarie.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Just one follow-up. I wanted to go back to the discussion on Citizens, the clearinghouse
 concept, and SB 1770, which has been meaningfully diluted. It doesn't seem to be a game
 changer from what I am hearing. Even if the clearinghouse proposal gets done, when do
@@ -1060,10 +925,7 @@ happening as well; so again, that is probably a post-2013 issue. But I think spe
 the clearinghouse, it is more likely to be 2014 -- we should see any help from it in 2014
 than 2013.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. And do you have any view on -- obviously the legislation, which has taken out that
 surely sound discussion altogether -- does that limit the upside, what we would have
 previously thought?
@@ -1081,19 +943,13 @@ proactive steps to look at options to how to reduce the state involvement in the
 market and allow the private market to grow. If we can be helpful with that, we will
 continue to do so. Actuarial rates we thought was a good way to do it, but it is one that -this will live another day, and see if it can go through in 2014.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. Thanks for the answers.
 
 Operator
 Sarah DeWitt, Barclays.
 
-Q - Sarah DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah DeWitt {BIO 18946247 <GO>}
 Hi. Good morning. I just wanted to follow up on your comments that you still believe you
 can construct an attractive book of business at mid-year. I know you won't quantify the
 modeled ROE that you expect to achieve. But could you help us understand at least
@@ -1122,10 +978,7 @@ So when we talk about our book in this context, we are really talking about the 
 position that we are able to build, and that is coming in from all the components being in
 which business and shared business and ceded business.
 
-Q - Sarah DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah DeWitt {BIO 18946247 <GO>}
 Okay. Great. Then just on the specialty reinsurance premiums they were down a lot in the
 quarter, but you are expecting some growth for the full year. What drove the decline, and
 why do you expect that to rebound for the rest of the year?
@@ -1145,19 +998,13 @@ hardening in certain casualty and specialty lines, so we are going to continue t
 opportunities on either an XOL basis or a quota share basis to continue to expand into
 those.
 
-Q - Sarah DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah DeWitt {BIO 18946247 <GO>}
 Okay. Great. Thanks for the answers.
 
 Operator
 Ryan Byrnes, Langen McAlenney.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Hi. Good morning, everybody. Just had one question. I realize that the TRIA renewal is still
 a ways away, but it seems like the early consensus is that is kind of -- there will be more
 risk put back in the private market. And I just wanted to see what kind of opportunities
@@ -1184,23 +1031,14 @@ So if you were to ask me what -- forget what I think might happen, but what I wo
 happens, is there is more transfer of conventional terror to the private market; and if
 there is a federal backstop, it really will focus on where it is most needed, which is NBC.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 One, Kevin was very articulate as usual there, but he might have been -misinterpretationally said -- it renews at the end of 2014, not 2013. Other than that,
 eloquent as usual.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Thank you.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Any other questions, operator?
 
 Bloomberg Transcript
@@ -1208,10 +1046,7 @@ Bloomberg Transcript
 Operator
 No sir, we have no further questions in queue.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Terrific. We enjoyed today. Tune in in a quarter to see how we did in the mid-year
 renewals. Thank you very much.
 

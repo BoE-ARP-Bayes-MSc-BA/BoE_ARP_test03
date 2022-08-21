@@ -26,10 +26,7 @@ opportunity to ask questions. Please note this event is being recorded.
 I would now like to turn the conference over to Susan Spivak Bernstein. Please go ahead,
 ma'am.
 
-Susan Spivak Bernstein
-
-{BIO 1514699 <GO>}
-
+Susan Spivak Bernstein {BIO 1514699 <GO>}
 Thank you and let me add my good morning and welcome to Argo Group's call for the
 third quarter of 2018. Last night, we issued a press release on earnings, which is available
 in the Investors section of our website at www.argolimited.com.
@@ -57,10 +54,7 @@ Mark?
 
 FINAL
 
-Mark E. Watson III
-
-{BIO 1463509 <GO>}
-
+Mark E. Watson III {BIO 1463509 <GO>}
 Good morning. And I'd also like to welcome you to today's call on our third quarter 2018
 earnings. As I reported last night, our third quarter 2018 adjusted operating income was
 $0.68 per diluted share versus a loss of $1.66 per share in the 2017 third quarter. And then
@@ -284,9 +278,7 @@ combination of the above to generate higher returns for our shareholders and loo
 forward to updating you on our continued progress at the end of the next quarter.
 And with that, I'll turn the call over to our CFO, Jay Bull.
 
-Jay S. Bullock
-
-{BIO 3644311 <GO>}
+Jay S. Bullock {BIO 3644311 <GO>}
 
 Bloomberg Transcript
 
@@ -384,10 +376,7 @@ FINAL
 Yes. Thank you. We will now begin the question-and-answer session. And the first
 question comes from Marcus Holanda with Raymond James.
 
-Q - Marcos Holanda
-
-{BIO 20526686 <GO>}
-
+Q - Marcos Holanda {BIO 20526686 <GO>}
 Good morning, everyone. Thanks for taking my question. My first question is around the
 expense ratio, there was a notable improvement there in the quarter. And Mark, I know
 you touched on some points in your prepared remarks on the tech investments, but I was
@@ -395,9 +384,7 @@ hoping you could – you guys give us some more color there on what drove the re
 and perhaps take this opportunity to give us an example of where you guys are
 harvesting those efficiencies?
 
-A - Jay S. Bullock
-
-{BIO 3644311 <GO>}
+A - Jay S. Bullock {BIO 3644311 <GO>}
 
 Bloomberg Transcript
 
@@ -409,34 +396,22 @@ business with the same amount of people because we're getting that business in f
 people in a more efficient fashion and we have tools that help those underwriters make
 decisions on that business more quickly.
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson III {BIO 1463509 <GO>}
 And a lot of the tools have been developed by Argo Digital.
 
-Q - Marcos Holanda
-
-{BIO 20526686 <GO>}
-
+Q - Marcos Holanda {BIO 20526686 <GO>}
 Got it. Thank you. And my second question is around the reserves
 You guys, I think, posted the unfavorable development in the quarter and reserves have
 been developing favorably for over the past several quarters. So is there anything there
 that you guys would add to?
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson III {BIO 1463509 <GO>}
 Well, I mean, it deteriorated in the aggregate by $300,000 on a reserve base of $3
 billion. So I wouldn't read anything into that. For the most part, our reserves have been
 developing favorably for the last 13 years and there's always a bit of lumpiness from one
 quarter to another.
 
-Q - Marcos Holanda
-
-{BIO 20526686 <GO>}
-
+Q - Marcos Holanda {BIO 20526686 <GO>}
 Okay. Thank you. And just finally. Do you guys have any visibility around – Michael losses for
 the fourth quarter?
 
@@ -448,9 +423,7 @@ Company N ame: Argo Group I nternational H oldings L td
 Company Ticker: ARGO US Equity
 Date: 2018-11-06
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
+A - Mark E. Watson III {BIO 1463509 <GO>}
 
 FINAL
 
@@ -460,24 +433,16 @@ think that if the third quarter is any guidance for the fourth quarter as compar
 ago, and I think that should give everybody a fair amount of comfort on the net impact to
 us.
 
-Q - Marcos Holanda
-
-{BIO 20526686 <GO>}
-
+Q - Marcos Holanda {BIO 20526686 <GO>}
 Okay. Thank you for your answers. Congrats on the quarter.
 
-A - Jay S. Bullock
-
-{BIO 3644311 <GO>}
-
+A - Jay S. Bullock {BIO 3644311 <GO>}
 Thank you.
 
 Operator
 Thank you. And the next question comes from Christopher Campbell with KBW.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
+Q - Christopher Campbell {BIO 20262752 <GO>}
 
 Bloomberg Transcript
 
@@ -486,10 +451,7 @@ how much of what we're seeing is regular IT expenses versus these digitization
 investments? And do these – or these and how long are you anticipating that these
 digitization investments continue?
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson III {BIO 1463509 <GO>}
 So, Chris, the majority of the money that's – the majority of the money that's – the
 majority of our expense every quarter is on general IT supporting our infrastructure,
 supporting the business applications, and lesser amount on our digital initiatives. And I
@@ -498,18 +460,12 @@ will always be spending money on IT to support our business. It's all based upon
 technology, and most of the innovation we have today is coming out of our digital team.
 So I would expect that to continue as well.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
-
+Q - Christopher Campbell {BIO 20262752 <GO>}
 Okay, got it. And just switching to the buybacks, I think we are a little bit lower than I
 expected. Is that just normal like third quarter not buying back (00:28:28) during CAT
 season or anything special there?
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson III {BIO 1463509 <GO>}
 Well, no, I mean, actually, on average, we've bought back about $40 million worth of stock
 each year. So I think we're kind of on track for the year. Having said that, there have been
 years when we bought back less in the third quarter, last year was a good example of
@@ -527,18 +483,13 @@ Date: 2018-11-06
 growing earned premium, which will become a smaller amount on a relational basis
 meaning we should see our expense ratio begin to decline.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
+Q - Christopher Campbell {BIO 20262752 <GO>}
 
 FINAL
 
 Got it. And just following up, that's a good point, on the expense ratio like where longterm are you targeting? Is it like 36%, 35%?
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson III {BIO 1463509 <GO>}
 Well, I think that Jay and I have both been pretty consistent in saying what we care most
 about is underwriting margin or combined ratio and we'd like to see that in the low-90s
 that's going to come from a combination of both improved loss ratio and improved
@@ -554,10 +505,7 @@ in that respect. Yeah, by the way, the expense ratio did improve.
 
 Bloomberg Transcript
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
-
+Q - Christopher Campbell {BIO 20262752 <GO>}
 Lloyd's Yeah, yeah, (00:30:58) I'm just – getting improved more, right, is the next
 question. Just one final one on Lloyd's, I'm just thinking about Syndicate 1200, you guys
 have been ramping down the participation in that annually and Lloyd's is doing a lot of
@@ -565,10 +513,7 @@ work to kind of weed out underperforming syndicates being tougher on the busines
 plans. How is all of that work happening at Lloyd's impacting your view of participation
 azure, as you submitted this year's business plan for 2019.
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson III {BIO 1463509 <GO>}
 And so, a lot of what I think you and others have been reading about in the media are
 things that we began working on at one of our Syndicate 1200 a year ago. And so, ours
 was our – are (00:31:45) the things that we were – the changes that we wanted to make in
@@ -577,16 +522,10 @@ So I mean, we're getting near the end of the things that we wanted to do. How th
 impacts our participation for next year, my guess is that we'll take a larger share of 1200 in
 2019 that we did in 2018.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
-
+Q - Christopher Campbell {BIO 20262752 <GO>}
 Okay. Well, thanks for all the answers. Best of luck the rest of the year.
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson III {BIO 1463509 <GO>}
 Thank you.
 
 Page 10 of 12
@@ -602,34 +541,22 @@ Thank you. And then next question comes from Jeff Schmitt with William Blair.
 
 FINAL
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Hi. Good morning, everyone. Question on the online quick quote platform. How much
 premium volume do you have flowing through that now and in what lines did you say are
 on there now?
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson III {BIO 1463509 <GO>}
 So it's still – I mean, this is brand new. So it's still measured in millions of dollars, not
 hundreds of millions of dollars, and it's mainly all liability (00:32:47) business.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Okay. That's what I thought. And what lines can you put on there obviously higher
 transaction type of business...
 
 Bloomberg Transcript
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson III {BIO 1463509 <GO>}
 Well, as I think I've said in my remarks earlier. I think we'll put – I think I've said high volume,
 what I probably should have said was, I think we can put all of our small account business
 on that over time. Having said that, I think it'll be an iterative process. Remember, the first
@@ -639,33 +566,21 @@ the U.S. So the goal is to have all small account business on either this platfo
 platform similar to this over the next couple of years. But it does take a while to kind of roll
 things on.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Okay. And then the predictive analytics platform, I guess, you could – I mean, is the idea to
 put all lines of business on that over time or would there be any that that wouldn't apply
 to?
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson III {BIO 1463509 <GO>}
 Well, again, I mean, the goal would be to try and do everything. I think as a practical
 matter, it's more useful for small and medium accounts. There's a lot more nuance in the
 larger accounts, which I think also continue to be relationship driven. So we're going to
 start with a small account business and we'll see where we go from there.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 And how far is that, how long is that? Is early stages the – is the online quick quote?
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson III {BIO 1463509 <GO>}
 I think it's even earlier. So...
 Page 11 of 12
 
@@ -675,34 +590,23 @@ Company N ame: Argo Group I nternational H oldings L td
 Company Ticker: ARGO US Equity
 Date: 2018-11-06
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Okay. Got it. Got it. So there's not even much anecdotal evidence of its benefits on?
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
+A - Mark E. Watson III {BIO 1463509 <GO>}
 
 FINAL
 
 Well, no, there's not. You're right.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Okay. Okay. That's all I had. Thank you.
 
 Operator
 Thank you. And this concludes the question-and-answer session, so I would like to turn the
 floor back over to Mark Watson for any closing comments.
 
-A - Mark E. Watson III
-
-{BIO 1463509 <GO>}
-
+A - Mark E. Watson III {BIO 1463509 <GO>}
 Excuse me. I'm allergic to something we're talking about. I'd like to thank everyone for
 being on the call. We've had a lot going on over the last year and I think that we had a
 chance to show some of that on a year-over-year basis for the third quarter and we look

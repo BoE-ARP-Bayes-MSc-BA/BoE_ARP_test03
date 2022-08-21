@@ -29,10 +29,7 @@ being recorded.
 At this time, I would like to hand the call over to your host today, Mr. Jean-Jacques
 Henchoz, Chief Executive Officer. Please go ahead, sir.
 
-Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
-
+Jean-Jacques Hencho {BIO 17457677 <GO>}
 Well, thank you very much and good morning ladies and gentlemen. I'd like to welcome
 you to our conference call presenting our results for the first half of this year. As usual, I
 will start with an overview before our CFO, Roland Vogel goes over the financials in detail.
@@ -121,10 +118,7 @@ figures in more detail.
 
 Bloomberg Transcript
 
-Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+Roland Helmut Vogel {BIO 16342285 <GO>}
 Yeah. Good morning and thank you Jean-Jacques. Moving directly to the segmental
 reporting, I will start with the development of our Property and Casualty business group.
 On a highly diversified basis, gross premium grew by 16% adjusted for currency effects
@@ -296,10 +290,7 @@ and I hand back to Jean-Jacques.
 
 Bloomberg Transcript
 
-Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
-
+Jean-Jacques Hencho {BIO 17457677 <GO>}
 Thank you very much Roland. Moving to Slide 18. As you know we went through our profit
 guidance in April, due to the uncertainties surrounding the future development of the
 COVID-19 pandemic and with the peak hurricane season just beginning, we're not yet in a
@@ -393,10 +384,7 @@ Ladies and gentlemen we will now begin our question-and-answer session. (Operato
 Instructions) And the first question we received is from Vikram Gandhi, Societe Generale.
 Your line is now open. Please go ahead.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hello everybody, thank you for the opportunity, it's Vikram, SocGen. I've got three
 questions. Firstly, can you split the EUR600 million COVID impact on P&C across the four
 buckets, creating business interruption, contingency losses and others. The second is, I
@@ -410,17 +398,11 @@ there in IFRS. Thank you.
 
 Bloomberg Transcript
 
-A - Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Hencho {BIO 17457677 <GO>}
 Thank you very much. I think I'll ask Sven to address the first and the second question and
 Roland will cover the capital position.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Yeah. Very -- very happy to give you an idea about how the EUR600 million is split by line
 of business, we have approximately 40% coming from the business interruption side, 25%
 from the credit side, and 20% from the events cancellation and contingency business,
@@ -451,10 +433,7 @@ bottom up reserving approach on COVID.
 
 FINAL
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 And maybe with regard to the the solvency ratio, if I understood your question correctly, it
 was -- how much is already kind of the considered also on a longer-term basis. The
 answer here is that we have considered everything, which has been accounted according
@@ -463,10 +442,7 @@ Potential longer term changes for instance, higher mortality or lower longevity,
 been considered yet and will only be done as soon as we know what the longer term
 impact might be.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay. That's very helpful. Thank you.
 
 Operator
@@ -475,10 +451,7 @@ ahead.
 
 Bloomberg Transcript
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi, good morning. Couple of questions on life and health rate. You mentioned that you
 probably haven't baked in as much IBNR on the life side, as you have on the P&C side. In
 terms of the EUR63 -- in terms of the EUR63 million number that you've set aside, can you
@@ -494,15 +467,10 @@ see real kind of -- I guess people passing away before you recognize it. Are you
 to bake that in or is that just something that's another thing in your arsenal to kind of, you
 know, I guess having for buffers and kind of get earnings up in future years. Thank you.
 
-A - Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Hencho {BIO 17457677 <GO>}
 Yeah. Klaus will address the two questions on them.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
+A - Klaus Miller {BIO 16886879 <GO>}
 
 Page 9 of 21
 
@@ -546,23 +514,14 @@ account, so even if we change our model slightly and we expect a better longevit
 in the future, we will account for it, as it comes in and not earlier. So we will not change
 that and we can't.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Thanks. Can I just clarify, so you said H2 is likely to be more in terms of claims than in H1.
 So if I can say EUR63 million, it's probably going to be a bigger number of that in H2.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Yeah. It will be a bigger number.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Okay. Great. Thank you.
 
 Operator
@@ -576,9 +535,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2020-08-05
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 
 FINAL
 
@@ -596,19 +553,13 @@ underlying I think it was 98 something combined in Q2. And as I'm always hesitan
 any conclusion on one quarter, is there any driver or this is very conservative current year
 reserving ex-COVID?
 
-A - Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Hencho {BIO 17457677 <GO>}
 Thank you. Sven will cover the retro parts and the underlying business of the non-life side
 and Klaus will follow-up on life and health.
 
 Bloomberg Transcript
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 On the retro part, Andrew, the small difference between gross and net on COVID, the 8.4
 million we are showing on all large loss list, is actually as a result from sessions against K.
 As I said, we have only booked those losses against K, which have actually been advised
@@ -617,18 +568,12 @@ And I would not like to guide you to say this gives the potential that the net n
 should be lower than the EUR600 million, but if you can look at the EUR600 million with
 that feature being additional conservatism built into the number.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 I mean, I guess maybe the question is on the BI losses, as they become notified claims, is
 that going to be mostly through proportional contracts, which aren't covered or mostly
 through just CapEx, which would be covered by K.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Andrew, that will be -- that will be a mix, it will be some pro rata, some risk but of course
 also from some CAT protections to the extent that the policy language under the CAT
 protections are providing coverage for pandemic exposure, which is not always the case.
@@ -637,9 +582,7 @@ the 40% of the overall EUR600 million figure is business interruption related, w
 course brings you to a number of EUR240 million, this would not all be suitable towards K
 given that this is coming from a mix basket of the pro rata risk and some CAT.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Page 11 of 21
 
 
@@ -650,27 +593,19 @@ Date: 2020-08-05
 
 Okay.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
+A - Klaus Miller {BIO 16886879 <GO>}
 
 FINAL
 
 And could you repeat the question on the underlying?
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Well, I just -- it looked like the underlying combined ex-COVID was relatively high in Q2, I
 think you said 98 something. And I think it was running around 97 underlying in Q1, so was
 there something else occurring or conservative booking or high attritional losses or
 something else in underlying business.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Well, as my colleagues have mentioned, we are EUR323 million over and above our large
 loss budget for the first half of the year, if you deduct that from the combined ratio, you
 are at 97.6%. Yes, that is higher than the target combined ratio of 97%. But let me put it
@@ -680,18 +615,13 @@ confident that we would have shown a combined ratio below 97%. But given COVID, 
 that the hurricane season is ahead of us, we decided to just let those 97.6% out of our
 machine and not really adjust on it.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
 Okay.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 On the life business, the underlying profitability was pretty strong in the first half year.
 There are two reasons for that. One is we have increased our Financial Solutions business
 and of course, this should continue for the next couple of years. So this is not a quarter
@@ -706,10 +636,7 @@ numbers and add them up, you will find a plus 10, minus 10 every now and then. S
 a good quarter, natural volatility to the positive side plus more financial solutions business,
 which is here to stay.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. Thanks very much.
 
 Operator
@@ -726,10 +653,7 @@ Please go ahead.
 
 FINAL
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Yes. Good morning, everyone. I hope you are doing all well. A few questions from my side
 as well. Firstly, I think going back to the normalized combined ratio, I just wanted to check
 if there is any benefit from lower frequency or do have actually seen any lower frequency
@@ -744,19 +668,13 @@ now in the market, do you think that there are any opportunities for you to expa
 strategically in certain region for through M&A. So if you could give us some ideas on that
 front that would be quite interesting. Thank you.
 
-A - Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Hencho {BIO 17457677 <GO>}
 Thank you, Paris. So the first question on P&C, Sven will address. Reinvestment yield,
 Roland and I'll take your third question.
 
 Bloomberg Transcript
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Yeah. On the normalized combined ratio side, we are seeing improved frequency in
 classes like motor, but we have not changed our ultimate loss ratio assumptions going
 into the year 2020. We may do so later in the year, but given that we are only seeing that
@@ -768,10 +686,7 @@ wouldn't overestimate that effect at this stage, given that we're only talking a
 number of months rather than quarters, where we are seeing that improvement of
 frequency.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 Yeah. Paris, I am actually not really in a position to give you an exact reinvestment yield, as
 we usually do, so because we have implemented this de-risking strategy to some extent,
 so in that regard it would be a bit difficult to say if we reinvest exactly as we are invested
@@ -782,9 +697,7 @@ that regard, the 2.7% might not be achievable for the full year, but that also r
 depends a little bit on the investment -- reinvestment policy and approach, which is a bit
 uncertain right now. Sorry for that.
 
-A - Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
+A - Jean-Jacques Hencho {BIO 17457677 <GO>}
 Page 13 of 21
 
 
@@ -819,20 +732,14 @@ opportunities are very material for us and particularly for '21.
 
 Bloomberg Transcript
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Thank you.
 
 Operator
 The next question is from Vinit Malhotra, Mediobanca. Your line is now open. Please go
 ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Good morning. Thank you. So two questions from me please. One is just, when I look
 at the Slide 10 and see the credit surety 130% combined ratio, which probably implies for
 the full year 115% or something on that. It's quite higher than even in the crisis, the global
@@ -843,10 +750,7 @@ credit -- the COVID losses by line, but I noticed that the last element, the oth
 clearly mention the D&O, the casualties those kind of lines, you said that it's still not there
 yet, or is it within that line and that's what we should take away. Thank you.
 
-A - Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Hencho {BIO 17457677 <GO>}
 Sven?
 Page 14 of 21
 
@@ -856,9 +760,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2020-08-05
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
+A - Sven Althoff {BIO 19104724 <GO>}
 
 Bloomberg Transcript
 
@@ -888,20 +790,14 @@ therefore, we have been a little bit cautious and put a little extra on our fina
 experience in 2008 or '09, but that's a great deal of science around that, it's a lot about
 our own expectations.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Thank you very much, Sven.
 
 Operator
 The next question is from Thomas Fossard, HSBC. Your line is now open. Please go
 ahead, sir.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. Good morning everyone. One question left on the life side. I think that in the past you
 provided the sensitivity to your EBIT number, which was a 5% excess mortality was
 implying a negative EUR130 million on your EBIT for life. Just wanted to know if you could
@@ -928,15 +824,10 @@ maybe Q1, which has been updated for the mark-to-market movement in capital
 generation, COVID-19 losses, but not the economic one which would be closer to a kind
 of ultimate loss estimates? Thank you.
 
-A - Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Hencho {BIO 17457677 <GO>}
 Klaus on the life side.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
+A - Klaus Miller {BIO 16886879 <GO>}
 
 Bloomberg Transcript
 
@@ -958,16 +849,10 @@ lucky, it might be less. We still feel comfortable with this scenario, but I wou
 it an estimate. It's a scenario calculation. I'm sorry that I can't be more precise here, but
 there are too many uncertainties.
 
-A - Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Hencho {BIO 17457677 <GO>}
 Sven, on P&C growth.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 On the P&C growth side, we have a rather diversified, picture. So yes there are a very few
 big transactions in there like a new motor quota share, which we have written in Canada
 and also one or two bigger transactions, which we have written in China, but the growth is
@@ -1001,9 +886,7 @@ lag between the ceding companies doing so and us seeing it in our accounts, you 
 a little bit of that in Q3 and Q4. So for the entire year, I would still expect a double-digit
 figure of growth on the P&C side, but closer to 10% compared to the 16% now.
 
-A - Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
+A - Jean-Jacques Hencho {BIO 17457677 <GO>}
 
 Bloomberg Transcript
 
@@ -1026,10 +909,7 @@ see additional losses again that would only be one year of a long role of Solven
 future cash flow implications.
 I hope that addresses your question.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yeah. Thank you. Just seeking clarity on that, just because some of your peers are taking
 the 12-month view on Solvency II, when one-year solvency calculation. But you make it
 clear. Thank you.
@@ -1038,9 +918,7 @@ Operator
 (Operator Instructions) And we do have another question from Vikram Gandhi, Societe
 Generale. Your line is now open again.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Page 17 of 21
 
 
@@ -1062,9 +940,7 @@ And so the net amount at risk, if that's the correct technical term to be used, 
 pretty low. So then, why should a couple of claims on these large sum-assured policies be
 really a material swing factor for the EBIT is my question.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 
 Bloomberg Transcript
 
@@ -1089,22 +965,13 @@ okay, if you give me the level premium, I take into account 3% or 4% of interest
 nobody makes that these days. So the client is interested to keep the cash and only pay
 the risk premium to us.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay. So the level premium presumably must be on the coinsurance treaties.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 Right. That's great.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay. Got it. Thank you very much.
 
 Operator
@@ -1121,19 +988,13 @@ again.
 
 FINAL
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Thank you. Very quick one, sorry. Klaus, for life side in the US, are you able to provide
 some indication of how much are the older age is in proportion to the population or
 something and I'm sorry, you might have commented in another Investor Day, but I can't
 seem to recollect that if you have provided that. Thank you.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 We have about, I think 1.2% of our portfolio is age 80 or older, by amount and if you just
 count the lines, then it's only 0.8%. So this is relative to our competitors, I guess a slightly
 smaller amount of old age people. Basically due to the fact that in the very early days,
@@ -1145,9 +1006,7 @@ And from the broad portfolio as mentioned earlier by me, quite a substantial par
 YRT treaties of permanent life -- whole of life have been recaptured. So this is why our
 share is a little bit smaller here.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 Bloomberg Transcript
 
@@ -1157,10 +1016,7 @@ Operator
 And there is another question from Andrew Ritchie, Autonomous. Your line is now open
 again.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi there. Two short ones I think, one potentially very short. On the business interruption
 assumptions, are you able to say this is quite of live court cases is one particular significant
 court case ongoing, are you able to say have you made a sort of risk adjusted assumption
@@ -1173,10 +1029,7 @@ or I mean, would you consider some catch that there might be some catch-up on th
 this, should we just adjust ourselves to a permanently lower level of return from those
 alternative assets.
 
-A - Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Hencho {BIO 17457677 <GO>}
 Sven?
 Page 19 of 21
 
@@ -1186,9 +1039,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2020-08-05
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
+A - Sven Althoff {BIO 19104724 <GO>}
 
 FINAL
 
@@ -1199,10 +1050,7 @@ we have taken a balanced view. So if all these cases would go against the insure
 the EUR240 million number would not be sufficient. If insurers should win all cases
 everywhere, than the EUR240 million would be prudent number.
 
-A - Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Hencho {BIO 17457677 <GO>}
 Andrew, with regard to the expectations of the income from alternative vested, I don't
 see any reason why this would not recover or even catch up and I'm sure that the private
 equity fund might also see opportunities driven by the crisis, because it's uncertain as to
@@ -1210,10 +1058,7 @@ when that will happen, but to now assume that even after a recovery of the econo
 investors will digest or accept lower yields for such exposures doesn't -- wouldn't make
 sense to me.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. Thanks very much.
 
 Operator
@@ -1222,20 +1067,14 @@ Bloomberg Transcript
 
 And we have another question from Thomas Fossard, HSBC. Your line is now open again.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. Thank you. A very last one, regarding the situation in Lebanon, I made it very early
 days, but again that's the level of understanding, we have of this kind of market is pretty
 low. So could you shed some light on where and how you would expect losses to hit the
 market not -- maybe not Hannover Re specific, but more a high level comment if you have
 any. Thank you.
 
-A - Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Hencho {BIO 17457677 <GO>}
 Well, first and foremost, we're very sorry to see this tragedy happening yesterday and it's
 very, very early days, so we don't have an overview when it comes to loss of life or loss of
 property at this stage. Of course, the impact for the infrastructure will be massive from an
@@ -1247,10 +1086,7 @@ what extent this will be a major losses. It will be a major loss for us, I see u
 but whether it's a low double-digit or high double-digit or even three-digit number, it
 would be impossible for me to comment right now.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Sure. Thank you.
 
 Page 20 of 21
@@ -1267,10 +1103,7 @@ remarks.
 
 FINAL
 
-A - Jean-Jacques Hencho
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Hencho {BIO 17457677 <GO>}
 Well, thank you very much for your participation and your questions. I think we covered the
 ground very well. We wanted to give you the latest updates on our best estimates on the
 exposure on COVID-19. We tried to be very cautious, looking at client information, market

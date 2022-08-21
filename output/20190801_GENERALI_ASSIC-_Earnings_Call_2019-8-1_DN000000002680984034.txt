@@ -34,10 +34,7 @@ questions. (Operator Instructions)
 At this time, I would like to turn the conference over to Ms. Giulia Raffo, Head of Investor
 and Rating Relations. Please go ahead, madam.
 
-Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+Giulia Raffo {BIO 21037091 <GO>}
 Good morning, everyone, and welcome to Generali first half 2019 conference call. Here
 with me I have our General Manager, Frederic de Courtois and our Group CFO, Cristiano
 Borean. We are looking forward to get your questions.
@@ -59,10 +56,7 @@ FINAL
 Excuse me, this is the Chorus Call conference operator. We will now begin the questionand-answer session. (Operator Instructions) The first question is from Peter Eliot with
 Kepler Cheuvreux. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you very much. My questions really were all about the combined ratio. The main
 one, I guess, I was surprised by the speed of the sort of increase of the expense ratio
 due to the business mix and also the speed of the offsetting reduction in the loss ratio. So
@@ -78,10 +72,7 @@ going forward the current competitive environment would be very helpful. Thank y
 
 Bloomberg Transcript
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Thank you, Peter. This is Frederic speaking. First, on expense ratio and claims ratio, so as
 you know, we manage the combined ratio. And as we move to a different mix of business,
 so more non-motor, more travel, we also move to lines with lower claims ratio and slightly
@@ -97,10 +88,7 @@ Motor pricing in Italy, so average premium in Italy has stabilized, which is goo
 Market remains, obviously, competitive, but no -- so news compared to what I've told you
 three to six months ago, so stabilization of motor premiums and competitive markets.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. Thank you very much. I'll follow up offline with the first point (inaudible). Thank you.
 
 Operator
@@ -116,10 +104,7 @@ Date: 2019-08-01
 
 FINAL
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi there. The first question, I'm afraid, is on interest rates. You say in your prepared
 remarks, Frederic, that it's challenging your financial assumptions. What -- just to be clear,
 what do you mean by that comment? I guess what were your financial assumptions on the
@@ -129,9 +114,7 @@ quick one on asset management. Are there any more acquisitions that have been
 announced that are yet to book through into the assets? Obviously, there was a tailwind in
 the booking and a catch-up in Q2. Are there anymore? Thanks.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
+A - Cristiano Borean {BIO 15246531 <GO>}
 
 Bloomberg Transcript
 
@@ -151,29 +134,17 @@ maintain substantially positive financial margin. On the other side, the mix als
 different products in Life on protection and clearly health are -- and unit-linked as well as
 helping us to support on the other forms of technical result.
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Andrew, on asset management, the boutique that are not included yet in our P&L is union
 in Poland and all the stuff -- and the startups that we have recently launched.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 So would you expect them to come through in Q3 or later?
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Yes, Q3.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 And just to be clear, just on non-life reinvestment rate there, was that -- that was an
 average reinvestment rate you cited in your prepared remarks, presumably not at period
 end. Is that correct?
@@ -186,26 +157,17 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2019-08-01
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Yes, it is exactly the one of the first half. It is not the annualized part of them.
 
 FINAL
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 And can you continue to allocate more of your P&C assets to alternative non-fixed income
 assets? Obviously, you've increased the allocation to equity and real estate a bit. Is there
 a (inaudible) to do that further?
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 I think, first of all, let me comment that in our first half, we had a higher share of the part
 of their investment, which helped us also not to get the full lower effect, as you can see
 now. Going on forward, yes, we do continue consistently with our strategic plan to allocate
@@ -213,10 +175,7 @@ to alternative asset and real asset, being it either real estate or real private
 private equity consistently with the strategy of allocating the EUR20 billion in the three
 years of real assets. So we are strictly deploying our strategy.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. Thanks very much.
 
 Operator
@@ -225,10 +184,7 @@ Bloomberg Transcript
 
 The next question is from Hanif Farooq with Credit Suisse. Please go ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, guys. Good morning, or good afternoon. Just two questions. So especially the 4% top
 line growth that you've got in P&C, could you give us -- I mean, that's a really good rate, I
 mean, and just can you give us an idea of generally broadly pricing versus volume in that?
@@ -238,10 +194,7 @@ to maintain that savings margin? I mean, you mentioned in your transcript that y
 increasingly selling contracts with sub-zero percent guarantee. So can you give us an idea
 of the mechanisms that you're using to maintain that margin? Thank you.
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Hi, Farooq, this is Frederic. So you are right that 4% is a good rate. We had discussed this
 at the -- at our Investor Day in London. So the one impact is our strategy to move to more
 modular products, so increasing the average premium, thanks to these products with
@@ -271,59 +224,38 @@ diversification offer [ph] and investing in a longer-term on these assets, which
 the mainly in the hybrid part which has a longer duration on the liability construction. So
 this is basically what you could expect with the new financial scenarios.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 And may I just very quickly ask, can you give us an idea of what proportion of your new
 business and savings in capital-light is sub zero percent and what portion is zero? Is the
 majority kind 0% guarantee for new business?
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 It is a part, it is not the full amount below zero because there are countries where the
 below zero still, regulatory speaking, is not something allowed. So we are more in the
 30% to 40% of this production because of France.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thank you very much.
 
 Bloomberg Transcript
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Yeah. We can say, France, if you look at the figures, France is below zero and Italy is zero,
 but only maturity guarantee, so which are two biggest large producers.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Thank you.
 
 Operator
 The next question is from Nick Holmes with Societe Generale. Please go ahead.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hello. Hi there. Just a couple of questions, please. Just coming back on the low bond
 yields issue, wondered what your thoughts are about P&C. Could it actually be positive?
 Could it help sustain a hard market? And then looking at PYD, this has come down to
 about 4% in the first half. Is that the sort of sustainable level? Thank you very much.
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Okay, Nick. So regarding the bond yield and the P&C, could sustain the hard market. I
 mean, what happens is that technically speaking, having improved on all the value chain
 on the P&C, so on the technical part, as you can see and focusing even more on that, up
@@ -343,36 +275,22 @@ edge in this kind of situation, if you can compare, for example, to our peers.
 
 FINAL
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Right.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Nick, on your second question, so the previous year has decreased compared to last year.
 We believe this is sustainable, we believe this is sustainable and we've already discussed
 this, thanks to our prudent reserving on the current year claims ratio and this is especially
 sustainable in an extremely low inflation environment, which heads of course.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Right. And could you remind us your inflation assumptions again?
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 We've never disclosed our inflation assumption.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 
 Bloomberg Transcript
 
@@ -381,10 +299,7 @@ Okay. Fair enough. Thank you very much.
 Operator
 The next question is from James Shuck with Citigroup. Please go ahead.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Hello. Hi, good morning and good afternoon, everybody. So, a couple of things from me.
 Just returning to the new money yields, so appreciate you've kept new money yields flat
 in H1. Obviously those are the averages over the period. I mean, where are you now in
@@ -418,10 +333,7 @@ And then finally, just a quick one on France, we see there is a big increase in 
 in France, up 45% in H1, is that particularly new product launches of any description or is it
 just greater demand for the euro denominated contracts? Thank you.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Hi, James. This is Cristiano. So new money yield point. So where are we now? Regarding
 the actual situation, first of all in the first semester as you've seen, we had diversified and
 dispersed our investment base in different as well in when investing in government
@@ -438,10 +350,7 @@ classes. So this is from the risk adjusted perspective, the best approach we are
 
 Bloomberg Transcript
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 On Vitality and France, so Vitality -- you know that we have rolled on Vitality in Germany
 first and then France and Austria. The start in Germany was extremely good and then
 slowed down due to the project we had of the integration of our distribution channel with
@@ -459,10 +368,7 @@ mix for the new business. The (inaudible) coming up in October will give us new
 opportunities especially on the pension products, so we are going to work hard on the
 Life business mix in France.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -478,10 +384,7 @@ The next question is from Johnny Vo with Goldman Sachs. Please go ahead.
 
 FINAL
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Yeah, hi. Thank you very much. Just a few questions. Just in terms of low rates, can you
 just discuss the impact of the low rate environment on your capital generation and which
 markets are going to be significantly impacted by this? Number two, I just noticed your
@@ -492,9 +395,7 @@ question is just in regards to the acquisition in Portugal, was that effectively
 debt repayment from the German disposal, if you can give any color around how you
 funded that acquisition? Thank you.
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
+A - Frederic de Courtois {BIO 16976110 <GO>}
 
 Bloomberg Transcript
 
@@ -515,19 +416,13 @@ us to benefit also from lower capital absorption and this has been done. As I wa
 before, consistently to maintain diversification but as well dispersion within the same
 asset class on the risk we are taking
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 On Portugal, Johnny, in fact, we've said and you know that we have EUR3 billion to EUR4
 billion available for capital redeployment. So, the EUR600 million in Portugal is part of
 fees. So it was funded on our available cash, which of course include GEL proceeds, but I
 would say it's broader than that.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Okay. Thank you.
 
 Operator
@@ -570,10 +465,7 @@ wondered because there are one-off elements that I think it's fair to assume tha
 rate is still a negative number around that level? Or is that too concerned with it? Thank
 you.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Hi, Niccolo, it's Cristiano. So first of all, related to the movement in France a new business
 margin and it's declined. The operating assumption component related to that was mainly
 driven to a change are requested by the regulator ACPR linked to the so called dynamic
@@ -588,10 +480,7 @@ main factor. The second point --
 Q - Niccolo Dalla-Palma
 It should then lead to a positive operating experience over time?
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes. Because if the level of low rates, yes, on the old business, we are already observing
 it but on the new business this should be related to the actual differences between the
 experience which we see, which is lower lapses versus what it is in the model. So I confirm.
@@ -625,10 +514,7 @@ The next question is from Rahul Parekh with JP Morgan. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Rahul Parekh
-
-{BIO 18787842 <GO>}
-
+Q - Rahul Parekh {BIO 18787842 <GO>}
 Hi, thanks for taking my questions. I have three questions, please. The first one is on the
 loss ratio, basically, the attritional loss ratio improved by around 150 bps, so I just wanted
 to understand how sustainable that is? And where did this improvement come from? The
@@ -639,10 +525,7 @@ leverage is now 29.6% roughly versus 32 -- 33% in FY'18. So just wanted to under
 now Generali is looking to go to the top end of the target range of debt reduction that is
 around EUR2 billion rather than EUR1.5 billion? Thank you.
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 So on attritional loss ratio. First, it's interesting to note that this is broad-based, so this not
 linked to one specific country. This is a trend we in most of our countries. This is very much
 linked to all the programs we have implemented on technical excellence and this is
@@ -672,10 +555,7 @@ integration and the risk of volatility around of our business plan is low.
 
 FINAL
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Rahul, it's Cristiano. On the leverage, so absolutely spotted, we are now below the 30%
 leverage ratio. According to our strategic plan, we stick to the commitment of managing
 and at the same time both our reduction between EUR1.5 billion and EUR2 billion [ph] of
@@ -687,10 +567,7 @@ manage our debt. For us, the target on the leverage and the debt, the target is 
 and very relevant target for the whole capital management and structure capital change
 of Generali, and so we will continue to be very focused in managing this target.
 
-Q - Rahul Parekh
-
-{BIO 18787842 <GO>}
-
+Q - Rahul Parekh {BIO 18787842 <GO>}
 Okay. Thank you so much.
 
 Operator
@@ -698,38 +575,26 @@ Our next question is from Farooq Hanif with Credit Suisse. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, there, really sorry, just a quick follow-up. So it's quite clear that over time you'll increase
 in non-motor as well as technical excellence is sort of led to if change in mix in your
 combined ratio, the people have asked about. And I'm just kind of wondering how far do
 you think you got to go in terms of generating further mix change in P&C to help kind of
 keep that ratio at the current level? Thank you.
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 On this, I believe that in our product mix non-motor will continue to increase of
 subsequent [ph] period, but also over the next plan. I mean we are focusing on the nonmotor. We are focusing on SME business. So we believe that this is a trend, which is here
 to say -- to stay, especially with the strategy we have on modular products, so bundling
 more guarantees together.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thank you very much.
 
 Operator
 The next question is from Andrea Lisi with Equita. Please go ahead.
 
-Q - Andrea Lisi
-
-{BIO 20482284 <GO>}
-
+Q - Andrea Lisi {BIO 20482284 <GO>}
 Page 11 of 15
 
 
@@ -745,26 +610,18 @@ average sales going on? Thank you.
 
 FINAL
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 My comment on this is that we have and don't change reserve policy. So what you've seen
 last year was to seen -- what you're seeing this year is a small volatility and we expect to
 continue with this trend.
 
-Q - Andrea Lisi
-
-{BIO 20482284 <GO>}
-
+Q - Andrea Lisi {BIO 20482284 <GO>}
 Okay. Thank you.
 
 Operator
 The next question is a follow-up from James Shuck with Citigroup. Please go ahead.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
+Q - James Shuck {BIO 3680082 <GO>}
 
 Bloomberg Transcript
 
@@ -775,10 +632,7 @@ moved from a net long position to net short position over that period, which sug
 the liabilities are actually lengthening a slightly at faster rate. Could you just shed some
 insight into what's happening with that complexity, please?
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Hi, James, it's Cristiano speaking. There's for sure a minor effect coming from the
 complexity, but be aware that our reinvestment also in the first half were made exactly to
 match --the cash flow matching because I strongly ask you to concentrate even more on
@@ -787,19 +641,13 @@ do the correct ALM and the change is absolutely minor and there is nothing struc
 is 0.1, if I understanding in the duration gap, which is within the acceptable range of
 movement of assets and liabilities. Hope I answer your question.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Yeah, I'm just wondering about is in an ultra-low bond yield environment, do people tend
 to hold on to their life contracts for longer than you expect. And even if that hasn't
 necessarily come through in H1, a risk you see as we look forward that the duration of the
 liabilities starts, it starts to expand.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 No. Apart from the already mentioned behavior of low level lapses on the French portfolio
 coming from the tax regime change. We did do not see any change in the behavior.
 
@@ -811,33 +659,23 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2019-08-01
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 And you wouldn't expect to either going forward?
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
+A - Cristiano Borean {BIO 15246531 <GO>}
 
 FINAL
 
 Yes, indeed, because this is linked to the full blend of the product per se and the duration
 of the product, which is a long product 15 year usually more. So we don't see.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Okay. Thank you very much.
 
 Operator
 The next question is from William Hawkins with KBW. Please go ahead.
 
-Q - William Hawkins
-
-{BIO 17918548 <GO>}
+Q - William Hawkins {BIO 17918548 <GO>}
 
 Bloomberg Transcript
 
@@ -848,10 +686,7 @@ you have any updated views about whether we should be preparing for further chan
 at the end of this year or into next year? Any major talking points regards to AFS review
 will be kind. Thank you.
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Hi, William. So, basically what you get in this second quarter extra change was a minor
 change in the so-called internal model, which is part of our continuous refinement of our
 risk profile, which is a nearly process we do with the regulator which anyhow is a minor
@@ -865,17 +700,11 @@ next year it will be 15% recognition of this own funds, in the own funds will be
 capital gain, which could cost in the ballpark of 1.5 around percentage points depending
 on the level of interest rates.
 
-Q - William Hawkins
-
-{BIO 17918548 <GO>}
-
+Q - William Hawkins {BIO 17918548 <GO>}
 Great. But with regards to the methodology reviews that I had just conducting [ph] has
 nothing material to update on that.
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 No, clearly the methodology review is nothing material and it is anyhow, I would like to
 stress that it's some of this is independent of the Group Generali, it is a full market, which
 is, for example, the new definition that the EIOPA applies year-after-year on the so-called
@@ -890,9 +719,7 @@ Date: 2019-08-01
 EIOPA reference portfolio. So this is out of our hand and we don't know how we do it. But
 up to now we don't expect a major changes stemming from the regulator.
 
-Q - William Hawkins
-
-{BIO 17918548 <GO>}
+Q - William Hawkins {BIO 17918548 <GO>}
 
 FINAL
 
@@ -901,60 +728,41 @@ Very helpful. Thank you.
 Operator
 The next question is a follow up from Peter Eliot with Kepler Cheuvreux. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you. Just a quick further one on Portugal, actually you very helpfully you give us the
 anticipated P&L contribution in 2021 of EUR60 million. And I'm just wondering what your
 assumptions are in that? Whether this already sort of any sort of synergy -- synergies
 (inaudible) into that or whether that we're seeing numbers from what your acquiring [ph]?
 Any comments on that will be very helpful. Thank you.
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Sorry. I'm trying to understand your question on assumptions.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter Eliot {BIO 7556214 <GO>}
 
 Bloomberg Transcript
 
 Sorry. So you given EUR60 million in 2021, I'm just wondering whether that includes a new
 synergy [ph], so that's something that is already off, I think you benefit from new synergy?
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Okay. Okay, sorry. It includes the start of the synergy program. So that's why we are
 seeing that the contribution should be higher after 2021, because we will not have the full
 synergies yet in 2021, so it includes on your part of the synergies.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. Thank you.
 
 Operator
 The next question is a follow-up from Rahul Parekh with JP Morgan. Please go ahead.
 
-Q - Rahul Parekh
-
-{BIO 18787842 <GO>}
-
+Q - Rahul Parekh {BIO 18787842 <GO>}
 Hi, I just wanted to understand on -- it's a very small question on your Holding and other
 business segment, we saw greater impact from private equity this time and even Banca
 Generali performance is high. So can you just comment on your outlook there? Do you
 expect more contributions from private equity or any other one-offs?
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Page 14 of 15
 
 
@@ -977,10 +785,7 @@ second half. So that -- let you understand how this will behave. And going forwa
 weight of the private equity being larger should give on absolute basis a larger
 contribution.
 
-Q - Rahul Parekh
-
-{BIO 18787842 <GO>}
-
+Q - Rahul Parekh {BIO 18787842 <GO>}
 Okay. Thank you.
 
 Operator
@@ -988,10 +793,7 @@ Ms. Raffo, there are no more questions registered at this time.
 
 Bloomberg Transcript
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Thank you very much everyone for your attention. As always the IR team is at your
 disposal for any follow-up questions that you might have and a great holiday period.
 Thank you very much.

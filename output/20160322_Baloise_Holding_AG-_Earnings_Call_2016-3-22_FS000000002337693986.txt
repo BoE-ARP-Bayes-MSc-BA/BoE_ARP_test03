@@ -33,18 +33,12 @@ being recorded. After the presentation, there will be a Q&A session. The confere
 not be recorded for publication or broadcast.
 At this time, it's my pleasure to hand over Mr. Marc Kaiser. Please go ahead, sir.
 
-Marc Kaiser
-
-{BIO 15056036 <GO>}
-
+Marc Kaiser {BIO 15056036 <GO>}
 Good morning, everybody. Thank you for joining us this morning for our full-year results
 and Q&A conference call. It's a pleasure for me to introduce you to our new Group CEO,
 Gert De Winter. Please, Gert.
 
-Gert De Winter
-
-{BIO 19720616 <GO>}
-
+Gert De Winter {BIO 19720616 <GO>}
 Thank you, Marc. Ladies and gentlemen, you all received this morning, of course, the
 information pack. What I would like to do is run through the highlights and then actually
 
@@ -98,9 +92,7 @@ Operator
 We will now begin the question-and-answer session. The ﬁrst question is from Mr. Daniel
 Bischof from Baader Helvea. Please go ahead.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Page 2 of 22
 
 
@@ -119,10 +111,7 @@ strengthening in that segment?
 And then, the second one is on capital management. Could you provide some more
 details what your thoughts were when deciding to go for an unchanged dividend?
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Let me pick up the second question ﬁrst, if I may, and then, hand over the other question
 to the colleagues. Over last couple of months, it is clear that the Swiss regulator has
 announced a couple of times that they will be moving much more to the standard models
@@ -141,10 +130,7 @@ always been above 100%, and we've never gone to the market to raise capital for
 solvency reasons and we don't intend to break that tradition.
 Coming back to the life question, I'll hand over to German Egloﬀ, our group CFO.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Well, that's of course the question ﬁnally what the interest rate curve is doing at closing.
 But, if the trend is going on, you are certainly right, then you need an additional reserve
 strengthening – that's quite clear. And ﬁnally that's done on the local GAAP (07:17) basis.
@@ -158,10 +144,7 @@ year that I just don't know it. We have to see what's happening there. I mean, w
 seen it in the last year. Just because interest rates picked up just before the end of the
 year, the second half of the year was somehow surprising in the results for us as well.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Can I ask a follow up on capital management. I mean, looking at the Bâloise Holding, the
 CHF 204 million in other income related to Luxembourg, I'm not quite sure I understand
 the nature of this, is it called impairment reversal?
@@ -173,86 +156,52 @@ Company Name: Baloise Holding AG
 Company Ticker: BALN SW Equity
 Date: 2016-03-22
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 That's just the outplays of (08:51) participations. Because in the Luxembourg Holding, it's
 the Luxembourg business and the Belgium business as well.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
+Q - Daniel Bischof {BIO 17407166 <GO>}
 
 FINAL
 
 Okay. So, excluding this item, the holding cash ﬂow – I'm not sure – did it actually (09:04)
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 That's not a cash ﬂow issue.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Well, therefore, I mean the holding cash ﬂow did actually not cover the dividend, is that
 correct?
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 The cash ﬂow – say it again.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 The holding cash ﬂow to Bâloise Holding did not cover the 2015 dividend.
 
 Bloomberg Transcript
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Yes, it did but you wouldn't see it.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Okay, so maybe you could provide some more details there? And then also (09:40)
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Yeah. Well, it's mainly that it's always sort of the same. The biggest two dividend payers
 are up to now, the Swiss non-life business and then the internal reinsurance business, and
 that's unchanged.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Okay. Thanks.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 But we have – the Belgium dividend for example, goes to Luxembourg, and then from
 Luxembourg that's more like in a, let's say, ﬁnancial or tax optimization machine that you
 have to run how much dividend or how much cash ﬂow you're then transferring to from
 Luxembourg to Brussels.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Page 4 of 22
 
 
@@ -263,9 +212,7 @@ Date: 2016-03-22
 
 Okay. Understood. Thanks a lot.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
+A - Gert De Winter {BIO 19720616 <GO>}
 
 FINAL
 
@@ -275,10 +222,7 @@ holding statement if there are any uncertainties after this question, yeah?
 Operator
 The next question is from Mr. Michael Huttner from JPMorgan. Please go ahead.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Fantastic. Thank you very much. Just on this reserving point. Can you remind us what the
 cost was to shareholders in the ﬁrst half of 2015 of that (10:59) that may help us form a
 view on what could be done now? And the other thing is, you know, as interest rates drop,
@@ -293,19 +237,13 @@ something. And I just wondered, in the past I had hoped that this is the second 
 2015 was then we'd actually see below 100. Can you give a bit more color when this might
 happen now? Thank you.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 May I just ask you to repeat the ﬁrst part of the question because we didn't get that here?
 The sound was very bad, so we missed actually half of the question. We got the question
 about Germany all right, but the other questions we're about blurred in the – somewhere
 – got lost in the clouds somewhere. Please repeat?
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 It's lost in the clouds, that sounds like me. Yes. No, of course. Thank you. The ﬁrst question
 was on the ﬁrst half 2015 you added to reserve. Now, you can't tell us how much you're
 going to add this year, but clearly you're going to add something. Can you tell us how
@@ -317,10 +255,7 @@ stop writing this traditional business, presumably, it will start releasing, I m
 policies mature, it will start releasing capital. I just wondered when that might be. And
 then of course, the question on German non-life. Thank you.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Yeah. Well, let me pick up the Germany question, also an attempt to the second question
 about the traditional business. Germany, ﬁrst thing I have to say about Germany, of
 Page 5 of 22
@@ -361,10 +296,7 @@ to write the traditional business. So, there is a diversiﬁcation and a shift i
 but we're not stopping traditional life business. We are not going and run-oﬀ in traditional
 life business. But I'll leave it up to the colleagues to comment more on that.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 I'd say it is a hard one. And the main reason for this is that you do this re-reserving on
 local basis. And the rules for local GAAP are diﬀerent in every country. So, therefore, it's
 diﬃcult to give you a sort of company rule and say, well, it's like this and this, and it will be
@@ -395,10 +327,7 @@ comments.
 
 FINAL
 
-A - Martin Wenk
-
-{BIO 4193573 <GO>}
-
+A - Martin Wenk {BIO 4193573 <GO>}
 Well, from the management side, I can only add that the situation is, of course as
 described by Michael Huttner or by Bischof in the beginning that we had declining
 interest rates. So, it's a little bit similar to last year. But if we have to add up to the reserves,
@@ -410,10 +339,7 @@ have rather increased. So, what you're trying to do is, you to take advantage of
 still with good quality, but trying to get a little bit of that increased spread into the
 recurrent income and with the risk-free investments being able to cover the reserves.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Okay. But, so I'm just a little bit confused. Does it mean that we could actually have a
 positive, because you're got this in the accounting, right? So, the IFRS you would – we
 would see the gains, but we wouldn't necessarily see the extra reserving, or am I making it
@@ -421,10 +347,7 @@ up or am I being too optimistic?
 
 Bloomberg Transcript
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 No. It's normally for the direct link. It's a sort of the question how you work in latency. I
 give you one example which I have just in present (19:24). In Belgium, you have in local
 GAAP a funny thing called the fund for future appropriations. You can do whatever you
@@ -436,22 +359,13 @@ or less neutral and in IFRS you see the gains. But in fact, of course, we have p
 reserves in, but maybe two years ago. So that makes it complicated, too, and that's just for
 Belgium, in Luxembourg (20:31) Switzerland as well.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Okay.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 But that's just as an example why it's not so easy.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Not so easy. Okay. Well, I'm glad I'm (20:39) and not the CFO. Thank you.
 
 Page 7 of 22
@@ -462,15 +376,10 @@ Company Name: Baloise Holding AG
 Company Ticker: BALN SW Equity
 Date: 2016-03-22
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 But we are trying to do our best to keep the shareholder happy. Believe me.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 
 FINAL
 
@@ -490,10 +399,7 @@ interest rate in the life book remained unchanged at 3.3%. That's right.
 
 Bloomberg Transcript
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Okay. Maybe to the ﬁrst question, I can tell you that indeed, we have lowered the duration
 gap. Overall, you see that also in the interest rate sensitivity that has been coming down
 quite substantially. I don't think we have closed this completely, because you see what
@@ -509,10 +415,7 @@ Okay. Good.
 Operator
 The next question is from Jonny Urwin from UBS. Please go ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi, there. Thanks for taking my questions. Just two from me today. Firstly, just going back
 to capital returns. I was just wondering if you could give us any insight into what the
 headroom on the statutory payout ratio basis would be. I know it's getting tight on IFRS
@@ -532,10 +435,7 @@ seeing in each of your key country markets. That would be very interesting. Than
 
 FINAL
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Well, let me try to describe the pricing situation in the diﬀerent countries and then get
 back to the ﬁrst part of the question and I'll leave it to the colleagues.
 I think the pricing situation overall – and I'm not going to give the details per country – but
@@ -545,15 +445,10 @@ everywhere in the non-life business throughout our countries, in Europe, we see 
 tougher game in terms of pricing. Be it both in the retail business and be it in the SME
 and the industry-related business.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 For the ﬁrst question, can you put the question again, because we haven't quite got it.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
+Q - Jonny Urwin {BIO 17445508 <GO>}
 
 Bloomberg Transcript
 
@@ -561,25 +456,16 @@ Yeah, sure. So, I guess – it's interesting to look at your payout ratio on an 
 is just under 50%. But I was just wondering what the payout from statutory earnings is as
 well, whether or not it's more (24:27) of a constraint.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Yeah. We could actually be the real thing. (24:31) I'll answer it later. I have to calculate it.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thanks.
 
 Operator
 The next question is from In-Yong Hwang from Goldman Sachs. Please go ahead.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Hello. Two questions from me, both on non-life. Firstly on your expense ratio. Most of the
 reduction in the expense ratio seems to be from the acquisition cost rather than on
 operating costs. So, given the ongoing cost reduction you have in Germany, could you
@@ -597,9 +483,7 @@ Company Name: Baloise Holding AG
 Company Ticker: BALN SW Equity
 Date: 2016-03-22
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
+A - Gert De Winter {BIO 19720616 <GO>}
 
 FINAL
 
@@ -617,9 +501,7 @@ German market.
 The long-term disability, I didn't get really – I didn't get the question or at least maybe you
 can repeat the question about the long-term disability.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 
 Bloomberg Transcript
 
@@ -629,10 +511,7 @@ employed (27:05) cost of long-term disability claims which is included in one bu
 other. But that seems to have gone down substantially since 2013. So, I was wondering
 whether this current low level is a sustainable level.
 
-A - Marc Kaiser
-
-{BIO 15056036 <GO>}
-
+A - Marc Kaiser {BIO 15056036 <GO>}
 This is Marc. This is Marc speaking. In-Yong (27:30). Maybe to answer your question, I
 think your question is, if you recalculate the combined ratio according to our disclosed
 numbers, so, it's always a little bit of gap between what we disclosed and the ﬁgures you
@@ -640,24 +519,15 @@ have there. And you are referring to the annuities we have out of the accident b
 And because (27:51) and the gap there is actually more or less pretty stable all the past
 years. But we can get back to you by phone and clarify that. You have there the details.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 I think I know what you mean. I think this is the legal yield you have to put on annuity
 reserves in Belgium and in Switzerland, and that is producing a systematic previous year
 loss.
 
-A - Marc Kaiser
-
-{BIO 15056036 <GO>}
-
+A - Marc Kaiser {BIO 15056036 <GO>}
 This is it. We have the details (28:21) we'll get back to you about that.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Sure. Great. All right. Thanks very much.
 
 Operator
@@ -673,10 +543,7 @@ The next question is from Ralph Hebgen from KBW. Please go ahead sir.
 
 FINAL
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Yes. Hi. Ralph Hebgen from KBW. I've got three things and they all relate to the life book
 or the life business. Starting oﬀ, I've noticed in the life MCEV accounting that your
 earnings unwind from in-force was very strong indeed in 2015. It will help us, I think if you
@@ -696,10 +563,7 @@ Thank you very much.
 
 Bloomberg Transcript
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Let me maybe start with the last question on the life result and the expected result in EBIT
 going forward. If you look at the strong life result in 2015, it's mainly driven by two
 reasons. First one is that in the ﬁrst semester, the ﬁrst half year, we did a number of clearly
@@ -715,10 +579,7 @@ life reserve is up to CHF 270 million plus. If you would normalize it out of tho
 eﬀects, we would, indeed, be in the area of CHF 200 or just below the CHF 200 million.
 German, may be adding to that.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Yeah. Well, ﬁrst for the risk result, that is the only thing that comes to my mind, which has
 sort of one-oﬀ character, was the change in biometric basis in the group life business in
 Switzerland what I already mentioned in the extra-mandatory business, so conversion
@@ -741,73 +602,44 @@ decisions like they just mentioned conversion rates and the duration on the acti
 has been increased. So, that are probably the most important factors that have led to the
 higher earnings.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay. Thank you very much. Just two quick follow-ups. You mentioned the CHF 20 million
 to CHF 30 million impact in the risk result. Was this positive or negative impact in 2015?
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Positive. It's probably around the CHF 30 million (33:44). I think about it.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Yes. Indeed. And so that was a positive impact there. In 2014, any distorting impact in the
 risk result of a similar nature?
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 I can't remember at the moment. I have to think about it. Come back to it later. (34:10)
 answer to the payout ratio on local step basis. That's about 58% without the share
 buyback.
 
 Bloomberg Transcript
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 And can I just have one more follow-up. What I meant with my third question is whether
 your guidance that's CHF 200 million EBIT in life, will be a sustainable number going
 forward. This particular guidance, do you conﬁrm this today?
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Well, from what we know at the moment, yes.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay. And what would the circumstances be which would perhaps urge you to lower that
 guidance?
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Well, let's say a massive interest rate movement, be it up or down. And massive regulatory
 changes. Anything like this.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 That's very clear. Thank you very much, indeed.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
+A - German Egloﬀ {BIO 4782831 <GO>}
 Page 12 of 22
 
 
@@ -818,10 +650,7 @@ Date: 2016-03-22
 
 Yeah. Market movement of course.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Of course. Thank you. Thank you very much.
 
 FINAL
@@ -829,10 +658,7 @@ FINAL
 Operator
 The next question is from Farquhar Murray from Autonomous. Please go ahead.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Good afternoon, gentlemen. Just two questions from me both with regards to ALM.
 (35:34). Firstly, on the duration gap, could you just elaborate on the rationale for reducing
 that now after having capital position opened for quite long? Is that a change in view or
@@ -844,10 +670,7 @@ more than that? Thanks.
 
 Bloomberg Transcript
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Okay. For the ﬁrst question – I just can repeat myself or explain that, I think there was the
 opportunity last year because of the negative yields of quite substantial duration bond or
 maturity bonds that were in negative territory. We had the chance to get rid of paper that
@@ -878,9 +701,7 @@ Company Name: Baloise Holding AG
 Company Ticker: BALN SW Equity
 Date: 2016-03-22
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 
 FINAL
 
@@ -889,10 +710,7 @@ mean, how much does that change the way you've been managing the funds so far an
 how much pressure does that put on the kind of headline ratio that we're kind of looking
 at?
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 We wouldn't have at the moment. I mean, frankly spoken, we have no calculation in the
 standard model for the whole group at the moment. It's just that we have signal that it
 goes that direction . Depends a bit with whom you're speaking, but I mean somehow, the
@@ -904,10 +722,7 @@ steering (39:32) is according to an internal model that the regulation is someho
 the standard model. So, that's the diﬀerence to the idea we used that was always sort of
 postulated there in the past.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Okay. Thanks very much.
 
 Bloomberg Transcript
@@ -948,10 +763,7 @@ guarantee in the Swiss Group business from 180 to 140. And I was just wondering 
 could explain a bit more, or if you can split it between the reserve strengthening, lower
 guarantees business mix? Thank you.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Well, I'll try to answer at least partially some of the questions. Coming back ﬁrst to the
 combined ratio in Switzerland, we do believe it is sustainable. It's an outstanding
 performance, of course. But I think by focusing on our target customer management and
@@ -973,10 +785,7 @@ retail and the SME business branches because they are proﬁtable.
 I'm looking around to see which colleagues can actually add to this and provide
 somewhat more detail.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Well, now I think you've said the essential (44:25) thing. I mean I know you said we
 promised certain target (44:31). I mean nowadays, you'd probably say it's not related
 (44:42). About the mix, life, non-life, this is not to over-interpret. I was just looking, I think
@@ -1004,9 +813,7 @@ Date: 2016-03-22
 700 million, that would add CHF 49 million to the EBIT level. So what I was just asking a
 little bit more is that the uplift in the German EBIT should come from the non-life business.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
+A - German Egloﬀ {BIO 4782831 <GO>}
 
 FINAL
 
@@ -1016,10 +823,7 @@ business as well.
 Q - René Locher
 Okay. And just on the group life, the slide 39 and 41.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 The mixture there, the average technical rate includes already the lowered BVG rate to
 1.25% in the mandatory part and 0.75% in the over mandatory part. So that is about how
 the mixture is composed.
@@ -1027,10 +831,7 @@ the mixture is composed.
 Q - René Locher
 But I think that also beneﬁted from reserve strengthening you took in H1 2015, I guess.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Yes. That's true.
 
 Bloomberg Transcript
@@ -1040,29 +841,20 @@ Okay. Okay. And just a follow-up. I remember that you always mentioned that you 
 like to have an extra dividend at holding level. And I was just wondering where we stand
 these days.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Yeah. Sorry. The question was about the dividend, whether we have retained earnings.
 
 Q - René Locher
 Yeah. I remember that you always mentioned or that you would like to have an extra
 dividend at holding level.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Another extra dividend. That's how it works (48:37).
 
 Q - René Locher
 Yeah.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 On a certain amount in stocks...
 Page 16 of 22
 
@@ -1075,9 +867,7 @@ Date: 2016-03-22
 Q - René Locher
 Yeah.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
+A - German Egloﬀ {BIO 4782831 <GO>}
 
 FINAL
 
@@ -1086,19 +876,13 @@ To be able to compensate if we have a cash ﬂow problem from the entities (48:5
 Q - René Locher
 And this is still the case?
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 This is still the case, of course, because that sounds sensible, doesn't it?
 
 Q - René Locher
 Yeah. Thank you very much.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Thank you.
 
 Operator
@@ -1108,35 +892,23 @@ Bloomberg Transcript
 The next question is a follow-up question from In-Yong Hwang from Goldman Sachs.
 Please go ahead.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Hello. Just a very quick numbers question on slide 14 I think you show us the reinvestment
 rate – the average of investment rate over the year and in non-life, it's 1.8%. Could you tell
 us what the non-life reinvestment rate is like now please?
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Okay. The reinvestment rate now, I would put it at about the same level between 1.8%,
 1.9%.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Great. Thanks very much.
 
 Operator
 The next question is a follow-up question from Ralph Hebgen from KBW. Please go
 ahead.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Page 17 of 22
 
 
@@ -1160,9 +932,7 @@ lowered your guidance from the range of CHF 200 million to CHF 250 million to a 
 200 CHF million I think in 2014. What were the drivers for that decision to lower the
 guidance in 2014? Thank you very much.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
+A - Gert De Winter {BIO 19720616 <GO>}
 
 Bloomberg Transcript
 
@@ -1176,10 +946,7 @@ On the cash – on the second and the third question. The third question is di�
 because I was not here at the time. So I leave that to the colleagues and I'll see to the
 second question what comes out of it.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Well, the third question was that – the reason was actually the movement of the interest
 rates. Because there we have seen the trend in (52:17). It's a bit like the question we had
 just at the beginning of the call today. It's about – if it's going on like this, it's probably
@@ -1191,17 +958,11 @@ Apart from that we don't really do a cash ﬂow reporting. And if we did that th
 sort of a change in policy which could be this half that's probably a good idea, but then
 we have to drop a couple of other things, and that's the reason I think.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay, that's ﬁne. But perhaps just on that. I think in the past you sort of indicated that the
 businesses other than life sort of remitted close to 100% up to the holding...
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Page 18 of 22
 
 
@@ -1212,73 +973,48 @@ Date: 2016-03-22
 
 Yeah.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 
 FINAL
 
 All right. So, that's correct. And if there was a bottleneck that would be basically the life
 business. I mean that sort of interpretation is broadly indiscernible (53:51).
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Yeah. No, no. That's still true. With the attachment, what I said before that of course,
 where you have in between holdings like for example, in Luxembourg, and that
 sometimes you look that you'll have the optimal mix for loans – internal loans you have
 and tax situations and that sort of things.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Yeah.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 So there are a couple of intercompany eﬀects that are in there as well. And the other thing
 is, of course that it's not only dividends that come up to the holding, it is other things as
 well.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 
 Bloomberg Transcript
 
 Yes. As in loan interest and internal loans and reinsurance and things like that.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Exactly. Advisory fees, that sort of things. I mean, as probably the look-through – the lookthrough component in the MCV gives you an ID what kind of cash is from the life business
 coming to the holding as well.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Yeah. Okay. That's very helpful. Thank you very much.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Thank you.
 
 Operator
 The next question is a follow-up question from Mr. Michael Huttner from JPMorgan.
 Please go ahead.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Fantastic. Thank you very much for this opportunity. Just on the non-life and I guess I am
 bit sick really – don't answer that. Sorry. It's not a question. But on slide 8, so you show the
 Page 19 of 22
@@ -1303,10 +1039,7 @@ everywhere, you explained the pressure on pricing, but the feeling I have is tha
 remain quite benign, or am I wrong? I was thinking thanks to low inﬂation and mild winter
 and whatever. Thank you – in Q1 2016 of course?
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 I think if you look at the overall group, it is true that indeed 2015 has been a year without
 major large claims on a group level. So the claim situation in 2015 on a group level is
 certainly satisfactory, exception made of course for Germany. Now, if Germany will
@@ -1319,38 +1052,23 @@ Bloomberg Transcript
 
 On the second question about the 1.5% and the 2%, I didn't fully get that one.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 The prior year – you call it PYLD, prior-year loss development.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Yeah. Prior year loss development.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 I was just wondering what's the normal run rate here.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 That's a bit diﬃcult to give an indication there because if in an ideal world, it won't be nil.
 And of course, it isn't normally. And now, we said the experience is actually between 1%
 and 2% now. It was even higher in the past. But the reason there was the whiplash
 reserves from Switzerland and because the law and decisions have changed there. But
 that's calm now, so that's why it's going to be a bit lower, I guess between 1% and 2%.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Okay. That's perfect. And then just on Q1 trends, you said pricing is tough but I got the
 impression maybe from speaking with your peers that claims actually is very low as well. Is
 that fair?
@@ -1362,37 +1080,24 @@ Company Name: Baloise Holding AG
 Company Ticker: BALN SW Equity
 Date: 2016-03-22
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 That's fair, yeah. I think price competition is good but in terms of the claims situation as of
 to-date, I think...
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
+A - German Egloﬀ {BIO 4782831 <GO>}
 
 FINAL
 
 There has been a couple but...
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 No special things.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Good. Perfect. All right. Thank you very much.
 
 Operator
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
+A - Gert De Winter {BIO 19720616 <GO>}
 
 Bloomberg Transcript
 
@@ -1406,10 +1111,7 @@ risk products and solid proﬁt.
 So we are overall absolutely satisﬁed with 2015 and absolutely committed to continue this
 kind of track record into the next chapter.
 
-A - Marc Kaiser
-
-{BIO 15056036 <GO>}
-
+A - Marc Kaiser {BIO 15056036 <GO>}
 So, thank you everybody for joining in in this call. If you have any follow-up questions in
 terms of clarifying, the IR Team is, of course, is at the phone service. Please feel free to call
 us or write us mail. And have a good day, then. Bye.

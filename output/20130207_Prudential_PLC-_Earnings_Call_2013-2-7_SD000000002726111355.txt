@@ -34,10 +34,7 @@ conduct a Question-and-Answer session and instructions will be given to you at t
 (OPERATOR INSTRUCTIONS) And as a reminder, today's conference call is being
 recorded. I would now like to turn the conference over to Mr. Eric Durant. Please go ahead.
 
-Eric Durant
-
-{BIO 3932339 <GO>}
-
+Eric Durant {BIO 3932339 <GO>}
 Thank you, Cynthia. Good morning. Thank you for joining our call. Representing Prudential
 this morning are John Strangfeld, Chief Executive; Mark Grier, Vice Chairman; Rich
 Carbone, Chief Financial Officer; Ed Baird, Head of International Operations; Charles
@@ -72,10 +69,7 @@ related to the Company's financial performance is also located on our website. J
 
 Bloomberg Transcript
 
-John Strangf eld
-
-{BIO 14004907 <GO>}
-
+John Strangf eld {BIO 14004907 <GO>}
 Thank you, Eric. Good morning, everyone. Thank you for joining us. Now that we've closed
 the books on 2012, I'll kick things off with some high level comments on the year as a
 whole. First, earnings. Earnings per share based on adjusted operating income of the
@@ -131,10 +125,7 @@ turned the page on another year. We feel that we have a good head of steam as we
 begin 2013. We have high expectations for ourselves this year. And we look forward to
 reviewing our progress with you as the quarters unfold. With that, I will turn it over to Rich.
 
-Rich Carbone
-
-{BIO 1482557 <GO>}
-
+Rich Carbone {BIO 1482557 <GO>}
 Thanks, John, and good morning, everyone. Last night, we reported common stock
 earnings per share of $1.69 for the Fourth Quarter, and that's based on adjusted
 operating income for the Financial Services Business. This compares to $1.78 per share in
@@ -255,10 +246,7 @@ about $1.2 billion of maturing debt. The remaining cash in excess of our targete
 billion of liquidity cushion is available to repay maturing debt and fund operating
 expenses. And now, Mark is going to review more of the details of our businesses.
 
-Mark Grier
-
-{BIO 1391186 <GO>}
-
+Mark Grier {BIO 1391186 <GO>}
 Thank you, John. And thank you, Rich. I'll start with our US businesses. Our Annuity
 Business reported adjusted operating income of $304 million for the Fourth Quarter,
 compared to $373 million a year ago. The reserve true-ups and DAC unlocking that Rich
@@ -506,10 +494,7 @@ interest in Prudential today, and I'll turn it back to John.
 
 Bloomberg Transcript
 
-John Strangf eld
-
-{BIO 14004907 <GO>}
-
+John Strangf eld {BIO 14004907 <GO>}
 Thanks, Mark. Before we move on to your questions, I'd like to make a few final remarks
 on our results and our strategic progress. As we have discussed, despite what was
 admittedly a noisy quarter for us, you've heard numerous indicators of very sound
@@ -537,10 +522,7 @@ Operator
 (OPERATOR INSTRUCTIONS) Our first question will come from the line of Eric Bass with
 Citigroup. Your line is open.
 
-Q - Eric Bass
-
-{BIO 19071725 <GO>}
-
+Q - Eric Bass {BIO 19071725 <GO>}
 Hi. Thank you. I guess if we could just talk a little bit about the International Business. And
 you outlined some of the higher expenses that affected earnings this quarter, just hoping
 you could give a little bit more color on what these costs were and what if any of these
@@ -558,10 +540,7 @@ type of seasonality should we expect in earnings in 2013?
 
 FINAL
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 Yes, Eric. This is Ed Baird. There were in this quarter the kinds of seasonal factors, as well
 as normal fluctuations, that frankly you're going to find in almost every quarter. Now while
 some of these have a certain regularity to them, others do not. So for example, on the IT,
@@ -572,20 +551,14 @@ fruitful if you look at the totality of it for the year. And if you do that I th
 something more reliable. That's particularly true on the earnings, but it's even true if we
 get over on to the sales side.
 
-Q - Eric Bass
-
-{BIO 19071725 <GO>}
-
+Q - Eric Bass {BIO 19071725 <GO>}
 Okay. That's helpful. And then within the businesses, are there seasonal trends in terms of
 whether it's investment income or dividend payments or other things that we should
 expect to recur?
 
 Bloomberg Transcript
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 Yes. Just to drill down on that, if you think in simplistic terms as the money coming in and
 the money going out, there's sort of two channels on each of them. On the money
 coming inside of it, there is certain seasonality or other causes of fluctuations. So for
@@ -608,10 +581,7 @@ well within standard deviation. And so if you're comparing one quarter to a prio
 one could be at the high end, one at the lower end. But there is no underlying trend there
 that I would note or bring attention to.
 
-Q - Eric Bass
-
-{BIO 19071725 <GO>}
-
+Q - Eric Bass {BIO 19071725 <GO>}
 Okay. Thank you, very much.
 
 Operator
@@ -625,9 +595,7 @@ Date: 2013-02-07
 
 Thank you. Our next question comes from the line of Nigel Dally with Morgan Stanley.
 
-Q - Nigel Dally
-
-{BIO 1512203 <GO>}
+Q - Nigel Dally {BIO 1512203 <GO>}
 
 FINAL
 
@@ -635,10 +603,7 @@ Great. Thanks. Good morning. First, just with the $100 million of expenses above
 baseline, could we read those as one-time in nature impacting only Fourth Quarter
 results? Or will some of those expenditures continue through 2013?
 
-A - Charles Lowrey
-
-{BIO 3976922 <GO>}
-
+A - Charles Lowrey {BIO 3976922 <GO>}
 Sure, Nigel. This is Charlie. I think the former is true. We did take about $100 million, as you
 said, above the baseline charges. But I think we wouldn't have lined those off if we didn't
 think they were one-timers. And to give you some examples of what they were, and Mark
@@ -650,9 +615,7 @@ that will improve both expense management and I think the product itself over ti
 these are just three examples of the kinds of things that we think were non re-occurring
 and that's why we lined them off.
 
-Q - Nigel Dally
-
-{BIO 1512203 <GO>}
+Q - Nigel Dally {BIO 1512203 <GO>}
 
 Bloomberg Transcript
 
@@ -661,26 +624,17 @@ necessary to satisfy the asset adequacy test. It is possible to put some numbers
 how much capital that absorbed and which business lines that related to? I'm presuming
 it's predominantly long-term care, but was it related to other business lines as well?
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 It was predominantly long-term care, about $1 billion dollars that we added.
 
-Q - Nigel Dally
-
-{BIO 1512203 <GO>}
-
+Q - Nigel Dally {BIO 1512203 <GO>}
 Okay. Very good. Thank you.
 
 Operator
 Thank you. Our next question comes from the line of Mark Finkelstein with Evercore
 Partners. Your line is open.
 
-Q - Mark Finkelstein
-
-{BIO 6253120 <GO>}
-
+Q - Mark Finkelstein {BIO 6253120 <GO>}
 Hi. Good morning. I guess going back to some of Rich's earlier comments, and maybe just
 thinking out to 13 on capital generation. Obviously, there's a lot going on, you have two
 PBRT transactions that are large, good cash flow generated out of those. You have the
@@ -696,9 +650,7 @@ Company N ame: Prudential Financial I nc
 Company Ticker: PRU US Equity
 Date: 2013-02-07
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
+A - Rich Carbone {BIO 1482557 <GO>}
 
 FINAL
 
@@ -707,22 +659,13 @@ throwing out lately, that 50% of our cash flow is available to the Holding Compa
 some of that's going to pay Holding Company expenses. But some of that is also going
 to emerge as excess capital during the year.
 
-Q - Mark Finkelstein
-
-{BIO 6253120 <GO>}
-
+Q - Mark Finkelstein {BIO 6253120 <GO>}
 So, 50% and then you pay Hold Co costs and interest costs?
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 Right.
 
-Q - Mark Finkelstein
-
-{BIO 6253120 <GO>}
-
+Q - Mark Finkelstein {BIO 6253120 <GO>}
 Okay. Fair enough. I guess I want to go back to the single premium yen denominated
 whole life product. It was up sequentially something like $100 million in production. I think
 last quarter, Ed, you talked about the margins being in your target but maybe at the lower
@@ -732,10 +675,7 @@ margins will go as you re-price and take the commissions down?
 
 Bloomberg Transcript
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 Yes, Mark. This is Ed. The character of the bank channel is different than our other
 channels that are captive, in that it has the capacity to produce much more dramatic
 growth than you can get through a captive agency system. And that's why as we
@@ -772,38 +712,27 @@ Date: 2013-02-07
 which is just to make sure we don't have any concentration of risk in any particular tranche
 of business that's coming in during the quarter.
 
-Q - Mark Finkelstein
-
-{BIO 6253120 <GO>}
+Q - Mark Finkelstein {BIO 6253120 <GO>}
 
 FINAL
 
 Okay. All right. Thank you.
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 Sure.
 
 Operator
 Thank you. Our next question comes from the line of Jay Gelb with Barclays. Your line is
 open.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Thank you, and good morning. I wanted to touch base on a couple items. The first is,
 Mark, could you provide us your updated views on PRU, potentially being designated a
 bank SIFI?
 
 Bloomberg Transcript
 
-A - Mark Grier
-
-{BIO 1391186 <GO>}
-
+A - Mark Grier {BIO 1391186 <GO>}
 Excuse me. Yes, as you know from our acknowledgments, we're in the process of being
 reviewed by the FSOC, ultimately leading up to the FSOC level right now at the staff level.
 And I would reinforce what we've said before, which is that we're engaged in a high
@@ -827,9 +756,7 @@ engaged in a high quality process. And we also have the opportunity to provide o
 and our comments. And right now as well to work hard on the question around solvency
 and capital standards.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
+Q - Jay Gelb {BIO 21247396 <GO>}
 
 Page 13 of 20
 
@@ -846,34 +773,19 @@ buyback in the first half ?
 
 FINAL
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 Yes. Rich.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 I'm sorry, I didn't catch that.
 
-A - Mark Grier
-
-{BIO 1391186 <GO>}
-
+A - Mark Grier {BIO 1391186 <GO>}
 Yes. Rich Carbone answered that.
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 Yes. It's Rich. Sorry for the short comment.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Thank you.
 
 Bloomberg Transcript
@@ -882,19 +794,13 @@ Operator
 Thank you. Our next question comes from the line of Jimmy Bhullar with JP Morgan. Your
 line is open.
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 I think we lost Jimmy.
 
 Operator
 We'll continue on. We'll go to the line of Joanne Smith with Scotia Capital.
 
-Q - Joanne Smith
-
-{BIO 16931590 <GO>}
-
+Q - Joanne Smith {BIO 16931590 <GO>}
 Hi. Yes. I just wanted to cover the Life Planner Business in Japan. I understand that you've
 had some pretty good results there for the first three quarters of the year. But they did
 slow a little bit in the Fourth Quarter and I did listen to the conversation about seasonality
@@ -903,10 +809,7 @@ wondering if you could just give us a little bit more information on where some 
 weaker spots were? I mean you still delivered growth in earnings, but you had double
 digit growth in prior quarters. And this was about 6% as I calculated on an adjusted basis.
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 Page 14 of 20
 
 
@@ -931,10 +834,7 @@ quality of the sales and the quality of the earnings in POJ on an annual basis I
 find to be extremely strong. I cannot find anything in the Fourth Quarter that's outside the
 normal range in which there might be embedded a story.
 
-Q - Joanne Smith
-
-{BIO 16931590 <GO>}
-
+Q - Joanne Smith {BIO 16931590 <GO>}
 Thank you for that, Ed. And just on the Gibraltar Business, I know it's probably a little bit
 premature to be talking about M&A at this juncture, but seems that the Star Edison
 integration has gone quite smoothly. You're realizing a lot of the synergies, the expense
@@ -944,10 +844,7 @@ interest in that?
 
 Bloomberg Transcript
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 Sure. Let me start with a broad sort of philosophical approach to the M&A. Our general
 preference is to acquire companies in countries that we're already in, such as the Star
 Edison acquisitions. We have a long and I think fairly stated successful track record in that
@@ -970,10 +867,7 @@ comfortable. So we do continue to monitor that having made a handful of acquisit
 there over the last decade. We do have a certain degree of quiet confidence about our
 abilities there.
 
-Q - Joanne Smith
-
-{BIO 16931590 <GO>}
-
+Q - Joanne Smith {BIO 16931590 <GO>}
 Thank you, very much, Ed.
 Page 15 of 20
 
@@ -983,10 +877,7 @@ Company N ame: Prudential Financial I nc
 Company Ticker: PRU US Equity
 Date: 2013-02-07
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 Sure.
 
 FINAL
@@ -995,10 +886,7 @@ Operator
 Thank you. We'll go back to the line of Jimmy Bhullar with JP Morgan. Your line is open.
 Please check your mute key. We'll continue on to the line of Randy Binner with FBR.
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 Great. Thanks. I wanted to ask a question about the forward currency hedging program
 and how it's running through earnings? And I think what we saw in the quarter was that the
 yen kind of hedge rate of 85 on the dollar was the reason that you saw kind of positive
@@ -1006,27 +894,18 @@ cash flows into the Japanese businesses. In the guidance for 2013, I think assum
 at 80, so the first part of the question is, is that 80 where you're hedged at for the yen
 for 2013?
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 It's Rich Carbone. Yes, we're hedged at 80 for 2013.
 
 Bloomberg Transcript
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 And then, how should we think about that going forward if the yen continues to weaken?
 When do you kind of re-strike those hedges? And how should we think about it if the yen
 stays at 95 or goes to a 100? I mean what would be a reasonable expectation of where
 that might have to float up to thinking about 2014?
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 So let me just give you a little bit of background. Half of our earnings that come out of
 Japan are in dollars, US dollars and Aussie dollars, and half of our earnings that come out
 of Japan are in yen. We hedge 100% of the next year's earnings, the yen earnings
@@ -1035,16 +914,10 @@ where it goes. 2014 we are 78% hedged as of today. 2015 we are 22% hedged for 20
 And as this year progresses, we begin to leg in to 14 and 15 and 16, so by the end of
 2013, we'll be 100% hedged in 14.
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 Okay. The 78% in 14 and the 22% in 15, that's at 80, right?
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 That is not at 80 because remember, you're not hedging at spot rates, you're hedging at
 forward rates so you're averaging in the forward rate. And that's going to change,
 dependent upon the interest rate differential between the dollar, the interest rate
@@ -1059,82 +932,50 @@ Company N ame: Prudential Financial I nc
 Company Ticker: PRU US Equity
 Date: 2013-02-07
 
-A - Mark Grier
-
-{BIO 1391186 <GO>}
-
+A - Mark Grier {BIO 1391186 <GO>}
 And it's rolling three years forward so it will not all have gone on at the same time. It won't
 match exactly the 80, as Rich said, it's at forward rates not spot. And it's a rolling
 implementation.
 
 FINAL
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 So, I guess in layman's terms, though, it would be reasonable to expect that wherever
 you're hedge edge, if the yen weakens materially, let's say it goes to 100 or 105, you
 should be able to keep your hedging level below that because your lagging into it over
 time?
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 That's correct and we're using forward rates, not spot. We're hedging it to forward not
 the spot which is lower than the spot.
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 That's helpful. Thanks.
 
-A - Mark Grier
-
-{BIO 1391186 <GO>}
-
+A - Mark Grier {BIO 1391186 <GO>}
 Well, having said that, it will run its course. At the end of the day.
 
 Bloomberg Transcript
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 The hedges roll forward three years from the current year. So we'll be renewing hedges
 now further out into 14 for example, that are at rates that are not as attractive as 80.
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 No, understood. I think just simplistically people worry about half the business coming
 from Japan and what the impact is, so I just wanted to clarify the structure of the yen
 currency hedge.
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 Yes, but half the business coming from Japan is in dollars.
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 No, understood.
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 Okay. Thank you.
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
+Q - Randy Binner {BIO 15145081 <GO>}
 
 Page 17 of 20
 
@@ -1147,43 +988,29 @@ Date: 2013-02-07
 I think the dollar piece is the dollar piece, but the yen piece is what would move the
 translation right?
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
+A - Rich Carbone {BIO 1482557 <GO>}
 
 FINAL
 
 Absolutely.
 
-A - Mark Grier
-
-{BIO 1391186 <GO>}
-
+A - Mark Grier {BIO 1391186 <GO>}
 Yes.
 
-Q - Joanne Smith
-
-{BIO 16931590 <GO>}
-
+Q - Joanne Smith {BIO 16931590 <GO>}
 Okay. Thank you.
 
 Operator
 Thank you. Next we'll go to the line of Sean Dargan with Macquarie.
 
-Q - Sean Dargan
-
-{BIO 15387640 <GO>}
-
+Q - Sean Dargan {BIO 15387640 <GO>}
 Yes. Thanks. This is a follow-up to Randy's question. So if half of your business in Japan is
 in US dollars and Aussie dollars, what is the impact of demand for products denominated
 in those currencies in a weakening yen environment?
 
 Bloomberg Transcript
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 Yes, the dollar products have represented for awhile somewhere between 30% and 40%
 of our sales. And if you look back over oh, probably the last five years, what you'll see is
 that there isn't a strong correlation between the currency shift. To the extent that I could
@@ -1194,23 +1021,14 @@ denominated retirement income product as a lead product in Japan for about seven
 years now. And I've not seen material fluctuations based on what has over that period of
 time obviously been very substantial swings in the exchange rate.
 
-Q - Sean Dargan
-
-{BIO 15387640 <GO>}
-
+Q - Sean Dargan {BIO 15387640 <GO>}
 Okay. And does the weakening yen impact BSMR for your Japan companies at all?
 
-A - Ed Baird
-
-{BIO 15922078 <GO>}
-
+A - Ed Baird {BIO 15922078 <GO>}
 Let me think of where it would. No, I don't believe it does. No, it doesn't. We're protected
 on the local books.
 
-Q - Sean Dargan
-
-{BIO 15387640 <GO>}
-
+Q - Sean Dargan {BIO 15387640 <GO>}
 Okay. Thank you, very much.
 
 Page 18 of 20
@@ -1226,20 +1044,14 @@ Thank you. We'll go to the line of Jeff Shuman with KBW. Your line is open.
 
 FINAL
 
-Q - Jeffrey Schuman
-
-{BIO 1817576 <GO>}
-
+Q - Jeffrey Schuman {BIO 1817576 <GO>}
 Thanks. Good morning. If I understood Rich correctly, you gave us a picture of capital
 capacity at 12-31 which I think was $3 billion on balance sheet, $1.5 billion to $2 billion
 readily deployable. But I think you said that was before Hartford, so can you help us pro
 forma that? We know you wrote the check for the seating commission, but we don't really
 know all-in what was the impact to capital capacity. So can you help us there, please?
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 I think the way you'll want to think about that is that we're going to write the check. The
 check will take down for that moment in time the check will take down our capital capacity.
 We're going to rebuild that capital capacity by only buying back the $250 million of shares
@@ -1247,27 +1059,19 @@ during the year, during the First Quarter, excuse me. The first half, sorry, the
 then the retained earnings build will restore our capital capacity at some point throughout
 the year.
 
-Q - Jeffrey Schuman
-
-{BIO 1817576 <GO>}
+Q - Jeffrey Schuman {BIO 1817576 <GO>}
 
 Bloomberg Transcript
 
 You're telling me that we'll rebuild, but I guess, are you going to help us understand what
 the pro forma view of 12-31 is?
 
-A - Rich Carbone
-
-{BIO 1482557 <GO>}
-
+A - Rich Carbone {BIO 1482557 <GO>}
 No, I'm not going to give you projection on total capacity because there's a whole lot of
 stuff that will happen between now and March and now and June and now at the rest of
 the year.
 
-Q - Jeffrey Schuman
-
-{BIO 1817576 <GO>}
-
+Q - Jeffrey Schuman {BIO 1817576 <GO>}
 Okay. And I guess just kind of big picture, wondering if you could help us reconcile the
 thinking a little bit. Whatever the all-in investment in the Hartford is, does it leave you with
 some readily deployable capital, not as much as some other points in time. Mark's been
@@ -1276,10 +1080,7 @@ opened up early on by talking pretty openly about considering possible transacti
 pension-risk transfer deals, and so forth, so it would seem like a time when maybe you
 were going to have to conserve capacity a little bit, but could you help us there, please?
 
-A - Mark Grier
-
-{BIO 1391186 <GO>}
-
+A - Mark Grier {BIO 1391186 <GO>}
 Yes, this is Mark. We've been asked over the last few years a number of times with
 respect to the regulatory issues, whether or not we should be hoarding more capital in
 anticipation of the possible imposition of a so-called SIFI buffer, or whether or not we
@@ -1310,10 +1111,7 @@ transactions, as John referenced, to support the ordinary organic growth of our
 businesses and also to consider the possibility of additional deals where they fit our
 requirements.
 
-Q - Jeffrey Schuman
-
-{BIO 1817576 <GO>}
-
+Q - Jeffrey Schuman {BIO 1817576 <GO>}
 Okay. Thank you, Mark.
 
 Operator

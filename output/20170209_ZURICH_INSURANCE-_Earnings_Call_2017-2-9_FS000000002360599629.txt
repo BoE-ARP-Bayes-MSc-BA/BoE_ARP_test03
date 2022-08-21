@@ -32,10 +32,7 @@ broadcast.
 At this time, it's my pleasure to hand over to Mr. Richard Burden, Head of Investor Relations and
 Rating Agency Management. Please go ahead, sir.
 
-Richard Burden
-
-{BIO 1809244 <GO>}
-
+Richard Burden {BIO 1809244 <GO>}
 Thank you. Good morning, good afternoon, and welcome to the Zurich Insurance Group's full year
 2016 results Q&A call. On the call this afternoon we have our CEO, Mario Greco; and Group CFO,
 George Quinn. As usual, we'd remind you to keep your questions to two, and if we have time, we'll
@@ -43,10 +40,7 @@ come back to you for additional follow-up.
 But before we start with the Q&A, I would like to hand over to our CEO, Mario Greco, who will
 make a few introductory remarks.
 
-Mario Greco
-
-{BIO 1754408 <GO>}
-
+Mario Greco {BIO 1754408 <GO>}
 Thank you, Richard. Good afternoon, everybody. So let me quickly assess what has been done in
 2016 and what these numbers have and what they don't. So I think 2016 was a year of profound
 changes at Zurich. We changed the organizational structure, but more importantly, the
@@ -93,10 +87,7 @@ Operator
 We will now begin the Q&A session. The first question comes from Farooq Hanif, Credit Suisse.
 Please go ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hello, everybody. Good afternoon. Thanks for taking my question. Firstly, on Global Corporate, it
 remains disappointing in Q4 and for the full year, although obviously it's improving. Can you talk
 about the things that you think will disappear through re-underwriting in 2017? So, for example,
@@ -111,10 +102,7 @@ budget? That's it, buddy. (06:50) Thank you.
 
 FINAL
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 Can I start, Farooq, and then I'll pass it to George for further comments and especially on the
 capital side? I mean, on Global Corporate, what matters to me is that business is improving and
 results are improving. And one thing you should be mindful of is that through the year, we changed
@@ -124,9 +112,7 @@ important to be made, and so this gives me optimism for now a continuation of th
 next years.
 I will pass it now to George for his part.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -148,18 +134,12 @@ earnings as we move through 2017. So in contrast to the double-digit impact we h
 this year, something in the low-single digit range is what we anticipate from Global Corporate in
 2017.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 And just following upon expense ratio, which had some focus today, are you worried about some
 of your bottom line absolute expense reductions are going to get swallowed up in the ratio that
 you shared or is that really not a concern?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I think this came out when we discussed the same topic a year ago and I guess, it was a concern
 there that some of what we do on the top line may be offset by what we do on the expense side.
 We said then and it's still true today that we'll tackle the nominal expense first and if we meet
@@ -186,19 +166,13 @@ capitalized. We are in a position today where, if we had opportunities to expand
 offered attractive rates of return, we could do that although, as we discussed before, (11:36) that
 we have significant growth ahead of us in the short term.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thank you very much.
 
 Operator
 The next question comes from Dhruv Gahlaut, HSBC. Please go ahead.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
-
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 Good afternoon, thanks for taking my question. I have two questions. Firstly, could you talk about
 the Legacy portfolio what you have in UK, as well as Europe in terms of the size of liability, and
 what is the capital attached to it? Given the Odyssey (12:08) transaction which you've done
@@ -209,10 +183,7 @@ Bloomberg Transcript
 Secondly, slide 11, you've given a blended rate in terms of change still around 2%. How would you
 say claim inflation stacks up with this on a blend basis?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So, let me start with the first question on Legacy. So, within our – the European side of our Legacy
 portfolio, the largest piece by far, is our UK employers' liability exposure. We've got approximately
 $2 billion of reserves in that portfolio. From a capital perspective, it's a relatively small part of the
@@ -230,46 +201,30 @@ some of the Continental European countries, but they face more in comparison to 
 book.
 Your second question was about the loss cost inflation compared to the...
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
-
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 The 2%. Yeah.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes. We estimate Q4 around 1%.
 
 
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
-
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 All right.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 FINAL
 
 So, we're still seeing positive margin improvement.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
-
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 Perfect. Thank you.
 
 Operator
 The next question comes from Andrew Ritchie, Autonomous. Please go ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
@@ -284,54 +239,35 @@ line impact? Because there's some confusing commentary. Clearly, I know the IFRS
 reduced by more, but some of that is some accounting effects. Now to just, clarify bottom line
 impact in 2015 (15:32) and the expected bottom line impact in 2017. Thanks.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So, on the first question, on the large loss component, compared to what we had planned for,
 we're still slightly above. So, it's probably what drives the outcomes for Q4. We've been really
 cautious both in the commentary and in other comments we've (15:53) this is volatility. We've taken
 the view that it is what it is. We have an expected return and that's we expect people to achieve.
 But I mean...
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 And just to be clear, is that one of the reasons why the combined in Q4 didn't hit what you talked
 about at the end of Q3?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 It's one of the reasons. Well, you can see, if you look at the numbers, overall for the group, the loss
 ratio is actually in a very decent place, notwithstanding what we discussed earlier on Global
 Corporate, the expense rate challenge in Q4.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. So, it's still slightly above what you've planned for...
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 In that quarter.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 
 
 And on the cat?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 FINAL
 
@@ -339,67 +275,41 @@ On the cat, given the covers that we now have in place both for last year – in
 the amount of cat cover we have in place for 2017. We expect, and again, long-term expectation,
 around 3% compared to the prior 3.5%.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On the bottom line impact of expenses, Richard and I was talking about it earlier, I think at times,
 we try and do too much to explain what takes place. And I think had the unintended consequence
 of confusing people. The simple way to think of this is that we have this $300 million bottom line
 impact after (17:09) currency. If you look at the financial (17:12), you see a larger number but we
 don't give ourselves credit for the currency impact, the $300 million.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 So, is it incremental $400 million in 2017 then?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
 But the currencies will move around over time.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Sure, (17:25).
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So, yes. Correct.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 You're welcome.
 
 Operator
 The next question comes from Nadine van der Meulen, Morgan Stanley. Please go ahead.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Hi. Good afternoon. Thank you for taking my questions. The first question is on, your comments
 around claims inflation that you just made that they're around 1% for the group. Could you give
 more details on the regions with regard to the claims inflation and the rate increases that you're
@@ -418,10 +328,7 @@ Could you comment on that? That's it. Thank you very much.
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you, Nadine. So, on the claims inflation topic, it's hard to do just the claims inflation (19:07)
 pricing region by region. Overall, you've seen the figures for rate, you've heard my comment on
 loss cost. If you break it down, the positive end of the spectrum in general, Europe is in pretty
@@ -465,10 +372,8 @@ view, and I appreciate it's subjective is that, even with the PYD delivered in t
 talked about, our view would be that we've actually strengthened the overall reserve position. So,
 today, we'd be, if anything, slightly more confident than we were a year ago.
 
-Q - Nadine van der Meulen
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Thank you.
-
-{BIO 15200446 <GO>}
 
 
 
@@ -490,9 +395,7 @@ expense ratio side? Was it that you couldn't cut the cost that you thought you w
 was it due to top line being lower than you thought? I guess, what was the surprise to you there?
 Thanks.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -532,10 +435,7 @@ The next question comes from Thomas Seidl, Bernstein. Please go ahead.
 
 FINAL
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yeah. Thank you. Good afternoon. First question is on your guidance for the year, 12% ROE. I think
 the underlying ROE last year was 11%, so you would probably need to achieve some 9%, 10%
 improvement in operating profit from the guidance you put out today for P&C, I only get to $300
@@ -545,10 +445,7 @@ And the other question is on page 11, again on your rate change, about 40% of yo
 is long-term liability and with the steepening of the curve, should we not expect basically rate to
 come down as you and others start to thrive in (27:49) the better interest rate environment?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thanks, Thomas. So, I guess, on the first one, we obviously got to – we need to sit down together
 and get through you a more detailed model a little bit. I guess, what I point to, maybe but
 everything else (28:03), if you look at what we intend to do in the expense side, that's a very big
@@ -559,30 +456,18 @@ portfolio steps that we'll take next year, we anticipate further improvement tec
 
 Bloomberg Transcript
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Maybe...
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 And doing things in combination will be what drives the improvement to more than 12%.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Can I follow up, please? As on the expense side, I would assume that this is already part of your
 1.5% lower combined ratio guidance. And on the life side, you basically guide for flat operating
 profit. So, I guess, the expense part is already captured in that.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So again, I mean, we have an expectation that's through the course of next year we'll achieve
 maybe about $400 million pre-tax cost reduction. It's not only in one area.
 On the rate change and, I mean, the risk that that causes, I mean, the market to react and
@@ -593,29 +478,18 @@ lag around interest rates, I mean, hard to say precisely how long it would be. B
 see rates move up, I'm not convinced that you'd lose that benefit immediately, but I agree that
 over time, it'd be very, very hard to retain it.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 So, year-to-date, you don't see that type of activity from competition?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I'm not aware of that at this stage.
 
 
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 All right. Okay. Thank you very much, George.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 FINAL
 
@@ -624,10 +498,7 @@ Thank you.
 Operator
 Next question comes from Vinit Malhotra, Mediobanca. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Good afternoon, everybody. I just wanted to understand, George, the divergence sort of
 between NAC and GC in terms of the loss ratio or the underlying loss ratios. Is it that NAC is doing
 more effective tiering because of the investments in the data mining tools, or is there something
@@ -640,10 +511,7 @@ there? Thank you.
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yeah. Okay. Thanks, Vinit. So, on NAC versus Global Corporate, I mean, they are obviously quite
 different markets. And they have, I mean, even from an (31:14) perspective, completely different
 starting points.
@@ -666,19 +534,14 @@ seen more margin erosion over the last few years. So, a more balanced portfolio 
 Corporate will certainly help us. I know that's high on Jim Shea's list of priorities. I mean, the
 challenge is the extent to which the market will allow us or support that shift over time.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 And, George, just where we – in 3Q, there was obviously the European lines which had true-ups in
 Global Corporate. Was there a similar effect in 4Q, or that only losses that led to this worsening in
 (33:23)?
 
 
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 FINAL
 
@@ -687,16 +550,10 @@ that you (33:30) for almost everything if you do that. I mean, at the end, our c
 not where we want it to be. This is clearly where we see the biggest opportunity for
 improvements.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Sure.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On the expense ratio, commissions, next topic, so. And the one thing we have seen – I mean, it's
 neutral, actually, to slightly positive for the combined ratio. It may explain a shift in the expense
 ratio driven through the commission side. I mean, again, we've got a bit more consumer – mass
@@ -710,19 +567,13 @@ mass consumer element of the portfolio that tends to drive up the commission com
 
 Bloomberg Transcript
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 All right. Thank you very much.
 
 Operator
 The next question comes from Michael Huttner, JPMorgan. Please go ahead.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Fantastic. Thank you so much. I have two questions. One which is a pure speculative question. You
 have this German life business where $400 million will be used in ZZR over the next five years.
 Have you thought of selling it and what numbers are you looking at?
@@ -741,52 +592,33 @@ then you'd – the business might actually look even better than you were hoping
 incentive structures relative to these two potential trends? Because I guess it's – I don't really know.
 Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 
 
 Excellent. So, two traditional Michael Huttner question.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 
 FINAL
 
 Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 You're appreciated. I'm going to ask Mario to answer the second one at the moment.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Of course.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On the first one, you'll appreciate it, I'm not going to answer that one.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Yes.
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I think the thing I would point you to though is, again, one of the comments that Mario made back
 in November when we had the Investor Day, I mean, we took a decision many, many years ago
 about what our priority would be when it came to the products that what we thought we could
@@ -797,10 +629,7 @@ that's not earning quite what we like it to do, but I think our team there, with
 they have, is actually doing a very good job.
 Mario, do you want to comment on Jim – Jim's incentive?
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 How can I say it to you, Michael? The transformation that Jim is bringing is, to start with, it's a
 different approach. Jim has been an underwriter for a number of years. So, he is bringing street
 underwriting culture to the organization. And so, we are refocusing everyone to work client by
@@ -814,15 +643,10 @@ for giving them underwriting priorities, guidelines, and he runs directly some g
 which clarifies a lot of the accountability issues that we had before. But that is a huge change for
 us, and it's something that caught us busy for a number of months last year.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Absolutely. Brilliant. Thank you very much. Oh, just a question. How much capital is in German life?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 
 
@@ -830,9 +654,7 @@ If we go back to our presentation, you'll probably remember very well from three
 mean, within that (39:45) we have an underperforming capital on it, Germany makes up – it's not
 quite half, but it's not far away from the $10 billion we've identified then.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 
 FINAL
 
@@ -841,10 +663,7 @@ Brilliant. Thank you very much.
 Operator
 The next question comes from Andy Hughes, Macquarie Group. Please go ahead.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Hi. Thank you so much. Couple of questions, if I could. First one, sorry to over analyze it, but Global
 Corporate. So, I was just a bit confused because when we went through the kind of tiering
 exercise, I know you should not, updating on the tiering in the slide today, so are you basically
@@ -860,10 +679,7 @@ And the second question is on NAC and it's a very simple one. What would the com
 being ex- the crop business in Q4, like I guess, that earns over Q3 and Q4 and therefore when we
 get to Q1, obviously, it'll revert back to close to a normal year (41:05)? Thanks.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So, on the Global Corporate topic, I'm going to repeat an answer that I gave a few moments ago. I
 mean, you can certainly pick out things that you – I could claim if it wasn't for this and be better. But
 I mean in the end, it is what it is. I mean, we have an expectation of a higher return from this
@@ -878,30 +694,20 @@ make and hasn't (42:06) maybe taking capital away from some areas and moving the
 don't expect the same significant top line change that we saw in 2016, but we clearly have more
 work to do on Global Corporate.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Can I ask (42:22) very big things, Global Corporate, I mean...
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Global Corporate, I mean with the exception of a couple of European, a (42:30) continuous
 business throughout the year. So I mean, it's not like Reinsurance, who has a big Jan 1. It's a pretty
 continuous profile.
 
-Q - Andy Hughes
+Q - Andy Hughes {BIO 15036395 <GO>}
 Okay.
-
-{BIO 15036395 <GO>}
 
 
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
+A - Mario Greco {BIO 1754408 <GO>}
 
 FINAL
 
@@ -912,59 +718,39 @@ improvements will continue to come. You have lots of different things impacting 
 other. The trend is there and the trend will continue to generate improvement over time. I have a
 sense that you're kind of reading a little bit too much in one quarter only.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 I was looking more at the half year, actually. I was just thinking about 3Q and the 4Q this year
 versus 3Q and 4Q last year. I mean, it's basically higher than it was last year in terms of the loss
 ratio.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So I think if you look at the year today (43:50) I think we've had a better performance on the
 attrition on the first half. I think we actually had some luck from the launch. Also, (43:57) second half
 has been weaker. There's not much I can add to what I said earlier. I mean, we're aware we are
 focused on it, and Jim and the team have a plan at base where (44:09) they expect to drive
 significant improvements through the course of 2017.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
+Q - Andy Hughes {BIO 15036395 <GO>}
 
 Bloomberg Transcript
 
 Okay.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On the crop topic, I think there's actually a slide in the deck, Andy. So if you have the deck, Andy,
 on slides, you can (44:25) see there the impacts on NAC of RCIS.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you.
 
 Operator
 [Operator Instruction] The next question comes from Nick Holmes, Société Générale. Please go
 ahead.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hi, there. Thank you very much. I wanted to revisit the expense control question. And the real
 question is, why is the $300 million not visible in the expense ratio? And can you tell us what are
 the factors that offset it basically? And can you explain how should we really think about the $1.5
@@ -974,9 +760,7 @@ And then second question is just quickly on U.S. Commercial. Wondered if you cou
 flavor of where you think rates will end up this year for yourself. I mean, the market is soft, but
 you've done rather well in 2016. Do you think you can continue that performance? Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 
 
@@ -998,38 +782,26 @@ forward and we look at planning, I mean, we would expect in the U.S. market alon
 (47:10) from earlier that rate and loss cost in the U.S. market it 2017 will be fairly in balance (47:17).
 So of all the markets that's one of the most competitive ones out there currently.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 All right. Thanks very much for that, George. Just coming back on the expense ratio. What sort of
 expense ratio in P&C should we expect for 2017?
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So I mean, I'm really tempted to give you the plan in great detail. I mean, we have a goal for return
 on capital. And so, both the ROE goal is the primary one that we have. I think we all appreciate that
 we cannot get there without improving the overall combined ratio. I mean, our expectation is that
 we'll see us more from what's around in 99% (47:58) down by about 1.5 points. And we'll see
 contributions from both expense and from loss improvement (48:06).
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. Thank you very much.
 
 Operator
 The last question comes from Ralph Hebgen, KBW. Please go ahead.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Yeah. Hi, guys. Ralph Hebgen from KBW. Three things, if I may. The first one goes back to Global
 Corporate, I'm afraid. Just one point. In the fourth quarter, I noticed that there was a reserve
 increase again in Global Corporate, and I thought that was a little disappointing, because it came
@@ -1052,10 +824,7 @@ the attachment point there? And that's it. That's question number three.
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you. Thank you, Ralph. And, so on Global Corporate, I mean, you're absolutely right. There is
 a reserving increase that was in the book in Q4. I mean, as we told here before, we're looking to
 try and manage the overall portfolio. And I mean, at all times, we have pockets of strengths and
@@ -1082,19 +851,13 @@ partners. I mean, given the improved performance that we've seen even on the lar
 structured. So I mean, that means the propensity to attach is slightly higher assuming the same
 level of large losses.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay. Great. Thanks, George.
 
 Operator
 We have a follow-up question from Mr. Andrew Ritchie. Please go ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Hi, there. Sorry to come back. Just very quick ones. Tax rates, you guide to 29% in 2017. I think
 that's similar to what you said at the Investor Day. When do the tax rates start to drift down,
 because obviously the non-life (52:51) business pays a lower tax rate? I would have thought we'd
@@ -1107,10 +870,7 @@ some lead indicator that we've kind of exhausted the in-force benefits in IFRS t
 EV commentary is reflecting there are some in-force issues. Maybe just clarify the disconnect there.
 Thanks.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So on the first one, tax rate, I mean, the biggest challenge in the tax rate is actually the ongoing
 restructuring and lower that cost ends up at Home (53:51), and that's not a very efficient place, but
 
@@ -1124,73 +884,43 @@ I'm still expecting for this year that you'll see something in that 28%, 29% ran
 similar, maybe slightly lower in the following year. And then, we'll start to come back to the longer
 term tax rate that you're more familiar with.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Sorry, George. What's the tax rate on a bulk basis then?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Well, I don't have that one. So I mean, it's slightly different from NIAS, because, of course, there
 are elements in NIAS. There are tax at different rates. But I don't have it in my head with me right
 now.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 But it would be lower, because obviously – and the restructuring is a NIAS item, not a BOP item?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So, yes, the restructuring is not always the same answer for realized gains. I mean, they can vary
 depending on which jurisdiction and what the taxable basis is of the realized gain component.
 
 Bloomberg Transcript
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 And the long-term tax rate, you think should be what?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So I mean, I think before you've seen somewhere around the 25% rate, so I think somewhere in
 that 25% to 27% range is where we should be targeting given the mix of businesses that we've
 got. There's one wild card in all of those. Of course, so quite a large part of our profit is generated
 in the U.S.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Sure.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 And if we saw tax reform there, I mean, that would potentially have a very positive impact on rate
 terms (55:21).
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Sure.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On the in-force management versus the EV topic, so I mean, timing is obviously different and I
 guess that what's behind your question and the EV tends to anticipate, I mean, the entire life of
 (55:38) cash flows and extrapolates experience along all those years to expiry. I mean, I don't
@@ -1202,10 +932,7 @@ versus both comparison. I mean, let me take it away and think about it then.
 
 
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. Thanks. Thanks.
 
 Operator
@@ -1214,50 +941,33 @@ FINAL
 
 We have a follow-up question from Mr. Thomas Seidl. Please go ahead.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yeah. Thank you. Maybe two quick questions on page 17 on the profit as well as profit disclosure on
 Life, if I may. I noted a very strong drop in the technical margin by 10% and also quite a significant
 drop in the unit-linked fee-based margin. Maybe you could comment on what does it drive and
 (56:46) what is the outlook on those two items, please?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So first of all, on the technical margin, adverse claims experienced. So two of our regions have had
 higher claims than grow low for pricing (57:01). I mean that can happen and it is driven by some of
 the incidents, some of the larger cases that we cover. On the unit-linked, I don't recall issues. I
 need to look at it and the team can come back to you, Tom.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
+Q - Thomas Seidl {BIO 17755912 <GO>}
 
 Bloomberg Transcript
 
 Yeah. Sure. Now the technically margin, is the run rate $1 billion then, or what is sort of the run rate
 you would expect here?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So I think if you look at the drop that we've had this year and you treat most of that as volatility, you
 would see the run rate.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yeah. Okay. Thanks, George.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Okay.
 Okay. Thanks very much, everybody, for dialing in today. We're aware there's a couple of people
 still with outstanding questions, and the team will come back to you during the course of the

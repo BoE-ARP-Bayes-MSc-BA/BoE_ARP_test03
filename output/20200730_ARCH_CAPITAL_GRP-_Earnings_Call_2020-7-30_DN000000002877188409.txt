@@ -61,9 +61,7 @@ company's earnings press release and is available on the company's website. I wo
 like to introduce your host for today's conference, Mr. Marc Grandisson and Mr. Francois
 Morin. Sirs, you may begin.
 
-Marc Grandisson
-
-{BIO 4369887 <GO>}
+Marc Grandisson {BIO 4369887 <GO>}
 
 Bloomberg Transcript
 
@@ -192,10 +190,7 @@ our clients' strong relationships over the last three months were critical in ge
 through these tough times. And for that, a huge thanks to all of them.
 With that, Francois will take you through the financials.
 
-Francois Morin
-
-{BIO 17410715 <GO>}
-
+Francois Morin {BIO 17410715 <GO>}
 Thank you, Marc, and good morning to all. We at Arch hope that you are in good health.
 On to the second quarter results. As a reminder, and consistent with prior practice, the
 following comments are on a core basis, which corresponds to Arch's financial results
@@ -384,10 +379,7 @@ Wells Fargo.
 
 FINAL
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi, thanks, good morning. My first question on the property casualty side, you guys seem
 pretty optimistic and saw, started to see -- saw continuation of pretty good growth in the
 quarter and so if you guys don't disclose on the capital supporting on your property
@@ -396,10 +388,7 @@ just want to get a sense of the opportunity at hand and the capital that you hav
 the recent, that rate could you potentially if there really is a strong market, double the size
 of your insurance book of business on your current capital base.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 I think it's a fair assessment. I think in general, you could think of capital allocation on
 premiums from the P&C as a one-to-one that sort of gives you a range for capital usage.
 But certainly the ability is there I would say that this is also informed by how you develop a
@@ -409,20 +398,14 @@ there is a lot -- there's plenty of room for us to grow.
 
 Bloomberg Transcript
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Great. And then on the mortgage side of things, you guys see some pretty helpful color
 that the current delinquency rate is about 30% to 40% lower than where you thought it
 would have been. So as you set the new guide for the outlook for the underwriting -positive underwriting mortgage income for the rest of the year and that 70% to 80%
 combined ratio, can you give us a sense of where you expect delinquency rates to trend
 in the third and the fourth quarter.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Well, we don't really -- we had -- the quarterly movements are a bit harder to predict, but I
 mean we had forecasted last quarter, somewhere around a 10% or so delinquency rate
 by the end of the year. We think -- right now, we're thinking it will be more like around 8%.
@@ -430,10 +413,7 @@ So obviously, we're monitoring weekly and we get data that comes in from all our
 services, etc. But that's kind of where we're at, there is about 8% delinquency rate by the
 end of the year.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yeah. I think to add to this Elyse, I would -- to add to this Elyse, I would say that this is, it's
 one-quarter data point, so it will take us -- we still take a longer-term view and fully all
 reflecting in order, the decrease or the lesser delinquency that we had, right before what
@@ -441,9 +421,7 @@ we expected, while you got you got 30 to 40 and then as Francois told 20% decrea
 still use sort of a level, so we're thoughtful and measured in the way we want to
 recognize any immediate improvement.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Page 8 of 25
 
 
@@ -461,10 +439,7 @@ mortgage page, the average case reserve per default went down to [ph]6.9000 in t
 quarter and it had been 40.4, why would that number have gone down, if you're actually
 setting up more for the current plan. I'm just trying to reconcile those numbers.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Yeah. The average is very much a function of the percentage of the delinquencies that
 are effectively in early stages of delinquency. So if you think of all these newly reported
 delinquencies in the quarter, they carry again effectively a 5% or so claim rate versus the
@@ -474,15 +449,10 @@ I'd say it's really just the way the mix of the portfolio or the mix of the deli
 we currently have changes over time. And this was really as you know, the first quarter
 where we had a large surge of the delinquencies coming from the pandemic.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. Thanks. I appreciate all the color.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 Bloomberg Transcript
 
@@ -491,10 +461,7 @@ You're welcome.
 Operator
 Our next question comes from Mike Zaremski with Credit Suisse.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Hey, good morning. I guess, sticking with MI. So clearly, there feels like there is some
 conservatism kind of built in it, you expect the delinquency rate to continue moving north,
 is the -- is the government stimulus kind of a big X- factor in terms of like how the $600
@@ -503,10 +470,7 @@ think about or I mean, we can just -- should we just broadly be looking at unemp
 levels as well. Just trying to think about how to gauge because clearly results have been
 good so far, much better than expected, which is great.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 So, Mike, I think the easy question is unemployment matters, it is a contributing factor that
 would precipitate if you will, it delinquency and in claims ultimately, the number one, the
 leading indicator, as I said in my notes that will tell you whether it is no a heightened
@@ -533,19 +497,13 @@ going to be helpful and I think we'll see more of this impact at the end of the 
 period, but for now the house price index is extremely encouraging to us and really is a
 leading indicator on the propensity for homeowners to default.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay. That makes sense and that's helpful. Then in terms of, get a number of questions
 about the court cases in the United Kingdom. The FCAs kind of been writing about, about
 that -- is that contemplated in your COVID IBNR, whether those court cases go for or
 against the industry.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yeah. We've taken a conservative approach and we actually had reserved for it as the end
 of March. So we have reserve for it appropriately with a fairly -- a good level of
 reinsurance against it. So we're pretty much reserved there. If -- we can -- hopefully, it
@@ -553,20 +511,14 @@ could be good news going forward for us there.
 
 Bloomberg Transcript
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay. And just lastly, quickly, I'm sure all the people will ask about kind of the segments.
 Any thoughts on new capital entering the broader insurance and reinsurance
 marketplaces, do you feel that capital will continue to or is it having an impact on your
 ability to play offense at this point or is it still just a drop in the bucket, any color would be
 helpful. Thanks.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 So Mike, it's a little bit of everything you mentioned, I would say that the capital needs that
 are out there that we see in terms of clients and trying to find solutions and towers of
 coverage is needing a place, a new place, a new home, we would need a significant
@@ -594,9 +546,7 @@ Date: 2020-07-30
 impossible, I think is totally doable, but it's certainly not something that we are losing
 sleep over.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
+Q - Mike Zaremski {BIO 20606248 <GO>}
 
 FINAL
 
@@ -605,18 +555,13 @@ Thank you.
 Operator
 Our next question comes from Yaron Kinar with Goldman Sachs.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Hi. Good morning everybody. First question -- first question on MI and then a couple on
 the COVID losses. So at MI, I haven't really seen any significant pullback from that market.
 So I guess should I take that to mean that even with all the COVID economic uncertainty,
 you still view it as a pretty attractive business?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 Bloomberg Transcript
 
@@ -635,19 +580,13 @@ makes economic sense that we are on the receiving end to grow. That's why we hav
 such we believe in a much higher NIW than otherwise would have been in the more stable
 marketplace.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Got it. That's helpful. And then with regards to the COVID losses, maybe a couple of
 questions there. One, when you talk about IBNR, do you include only events or losses
 from events that have already occurred or do you also include events in the future that
 are probable -- very probable to occur.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Well, I mean that's a -- I mean, good question, which as you know people are I think
 companies are maybe answering that, I don't say differently, but I think the word we have
 to be careful with how we use the words. Right. So I'd say no question that we can only
@@ -677,10 +616,7 @@ the truly our best estimate of what we think the exposure is and that's where we
 mean we can't really do more than that at this point, given the accounting rules and
 guidelines.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Got it. And then final question, also with regards to COVID, between first quarter and
 second quarter, the increase in loss and COVID losses, is some of that coming from IBNRs
 that you had already set up in 1Q, but then took a second look and realize they need to
@@ -689,10 +625,7 @@ not previously reserved for.
 
 Bloomberg Transcript
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Well, I think a bit of both, I mean I would say on the insurance side for example like Q1, we
 had reserved primarily in said IBNR, primarily in our international book because again back
 to that in the UK in particular property book or regional property book there we were of
@@ -709,10 +642,7 @@ discussions and investigations and file reviews in the second quarter, we booked
 more on that front and the same is true in trade credit. So hopefully that answers it, but
 it's a bit of both, I'd say.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 That is helpful. Maybe one other one if I could sneak it in. On the BI front in reinsurance,
 the increases in COVID loss that you're reserving for today, are those coming more from
 international accounts or more from the US.
@@ -725,9 +655,7 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2020-07-30
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 FINAL
 
@@ -736,40 +664,26 @@ continental, Europe in particular there is France, there are certain countries w
 coverage is more implicit and provided by the primary policies, so those are some of the
 examples that we are policies that we are treaty that we're reserving for at this point.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Thank you very much.
 
 Operator
 Our next question comes from Joshua Shanker with Bank of America.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Can we talk a little bit about July and how it compares noticing for mortgage defaults?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Could you repeat the question please, Josh.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
+Q - Joshua Shanker {BIO 5292022 <GO>}
 
 Bloomberg Transcript
 
 Yeah. Can we talk about compare May, June, July of you receiving notices for forbearance
 and defaults.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yeah. I think no we've -- I think the one place -- the thing that we could say, I mean it's the
 data is probably lagging a little bit from our perspective, but the good want to look at is
 the, the information Black Knight, I think and the NBA's providing information as to what is
@@ -784,10 +698,7 @@ again. As you know, a lot of people pay on the first of the month, then we'll pr
 more information and the clear picture as to what August -- July looks like in the middle of
 August.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Okay. Thank you. And do you have any evidence one way or the other RateStar has had
 any discernible difference in claim behavior -- I should say claim noticing behavior
 compared to how a larger competitors approaching this prior to your -- to adopting your
@@ -802,10 +713,7 @@ Date: 2020-07-30
 
 FINAL
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yeah. I think -- I think it does. It has had an impact, I think when we talk about cycle
 management, we also were doing it possibly a little bit more under the radar screen in
 the MI. I think that our RateStar approach with all the parameters actually took us away
@@ -815,58 +723,37 @@ slight -- a slight improvement or a slight difference going to our advantage in 
 delinquencies, based on our portfolio and the risk that we underwrote for the last 4-5
 years.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 All right. And then my last one, I think you the change in PML, I was thinking you mentioned
 the RDS change or maybe I missed it, where is RDS as a percent of your equity as of the
 end of the quarter.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Still wide at 8%, pretty flat. We've been -- couple of movement across the kind of
 contributions, but yeah 8% of tangible book.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Thank you for all the answers.
 
 Bloomberg Transcript
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 You're welcome.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Thanks, Josh.
 
 Operator
 Our next question comes from Ryan Tunis with Autonomous Research.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Hey, thanks, I appreciate the MI guidance, I realize all of this is like literally impossible to
 nail down, but I'll go ahead and I'll push on it a little bit more because it is interesting. So
 when you think about the full-year delinquency rate, in your mind, what are you thinking
 the percentage of forbearance is there going to be or I think you said more than 8%, how
 much of that is forbearance versus what you think of is like a real delinquency.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 While the forbearance, that we will declare -- that we will report -- that we are reporting to
 you our delinquencies by definition, right. So it's very hard to see, I know what you are
 asking and I think the one thing that we will tell you about projecting forbearance rates
@@ -883,18 +770,13 @@ lagging a fair amount, so very difficult for us to tell you.
 
 FINAL
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 And I guess my follow up to is how you planning on treating these delinquencies as they
 age, like you are obviously using a pretty conservative incidents rate of 5% and as those
 move into the -- as those age to six months or whatever, like are you going to keep it at
 5% or are you going to, you're going to assume something bigger than that.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 Bloomberg Transcript
 
@@ -918,29 +800,18 @@ risks and to add all this to all of this, if that wasn't enough, we'll have reme
 programs put in place of the GSEs, which presumably should help with tremendous
 amount, but again it remains very early to say.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Understood. And then lastly, Morin, this is purely hypothetical, but if you're at a $1 of
 capital for the next year or two or three years and you can only allocated to reinsurance or
 primary insurance, is there a clear preference for which one you'd allocate it to?
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 How many years?
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Two years.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
+A - Francois Morin {BIO 17410715 <GO>}
 
 Page 15 of 25
 
@@ -964,16 +835,10 @@ might lose that business, so it's not -- it's not an all or nothing kind of situ
 want to go that's the all in reinsurance, even though they have higher ROEs sooner at the
 cost of losing long-term value creation from the insurance unit.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Thanks for the thoughts. Appreciate it.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Good.
 
 Operator
@@ -982,19 +847,13 @@ Bloomberg Transcript
 
 Our next question comes from Meyer Shields with KBW.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Thank you. I wanted to follow up on that question. But in a different direction, you talked
 about reinsurance maybe recovering faster than insurance, how is the current harding
 cycle playing out in terms of speed relative to past cycles, is there any observable
 difference?
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Not really. I would say that -- we might -- when we had that discussion before, a hard
 market never happens overnight, it takes five signal, two-three quarters losses have to
 develop, management team have to figure out what they want to do and put pressure on
@@ -1018,9 +877,7 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2020-07-30
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 FINAL
 
@@ -1029,10 +886,7 @@ improvements within insurance that would get to 95% combined, and when we look
 through the lens of current pricing, Is there an update in terms of what that 95 can
 become?
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 I hope it's lower, but all kidding aside, Meyer, I think that the the 95 was put in place as an
 aspirational number two, three years ago now, two years ago now in an interest
 environment that was different. So I think right now what we're pricing it through, this was
@@ -1044,9 +898,7 @@ this, but all things being equal, I think I would expect it to be lower right fo
 and that's also why you'll probably see a bit more pressure on the pricing around us in the
 industry.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 Bloomberg Transcript
 
@@ -1054,10 +906,7 @@ Okay. Perfect. And then final question, if I can, just in terms of whether you h
 into account, whether it's COVID or something like that that's so remote or other
 pressures whether you've dialed up your overall loss trend numbers in insurance or reinsurance.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Not in a meaningful way, I think, I mean, we've been pretty cautious and I think I've been -I'd say realistic about what the loss trends have been and what we expect them to be
 going forward. As you know, we haven't relied exclusively on kind of the last 5 or 10 years
 of data, we superimposed our own views on what a more normalized view of loss trends
@@ -1065,19 +914,13 @@ is or should be and I think we're still very comfortable with where we were at a
 recognizing that yes COVID, it is a bit of an outlier, but at this point, haven't really factored
 in any material changes in our loss trends in how we price the business.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Fantastic. Thank you so much.
 
 Operator
 So you our next question comes from Brian Meredith, UBS.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes. Thanks. A couple here for you. First one, I don't think you mentioned it, but was there
 any benefit at all in the quarter from just lower frequency of economic activity kind of from
 
@@ -1093,48 +936,33 @@ a claims perspective in any lines of business?
 
 FINAL
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 I mean there are some indications that in some places, yes, there is lower economic
 activity, which will translate to lower losses or claims, really haven't reflected that yet. I
 mean we want to take a cautious approach on that. So I'd like to think that maybe there
 are some to come down the road, but for now we haven't factored that anywhere in our
 numbers.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. And then second question, just curious, Marc. As you look at I guess the Heals Act
 here, there is a component into it of kind of a liability call an indemnification as you think
 about it, if that doesn't go through, is that a potential issue here for you in the insurance
 industry and how do you kind of think about it from an underwriting perspective, you're
 going forward.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 I missed the word you said, Brian, could you repeat the early part of the question.
 
 Bloomberg Transcript
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Well, it's basically got curious about protection or what you think about as far as the
 economy reopening here and potential liability associated with kind of COVID- 19, the
 current, I think it's called the Heals Act or the CARE 2 Act, it's got some language in there
 trying to grant businesses in the community for it, right. Just curious of your thoughts
 around that -- for insurance.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Well, it's not -- it's just going to allocate more liability to us or presumption to us is not
 good, but I think listen, these laws are always, there is always things that are happening.
 We're going to have to react to what we see when we see it. That's all I can tell you, Brian,
@@ -1142,20 +970,14 @@ it's very hard to to sit here and go through what impact it is, if we were to re
 go to full drill about everything that goes in, a bill that's proposed, it would take a lot of
 our time, so we'll react to that when we react to it. Right.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 And Marc, I think you got it wrong. I think mistake my question, my question more is from
 your insurance policies perspective, as you look going forward -- as the economy reopens
 up, there's clearly EPLI exposures, GL exposures, all sorts of exposures to potentially
 present themselves of benefit, how do you -- how are you thinking about that from an
 underwriting perspective?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Well, we have written policies that have EPLI exposure, we have GL exposures, but we are
 not a large risk writer. We don't write the large insured, so we would have certainly
 Page 18 of 25
@@ -1174,37 +996,25 @@ larger deeper pocket insurance. That's one thing we have for us. We also have a 
 amount -- good healthy amount of reinsurance, so we're not overly concerned with the
 sideways haven't changed. Yeah.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Got you. Okay. And then another just quick one here, your travel insurance, I'm just curious
 how big of a book is that and obviously we're probably going to see some continued
 pressures there for the rest of the year.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yeah. It was originally about a couple of hundred million dollars of premium and now it's
 down, I mean, you can see the numbers, you can multiply by four, I don't need to -- 250
 actually, for the year. So that's -- it's been -- it's taken a big dent and that also explains
 why the growth was more tested this quarter than otherwise could have been.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. And then one other just quick one here for you, I know you guys launched a sidecar,
 I guess this is in the first quarter, any thoughts about additional kind of alternative capacity
 here to potentially capture some of the good attractive opportunities in reinsurance.
 
 Bloomberg Transcript
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 It's a good question, Brian, you know, you're trying to get us to say something we don't
 want to say or we can't say or we won't side, I mean we don't -- we don't mentioned
 about, you know, we certainly are always on the look out to raise capital to deploy with
@@ -1212,26 +1022,17 @@ third party, a lot of discussions are happening all over, we'll have probably mo
 we -- as we see it happen and we'll be communicating to you to the extent as
 appropriate, but I must clearly.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Great. And last one, just quickly any updates on Coface?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Coface, you know, strategically, it's still something we really very much think it's valuable
 for the shareholders, there's a lot going on, we are still going through the process of
 approval process and we're keeping a keen eye on what's happening, I think they
 reported results yesterday, which were better than the street expected. So we'll see how
 that goes, it's also there as well as developing situation with them.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Okay. Thank you.
 
 Page 19 of 25
@@ -1247,10 +1048,7 @@ Our next question comes from Phil Stefano with Deutsche Bank.
 
 FINAL
 
-Q - Phil Stef ano
-
-{BIO 18965951 <GO>}
-
+Q - Phil Stef ano {BIO 18965951 <GO>}
 Yeah. Thanks. Just a quick one on the Bellemeade transaction, I'm thinking about the
 potential for these moving forward, I guess it feels like the Bellemeade deal that was
 done in the past quarter, just given as attachment was probably more for S&P Capital
@@ -1264,10 +1062,7 @@ might provide.
 
 Bloomberg Transcript
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yeah. It's good question, I think it's always something we evaluate when and if we place or
 look at options that are in front of us. You are correct, this one attaches -- the last one
 attaches above the PMIERs credit, but we're still very much -- we have a healthy PMIERs
@@ -1283,19 +1078,13 @@ like to see the price to come down. We hope they do down the road, but for the t
 being, given the economics in front of us, we were -- I think it was a good move on our
 part.
 
-Q - Phil Stef ano
-
-{BIO 18965951 <GO>}
-
+Q - Phil Stef ano {BIO 18965951 <GO>}
 Got it. Thanks. And to the extent that you guys have disclosure wishlist that you keep in
 the background, I think it might be harmful to see the US MI disaggregated from the
 international and the mortgage reinsurance books, just given the significant differences
 and how those businesses are reserved for. Thanks. Appreciate it and congrats.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 See you back. Thank you.
 
 Operator
@@ -1309,25 +1098,17 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2020-07-30
 
-Q - Geoffrey Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Dunn {BIO 3447798 <GO>}
 Thanks. Good morning. I guess, first just a quick number question, can you quantify the
 impact of the accelerated singles in the quarter.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 FINAL
 
 Did we do this, I think it's about $50 million.
 
-Q - Geoffrey Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Dunn {BIO 3447798 <GO>}
 Okay. And then what think forward past the end of new forbearance,so early next year. So
 given what you know about the economy now, obviously very different from a couple of
 months ago, how would you think about claim rates on new notices without forbearance,
@@ -1336,25 +1117,17 @@ going into a recession or not, and I think Marc, last quarter you suggested, we 
 looking at 13, 14 given what you knew then. So what do you think about that type of
 number, as you get into early 2021, based on what you know today.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 I think the 5% is probably. This is like on NOD, so you're talking about claims rate for the
 portfolio.
 
-Q - Geoffrey Dunn
-
-{BIO 3447798 <GO>}
+Q - Geoffrey Dunn {BIO 3447798 <GO>}
 
 Bloomberg Transcript
 
 On NODs, so new notices coming in and forbearance goes away.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yeah. Right. I think we were at 7.9 pre-COVID. I think that the forbearance should be,
 should be pretty, pretty helpful and to bring it up not bring up to the 13-14, you just
 mentioned that I mentioned the first quarter, that's probably my gut would tell me, a slight
@@ -1364,24 +1137,15 @@ program were to play out, to which we play out, it is still very uncertain, as y
 Geoff. I think that we should get back to, it might be elevated for a while, maybe 12%, 13%
 for a while, but it should go back down at some point for next year I would say.
 
-Q - Geoffrey Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Dunn {BIO 3447798 <GO>}
 Okay. All right. So you do think given what you know about the economy and built up
 equity that you could still see 12% type of incidents assumption.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yeah. On NODs right, on new NODs for regular BQ, not for the forbearance piece, the
 forbearance piece we gave, we did give a discount right, discounted that. So yes.
 
-Q - Geoffrey Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Dunn {BIO 3447798 <GO>}
 Okay. All right. Thank you.
 Page 21 of 25
 
@@ -1391,37 +1155,23 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2020-07-30
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Thanks, Geoff.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
+A - Francois Morin {BIO 17410715 <GO>}
 
 FINAL
 
 I mean before you go onto the next one, Geoff, quick, quick update for you the actual
 impact of the singles was $27 million in the quarter, just correction to Marc's $50 million.
 
-Q - Geoffrey Dunn
-
-{BIO 3447798 <GO>}
-
+Q - Geoffrey Dunn {BIO 3447798 <GO>}
 Thanks again.
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Okay.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 You're welcome.
 
 Operator
@@ -1429,19 +1179,13 @@ Our next question comes from Jimmy Bhullar with JP Morgan.
 
 Bloomberg Transcript
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
-
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 Hi. I just had a question on pricing and just how you think about the interplay between the
 decline and exposure that the economy remains weak and how that could affect demand
 and pricing and relatedly, what else is out there that you think could potentially derail the
 momentum that you've seen in pricing of both in insurance and reinsurance.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 I mean it's hard to predict the future, as you know, oh my god, I think, if everything
 resolved, if everything resolved -- I mean even if things resolved for the better, I think the
 momentum that we've seen in the first quarter, late 2019 and early 2020, I think we will
@@ -1450,19 +1194,13 @@ much higher the rates could go, but I do believe the momentum was there for turn
 market will be for pre-COVID-19. COVID-19, like I said before exacerbated the need for
 rate and accelerate the need for rate.
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
-
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 And then there has been a lot of talk about sort of ILS and trapped capacity and what do
 you think about when either some of the capacity gets relieved or potentially gets
 absorbed and once there is clarity on that, do you think by this time next year, like a lot of
 the capital would actually be out.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Page 22 of 25
 
 
@@ -1483,16 +1221,10 @@ claims and that would take -- that could take you know another year-and-a-half t
 years to resolve. So there's a lot more uncertainty in terms of timing, finding resolution of
 the ultimate prices. So it's a lot less certain that it will take only a year to get through it.
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
-
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 Thank you.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Sure.
 
 Operator
@@ -1509,10 +1241,7 @@ forbearance programs and how that -- how that affects your thinking about your c
 book and what you learned in there, was it -- did you learn anything about LTVs,
 geographies, sort of et cetera and how does that apply to your existing book today.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 I think we have done reserving in the past, considering all the dimensions, you just talked
 about, I think that we had the -- the beautiful thing about the prior Hurricanes or the
 beautiful thing in a way is that we had prior Hurricanes and prior events that we can go
@@ -1541,10 +1270,7 @@ So we are still very much developing and we're learning on the fly.
 
 FINAL
 
-A - Francois Morin
-
-{BIO 17410715 <GO>}
-
+A - Francois Morin {BIO 17410715 <GO>}
 Two things I'll add quickly to that. As Marc mentioned, historically forbearance
 delinquencies, most of them cure, I mean and we made comment that the 2% kind of
 claim rate. So that's -- that's obviously a very positive sign, but that's again more localized
@@ -1568,20 +1294,14 @@ achievable or probably won't be what we end up with in this current situation.
 Q - Unidentified Participant
 Okay. All right, great. I appreciate it. Good luck on the future.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Thanks, Jaime.
 
 Operator
 I'm not showing any further questions. I would now like to turn the conference over to Mr.
 Marc Grandisson for closing remarks.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Thanks for joining us this quarter. Please stay safe. Have a nice rest of the summer and
 we'll talk to you in the fall again. Thank you.
 

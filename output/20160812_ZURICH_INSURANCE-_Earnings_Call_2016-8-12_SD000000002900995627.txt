@@ -22,10 +22,7 @@ that all participants will be in listen-only mode and the conference is being re
 presentation, there will be a Q&A session. (Operator Instructions) At this time, it's my pleasure to
 hand over to Mr. George Quinn, Group CFO. Please go ahead, sir.
 
-George Quinn
-
-{BIO 15159240 <GO>}
-
+George Quinn {BIO 15159240 <GO>}
 Thank you very much and good afternoon or good morning to everyone. And thank you for taking
 the time to join this call on the reserving information that we released yesterday.
 Just to remind you that this is a webcast and that you should use the link on our IR page if you'd
@@ -36,10 +33,7 @@ information. And most importantly, he'll draw your attention to some limitations
 data that you'll need to allow for if you're planning to do your own re-projections.
 With that, I'll hand over to Steve. Steve?
 
-Steve Wilson
-
-{BIO 19265275 <GO>}
-
+Steve Wilson {BIO 19265275 <GO>}
 Great. George, thank you. Good afternoon and good morning to everyone. Thank you for joining
 the call.
 So as George said, we've released a lot of new data, loss development triangles and so on and so
@@ -346,10 +340,7 @@ Operator
 (Operator Instructions) The first question is from Andrew Ritchie, Autonomous Research. Please go
 ahead.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi there. Thanks, first of all, Steve, for that presentation. And thanks for not getting into
 Bornhuetter-Ferguson on a Friday lunchtime. A couple of questions.
 First of all, I'm not entirely sure yet about your external cycle of review, in other words, the cycle of
@@ -367,10 +358,7 @@ corporate liability and how it differs from the US? Thanks.
 
 FINAL
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 Sure. So the first question on external reviews, we have regular reviews for the US APH, which is in
 the GL book. We have a very detailed review every two years. And then we track on a quarterly
 basis the movements in the claims experience against those anticipated by that review. So it's
@@ -392,17 +380,11 @@ And again we track that on a quarterly basis.
 And we also look as well to opportunities in the market if we can to de-risk that portfolio in
 particular. So I think that's your first question.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Sorry, could I just follow up on that? Were there more external reviews than normal last year on
 particularly US liability? That's what I'm trying to understand.
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 Were there more than normal? I must say I was Chief Actuary -- as you know, I was Chief Actuary
 back in 2004 to 2007. We seemed to have a lot of reviews then. We seem to have a lot of reviews
 now. So I don't actually think there were more than normal. We did have a quite extensive activity in
@@ -413,19 +395,14 @@ periods. But I think to me it feels like we have a lot of reviews. There's no sh
 reviews.
 Can you remind me, please, on the second?
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 It was -- I want to understand the differences between global corporate specialty and liability and
 North America. I just noticed that particularly global corporate specialty has much higher ultimate
 loss ratios in the last few years than the US and Europe, both on the specialty and liability side.
 What is the nature of that business, or particular -- what have there been particular issues in those
 lines?
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
+A - Steve Wilson {BIO 19265275 <GO>}
 
 
 
@@ -443,10 +420,7 @@ know if I can give you the precise details. There's so many different covers wit
 quite a lot of different customer segments. So I don't really -- I'm afraid I have to hand the detail of
 the performance of each of those.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. Thanks.
 
 Operator
@@ -454,10 +428,7 @@ The next question is from Thomas Seidl, Sanford C. Bernstein. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yes. Thank you. And thanks for a great presentation. Very helpful. First, on workers' comp, I look at
 slide 35, because you of course rely mainly on Schedule P as external data source. So you basically
 say. And this is in line with what we found, if you exclude the unallocated loss-adjusted expense,
@@ -481,10 +452,7 @@ shouldn't this lower inflation result in higher reserve releases? And secondly, 
 work with future inflation levels? How do you cope with the situation that you need to forecast 10,
 20 years while inflation right now is very low?
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 Okay. So that's -- thank you, Thomas. And that's quite a few questions. So you may need to help
 remind me on that as we go through the answer.
 So Schedule P, the statutory return in the US, we have that data, as you've pointed out, on page
@@ -513,19 +481,13 @@ I think that's your first question. Would you please remind me of the second que
 
 Bloomberg Transcript
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 The second, total US P&C ultimate loss ratio development the last 10 years, 2005 to 2014 I think is
 the data we have here, 5 of the 10 trend upwards, the total ultimate loss ratio. And the other 5 are
 essentially flat. So my question was it seems like the US reserve buffer is close to zero just by
 looking at the total runoff. Is that a fair observation?
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 No. If I may say so, I wouldn't say it's a fair observation. So we apply the same approach
 consistently across the Group. We have, as I said, our reserve strength is calculated in a rigorous
 way. So the estimates are calculated consistently and the reserve strength is determined
@@ -539,20 +501,14 @@ benefit of the more simply reserved lines of business. But allowing for the diff
 are consistent across the Group.
 Sorry, I'm going to have to ask you to remind me of the third question as well.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 The third is very simple. Basically inflation, with this dramatic drop in inflation, shouldn't we, number
 one, expect more positive runoffs right now, because clearly 5, 10 years ago when you reserved
 for this stuff, the inflation expectation then was much higher than it is today? And going forward,
 what do you do to avoid basically that your reserve now, based on very low inflation level. But in 10
 years' time it turns much higher?
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 Thank you. And thank you for giving me a simple question as well, amongst your questions. So yes,
 inflation is of course pervasive. I should just be clear, when we think about inflation form a reserving
 
@@ -580,19 +536,13 @@ that.
 
 Bloomberg Transcript
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 But clearly if you look, for example, at workers' comps for the last five years, inflation has come
 down. Why isn't there this visible then in the data that you have? You should be benefiting from
 lower inflation. Or would you say that inflation, as regarding maybe costs and so on, is not coming
 down as much as CPI?
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 So it clearly has come down; that's not disputed. And it is reflected, if you look at those, way back
 on slides 5 or 6, with the proven track record, part of those large releases, which we've shown as a
 percentage number which -- so there, it's up on the screen now. So we had these really -- this is, if
@@ -603,25 +553,16 @@ we had an $8 billion surplus at the end of 2006. In fact I looked at what we tho
 at the end of 2006 and it wasn't $8 billion. So the part of that positive runoff is the Zurich way
 doing what we want it to do. And part of it was a little bit of a tailwind from falling inflation.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 All right. Thanks a lot.
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 Thank you.
 
 Operator
 The next question is from Andy Hughes, Macquarie. Please go ahead.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Hi. A few questions if I could. Basically the first one is on the case reserve. So I just had a look to
 see the things that look odd to me. I don't -- I think everyone looking at the numbers would
 probably find something that looked a bit odd. But the first thing which jumped out at me was
@@ -645,9 +586,7 @@ Then on the 2015 position you've given us, on the right-hand side of the spreads
 have those for 2014 and all the other years so that we can actually do a BF if we want to, because
 obviously if we do this, we're going to get the wrong numbers. Thanks.
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
+A - Steve Wilson {BIO 19265275 <GO>}
 
 Bloomberg Transcript
 
@@ -675,62 +614,39 @@ actuaries are like, pretty much -- we're a little bit reluctant to bring the goo
 So we project some of those savings. But the property reserves still retain future positive runoff
 that hasn't been fully projected through.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 I'm just wondering how I should model that, because, to be honest, I'm an actuary but I would
 really struggle to come up with an estimate for this line, which is less than the paid claims.
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 But it's -- the method, the chain ladder method, can -- you can just input numbers less than one,
 right?
 
 
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Right, yes. I suppose so. For year 11, I suppose, yes. Okay.
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
+A - Steve Wilson {BIO 19265275 <GO>}
 
 FINAL
 
 Yes. So mathematically it's symmetrical. We're happy to have a further conversation, if you want to,
 for us to discuss further how we do that.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Yes. That'd be helpful. Thank you.
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 Yes. Could I -- and you had at least one other question.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Yes, on reinsurance. How do I adjust for reinsurance, because obviously these are all gross? So I'm
 just trying to work out, if I come up with a gross estimate for anything, what do I do with it?
 
 Bloomberg Transcript
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 Yes. So it's gross to gross. So the reserves are gross. The triangles are gross. So everything's
 consistent. So what you can do is you can do these projections and then you will form a view -- you
 can form a view on what a projected estimate looks like against our held estimates at the gross
@@ -740,36 +656,21 @@ The reinsurance effect, the netting effect doesn't really affect the surplus. We
 reserves that would -- we don't put surplus in seeded reserves, if that makes sense. So a net
 surplus is the same as a gross surplus essentially. That's the --
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 But do I need to pro-rata whatever surplus number I come up with though, presumably by the
 reinsurance proportion?
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 No. No, you don't.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 So there's no surplus for the reinsurance? Okay, it's taken off at best estimate rather than with -okay. All right.
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 That's right. That's right. And we don't buy a huge amount of reinsurance either. So there's much
 less seeded reserve perhaps relative to our peers.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Okay. Thank you.
 
 Operator
@@ -777,9 +678,7 @@ The next question is from Sami Taipalus, Berenberg. Please go ahead.
 
 
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
+Q - Sami Taipalus {BIO 17452234 <GO>}
 
 FINAL
 
@@ -800,25 +699,17 @@ comfort about how prior-year reserves. So for (2015), 2006 and older -- sorry, f
 Can you just give us a bit of comfort on the strength of those years and how you benchmark that
 strength? Thank you.
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
+A - Steve Wilson {BIO 19265275 <GO>}
 
 Bloomberg Transcript
 
 Sure. And I think I'm going to answer one and three and George might pick up on answer -- on
 question number two.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you, Steve.
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 In a second. So I think the question first was what we call reserve strength IBNR, how do we
 determine that? That's determined by the actuaries. The whole process that's consistent -- the
 approach for reserve strength determination is consistent and the same as the approach for the
@@ -857,10 +748,7 @@ George and then onwards into Mario and the Audit Committee.
 So that's how we get to reserve strength and that gives us protection against adverse deviations
 that could happen but that we don't expect to happen.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I'll do number two and I'll remind you that the last question is about 2005 and prior.
 
 Bloomberg Transcript
@@ -889,10 +777,7 @@ to do. So we can talk about how we reserve and what the numbers are and what the
 mean. But I think for most people, the comfort really only comes from consistent delivery. And
 that's what we're aiming to do.
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 Okay. So question number three. And I'll answer this and I think we can take one more question
 after this, by the way. So accident years earlier than these triangles. There's about $6.6 billion of
 reserves. That's aggregated across the Group.
@@ -918,20 +803,14 @@ And what 25 years will be -- will be past -- certainly past my working lifetime 
 us on this phone. So just to remind ourselves that there is a sort of abstract nature to what's
 happening out in the tail.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Okay. That's fine. Just coming back on the first question a bit. So when you -- I think yesterday you
 talked about increasing reserves a bit in Group Re. So that was related to increasing -- that was an
 increase relating to a specific sensitivity or --?
 
 Bloomberg Transcript
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 Yes. So there's a question here about where we would hold reserve strength. As I said earlier, we
 try and match it up to where we think reserve risk is. And so hence we have a consistent
 positioning across the businesses.
@@ -945,25 +824,17 @@ country, we're not yet clear whether we need to book reserve down into that coun
 hold it. It's like a holding pattern really. So part of the Group Re reserve is specific whilst this stuff
 runs off over time.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 All right. Thank you.
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 Do we have one more question? I think we have another question.
 
 Operator
 The next question is from Michael Huttner, JPMorgan. There are no further questions. I will hand
 over to Mr. Quinn.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 
 
@@ -978,10 +849,7 @@ But thank you again for joining the call today. We appreciate all the questions 
 particular, if you have feedback on the material that we're released, please let us know so that we
 can improve it for the future. Thank you.
 
-A - Steve Wilson
-
-{BIO 19265275 <GO>}
-
+A - Steve Wilson {BIO 19265275 <GO>}
 Thank you.
 
 Operator

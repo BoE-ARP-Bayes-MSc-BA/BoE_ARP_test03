@@ -58,10 +58,7 @@ FINAL
 I would now like to introduce your host for today's conference, Mr. Dinos Iordanou, Mr.
 Marc Grandisson, and Mr. Mark Lyons. Mr. Iordanou, you may begin.
 
-Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+Constantine P. Iordanou {BIO 2397727 <GO>}
 Thank you, Abigail. Good morning, everyone and thank you for joining us today for our
 first quarter earnings call. We're staring the year on a good note, our first quarter, it was
 terrific from virtually all perspectives. Our reported combined ratio was excellent at 87.1%,
@@ -141,10 +138,7 @@ I will now turn it over to Marc Grandisson for comments on market conditions, be
 Lyons discuss our financial results. And after their comments, we will take your questions.
 With that, Marc?
 
-Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+Marc Grandisson {BIO 4369887 <GO>}
 Thank you, Dinos. Good morning to all. We continue to face the challenges of softer
 pricing as the property casualty industry continues to report favorable prior-year loss
 development, and benefiting from below average cat losses, which obscures, we believe,
@@ -269,9 +263,7 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2016-04-28
 
-Mark Donald Lyons
-
-{BIO 6494178 <GO>}
+Mark Donald Lyons {BIO 6494178 <GO>}
 
 FINAL
 
@@ -446,32 +438,21 @@ Q&A
 Operator
 Our first question comes from Vinay Misquith with Sterne, Agee. Your line is open.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Hi, good morning and congratulations on beating numbers, one of the few companies to
 do so.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Thanks.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
+Q - Vinay Misquith {BIO 6989856 <GO>}
 
 Bloomberg Transcript
 
 The first question is on the new opportunities because of market dislocation. If you could
 discuss that, that would be helpful. Thanks.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Well, Marc talked about some unusual transactions that we see on the reinsurance side,
 doesn't mean we're going to do any, but we see more requests. So that means there is
 clients out there that they have special needs. On the insurance side, we continue to
@@ -484,10 +465,7 @@ just on premium growth; of course that's not the case with our mortgage business
 business we like a lot and we try to grow it as fast as we can. So Marc, you want to add to
 it or...?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yeah, absolutely. On the insurance side, I believe that we've seen an increase in
 submissions over the last quarter or so because some of our competitors have decided
 to exit some lines of business; there have been some mergers and acquisitions. So we
@@ -503,9 +481,7 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2016-04-28
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 
 FINAL
 
@@ -516,18 +492,13 @@ the end of the day, you can't have the title underwriter and give it to somebody
 Either you're going to underwrite or you're not. With our troops, I want us to have the
 ability to underwrite ourselves.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 That's fair; that's helpful. The second question on mortgage insurance, if you could give
 us some metrics about how well RateStar is doing. I think you said 50% of the submissions
 were coming through RateStar. But do you think it's actually driving more submissions to
 Arch because of that? And any anecdotal evidence would be great.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 
 Bloomberg Transcript
 
@@ -543,32 +514,20 @@ but it was – in April, it was 61%. So, that tells you that more and more of th
 moving to the place that we wanted to move because we have a lot of faith in the way we
 price the business. Marc?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Vinay, essentially there's a huge increase in submission; we believe it's in the order of
 50%, 60%, if you look last quarter of 2015 versus this first quarter. And the vast majority of
 that pickup was through the bank channel, so just to give you an overall sense in the
 quarter.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Yeah, that's helpful. And Marc, if you could also clarify about rates. I mean I think you
 mentioned that the risk-adjusted rates are actually higher now for this rather than lower.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yes, because of...
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Well, we expect that ROE on the business is higher than our rate card.
 
 Page 10 of 34
@@ -579,44 +538,30 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2016-04-28
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. And even from a competitive standpoint, you've not seen the competitors sort of
 step in and do something similar?
 
 FINAL
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Right now, the rate card seems to have stabilized. In some, we – there are rumors. The
 only thing I can comment to you Vinay is there are rumors that some people will be
 expanding their rate card or doing the risk-based pricing approach that we have. But we
 have no way of knowing what's going to happen right now. But right now, it seems that
 the rate card has been stabilized where it is right now.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 But our future, Vinay, it's going to be RateStar. We like re space approach to it, looking at
 many characteristics of a particular mortgage and trying to get the right price for the
 exposure that we have and we continue to refine our approach with that. I have a lot of
 resources committed to that effort, which is no different than what we do on the P&C
 side, to begin with.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Great, okay. Thank you.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 Bloomberg Transcript
 
@@ -625,22 +570,13 @@ You're welcome.
 Operator
 Thank you. Our next question comes from Amit Kumar with Macquarie. Your line is open.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Thanks and good morning and congrats on the results.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Thanks, Amit.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Two quick questions on MI and thanks for being patient with us and explaining the finer
 nuances of the MI market. The first question probably ties back to Vinay's question on the
 broader space. Recently, the National Association of Realtors wrote a letter to FHA asking
@@ -648,9 +584,7 @@ them to cut their premiums. If FHA cuts their premiums, does that change the ent
 of the private MI market or is that a different kind of – it's obviously a different risk; so it
 does not impact you that much.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Page 11 of 34
 
 
@@ -670,20 +604,14 @@ to operate with the capital ratios that they have. So I don't know – it depend
 do and then we'll see the effect that it will have on the marketplace. And by the way,
 thank you for the compliment, being patient; my guys here they say otherwise, so.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 The other question I have was in regards to the excess capital that you mentioned. There
 has been chatter in the marketplace obviously regarding the disposition of a large MI
 asset, one of the largest companies. At this stage of the cycle, Dinos, how do you look at
 growing organically and I'm talking about the MI piece versus looking at this obviously very
 large and game-changing property out there?
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 All I can say is we'll look at all avenues. Right now, our focus has been to grow organically.
 But given other opportunities, we will evaluate them. If they get presented to us, we'll
 evaluate them. At the end of the day, we get paid to put capital to work at an effective
@@ -692,35 +620,23 @@ to grow the exposure we have in the MI business.
 
 Bloomberg Transcript
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Got it, fair enough. That's all I have for now. Thanks for the answers and good luck for the
 future.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Thank you.
 
 Operator
 Thank you. Our next question comes from Jay Gelb with Barclays. Your line is open.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Thank you. On the core reinsurance segment, I was somewhat surprised to see that gross
 written premiums were essentially flat. You mentioned some specialty opportunities. I was
 hoping to get a better perspective on whether you think that overall business might be
 flat from a premium volume perspective or maybe even grow this year.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 I don't know, you want to take that – I don't know about the rest of the year; it depends
 what we're going to be offered with. But in the first quarter, certainly seized opportunity in
 the few larger transactions that Dinos alluded to at the beginning and also couple of
@@ -741,18 +657,12 @@ nature. So I would just say it's a reflection of – and UK Motor for instance. 
 quota share, you will have a lot more throughput in the quarter. So that's a great example
 as to what premium would actually be stable year-on-year.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 That makes sense, Marc. The other point I wanted to touch base on in reinsurance is the
 high level of persistent reserve releases. Can you give us some perspective on what
 continues to drive that favorable result?
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Well, let me give it an attempt, and then I'll give it – I'm being surrounded by actuaries
 here. Marc and Mark, they're both actuaries. But we have a methodology; we haven't
 changed our methodology for the 14 years. To simplify, we try to pack the accident year
@@ -767,26 +677,17 @@ on your wins, and we follow the data. So whatever the data tells us quarter afte
 that's what we report. Now, that was a guy who doesn't have an actuarial degree, so I'll
 turn it over to Marc or Mark, Mark Lyons to give you the more scientific answer.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Good. My scientific answer as a reformed actuary is I have nothing more to add.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Thanks, Mark. The final question I have was on mortgage reinsurance. Clearly, there was a
 big benefit in 1Q from the Australian deal. I'm trying to think about on organic. I guess,
 organic is not the right word; but on a normalized basis, what do you think the growth rate
 could be in mortgage insurance? Could this be a $500 million gross written premium
 business within a year or so?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Well, we don't know. And Australia is a market that's dominated by two or three players or
 four banks; so we have a major relationship with one of the top four. It's kind of hard to
 see where, if any, if we're able to grow relationships in other banks. But currently right
@@ -811,10 +712,7 @@ good picture of our quality production.
 
 FINAL
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Hey Jay, it's Mark Lyons here. Let me just add, the difference between binding the
 business and expanding it versus the accounting recognition of it. The Australian market is
 a single premium market. So if you got to really contrast that with the U.S., which is
@@ -824,10 +722,7 @@ business that it's reinsuring is a series of every homeowner having a single pre
 they put it to play. So the recognition will be accelerated relative to the U.S., so you can't
 extrapolate that into something that may appear ultimately to be larger.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 That's helpful. Thank you.
 
 Operator
@@ -836,31 +731,19 @@ is open.
 
 Bloomberg Transcript
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Thanks so much. Just a couple here, I think most of mine have been answered, but the
 ceded level that we saw in the first quarter that lifted from the first quarter of last year, I
 mean is this – you guys expect it to be ceding back to Watford or whoever in that sort of
 30% range from here or was there anything unusual in the quarter?
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Okay. You say the 30%, because the 70% that's the growth.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Yeah.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Remember those session are dominated by the insurance group ceding overwhelmingly
 to third-party, unrelated third parties. You have increased retrocession on the property
 and marine that the reinsurance group will do. You have minor bits in the mortgage sector
@@ -886,18 +769,13 @@ more because we can get more favorable terms. So we cut the aggregate net volati
 the total book as a result. But just keep in mind, Michael, it's the insurance group that
 drives that ratio.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay, got it. And then, other income primarily in reinsurance, I guess a little bit in insurance
 as well, that step-down in the quarter was – did that – those dollars just moved to a
 different line item maybe somewhere else. Was it geography or was there a change in
 the...
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 
 Bloomberg Transcript
 
@@ -911,38 +789,23 @@ be occasionally, we call it periodically, we reevaluate that ethnicky (46:31) lo
 transfer, and in that year's quarter there was an adjustment, whereas this year's quarter
 there was not.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 I see, okay. So but now that we're all caught up then, we should be reverting back to the
 pattern that we were experiencing previously?
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 For the derivative-oriented transactions, for the GSEs in reinsurer – in the mortgage, the
 answer would be yes. Ethnicky (47:05), it depends when we deem a change is needed.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Sure. No, I understand.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Derivate accounting for those transactions will be deescalating and going to zero over
 seven years, right? So every quarter they're going to be slightly a little less, a little less
 until it gets extinguished seven years out or so.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. The main point being that other than this timing change you mentioned in the first
 quarter, nothing has really changed as far as that's concerned.
 Page 15 of 34
@@ -953,86 +816,50 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2016-04-28
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 No, that's correct. Yeah.
 
 FINAL
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 All right. And then in reinsurance, so the expense dollars and other operating expense
 declined in the quarter sequentially. I was just curious if the transaction or the item that
 you mentioned in insurance was relevant in reinsurance as well, Mark, or was there
 something else there?
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 I am sorry, was that an operating expense question or acquisition expense question?
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Operating, other operating, yeah.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Oh, Operating. I think the quarter and within the segments as well in total was kind of
 affected by the bonus accrual take down that I mentioned. So I would expect the run rate
 to be a little, marginally higher on a ratio basis.
 
 Bloomberg Transcript
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay. So is the order of magnitude similar to what you mentioned on the insurance side in
 terms of...
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Within spitting distance, yeah.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay, that's fair enough. Okay, great. Thank you so much.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Which is as good as I get.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 As a reformed actuary.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Yeah, thank you.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Page 16 of 34
 
 
@@ -1043,9 +870,7 @@ Date: 2016-04-28
 
 Okay, got it. Thank you.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 
 FINAL
 
@@ -1054,37 +879,23 @@ Thanks, Mike.
 Operator
 Thank you. Our next question comes from Kai Pan with Morgan Stanley. Your line is open.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you, and good morning.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Good morning.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 First a quick one. Do you see any potential impact for the second quarter cats?
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 
 Bloomberg Transcript
 
 The second quarter cats, yeah, I mean we have some reported losses. I don't know how
 big the impact is going to be. Mark, you have more of a feel for that?
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Right, as you know, a lot of the stuff is pretty fresh. It just happened. And it's a series of
 events, it's not a single event. So you can appreciate that we're still accumulating some of
 that. I think from a 10,000 foot view down, it's more likely that there is insurance
@@ -1092,27 +903,16 @@ exposure, then reinsurance exposure out of our UK operations I would think. But 
 at this point Kai is that across all of those aggregated together, it will still be contained
 within our cat loss. So we don't view anything unusual in that regard emanating from it.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. What's your sort of cat loss assumptions.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Our cat loss would be just shy of $40 million.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 $40 million a quarter, $40 million a quarter.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
+Q - Kai Pan {BIO 18669701 <GO>}
 
 Page 17 of 34
 
@@ -1134,10 +934,7 @@ wonder were the growth in these markets faster than your other two segments or e
 sort of like exaggerate or basically both your underlying margin as well as ROE will be
 growing faster than it has been?
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 You got to look at it from a lot of different perspectives, even though premium is not the
 right measure for mortgage insurance, because the accounting model is totally different,
 the way the business comes in is totally different, right? I write a mortgage today and I'm
@@ -1155,10 +952,7 @@ need to buy reinsurance behind it or bring other capital providers into it. We k
 close to any of those decisions. We believe that we still have a lot of room to grow on the
 mortgage business. Marc, you want to add something.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 The only thing I would say, in terms of creating a third leg in the sense of very sustainable
 and profitable return on a return basis, I think we have accomplished that and we're really
 looking forward to do more of that in the future. From that perspective we're not really
@@ -1168,10 +962,7 @@ think we've achieved at least establishing has taken a ground and creating that 
 diversifying flow, I would add, to our core P&C reinsurance and insurance. So we're
 pleased with that.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Look, I think Marc went on to how little cat we write today versus what we wrote four
 years or five years ago. Things might change, but we always have – sometimes we shrink
 in areas that I don't like to shrink, but if there is no return, why be in it. Other times, you
@@ -1194,28 +985,20 @@ risk tolerance in every sector is well within what we like to have.
 
 FINAL
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 And Kai, I would just like to tie together that commentary with – on managing the cycle
 and exposure with the fact we had $4 million of cats in the first quarter. If we hadn't
 reduced our volumes, 71% since 2012, we probably would not be able to report $4 million,
 so it's got income statement aspects, price return aspects and balance sheet risk
 management.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Just to follow-up on the risk management, this might be a high-class problem for you
 guys. If the mortgage become a meaningful portion of your overall profit pool because of
 different accounting like a treatment basically you cannot smooth it out, for example,
 booking reserves, do you worry about sort of volatility to the earnings?
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 
 Bloomberg Transcript
 
@@ -1227,10 +1010,7 @@ assign two-thirds on the micro and one-third on the macro and at the end of the 
 our quarterly risk management evaluations and everything we do, we will look at those
 parameters to make sure that our compass is pointing us in the right direction.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 And Kai, lastly I want to make sure, given the way you phrased the question, the
 accounting model as much as we criticize it, has nothing to do with our risk management
 evaluation. We project that to ultimate – like we do our PC lines, so we make persistency
@@ -1238,19 +1018,13 @@ assumptions, claims, emanating from possible future delinquencies that are perfo
 loans now and so forth. So just because it's the accounting model's flaws, it doesn't mean
 we follow that in our risk management evaluation.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Yeah. And we have a stress test model that we run, assuming certain economic conditions
 where the housing market might go, where unemployment might go, et cetera, and
 where interest rates are going to go. And then based on that, we see where we are with
 our book and where our book is growing to be.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 That's great. Lastly on the buybacks now trading at – you bought back around 1.3 times for
 the first quarter of book value, now trading at more than 1.4 times, is that out of your
 comfort zone?
@@ -1265,10 +1039,7 @@ Date: 2016-04-28
 
 FINAL
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Well, I mean, if you ask me if I'm trading well, which is your assumption? No, I still think I'm
 cheap, but that's a CEO talking his own account, but having said that, we're very
 disciplined into when we put capital to work, independently we're going to buy our own
@@ -1277,16 +1048,10 @@ tolerance that we got to recover anything we pay above book value and that's wha
 been guiding us both in – we try to invest in third parties or we're trying to invest our own
 stock. So in the – that's basically what we are.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 And Kai I applaud your five-part question.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you so much.
 
 Operator
@@ -1295,48 +1060,28 @@ Your line is open.
 
 Bloomberg Transcript
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Thank you. Just a couple of questions. The first is, Mark, maybe just to make our lives a
 little bit easier, the reversal of these bonus accruals, can you actually give us the dollar
 number and where the location is?
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 It was roughly $6 million and change distributed all over, actually.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 It was all three units and corporate, so it was, call it, $7 million.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Okay. Next question, I guess I'm looking for a little bit of guidance or help here. There's
 some line items within the...
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 We don't give guidance.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Call it help then, not guidance.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Page 20 of 34
 
 
@@ -1349,19 +1094,13 @@ Okay, all right.
 
 FINAL
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 For a non-actuary, not even reformed, how is that? Certain line items within mortgage
 insurance will jump around pretty dramatically quarter-to-quarter and you're looking
 specifically at the acquisition expense ratio. It's ranged from 33% to 13% just in the last six
 quarters. Any sort of range that you can put that in that we should be thinking about?
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Well, on the traditional mortgage insurance, what we do in Arch MI and Walnut Creek is
 steady. It's your sales force every quarter et cetera. What – those numbers fluctuate on
 reinsurance transactions and on risk-sharing transactions. The cost with risk-sharing is it's
@@ -1370,9 +1109,7 @@ transactions in their home office and then they – and Mark and I when we and A
 Rippert who got to approve all those, we don't allocate our stuff into it. It's at a corporate
 level.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 Bloomberg Transcript
 
@@ -1382,42 +1119,25 @@ profile and that explains the ceding commission on reinsurance treaties right no
 mortgage base are in the 28% to 35% range and we're not doing many of those or any –
 or at least not new as we speak, right.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Got it. And so in quarters where you have a big reinsurance transaction, the acquisition
 expense ratio will look a little lower?
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 You go the other way...
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 This is assumed, not ceded.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Correct, yeah assumed.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Okay. So I'm still looking at, like this quarter the acquisition expense ratio within the
 mortgage segment was quite low and you did a large deal, maybe I'll take it offline with
 Don (01:01:04) after?
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Page 21 of 34
 
 
@@ -1428,24 +1148,16 @@ Date: 2016-04-28
 
 No, no, we did another big reinsurance deal.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 FINAL
 
 No. Exactly, Jay, I'm not sure which deal you're talking about.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 I thought you guys did a sizable deal in Australia on the – for the mortgage reinsurance.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 So that's not a reinsurance transaction. As Marc said, it's really – it's a reinsurance in the
 legal sense of the term, but we're doing 100% of really flow business. And as Marc
 alluded to, that premium is earned over a very long period of time and the earned
@@ -1453,15 +1165,10 @@ premium is actually very small as we speak. Even though the acquisition there wo
 high, it doesn't really flow through the balance sheet or the income statement as we
 speak. It will take time to get there.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Got it. Okay. And that – those are my two questions, so thanks for the information.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 
 Bloomberg Transcript
 
@@ -1471,28 +1178,19 @@ Operator
 Thank you. Our next question comes from Charles Sebaski with BMO Capital Markets.
 Your line is open.
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 Good afternoon. Thanks for getting me in. I guess one follow-up on that Australian
 transaction. You say it's going to earn in over a long period of time, so despite the $43
 million, we shouldn't see much effect on earned premium from that going forward for the
 next four quarters or five quarters, six quarters?
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Yes, exactly right. I mean, just picture, just to make things simplistic. Picture every month
 being a $1 million single and then those singles, each of those $1 million has to be earned
 over, it's not many, over six years, seven years. So it's – the written recognition is going to
 be a lot faster than the earned recognition.
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 Okay. Also on mortgage, has there been any activity on GSE risk-sharing over the
 quarters, is there a pipeline or anything or is it kind of stagnant until something pops? I
 was just curious what the outlook looks like for that?
@@ -1504,19 +1202,13 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2016-04-28
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 No, no. There is activity and there is a list of transactions that are coming down the pike.
 Marc, you have the detail on that or...
 
 FINAL
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 So if you – and this is very clear in a quarter there were, I believe, three transactions, I
 believe. Yes, there were three transactions in the quarter. It is actually a calendar, Charles,
 that they are going to – there's a projection for the year that the GSE has shared with us.
@@ -1525,10 +1217,7 @@ are on a pace to do from our perspective now two to three a quarter for the next
 remainder of the year. So we've done three this first quarter and are working on some as
 we speak as well.
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 Excellent. And then finally on reinsurance, would appreciate you guys take some
 commentary in the market that the changing landscape in reinsurance means that smaller
 panels of reinsurers mean you have to stay at the table, maintain business. You guys have
@@ -1538,10 +1227,7 @@ get back in opportunistically. I guess I'm trying to understand the...
 
 Bloomberg Transcript
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Well, it's – listen, this is the – it's a great question. At the end of the day we have good
 ratings, good paper, we can be good partners, but I am not there to do it on a just
 relationship basis and not have a return. My responsibility is to have returns for my
@@ -1561,9 +1247,7 @@ market and pricing, we do underwriting audits, et cetera, we share all that info
 we got to do a transaction that it has adequate returns for us, otherwise, we won't do it.
 Marc, I mean, you run the reinsurance. I shouldn't be speaking on your behalf.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 Page 23 of 34
 
@@ -1585,24 +1269,16 @@ is a great example of that. And in that segment, I think we are still very activ
 to grow and actually do more and be more relevant for our clients. So we're not beholden
 to the large placements, as Dinos mentioned, which is a good place to be.
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 Thank you much, guys. Have a great afternoon.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Thank you.
 
 Operator
 Thank you. Our next question comes from Meyer Shields with KBW. Your line is open.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 Bloomberg Transcript
 
@@ -1610,37 +1286,23 @@ Thanks and good afternoon, everyone. Really quickly, the mortgage insurance oper
 expense number went up sequentially. I wasn't expecting that. Everything else was
 phenomenal, but is that the new run rate?
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 No. As Dinos mentioned, it's a segment. The segment is made up of pretty disparate
 operating expense contributors. Clearly, until we hit scale on the U.S. MI acquired piece,
 that's putting pressure on it. But the mixture of that with GSEs where the OpEx is marginal
 at best, and the reinsurance, again depending on the structure of it, it really comes down
 to mix. So I would not read in anything to an incremental change quarter-over-quarter.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Are you discussing the dollar amount or the percentage?
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Well, effectively both...
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 But mostly the ratio.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 Page 24 of 34
 
@@ -1656,10 +1318,7 @@ observable impact on either the acquisition expense ratio or the loss ratio, tha
 
 FINAL
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Well, I don't – I mean this shift has been happening now for five years, six years. We didn't
 pivot to that. The largest initiative we have which is about $160 million worth of business is
 our binding authority business, and that has a little higher expense component. It comes
@@ -1668,9 +1327,7 @@ all electronic, they use our systems, they price, pricing algorithms, et cetera,
 all the input and they issue the policies. Our system is so good that you can bind and issue
 a policy within 24 hours in the agent's office. So it has a little bit of a higher expense.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 
 Bloomberg Transcript
 
@@ -1687,32 +1344,21 @@ reinsurance sessions with increased ceding commissions. It's offsetting and some
 more than offsetting that shift, mix shift towards higher acq businesses. Does that make
 sense?
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 It does. Only I'm not contesting it, it was just interesting, a lot of competitors have talked
 about lower volatility business having higher loss ratio.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Well, remember we're after volatility containment. You can cede a lot, what's left is still –
 essentially if it's quota share, it's still highly volatile on its own, you're getting ceding
 commission overwrites, and you're putting gain into your income statement right away,
 but what you still have left is volatile. We've moved more towards, as Dinos said, smaller
 accounts and small policy limits associated with those...
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 ...but we keep 100% net.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 Page 25 of 34
 
@@ -1725,36 +1371,22 @@ Date: 2016-04-28
 Okay. No, that helps. Are the ceding commissions that you're seeing in reinsurance the
 same as you're benefiting from on the insurance side?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 FINAL
 
 Yes. The answer is yes.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 It's pain on one side, and there is gain on the other side.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yeah. It's a market phenomenon.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, perfect. Thanks so much.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Thank you.
 
 Operator
@@ -1763,19 +1395,13 @@ Bloomberg Transcript
 
 Thank you. Our next question comes from Ian Gutterman with Balyasny. Your line is open.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Hi. Thank you. I guess first, Marc, you talked earlier about growth in UK motor, and I think a
 number of others have talked. But can you just talk a little bit more about sort of what
 exactly that business is and what's appealing about it? I guess I have ancient bad
 memories of that causing trouble from time to time?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Oh, yes. And you're quite right. It is an very interesting and very volatile, if you're not
 careful, but we have a good relationship with one big originator in the UK, and they've
 been a partner of ours for a little while and we've been able to maneuver through this
@@ -1797,84 +1423,50 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2016-04-28
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Got it. And so you're doing XOL then?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 FINAL
 
 As well -
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 We're doing both share (01:13:17).
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Doing both (01:13:18).
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yes.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Yep.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 
 Bloomberg Transcript
 
 Got it. And are there loss caps on those to protect you or is it just, you can -
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 There is terms that we like.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Because of the trade (01:13:28) that you're asking me, and I'm not sure I'm comfortable
 sharing that with you.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 That's fair, that's fair. Okay. I guess maybe what I was getting at is – I was thinking that
 being a long-tail business and just are there ways – if you see it deteriorating is it just you
 won't renew it the next year – are there other things that you can do to protect yourself
 with five years down the road, it goes bad?
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Are you talking about the share (01:13:55) business or the XOL loss?
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 I guess that's probably more on the quota, right, but I mean, I guess it could be either?
 
 Page 27 of 34
@@ -1885,9 +1477,7 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2016-04-28
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 
 FINAL
 
@@ -1900,51 +1490,34 @@ years, or three years before you recognize that you didn't get the pricing right
 more. But that's not from a premium revenue point of view, it's not as big as the quota
 share. So we watch both, believe me.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Okay, understood. I was just curious because, I've seen a lot of people adding to it. On
 the MI, I guess a couple of things on rates, one is now that everyone has lowered their
 rate cards for your non-RateStar business or is this from rate card I think in certain sales
 looks off market, do you feel you need to adjust your rate card to match everybody or for
 those customers who want to keep that business?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 We actually just – Ian, we just issued our new rate card in April 7, but we wish -
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 
 Bloomberg Transcript
 
 Okay.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 – so we're – we're not matching everyone, so there's no plan right now to do anything
 else.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Got it, okay. I missed that. Okay. And then on the RateStar business, my sense is and
 again, I obviously, don't know exactly what your rates are, but it feels like conceptually a
 lot of what the competitors did to change your rate cards felt like it was trying to get
 closer to where you and UGC are. Is that fair that maybe the advantage of RateStar is a
 little diminished?
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 I don't know what drove the actions because you're mixing apples and oranges, right. At
 the end of the day, if you have a pool of risks that on average gives you a good return
 ROE, and now through a selection process, maybe one or two competitors, they might be
@@ -1969,24 +1542,15 @@ mortgage is going to behave, there is other parameters around, and I think that'
 our advantage is. Our advantage is we introduce other factors to allow us to more
 appropriately price that business.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 But clearly, Ian to your questions bit more directly, I believe that – so it's going to a more
 refined rate card is sort of one step for most of them to get to that direction. There's
 recognition to Dinos' point that the rate card has been historically too generic in nature.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Yeah, okay – (01:17:33)
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 And it might die within a year or two and it might get into more as to what we do in all of
 our other business, on the P&C, I don't care if it's auto or homeowners or lawyers and
 accountants, et cetera. We don't have one or two rating parameters, we have multiples
@@ -1995,10 +1559,7 @@ mortgage insurance business is moving in the right direction in our view.
 
 Bloomberg Transcript
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 For sure. And then just last one on that topic is if you were to look at a sizeable acquisition
 in that space that would take you over the one-third mix, can you just talk about sort of
 how you evaluate metrics, meaning obviously, we can all look at EPS accretion, but what
@@ -2008,10 +1569,7 @@ lower multiples, so if it becomes too big a part of your mix, it might hurt your
 Just how do you think about sort of the combination of accretion versus valuation versus
 risk returns?
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 You know that old saying, in the short-term, the equity market is a beauty contest and in
 the long-term is a weighing machine. That's Buffett's analogy. As long as I'm producing
 good profits and I'm adding – I don't worry about what the Street valuations might be
@@ -2035,25 +1593,17 @@ Date: 2016-04-28
 we're committing to a particular sector and is the ROE acceptable, that's what drives us,
 that's the key driver in what we do.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 
 FINAL
 
 Okay, the reason I ask – yeah.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Ian, for an insightful guy like you and the others, it would wind up being that ACGL would
 bring up the mortgage multiple rather than the mortgage bring down ACGL.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 The reason I asked because if it's something big, I assume we'd have to use some stock,
 so that was sort of the context I was thinking about. Maybe a better way to say this is what
 things do you – historically you haven't done anything that's required an issuance of stock,
@@ -2062,10 +1612,7 @@ merger?
 
 Bloomberg Transcript
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Well, let me just start on that one, is I mean, we've talked about this before on tangible
 book value hit, that's not new as to how – when we've repurchased our shares, there's
 that hit, what's the recovery period, that is still an in-force principle that we will look at.
@@ -2076,34 +1623,19 @@ sheet, number one. So what's the recovery of it and the risk management aspect, 
 wouldn't go into it if there weren't higher ROEs to begin with, but defensively we don't
 want to put any dents in the balance sheet.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Got to make sense. What's for lunch today, Dinos?
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 That's your best question.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Today we have kept Keftedes.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Okay.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 That's the Greek meatballs.
 
 Page 30 of 34
@@ -2114,30 +1646,19 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2016-04-28
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Okay, I remember the -
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 
 FINAL
 
 You know, I can give you the recipe when I see you. It's – they're phenomenal.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 I remember those from last summer and thank you.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Yes, you're welcome.
 
 Operator
@@ -2146,48 +1667,30 @@ line is open.
 
 Bloomberg Transcript
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Yeah. Hello, thanks. Just one follow-up question, something that was discussed on the
 Australian mortgage transaction, kind of what you said kind of confused me, is this a
 recurring revenue transaction which is to say, we'll see another one of $40 million or
 whatever the number will be next quarter and then continuing thereafter? Or was this a
 one-off one shot deal?
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 No. Like I said it's – and we're sorry for the mix (01:22:54) – I just want to make sure it's
 clear to everyone. This is really like business that was produced in that quarter, that
 relationship is still existing, it's been around since last year. So yes, I would expect
 depending on the level of production that our partner will do in Australia, we could be
 around that same level, if they continue producing at same level.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 If they originate the same level of mortgages -
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 They will flow through.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 They will flow through with us and it continues and it will continue as such until -
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 We terminate Page 31 of 34
 
 
@@ -2196,76 +1699,44 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2016-04-28
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 They cancel us or -
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
+A - Marc Grandisson {BIO 4369887 <GO>}
 
 FINAL
 
 We terminate the relationship.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 There is a termination by either party on the relationship.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Correct.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 So this puts in place really a fairly, I'm going to use the word permanent or at least
 hopefully long-term kind of fore-flow of premiums that should last for at least on an
 earned basis for quite a long time?
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Yes. That is correct.
 
 Bloomberg Transcript
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Yeah.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Yes.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Okay. That's what I thought and that's – that was my only question, thank you.
 
-A - Marc Grandisson
-
-{BIO 4369887 <GO>}
-
+A - Marc Grandisson {BIO 4369887 <GO>}
 Thanks, Mark.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Thanks, Mark.
 
 Operator
@@ -2282,10 +1753,7 @@ Date: 2016-04-28
 
 FINAL
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Sorry for the follow up. Just one last one here, back to the MI and Mark maybe your
 comments on the expenses, I mean I'm looking at premiums doubled year-over-year,
 acquisition ratio is in half dollars or down notionally, other operating expense, the ratio is
@@ -2300,9 +1768,7 @@ I'm just missing the mark on how to think about. Should we be looking at expense
 relative to written premium dollars as opposed to earned during this growth phase, just
 any guidance or help, not guidance, but any help in how to think about would be great?
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 
 Bloomberg Transcript
 
@@ -2316,34 +1782,23 @@ That means the marginal amount in 2017 that we hit market share of X is additive
 portfolio.
 In PC world, we have new business and renewal business. Here, you -
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Sure.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 – don't renewal business, you have new business and in-force. So all you're doing is
 adding on to the heap with a new NIWs that you're getting. So this is a long-winded
 answer to say, you've got to be patient, the OpEx dollars are really not going to grow as
 much. You've got to wait for the revenue to catch up with that and it will.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay. So OpEx doesn't grow as much. And the acquisition expense, I am guessing that
 was impacted somewhat by this Australia transaction and the lack of the reinsurance
 transaction you mentioned that you have in the prior year, but it is sort of teens level of
 acquisition expense, I mean is that given the mix of business you have, is there anything in
 there that we need to peel out in order to think about the forward.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Page 33 of 34
 
 
@@ -2360,26 +1815,17 @@ reported acquisition expense. OpEx is – the questions you asked are applicable
 our business segments, but acquisition can fluctuate as a function of the business we
 write. So I'd say, no, it's a mixed thing quarter by quarter.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it, okay. Thank you so much.
 
-A - Mark Donald Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Donald Lyons {BIO 6494178 <GO>}
 Thanks, Mike.
 
 Operator
 Thank you. I'm showing no further questions. I'd like to turn the call back to Mr. Dinos
 Iordanou for closing remarks.
 
-A - Constantine P. Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Constantine P. Iordanou {BIO 2397727 <GO>}
 Well, thank you all. A little late lunch today but I'm going to enjoy the Keftedes along with
 the team. We are looking forward to seeing you next quarter.
 

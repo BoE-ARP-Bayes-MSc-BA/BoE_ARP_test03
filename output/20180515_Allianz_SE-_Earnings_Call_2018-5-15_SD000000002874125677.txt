@@ -27,18 +27,12 @@ Quarter 2018. For your information, this conference is being recorded. At this t
 the conference call over to your host today, Mr. Oliver Schmidt, Head of Investor Relations. Please
 go ahead, sir.
 
-Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+Oliver Schmidt {BIO 2473131 <GO>}
 Thank you, Esperanza. Yes. Good afternoon from my side as well. Welcome to our conference call.
 There's nothing specific to be added from my side today. So without further ado, I hand over
 directly to Giulio.
 
-Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+Giulio Terzariol {BIO 17125489 <GO>}
 Good morning. Good afternoon to everybody. I understand that most of you had time to see the
 numbers, understand the numbers. So I will go quickly to the presentation, then I'm going to take
 your questions.
@@ -309,10 +303,7 @@ Questions And Answers
 Operator
 (Operator Instructions) And we'll take our first question from Michael Huttner with JPMorgan.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 It's such a delight and such easy -- well, they look like simple numbers. So thank you. Then on the
 organic capital generation, the 5%. And I think you kind of said that in there, the underlying rate is
 around 4%, which is -- well, maybe I'm mistaken. Maybe you could talk us through how you see it
@@ -326,10 +317,7 @@ you think it can, grow given that you have your target mix and everything, or wo
 be stable at these levels? And maybe. But optional, what is the solvency figure at the year-end?
 Anyway, there we are.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Okay. So where we start? I'm not so sure I got fully your first question. But I think I got it. But if I
 didn't, yes, just ask again. Anyway, I believe the question was how we look at the 5% operating
 profit generation, First Quarter, compared to an expectation that we have. I will say that our
@@ -351,17 +339,12 @@ But we feel pretty good that definitely, we should stay about the 10% level. So 
 doubts about that and most likely we are going to end up more towards the 14% or 15% level.
 Does this answer your question?
 
-Q - Michael Igor Huttner
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 It does, indeed.
-
-A - Giulio Terzariol
 
 Bloomberg Transcript
 
-{BIO 1556863 <GO>}
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes. Then you had a question on how the solvency ratio is at the end of the year. So I tell you,
 nothing changes. I gave you pretty much the numbers to do your math. So in theory, that solvency
 ratio can go also towards 235%. But then you have, as usual, market movements and that might
@@ -385,17 +368,11 @@ that we had last year, in the First Quarter this year, which is about 4% to 5% w
 So at the end of the day, I would expect the value of new business to grow, more or less, by that
 amount.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Just one question on the 235% you mentioned being at hopefully for the year-end, does that
 include the negative you mentioned on U.S. tax?
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes, okay, that's a good question. Yes. At the end of the day, the negative on the U.S. tax is now
 between 1% and 3%. So we guide you to 3% at the beginning of the year. But now, it looks like
 there is a change in the way the regulator is going to set the charges for the capital model. So
@@ -407,10 +384,7 @@ coming from the tax reform in the U.S.
 Operator
 And we'll take our next question from Peter Eliot from Kepler Cheuvreux.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 If I could just ask a couple of questions on Asset Management, first of all. I guess the overall flows
 for the Q1 were fairly similar to what you've given us at sort of full year results, first H. So it looks
 
@@ -430,10 +404,7 @@ consolidation, I guess, if you annualize the figure that you got in Q1, you get 
 rather than EUR 0.9 billion guidance. So I'm just wondering is there any one-offs in there, any
 reason it's light in the quarter?
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Okay. So starting from the flows at PIMCO, that's a good question, by the way. So when you look at
 the flows at PIMCO in U.S. dollar for the First Quarter, they were $23 billion. And of this $23 billion,
 we got about $15 billion to $16 billion in January. So you saw a slowdown, or we saw a slowdown in
@@ -475,10 +446,7 @@ then the reality is, there's not much of a get to our real final plan number.
 Operator
 And we'll take our next question from Thomas Seidl with Bernstein.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 First one on M&A. I think you said this morning that M&A is not priority #1. And previously, you
 quoted the high valuation as a hurdle. So could you update us on the financial hurdles you would
 apply to M&A. And in particular, whether you would be willing to sacrifice your 13% ROE for a
@@ -497,10 +465,7 @@ the third question, P&C pricing, 1.3% up in Q1. It's markedly lower than full ye
 think main drivers I've seen is Australia, Spain. Maybe you could comment on how you think about
 this price change and to what extent does that it still covers claims inflation?
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Okay. So starting from M&A and the question was what is the hurdle rate that we apply to M&A. So
 we know that our cost of equity is 9%. And so we believe if we do an M&A, we need to be able to
 price at higher than the cost of equity. In theory, the cost of equity should be enough. But as I say,
@@ -537,10 +502,7 @@ claims activity we are seeing, we think, in general, we are doing fine.
 Operator
 And we'll take our next question from Farooq Hanif with CrÃ©dit Suisse.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 There was a comment recently in your AGM about expense ratios and the long-term ambition to
 get these down to 22%. Obviously, you were talking very long term. And you were talking about
 digital future. But just wanted to understand how you're thinking about your expense ratio and the
@@ -556,10 +518,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 So on the expense ratio, okay, first of all, you know that for 2018, we have a clear target that we
 want to grow to 28.4%. So that's the first milestone. And as we look into that for the future, clearly,
 the 22% coming from the AGM, that was just a presentation of what you can potentially achieve if
@@ -593,18 +552,12 @@ game.
 Operator
 And we'll take our next question from Nick Holmes, Societe Generale.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Just one question, please. Coming back on the variable annuity losses. Could you explain a bit
 more how the accounting works, since I would have thought your hedging should have prevented
 such a big loss. So why didn't that happen?
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 On the VA side, maybe just to speak about the hedging cost, right? So one thing is the hedge is
 the hedge. So the hedging is going to make sure that you are matching, let's say, the equity
 movement. The cost of the hedging is a function of the volatility and from that point of view, when
@@ -625,18 +578,13 @@ business, if not even more. And that block is less than EUR 30 billion, or less.
 margin, getting very close to the 1%, which is very high for a VA block. And this is not going to
 repeat moving forward. That answer your question?
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 
 FINAL
 
 Yes, I mean, I suppose I am still a bit puzzled, you must have had hedging gains of, where would -do you kind of treat those on an economic basis. So you don't show them.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 No, okay. Maybe I would differentiate. The hedging, there is a hedging cost and hedging cost is
 higher or lower. So I wouldn't call it hedging loss or hedging gain. It's just when you have an
 hedging program, you need to pay for the hedging. When the volatility is up, you're going to pay
@@ -648,9 +596,7 @@ of the volatility. And this is economic and this is going to be there. And we ar
 the numbers, we are -- there is -- yes, we are putting all the numbers into our operating profit. So
 am I clear?
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 
 Bloomberg Transcript
 
@@ -658,20 +604,14 @@ Yes, no, no you're very clear. I mean. But it is economic, rather than -- becaus
 these numbers in very different ways and some, I think, show it on an accounting basis. But you
 show it on an economic basis.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes. We show really the hedging cost. Yes. There is some -- the other competitors, they are
 putting below the line. No, no, we are just showing this into our operating profit.
 
 Operator
 And we'll take our next question from Andrew Ritchie with Autonomous.
 
-Q - Andrew James Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew James Ritchie {BIO 18731996 <GO>}
 Just a first quick question or clarification. There's been lots of interviews with members of the
 management team talking about how concerned they are or cautious they are in the macro
 outlook and the volatility in markets. I just want to clarify, I mean, you haven't really changed your
@@ -687,10 +627,7 @@ there? And the final question, you have some legacy long-term care business, tha
 focus of attention in the U.S. of late. When was the last time you've revised your assumptions and
 what's the remaining exposure?
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes. So coming from the capital and how I feel about the solvency level considering the comments
 that we are making about the volatility in the market. I will say that I'm always considering the credit
 spreads are very narrow right now. So this is something to keep in mind. So from that point of view.
@@ -732,17 +669,11 @@ to the interest rate. But then you have what the equity indices are doing. So wh
 interest rate environment. But I wouldn't say this is something where we are feeling any pain at the
 moment. Then you had another question, which was...
 
-Q - Andrew James Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew James Ritchie {BIO 18731996 <GO>}
 Sorry, just to clarify, was there a temporary -- I mean, there was clearly spread compression in the
 capital efficient line in Q1.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 No, no. Okay, yes, what's happening there -- okay, that's a little bit of a different story. What is
 happening there, when the short-term interest rates are going up, the hedging cost, if you want,
 the budget that you need to allocate, is going up. Now in reality, what is happening, we are passing
@@ -750,16 +681,10 @@ this to the policyholder. The point is, once you have a situation when the LIBOR
 time, we are always playing catch-up. But eventually, at a renewal, we're going to be able to adjust
 the pricing for that. So adjust the...
 
-Q - Andrew James Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew James Ritchie {BIO 18731996 <GO>}
 So there is a timing issue?
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes. Absolutely. There's a timing issue. Absolutely, yes. On the LTC, okay, first of all, if you ask me
 when we do our review, we constantly do a review of our LTC business. So every -- in theory, every
 quarter, let's say, every year, we do a review of our LTC business. When you look at our reserves
@@ -784,10 +709,7 @@ in the future. But I don't think we're going to make the headlines.
 Operator
 And we'll take our next question from Arjan Van Veen with UBS.
 
-Q - Arjan Van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan Van Veen {BIO 5197778 <GO>}
 On Allianz Global Investors, even if I remove ACP, the cost/income ratio is above 70%, which is
 quite a contrast, obviously, to where PIMCO is at, below 60%. So I'm just curious as to whether
 you're going to give them some time to see the strategy to work? Or is there work conversely at
@@ -799,24 +721,15 @@ should we think of sort of longer-term tax rate, now that things have settled do
 
 Bloomberg Transcript
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes. So starting from AGI. And I think your question was whether we're going to push AGI towards
 the level of the PIMCO cost/income ratio.
 
-Q - Arjan Van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan Van Veen {BIO 5197778 <GO>}
 Well just improve it, because 70% is not particularly good, around just -- it's going the wrong way
 now for a while.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes, I will say, okay, first of all. And that's going to create some noise in the future. If you look also
 Page 30, you're going to see that we expect the impact from ACP on the cost/income ratio to be
 about 2percentage points. So from that point of view, in the future, we need always to remove, if
@@ -835,85 +748,54 @@ to put things into context. That's on the AGI side. Then the other question was 
 expect the tax rates to be 26% at the end of the year. So I would really see this as a good
 guidance. So I don't think that...
 
-Q - Arjan Van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan Van Veen {BIO 5197778 <GO>}
 But you had 24% in the First Quarter, right? So it sort of looks like more (than that) for the
 remaining quarters, will be...
 
 
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes, okay.
 
-Q - Arjan Van Veen
-
-{BIO 5197778 <GO>}
+Q - Arjan Van Veen {BIO 5197778 <GO>}
 
 FINAL
 
 A little bit beyond that as well.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes. It's a function of the amount of tax-free income that we get in every quarter. And maybe the
 26% might be slightly conservative. But for the time being, I'd like to guide you to the 26%. But
 think about also the tax-free income and how this can develop over the quarter, which is also a
 function of realized gains that we do in equity; realized gains in Germany, for example, are taxfree. But 26% I think it's not necessarily an aggressive number, let's put it this way.
 
-Q - Arjan Van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan Van Veen {BIO 5197778 <GO>}
 So the other way to think about it is longer term, midpoint of that 26% to 28%. But maybe even a
 bit better than that?
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes, I will guide you a little to 26%, at the end of the day.
 
-Q - Arjan Van Veen
-
-{BIO 5197778 <GO>}
+Q - Arjan Van Veen {BIO 5197778 <GO>}
 
 Bloomberg Transcript
 
 But I was thinking slightly longer term, rather than just '18.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes, yes. I will say 26% to be...
 
-Q - Arjan Van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan Van Veen {BIO 5197778 <GO>}
 So same thing? Perfect, okay.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes, I would expect 26% to be, based on information we have now, how we are doing things now, I
 could see 26% to be a good level of guidance also for the future, yes.
 
 Operator
 And we'll take our next question from Vinit Malhotra with Mediobanca.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 So one question on PIMCO, please. And one on Non-Life and possibly one on Life, just to clarify
 one thing. So on PIMCO, can you say that is there a strategy or is there a plan to counter this
 impression in the market that PIMCO will perform poorly in rising interest rates. And so all this
@@ -932,8 +814,7 @@ opinions on that? Do you think that concerns you or affects you or what's your t
 
 FINAL
 
-A - Giulio Terzariol
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Okay, I start from the last one. I don't have any opinion on that one. And I need to do some
 research on that. So on the unit-linked ruling for Italy. On the expenses, no, we have, if you want, I
 wouldn't call it evidence. But it looks like companies which have a simplified landscape and less
@@ -957,21 +838,13 @@ actually, under the circumstances, pretty good. So I'm very long on PIMCO and th
 PIMCO and now we need to go through this transition period. But we are very happy with the level
 of performance of our friends in Newport Beach.
 
-Q - Vinit Malhotra
-
 Bloomberg Transcript
 
-{BIO 17125489 <GO>}
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 And can I just follow up, if the U.S. 10-year keeps going up, then PIMCO's strategies are working or
 should work. Is that also your understanding?
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes, my point is, at the end of the day, customers are going to -- a customer can place money,
 more or less, depending on the environment. But fundamentally, there is definitely, if you look mid,
 long term, there is an appetite to put funds into fixed income, especially when rates are going to
@@ -988,10 +861,7 @@ expect any impact on this ruling from Italy.
 Operator
 And we'll take our next question from Johnny Vo with Goldman Sachs.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Just a couple of questions. Just obviously, your solvency ratio is very good. But can you talk about
 other elements of capital management, such as your rating agency capital and your essential
 liquidity and how that feeds through into your capital management plan? And the second question
@@ -1005,10 +875,7 @@ on that?
 
 FINAL
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 So first of all, on the essential liquidity, how we look at capital, clearly, we look at the solvency ratio,
 then we look at the financial leverage ratio that, if you want, is more -- is a rating agency constraint.
 And this is more driven by, if you want, almost the IFRS balance sheet with some adjustments.
@@ -1031,18 +898,13 @@ we believe it's very challenging to make a comparison between us and the rest. I
 solvency ratio in Germany are very strong. And on top of it, you need to consider that some of our
 competition might be using transitional, too. So it's very difficult to compare.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
+Q - Johnny Vo {BIO 5509843 <GO>}
 
 Bloomberg Transcript
 
 But how sensitive is the SCR to interest rates, in general?
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 I think there is some sensitivity in Germany of our solvency ratio to interest. This is not something
 that I personally tracking. But when you look at our sensitivity at group level, we have a sensitivity
 which is, as of Q1, minus 7%. The numbers of Allianz Leben are included there. There's also a
@@ -1056,10 +918,7 @@ condition, the company is going to have an adequate level of capitalization.
 Operator
 And we'll take our next question from Michael Haid with Commerzbank.
 
-Q - Michael Hermann Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Hermann Haid {BIO 1971310 <GO>}
 Two questions. One, I struggle to understand the combined ratio in Italy. Not so much if I look at
 the Q1 combined ratio of 80% only. But more when I look at it over time. It has been very, very low
 for years now. And the question is, how long can it go on? And for the combined ratio for the
@@ -1068,10 +927,7 @@ combined ratio in Italy? Second question on Euler Hermes, now that you own it 10
 it -- or is there an update on plans, how to integrate it, what actions you're going to take, any
 synergies, any update on the plans? That would be very helpful.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes, I start with the second one. I cannot give you any update on Euler Hermes. And if and when
 we're going to do something, then we can speak about what we're going to do there. On the
 combined ratio for Italy, I would like to have an 80% combined ratio forever. But let's be realistic,
@@ -1089,18 +945,12 @@ that we want achieve in, not only in 2018. But also in the future, we are also f
 not always going to contribute an 80% combined ratio. So this is something we are aware of and
 this is part of our thought process.
 
-Q - Michael Hermann Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Hermann Haid {BIO 1971310 <GO>}
 Can you talk a little bit then on the reserving position in Italy? Has it deteriorated? How much has it
 deteriorated? Just to get a better understanding, because the combined ratio in Italy has been
 very low for years now.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes, I'm not going maybe to be specific. Let's put it this way, the reserve situation in Italy is very
 strong. That's what I can tell you.
 
@@ -1109,10 +959,7 @@ And we'll take our next question from Peter Eliot with Kepler Cheuvreux.
 
 Bloomberg Transcript
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 I guess, just following up on a couple of your comments, Giulio, on the performance. We didn't get
 the % of third-party assets that were outperforming benchmarks (inaudible). I was just wondering if
 you have with that. Secondly, on the Non-Life investment income, I guess, the reinvestment rate
@@ -1125,10 +972,7 @@ your thoughts on whether a lower sensitivity is always a good thing or whether y
 some exposure there? Or just what your thoughts are now that you're sort of well inside that
 target?
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yes, okay, starting from the performance of our asset manager. When you look at PIMCO, we have
 more than 90% of the funds outperforming their benchmark. In the case of AGI, when you look at
 the 3-year horizon, it is about 70%. So from that point of view, also we see both at PIMCO, AGI,
@@ -1151,10 +995,7 @@ to run the math. But there might be good things to do from a capital management 
 
 
 
-A - Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+A - Oliver Schmidt {BIO 2473131 <GO>}
 Okay before we continue, time is almost up. I think we have time for one last question, please, if
 there's any.
 
@@ -1163,16 +1004,10 @@ FINAL
 Operator
 At this time, there are no further question. (Operator Instructions)
 
-A - Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+A - Oliver Schmidt {BIO 2473131 <GO>}
 Perfect. Even better, then we thank everybody for joining the call and say goodbye.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Bye. Have a good day.
 
 Operator

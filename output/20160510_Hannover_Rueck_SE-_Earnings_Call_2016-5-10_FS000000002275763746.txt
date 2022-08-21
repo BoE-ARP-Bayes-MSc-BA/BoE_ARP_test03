@@ -28,10 +28,7 @@ Conference Call on Interim Results Q1 2016. For your information, this conferenc
 recorded. At this time, I would like to hand the call over to your host today, Mr. Ulrich
 Wallin, Chief Executive Officer. Please go ahead, sir.
 
-Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+Ulrich Wallin {BIO 4863401 <GO>}
 Thank you. Good morning, ladies and gentlemen. I'd like to welcome you to our
 conference call presenting our result for the first quarter of 2016. As always, I'm joined by
 our CFO, Roland Vogel. Given that we also today have our AGM, we have this call rather
@@ -117,10 +114,7 @@ Also our investment income developed entirely in line with expectations. ROI sto
 2.9%, in line with our target. And on that positive note, I would hand to Roland who is
 actually looking after our investments.
 
-Roland Vogel
-
-{BIO 16342285 <GO>}
-
+Roland Vogel {BIO 16342285 <GO>}
 Yes. Thank you, Ulrich. Good morning to all of you. As usual, I will try to keep my
 comments as brief as possible, which, on the one hand should be rather easy this time as
 the Q1 2016 results are fairly straight forward and do not include any material one-off
@@ -403,10 +397,7 @@ Other differences are (32:00). And this should be – so our entry I'm sure ther
 into the Solvency II reporting. This concludes my remarks, and I'll leave the outlook to you,
 Ulrich.
 
-Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+Ulrich Wallin {BIO 4863401 <GO>}
 Thank you, Roland. This slide really shows you the renewal at first week of April, with which
 we are quite satisfied and if renewals for our traditional (32:33) reinsurance business from
 Japan and also to some extent from Australia, New Zealand, Korea, and North America.
@@ -566,10 +557,7 @@ Q&A
 Operator
 Thank you. The first question is from In-Yong Hwang, Goldman Sachs
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Hello. I'm In-Yong Hwang here from Goldman Sachs. I've got two questions. Firstly, on the
 combined ratio improvement by one percentage point, it doesn't – with your NatCat
 budget is still booked and full, and the one-offs doesn't seem to be anything special
@@ -582,9 +570,7 @@ pricing. I think one of the competitors today is saying that pricing decline is 
 Obviously, it splits out of volume and the pricing development for your newer data
 (48:07), but just some idea what you're seeing in the market would be helpful? Thank you.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Page 11 of 20
 
 
@@ -614,18 +600,13 @@ been recognized, because it was rather remote. And, therefore this is (50:32), o
 immediately €10 million positive development in previous year loss ratio, which was
 entirely unavoidable.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 
 Bloomberg Transcript
 
 Okay.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 If you then come to the pricing at April 1, mixed picture, I would say. I mean, still, on a nonproportional side, this is easier to comment on. We saw a slowing down in the declines,
 but still, declines in most of the property catastrophe business. But overall, I would say,
 the property catastrophe business is maybe down 4% to 5%.
@@ -640,10 +621,7 @@ property classes or claims made casualty classes.
 As I already mentioned on the excess and umbrella business, where a lot of reinsurance is
 being sought. We have been trying our ways overall (52:30).
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Okay. Great. Thank you very much.
 Page 12 of 20
 
@@ -658,10 +636,7 @@ Thank you. The next question is from Xinmei Wang, Morgan Stanley.
 
 FINAL
 
-Q - Xinmei Wang
-
-{BIO 17860767 <GO>}
-
+Q - Xinmei Wang {BIO 17860767 <GO>}
 Hi. Good morning. I've got two questions. So the first is on the solvency ratio. Could you
 give us an update on your conversations with the regulator? I know in the past you talked
 about getting approval for the modeling of operational risk under the approved internal
@@ -674,10 +649,7 @@ results in the quarter or in the last year. Thank you.
 
 Bloomberg Transcript
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Well, I mean, if you look at the Solvency II internal partial model that's just excluding
 operational risk, as far as model changes are concerned, that has been rather stable in
 the first quarter. On the operational risk, we have projects to improve our operational risk
@@ -712,9 +684,7 @@ Date: 2016-05-10
 
 results from pro rata treaties.
 
-Q - Xinmei Wang
-
-{BIO 17860767 <GO>}
+Q - Xinmei Wang {BIO 17860767 <GO>}
 
 FINAL
 
@@ -723,10 +693,7 @@ Okay. Thanks a lot.
 Operator
 Thank you. The next question is from William Hawkins, KBW.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hello. Thank you. The Hannover Re SE Solvency II ratio of 231%, could you tell me what the
 numerator and denominator are for that ratio? Apologies if it's disclosed to someone.
 And could you also tell me, would you apply the same 180% to 200% threshold range for
@@ -738,38 +705,23 @@ to the carried over first quarter P&L (57:46)? Thank you.
 
 Bloomberg Transcript
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Unfortunately, we haven't got those number on the SE Solvency II ratio. But I can tell you
 that the difference is mainly the haircut which we haven't got on the SE. And otherwise, I
 mean, the compile (58:04) the SE Solvency ratio based on so-called look-through
 approach, which means that, therefore, it is very similar to the Group ratio and the
 difference as I said is the haircut on the minorities.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 So, can I infer from that, that 180% to 200% is also a fair...
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Yeah.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 ... target range? Right.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Yeah. There's a target range that we have said (58:32) as well. (58:35) large losses in Q2.
 I would say, from what I see now, of course, very early days, I mean, they could slip into
 the carried over unused large loss budget. It's still early days. I mean, if I look at the
@@ -791,19 +743,13 @@ really have to wait there.
 
 FINAL
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you.
 
 Operator
 Thank you. The next question is from Kamran Hossain, RBC.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi. I've got – I guess, just one question from the life and health business. Clearly, that
 financial solutions business is exceeding target enormously. So 18% EBIT margin versus
 your expectation of your target of 3%. Can you talk a bit about why we're seeing such
@@ -817,10 +763,7 @@ longevity from the UK and from Australian product. Can you talk about kind of th
 trajectory of kind of how much you're seeing financial solutions business grow? Any color
 on that would be really helpful. Thank you.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well, I mean, first of all, why do we have 2% target that we achieved the double-digit EBIT
 margins? The 2% target is a little bit more from what we traditionally used to write in the
 financial solutions business, which has been cash financing business. And on cash financing
@@ -853,17 +796,11 @@ And your second question, you were wondering on the...
 
 FINAL
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 It's just a different – the growth of the two businesses, so growth of financial solutions
 business underlying because (01:03:28) all the moving parts.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well, I think – I mean, the business is still growing. You may not necessarily see that in the
 premiums only if it's cash financing because some of them may be deposit accounted.
 But I would say if you measure at a covered value enforced, you will probably see a pretty
@@ -879,19 +816,13 @@ after – I think if you exclude those, I think, the underlying growth is still 
 see much of this, this year but I think if you look on a five-year time horizon, we will – I'm
 very confident that we will achieve our growth objectives.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Fantastic. Thanks very much. I appreciate the color. Thank you.
 
 Operator
 Thank you. The next question is from Frank Kopfinger, Deutsche Bank.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Yes. Good morning, everybody. I have two questions on your Solvency II reporting. First of
 all, could you walk us down from your 253% from last year to the 221% as of the end of
 2015? What were the drivers? Obviously, it's higher volumes but also, could you comment
@@ -902,10 +833,7 @@ sensitivity for the P&L and the shareholders' equity, but as this is based on a 
 it says it's 50%. Could you also provide some sensitivities with respect to absolute
 numbers, so let's say, if credit spreads widens by 100 basis points.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 I think Roland, if you want to take the second one.
 Page 16 of 20
 
@@ -915,30 +843,19 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2016-05-10
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Yes. I would do that.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
+A - Ulrich Wallin {BIO 4863401 <GO>}
 
 FINAL
 
 Yes.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Should I start with it or...
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well, then I may give the reasoning from the 253%. Of course, it's the increased business
 volume and on the reserves, of course, the increased volume of reserves had increased
 the cap requirement. Also, we saw in that period a significant strengthening of the U.S.
@@ -949,10 +866,7 @@ say, because the increases in the SCR drivers developed relatively homogenously.
 
 Bloomberg Transcript
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Yeah, so, I will – I must admit I don't have an actual sensitivity based on an absolute basis
 points increase or decrease in credit spends available. We may take that up. The question
 here is, of course, if we would do that on a non-relative basis and you say, let's assume
@@ -969,10 +883,7 @@ give you a little bit of an indication. Still, we feel very comfortable and even
 sensitivity of potentially 100 basis points would not result in a sensitivity, which would
 immediately give alter to our solvency ratio.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay. Thanks.
 
 Operator
@@ -986,9 +897,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2016-05-10
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
+Q - Michael Haid {BIO 1971310 <GO>}
 
 FINAL
 
@@ -1001,32 +910,21 @@ to increase the volume to such an extent in a very competitive environment? Is i
 the underlying market growth or do you have better access to the market, i.e., is it
 Hannover Re specific, or why does this business show up in the reinsurance market?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Would you take the first one, Roland?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Yes, of course. So I think if we say there were no extraordinary developments to our loss
 reserves that means that we have the normal run rate, so it should be around the positive
 effect of the number which I have mentioned.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
+Q - Michael Haid {BIO 1971310 <GO>}
 
 Bloomberg Transcript
 
 Thank you.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 If I then come to the why we could increase on April 1. I think overall, we have seen a slight
 increase in demand for reinsurance at the April 1 renewal, particular also from proportional
 treaties. I don't think that this growth of the business is evenly spread among the
@@ -1042,10 +940,7 @@ concentrated growth out of that, and we were able to achieve that. I think it's 
 say that the overall volume renewed at 1/4, of course, is significantly less than what you
 see at 1/1.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Okay. Thank you very much.
 
 Page 18 of 20
@@ -1061,10 +956,7 @@ Thank you. The final question is from Vinit Malhotra, Mediobanca.
 
 FINAL
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Hi there. Morning. So most of my questions have been addressed. Thank you. But just
 one, if I can ask. In the MtCR on the European side, there is a rather low or a nice 88.9%.
 And I'm just wondering because one of the larger peers have mentioned German motor
@@ -1072,10 +964,7 @@ needed some longevity adjustment in their case. Have you noticed anything that s
 be highlighted here from (01:12:42) perspective below 90%. This level usually indicates a
 good level, but I'm just curious. Thank you.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Okay. You don't think about the 88.9% (01:13:00) on Continental Europe. Well, I mean, this
 is certainly not for the German motor business where it's close to 100%. I mean, this
 refers to a large extent to the motor access of loss business that we have in that class
@@ -1090,10 +979,7 @@ Bloomberg Transcript
 Operator
 Thank you. We currently have no further questions.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Okay. If there are no further questions, I would then thank you very much for listening, and
 thanks for your questions.
 

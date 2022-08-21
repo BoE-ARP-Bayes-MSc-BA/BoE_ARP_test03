@@ -32,10 +32,7 @@ Results for 2014. For your information, this conference is being recorded.
 At this time, I'd like to turn the conference over to your host for today, Mr. Oliver Schmidt, Head of
 Investor Relations. Please go ahead, sir.
 
-Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+Oliver Schmidt {BIO 2473131 <GO>}
 Thank you, Susanna. Yeah, good afternoon from my side as well and so welcome to our
 conference call about the result of fiscal 2014.
 We will follow the same procedure as last year. Dieter will kick it off with pretty numbers then Max
@@ -45,9 +42,7 @@ questions please come and meet us at our Analyst Meetings next week with one in 
 in London and one in Paris.
 That's all from my side so far, and with that I hand over to Dieter.
 
-Dieter Wemmer
-
-{BIO 4755450 <GO>}
+Dieter Wemmer {BIO 4755450 <GO>}
 
 
 
@@ -299,10 +294,7 @@ with this I hand it over to Max.
 
 Bloomberg Transcript
 
-Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
-
+Maximilian Zimmerer {BIO 2557503 <GO>}
 Yes, hi, good afternoon. Coming to B-3, that's the investment portfolio as you can see, so not
 many changes and we grow our assets by roughly €80 billion, the main reason for that is let's say
 half of that is business growth and the other half a little bit more than that is purely performance
@@ -383,10 +375,7 @@ two or three hikes in 2015, I think at least it should work as a kind of stop or
 rates but it seem overall I think that real assets are much more interesting than bonds because I
 think (40:09) on the bond side, but this thing I would like to end with. Thank you.
 
-Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+Michael Diekmann {BIO 1733646 <GO>}
 Great. So good afternoon, everybody. I have been moved to Section C, that's probably what
 happens when you are phasing out, I accept that. Then I was a little surprised frankly about the
 harsh reaction of markets this morning but you don't know, that seems to have lost (40:38) a little
@@ -520,10 +509,7 @@ doesn't know yet in a way he might not have the time to visit them in a one seas
 obviously a part of all the decisions we are making that have an impact on the future.
 And with that, I would like to close just on time and open the Q&A if Oliver doesn't want to do that.
 
-Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+Oliver Schmidt {BIO 2473131 <GO>}
 Now we are ready and happy to take your questions.
 
 Q&A
@@ -532,10 +518,7 @@ Thank you. Our first question comes from Michael Huttner of JPMorgan. Please go 
 
 Bloomberg Transcript
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Thank you very much – my first question is on the Solvency. So just to get a feel for how you judge
 it internally the ratio of 191% isn't great compared to what we've been used to. I know the moving
 parts you said the positive adjustments, and then negative from low interest rates. But where do
@@ -549,32 +532,20 @@ really serious question, it's more well done Mr. Dieter and thank you very much,
 there's only €200 million missing to be what consensus was, weren't you a bit tempted just a little
 bit to (58:08) anyway? Thank you very much.
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Yeah, I can start with the second question, I was not tempted because for me it's really important
 that we have a solid result here and not work on some record results. We had a supervisory board
 meeting yesterday with auditors in (58:30) and that was my question to the auditors is there
 anything in the result you know that is mortgaging the future and the clear answer was no, just the
 opposite. And that's exactly the way how I would like to (58:44).
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Thank you.
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Welcome.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah, Michael, I think as I tried to explain on all the movement of Solvency II, well, first of all, we
 cannot guarantee that our internal model has been approved as applied for. So that is an
 
@@ -600,15 +571,10 @@ the guarantees that means in the end even (1:01:15) outgoing to 0.7% down would 
 through as a fairly low number. Well, you never know how many years quantitative easing in Europe
 is holding but it's certainly not in the next couple of decades. Okay.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Thank you very much.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Bloomberg Transcript
 
@@ -617,10 +583,7 @@ Yeah.
 Operator
 Our next question comes from Farooq Hanif of Citi.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, there. Thank you very much. I just want to ask one more question on Solvency, can you tell us
 what your kind of minimum RBC ratio assumption is because I think there is a bit of confusion in the
 footnote just wanted to understand how yours compares to some of your peers. And then
@@ -631,10 +594,7 @@ mentioned the 2.7% reinvestment yield at Life, but you're making considerable in
 assets, so what do you think the income yield would be if you're including those real assets on top
 of the 2.7%? Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Okay. I take the easy question on the U.S. RBC ratio. So up – we actually had in the disclosure we
 called it 100% RBC, that is a classical insurance style misleading information. So we mean 200% of
 local statutory requirements, so what the 200% is called the company action level that means that
@@ -645,10 +605,7 @@ the company at 350% of statutory base requirements, so the 350% divided by 200% 
 action level, so you have a 175% ratio how it's then being rated with the ratio of the internal model
 countries, so it dilutes slightly the ratio. And the forecast on the...?
 
-A - Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
-
+A - Maximilian Zimmerer {BIO 2557503 <GO>}
 Yeah, the forecast only from the life, you can say that the current yield all-in-all will go down
 something between 0.1% and 0.2% every year because that's the running rate you have in there
 
@@ -656,19 +613,14 @@ something between 0.1% and 0.2% every year because that's the running rate you h
 
 where real assets are included.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 FINAL
 
 No, I mean sorry if I may return on that, the 2.7% that you are making your fixed income maybe I
 misunderstood your answer, but how much additional yield you make on top of the 2.7%?
 
-A - Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
-
+A - Maximilian Zimmerer {BIO 2557503 <GO>}
 Yeah, that is also described on PB6 if you go only for the real assets all the turn to fixed income
 assets are included in the 2.7% and if you go now only for the equity part that's real estate, that's
 equities, and that's the renewable part of infrastructure there, the running yield, current yield is at
@@ -678,33 +630,22 @@ reinvestment yield. What I've said right now is the influence on the yields of t
 next year and the overall impact of lower interest rates and the lower reinvestment yields including
 their – include the real assets is about 0.1% or 0.2% lower for next year.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 And do you think this is why you're focusing flattish-like profits or is there other...?
 
-A - Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
+A - Maximilian Zimmerer {BIO 2557503 <GO>}
 
 Bloomberg Transcript
 
 Yeah, true, true. Right. Because we have a growth of all in the business itself.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay, thank you very much.
 
 Operator
 . Our next question comes from Andy Broadfield of Barclays. Please go ahead.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 Hi, there. A couple of question, please. Just on Italy P&C, I see you may have asked this –
 answered this in the past but I'm just wondering the organic number, the organic growth if you like
 or internal growth is negative, and given your very strong performance there, I would have thought
@@ -721,10 +662,7 @@ to below the guarantee levels, you'd be able to take all those and that would pa
 afterwards or is it mean that you'd be break-even by the end, I'm not quite sure how to interpret
 quite what that statement is?
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 So, Andy, hi, maybe I can start with the Italian type. If you look at the market, the price or rate
 development is negative. We are better than the market here and that's the internal growth, right,
 so that's minus 1.2%. Now if you add Unipol then you arrive at a growth of 4.1%, that's the total
@@ -732,43 +670,28 @@ growth, and so we divide between organic and un-organic growth.
 
 
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 I guess my expectation was that given the very, very good margins you're making, I know the
 market is in general as well but you were still some way ahead of the market that you'd be able to
 give more and therefore grow more on the sort of – on the non-Unipol part of the business.
 
 FINAL
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Well, that's we do, the risk gross is there and the gross of the organic growth is much better than
 market I think, the market has declined by around four percentage points.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 And Italian motor market is down 6%, 7% over at least the first nine months or 12 months figures I
 have not yet seen so both the market minus 4%, motor minus 6%, minus 7%, so minus 1% a small
 increase in market share.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 Okay. So probably policies in-force is growing but premiums not?
 
 Bloomberg Transcript
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah, sure, that is – we are coming from a substantial outperformance on motor combined ratio
 that is what you expect or not. We are keeping a strong positive distance to the performance of
 the market but you cannot expect that it just not does not relate to the market. And your question
@@ -783,39 +706,25 @@ plus effect as the current interest rate level, yes it had a positive effect. Bu
 the U.S. will be the first country in the western world to recover interest rate so mid-term the
 impact on the Solvency ratio is very flattish.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 So you say, you persist with it now that that's in and that's going to stay?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah, well, then you're not filing it – well, I can't say forever because what it also true is that as
 soon as the internal model is approved, we will actually file a new application beginning of 2016 for
 a number of changes we do in our internal group organization and new software packages, et
 cetera. So this approval process is anyway a new industry which has been created.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 And, will you manage the business based on U.S. equivalents or based on maybe sort of
 consistent...?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Internal benchmark and pricing of the product speaks to our internal model which is not completely
 consistent with the Solvency II model, we have some strict economic assumption and the Solvency
 II legal tax is stipulating.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 
 
 
@@ -823,10 +732,7 @@ Okay, thanks.
 
 FINAL
 
-A - Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
-
+A - Maximilian Zimmerer {BIO 2557503 <GO>}
 Now coming to the question to Life Germany, you know that the average guarantee right now in
 Life Germany is around 3%, but it goes down every year by, let's say, 5 basis points to 7 basis
 points. What is shown here was a reinvestment yield of 0.7%, it's a pure risk scenario, that is not
@@ -835,47 +741,29 @@ we cut all the crediting rates to the customers. We pay only the minimum dividen
 shareholders and then the buffers we have right now would be sufficient with the reinvestment
 yield of 0.7% to pay all the guarantees.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 So it's effectively no earnings, no dividends?
 
-A - Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
-
+A - Maximilian Zimmerer {BIO 2557503 <GO>}
 There are dividends, but these are minimum dividends there. This is a requirement by law.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 Okay.
 
 Bloomberg Transcript
 
-A - Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
-
+A - Maximilian Zimmerer {BIO 2557503 <GO>}
 And only to compare that number, it had been at 1%. That means we have lower to minimum
 numbers also due to some measures we have taken that's also the VVR (1:13:46) but also the
 extension of the duration and the new products have also worked into that direction.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 Okay, thanks very much. That's very helpful.
 
 Operator
 Our next question comes from William Hawkins of RKW (sic) KBW.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you. I think I was at KBW. Three quick questions. What's the outlook through your Life
 investment margin? You had a good 80 basis points last year. You did talk about sort of – I think
 you talked about gains in the rest of the hedging benefits. So, should that figure be trending down
@@ -888,10 +776,7 @@ fees in PIMCO in 4Q of 2015 and I thought, Dieter, previously you were saying th
 performance fees would be lumpier from 2016. So, has something changed in the timing of
 PIMCO's performance fees? Thanks.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Okay. I'll start with PIMCO performance fees. Yeah, it was not really clear when the maturity of the –
 that is BASIL II closed fund would happen. It depends in the investment targets reached and then
 the sales start and that is now being expected in the month more at the end of this year. So,
@@ -900,19 +785,13 @@ bring in the performance (1:15:43) 2015 and there will be also some overhangs in
 
 
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 May I just cut in there, does that mean we're effectively just accelerating what you'd hoped from
 2016 or is it actually an aggregate bigger number?
 
 FINAL
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 It is certainly an effective number but we did only mention it that you will not say when you look at
 the average result of PIMCO in the first three quarters and say how do you want to make your
 target range for the whole year. Q4 will have a substantially higher operating profit than Q1, Q2,
@@ -922,9 +801,7 @@ about a year ago. So the outlook Life investment margin is still in this range o
 minus. So with the mark-to-market of some of the investments, it's not absolutely controllable to
 the last basis point.
 
-A - Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
+A - Maximilian Zimmerer {BIO 2557503 <GO>}
 
 Bloomberg Transcript
 
@@ -937,34 +814,22 @@ emerging markets side it's 4.5%. I wanted to say that emerging markets sits two-
 hedged against euro or U.S. dollar and the rest usually is in local currency. And the average rating
 on the emerging market was a BBB and on the developed market it's A.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 And where are we right now, give or take right now?
 
-A - Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
-
+A - Maximilian Zimmerer {BIO 2557503 <GO>}
 That's a very good question. I can't give you the number. I can only tell you that in the last quarter,
 reinvestment yield overall went down from 2.7% to 2.3%, that's the only thing I can say. January I
 think is a little bit too early to call the number for the year.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you.
 
 Operator
 Our next question comes from Andrew Mitchie (sic ) [Andrew Ritchie] of Autonomous. Please go
 ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Hi, there. A couple of quick questions. First of all, just on the guidance, the midpoint of the
 guidance there. What's your – what's the overall tailwind from FX that you're building in there. I
 think roughly back of the envelope it would be a couple hundred million euros. May be just clarify
@@ -978,39 +843,25 @@ Thanks.
 
 
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 I don't know whether I really got you right in about the missed guidance, if you refer to the upper
 end of...
 
 FINAL
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 No, no, I'm referring to the 2015 outlook and what's the tailwind assumed – the tailwind from FX in
 the 2015 outlook, that must be quite substantial...
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Maybe I'll do the FX tailwind. We have used in the outlook calculation, a euro-dollar exchange rate
 of $1.20. So that means current it's more $1.13, $1.14. So we did not go this far, we have taken – as
 you know us, a conservative stand on this point. So that's...
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 That's still an average 10% lower rate – sorry, 10% better rate than 2014 I guess?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Bloomberg Transcript
 
@@ -1019,10 +870,7 @@ some €250 million, €300 million for all the U.S. businesses together so that
 business, which has obviously with the great new business and improved profitability next year and
 the P&C business right in the U.S. and also the asset management.
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 And the confidence on the PIMCO's part, I think we are mentioning this performance fees because
 it will give us some additional tailwind, but I'm actually building my confidence on different things.
 First, I'm talking on a weekly basis to large clients both PIMCO and to large distributors like UBS,
@@ -1046,43 +894,28 @@ and tell him I want to talk to you in three days about PIMCO and your investment
 your investment people so that we don't have an uneducated discussion but really an educated
 one. So, I put a high reliability on these feedbacks in the market.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 So, do you still anticipating net outflows through the first half, is that correct?
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
+A - Michael Diekmann {BIO 1733646 <GO>}
 
 
 
 Yes, I wouldn't be surprised, but I would expect them at lower volumes as we've seen in Q4.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 FINAL
 
 And the discussion on margin, I know there is a mix effect?
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Sure.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 But in terms of is there any pricing effect as well as a mix effect?
 
-A - Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
+A - Maximilian Zimmerer {BIO 2557503 <GO>}
 
 Bloomberg Transcript
 
@@ -1101,10 +934,7 @@ particular, last month was really adding a top month. So we are back on track wi
 is always getting the highest media attention, I think that it's also been pivoting the development
 of PIMCO in the future.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 And I would also like to add another one because we've been asked this by the media this
 morning the same question, and I was referring back to Max and the asset location of Allianz. Now,
 as everybody is talking about equities these days, probably if you could, it would be invested at a
@@ -1115,26 +945,18 @@ realize that if you have to manage a bond portfolio you better get a portfolio m
 at that and I think there is no doubt out there that the reputation of PIMCO was not only on for the
 Gross but by the whole organization.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay, thanks. And just to be clear, are you giving us the numbers of outflows in January and
 February?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 February, it's substantially lighter than January. I think we are not disclosing the number but the
 trend is really clearly fine.
 
-Q - Andrew J. Ritchie
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay, thanks.
 
 Operator
-
-{BIO 18731996 <GO>}
 
 
 
@@ -1142,10 +964,7 @@ Our next question comes from James Shuck of UBS. Please go ahead.
 
 FINAL
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Thank you and good afternoon. I have two questions, please. My first question is just around
 technology and digital and I was keen to kind of get your thoughts on how we progressed over the
 past sort of two or three years under your stewardship, what you think Allianz has done well
@@ -1170,10 +989,7 @@ guess once we get past this initial kind of headwind in the next year or two of 
 invest at the level of investment that's needed, what is the kind of medium-term earnings growth
 potential for Allianz? Thank you.
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 I think that's a very good question for Oliver. I don't want to put him on the spot here. But if we
 look at what we've done in Allianz so far, we've always started from the architectural side, so
 architecture means business model first and then we go into applying that. So business model in
@@ -1198,18 +1014,12 @@ being reinvested developing further capabilities. But I think Oliver will be ver
 this going forward because it's obviously one of the future questions for the industry and for
 Allianz.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Okay. Thank you very much.
 
 
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 You're welcome.
 
 Operator
@@ -1218,10 +1028,7 @@ FINAL
 
 Our next question comes from Jon Hocking of Morgan Stanley.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Hi, good afternoon, everybody. I've got three questions, please. Firstly on capital. I wonder if you
 could comment as to whether you made any other methodology changes in the fourth quarter in
 addition to the equivalence and (1:34:06) you mentioned internal model approval you're starting
@@ -1238,10 +1045,7 @@ but I guess even a 0% guarantee is very valuable in this environment? Thank you.
 
 Bloomberg Transcript
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Sure, let me first start with the capital change within the model. There were a number of changes
 included which I think in total actually being more or less neutral. We have that equivalence I have
 spoken about then the reduced – the charge for the government bonds for the (1:35:45) risk from
@@ -1251,18 +1055,12 @@ liabilities and then there are some technical things on the treatment of (1:36:1
 nature. As we are applying for an internal model, we are not talking about our standard model
 number. On cat net sorry, yes.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 So I can just come back on the sovereign charge. So how does the sovereign charge work? You
 said you mentioned domestic life but I'm not familiar with that, how do you say is the smaller
 charge and the similarly rate for corporate, I guess?
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Domestic life is a variation where are not taking the true full change of life you had in a corporate
 bond that included process at the group level we only apply a favorable charge only on domestic
 and government bonds usually in foreign currency not the full, let's say, treatment. These points
@@ -1272,15 +1070,10 @@ group model. Italian and Spanish bonds are being treated as equal to corporate b
 credit checklist but in the local model, they are being treated at a risk free for the standalone legal
 entity. So that is more on the subsidiary level and not on the group level.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 And in the cross-border bonds are they getting charged and again...
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
+A - Michael Diekmann {BIO 1733646 <GO>}
 
 
 
@@ -1288,70 +1081,41 @@ Cross-border gets a charge also on the local model. But in the group model, we t
 well cross-border which means from a churn perspective as a German bonds are anyway AAA, so
 that that is then not a change.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 
 FINAL
 
 There in the U.K. should be carrying extra capital for the trade, but not on the subsidiaries?
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 That is true.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Okay. Thank you.
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Yeah. But besides the cross-border, so if you have Italian bonds in France or Spanish bonds in Italy,
 then you have also it as your model.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Okay.
 
 Bloomberg Transcript
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 And I think the net cat traction, I think compared to our standard tax budget in 2014, I think we have
 around some 336 bonds but million consumed less. So a percentage point plus.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Okay, thank you.
 
-A - Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+A - Oliver Schmidt {BIO 2473131 <GO>}
 Now, the question to the guarantees?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yes, the many...
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Yes, I can do it. I said for this year, we expect something between 0.7% and 8% what is the reason
 for that in the bigger market the German speaking countries, the guarantee levels are lower than –
 maximum levels are 1.25% that means it would be significantly lower and sequential over all of the
@@ -1362,16 +1126,11 @@ what is also very important, I think even more important is if we try to reduce 
 guarantees. That is very important because otherwise you can't go for matching approach on the
 asset side.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Do you think you're in a position in Germany where your guarantees can be less competitive given
 the financial strength of your client or you're still offering a similar level to your competitors?
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
+A - Michael Diekmann {BIO 1733646 <GO>}
 
 
 
@@ -1383,30 +1142,18 @@ success right from the beginning. Although we were heavily criticized by the pre
 start but now has signaled on the customers to set aside but also competitors try to copy us right
 now.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 And that is half of all the sales to the individual customers.
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Right.
 
-A - Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
-
+A - Maximilian Zimmerer {BIO 2557503 <GO>}
 That has 0.7% guarantee which is a de facto guarantee when you just give a premium refund
 guarantee. So that is even now with official guarantee rate in Germany of 1.25% still 60 basis points
 lower than. And last year, it was more than a percent lower than the guarantee.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Okay. Thank you.
 
 Operator
@@ -1415,10 +1162,7 @@ Bloomberg Transcript
 
 Our next question comes from Thomas Seidl of Bernstein.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Hi, thank you. Good afternoon. Three questions from my side, please. First on capital, again, one of
 the true performer, you had 191% which provide enormous volatility throughout the year if you strip
 out the life one-off 25% drop in the quarter and also looking at the sensitivities as described by the
@@ -1432,85 +1176,54 @@ at the PIMCO probably and hence it was not a big success. Now, when I look at th
 showing zero for PIMCO. So should we expect at some point the equity team to deliver at PIMCO
 or will it remain a fixed income shop?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Well, the last question is easy to answer. It will remain a fixed and mixed income shop because the
 sheer volume of the equity funds, some 3% of the total and that will take time to develop. And I
 think it's good to have that in there, but sorry, it cannot change and should not change the focus on
 the fixed income side.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 (1:43:10) I think?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Well, we're talking about here, I have my specialist here, what is the equity portion of...
 
 
 
-A - Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+A - Oliver Schmidt {BIO 2473131 <GO>}
 €31 billion.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 FINAL
 
 Yes, €30 billion to over €1 trillion.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Is in the 5%.
 
-A - Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
-
+A - Maximilian Zimmerer {BIO 2557503 <GO>}
 Look, I think the active capital management over the same procedure, you have your current
 position. If you look at how value could reduce that, if required, so you have a list of items which
 are closed or already in execution and then you have a list of things to keep at the next layer of
 contingencies, if necessary, and that is how you will manage your number and that gives us the
 confidence that you can do it.
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
+A - Michael Diekmann {BIO 1733646 <GO>}
 
 Bloomberg Transcript
 
 You asked about the credit risk, how we ended that. You have the question again.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Sorry, given the credit expertise you have throughout the group and given the additional
 headwinds, can you – on the fixed income which is a large – obviously should we not assume that it
 take more credit risk here and there to mitigate the headwind?
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Yes. And I wanted to start right now with the answer. At first, you have to have a closer look on the
 credit spread, also the credit spreads have come down significantly usually that's the case if
 interest rates go down, people are keen to achieve some return in therefore take usually more
@@ -1520,19 +1233,13 @@ extra money is especially on the alternative debt side and that's the area we ar
 usually private placements, mortgages but also infrastructure debt. Unfortunately, you have to do it
 transaction by transaction. That means to grow that part of the portfolio takes some time.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 All right, thanks a lot.
 
 Operator
 Our next question comes from Frank Kopfinger of Commerzbank.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Good afternoon, everybody. I have two questions on your guidance and the first one is on – could
 you remind us again? I think, Mike, you mentioned €500 million restructuring charges for 2014. Is
 this the figure we should look at 2014 and on the other side, do we have some sort of
@@ -1547,25 +1254,17 @@ cost/income ratio is reflected within your new guidance?
 
 FINAL
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 So, first of all, I think that €500 million (1:46:37) that was a misunderstanding. The €500 million, it's
 a loss of our three P&C units of Russia, Brazil and U.S. which we don't want to repeat because we
 would fracture it, but it's slightly different than a restructuring charge. So that is what we see on the
 P&C side as really the easiest and low hanging fruit in the upside. PIMCO, I said that's a
 cost/income ratio for 2015 starts with a six.
 
-A - Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
-
+A - Maximilian Zimmerer {BIO 2557503 <GO>}
 Now, you add a zero.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Bloomberg Transcript
 
@@ -1577,17 +1276,11 @@ we have never the aim to achieve every KPI. We are talking about it is in the en
 promise of the operating profit of €10.4 billion and we don't want to meet 65 KPI parallel, that is in
 the end the size of the organization probably has to do.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Thank you. On the low hanging fruit in P&C, what would you say out of this €500 million is a realistic
 low hanging fruit?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah. Well, that would be really disappointing when we have the same result again. In the U.S., we
 have already started the work of the restructuring and integration and there is also the partial
 disposal to ACE closing in April. Then in Russia, the portfolio is shrinking very fast. So on this
@@ -1595,30 +1288,19 @@ remaining policy, we can't lose €180 million, I believe. And Brazil, I think w
 work to translate into a better business. The management team is fairly new in place, six to nine
 months and will be strengthened further in the next weeks. So I think what we can do is...
 
-A - Maximilian Zimmerer
-
-{BIO 2557503 <GO>}
-
+A - Maximilian Zimmerer {BIO 2557503 <GO>}
 No, no, no Peter, I don't want to prejudice you.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Thanks.
 
 Operator
 Our next question comes from Nick Holmes of Société Générale.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 
 
 
@@ -1639,9 +1321,7 @@ And the question, Michael, is why do you want to write this business, which is k
 high risk but maybe that's wrong, maybe it's much lower risk and we're missing something? Thank
 you.
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
+A - Michael Diekmann {BIO 1733646 <GO>}
 
 Bloomberg Transcript
 
@@ -1653,46 +1333,28 @@ requirement at a local 350% level. That is when you want to be an A+ company and
 that is what we want to see. And that is exactly what we do, that means in the calculations, 350
 divided by 200 is 1.75 and the 1.75 goes then into this average calculation.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 So, Dieter, sorry, are you saying that you're 200% of the authorized control level, the minimum
 level?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yes.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Because your peers are definitely saying that they have a coverage of a company action level. And
 so of the company action level, are you 100%, aren't you?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 That is the corporate action level, that is exactly the 100% number and that's...
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Exactly. I mean I'm not – I'm saying it's not a strong level. Absolutely, I mean it is a strong – it's 200%
 or 175%, however you calculated of the authorized control level, the ACL, but my observation, this
 is just an observation is that the other company, your peers are reporting 200%, 300% and so
 there does seem to be a difference. But I think there may be lots of differences. You may be
 calculating capital in a different way and just like that?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 As a ratio, they are reporting this, but look, as far as I know right when you are in the A.M. Best
 discussion locally the 350% at base requirement, actually what most companies are doing that is
 the standard number you find for most large U.S. companies and I'm also used to since the last 20
@@ -1702,47 +1364,30 @@ the ratio is 1.75.
 
 
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 FINAL
 
 Maybe you asked question, what ratio is actually added in this rating average and then you get a
 good stable (1:14:30).
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. And just one final point on that. Given that, there are lots of companies that are reporting
 different definitions here, different ratios. When do you think we're going to get harmonization on
 equivalents?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 When it is written into the delegated act and that is an April activity of the Brussels parliament.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. So in April, we can expect clarification.
 
 Bloomberg Transcript
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Maybe I can kick in with the FIA business, I think. We are all a little bit traumatized from the old VA
 experience here. And you are right, we do have a sensitivity to market movements in this business.
 Now, if I compare and I'm on page A-62, the KPIs for the new business margin in this business, we
@@ -1754,32 +1399,20 @@ think, it's an annual level but may be even more frequently, we have a much bett
 efficiency in our – again, that business now because of fee and scale and we do have a dynamic
 hedging process in place that help us as well to manage volatilities.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Thank you. That's very clear. One very quick follow-up. Michael, how big do you what the U.S. be? I
 mean it's grown a lot. What sort of growth do you envisage going forward?
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Well, our current and obviously that can change over time – the current message for the U.S.
 business is we don't want to inject capital and we want to see some dividend flows and they have
 managed very well to stay in line. With that, we've got some €150 million to €250 million dividend
 from Minneapolis.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. Thank you very much.
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Welcome. Do we have more questions, Susanna?
 
 Operator
@@ -1787,10 +1420,7 @@ Yes, we do have one more question. Do you wish to proceed?
 
 
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Thank for this. We will take one more question, please, and then we will end the call. Thank you.
 
 Operator
@@ -1813,10 +1443,7 @@ and I'm just wondering kind of where you see that additional capital coming from
 
 Bloomberg Transcript
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 So let's start with the first question and I need to remind you the – at least if you are seeing the
 bag of the business in Germany center for it, let's say, 40% of the overall business and also that
 viewing Germany as a long-term guarantees and also the guarantee level in comparison to most
@@ -1829,37 +1456,22 @@ have special reserves in France and Italy but they are not comparable to the sys
 We didn't do any calculation for other countries, I need to say that, but they are also not as
 significant as Germany is.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 For example, in France, our efforts guarantees 0.7%
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Yes.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 So a reinvestment yield of 0.7% would also be OK.
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 True.
 
 Q - Paul C. De'Ath
 Okay, great.
 
-A - Michael Diekmann
-
-{BIO 1733646 <GO>}
-
+A - Michael Diekmann {BIO 1733646 <GO>}
 Okay, yeah. Thanks to everybody for joining the call. We will end this call right now, two hours are
 over, but please keep in mind that we will be available for further questions next week at our
 

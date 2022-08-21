@@ -31,10 +31,7 @@ Ladies and gentlemen. Welcome to the Aegon First Quarter 2013 results conference
 for analysts and investors on May 8, 2013. (Operator Instructions) I will now hand the
 conference over to Alex Wynaendts. Please go ahead, sir.
 
-Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+Alex Wynaendts {BIO 1821092 <GO>}
 Thank you. Good morning. We appreciate that you are joining us today for this call on
 Aegon's First Quarter 2013. With me today we have Darryl Button, who will soon succeed
 Jan Nooitgedagt as our new CFO. And Darryl will talk you through the earnings later on
@@ -230,10 +227,7 @@ results in greater detail. Darryl.
 
 Bloomberg Transcript
 
-Darryl Button
-
-{BIO 7089946 <GO>}
-
+Darryl Button {BIO 7089946 <GO>}
 Thank you, Alex. Here on slide 11 I would like to take a closer look at underlying earnings.
 Our underlying earnings increased 1% despite the fact that we divested several of our
 joint ventures in Spain, in addition, experienced higher sales and employee-related
@@ -348,10 +342,7 @@ constantly assessing how we manage our capital to ensure that the expectation of
 stakeholders is taken into account.
 Back to Alex to wrap it up before we answer your questions.
 
-Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+Alex Wynaendts {BIO 1821092 <GO>}
 Thank you, Darryl. And before taking your questions let me reiterate that we are fully
 committed to execute on our strategic priorities and that our First Quarter result provides
 clear evidence that they are the right ones. We see strong profitable sales of our core
@@ -385,10 +376,7 @@ comes from Farooq Hanif from Citigroup. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Everybody. Good morning. If you don't mind, I've got three questions. Just stop me if I get
 a bit boring. But the first question is can you go back to this additional collar hedge and
 remind us of the rationale for it? The reason I ask this is that your capital position in the US
@@ -402,10 +390,7 @@ give us some numbers on market position that you may be targeting?
 And, secondly, could you just explain what the true-ups were in the US RBC ratio? Thank
 you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Farooq, thank you for your questions. Let me give you general statement around the
 rationale about putting in place hedging. As you know, we've been very consistently
 saying that we want to protect our capital position. We want to reduce our dependence
@@ -429,10 +414,7 @@ we've chosen this hedge.
 
 FINAL
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 All right, yes. Hi, Farooq, it's Darryl. Just to reiterate what Alex said, it's absolutely
 consistent with our strategy in taking down our capital markets leverage and our capital
 markets risk. In particular, the VA fee income, if you will, is volatile inside of our US
@@ -461,10 +443,7 @@ make an estimate at the end of the year and we include that estimate in our Four
 Quarter results and we communicated those with you. We did have some true-ups to the
 RBC capital formula itself and that lead to a small decrease in the RBC in the quarter.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Just one point, Farooq, to add is that the number-eight position on the VA market is
 equivalent to just a bit less than 4% market share. So that gives you a little bit of sense
 also of how fragmented the market is. But also there is clearly more opportunity for us to
@@ -472,10 +451,7 @@ expand our market share. We remain committed to selling, as we said, the right p
 at the right price with the right risk profile, very consistent with what we've been saying all
 along.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Can I just go back on the equity collar macro hedge? You said, obviously, that it's
 economically based, so it helps economic capital. Is it also aligned to the economic tests
 in the US for VA, so it's C3 phase 2 and, therefore, does it help you actually release
@@ -493,10 +469,7 @@ Is it just really to protect downside?
 
 FINAL
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 No, you're going at it exactly the right way. The answer is -- to your question is, yes, it's
 absolutely aligned with the C3 phase 2 capital calculations in the US, which are economic
 based.
@@ -505,15 +478,10 @@ essentially zero. We had no capital market sensitivity due to the move in equity
 on our capital base in the US this quarter. Obviously, the markets went up and the
 equivalent is true if the markets were to go the other way as well.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay, thanks very much.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alex Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
@@ -524,19 +492,13 @@ account, so it's somewhat of a disconnect in the way we have to account for it. 
 the reality of accounting. That's why we'd like to provide you the additional explanations
 here.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. That's very clear, thank you.
 
 Operator
 The next question comes from Albert Ploegh from ING. Please go ahead.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Yes. Good morning, gentlemen, a few questions from my side. First is on the Dutch
 mortgage book. Can you disclose maybe also the LTV in the book and what the
 percentage of LTV is above 100%? And, correct me if I'm wrong, I think most production in
@@ -560,10 +522,7 @@ and[ph] how are you[ph] looking at the gross leverage within the Group? Thank yo
 
 FINAL
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Albert, on the Dutch market we'll provide you outside of this meeting some specific
 additional information look like. But I think that the couple of issues which I think are
 important for the Dutch mortgage market and your base here so you're familiar with it, is
@@ -587,25 +546,16 @@ that we focus on what we think is most important and where the correlation is bi
 the biggest where the quality of the portfolio, which is about the ability to pay the monthly
 installments. But I will follow up with you.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay, thank you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 On the run-offs I will Darryl. And on the net debt I think it's a very fair point you're making.
 There is clearly more focus on gross debt versus net debt. And Darryl can pick it up. But
 we'll also provide you more of this when we have our meeting -- our analysts' meeting
 later in June in London.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Hi, Albert. Yes, on the run-offs there is something going on. We are accelerating the
 amortization of the intangible that we have related to the SCOR transaction, so there is a
 little less than $600 million pre-tax intangible asset sitting out there related to that
@@ -637,10 +587,7 @@ ratio.
 So it is an issue that we are looking at. We are managing, I would say, more on a gross
 leverage basis going forward. And I will give more of an update on this topic in June.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay. Thanks very much.
 
 Operator
@@ -649,10 +596,7 @@ Bloomberg Transcript
 
 The next question comes from Ashik Musaddi from JPMorgan. Please go ahead.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yes. Hi, thanks a lot. So the first question is on the US. Can you give us some color around
 what sort of ROE are you looking for in your variable annuity, the business that you are
 writing right now, and how does that compare with the market pricing? So that's the first
@@ -661,16 +605,10 @@ Secondly, on new business strain in First Quarter reduced a lot, from EUR340 mil
 quarter to EUR260m. What is driving that? Is it the UK, or is it something else? So if you
 can give some color around that. Thank you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Thank you. Darryl, would you want to say something about pricing and on our VAs thing?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes. So we're fully market-consistent pricing on our variable annuity, which means we have
 costed all of the hedges inside of the pricing itself. We look for adjusted IRRs north of 11%,
 in that environment, but the key is that we have bring -- we have brought, basically, the full
@@ -693,10 +631,7 @@ sales in the US in the Universal Life products. And we have been increasing our 
 businesses and they are less capital intensive. So I think it's more of a mix of business than
 anything.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Absolutely. And at the UK the effects of, let's call it, post-RDR, where we're not allowed to
 pay commissions, they will be felt and we'll see them probably in Q3, because the effect
 in Q1 and Q2 still has an overflow from business that was sold in the old regime. So the
@@ -704,10 +639,7 @@ new environment in the UK is not affecting yet this number. That will only be th
 second half of the year, because policies that are sold in December they'll get on the
 books over a period of up to six months.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thanks. Just a follow-up on the US question, can you give us some color on what sort of
 ROE are you looking? Are you still looking at around 12%, 13% ROE on the US new Vas, or
 has that changed given that your market share has increased significantly? So I was just
@@ -715,10 +647,7 @@ wondering if there is any change in that -- those target ROEs.
 
 Bloomberg Transcript
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 No, there's actually been no change on our pricing philosophy. And in fact, actually, in
 December in New York I think our annuity team actually gave some color commentary in
 terms of the expected new business returns. What I would say is that there's been no
@@ -727,28 +656,19 @@ picking up, it's well known that the top market share that was going in the top 
 pulling back on those sales and so we're picking up some of that without any change on
 our side.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 If you look at the table which was provided on the market-consistent value new business
 you see that effectively in the US there was a doubling of our market-consistent value new
 business. And although we do not provide a breakdown by product I can -- what I can say
 is that clearly the business line 'variable annuity' has been a contributor to the increase -the significant increase in market-consistent value of new business.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yes, thanks a lot.
 
 Operator
 The next question comes from Marcus Rivaldi from Morgan Stanley. Please go ahead.
 
-Q - Marcus Rivaldi
-
-{BIO 5739374 <GO>}
-
+Q - Marcus Rivaldi {BIO 5739374 <GO>}
 Page 13 of 24
 
 
@@ -767,10 +687,7 @@ And then back to the hybrid point. Is there a substantial amount of your hybrids
 moment that are not qualifying as regulatory capital, perhaps, due to limit impacts from
 your local -- from your Dutch regulator? Thank you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 On your first question, Darryl will be more specific, but I think it's clear that we are looking
 more at the senior debt here in terms of gross leverage.
 On the hybrid debt, when we announced the agreement which we had reached with -- we
@@ -784,10 +701,7 @@ Darryl, do you want to say --?
 
 Bloomberg Transcript
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes. On Fitch, in particular, their primary gross leverage ratio, they actually don't give any
 equity credit to hybrids at all. So they look at a hybrid leverage ratio that actually -- where
 all of the seniors and the hybrids are counted on equal footing. But at the same time they
@@ -802,16 +716,11 @@ world. That being said, there are limitations in that world related to the amoun
 capital that can count as tier one capital. And I've said in the past and I will continue to say
 that we think we can protect about 80% of our hybrid capital in that post-Solvency II world.
 
-Q - Marcus Rivaldi
-
-{BIO 5739374 <GO>}
-
+Q - Marcus Rivaldi {BIO 5739374 <GO>}
 So -- but it seems -- well, I'm sure we'll hear more about this in June, but it seems that for
 now, therefore, the -- your focus is more on a -- on the senior part of the debt structure.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
+A - Darryl Button {BIO 7089946 <GO>}
 
 Page 14 of 24
 
@@ -829,19 +738,13 @@ said before, 80% of our hybrid capital will count as tier one. So that does leav
 probably a little more tier one than -- or a little more hybrid than what we need. So that's
 the update that I'll give you and try and give you the whole picture in June.
 
-Q - Marcus Rivaldi
-
-{BIO 5739374 <GO>}
-
+Q - Marcus Rivaldi {BIO 5739374 <GO>}
 Okay, thank you very much.
 
 Operator
 Our next question comes from William Elderkin from Goldman Sachs. Please go ahead.
 
-Q - William Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William Elderkin {BIO 3349136 <GO>}
 Good morning, everyone. Two questions, please. First of all, could you just elaborate a
 little bit more on the opportunities in the Dutch corporate pension market? It's a while
 since I've heard you sounding so optimistic on that front. And particularly give us a sense
@@ -855,10 +758,7 @@ charge for RDR-related lapsation the underlying pension earnings do seem to have
 improved somewhat. Is that just reflecting normal underlying business developments and
 is that something I can think about for forecasting?
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes. I think we've been speaking for already quite some time about the Dutch pension
 opportunity, William. As you know, we've been positioning ourselves for the moment that
 these ratios -- coverage ratios for Dutch pensions at least would get above 100, because
@@ -896,10 +796,7 @@ because there's going to be more demand for it now than really there is capacity
 available.
 For the UK, Darryl, what would you like to --?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Well, yes, I think you're right. In the UK we really have two things going. So the UK earnings
 are holding pretty stable, but what's happening is the persistency and the RDR bubble
 that's rolling through, I would say, all else equal, took down earnings about EUR7 million
@@ -911,10 +808,7 @@ we phase out of that.
 
 Bloomberg Transcript
 
-Q - William Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William Elderkin {BIO 3349136 <GO>}
 Good, thank you.
 
 Operator
@@ -950,10 +844,7 @@ capital into this activity in order to gain more Group pension contracts, especi
 these critical drivers seem to accelerate more positively to unlock potential? And could
 you quantify what you aim to gain in terms of mandates[ph]? Thanks.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Thank you for your questions. I will start with the third question and then pass it onto
 Darryl on fixed annuity margins and cost of hedging for variable annuity.
 What I said on the Dutch pensions, effectively, we have freed up balance sheet capacity
@@ -969,10 +860,7 @@ Darryl, do you want to take the two questions on fixed and variable annuities, p
 
 Bloomberg Transcript
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes. On fixed annuities, yes, spreads have been coming in. I would say that it's a function
 of a couple of things. First of all, the lapse rates continue to be very low, although they've
 up-ticked a little bit here recently because we've had more business coming out of a
@@ -1016,9 +904,7 @@ Okay, very clear. Thanks.
 Operator
 The next question comes from David Andrich from Morgan Stanley. Please go ahead.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
+Q - David Andrich {BIO 15414075 <GO>}
 
 Bloomberg Transcript
 
@@ -1030,10 +916,7 @@ moment in regards to the Dutch pension market and whether also you would conside
 doing -- it sounds like you already have the capacity you need, but whether you would
 consider doing an additional longevity swap.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes, on -- in terms of returns, what I mentioned when I spoke about MCVNB, I did say that
 the Dutch -- the MCVNB in our Dutch business increased and I did mention explicitly that it
 was also as a consequence of increased sales. So we have an MCVNB which is positive for
@@ -1047,10 +930,7 @@ whole idea, this only works if we can sell it at a lower cost of capital and the
 then at a higher cost of capital. And that's what we see is now more possible than it was
 in the past.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David Andrich {BIO 15414075 <GO>}
 Great. And, sorry, the competitive environment?
 
 Page 18 of 24
@@ -1061,9 +941,7 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2013-05-08
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alex Wynaendts {BIO 1821092 <GO>}
 
 FINAL
 
@@ -1073,10 +951,7 @@ also becomes more rational, which I think is a positive development and one we f
 pleased about, because we have tried to contribute to avoid having here an aggressive
 pricing environment because that doesn't make any sense to deploy capital on that way.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David Andrich {BIO 15414075 <GO>}
 Great, thank you very much.
 
 Operator
@@ -1094,16 +969,10 @@ And then, secondly, in the UK, I wondered, could you also give us a bit more col
 losses due to the adverse persistency and explain why you're so confident that the RDR
 bubble should stop after Q2? Thank you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Darryl?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes. On the product risk on the VA in the US, Nick, the biggest change over the last, really,
 I'd say 18 months, 24 months, is we've pushed all of our product into the vol control funds,
 which basically gives us a lot of risk mitigation in the underlying funds itself. So there is a
@@ -1116,10 +985,7 @@ Q - Nick Hormes
 So would you say that you are still very much at the lower end of the product risk
 spectrum?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes, though I'd say -- yes, but I'd say that -- I would also say that we've seen a lot more
 rationalization. So there are various studies out there, third-party studies and independent
 studies from some of the actuarial firms that do some of those analyses and rankings.
@@ -1141,10 +1007,7 @@ FINAL
 
 And if you had to -- (multiple speakers). Sorry, do continue.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Your second question on the UK in terms of how confident we are that the bubble will be
 for the First Quarter, keep in mind that what we see now is a flow -- is an overflow of
 products and contracts that were signed just before December 31. So you could expect
@@ -1153,10 +1016,7 @@ less incentives for intermediaries and for advisors to move business from one pr
 another provider, because there is no commissions anymore that is driving that incentive,
 so it's reasonable to assume that we get them[ph] back to a more normal level.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes. And I used -- in my prior question I used the end of the year, I think, intentionally. I
 think we'll start to see it come down in the Third Quarter, but I think it'll be the Fourth
 Quarter before we get a good clean look at a post-RDR persistency rate.
@@ -1167,28 +1027,19 @@ Bloomberg Transcript
 
 Right, okay. Thank you, very much.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Okay.
 
 Operator
 The next question comes from Edward Summer from OneWest. Please go ahead.
 
-Q - Edward Summer
-
-{BIO 18968275 <GO>}
-
+Q - Edward Summer {BIO 18968275 <GO>}
 Good morning, gentlemen, probably a more general question. I apologize. You made
 good progress on the leverage ratio in Q1, now at 76.3%. Could you give some color for
 us on the use of capital generation, including disposals, to make further progress to the
 75% threshold that's deemed important by the rating agencies?
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Just one point of clarification, the 75% was an agreement we had with the European
 Commission to be at the level of at least 75% by the end of 2012. That commitment is
 now not in force anymore, so it is not as it was until the end of the year.
@@ -1203,10 +1054,7 @@ Date: 2013-05-08
 
 FINAL
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes. What I would say, just a general answer to your question, keep in mind there is very -other than our normal interest expense there wasn't a lot of extraordinary cash flow out
 of the hold co this quarter. I would just remind you that we have the pref share transaction
 which we announced earlier. We expect to close in the Second Quarter. That's EUR400
@@ -1221,10 +1069,7 @@ refinancing a $750 million note that's coming due in the Second Quarter as well.
 that perspective we have allocated cash to substantial senior note de-leveraging in the
 Second Quarter in addition to the pref share transaction.
 
-Q - Edward Summer
-
-{BIO 18968275 <GO>}
-
+Q - Edward Summer {BIO 18968275 <GO>}
 Great, thank you very much.
 
 Operator
@@ -1233,10 +1078,7 @@ Bloomberg Transcript
 
 The next question comes from Paul Diaz from RBC. Please go ahead.
 
-Q - Paul Diaz
-
-{BIO 4658200 <GO>}
-
+Q - Paul Diaz {BIO 4658200 <GO>}
 Yes. Good morning. A couple of questions, if I may, just to clarify a few points on the
 corporate pensions business in the Netherlands and the UK. Firstly, in the Netherlands the
 average coverage ratio of the pension funds is now at 107%. I was just wondering what
@@ -1249,10 +1091,7 @@ say it's being offset by lower margins in the UK. Is this just due to mix, selli
 corporate pensions business, or were margins depressed in the run up to the end of
 RDR? And how should we look at margins going forward in this business? Thanks.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes. On the Dutch corporate pensions the 107% is an average number and is quite,
 actually, a variance amongst different pensions. But I would say 105% is the kind of
 threshold that you should consider when thinking about transferring liabilities to an insured
@@ -1282,10 +1121,7 @@ presentation in London our UK team will be in a position to provide you a good u
 what we're doing here. I think it's actually quite exciting that we have been able to
 transform our business in the UK and adjust so well to a new reality which is now postRDR.
 
-Q - Paul Diaz
-
-{BIO 4658200 <GO>}
-
+Q - Paul Diaz {BIO 4658200 <GO>}
 Okay, thanks.
 
 Operator
@@ -1294,10 +1130,7 @@ Bloomberg Transcript
 
 The next question comes from Benoit Petrarque from Kepler. Please go ahead.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Yes. Good morning, just a remaining question on my side. On the Dutch mortgage
 portfolio I think you have around 50% of your general account in the Netherlands which is
 invested in residential mortgages. And I was looking at the new production figure for Q1
@@ -1310,10 +1143,7 @@ And then it looks like you are on the 14 bps in Q1 on an annual basis. What will
 outlook for the rest of the year in terms of impairments on Dutch mortgages? Will that be
 around 15 bps or higher? Thank you, very much.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes. On your question on the mortgages it is true that we have EUR20 billion -- or EUR22
 billion of assets. But, as I said, of our stock we have over 50% is government guaranteed - guaranteed by the Dutch government. That means that it's a Dutch government
 guarantee. And of our new production in last years over 80% is guaranteed by the Dutch
@@ -1340,17 +1170,12 @@ mind that we are also losing assets because people have been redeeming. And
 particularly in the context of the new -- the changes in law we have seen an acceleration
 of redemptions on the mortgage side.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Maybe just -- sorry, just on this point, is the expected duration on the -- on your book in
 line with the trend you see, i.e., probably de-leveraging of households and repayment of
 Dutch mortgages?
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alex Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
@@ -1369,18 +1194,13 @@ production over the last years and over 50% of the entire in-force. So this is a
 which we're very comfortable and we're very pleased to have on our books also because
 it serves a very good purpose from asset liability management.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Thank you, very much.
 
 Operator
 There are no further questions at this point.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alex Wynaendts {BIO 1821092 <GO>}
 
 Page 23 of 24
 

@@ -33,10 +33,7 @@ Good day, and welcome to the Aegon Q3 Results Conference Call. Today's conferenc
 being recorded. At this time, I would like to turn the conference over to Willem van den
 Berg. Please go ahead, sir.
 
-Willem van den Berg
-
-{BIO 15203834 <GO>}
-
+Willem van den Berg {BIO 15203834 <GO>}
 Thank you, operator. Good morning and thank you for joining us for this conference call on
 Aegon's third quarter 2014 results. As always, we will keep today's presentation short,
 leaving plenty of time to address your questions. We would appreciate it if you take a
@@ -57,10 +54,7 @@ I'll now hand it over to Alex.
 
 FINAL
 
-Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Good morning, everyone. Let me begin by saying that this was clearly a quarter of mixed
 results. Earnings this quarter have been impacted significantly by the changes we have
 made to our assumptions and the enhancements to our models, something I will address
@@ -181,10 +175,7 @@ Please go ahead, sir.
 
 Bloomberg Transcript
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David T. Andrich {BIO 15414075 <GO>}
 Hi. Good morning. Thank you for taking my questions. My first question is just around the
 model – assumption changes. And I was just wondering, going forward now, what kind of I
 guess stricter controls have you put in place and how much more consistent are the
@@ -194,10 +185,7 @@ cash flow generation is challenged due to ongoing regulatory changes. I was just
 wondering, has something changed since Q2 or is this more just along the lines of the
 continued transition of the business in the UK? Thank you.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Hi, David. It's Darryl. I'm going to take your first question. Just on a model updates and
 assumption changes. First of all, on the assumption changes, the biggest change we did
 have is the one we flagged back in the second quarter on the mortality. This is really an
@@ -228,9 +216,7 @@ governance for ongoing review and maintenance of these models, going forward. So
 hope that also contributes to a much lower likelihood of these assumption updates in the
 future.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
@@ -252,26 +238,17 @@ changes, which also means that it requires a lot of attention for people to addr
 change and implement all these regulatory changes, which some are still not even clear
 how they need to be implemented. So, it's a continuation of this transition phase.
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David T. Andrich {BIO 15414075 <GO>}
 Okay. So, no change in terms of the expected cash flow from the UK business going
 forward then?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Well, we have given you a range which we see as a target for the UK. I've been very clear
 that we are looking at the lower end of the range. And I believe that these changes will
 make it probably even more challenging than it was before these regulatory changes
 were in place to achieve that target.
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David T. Andrich {BIO 15414075 <GO>}
 Okay. Thank you very much.
 Page 5 of 22
 
@@ -287,10 +264,7 @@ ahead.
 
 FINAL
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Hi. Good morning, everyone. So, three questions, first of all, can you give a bit more
 color on what this €20 million per quarter is and how do you arrive at this number?
 Secondly, I mean, it looks like these – all these assumption changes and model updates
@@ -302,9 +276,7 @@ And thirdly, basically, can you give us a bit more color about this model change
 much of that is driven by low interest rate? How much of that is driven by underwriting?
 Still a bit more thought on that would be really appreciated. Thank you.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
+A - Darryl D. Button {BIO 7089946 <GO>}
 
 Bloomberg Transcript
 
@@ -323,22 +295,13 @@ U.S. as well. I expect that to be in the neighborhood of maybe even slightly lar
 cash flow going forward.
 The third question, I must admit, I didn't...
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Can we give some color on the model changes?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yeah, the model changes themselves.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Page 6 of 22
 
 
@@ -351,10 +314,7 @@ Interest rates (15:11)
 
 FINAL
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yes. So, you can see that there were a collection of different model changes. And you can
 see that on the slide in the presentation. Generally, it falls in the category of using – really
 upgrading and making our models more sophisticated on the life side, increasing the
@@ -372,10 +332,7 @@ technology model enhancements.
 
 Bloomberg Transcript
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 But that's really very clear. But like just one follow-up on that, the €300 million of the total
 impact you flagged in third quarter itself, how much of that is actually going to cash, i.e.,
 how much of that will weaken your cash position? And just a follow-up on – from that
@@ -384,10 +341,7 @@ if I remember correctly, you mentioned that from U.S., you should get roughly, g
 take, €900 million dividend to holding company. From Netherlands, I think it's around
 €300 million. So, what changes today from the – on these two numbers, specifically?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yeah. Ashik, there's actually very limited impact to the capital position in the U.S. from this
 change today. I caveat that slightly and at the end of the year – we'll do our annual cash
 flow testing work at the end of the year and there may be some impact on that. But for
@@ -397,10 +351,7 @@ through regulatory earnings as that experience emerges into the future, which is
 regulatory earnings impact will be slightly higher than the IFRS earnings impact going
 forward.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yes. Okay. That's very clear. Thanks a lot.
 
 Operator
@@ -415,9 +366,7 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2014-11-13
 
-Q - William H. Elderkin
-
-{BIO 3349136 <GO>}
+Q - William H. Elderkin {BIO 3349136 <GO>}
 
 FINAL
 
@@ -429,10 +378,7 @@ And then, secondly, just on long-term care, a number of your competitors had a f
 problems there. I was just wondering if you could give us an update as to your position,
 and then whether is anything there we need to be worrying about from your side.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yes, William. This is Darryl. I'm going to take those questions. Yes, your math is right on
 the U.S. adjustment to the operating free cash flows. That's a pretty good estimate.
 Long-term care, we had a small – so, as part of our assumption changes, there was a
@@ -457,10 +403,7 @@ Operator
 Thank you. We will now take our next question from Albert Ploegh from ING Bank. Please
 go ahead.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Yes. Good morning. All thanks for taking my questions. The first one is on the Dutch
 mortgage impact, so the change basically in the fair value accounting thereof. What are
 the implications for that also on the cash flows going forward? It seems actually that it
@@ -481,24 +424,16 @@ specific, France. Is there anything to mention on the progress on that specific 
 
 FINAL
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Albert, I must admit the phone cut out after your second question. Could you repeat your
 third question?
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Sorry. The third question is on interest in the Dutch consolidation to participate, and your
 local competitor made clear statements last week. So, any color from your end will be
 welcomed as well.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
+A - Darryl D. Button {BIO 7089946 <GO>}
 
 Bloomberg Transcript
 
@@ -517,10 +452,7 @@ So, that's where I predict more of our Dutch mortgage production to go into the 
 Obviously, that's a little more lower margin for us, going forward, but it comes back to the
 concentration that we have to manage on our own balance sheet.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah, Darryl, I'll take the two other questions. In terms of the business reviews, I was
 obviously – we were pleased to announce the sale of Transamerica in Canada. As you
 have probably guessed, this has been quite a long process, a process where we have
@@ -554,10 +486,7 @@ the kinds of products and service they were looking for. And that has made the d
 So, that is really at the heart of our strategy growing organically. And that applies to our
 businesses across the world.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 All right. Thank you very much for your answers.
 
 Operator
@@ -566,10 +495,7 @@ go ahead.
 
 Bloomberg Transcript
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hi there. Thank you very much. Two more questions on the mortality review, please. The
 first one is, can you give us more color on the level of confidence that you have in your
 new assumptions? And I'm thinking things like, how do you compare with the industry and
@@ -578,10 +504,7 @@ And then secondly, you mentioned options to mitigate the €20 million recurring
 wondered what those might be. And in particular I wondered is some longevity something
 which might be a natural hedge to what you've got on the mortality? Thank you.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Hey, Nick. It's Darryl. Yeah. So, on the mortality assumptions, I think now we compare very
 well and very conservatively I think on the older age mortality issue. This is something I've
 mentioned in the past. The industry data has been sparse, but it is now starting to
@@ -606,19 +529,14 @@ Date: 2014-11-13
 those deals already, and we continue to work on that and you'll see more from us on that
 front.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 
 FINAL
 
 Great. Thank you very much. I just wanted to come back to the options to mitigate the
 €20 million. I think, Alex, you mentioned that. I just wondered what you're thinking of.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah. Nick, obviously, we always look at our business ways of optimizing. And what we're
 saying here is we're going to have a look again as to where are the options to further
 improve efficiency. I'm looking at our big back book in terms of expenses and margins. So,
@@ -627,37 +545,25 @@ of the year. It's a process around the budget. And you can – I just want to ma
 understand that both Darryl and I are going to make sure that we do everything here to
 mitigate as much as possible that impact.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 So, sorry to labor this point, but just very finally, does that mean, might be scoped to
 offload some of this business that kind of thing that you're looking at?
 
 Bloomberg Transcript
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Again, Nick, at this point in time, I can say we will be looking at all options to optimize our
 position here. And clearly, and I said that I am disappointed by the outcome. I'm
 disappointed by the onetime hit, but obviously, equally disappointed by the fact that it has
 an impact going forward. So, we'll be looking at always optimizing our position here.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. Thank you very much indeed.
 
 Operator
 And we will now take our next question from Farooq Hanif from Citi. Please go ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, everybody. I hope you can hear me. Thanks a lot. I want to just go over some topics
 again, if you don't mind. Firstly, on the RMBS assumption change, I would've thought that
 the reserve – I mean, the additional sort of the valuation hit that you've taken for that
@@ -685,10 +591,7 @@ But theoretically speaking, if we had a Solvency II number, which I know we don'
 if we had one, would there be any impact on Solvency II from any of the changes you've
 made? Thank you.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Hi, Farooq. It's Darryl. Let me try and address those questions. On the first one – on your
 first one, yeah, just basically divided by seven and gives you a rough feel for how much
 that cash flow will come back in. So, that gets you to about €70 million year going forward
@@ -708,16 +611,10 @@ ourselves and implement and get ready for implementation on Solvency II. So, it'
 much going to be a fourth quarter discussion and conversation in the Netherlands.
 On the third question...
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Solvency II impact of the assumption changes, yeah.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yeah. A very hypothetical question, I guess. So – but I think it's fair to say if you look at the
 upfront impact that we've had on the assumption changes this quarter and you combine it
 with the quarterly impact that we've talked about going forward, I think that gets maybe a
@@ -725,16 +622,11 @@ little bit of a feel of what might be on more of an upfront basis within a Solve
 That's probably about the best I can do. We're obviously not running Solvency II numbers
 on our U.S. business. So...
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Yes, of course. Yeah. So, it basically has no impact, does it – of course. I was (31:33)
 thinking...
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
+A - Darryl D. Button {BIO 7089946 <GO>}
 Page 12 of 22
 
 
@@ -745,33 +637,23 @@ Date: 2014-11-13
 
 No, it has no mechanical (31:37)...
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 FINAL
 
 Mechanical impact, yeah.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Again, our working assumptions for Solvency II on our U.S. business remains that we will
 get equivalency and use deduction and aggregation.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 And just one – just to go back very quickly. So on the U.S. business, you're very careful, you
 didn't use any adjective when you were describing the fourth quarter cash flow, you just
 said it was going to come. But you weren't saying it's going to be better or worse
 because of the higher surplus?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
+A - Darryl D. Button {BIO 7089946 <GO>}
 
 Bloomberg Transcript
 
@@ -782,19 +664,13 @@ that we have on the U.S. statutory and regulatory framework gives us a lot more 
 and visibility on the U.S. upstreaming. We continue to prepare ourselves for Solvency II
 here in Holland.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thanks very much.
 
 Operator
 And we will now take our next question from Gordon Aitken from RBC. Please go ahead.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Good morning. Just back on to this U.S. mortality assumption change. Now, I understand
 it's sort of the 85- to 95-year-old male smokers are not living as long as you expected. I
 know you flagged this in Q2, but it's a surprising development, given that the general
@@ -814,9 +690,7 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2014-11-13
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
+A - Darryl D. Button {BIO 7089946 <GO>}
 
 FINAL
 
@@ -847,31 +721,19 @@ I'm not sure I can add a whole lot more. I really don't want to comment on compe
 other experience or how you've been hearing that from others. I don't think that's my
 place to do here.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Reinsurance?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yeah. So, reinsurance. They are in a position – they do have – they are in a position to see
 more cumulated data than any one of the individual companies. I think actually the
 experience there has been mixed. And that's a question you're going to have to ask them
 in terms of what they've seen in this part of the market in terms of this data trend.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 It's just that Q2 seemed to imply that the reinsurance recoveries were down.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Sorry. Sorry. Yeah. You'd asked specifically. Yeah. Well, that's part of a – to be honest with
 you, that's actually part of our assumption update as well in terms of – so, the largest
 
@@ -887,18 +749,13 @@ number that I've been talking about is the older age mortality adjustment. We al
 impact for adjusting our own reinsurance recover assumptions in the model. And that's
 also impacting the Life & Protection numbers in the U.S. this quarter.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
+Q - Gordon Aitken {BIO 3846728 <GO>}
 
 FINAL
 
 Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 (36:30), strengthen those, yes.
 
 Operator
@@ -918,10 +775,7 @@ business, you had quite a decline in Q3, mainly in the U.S. and in the Netherlan
 wondered whether you could provide a bit more details on why that was and how you
 saw the outlook for that. Thank you.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Sure. I'll take the first one – it's Darryl. On the Dutch mortgages, what drove the change? It
 was a change in our discounting methodology to come up with the fair value of the
 mortgages as we report under IFRS 13. It's a level 3 valuation, which means we can't go
@@ -948,10 +802,7 @@ Date: 2014-11-13
 
 FINAL
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 In terms of your question of the value of new business, what we're seeing in this quarter
 is very strong sales. We see sales up 38% compared to last quarter. Sales are up in our
 key markets, and that has had a clearly positive impact on MCVNB. However, the positive
@@ -972,10 +823,7 @@ Netherlands going forward on the back of that?
 
 Bloomberg Transcript
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Well, these mortgages have been put on the books, so these margins are there. These
 margins will be there for the maturity of the mortgages. And what we're doing right now
 effectively is using our franchise in the market. We have now 13% market share on
@@ -990,20 +838,14 @@ Q - François Boissin
 Yeah, I understand this. But this is more kind of – this is more fee business from third party,
 but how should I think of the general account business in the Netherlands?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 As I was saying, these mortgages are – that are on the book, they will hold on these
 margins. The margins will stay there.
 
 Q - François Boissin
 Right. Thank you very much.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Thank you. Thank you.
 
 Page 16 of 22
@@ -1019,10 +861,7 @@ And we will now take our next question from Jan Willem Knoll from ABN. Please go
 
 FINAL
 
-Q - Jan Willem Knoll
-
-{BIO 18247722 <GO>}
-
+Q - Jan Willem Knoll {BIO 18247722 <GO>}
 Yes. Good morning, gentlemen. Thanks for taking my questions. Back on the model
 assumption review, you mentioned you reviewed 60 high-priority models. What
 percentage of your reserves has been covered by this review and what is the euro
@@ -1039,10 +878,7 @@ your appetite to grow in the Dutch pension buyout market. Thanks.
 
 Bloomberg Transcript
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yeah. I'll try and cover the first one. I can't give you an exact reserve coverage number,
 but what I can tell you is we've – as I mentioned before, we really intensified our efforts
 over the last – really over the last year in terms of a comprehensive model review and
@@ -1055,10 +891,7 @@ on, well, going forward obviously on these high-priority models, but also extend
 of the lower models. So while I can't give you a actual reserve number, what I can tell you
 is that we've covered all of the material and larger-ticket models with this update.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 In terms of the general insurance in the Netherlands, as you know, they have two parts.
 One is, I will call it property and casualty. That's where we've seen a number of
 exceptional large claims. They relate to number of fires which we have had. You don't
@@ -1097,9 +930,7 @@ many other parts of the world. The responsibility shift goes to the individual a
 the heart of our strategy, but we will do that only if we're able to achieve our pricing
 requirements. Thank you.
 
-Q - Jan Willem Knoll
-
-{BIO 18247722 <GO>}
+Q - Jan Willem Knoll {BIO 18247722 <GO>}
 
 Bloomberg Transcript
 
@@ -1108,10 +939,7 @@ Okay. Thanks.
 Operator
 We will now take our next question from Steven Haywood from HSBC. Please go ahead.
 
-Q - Steven A. Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven A. Haywood {BIO 15743259 <GO>}
 Hi. Good morning. Thank you for taking the questions. I just wanted to clarify something.
 The model update for hedging costs on your GMWB VA book in the fair value items, this
 €46 million, what exactly does this relate to on this – on the change in the model update
@@ -1121,10 +949,7 @@ And second question, I see there's an adjustment for lower yields of about minus
 million in the Americas line. Can you just clarify whether this is an addition to the $10 million
 per quarter charge that you disclosed or is this related to that?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yeah, Steven. It's Darryl. On the – I'll take both of those. On the first question, specifically,
 what we've done, you're right, we've made no change to our dynamic hedge program on
 the GMWB. That's fully intact. What this involves is projecting that program into the future.
@@ -1150,23 +975,14 @@ standing guidance, if you will. This is very much a onetime impact. And I wouldn
 this to recur next quarter. The standing guidance on the impact in rates is just the ongoing
 investment yield drag that comes from persisting in the low interest rate environment.
 
-Q - Steven A. Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven A. Haywood {BIO 15743259 <GO>}
 Thank you. And then just a follow-up on the last one, that standing guidance that's not
 changed either?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 No, it is not.
 
-Q - Steven A. Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven A. Haywood {BIO 15743259 <GO>}
 Okay. Thank you.
 
 Bloomberg Transcript
@@ -1181,10 +997,7 @@ question. But could you maybe once more give some color on the change in valuati
 the Dutch mortgages? And to what extent can this be described as accepting that the
 losses on the mortgages are higher than the model previously expected?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yeah. Archie, it's Darryl. First, let me deal with the last part of your question first. It actually
 has nothing to do with expected higher losses on the mortgage. Let me be perfectly clear
 on that. We still feel as good today as we did yesterday on the quality of the Dutch
@@ -1213,10 +1026,7 @@ but what was the previous requirement and how much has it increased?
 
 FINAL
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Well, that goes into our actual overall IGD ratio. So, what you have to understand is that
 the fair value of the mortgage book is inside of the IGD calculation. So, we reduced the
 fair value of the mortgages by €500 million. And that's €500 million on a €26 billion, €27
@@ -1225,10 +1035,7 @@ billion mortgage-based, so to put that into some context, if you will.
 Q - Archie van Riemsdijk
 Okay. So, you have no number for the total capital requirements of this...
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 I don't...
 
 Q - Archie van Riemsdijk
@@ -1236,29 +1043,20 @@ Mortgage book?
 
 Bloomberg Transcript
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 I think that's something you can follow up with Investor Relations or Robin actually would
 probably be your best contact...
 
 Q - Archie van Riemsdijk
 Okay.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 On that.
 
 Q - Archie van Riemsdijk
 Great. Thank you.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Okay.
 
 Operator
@@ -1282,10 +1080,7 @@ But regarding the assumption review on slide 3, it says that a review of the low
 models will continue throughout 2015. Will that then lead to further adjustment to
 quarterly earnings? Will that have another impact?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Maud, it's Darryl. I can't promise that it won't, but I don't expect it to. It's probably the best
 thing that I can say. And we've taken into this quarter everything that we can see or would
 expect. The other thing I would mention is that we've really dealt with the more material
@@ -1297,10 +1092,7 @@ would have at this point an equal chance of being positive and negative.
 Q - Maud van Gaal
 Thank you (52:02).
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Okay
 
 Bloomberg Transcript
@@ -1309,10 +1101,7 @@ Operator
 As there are no further questions in the queue, I would like to turn the call back to our
 host for any additional or closing remarks.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah. I just would like to thank you for participating in this call and thank you for your
 continued interest in Aegon. And have a good day. Bye-bye.
 

@@ -25,10 +25,7 @@ results conference call. All lines have been placed on mute to prevent any backg
 the speakers' remarks, there will be a question and answer session. (Operator Instructions) Dennis
 Westfall, Vice President of Investor Relations, you may begin your conference.
 
-Dennis Westf all
-
-{BIO 15155973 <GO>}
-
+Dennis Westf all {BIO 15155973 <GO>}
 Thank you, Adam. Good morning, everyone. A link to our live webcast and background information
 for the call is posted on our website at www.intactfc.com under the investor relations tab. As a
 reminder, this slide presentation contains a disclaimer on forward-looking statements which also
@@ -40,10 +37,7 @@ Q&A session. Martin and Alain will also be available to answer your questions du
 session.
 With that, I will now ask Charles to begin his remarks.
 
-Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+Charles Brindamour {BIO 7012323 <GO>}
 Thanks, Dennis. This morning, we announced the Second Quarter net operating income of
 CAD180 million, or CAD1.35 per share -- that's 55% higher than a year ago -- continuing our
 quarterly trend of solid operating results. Our strong broad-based underwriting results were
@@ -123,9 +117,7 @@ believe that we will continue to outperform the industry and strengthen our lead
 the coming months and years.
 And with that, I will now turn the call over to our CFO, Mark Tullis.
 
-Mark Tullis
-
-{BIO 4180270 <GO>}
+Mark Tullis {BIO 4180270 <GO>}
 
 Bloomberg Transcript
 
@@ -186,10 +178,7 @@ to build. With that, I'll turn the call back to Dennis.
 
 Bloomberg Transcript
 
-Dennis Westf all
-
-{BIO 15155973 <GO>}
-
+Dennis Westf all {BIO 15155973 <GO>}
 Thanks, Mark. Adam, we are now ready to take questions.
 
 Questions And Answers
@@ -200,16 +189,10 @@ Q - Andre Hardy
 My line of questioning is around the CAD75 million of gross catastrophe cost in the quarter. So first
 of all, was that all Montreal and Thunder Bay?
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
-
+A - Mark Tullis {BIO 4180270 <GO>}
 Yes, largely.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Largely, yes.
 
 Q - Andre Hardy
@@ -217,10 +200,7 @@ Okay. So when we look at the industry numbers. And I realize you don't come up w
 numbers; someone else does. But 75 into 200 implies 37% market share. So I presume you have a
 lower market share. But correct me if I'm wrong.
 
-A - Martin Beaulieu
-
-{BIO 15316652 <GO>}
-
+A - Martin Beaulieu {BIO 15316652 <GO>}
 Yes. You are right that we don't have 37% market share. But it's significantly higher than our
 national market share.
 
@@ -236,10 +216,7 @@ feel that you are being conservative? And if you can't really answer it the way 
 question, perhaps you could help us understand -- of the CAD75 million, how much of it relates to
 claims you have already received versus an estimate of claims that you will be receiving?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes, I think just a couple of points, Andre. The first point is that our view is that our market share in
 this market is probably greater than our national market share, which is at 17. And therefore not yet
 37%. And the second point. And we've seen that in the previous cats in the West last year, is that
@@ -250,9 +227,7 @@ And what proportion of those two factors are driving the difference, I'm not 100
 we don't have the industry data on that. But these are the two main reasons, absolutely no doubt.
 And Mark, maybe you want to comment?
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
+A - Mark Tullis {BIO 4180270 <GO>}
 
 Bloomberg Transcript
 
@@ -260,23 +235,14 @@ Well I think the other thing to your question -- how certain are we? Obviously, 
 evolve through time. But these are May cats. So we have had a couple of months look at them and
 feel fairly confident with our estimate this point.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes. If you want to get a sense of how much is unreported versus -- or how much is IBNR versus
 case reported, do you guys have that information?
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
-
+A - Mark Tullis {BIO 4180270 <GO>}
 Yes. We'll report to that.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 So I think that was the second part of your question, Andre.
 
 Q - Andre Hardy
@@ -285,10 +251,7 @@ Yes, I'll wait for the answer later, thank you.
 Operator
 Tom MacKinnon, BMO.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 A specific question kind of really -- or two of them, one with respect to page five of the
 supplement. There's a -- and you may have addressed this in some of your remarks. But I just
 didn't hear -- I didn't get to the opening of the call. But there's corporate expenses and other,
@@ -296,17 +259,12 @@ which are, in fact -- these things jump all over the place here on page 5. But t
 in the First Quarter and then positive 4 in the second. And we don't have a feeling for what they
 are or how they should trend, going forward.
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
-
+A - Mark Tullis {BIO 4180270 <GO>}
 Go ahead with your second question.
 
 
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 
 FINAL
 
@@ -317,10 +275,7 @@ should we able to -- should we think of that going forward? And it looks like th
 development was across all business lines here. And how much of that would have been
 attributable to the AXA book?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes. So I think that we are not changing our view on the long-term pattern in the 3-ish range. I think
 that the level above the long-term range is, in part, driven by the AXA portfolio. And it is also, in
 part, driven by the fact that the environment, the core environment across the lines of business
@@ -329,9 +284,7 @@ taken is still there. But as the time passes, clearly favorable development on t
 have been slightly higher than historically they have been.
 So we will go back to your first question, Tom.
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
+A - Mark Tullis {BIO 4180270 <GO>}
 
 Bloomberg Transcript
 
@@ -341,48 +294,31 @@ cutoff dates. And so there was some sort of noise that went through in Q1 to mak
 that the cutoff timing was earlier for AXA. So you could use some of that as a catch-up/true-up sort
 of thing. So I think, for purposes of anticipated going forward, I would view Q2 as more normal.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 And is that number, then, going to be modestly positive, kind of ? If we got a 4 per quarter, is that
 what we should be thinking about going forward?
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
-
+A - Mark Tullis {BIO 4180270 <GO>}
 Well I think if you look at -- and I'm not only looking at the corporate expenses and others. But sort
 of that whole chart there. So the distribution revenues -- there is an increment because of
 distribution that we picked up from AXA. So the 23 versus, say, prior year's -- that's a bona fide
 increase from AXA.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 We've got more distribution (multiple speakers).
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
-
+A - Mark Tullis {BIO 4180270 <GO>}
 Correct. I think if you look at the pattern of what's been going on in the corporate expenses and
 others in prior years where it sort of bounces around from minus a little bit to plus a little bit, that's
 the sort of pattern that you will see going forward in the expense line.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 Okay. Thank you.
 
 Operator
 Doug Young, TD Securities.
 
-Q - Doug Young
-
-{BIO 5640851 <GO>}
+Q - Doug Young {BIO 5640851 <GO>}
 
 
 
@@ -396,10 +332,7 @@ getting a little more competitive. I'm just wondering how much more improvement 
 expecting, or what other changes might be coming that would provide further improvement for
 the industry?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Well I think the first point I'd like to make, Doug, is that in 2012, you've got about 4% of rates
 running through the system coming from rate approvals from 2011. Okay? And so that's the impact
 on the written premium of the industry this year, is about 4%. The earned impact will be higher
@@ -421,36 +354,24 @@ much the other way in Ontario. So as far as we're concerned, the industry is sti
 100%. Interest rates are putting additional pressure on the industry players and our view has not
 really changed unless additional cost reduction measures are taking effect.
 
-Q - Doug Young
-
-{BIO 5640851 <GO>}
-
+Q - Doug Young {BIO 5640851 <GO>}
 I guess, Charles, maybe just to ask you -- and I don't know if you can answer this or not. But is it
 realistic to think Ontario auto, from an industry perspective, could get down to 95%, considering all
 of these changes?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Well I don't think that the industry combined ratio has to go down to 95% in Ontario because this is
 a line of business with a fairly long tail. And as a result, it is a line of business that has more
 investment income potential than other lines of business. But it's not unreasonable to think that the
 combined ratio of the industry should be below 100% in that line of business for the market to be
 healthy and optimal in terms of desire for growth.
 
-Q - Doug Young
-
-{BIO 5640851 <GO>}
-
+Q - Doug Young {BIO 5640851 <GO>}
 Okay. Then just on the mediation backlog, I think you quoted that it has been down for Intact 25%
 from the peak in 2011, which I think is the same amount that it was down in Q1. Has there been any
 improvement for Intact sequentially?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 No. It's about a third. And there hasn't been material improvements in the past few months. We
 keep seeing the good trend. But they're at -- because new mediations are coming in the system at
 the same time. So we are about at the same level of reduction.
@@ -467,82 +388,50 @@ help that will come on the mediation front could address 2000 mediations per mon
 when you look at a backlog of about 30,000 mediations, these are more than light measures that
 the government is considering to take action there.
 
-Q - Doug Young
-
-{BIO 5640851 <GO>}
-
+Q - Doug Young {BIO 5640851 <GO>}
 It's fair to say it's still going to take a long time to deal with? Like this isn't going to be a 2013
 event? Is that fair to assume as well?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes. I think it's fair to say that to get to certainty, you probably have a good 6 to 12 months ahead
 of us there. I don't think the backlog will go to zero. It will reach a run rate that is more reasonable
 than where we are now.
 
-A - Martin Beaulieu
-
-{BIO 15316652 <GO>}
-
+A - Martin Beaulieu {BIO 15316652 <GO>}
 And we don't need the backlog to go to zero --
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 Bloomberg Transcript
 
 No --
 
-A - Martin Beaulieu
-
-{BIO 15316652 <GO>}
-
+A - Martin Beaulieu {BIO 15316652 <GO>}
 -- to eliminate the uncertainty. I think we need a volume of decisions coming from these
 mediations or outcomes.
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
-
+A - Mark Tullis {BIO 4180270 <GO>}
 Yes. No, exactly. And I think, Doug, the dynamic -- when you look at the outstanding mediations,
 part of the issue is that you've got -- what is it? It's 75%-80% coming from pre-reform claims.
 
-A - Martin Beaulieu
-
-{BIO 15316652 <GO>}
-
+A - Martin Beaulieu {BIO 15316652 <GO>}
 That's right.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 So you hear that the backlog is dropping. And you say, well, okay. So when do we get clarity? Well
 part of the issue is that what is dropping are pre-reform claims, hence the uncertainty around the
 reform claims, even though the backlog drops; it's still there. But when I look at the core operation,
 the benefits are coming in as anticipated.
 
-Q - Doug Young
-
-{BIO 5640851 <GO>}
-
+Q - Doug Young {BIO 5640851 <GO>}
 Just one last one -- organic growth on the direct insurance, organic growth in Ontario auto. You've
 given the number last few quarters. But I didn't see it in your release. Do you have that number
 handy?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes. It's north of mid-single digit on the direct side of the house.
 
-Q - Doug Young
-
-{BIO 5640851 <GO>}
-
+Q - Doug Young {BIO 5640851 <GO>}
 Okay, good, thank you.
 
 
@@ -552,10 +441,7 @@ Operator
 
 FINAL
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 Charles, I want to pursue that line a little further, the questioning about the backlog. I understand
 that as much as three quarters relate to pre-reform mediation. But if you do go through -- if the
 industry goes through 2000 a month, you are going to be (through) 6000, presumably, over the
@@ -565,15 +451,10 @@ to have a lot of information. What would be helpful to understand is, does it ma
 matter to Intact what the industry learns if, in fact, Intact has already been through, say, 25% of the
 peak backlogs? Does it matter to you what the industry actually reports?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes. I'll let Martin --
 
-A - Martin Beaulieu
-
-{BIO 15316652 <GO>}
+A - Martin Beaulieu {BIO 15316652 <GO>}
 
 Bloomberg Transcript
 
@@ -582,52 +463,32 @@ become the interpretation of the product on a go-forward basis. And we would be 
 decisions. But assuming that these mediations are aligned with what arbitrations or court decisions
 would be. But that's the assumption we are going.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 I think arbitrations are binding and become common, long mediations not as much. But there's a
 backlog in arbitration, as well. And yes, there's an influence from other case settlements on our
 own cases, as such, caution on our part, Mario.
 
-A - Martin Beaulieu
-
-{BIO 15316652 <GO>}
-
+A - Martin Beaulieu {BIO 15316652 <GO>}
 Because, if we go to mediations, these will be the same outcomes that we will get as the rest of
 the industry.
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 Okay.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 The second point, Mario, is that one should not assume that third-party-providers are necessarily
 crunching 2000 files right now. You know, they have not started. I think that's the intent of the
 government. They are far down the road. And I'm not exactly sure when it will start. It will be in the
 coming months. That's why I want to be cautious on that front.
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 So if not next quarter, then presumably by the end of this year, you are going to (multiple
 speakers) have a lot of information?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes. I think we will have more information by the end of this year.
 
-A - Martin Beaulieu
-
-{BIO 15316652 <GO>}
+A - Martin Beaulieu {BIO 15316652 <GO>}
 
 
 
@@ -635,60 +496,39 @@ The plan was for this to start by the end of the summer.
 
 FINAL
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes. But as every quarter progresses, we'll get more information. I think that our results to date
 show that the reforms are effective. As you know, we've said we are taking a cautious stance on
 the files that are in mediation. And if mediation and arbitration pans out as the reform anticipate,
 then I think that that will be positive. There's no doubt about it. But it's too early to tell or reflect
 that positive outcome, because it's not yet an outcome.
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 Can we take anything from the 2% reduction in the backlog? Those mediations that were resolved
 -- the resolutions that came through this quarter, were they favorable? Were they unfavorable? Is
 there anything you can offer there?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 No.
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 Just not enough information?
 
 Bloomberg Transcript
 
-A - Martin Beaulieu
-
-{BIO 15316652 <GO>}
-
+A - Martin Beaulieu {BIO 15316652 <GO>}
 That's not enough information, because a lot of these mediations that are for the post-reform are
 around the minor injury guidelines. But no two cases are exactly the same. And you need to
 develop a certain volume to see patterns arising. So what we see as of yet -- there's nothing to
 cause an alarm. But that's not enough to change our pattern.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes, exactly. And let's go back to the point that if three quarters come from pre-reform claims,
 obviously the first claims to fall off the backlog are likely to be pre-reform claims. And I think where
 we express a view on uncertainty is more on the effect of the reforms themselves. Therefore, that
 will come at the tail end of dealing with the backlog issue.
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 I see. Then finally, when you do have information -- and, Martin, you made the point -- we don't
 need 100% resolution of the backlog. But at some point you are going to have enough information.
 Assuming the resolution is favorable, what sort of things can we expect? Would we expect to
@@ -696,10 +536,7 @@ release a big positive reserve development in a given quarter or two? And could 
 current year claims ratio to improve, if in fact the resolution is favorable? I'm just trying to think of
 how this could manifest itself in your results going forward.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes. I think that our stance to date has been to say, all right, this is what we observe as files come
 in. And let's take a cautious stance in terms of both reserving. So to speak. And we've been doing
 that for now close to two years or 18 months, since the reforms.
@@ -707,36 +544,25 @@ As I don't think certainty will come in a quarter but will likely come over time
 there could be favorable development slightly in excess of the historical pattern. But not on a
 structural basis. It would happen over a number of quarters, as the information becomes clearer.
 
-Q - Mario Mendonca
+Q - Mario Mendonca {BIO 2450557 <GO>}
 And it would be temporary?
-
-{BIO 2450557 <GO>}
 
 
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes, I think so. I think, we have seen, Mario, the 12 points that I've been talking about since the
 reforms, materialized in the results throughout the latter part of 2011 and this year. And structurally,
 will there be much more than that? I don't think so.
 
 FINAL
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 Thank you very much.
 
 Operator
 There are no further questions at this time. I'll turn the call back to the presenters.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Well I think I'd like to come back to Andre's earlier question about the Second Quarter cat level and
 your question in relationship with our number versus the industry's number. My point was that we
 tend to be quick to get to the ultimate number in terms of reserving. At the end of the quarter, on
@@ -759,28 +585,20 @@ of cats.
 I don't hear Andre's reaction because he's not on the line. But I trust that's what you are after. I
 think that's it.
 
-A - Dennis Westf all
-
-{BIO 15155973 <GO>}
-
+A - Dennis Westf all {BIO 15155973 <GO>}
 I think there's one more question on the line. Go ahead.
 
 Operator
 Tom MacKinnon, BMO.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 Yes. Thank you very much, Charles. With respect to -- you talked about potential improvements in
 Ontario auto. And one of them was this definition of cat. Now, I assume that has to be -- does that
 have to do with the stacking? Where do we stand in terms of stacking? And I know you took a
 reserve to suggest if the outcome was going to be negative in terms of that interpretation. Are we
 looking at any change in the rules with respect to stacking?
 
-A - Martin Beaulieu
-
-{BIO 15316652 <GO>}
+A - Martin Beaulieu {BIO 15316652 <GO>}
 
 
 
@@ -791,75 +609,46 @@ that would not change the past. But it could change the future.
 
 FINAL
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes. And in terms of whether the previous decisions which allowed stacking, whether that's holding
 or not -- Tom, I think part of the issue in cats is you don't get a large number of cats. These are
 small numbers. They just happen to be high severity. So I think, still, same story there.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 So if -- you said they reversed the trend in the courts. Now, does that mean if there's -- I mean, you
 set up a reserve to handle this in the Fourth Quarter. Why wouldn't that reserve --
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 (multiple speakers)
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 Okay. So it doesn't apply retroactively to those open claims, then?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 Bloomberg Transcript
 
 No.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 Okay. Thanks for that clarity.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Okay, no problem.
 
 Operator
 Doug Young, TD Securities.
 
-Q - Doug Young
-
-{BIO 5640851 <GO>}
-
+Q - Doug Young {BIO 5640851 <GO>}
 Just on the commercial side, I believe it was mentioned -- and correct me if I'm wrong -- that there
 was a decrease in severity on commercial P&C. And I know, last quarter, you had a number of large
 fire-related losses. Now, was there, again, another increase in severity this quarter in commercial
 P&C? And if so, can you give some details around that?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 I'll ask Alain Lessard, our Senior VP Commercial Lines, to take this one.
 
-A - Alain Lessard
-
-{BIO 17592535 <GO>}
-
+A - Alain Lessard {BIO 17592535 <GO>}
 Okay. Well on the severity side, the loss ratio -- the current year loss ratio for the quarter dropped
 by about a point, which was largely due to the catastrophe, the Slave Lake fire last year, which
 affected us in commercial lines. But going back to large losses, last quarter we reported a surge in
@@ -874,27 +663,18 @@ from quarter to quarter.
 
 FINAL
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 The bump in severity that we've observed in Q2, Doug, was, in part, driven by a number of
 reserving calls we had made. So nothing to be concerned about in relationship with large losses.
 And I would say, nothing to be concerned about in relationship with the performance of that line.
 
-Q - Doug Young
-
-{BIO 5640851 <GO>}
-
+Q - Doug Young {BIO 5640851 <GO>}
 Okay. Great, thank you.
 
 Operator
 There are no further questions at this time.
 
-A - Dennis Westf all
-
-{BIO 15155973 <GO>}
-
+A - Dennis Westf all {BIO 15155973 <GO>}
 Thank you, everyone, for participating. The webcast will be archived on our website for one year. A
 telephone replay will be available at 2 PM today until Wednesday, August 8. The replay number is 1855-859-2056. And the passcode is 95492189. A transcript will also be available on our website.
 Please note that our Third Quarter results for 2012 will be released on November 7. That concludes

@@ -32,10 +32,7 @@ Call. Today's conference is being recorded.
 At this time, I would like to turn the conference over to Mr. Becker-Hussong. Please go
 ahead, sir.
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you. Hello, everyone. Good afternoon, and a warm welcome to our Q2 2017
 earnings call. Today's set-up is simple and straightforward. Jörg Schneider, our CFO, is
 today's speaker. And after this short introduction, we will jump right into Q&A.
@@ -61,10 +58,7 @@ Operator
 Thank you. We will take now our first question from Nadine van der Meulen from Morgan
 Stanley. Please go ahead.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Good morning. Thank you for taking my question. I suppose the first question I have was
 on the solvency. That improved quite a lot at 261%. That's 41% above the top end of the
 target range. And based on the SCR end of year, that implies around €6 billion of excess. I
@@ -121,10 +115,7 @@ Health, and also there's a very good result from travel business, which is also 
 segment here.
 Does it answer your question?
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Yes. It does. Thank you.
 
 Operator
@@ -132,10 +123,7 @@ Thank you. We will now move on to our next question from Thomas Seidl from Berns
 
 Bloomberg Transcript
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yeah. Good afternoon. First question on life reinsurance. Every now and then, the
 recapture of old (06:14) legacy business, underperforming business resurface. So my
 question here would be, can you give us a sense of how much more you can store there
@@ -187,9 +175,7 @@ whole, very profitable going forward and of which the profitability even increas
 result of such deals, transactions. Therefore, we are still very positive about these
 transactions and they improve the quality of the portfolio overall.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
+Q - Thomas Seidl {BIO 17755912 <GO>}
 
 Bloomberg Transcript
 
@@ -204,10 +190,7 @@ And by the way, the prognosis, which we gave for our life IFRS technical result 
 far away from being certain. So it can end up as being higher, but it can also end up as
 being lower due to the impact of these one-time transactions of these recaptures.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 All right. Very clear. Thank you very much.
 
 A - Jörg Schneider
@@ -224,9 +207,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2017-08-09
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 
 FINAL
 
@@ -283,9 +264,7 @@ Date: 2017-08-09
 so on, because that could then show the difference between Munich Re and some of the
 competitors.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 
 FINAL
 
@@ -298,9 +277,7 @@ Operator
 Thank you very much. Ladies and gentlemen, we now take a question from Jonny Urwin
 from UBS. Please go ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
+Q - Jonny Urwin {BIO 17445508 <GO>}
 
 Bloomberg Transcript
 
@@ -344,9 +321,7 @@ Therefore, we are confident that these are good steps. But I wouldn't draw the c
 that now there is the opposite direction for the renewals to come. I think Swiss Re, as we
 do, will decide on a case by case basis what they are doing.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
+Q - Jonny Urwin {BIO 17445508 <GO>}
 
 FINAL
 
@@ -438,10 +413,7 @@ Operator
 Thank you. And we will now take a question from Andrew Ritchie from Autonomous.
 Please go ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Page 8 of 18
 
 
@@ -505,9 +477,7 @@ Date: 2017-08-09
 we see a lot of negative impact from what see currently on the political scene. Thank you.
 Andrew.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 FINAL
 
@@ -516,10 +486,7 @@ Thanks. [Technical Difficulty] (30:18)
 Operator
 Thank you. We now take a question from Kamran Hossain from RBC Capital Markets.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi. Three questions. The first one is on performance of risk solutions. Obviously we saw
 some problems that Swiss Re's primary insurance unit last week. Just any comments on
 performance there will be helpful.
@@ -563,9 +530,7 @@ Date: 2017-08-09
 best estimate, setting the claims reserves, and that is 4% there. Perhaps, I leave it to you
 to judge.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 
 FINAL
 
@@ -577,9 +542,7 @@ Thank you. Thank you, Kamran.
 Operator
 Thank you. We now move on and take our next question from Ivan Bokhmat from Barclays.
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 
 Bloomberg Transcript
 
@@ -633,10 +596,7 @@ hurricane phase. So our expectation for major losses in the second half are much
 than those for the first half of the year. And therefore, I think for the time being, it's
 realistic to expect a lower second half result.
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 Thanks.
 
 A - Jörg Schneider
@@ -648,10 +608,7 @@ Malhotra from Mediobanca.
 
 Bloomberg Transcript
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Good afternoon. Thank you for the opportunity. Just to check again, if you don't mind,
 the P&C Re growth outlook is a bit more optimistic on your commentary, Jörg, but when I
 look at the organic change trend, between nine months, full-year, 1Q, suddenly 2Q seems
@@ -670,10 +627,7 @@ A - Jörg Schneider
 Vinit, hello. I'll try the first. I'm not so sure whether I can give you a satisfying answer. Did
 you talk about the growth in assets?
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Sorry. Apologies. I combined P&C Re, very sharp fall in 2Q organic top-line. And also, that
 the P&C Re asset base has fallen from 65 (40:43)...
 Page 12 of 18
@@ -730,10 +684,7 @@ And now we are all a little bit positively surprised. There's a little bit of vo
 numbers, but most of this volatility fits perfectly to the sensitivities which we gave you in
 the analyst conference.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Page 13 of 18
 
 
@@ -754,10 +705,7 @@ Operator
 Thank you. We now move on to our next question from Frank Kopfinger from Deutsche
 Bank. Please go ahead.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Yes. Good afternoon, everybody. I have two questions. My first question is on your regular
 investment income, especially in reinsurance and given that Q2 is typically a dividend
 season and given that I would assume that you hold the majority of your equity's
@@ -798,10 +746,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2017-08-09
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay. Thanks.
 
 A - Jörg Schneider
@@ -814,9 +759,7 @@ Operator
 Thank you, ladies and gentlemen. We will now take a question from Michael Huttner from
 JPMorgan. Please go ahead, sir.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 
 Bloomberg Transcript
 
@@ -875,10 +818,7 @@ contribution margins, yeah. They are slightly increasing and not decreasing unde
 circumstances. Therefore, the cycle is what it is. We do not expect a major change, but we
 can live with the current level quite well.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Just on the profitability, can you give a feel for the magnitude of the increased
 contribution or better rollback (53:39) or something? Are we talking about 1 basis point or
 1,000 basis points for the (53:48) basis points or is it more like 0.5% to 1% or maybe 2%?
@@ -891,10 +831,7 @@ calculation. But just as a rule of thumb, it's somewhere between 0.5% and 1%. Th
 that instead of a minus 0.4%, we would have a plus little bit. At least the bottoming of the
 profitability, yeah, and slight increase in internal returns on risk adjusted capital.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Okay. Thank you very much.
 
 A - Jörg Schneider
@@ -904,10 +841,7 @@ Operator
 Thank you, ladies and gentlemen. And we now move on and take our last question from
 William Hawkins from KBW.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thanks for squeezing me in. Hi, Jörg. Could you be a little bit more precise, please, on the
 helpful color you've given about the Solvency II ratio? I'm seeing as its bounced around a
 lot. So for example, can you just tell us what's the numerator and the denominator as of
@@ -942,9 +876,7 @@ of the models are in a very mature stage. But still, it's difficult on a quarter
 have to back – for your understanding, if in this next quarter, there are still another
 change, a slight change, but it's a very pleasing picture overall.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
@@ -958,10 +890,7 @@ Thank you very much, ladies and gentlemen. That will conclude today's Q&A sessio
 I will now hand back to Mr. Becker-Hussong for any additional or closing remarks. Thank
 you.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Yeah. Thank you. There's nothing really to add from my side. Thanks to all of you for
 joining us this afternoon. And please don't hesitate to call for any further questions.
 Thanks again and bye-bye for now.

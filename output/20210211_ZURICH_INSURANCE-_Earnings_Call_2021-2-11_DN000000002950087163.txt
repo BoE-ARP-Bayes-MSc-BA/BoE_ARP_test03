@@ -38,10 +38,7 @@ At this time, it's my pleasure to hand over to Mr. Richard Burden, Head of Inves
 Relations and Rating Agency Management.
 Please go ahead sir.
 
-Richard Burden
-
-{BIO 1809244 <GO>}
-
+Richard Burden {BIO 1809244 <GO>}
 Good morning, good afternoon everybody. Welcome to Zurich Insurance Group's Full
 Year 2020 Results Q&A Call. On the call today is our group CEO, Mario Greco; and our
 Page 1 of 22
@@ -60,10 +57,7 @@ FINAL
 
 So, with that, I'd like to pass it over to Mario.
 
-Mario Greco
-
-{BIO 1754408 <GO>}
-
+Mario Greco {BIO 1754408 <GO>}
 Thank you Richard, and good afternoon ladies and gentlemen, and thank you very much
 for joining us today. I'd like to give you a few remarks before handing over to George.
 2020 has been an unprecedented year with unforeseeable events of ranging from global
@@ -121,9 +115,7 @@ FINAL
 I will now hand over to George to make some additional remarks.
 Thank you.
 
-George Quinn
-
-{BIO 15159240 <GO>}
+George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -168,10 +160,7 @@ Date: 2021-02-11
 
 FINAL
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Hi, good afternoon everybody. I've got two questions please. The ﬁrst one on, so where
 you are in terms of rate increases versus claims inﬂation. One of your US peers they have a
 very similar price increase as yourselves in the fourth quarter was talking about 4% claims
@@ -181,21 +170,13 @@ got the SST bridge for 2020 in the market movements piece of 16 points for marke
 volatilities, is that main interest rate volatility and I wonder whether you could come up
 with any of those reversed already in 2021. Thank you very much.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So Jon, it's George. So maybe on the pricing point ﬁrst, can you hear me, okay?
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Yes, loud and clear, George.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -251,10 +232,7 @@ elevated volatility I assume, I mean the markets come down, it will average down
 have that type of impact in the reported number -- I would expect for most of 2021 if not
 into early 2022.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Okay. It's very clear. Thank you.
 
 Operator
@@ -263,10 +241,7 @@ Bloomberg Transcript
 
 The next question is from Peter Eliot from Kepler Cheuvreux. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you very much. Sorry, the ﬁrst one is on solvency George. But, I mean I guess you
 always set the quarterly Z-ECM ratio estimates were accurate within 5 percentage points.
 It sounds like this was a more of a sort of one-oﬀ event. I mean, should we sort of think
@@ -279,10 +254,7 @@ surprised that you were guiding to sort of only a drop of 50 to 100 for the whol
 2021. So, I'm just -- I wonder if you can, I mean is that just explained by the maturity proﬁle
 of the assets or is this sort of something else that I'm missing there. Thank you very much.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes, thanks Peter and no need to apologize for the ﬁrst question. So, I mean I think all of
 you would expect the numbers to be pretty accurate, so that's what you can expect from
 us going forward. I mean, we made changes in Q4, which was to automate quite a bit of
@@ -312,18 +284,12 @@ expecting to see some of the absence of dividends in 2020 start to recover in 20
 think it's those two things that oﬀset to some degree, which is why you're hitting that $50
 million to $100 gains.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Yes, that's great. I guess I was thinking of the dividends more sort of H1 phenomenon
 whereas I was sort of looking at the running yield on H2. But I appreciate, there's a lots of
 moving parts. Thanks a lot.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you.
 
 Operator
@@ -332,10 +298,7 @@ Bloomberg Transcript
 
 The next question is from Andrew Ritchie from Autonomous. Please go ahead.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi there. First question is on your outlook for NEP growth in P&C, I guess if I have been
 writing the press release I would have been tempted to say mid to high single digit, I'm
 just trying to unpack kind of your guidance of mid-single digit, which I assume is 5,
@@ -349,10 +312,7 @@ you do that again in the second half and on reserves I noticed Australia or Asia
 the gift to keep giving what is it, was there another sort of round of looking at some of the
 long tail business there. There appears to be looking at the PYD by division. Thanks.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thanks Andrew. So on outlook, I think I'd probably start by saying that we wouldn't
 necessarily conclude that mid single digits, could only encompass 5 and so we might be
 slightly more generous than that. I agree with you that it's only compared to -- there are
@@ -392,34 +352,22 @@ position.
 
 Bloomberg Transcript
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 So, is it fair to say not all of that -- I think you said this earlier on, I just wanted to clarify, not
 all of the frequency beneﬁt was allowed to drop through, some of that has been trapped
 in reserves, is that fair?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes, that's fair. So, just given the uncertainties that are still out there, we've decided it's
 appropriate to hold some of that back for them.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay, thanks very much.
 
 Operator
 The next question is from Farooq Hanif from Credit Suisse. Please go ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi everybody. First question on expense ratio, so you've very kindly shown what the ratio
 would have been without the premium refund eﬀect. Can we just take that as a base for
 2021 and can you talk a little bit about how, given the commission ratio seems to be
@@ -440,10 +388,7 @@ support that number going forward. Thanks a lot.
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thanks Farooq. So on the ﬁrst one on the expense ratio, so, I think I need to be a little bit
 careful what I say, I think, I mean as a CFO, I'd love to just tell you that, yes, absolutely
 we're going to maintain expenses exactly where they are. There's clearly an expense
@@ -500,29 +445,17 @@ shortfall that'd you'd otherwise expect because of COVID in 2020.
 
 FINAL
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 So, just on that, it's possible but obviously not a guarantee that you could see the payout
 ratio being above 85% in some of the future years, as you put this into place?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 It's possible.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thank you very much.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thanks Farooq.
 
 Operator
@@ -531,10 +464,7 @@ Bloomberg Transcript
 
 The next question is from Michael Haid from Commerzbank. Please go ahead.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Thank you very much. Good afternoon. Two questions, ﬁrst on the net realized capital
 gains you had in the fourth quarter, which were signiﬁcantly above my expectations, can
 you tell us what were the motivations of this high disposals of equities and real estate. I
@@ -547,10 +477,7 @@ course but from volumes -- premiums are tied to client revenues. So, can you tel
 view on how this aﬀects the growth and maybe you can provide a breakdown of how
 much of the premium growth is price driven and how much is volume?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Michael, thanks very much. So, on the ﬁrst topic of net realized capital gains. So, you've
 got variety of drivers, so property is straightforward -- within property I think we've talked
 in the past about the fact that we've got one of our largest business units, that is probably
@@ -598,25 +525,16 @@ portfolio. So, like I think the opportunity in 2021 is played by stronger and th
 foreign exchange if we continue to be throughout the year where we are today that we're
 also boost growth and the remainder of the year.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Okay, thank you very much.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you.
 
 Operator
 The next question is from James Shuck from Citi. Please go ahead.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Hi, good morning, good afternoon everybody. George, my ﬁrst question is on the
 reinsurance recoverables, if I look at that number over the last 18 months or so, it's
 increased by close to $3 billion I think the reserves have grown over that time but even in
@@ -641,10 +559,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Okay thank you. So, on the reinsurance recoverable topic, it's tricky to look at the headline
 numbers because there is a bunch of stuﬀ in there that's with either captive relationship
 so I mean things that simply ﬂow straight through our balance sheet on the way back to
@@ -699,24 +614,16 @@ some of the portfolio simpliﬁcation that we intend to take over the next year 
 know it's a close correlation between those portfolios and the contribution to this
 particular risk.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Okay, thank you very much George.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you.
 
 Operator
 The next question is from William Hawkins from KBW. Please go ahead.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
@@ -742,10 +649,7 @@ incrementally dilutive and again activity that rate is lower, but both, everythi
 heard from Zurich over the past 18 months is about better productivity rather than tighter
 so why of those two numbers taken a bit of a hit.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yeah okay, so on the ﬁrst one on the US special is a excess of what we reported today, so
 hopefully that answered that question.
 
@@ -757,29 +661,19 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2021-02-11
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 I'm sorry. Say again?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 FINAL
 
 This special is a beneﬁt 20%, can you hear me well?
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Yes. I can George sorry. Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -809,16 +703,11 @@ advantage of that, if that was to oﬀer it. But we just think that the market c
 around that topic and not as conducive then we'll see far more driven by rate on the
 commercial side. So, I think that's really why you see some of the change, yes.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 And at the risk of stating the obvious, the retail comment you just made is COVID related,
 right?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 Page 13 of 22
 
 
@@ -829,19 +718,14 @@ Date: 2021-02-11
 
 Sorry, say that again?
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 FINAL
 
 At the risk of stating the obvious the cautionary comment you made about retail is all
 COVID related?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I mean it depends, the, so I think in my mind the way I see here is the certainly is a issue
 that's obviously knocked some parts of the business, it will take longer to recover. And I
 guess the part of our portfolio is always there is the travel topic. So you see it overall in the
@@ -851,16 +735,10 @@ environment I think that will persist for a while and it just makes I think the 
 trickier so, for us it is makes a bit more sense to allocate bit more of the capital towards
 commercial because that's what we see the stronger opportunity economy.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 That's great George, thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you.
 
 Bloomberg Transcript
@@ -868,10 +746,7 @@ Bloomberg Transcript
 Operator
 The next question is from Michael Huttner from Berenberg. Please go ahead.
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Good enough, and you must be -- in your words quite pleased I expect the numbers here
 quite cautious, but I had questions, because my peers are so good on questions, but I
 couldn't think amazingly clever. One is on Farmers and the other one is on business for
@@ -884,10 +759,7 @@ broad question kind of ﬁshing a little bit is, when you talk about allocating 
 business is the sale or can you can you say something about, there are some businesses
 with you like in the kind of mentioning retail, not so that's it. Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thanks Michael, I think I'm pleased with almost everything apart from maybe one number,
 the I think on Farmers. I mean, I remember the questions that you posed to Jeﬀ at the
 Investor Day back in 2017. When we were all together in London. I understand why you
@@ -930,18 +802,12 @@ why you made the point but perspective on, it would be completely diﬀerent, fa
 isn't the ROE will is hidden in that business growth number, so apologies -- for not with
 me did you have a second part to your question?
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Yes, it's the ﬁshing question what businesses are you thinking. So given that you just
 sound a little bit less a bit more lukewarm and retail. And then we would like to digital
 agency businesses or my favorite know determine life whatever.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So, I think. So you can appreciate the lots of reasons why I'm talking to list group of
 businesses that we may. I mean on sale in the future. I think I just one thing to be careful of
 to the comment I made to well on retail, I mean that's no, it's not a long-term perspective,
@@ -964,10 +830,7 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2021-02-11
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Thank you.
 
 Operator
@@ -976,19 +839,14 @@ FINAL
 
 The next question is from Nick Holmes from Societe Generale. Please go ahead.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hi, there. Thank you very much. Two questions please. The ﬁrst is, can you tell us more
 about what's causing the 90 percentage point diﬀerence between SST and Solvency II
 sort of which parts of the business which risk areas. And then secondly, would it just make
 sense to publish a Solvency II estimate for the Group or is that simply a waste of time, do
 you think. Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -1018,10 +876,7 @@ the diﬀerences are versus SST. We have an average about 90% currently it would
 that signiﬁcant, if you were to, move the entire group to a comparison to an internal
 model, but we're still talking about many point I understand the reason yes,
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Page 16 of 22
 
 
@@ -1038,10 +893,7 @@ if they would be on an internal model and vessel. I mean, I think you've said in
 that it's 40 to 50 percentage points around about that versus peers is that, I mean, I think
 you said that a few years ago. Is that still a valid comparison?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I think is a very substantial number and that's been the reason for only hesitation system,
 the basis for that calculation is quite all at this point today, so I want to be cautious, but as
 many times. I mean the challenges even if I calculate that number, other than to show you
@@ -1049,16 +901,10 @@ guys what is I can't do anything with it. It doesn't help me in managing the bus
 need to manage to the things that are relevant for us today and that's Swiss Solvency Test
 S&P's capital requirements and these are the things that needs to drive what we do.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Great. Fair enough. Thank you very much.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thanks Nick.
 
 Operator
@@ -1067,10 +913,7 @@ Bloomberg Transcript
 
 The next question is from Paris Hadjiantonis from Exane BNP Paribas. Please go ahead.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Yes, hi, good afternoon from me as well. The ﬁrst one on SST you've given us a minimum
 level that you're targeting, but I was wondering if you can give us an idea of what do you
 consider optimal so where should we be expecting you to operate, let's say and the
@@ -1078,10 +921,7 @@ second one is on the catastrophe ratio, which is going up to 3.5 for 2021. I was
 wondering what is driving that, is it business and exchanges higher frequency or
 something else?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Great, thanks very much. So, on the SST topic so we've obviously indicated today that
 target is to be operating or above 160 historically if you look at the numbers we've been
 closer to the 200 Mark and so, I mean I would expect that you point normally see us
@@ -1105,9 +945,7 @@ Date: 2021-02-11
 higher than it was last year. This given the growth in the portfolio overall. And it's really
 those two things in conjunction is trying to the slightly higher cat loss expectation.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 
 FINAL
 
@@ -1116,10 +954,7 @@ Thank you.
 Operator
 The next question is from Vinit Malhotra from Mediobanca. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Hi, good afternoon, George and Mario. Thank you, just very quickly, ﬁrst thing is the
 litigation risk with George. In the past and today. Well, you commented, you remain
 comfortable with puts more gradual nature regarding wordings that we have seen a
@@ -1135,10 +970,7 @@ you've given like today that 100% those value equivalent to 160 of SST, but then
 doesn't seem to be heading up on the excess capital calculation and also it's been 160
 feeling a little like compared to the peer group. Just can you comments, please.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thanks. Yes, thanks Vinit. So I guess short answer to the ﬁrst question as I remain
 comfortable. I mean I think the, I mean, is to be expected and it will not be a completely
 straight line to the outcome. The overall outcome that we expect to the ends, but if you
@@ -1174,18 +1006,13 @@ relationship into the future.
 
 FINAL
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you.
 
 Operator
 The ext question is from Ashik Musaddi from JPMorgan. Please go ahead.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 Bloomberg Transcript
 
@@ -1207,10 +1034,7 @@ correctly, I think a couple of years back, you were like pretty much focused on 
 away from commercial into retail and now we are thinking about the worst. So how do
 you think about over the cycle. Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes, great. I think on the ﬁrst one. So the what is 160 main and what were the risk as a
 combined stress in the number and I think you end up what enhance for, and it's the same
 actually for both questions. So we're trying to avoid bright line. So, even under the old we
@@ -1262,16 +1086,10 @@ So, it does need to produce a bit more. I mean that kind of diﬀerential is mea
 that we would expect it to broaden rather than narrow the capital allocation choice that
 we make makes complete estimate.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 George (multiple speakers)
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 Can I add a point -- because I don't think we ever said that we want to grow retail against
 commercial or vice versa. We want to grow both, but the cycle is not aligned into the
 times at which it's easier and more proﬁtable to grow one with respect to the other. But in
@@ -1280,16 +1098,10 @@ commission in the retail as well as we can, but again we considered the market
 opportunity as we are supposed to do and we push harder depending on what is the
 potential opportunity that we seeing in the market.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 That's very clear. Just one more question. Sorry.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Page 20 of 22
 
 
@@ -1301,51 +1113,32 @@ Date: 2021-02-11
 Hang on a second there, I would be conscious of the fact that there's a number of other
 conference calls. Just for other companies. Richard, are you happy to continue?
 
-A - Richard Burden
-
-{BIO 1809244 <GO>}
+A - Richard Burden {BIO 1809244 <GO>}
 
 FINAL
 
 I think we need to wrap-up in fairness to some of our peers out there. So, we should
 probably.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So, Ashik, if you don't mind, would be happy to catch up after the call?
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yes, that's ﬁne. It is not a problem at all.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 ...Richard and the team will address it there, but apologies -- too much.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
 So, Richard can I hand it back to you?
 
-A - Richard Burden
-
-{BIO 1809244 <GO>}
-
+A - Richard Burden {BIO 1809244 <GO>}
 Yes George. Thanks. So, thank you very much to everybody for dialing in this afternoon.
 We are aware of the outstanding questions on the call, so we will come back to you from
 the IR team post the call. Have a good afternoon and thank you for your interest.

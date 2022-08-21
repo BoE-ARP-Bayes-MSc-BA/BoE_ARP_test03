@@ -165,9 +165,7 @@ excess capital to shareholders unless we can deploy it in other value-creating o
 And with that said, I would like now to hand over to our Chief Financial Officer, Delfin Rueda.
 Delfin?
 
-Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
+Delfin Rueda Arroyo {BIO 7032761 <GO>}
 
 Bloomberg Transcript
 
@@ -292,10 +290,7 @@ Operator
 Thank you, Mr. Friese. Ladies and gentlemen, we will now start the question-and-answer session
 The first question is from Mr. Johnny Vo, Goldman Sachs. Go ahead please, sir.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Yeah. Hi. Just two questions, please. Just in terms of the operating capital generation of Delta
 Lloyd, it was €40 million this quarter which is lower than last quarter. And given the changes with
 UFR and the movement of rates in 2018, how should we think about where that capital generation
@@ -309,10 +304,7 @@ Yeah. Thanks, Johnny, and good morning. The first question will be answered by D
 then I suggest the second question on longevity to be discussed by Jan-Hendrik Erasmus. So first,
 Delfin, over to you.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. Thank you, Johnny. The operating capital generation of Delta Lloyd in the quarter was a little
 bit lower and that was – and that is not a surprise due to the, let's say, volatility that we see from
 
@@ -328,19 +320,13 @@ operating capital generation within the Delta Lloyd. But please keep in mind tha
 this is the last quarter that we will report Delta Lloyd contribution on a separate basis, as we're
 following the legal mergers and the integration of the business that won't be possible anymore.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Okay.
 
 A - Eilard Friese
 Okay. Jan-Hendrik?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Thank you, Johnny, for the question. Yeah, we've also had a new table from Statistics Netherlands,
 the CBS, that came in the back – to the end of 2017. And it did show a slightly slower increase of
 life expectancy than in the previous table. We have reflected that already in our assumptions. And
@@ -349,19 +335,13 @@ population statistics. We consider many factors when setting our actual best est
 
 Bloomberg Transcript
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Okay. Thank you.
 
 Operator
 The next question is from Mr. Matthias de Wit, Kempen & Co. Go ahead please.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Yes. Hi, good morning. Two questions. First is on the technical margin in the Dutch Life business €5
 million. If I exclude the €33 million one-offs you flagged, I get to a number significantly below
 where you were in the previous quarter. So, I understand there is some negative mortality,
@@ -377,10 +357,7 @@ helpful if you could comment on that. Thank you.
 A - Eilard Friese
 Yeah. Thanks, Matthias. Delfin, can you take those questions?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. Thank you, Matthias. So the technical margin in NN Life in the quarter has shown a negative
 performance. We have always flagged that there is a – from one quarter to another based on the
 experience variances, we have seen that. In the previous quarter, we saw some positive evolution
@@ -402,19 +379,13 @@ account to the general account, and I think it was around €50 million or so. S
 2017, with the exception of that one-off, I don't – I wouldn't mention anything extraordinary just to
 remind you that 2017 only reflects Delta Lloyd for three quarters.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Yeah. And in terms of Japan, there you quote negative contribution on Own Funds because of the
 growth of Japanese business?
 
 Bloomberg Transcript
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yeah. Of course, it does. The drag for the new business, but also includes the positive of the
 growing in-force. And as a consequence, of course, it depends on the rate of the growth. It would
 be larger than the increase. But in general, over time, we will see the growth of the in-force profit
@@ -422,19 +393,13 @@ to go. And as you know, Japan has been growing very nicely both commercially and
 profitability – IFRS profitability over the year 2016 – sorry, the year 2017, and we see that
 momentum continuing.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Okay. Very clear. Thank you.
 
 Operator
 The next question is from Mr. Robin van den Broek, Mediobanca. Go ahead, please.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Yes. Good morning, gentlemen. I think somewhere around Christmas you've issued a paper on the
 dynamic volatility adjuster. And if you look at your SFCR, you could conclude that for NN, this could
 be a potential risk. Could you maybe specify on what your best-case and worst-case assumption
@@ -448,10 +413,7 @@ A - Eilard Friese
 Well, thanks, Robin. So, the first question, Jan-Hendrik. Second one, maybe, Delfin. Yes? So, first,
 Jan-Hendrik.
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Thank you, Robin, for the question. Yes, we have, of course, taking note of the opinion. And I guess
 what they're trying to do is to create a level playing field, somehow. One of the key principles
 there, they're looking for there, is to create the right risk management incentives. That means that
@@ -463,28 +425,20 @@ that is very similar to the DNB's view, which they already expressed in 2015. So
 view (00:33:02) is now very consistent with the DNB's earlier view, I think there's no real step
 change here, and we'll pick this up as part of our regular dialog.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
+Q - Robin van den Broek {BIO 17002948 <GO>}
 
 FINAL
 
 Okay. That's very clear.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 On your second question, Robin, it depends how you look at the free cash flow in 2017. Maybe as a
 reminder, it does include a capital injection of €500 million into Delta Lloyd Life. If you exclude that,
 then the free cash flow in 2017 was €1.4 billion. In any event, the key message here is that every
 quarter or even for the full year, the free cash flow can be higher or lower than the net operating
 result, but that over time, we expect to be approximately at the same level.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Okay. Thank you.
 
 Operator
@@ -492,10 +446,7 @@ The next question is from Mr. Cor Kluis, ABN AMRO. Go ahead, please.
 
 Bloomberg Transcript
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Yeah. Good morning. Cor Kluis. Two questions. First of all, on the storm in the Netherlands, the €75
 million expected cost, could you indicate what kind of reinsurance you have for fire insurance in the
 Netherlands and at which level that would kick in basically, because it was I think somewhat higher
@@ -512,10 +463,7 @@ storm, by the way, it was a quite a big storm that hit the Netherlands. Don't fo
 28% market share roughly in fire which is, of course, the area that is most affected by this.
 But maybe, Jan-Hendrik, on the reinsurance side, how is that going be treated?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Thank you, Cor, for the question. Yeah, of the €75 million, you'll see €50 million emerge in the unit
 or segment Non-Life. The remaining €25 million will be in our internal captive reinsurer. And in NonLife, therefore, we kept roughly €50 million. We have a combination of per event and aggregate
 cover. We actually did slightly increase our reinsurance coverage this year. So of course, we
@@ -528,10 +476,7 @@ there, but the volatility net outcome is broadly flat.
 
 
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Okay. Very good. Thanks.
 
 Operator
@@ -540,10 +485,7 @@ FINAL
 
 Your next question is from Mr. Ashik Musaddi, JPMorgan. Go ahead please.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Hi. Good morning. Just a couple of questions. First of all, given that there are a lot of oneoffs in the NN Life – Netherlands Life business. Can we get some sense as to what is the recurring
 number, because if I look at slide number 11, last year was €163 million, this year is €170 million, but
 then this year you include Delta Lloyd as well. So, how should we think about in normalized run
@@ -564,10 +506,7 @@ of the commitment is that we – any excess cash that we have over time that can
 and value creating opportunity will go to – go back to shareholders over time. That's our main thing
 here. So, Delfin, maybe the first question?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. Ashik, thanks for your question. I mean, you're using the term recurring figure and as you know
 that I am a bit adverse on talking about run rates or recurring. We have seen volatility particularly in
 the profitability of Netherlands Life in the previous years. We have provided guidance for the future
@@ -575,10 +514,7 @@ of maintaining the operating result around the same level of the 2017. 2017, of 
 Delta Lloyd for only three quarters, but I think that the actual result of Netherlands Life for the full
 year is the base that we use for making that statement.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 That's clear. And just, sorry, going back to the first – to that question on capital, how should we
 think about 2018 and 2019? Is there any near-term cash outflow you're expecting apart from Delta
 Lloyd – apart from dividend? In the sense like do you have any debt repayment planned or is there
@@ -597,10 +533,7 @@ returned to stockholders, unless we can deploy it in value-creating opportunitie
 
 
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. That's very clear. Thank you.
 
 Operator
@@ -647,10 +580,7 @@ business that has grown more than 60% throughout the year. So, we will continue 
 and continue that focus on profitable growth moving forward.
 With that, Delfin, on the Dutch Life dividends.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. Thanks, Benoît. Netherlands Life had very high dividends in 2017. Part of that was the additional
 €300 million dividend that NN Life paid in the second quarter in order to facilitate the capital
 injection within Delta Lloyd Life. In the last quarter of the year, NN Life increased the dividend to
@@ -673,10 +603,7 @@ Q - Benoît Pétrarque
 So, I should strip out the kind of €300 million from the €1 billion plus you've paid this year and that
 could be kind of the level of 2018?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. I think that the €350 million was an extraordinary dividend, if you like for the second quarter,
 as I explained. And as you know, the statement that we gave about the remittances being the free
 cash flow to be above the net operating result is always mid-term objective. So, it doesn't have to
@@ -691,10 +618,7 @@ Great. Thank you so much.
 Operator
 The next question is from Mr. Farooq Hanif, Credit Suisse. Go ahead please.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi there. Thank you very much. I noticed that you've had a dip in unrestricted Tier 1 capital and your
 Solvency II ratio. You haven't really talked about this in the past, but to what extent is that going to
 be a kind of a barrier to you distributing capital? So, what kind of target levels or what – how do you
@@ -744,10 +668,7 @@ Bloomberg Transcript
 
 So with that, Delfin, can you get into the unrestricted Tier 1 discussion?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Certainly. Thank you, Farooq. So, we don't have any specific target for restricted Tier 1 or for Tier 2.
 So, we obviously see the opportunities to increase our restricted Tier 1 or Tier 2 whenever the
 opportunity comes. At this point of time, I think we are very well capitalized with the Solvency ratio
@@ -757,29 +678,20 @@ or our plans. Just to mention that for restricted Tier 1, we still have approxim
 untapped capacity. For Tier 2, that will be around €200 million. But as I said, we don't need to raise
 capital at this point of time.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Just going back on that – sorry. I mean, my question was more on unrestricted Tier 1. If the
 coverage of SCR is low and it looks low versus, let's say, from the rest of the company that you
 could pull up, I mean, is that not something that concerns you or your regulatory discussion about
 or is it really not something that you really think about?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 No. There is no discussions ongoing or internal fear about the level of – I guess, you are talking in
 terms of what is the percentage of unrestricted Tier 1 versus the total. And I think that first and
 most important is, what is the total? And from there, one has to optimize that when the
 opportunities come. So, the composition of our Tier 1 is the result of the acquisition of Delta Lloyd
 and we are comfortable with it. And we don't see at this point of time any need to amend it.
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 And we – I would add maybe, Delfin, that we also have some non-available own funds in many
 parts of the business. There is also some Tier 3 that is inadmissible. And our sensitivities that we
 published also today also reflect the impact of any Tiering already. So, you can see for yourself that
@@ -788,18 +700,12 @@ forward-looking capital generation.
 
 
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thank you.
 
 FINAL
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Then on the cost savings, I think we indicated at the Capital Markets Day that we had already
 realized around €350 million of capital synergies. Then, we also indicated that there could be
 additional benefits, but limited and mainly in the area of the reduction of the Solvency capital
@@ -821,19 +727,13 @@ the non-Solvency II entities. And this is something that going forward for the L
 have to do every quarter, so additional capital benefits will come to the extent that cost savings
 are higher than are currently estimated for.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thank you very much.
 
 Operator
 Your next question is from Mr. Trevor Moss, Berenberg. Go ahead, please.
 
-Q - Trevor D. Moss
-
-{BIO 1741504 <GO>}
-
+Q - Trevor D. Moss {BIO 1741504 <GO>}
 Good morning, gentlemen. Actually, (00:54:16). So anyway, never mind. Two areas of questioning,
 please. The first would be relating to group Disability where you've had two quarters in a row with
 pretty poor claims experience. I wonder whether you could just delve into that little bit more
@@ -853,9 +753,7 @@ poor claims experience, that's not the case. Q3 was – in Q3, we flagged there 
 volatility coming from the individual disability, while in this quarter we flagged the group Disability
 as a concern. So, that's the...
 
-Q - Trevor D. Moss
-
-{BIO 1741504 <GO>}
+Q - Trevor D. Moss {BIO 1741504 <GO>}
 
 
 
@@ -871,10 +769,7 @@ originally expected. So, I think that's – we need to follow and monitor obviou
 develop moving forward and we will take action in pricing or other components if this is needed.
 Then, Delfin the cash position.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. So, in relationship to any possible impediment for the remittances from the subsidiaries to
 continue, nothing special to highlight. So, we see all the business units being able to finance their
 own growth and basically, a dividend to the holding. But decisions were to be taken according to
@@ -890,19 +785,13 @@ there has been always a recipient of capital injection is now at a good return o
 provided a good return. And we do not expect any need to inject capital into the bank going
 forward.
 
-Q - Trevor D. Moss
-
-{BIO 1741504 <GO>}
-
+Q - Trevor D. Moss {BIO 1741504 <GO>}
 Okay. Delfin, thank you very much.
 
 Operator
 Your next question is from Mr. Steven Haywood, HSBC. Go ahead, please.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Thank you. Good morning, everyone. You had a €36 million non-recurring benefit in the Delta Lloyd
 business in the Q4. I see there's a €10 million from the asset management business of Delta Lloyd.
 But could you provide a bit more detail on where the other €26 million came from in this nonrecurring benefit? Thanks.
@@ -935,10 +824,7 @@ But please also know that cost reductions are also not quarter-by-quarter a line
 linear pattern as we also need to sometimes invest, et cetera, to get access to these cost saves.
 So, I will now hand over to Delfin for the other pieces of the question.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes, Steven, indeed the restructuring costs tend to come earlier than the actual savings. I think, as
 Lard has already indicated, we don't expect as you know the same linear progression on the
 savings, nor on the restructuring expenses. If savings are larger, they might come with the need of
@@ -951,51 +837,31 @@ Bloomberg Transcript
 
 (01:01:08).
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 So, I was forgetting the first question, but I was kindly reminded by my colleagues here.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Thank you.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 On the €36 million non-recurring of Delta Lloyd, indeed – you mentioned it, €10 million is related to
 the performance fee of the Delta Lloyd Asset Management. The rest is different aspects, more or
 less equally split between Life, Non-life and Belgium, and it includes different aspects.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Okay. Nothing specific, then?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 No. Nothing specific and nothing that could read. So, it is, as I said, near evenly spread between
 the three units, Delta Lloyd Life, Delta Lloyd Non-Life and Belgium.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Thank you very much.
 
 Operator
 And the next question is from Robin van den Broek, Mediobanca. Go ahead, please.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
+Q - Robin van den Broek {BIO 17002948 <GO>}
 
 
 
@@ -1010,44 +876,30 @@ Thank you.
 A - Eilard Friese
 Yeah. Delfin?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes, Robin. Indeed, we did mention that with the merger of the legal units, basically, the need to
 hold cash – capital at holding after a 1-in-20 event reduces and that's why we indicated that the
 need would be from now been more on the higher side of the range to be below the range. But
 we did not provided any indication of changing the target range itself. It's more of a question of
 the level of comfort within that range.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Okay.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 
 Bloomberg Transcript
 
 So the range of between €0.5 billion and €1.5 billion is – unless we change for other reasons
 following the merger of the legal entities, we do not intend to change it due to that.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 That's very clear.
 
 Operator
 The next question is from Bart Jooris, Degroof Petercam. Go ahead, please.
 
-Q - Bart Jooris
-
-{BIO 3470300 <GO>}
-
+Q - Bart Jooris {BIO 3470300 <GO>}
 Yes. Good morning. Thank you for taking my questions. Both on P&C and Non-life, the ratio was
 98.3% in the last quarter. Can I assume that there is some non-recurring benefit in there from
 Delta Lloyd Non-life and what would be, let's say, a good starting number to look at for the coming
@@ -1070,10 +922,7 @@ in the first quarter of – in January, in the first quarter of 2018.
 
 
 
-Q - Bart Jooris
-
-{BIO 3470300 <GO>}
-
+Q - Bart Jooris {BIO 3470300 <GO>}
 Yeah. But excluding the storm, could we see like 98.3% as a level you can improve on further on?
 
 A - Eilard Friese
@@ -1082,10 +931,7 @@ FINAL
 
 We will continue to improve...
 
-Q - Bart Jooris
-
-{BIO 3470300 <GO>}
-
+Q - Bart Jooris {BIO 3470300 <GO>}
 In this year already?
 
 A - Eilard Friese
@@ -1095,10 +941,7 @@ there, both expense reductions as underwriting improvements and the like. And th
 that will not be a straight line journey to get the total Non-life company into that place, and we're
 going to take a bit of time to get there.
 
-Q - Bart Jooris
-
-{BIO 3470300 <GO>}
-
+Q - Bart Jooris {BIO 3470300 <GO>}
 Okay. Thank you.
 
 Operator
@@ -1117,10 +960,7 @@ UFR (01:06:36) on the 1st of January? I was just wondering on that one. Thank yo
 A - Eilard Friese
 Delfin?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. So, as I said, we have to take our best estimate assumptions, including expense assumptions
 when calculating our Solvency every quarter. So, we have basically a base, this on our best
 assumption now of the evolution of expenses going forward. And you always have to do that in a
@@ -1134,9 +974,7 @@ Q - Benoît Pétrarque
 But, let's say, the recurring capital generation will therefore not be impacted by future cost cutting,
 because you've already taken that into account?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 
 
 
@@ -1148,10 +986,7 @@ FINAL
 
 Up to the level you have...
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Correct. Of those that we have already recognized within our business plan and we are confident
 that are able to obtained, these are already reflected in our cost assumptions. However, this is the
 case for the Life businesses. No doubt that for the non-Solvency II entities for Investment
@@ -1164,10 +999,7 @@ Yeah. Okay.
 
 Bloomberg Transcript
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 In terms of the lowering on the UFR drag, absolutely we have explained and it's very logical that as
 we have hit in our Solvency due to the decrease on the UFR or when the interest rates go up and
 the benefit of the UFR decreases, that will result into increase on the operating capital generation

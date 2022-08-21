@@ -32,17 +32,11 @@ for publication or broadcast.
 At this time, it's my pleasure to hand over to Mr. Marc Kaiser, Head of Corporate
 Communications and Investor Relations. Please go ahead, sir.
 
-Marc Kaiser
-
-{BIO 15056036 <GO>}
-
+Marc Kaiser {BIO 15056036 <GO>}
 Good morning, everybody. Welcome from our side. Thank you for joining us for this
 year's full year results 2016 call. And I would now like to hand over to Gert De Winter.
 
-Gert De Winter
-
-{BIO 19720616 <GO>}
-
+Gert De Winter {BIO 19720616 <GO>}
 Thank you, Marc. Maybe quickly the highlights of 2016, and then a short look forward into
 2017. 2016 was another very good year for Bâloise Group and we are very satisﬁed with
 the results. We increased the proﬁt by almost 5%, up to CHF 535 million. We see very
@@ -88,10 +82,7 @@ Operator
 We will now begin the question-and-answer session The ﬁrst question is from Mr. Peter
 Eliot from Kepler Cheuvreux. Please go ahead.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Thank you very much. Three questions if I may. The ﬁrst one was on the reserve releases, I
 mean you – obviously this very good (04:29) ﬁrst half of the year and you can see that that
 could continue in the second half. Just looking forward, I'm just wondering to what extent
@@ -120,23 +111,15 @@ essentially, it kind of looks like people that sort of (05:50) put more into res
 (05:51) policyholder than you have in the savings (05:54) result. And I'm just wondering if
 you could give us your thoughts on the dynamics there. Thank you very much.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Let me take out the ﬁrst of the questions, I'll hand over to German afterwards, on the more
 technical one. In terms of the reserve release, I assume you're pointing at the non-life
 reserve release.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Yes, (06:15)
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
+A - Gert De Winter {BIO 19720616 <GO>}
 
 Bloomberg Transcript
 
@@ -146,19 +129,13 @@ say, to what would be a historical average of around 2% to 3% of reserve release
 rather a normalized situation again in 2016 if you compare it to 2015. So, that would be
 the guidance, 2% to 3% per year in terms of...
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Could I just maybe ask very quickly. I mean, obviously you had some signiﬁcant
 strengthening in Germany this year, and if you back that out then the reserve releases I
 think would be just over 4%. So, maybe that's just normal volatility and diﬀerent regions
 contribute diﬀerently.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Yeah. I would say so, that of course the German reserve strengthening was extraordinary.
 But on the other hand, the portfolio in Switzerland is a lot bigger and there we have
 certain volatilities as well. So I would say that, in general, it's still about the same as we –
@@ -197,15 +174,10 @@ to do it anyway. And ultimately, I mean if interest rates are – even if they a
 currently, you still have to re-reserve the technical interest rate because the average is still
 going down.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Okay. Thanks a lot.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
+A - German Egloﬀ {BIO 4782831 <GO>}
 
 Bloomberg Transcript
 
@@ -216,10 +188,7 @@ Operator
 The second question comes from Mr. Farquhar Murray from Autonomous. Please go
 ahead.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Good morning, gentlemen. Just two questions if I may. Firstly, the life EBIT in the second
 half is a very strong CHF 181 million. I think if there is some mortality beneﬁt in there then it
 would be great, perhaps if you could maybe quantify that for us, even so it looks to be
@@ -232,9 +201,7 @@ reserve strengthening, the combined ratio at the group level would have been abo
 maybe there was a bit of favorable weather in 2016, but will be interested to get your
 thoughts? Thanks.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
+A - German Egloﬀ {BIO 4782831 <GO>}
 
 Page 4 of 15
 
@@ -258,31 +225,20 @@ points may make a diﬀerence of a double-digit million amount. So therefore, it
 happen that you are a bit above. But in general, I would say that CHF 200 million is a fair
 expectation nevertheless.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Just one point to detail, I mean what was the mortality release in the second half by the
 way?
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 (13:23)
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 
 Bloomberg Transcript
 
 Yeah, yeah.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Now, I have to look – come back to that later. Maybe I have the (13:34) combined ratio.
 There, to expect a 90-ish combined ratio is maybe a bit too optimistic. You just have to
 consider. We had slots in Belgium and Germany, but we had almost no elementary losses
@@ -290,29 +246,18 @@ in Switzerland. And of course, if you have a nice big hailstorm in Switzerland, 
 the situation immediately. So therefore, in a very good and lucky year, the 90s might be
 realistic. But I think, as an expectation, it will be too optimistic.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Okay. (14:23)
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 And I just gave information (14:26) the release of the claims reserve adjustments. So from
 the risk result, would be about the same as in previous year in general. So, there was a
 one-oﬀ in it.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Okay. Thanks.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
+A - German Egloﬀ {BIO 4782831 <GO>}
 Page 5 of 15
 
 
@@ -344,10 +289,7 @@ on P&L, and also maybe give a hint on how much holding capital can free up with 
 
 Bloomberg Transcript
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Okay. I'm starting. Cash to the holding, you see the participation earnings, which are CHF
 250-ish million and that includes the dividends which are already paid and the accrued
 dividends. However, the whole cash statement is not done yet because that's now the
@@ -390,10 +332,7 @@ million.
 Q - Stefan Schürmann
 Okay. Yes. Thank you.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Thank you.
 
 Operator
@@ -401,10 +340,7 @@ The next question is from Mr. Ralph Hebgen from KBW. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Yeah. Hi. Hi, guys. Thanks for taking my questions. Two things relating to the life result. If
 you look at slide 19, the proﬁt by source, what I missed on the slide is perhaps a comment
 on the fee result. Is there a reason that you don't split that out separately or perhaps it's
@@ -415,10 +351,7 @@ wondering whether you could tell us a little bit about the underlying drivers th
 indeed also whether you see the acceleration as sustainable or the CHF 296 million here
 as a new baseline going forward? Thank you.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 First, for the fee result, ﬁrstly that's distributed through the three drivers, so that is a bit
 diﬃcult to separate that. That's one point. And the other point is that we have fee
 business as well, which is in the banking segment from the asset management side, and
@@ -450,44 +383,29 @@ course, mortality gains are a natural hedge to the old age risk, but politics ar
 considering that as appropriate way of thinking. So, therefore, I think CHF 240 million is
 probably the better – a better proxy for the future.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay. That's extremely helpful. Thank you. Just as a – and perhaps a point on my wish list.
 I'm so, almost skeptical or hesitant to say it but analysts always want more stuﬀ. But do
 you think it might be possible for you to analyze the risk result in future by reference to
 expense ratios and loss ratios as some other companies have done So, that might give us
 some additional...
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Since I'm certainly not doing it myself, and I'm not responsible for it in the future. I gladly
 take it and pass it over to my colleagues, so they can do with it whatever they like then.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Okay, that's excellent. Thank you very much indeed.
 
 Bloomberg Transcript
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Thank you.
 
 Operator
 We have a follow-up question from Mr. Farquhar Murray. Please go ahead.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Good morning, gentleman. Just I have one brief follow-up actually. I understand you're
 not giving any the SST position as formal number, but I just wondered if you could maybe
 give us a sense of how the SST ratio has developed there – through the year-to-date so far
@@ -495,16 +413,10 @@ in particular given some of the kind of the sovereign spread widening (24:32) an
 perhaps you could just give us bit of a color around how sensitive you would be to
 sovereign spreads more generally? Thanks.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Yes, I can give you that, the color would be green actually.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 More green or less green?
 
 Page 8 of 15
@@ -515,24 +427,16 @@ Company Name: Baloise Holding AG
 Company Ticker: BALN SW Equity
 Date: 2017-03-23
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Well, fairly green. Comfortably green.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 
 FINAL
 
 Okay.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 It's – still be a bad debt, and the sensitivity is that we have given in the – at the Investors
 Day, they still hold to. What I can tell you is that, it seems and that the ratio is getting a bit
 less nervous than, than it has to be in the past. However, whether that's from the Capital
@@ -541,16 +445,10 @@ mean the key questions around SST is, is there a reason to bother around the div
 No, obviously not, otherwise we wouldn't increase it. And is there a reason to bother
 around the capital? Neither that, otherwise we wouldn't increase the dividend.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Okay. Thanks much.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Thank you.
 
 Bloomberg Transcript
@@ -591,10 +489,7 @@ You're also ﬁnancing, like for example, ﬁntech, brochure (28:34) and so on a
 then as an example, the mobile insurer Friday you launched in Germany, was this ﬁnanced
 by the cash or was it ﬁnanced by policyholder money? Thank you very much.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Let me try to respond to some of the questions, but I'll certainly handover to the more
 technical questions in there to Martin Wenk and German Egloﬀ. First on the combined
 ratio in Germany, as we have said last year too, we target as of 2017, a combined ratio
@@ -608,38 +503,27 @@ and stated forward. So we are aiming for an additional CHF 5 billion...
 Q - René Locher
 Oh, I see.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
+A - Gert De Winter {BIO 19720616 <GO>}
 
 Bloomberg Transcript
 
 ...assets under management. I'll leave the cash remittance and so forth to German, and
 maybe Martin can also say something additionally on the third-party project.
 
-A - Martin Wenk
-
-{BIO 4193573 <GO>}
-
+A - Martin Wenk {BIO 4193573 <GO>}
 Yeah. Hi, René. This is Martin. I mean Gert already said this explanation, it's really so that
 we want to double...
 
 Q - René Locher
 Okay.
 
-A - Martin Wenk
-
-{BIO 4193573 <GO>}
-
+A - Martin Wenk {BIO 4193573 <GO>}
 ...our third-party business. So it's by coincidence a similar ﬁgure.
 
 Q - René Locher
 Okay. Thank you.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 For the proﬁt or the dividend or the proﬁt of the subsidiaries, the ﬁgure is actually far less
 volatile than it looks between 2015 and 2016. The reason that 2015 was so high was that
 the valuation of the subsidiaries was reevaluated and Luxembourg was – the value was
@@ -665,10 +549,7 @@ Operator
 Gentlemen that was the last question. Sorry, we have a last set on (31:30) registration from
 Mr. Michael Huttner from JPMorgan. Please go ahead.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Thank you. And I'm sure you've been asked the same question. But I wasn't listening all
 the time and maybe the answer – I did not understand the answer. Just getting back to
 the life, the CHF 250 million-odd proﬁt and after CHF 317 million of reserving. If I think of
@@ -678,10 +559,7 @@ rates were a little bit benign. I mean, maybe not stable, but (32:12).
 
 Bloomberg Transcript
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 What I said there is that the CHF 200 million underlying is probably still quite a good
 guidance, because we have the re-reserving of the technical interest rate is – has actually
 diﬀerent possibilities. Interest rates are rising immediately. But still the technical
@@ -694,10 +572,7 @@ situation would change dramatically, the CHF 300 million or whatever we did in
 additional reserving will become free again then it of course (33:19) then adds to the EBIT
 ﬁgure in the future.
 
-A - Martin Wenk
-
-{BIO 4193573 <GO>}
-
+A - Martin Wenk {BIO 4193573 <GO>}
 Maybe I can add one more aspect to that because I think it's important. Some of those of
 realizing of gains already happens by managing the assets. And as you know, we have this
 negative rates on the short end of the curve, and if we sell bonds there, we just realize –
@@ -708,9 +583,7 @@ cannot just add that to or – to the proﬁt that we have made, this CHF 300 mi
 – it's a delicate balance that we do and some of it is just initiated basically by asset
 management.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Page 11 of 15
 
 
@@ -725,71 +598,42 @@ I know, have you done with some of the conversion rates?
 
 FINAL
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 No, no, no, that's a bond that was just – I just didn't want to say ﬁve years, and I didn't
 want to say one years for banking month, but...
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Okay.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 So that's at 20 months as well.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Okay, okay.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 It was an educated guess, just.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 
 Bloomberg Transcript
 
 Okay.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 ...because within, I don't expect a dramatic change in the interest rates for the next, let's
 say 12 months, so it's early as 18 months if you see a reaction in the ﬁgures.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 I understand. That makes sense. That's it. Thank you very much.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Thank you.
 
 Operator
 We have a question from Mr. Daniel Bischof from Baader-Helvea. Please go ahead.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Yeah, good morning, a very quick one on page 18. When you reported a signiﬁcant
 improvement in the life new business margin here, the more selective underwriting had a
 positive impact, but I think you also mentioned there was a change in the calculation
@@ -806,20 +650,14 @@ was?
 
 FINAL
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Yes. We had that – but it was just some model adjustments, up to now we were maybe too
 conservative in building in the change in the – or the management rules concerning the
 policyholder dividend. And the environment was there a bit more aggressive in the past
 already and we just did that as well now. And now about the impact, I wouldn't know
 exactly, probably half of it is portfolio mix and half of it is model (36:29) change (36:29).
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 All right. Thank you.
 
 Operator
@@ -836,10 +674,7 @@ far, I think you've invested CHF 20 million. You intend to invest CHF 50 million
 wondering if this money – is this cash you optioned (37:14) to the holding or is this money
 from policyholders account? Thank you.
 
-A - German Egloﬀ
-
-{BIO 4782831 <GO>}
-
+A - German Egloﬀ {BIO 4782831 <GO>}
 Yes. We are doing both. So, on Friday, so tomorrow, so next Friday the company, and
 that's a subsidiary. So, that's still money, company money. And – but we have this fund
 that we are setting up together with Anthemis, we mentioned that in the Investors Day,
@@ -849,17 +684,11 @@ put it that way.
 Q - René Locher
 Okay. Okay. So that helps.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 All of these things, non-life reserves. You don't know and you can't decide whether its
 policyholder or shareholder.
 
-A - Martin Wenk
-
-{BIO 4193573 <GO>}
-
+A - Martin Wenk {BIO 4193573 <GO>}
 I can just add to that, to that fact that (38:17) is investments we do in insurtech with
 Anthemis, it's a portfolio that is supposedly is to reach CHF 50 million. And we have CHF
 600 million in private equity investments already. So basically, all we do is we take 10% of
@@ -884,10 +713,7 @@ guess you should not expect that all that money is going back to shareholder. Ot
 would end up at roughly CHF 8 per share, right, so that's why I am asking. Thanks you
 very much.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 I think René, just to conclude on that and I think at the Investors Day and we'll repeat that
 the CHF 2 billion cash into the holdings serves two purposes. One is certainly to continue
 the attractive shareholder policy, that's one. The second one, however being the
@@ -907,10 +733,7 @@ Yeah. Thank you, perfect. Thank you very much.
 Operator
 This was the last question.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 If there are no other questions, then I would like to wrap it up and thank all of you for the
 interesting questions and the insights. And looking forward to see you soon again.
 

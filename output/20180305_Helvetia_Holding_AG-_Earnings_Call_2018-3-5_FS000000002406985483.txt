@@ -128,10 +128,7 @@ marketing, and corporate.
 With that, I would like to turn over the presentation to our CFO, Paul Norton, who will now provide
 you with the most important information about the financial figures. Please, Paul.
 
-Paul Norton
-
-{BIO 16145125 <GO>}
-
+Paul Norton {BIO 16145125 <GO>}
 Thank you, Philipp. Ladies and gentlemen, I'd also like to welcome you to this analyst meeting.
 During the next 25 minutes, I'll give you more detailed information on our financial performance in
 the 2017 financial year. I'd like to turn to slide 8 with the results by business area.
@@ -542,10 +539,7 @@ round now first probably in this room, and then go on to the questions on the ph
 FINAL
 
 Q&A
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Yeah, good morning. Daniel Bischof, Baader Helvea. I have three questions, please. First one,
 Specialty Markets, that's the unit which grew quite substantially last year. So I was wondering how
 you positioned that business. It was especially due to the Active Reinsurance expansion? How you
@@ -587,16 +581,11 @@ we think that's a good basis in order to expand this specialty-based business no
 Switzerland, but all over the world or all over those countries we want to be active in. And now I ask
 Paul to answer the dividend question and the cash remittance issue.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Okay. Daniel, I did say that the dividend would be – is effectively divided in two components. I don't
 think I actually put a number to each of those components. I think you've calculated that yourself.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
+Q - Daniel Bischof {BIO 17407166 <GO>}
 
 
 
@@ -604,10 +593,7 @@ Q - Daniel Bischof
 
 FINAL
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 (00:56:10), the average dividend increase before synergies that we had was roughly CHF 0.5 to
 CHF 1 a year. And if you look actually over the years, averaging out is more like CHF 0.5 a year. And
 you're right, we did say it was up to potential CHF 3.60 per share from the synergies. If you look,
@@ -631,17 +617,11 @@ payout ratios by the individual segments, they are actually quite substantial ba
 we will continue to manage that triangle of IFRS statutory and local solvency buffer to optimize the
 dividend payout.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Do you have a mid-term ambition for the payout of potential IFRS earnings, referring to the 59%
 for 2017?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 At the moment we still have the 40% to 50% for the statutory period. We also have an overall
 target of greater than CHF 1 billion over the five years. At the moment, we will stick to that.
 
@@ -678,10 +658,7 @@ slang, maybe in the second half of the play, but there is still no decision whic
 far.
 Okay. Life reserving...
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 I'd also add to Philipp's comment about when the second half, I have to say that the referee is not
 exactly independent in this match. Going back to the reserve additions, you can find that in annual
 report we have CHF 173 million to the Swiss life, which is very slightly higher than the last year,
@@ -691,9 +668,7 @@ which I think was CHF 166 million. (01:02:21) reserve in Germany and in Austria 
 A - Philipp Gmür
 All in all, it's more or less at the same level...
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 Bloomberg Transcript
 
@@ -702,10 +677,7 @@ Yeah.
 A - Philipp Gmür
 ...as it used to be in the previous year, 2016.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Slight increase in Germany and Austria, because it's an automatic process which will take some
 time to run-off. Strategic projects, we still retain our CHF 50 million to CHF 70 million guidance
 before tax, and we are at the top end of that basically this year.
@@ -717,10 +689,7 @@ we might have on the phone.
 Operator
 First question from the phone comes from Peter Eliot, Kepler Cheuvreux. Please go ahead.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Thank you very much. Just sort of couple of questions on the other results actually. I was wondering
 if you could just breakdown or give us the sort of the major investments. Probably something
 you've already talked about, but just in case if there's anything else that you could add there.
@@ -733,9 +702,7 @@ Okay. I would directly ask Paul to answer those two questions.
 
 
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 FINAL
 
@@ -766,10 +733,7 @@ another question on the phone?
 Operator
 Yes. The next question from the phone comes from Guilhem Horvath, Exane. Please go ahead.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Yes, good morning. Thanks for taking my questions. I've got two. The first one is on the new
 business mix, and you showed the split on the individual life. Can you give maybe a broader picture
 on your Swiss life business, including group and what you write as what you call traditional type of
@@ -809,10 +773,7 @@ many years only. As of today, we are allowed to give as a guarantee in the tradi
 business financed with single premium roughly 0%, and in the regular premium business it's 0.25%.
 So they have been interfering for a long time already. Maybe you have to add something?
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Yeah. My question was more on how do the SST model for Pillar 3 would evolve going forward?
 Because I think your competitors are discussing about the standardization of this model.
 
@@ -825,18 +786,12 @@ discussing now with the FINMA is whether the standard is one solution or another
 roughly discussing two different solutions lying on the table. But it's clear that the FINMA wants to
 implement a standard model for the whole industry in the second pillar business.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 No, it's individual life. In individual life, it's very much at extremely early stage. It's clear still, except
 that the individual life, there is a demand from FINMA for standardization. But we're at a very early
 stage now in those discussions.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Okay, thanks.
 
 A - Philipp Gmür
@@ -846,10 +801,7 @@ Operator
 We have another question from the phone coming from Mr. Jonny Urwin, UBS. Mr. Urwin, please go
 ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi, there. Thanks, everyone. Just two questions. So firstly, could you update us on what pricing is
 doing in Switzerland versus what claims inflation is doing? And then secondly, there was good
 improvement in the European non-life businesses. How much of that do you think is sustainable or
@@ -858,9 +810,7 @@ is there any one-off in there? Thank you.
 A - Philipp Gmür
 Okay. Paul, would you please go on?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 
 
@@ -893,10 +843,7 @@ the combined ratio, which is, I think, a fairly good level. And the result of th
 the result of one-off effects whatsoever. It's the result of hard work and also of a big discipline in
 underwriting business we do in all those countries.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Great. Thank you.
 
 A - Philipp Gmür
@@ -938,10 +885,7 @@ which brings us good portfolio, which might have been higher cost ratios, but us
 ratios than the agents network.
 Paul, traditional embedded value.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 I'm surprised, Stefan, you're still looking at traditional embedded value. The model assumptions
 were roughly about CHF 200 million improvement split over the various categories in the capital
 movement was purely dividend mainly.

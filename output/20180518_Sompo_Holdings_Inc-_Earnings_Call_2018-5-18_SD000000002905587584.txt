@@ -17,9 +17,7 @@ Tatsuo Majima, Senior Analyst
 Wataru Otsuka, Insurance Industry Analyst
 
 Presentation
-Yukinori Kuroda
-
-{BIO 19776286 <GO>}
+Yukinori Kuroda {BIO 19776286 <GO>}
 
 Bloomberg Transcript
 
@@ -256,16 +254,10 @@ Thank you. So much. Thank you. Now I would like to move to the Q&A session.
 FINAL
 
 Questions And Answers
-A - Yukinori Kuroda
-
-{BIO 19776286 <GO>}
-
+A - Yukinori Kuroda {BIO 19776286 <GO>}
 Mr. Muraki from Deutsche Securities Inc.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 I have one question on Page 41. You talked about the top line and cost. And I have a
 question about this page. For the top line, excluding special factors, you expect an
 increase of about 20%. But taking into consideration the situation between January and
@@ -278,10 +270,7 @@ a decrease in expense ratio?
 
 Bloomberg Transcript
 
-A - Yukinori Kuroda
-
-{BIO 19776286 <GO>}
-
+A - Yukinori Kuroda {BIO 19776286 <GO>}
 Thank you very much, Mr. Muraki. Roughly speaking, your question was about the top line,
 loss ratio and costs. So I will answer each one of them in turn. For SI, as we mentioned,
 overall, the gross premium written is expected to increase by 34%. And that will be the
@@ -328,10 +317,7 @@ However, compared to the increase in expense ratio, we see the increase in premi
 written to go up further. So as a result, the ratio will go down. Thank you very much.
 Next questions are from Mr. Watanabe from Daiwa Securities Corporation Ltd.
 
-Q - Kazuki Watanabe
-
-{BIO 15948747 <GO>}
-
+Q - Kazuki Watanabe {BIO 15948747 <GO>}
 My name is Watanabe from Daiwa Securities Corporation. I have 2 questions. My first
 question is related to adjusted profit for 2017, which turned out to be about JPY 30 billion
 lower versus your plan. So would you please give me the reasons behind this miss? Was it
@@ -343,10 +329,7 @@ What is the reason for that?
 
 Bloomberg Transcript
 
-A - Yukinori Kuroda
-
-{BIO 19776286 <GO>}
-
+A - Yukinori Kuroda {BIO 19776286 <GO>}
 Mr. Watanabe, thank you so much for your questions. To your first question related to
 adjusted profit for 2017. Let me answer that one first. As you mentioned correctly, we
 were assuming JPY 195 billion. So we fell short of about JPY 30 billion against our plan.
@@ -384,10 +367,7 @@ Next, Mr. Otsuka from Nomura Securities.
 
 FINAL
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 My name Otsuka from Nomura Securities. I have 2 questions. One at a time. I'm looking at
 Page 12. And it talks about start of dividend income from SI. And with it, income goes up.
 And if you turn to Page 22, it shows an -- it shows JPY 26.3 billion as dividends from
@@ -395,55 +375,35 @@ overseas subsidiaries. And I'm assuming that this will be subject to consolidate
 adjustments. But for that, the numbers on Page 12, consolidated adjustments and others,
 it seems to be too small. So can you please explain that point?
 
-A - Yukinori Kuroda
-
-{BIO 19776286 <GO>}
-
+A - Yukinori Kuroda {BIO 19776286 <GO>}
 First, we expect dividends from SI. Basically, the mechanism that you explained is correct,
 Mr. Otsuka. The amount of dividends from SI that is included in the forecast is JPY 25.4
 billion and the remainder is from other subsidiaries. And as we mentioned, this will be
 subject to consolidated adjustments.
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 Then for the goodwill, isn't this included in the consolidated adjustments?
 
-A - Yukinori Kuroda
-
-{BIO 19776286 <GO>}
+A - Yukinori Kuroda {BIO 19776286 <GO>}
 
 Bloomberg Transcript
 
 Yes, goodwill is included.
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 And that -- and consolidated adjustments included? The forecast for 2018 is minus JPY
 25.4 billion?
 
-A - Yukinori Kuroda
-
-{BIO 19776286 <GO>}
-
+A - Yukinori Kuroda {BIO 19776286 <GO>}
 Yes.
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 Okay. I understand. The second question is about domestic automobile insurance on Page
 26. The forecast for fiscal 2018 is that the loss ratio will worsen. And you talk about a
 conservative forecast for repair cost per claim but isn't the reduction in cost per claim
 from January this year incorporated?
 
-A - Yukinori Kuroda
-
-{BIO 19776286 <GO>}
-
+A - Yukinori Kuroda {BIO 19776286 <GO>}
 Yes, of course, the price reduction is incorporated.
 You see the written-based numbers here. For automobile insurance, premiums written is
 expected to decline by JPY 9.7 billion. On the other hand, claims paid is expected to
@@ -464,10 +424,7 @@ Next questions are from Mr. Niwa from Citigroup Global Markets Japan Inc.
 
 FINAL
 
-Q - Koichi Niwa
-
-{BIO 5032649 <GO>}
-
+Q - Koichi Niwa {BIO 5032649 <GO>}
 My name is Niwa from Citigroup Securities. I have 2 questions. My first question may
 overlap with the question asked by Mr. Watanabe earlier but let me double-check.
 Compared to six months ago, it seems like consolidated adjusted profit are -- is down
@@ -485,10 +442,7 @@ Would you please give me some color.
 
 Bloomberg Transcript
 
-A - Yukinori Kuroda
-
-{BIO 19776286 <GO>}
-
+A - Yukinori Kuroda {BIO 19776286 <GO>}
 Thank you. So much for your questions. To your first question about the adjusted
 consolidated profit, what has changed since six months ago in the domestic P&C
 business, impact from large losses is quite large. In some cases, there are some policies
@@ -510,9 +464,7 @@ the loss ratio deterioration, we have reviewed and revisited some contracts and 
 So we have changed the starting point. And now, we have more conservative guidance.
 Next is from Merrill Lynch Japan Securities, Mr. Sasaki.
 
-Q - Futoshi Sasaki
-
-{BIO 17564798 <GO>}
+Q - Futoshi Sasaki {BIO 17564798 <GO>}
 
 Page 9 of 11
 
@@ -532,10 +484,7 @@ positive impact of JPY 30 billion. On the other hand, there will be a reduction 
 coming from automotive insurance. But overall, what are the factors that you expect will
 contribute to increase in profit?
 
-A - Yukinori Kuroda
-
-{BIO 19776286 <GO>}
-
+A - Yukinori Kuroda {BIO 19776286 <GO>}
 Thank you very much. First, the underwriting profit, improvement of JPY 33.1 billion. On a
 written/paid basis, there will be an impact of expenses. The top line overall will come
 down and net claims paid overall with normalization of large losses and natural disasters,
@@ -545,28 +494,19 @@ efforts. For the remaining JPY 20 billion, it's very difficult to do a complete 
 However, by forecasting a lower net premiums written in higher loss ratio, there will be a
 contribution coming from catastrophe loss reserves, as you mentioned.
 
-Q - Futoshi Sasaki
-
-{BIO 17564798 <GO>}
-
+Q - Futoshi Sasaki {BIO 17564798 <GO>}
 So overall, as a trend, except for the impact coming from the reduction in premiums of
 automotive insurance and reduction in expenses, overall, the trend is the same as
 previous years?
 
 Bloomberg Transcript
 
-A - Yukinori Kuroda
-
-{BIO 19776286 <GO>}
-
+A - Yukinori Kuroda {BIO 19776286 <GO>}
 Yes. That is correct. In addition to that, there will be normalization of natural disasters and
 larger losses. So overall, there is no change in the trend.
 Next questions are from Mr. Majima from Tokay Tokyo Research Center.
 
-Q - Tatsuo Majima
-
-{BIO 15338044 <GO>}
-
+Q - Tatsuo Majima {BIO 15338044 <GO>}
 Please allow me to ask you a detailed number of related questions. First, on Page 25, you
 are showing the reserve for price fluctuation. You are assuming the provisioning of JPY 4.2
 billion to the reserve. Although every year, you were putting about JPY 10 billion in
@@ -576,10 +516,7 @@ securities for this fiscal year. Every year, in April, you hedge in the market i
 proportion of planned sales of stocks. For this fiscal year, have you hedged in April as
 regular years? Or have you not hedged this fiscal year?
 
-A - Yukinori Kuroda
-
-{BIO 19776286 <GO>}
-
+A - Yukinori Kuroda {BIO 19776286 <GO>}
 Mr. Majima, thank you so much for your questions. To your first question relating to the
 price fluctuation reserve. As you exactly pointed out correctly, we have changed the
 reserve ratio, both for Sompo Japan and Himawari Life. In regular years, we were putting

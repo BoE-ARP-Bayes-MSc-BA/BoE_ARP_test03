@@ -28,10 +28,7 @@ Good morning or good afternoon. Welcome to Swiss Re's first quarter 2020 key fin
 data conference call. Please note that today's conference call is being recorded. At this
 time, I would like to turn the conference over to John Dacey, CFO. Please go ahead, sir.
 
-John Dacey
-
-{BIO 4437051 <GO>}
-
+John Dacey {BIO 4437051 <GO>}
 Thank you and good morning or good afternoon to everyone. I'm here today with Eri
 Schmid, our Chief Underwriting Officer and Guido Furer, our Chief Investment Officer, who
 will provide some insights on the impact of COVID-19 on our underwriting and asset
@@ -89,10 +86,7 @@ manage our assets in our capital with utmost foresight allowing us to continue t
 the clients and preserve value for shareholders in these difficult times.
 And with this, I turn it over to Edi.
 
-Edi Schmid
-
-{BIO 18942809 <GO>}
-
+Edi Schmid {BIO 18942809 <GO>}
 Thank you, John, and good morning and good afternoon from my side. As John already
 mentioned, our Q1 results were impacted by $476 million of COVID-19 claims. Of these,
 $253 million were in P&C Reinsurance and $223 million in Corporate Solutions. These
@@ -198,10 +192,7 @@ reflecting the high quality of our credit portfolio. Given the downward trend in
 rates, our Group running yields declined to 2.5% from 2.8% at the end of 2019.
 With that, I hand over to Philippe who will take us through the Q&A.
 
-Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+Philippe Brahin {BIO 19081619 <GO>}
 Thank you, Guido. And good day to all of you also from my side. So, as usual, before we
 start our Q&A, I would like to remind you to please restrict yourselves to two questions
 and register again if you have follow-up questions.
@@ -220,10 +211,7 @@ Date: 2020-04-30
 
 FINAL
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 Hi, good morning. Thank you for letting me ask questions, I've got two. The first one is on
 your top line. Could you give us some big picture thoughts on how dependent it is on the
 economic activity and where do you see the biggest risks stemming from this downturn?
@@ -235,10 +223,7 @@ Thank you.
 A - Guido Furer
 Maybe Edi, you take the first one, and John, the second one.
 
-A - Edi Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edi Schmid {BIO 18942809 <GO>}
 Yeah, happy to comment a bit on the top line. And again, as for many other questions, it is
 still early days to come up with views. What is clear, as with the economic downturn, the
 lock-down in a number of lines of business, you would expect premium volumes to go
@@ -251,10 +236,7 @@ segments.
 
 Bloomberg Transcript
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Edi, I might add that in the context of what will be some clear losses coming on both sides
 of the balance sheet for many of our reinsurance clients, one could imagine, in the second
 half of the year and into 2019, an actual increased demand for reinsurance by those
@@ -290,19 +272,13 @@ market volatilities.
 
 FINAL
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thanks, Ivan, for your questions. Can we take the next question, please.
 
 Operator
 The next question comes from Andrew Ritchie from Autonomous. Please go ahead.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi, there. Could I just ask to get a bit more color on the prior year effect in P&C Re? I'm a
 bit confused why -- just to go through again the premium adjustments and exactly what
 that is adjusting, it's clearly not adjusting exposure. And you're saying all of the prior year
@@ -314,10 +290,7 @@ also increased demand? Thanks.
 
 Bloomberg Transcript
 
-A - Edi Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edi Schmid {BIO 18942809 <GO>}
 So on the first one regarding the PYD, so for this quarter, indeed there was a bit more
 development on the premium line. I will also comment on the claims line later. But what
 happened a bit more than in other quarters that the premiums that are coming through
@@ -357,20 +330,14 @@ development in the ILS markets, the alternate capital markets where also spreads
 widening a bit, so everything points in this direction, but it's too early to tell to what
 extent. But clearly, supply/demand equilibrium is shifting.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Maybe just one clarification on the first part. As Edi mentioned on premiums, there is no
 direct link to COVID-19 to this premium adjustment. I think most quarters we've got some
 movements, it just so happened in this first quarter of 2020 that there was an unusually
 mix of relatively large premium adjustments compared to the size of the claims
 adjustment that netted through.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thanks, Andrew. Thanks for your questions. Can we have the next question, please.
 
 Operator
@@ -379,10 +346,7 @@ Paribas. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Yes, hi, everyone. I hope you are doing well. Two questions from my side. The first one will
 be on nat cat. So basically if I look at your nat cat premiums; these are up about 6% this
 year, obviously driven by pricing and your budget is also slightly up about less under 6%.
@@ -393,16 +357,10 @@ time is probably too difficult. But I was wondering if there are any development
 exposures that cause concerns especially from a risk management perspective? Thank
 you.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Edi, back to you, again.
 
-A - Edi Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edi Schmid {BIO 18942809 <GO>}
 Yeah. Thanks, Paris, for the questions. On the first one, regarding our nat cat account, this
 is correct. If we just measure the nat calculated premium in P&C Re, that's up about 6%
 last year versus this year. That's in line with the strategy. We also explained last year at the
@@ -453,19 +411,13 @@ because of the end of cycle situation, already reduced our exposure there. So cr
 surety is an area. And then I think there's obviously many other areas where there are
 pluses, but obviously more minuses there. So I leave it at that for the time-being.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 All right. Thanks, Paris for your questions. Can we take the next question, please.
 
 Operator
 The next question comes from Thomas Fossard from HSBC. Please go ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes, good afternoon. Two questions for me. The first question will be, could you tell us if
 you have taken additional measures since COVID-19 crisis started, if you have taken any
 additional measures to protect your balance sheet? Actually, you indicated significant
@@ -489,15 +441,10 @@ talking to your clients, how do you believe that certain percent is still achiev
 environment? And also, due to this new environment, are you taking a pause to the cost
 reduction program at CorSo? Thank you.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thanks. Maybe John for the first question and Edi on CorSo.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
+A - John Dacey {BIO 4437051 <GO>}
 
 Bloomberg Transcript
 
@@ -524,10 +471,7 @@ There is a series of weekly and even in some cases, bi-weekly meeting that have 
 instituted to separate the active management of COVID-19 related issues from our dayto-day operations and those day-to-day operations proceed at pace with almost no
 interruptions.
 
-A - Edi Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edi Schmid {BIO 18942809 <GO>}
 Yeah, maybe if I could just add bit of color on the liability side. I mean, early on as the
 COVID crisis unfolded, we took a number of actions in terms of adjusting our underwriting
 appetite. In the end, this is a crisis still unfolding. So the picture you can have in mind is
@@ -562,9 +506,7 @@ overall, it's what's happening. I think the only direction I think that this mom
 to (technical difficulty)
 And I think the last one was on the cost side. John, do you want to take that?
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
+A - John Dacey {BIO 4437051 <GO>}
 
 Bloomberg Transcript
 
@@ -580,19 +522,13 @@ convinced of future success in those lines. I think we'll continue to reshape Co
 strong performing company. That means following through on already committed actions,
 I don't think we necessarily need to do more than that at this time.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 All right. Thank you, Thomas, for your questions. Can we take the next question, please?
 
 Operator
 The next question comes from Jonny Urwin from UBS. Please go ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi, everyone, thanks for taking my questions. Just two please. So, firstly, on business
 interruption, please, could you comment on whether you are seeing reinsurance policy
 wordings broadly following the primary policy wordings and (inaudible) what will you think
@@ -614,16 +550,10 @@ balance sheet, but I'm more interested in the appetite. Thank you.
 
 FINAL
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thanks, Jonny. We will start with Edi.
 
-A - Edi Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edi Schmid {BIO 18942809 <GO>}
 Yeah. Well, thanks, Jonny. The first one on business interruption, as mentioned in the
 introductory comments, that it's clearly the most debated area and obviously the main
 discussion first is happening on the primary side to what extent pandemic triggered
@@ -658,10 +588,7 @@ just to give you a bit of color why that it takes a bit of time to have a clear 
 the whole landscape around business interruption.
 Maybe the second one, John, your take about our ability to asset-light...
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Page 11 of 17
 
 
@@ -693,9 +620,7 @@ increasing business going forward is going to require to be value creative in th
 environment and to the degree that it involves longer tail business, those hurdles just
 become more and more impactful in what the required pricing would be.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
+A - Philippe Brahin {BIO 19081619 <GO>}
 
 Bloomberg Transcript
 
@@ -704,10 +629,7 @@ All right, Jonny, thanks for your questions. Can we take the next question, plea
 Operator
 Yes, the next question comes from Vinit Malhotra from Mediobanca. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes, good afternoon. I hope you can hear me. So one topic left, which I don't know if it
 was addressed in the first few minutes. I missed it, sorry. This is about the US workers'
 compensation. Seeing some very wide ranging numbers from various bodies like the
@@ -715,10 +637,7 @@ NCCI or even in California. I mean could you help us understand where you are si
 that, what are the risks for you, if any or if material? And any color would be very helpful.
 Thank you very much.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Yeah, thanks, Vinit, for the question on workers' comp. We only touched it briefly as one
 line of business that is likely impacted definitely on the premium line. So US workers'
 comp -- I mean, what you would expect that, obviously with the lock-downs that the
@@ -745,18 +664,13 @@ material impact from the workers' comp business. But on a more broader basis, ag
 reiterating what John was saying, it's still early in the crisis in how this is going to unfold,
 still has more open questions than things we can really answer.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Thanks, Vinit, for your question. Can we take the next question, please?
 
 Operator
 Your next question comes from Vikram Gandhi from Societe Generale. Please go ahead.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 
 Bloomberg Transcript
 
@@ -769,10 +683,7 @@ circumstances? That's question one. Secondly, given the virtually weak results a
 and the 141% SST, how should we think about the prospects of a potential capital injection
 in the unit?
 
-A - Edi Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edi Schmid {BIO 18942809 <GO>}
 Thanks, Vik. On the first one regarding casualty, lives business in the US workers' comp is
 just covered. That's just the D&O space you hinted. There is -- if you look into past,
 recessions are linked to financial market turbulence, so there could be a pickup in losses
@@ -792,9 +703,7 @@ taken out some 20% off of exposure. So, clearly there is a room for further liti
 out of this COVID. But again, as for other lines, a lot at this point would be speculation. I
 have to come up more firm view of how this is going to unfold.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
+A - John Dacey {BIO 4437051 <GO>}
 Page 13 of 17
 
 
@@ -812,19 +721,14 @@ the COVID-19 claims in Q1 and for the quarters, we'll evaluate the capital level
 business unit accordingly and make some decisions. But I'd say here at the end of the first
 quarter, we don't see the need to do anything in particular.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 All right. Thanks, Vik, for your questions. Can we take the next question, please?
 
 Operator
 (Operator Instructions) The next question is a follow up question from Thomas Fossard
 from HSBC. Please go ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
+Q - Thomas Fossard {BIO 1941215 <GO>}
 
 Bloomberg Transcript
 
@@ -839,16 +743,10 @@ that's underlying claims trend has fully not stopped from one day to the other. 
 you could tell us a bit how things -- what you saw in terms of trends in terms of claims so
 far this year in terms of maybe second derivative acceleration or deceleration? Thank you
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Back to you, Edi.
 
-A - Edi Schmid
-
-{BIO 18942809 <GO>}
-
+A - Edi Schmid {BIO 18942809 <GO>}
 Back to me. The first one is a bit more color on our renewal account. So 4% growth across
 the board, obviously that has an element of the price increases. That is the most
 significant contributor at this time. We could achieve nominal price increases year-to-date
@@ -898,10 +796,7 @@ level to become again more reasonable. And now you would add the developments
 around COVID in the US, so it is clearly an area where we would continue to underwrite
 with utmost caution.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 And maybe just one observation on the penultimate point of Edi. To the degree that
 motor frequency has materially reduced in all markets with lock-downs, you'll probably
 see some modest benefit also on some of this commercial motor caseload and
@@ -909,20 +804,14 @@ associated large jury awards related to it, but there's clearly a very temporal 
 There's no reason to think there has been any structural change or improvement in that
 business.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Well, thanks, Thomas, for your questions. Can we take the next question, please?
 
 Operator
 The next question is a follow-up question from Paris Hadjiantonis from Exane BNP. Please
 go ahead.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Paris, are you there?
 
 Page 15 of 17
@@ -935,10 +824,7 @@ Date: 2020-04-30
 
 FINAL
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Sorry, I was on mute, indeed. So a couple of very small follow-ups from my side. I guess
 the first one will be on Life Re. I understand there was a small (inaudible) benefit for the
 quarter. I don't know whether you can give us some color and quantify that that. I think it
@@ -947,10 +833,7 @@ Obviously, quarter-to-date, we have seen a pronounced bounce back on the equity 
 How should we be thinking about the benefit to Swiss Re from an accounting perspective
 given that you have put quite a lot of hedgers in place?
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
-
+A - Philippe Brahin {BIO 19081619 <GO>}
 Why don't we go to the second question first, so Guido can help us out?
 
 A - Guido Furer
@@ -1003,10 +886,7 @@ relatively decent in this environment. But it's full of challenge. Thank you.
 
 FINAL
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Thank you, Guido. The first question you had, Paris, I think was related to the Life & Health
 Re. As we said, we had a strong technical result as well as a good investment return.
 Specifically, I think there was one -- not huge, but of a size that's probably worth noting.
@@ -1015,9 +895,7 @@ well and working with them on the way that they like us to help manage their own
 nothing special there, ordinary business and we do these kind of transactions on a routine
 basis.
 
-A - Philippe Brahin
-
-{BIO 19081619 <GO>}
+A - Philippe Brahin {BIO 19081619 <GO>}
 
 Bloomberg Transcript
 

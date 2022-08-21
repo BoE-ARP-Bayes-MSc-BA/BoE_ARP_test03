@@ -109,10 +109,7 @@ FINAL
 With that, I would like to turn over the presentation to our CFO, Paul Norton, who will now provide
 you with the most important information about the key financial figures.
 
-Paul Norton
-
-{BIO 16145125 <GO>}
-
+Paul Norton {BIO 16145125 <GO>}
 Thank you, Philipp. So, ladies and gentlemen, I'd also like to welcome you to the analyst
 conference. Over the next 20 minutes, I'll give you some more detailed information on our
 financial performance in the 2016 financial year. I'd like to turn to slide 7 with the results by business
@@ -568,10 +565,7 @@ assume that one (56:55) to be, more or less, linear if interest rates increase? 
 also on SST. Can you give us some feel how much basically change in the reporting by FINMA
 market value margin and scenario would bring as an uplift to your SST ratio?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Repeat the last one.
 
 Q - Stef an Schürmann
@@ -584,10 +578,7 @@ Okay. Thank you for those three questions. It's easy for me. I hand over to Paul
 
 FINAL
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 The reserving on the life business is actually shown on page 172 of our accounts. It's CHF 162
 million, of which almost entirely, it's Switzerland, and almost entirely the life business. The split
 between group life and the individual life is not given.
@@ -605,10 +596,7 @@ Okay. Then, please, Mr. Daniel Bischof from Helvea Baader.
 
 Bloomberg Transcript
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Thanks. Three questions as well. The first one on the integration cost of CHF 217 million. There
 seems to be a little bit of an overrun here. What was the reason for that? The second one, also in
 SST, different sensitivity, the credit spreads sensitivity, and you increased the corporate bond
@@ -625,10 +613,7 @@ A - Philipp Gmür
 Okay. Thank you, Daniel. I would ask Paul to answer question one and two, and I will then answer
 question number three. First to the integration cost.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Yeah. The integration cost, as you said, is slightly higher than we expected, but also the end
 synergies should be slightly higher than expected. We expected over CHF 130 million now,
 (01:00:23) and when you look at the payback period, then it's not much changed. The other thing,
@@ -654,10 +639,7 @@ Okay. Turning to your question number three with regard our combined ratios in t
 country markets. We have, as you probably know, given a guidance with regard to the group-wide
 combined ratio, which should end up in a range between 92% and 94%, we do not give...
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Below 93%.
 
 A - Philipp Gmür
@@ -671,10 +653,7 @@ profitable in all different markets. The trends, as you see, goes in the right d
 
 Bloomberg Transcript
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Philipp, maybe I can say a word on Germany and Spain. I mean Spain, as you know, the prior year,
 they changed the so-called Baremo rules on bodily injury, and that resulted in a little bit of
 additional reserving across the whole market.
@@ -701,10 +680,7 @@ result. And as we can see, there is quite a lot of volatility like in the saving
 And I was wondering if you could give us a little bit of a feel what life result could look like in 2017,
 2018? So, what is a reasonable run rate?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 There is no guide. (01:04:48)
 
 
@@ -749,10 +725,7 @@ number one and two regarding the life business and the integration cost, then as
 the question with regard to the investment results, and I would then end up with answering the last
 question regarding the fintech investment. Paul?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Okay. Yeah. Slide 14. I seem to get from that you wanted some guidance on future years, but as
 you know, we don't give guidance on future years. I mean, I think what I can say is that the saving
 results and the risk result was the main, the steady, stable, underlying pillars of the life result. And
@@ -783,9 +756,7 @@ underlying earnings will eventually move on after 2018 once the integrated part 
 Q - René Locher
 After your integration. (01:09:54)
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 Bloomberg Transcript
 
@@ -802,10 +773,7 @@ the conversion there (1:10:37).
 A - Philipp Gmür
 Okay. Thank you, Paul. Then, Ralph, please.
 
-A - Ralph-Thomas Honegger
-
-{BIO 4932832 <GO>}
-
+A - Ralph-Thomas Honegger {BIO 4932832 <GO>}
 (1:10:47). As you know, we only started investing in BBB corporate bonds in 2015. So, also in 2016,
 there was some room left to make investments in this asset class, and that's what we basically did
 in U.S. dollar, but also in Europe and in Switzerland. So, this certainly was one of the main drivers of
@@ -834,9 +802,7 @@ coming from outside. And given, over the period of five years, the number of, as
 million, CHF 11 million per year, if it's finally split up, I mean it depends on the investments we are
 doing at the end of the day, I think it's very brief (1:14:06).
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 FINAL
 
@@ -846,10 +812,7 @@ actually an investment. It's no different from other investments that Ralph make
 Q - René Locher
 (1:1418).
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Well, no, it's from the investment pool. So, basically, it's just another investment class. So, it's not
 being written off. So, it doesn't affect the dividend capacity. Obviously, if we have failures in some
 of them, they get written off. Some of them – then that will affect the dividend capacity. But think of
@@ -868,10 +831,7 @@ Operator
 The first question from the phone is from Guilhem Horvath from Exane BNP Paribas. Please go
 ahead.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Yes. Good morning, everyone. I actually have four questions, and the first two ones are following
 up questions on what has been asked by my colleagues. First one is on the life operating result
 split, on the fee result, which I'm a bit surprised to see it flat year-on-year. Can you maybe
@@ -897,9 +857,7 @@ regarding the growth target. Paul?
 
 
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 FINAL
 
@@ -920,10 +878,7 @@ of the synergies, we've always stuck to the line, first of all, CHF 105 million 
 in the last year when we got more comfortable (1:19:03) said it will be over CHF 130 million, but we
 don't want to put any numbers on it at the moment.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Understood.
 
 Bloomberg Transcript
@@ -944,19 +899,13 @@ have been active in Germany for 150 years. So, those two markets are well-known 
 and of course, it depends on the opportunity. But it's too early to talk about specific targets we are
 (1:21:04) will be identifying.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Okay. That's very clear.
 
 A - Philipp Gmür
 More questions?
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Thanks.
 
 Operator
@@ -966,10 +915,7 @@ The next question is from Jonny Urwin from UBS. Please go ahead.
 
 FINAL
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hello. Just two for me, please. So, firstly, on reserve releases, I note that there's no change in
 disclosure today. Can you guide us to the – or just give us some color around the absolute level of
 reserve releases, that would be great. We're just trying to get a better view of the underlying
@@ -981,10 +927,7 @@ especially in Switzerland. Thank you.
 A - Philipp Gmür
 Okay. Paul, please.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Okay. We don't, as you know, give any details on the so-called reserve releases. Our view is we
 don't have reserve releases. But I can turn you to slide 40 (sic) [slide 39] (1:22:15) in the pack, which
 gives you a walk between the prior year and the current year combined ratio. And you can see that
@@ -999,10 +942,7 @@ I would like to add with regard to the question of sustainability. So, we did no
 with any specific reserve releases in order to make any kind of window dressing. We are and we
 remain adequately reserved in our non-life book.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Claims inflation versus pricing. That's a good one. It varies from market to market. I think in Italy,
 we've obviously seen the situation, less the claims inflation, while the pricing is coming down
 compared with existing level of claims. I think generally, there's not been much in the way of claims
@@ -1013,10 +953,7 @@ through the markets, particularly looking at the motor business and – where we
 tariffs and the inputs into the tariffs. But certainly at the moment, there's nothing which indicates
 that claims inflation is significant or is indeed outstripping our pricing.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thank you very much.
 
 A - Philipp Gmür
@@ -1025,10 +962,7 @@ More questions on the phone?
 Operator
 The next question is from In-Yong Hwang from Goldman Sachs. Please go ahead.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Good morning. Thank you very much for taking my question. Just two from me. First on
 smile.direct, which you seem to focus on quite a lot today. Could you just give us some details
 around, as that just becomes a more substantial part of your business, whether you're worried
@@ -1054,10 +988,7 @@ are not. We are addressing other clients with, to a certain extent, other risks 
 journey. So, we do not see a big risk with cannibalizing our own book. And talking about Swisscanto,
 Paul?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 I don't think we disclose separately the Swisscanto volumes actually. We have – if you look on the
 page 44 which shows the breakdown of reserves, you'll see that of the group life, we have CHF 17
 billion worth of group life reserves, of which CHF 6 billion is other, which is essentially the
@@ -1072,10 +1003,7 @@ with Swisscanto, we also see good growth during the last two or three years. And
 want to stress that point in the future because here, we are a poorly reinsurance company. We do
 not bear the savings risks of the Swisscanto clients on our own balance sheet.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Great. Thank you very much.
 
 A - Philipp Gmür
@@ -1084,10 +1012,7 @@ More questions?
 Operator
 The next question is from Iain Pearce from Berenberg. Please go ahead.
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 Hi. Morning, everyone. I just had a couple of questions on dividend guidance, in particular, because
 it seems to be a little bit confusing. So, at the moment, you're saying not to expect a CHF 2
 increase. But the step-up could be brought forward earlier. At the moment, consensus is assuming
@@ -1103,9 +1028,7 @@ Okay. I ask Paul to answer question number two and I will then turn to the divid
 
 
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 FINAL
 
@@ -1133,10 +1056,7 @@ Bloomberg Transcript
 
 Paul, do you want to add something?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 I think that's proving us (1:30:58) about right. I mean it's – we estimated at the time of acquisition
 the synergies to be roundabout CHF 3 to CHF 4 – worth CHF 3 to CHF 4, (1:31:10) CHF 4 actually
 per share. And I understand there is some, I wouldn't say concern, but it's a question mark as when
@@ -1148,10 +1068,7 @@ anticipated. It's a question of when that will take place. And we don't want to 
 synergies have been fully phased in, which will certainly be not until the end of this year. So, at the
 earliest, 2018 year in this (1:31:57) payment.
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 Okay. Thank you.
 
 A - Philipp Gmür
@@ -1160,10 +1077,7 @@ More questions?
 Operator
 The next question is from Peter Eliot from Kepler Cheuvreux. Please go ahead.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Thanks very much guys. And I apologize in advance. I had to step up for 10 minutes because I hope
 I haven't – I'm not asking something that has already been asked. But the first one I would – would
 you rather tell – say what the payout ratio is on statutory earnings? And perhaps just a quick – a
@@ -1187,10 +1101,7 @@ were or have been over the last couple of years? Thank you.
 A - Philipp Gmür
 Thank you, Peter. Paul?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Yeah. The payout ratio on statutory is roughly 58%. Obviously, that's a bit provisional because
 statutory accounts take longer to produce but actually (1:33:44) a good guidance. Yes, we
 potentially could raise; we could raise the dividend a bit more, but we want to be a little
@@ -1203,20 +1114,14 @@ Bloomberg Transcript
 
 M&A.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 M&A, yeah. M&A, yes we do have more capacity, more time to do M&A transactions. But the first
 and biggest consideration is can we find the right M&A transaction to do. Those who remember us
 pre-Nationale Suisse days, we often reported we've had a look at a lot of M&A deals over the year
 and we haven't done any and that will still be our philosophy. Just because we've got more time,
 please don't expect us to rush into doing M&A transactions.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Thank you very much.
 
 A - Philipp Gmür

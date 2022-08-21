@@ -24,10 +24,7 @@ Good day and welcome to the ASR Nederland Half Year Results 2020 Conference Call
 being recorded. At this time, I would like to turn the conference over to Michel Hulters. Please go
 ahead, sir.
 
-Michel Hulters
-
-{BIO 19111905 <GO>}
-
+Michel Hulters {BIO 19111905 <GO>}
 Thank you, operator. Good morning, ladies and gentlemen. Welcome to the ASR conference call
 on the half year 2020 results. On the call with me today are Jos Baeten, our CEO; and Annemiek
 van Melick, our CFO. Jos will in a minute kick off as customer with the highlights of our financial
@@ -38,10 +35,7 @@ you may have. And as usual, please do have a look at the disclaimer that we have
 our presentation for any forward-looking statements.
 So having said that, Jos, the floor is yours.
 
-Jos Baeten
-
-{BIO 2036695 <GO>}
-
+Jos Baeten {BIO 2036695 <GO>}
 Thank you, Michel, and good morning, everyone. Thank you for joining us on this call and I hope
 you and your beloved ones are all in good health in those challenging times. Let me start to say
 that I'm really proud of the way our company and our employees have continued serving our
@@ -285,9 +279,7 @@ due to lower interest rates and the increase in interest expenses of EUR6 millio
 million Tier 2 subordinated liability as placed in 20 -- in April 2019.
 And with that, Annemiek, I hand over to you.
 
-Annemiek van Melick
-
-{BIO 20317450 <GO>}
+Annemiek van Melick {BIO 20317450 <GO>}
 
 Bloomberg Transcript
 
@@ -441,10 +433,7 @@ FINAL
 
 And with that, I'd like to hand it back to Jos for final wrap up.
 
-Jos Baeten
-
-{BIO 2036695 <GO>}
-
+Jos Baeten {BIO 2036695 <GO>}
 Thank you, Annemiek. Well done. And let me summarize briefly and conclude that ASR is a very
 strong position and we delivered again a very solid performance. During the COVID-19 pandemic,
 the well-being of our employees and the quality of our customer service has been top priority. As a
@@ -470,10 +459,7 @@ Operator
 Thank you. (Operator Instructions) We can now take our first question from Cor Kluis. Please, go
 ahead.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Hello. Good morning. Cor Kluis, ABN AMRO. I've couple of questions. First of all on the good OCC
 figures. Could you split out what the positive experience variance was? You said some positive
 noneconomic variance, and of course, that's the Non-life. I am especially interested in the Life
@@ -497,10 +483,7 @@ still based or are you looking to an internal model or not? So those are my ques
 
 FINAL
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Well, let me start with the claims development and then Annemiek will talk about the other
 questions. What we currently see and I at least try to mention it, in the first half, we have seen less
 claims in burglary in car and in the second half. It actually turned back to normal with maybe a bit
@@ -523,10 +506,7 @@ Bloomberg Transcript
 So I think that would answer your third question and Annemiek is happy to take the other two and a
 half questions.
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 Hi, Cor. Your question related to the non-economic variance and technical result. Let me help out
 there a little bit. If you look at the increase in business capital generation, which is the EUR283
 million which actually was an increase of EUR32 million versus last year. It's fair to say that the
@@ -548,10 +528,7 @@ ranging from longevity trades to -- for the stuff on hybrid or actually moving t
 model. This point in time, there is no specific need to do so, but be assured it's always on our mind
 to review.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Okay. Thank you. Thank you very much.
 
 Operator
@@ -562,10 +539,7 @@ We can now take our next question from Albert Ploegh. Please go ahead.
 
 FINAL
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Yes, sir. Good morning. The question also on the seasonality effect from the disability book, and
 also when looking at your full-year presentation on the 501 million OCC at the time, there was a
 new business strain of around EUR120 million. Now the strain at least on the disability part is
@@ -580,10 +554,7 @@ well? Thank you.
 
 Bloomberg Transcript
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Yes, let me first go into the second question. Before we acquired Loyalis, it was roughly 50-50, the
 gross written premium in individual business and in more group oriented business. Since we
 acquired Loyalis, that number shifted a little bit and today roughly 40% is in the individual business
@@ -597,10 +568,7 @@ assuming that there will not be any further lockdowns, et cetera, which hopefull
 So I think that, that's the answer to your question, Albert. And the first question on OCC, will be
 taken care of by Annemiek.
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 Yes, Albert. In terms of new business strain, you kind of have to see that on an aggregate level.
 Obviously, It's the release of capital, new business strain you kind of communicated, right. You add
 new business, the new business strain has a negative impact on SCR and kind of it flows out
@@ -613,10 +581,7 @@ be some impact on it in H2, but by and large, we have no reason to currently est
 completely different impact of the business range and impact therefore on net capital release for
 H2.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Thank you very much.
 
 Operator
@@ -626,10 +591,7 @@ We can now go to our next question from Robin van den Broek. Please go ahead.
 
 FINAL
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Yes, sir. Good morning, everybody. Thank you for taking my question. Sorry to come back to OCC,
 but I was just looking to get an answer on H2 versus H1. I think you're indicating that the seasonality
 in D&A is probably around EUR100 million negative H2 versus H1. You compare it to last year H1
@@ -648,10 +610,7 @@ through today. Just wondering if you see more opportunities at the moment. Thank
 
 Bloomberg Transcript
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Well, let me start with the question on how we think DNB looks at capital return. I think from a DNB
 perspective, it is very important that every company has its own way of looking at capital hurdles,
 et cetera. So we have set our capital return hurdle for dividend, for example, at the EUR 140
@@ -673,17 +632,11 @@ capital.
 (Multiple Speakers)
 To your first question -- yes, go on.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 So from that perspective, you don't see any risk basically to continue to deliver on your capital
 return promises you made earlier in the year?
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Well, we've always said if and when our capital remains strong and above EUR 180 million, and we
 will judge that in February next year when we present our full-year numbers 2020. We still have the
 intention to come up with a second buyback of again EUR75 million like we announced at the full-
@@ -704,9 +657,7 @@ still in Life, hopefully over time also in Non-life business. So we're optimisti
 our focus remains on delivering on organic growth because that is what we can see directly today.
 So the first question was again on OCC and I hand over to Annemiek for that.
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
+A - Annemiek van Melick {BIO 20317450 <GO>}
 
 Bloomberg Transcript
 
@@ -729,33 +680,22 @@ So we're not pessimistic there at this point in time, but it really depends on w
 will move, how market observables spreads will go and what will actually happen with the both
 volume and pricing of the disability business in the second half of the year.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 But based on the market standings for Q2 or today, you wouldn't dismiss the feasibility of that
 EUR500 million basically, is that a short summary of the question? Or -- okay, again it's difficult to
 be precise with all the moving parts with it. Okay. Thank you.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 You have always says we are not pessimistic. You should draw your own conclusions.
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 Yes. It just remains a very lumpy thing to predict these, specifically due to the disability business.
 That's why we have a little bit mindful here.
 
-Q - Robin van den Broek
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Thank you again.
 
 Operator
-
-{BIO 17002948 <GO>}
 
 
 
@@ -763,10 +703,7 @@ We can now take our next question from Benoit Petrarque. Please go ahead.
 
 FINAL
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Yes. Good morning. It's Benoit Petrarque from Kepler Cheuvreux. Yes, a few questions on my side
 just to maybe to come back on the UFR drag. Could you repeat the kind of drag into H2 at current
 rates or the doubling of the effect? But I think it was EUR96 million, which kind of doubling will make
@@ -788,10 +725,7 @@ environment where macro will be more difficult, while some corporates might go b
 at some point in the cycle. How do you see the disability combined ratio moving on an underlying
 basis more in 2021? Thank you very much.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 The questions on the OCC and the market observable spreads within that, will be taken by
 Annemiek. On health, yes, we have seen growth there. The targeted combined ratio in health
 since the IPO has been 99% and a business we've currently written will -- as far as we can judge it
@@ -810,24 +744,17 @@ behave and whether the government or cities think it's going to be necessary to 
 closedowns going forward.
 For the first two questions, Annemiek, I hand it over to you.
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 Ben, your question on the UFR drag, we didn't mean double in a way that it would be EUR119
 million in H2, but I think you can just extrapolate the EUR96 million, so add another EUR96 million
 for H2, if rates are to stay at the current level.
 
-Q - Benoit Petrarque
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Right.
-
-{BIO 15997668 <GO>}
 
 
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
+A - Annemiek van Melick {BIO 20317450 <GO>}
 
 FINAL
 
@@ -836,52 +763,32 @@ obviously for excess return we use the fixed spreads for shares and for real est
 seen there for corporates, would be anything around 130, 140 bps sovereign noncore around 20
 bps. That's probably the figure to work with there.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 And on the mortgages?
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 On mortgages, we are currently at around EUR 150 million.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 EUR 150 million?
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 EUR 150 million.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 
 Bloomberg Transcript
 
 EUR 150 million, yes, okay. Cool. Thanks. Thank you very much. (Multiple Speakers) I know this is a
 bit of margin pressure of it.
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 Not that much. Thank God.
 
 Operator
 We can now take our next question from Fulin Liang. Please go ahead.
 
-Q - Fulin Liang
-
-{BIO 21126177 <GO>}
-
+Q - Fulin Liang {BIO 21126177 <GO>}
 Hi. Thanks, and good morning, everyone. That's very good results. I have a couple of questions. So
 the first one is that on the Page 32 of the slides, I noticed that the credit loss of your H1 is actually
 just 1 bps, which is unusually lower than the -- than just a normal average year. So I wonder could
@@ -894,10 +801,7 @@ exposure of these derivative assets? Was it exposed to high interest rate, lower
 higher credit spread or lower credit spread? So some color on that would be great. And that's it.
 Thank you.
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 Yes, the 1 basis point credit loss is indeed extremely low, but we just really have not seen any
 foreclosures in the first half year. Now could that increase in the second half ? Yes, it could. Do we
 currently have signs within our mortgage portfolio that arrears are really ramping up and that
@@ -916,25 +820,16 @@ don't expect any massive impact there in the second half. In terms of derivative
 entire derivatives portfolio is mainly the portfolio we use for interest rate hedging, and more or
 less all very common swaps and swaptions in there.
 
-Q - Fulin Liang
-
-{BIO 21126177 <GO>}
-
+Q - Fulin Liang {BIO 21126177 <GO>}
 Okay. Thank you very much. Sorry. Sorry, just a follow-up question on the spread. If I understand
 correctly, so your OCC would reflect the actual credit loss on the mortgage, right? If the credit loss
 goes up, it will be reflected on the OCC right away?
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 Yes. The spreads that we use for mortgages are market observable, so to the extent of that will
 be then reflected into the market observable spreads, it will go directly into the excess return.
 
-Q - Fulin Liang
-
-{BIO 21126177 <GO>}
-
+Q - Fulin Liang {BIO 21126177 <GO>}
 Okay. Thank you.
 
 Operator
@@ -942,10 +837,7 @@ Operator
 
 Bloomberg Transcript
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yes, hi. Good morning everyone. Just a couple of questions I have is first of all on solvency. Now, if I
 look at the group solvency, it had gone up versus full year, but if I look at the Life and P&C, both of
 those divisions' solvency ratio has gone down. And my focus is especially on P&C. I mean, you
@@ -958,10 +850,7 @@ strong, capital generation is still pretty robust, the cash remittances are stil
 should we be thinking more about mid-range payout as well rather than sticking with the low end
 of the payout ratio? Thank you.
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 All right. Let me start with your first question actually Ashik. In terms of solvency movement -- I'm
 trying to get that page actually that you refer to where we have those figures. The group level
 solvency is higher obviously than we have at the Life and Non-life also due to the diversification
@@ -976,9 +865,7 @@ from other, and only EUR80 million from Non-life. And I think it's fair to say, 
 for the second half of the year, we would probably look more towards Life than some of the other
 operating entities not being Non-life.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
+A - Jos Baeten {BIO 2036695 <GO>}
 
 
 
@@ -993,18 +880,13 @@ room to stick up to our promise and it's too early to comment on whether we woul
 midpoint or to the higher end or stick to the lower end. We do have a cushion and if necessary, and
 it's good for the company for the long term, we are willing to use that cushion.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. That's very clear. Thank you.
 
 Operator
 We can now take our next question from Farquhar Murray. Please go ahead.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
+Q - Farquhar Murray {BIO 15345435 <GO>}
 
 Bloomberg Transcript
 
@@ -1018,10 +900,7 @@ relatively long term, so a bit surprised to see something material coming from r
 then equally on the COVID side, are there any material magnitudes for rent deferral or rent
 forgiveness in terms of ASR as a landlord? Thanks.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Well, on your volume question in P&C and disability, roughly one-third of the increase comes from
 increased premiums. Last year, we increased the sickness leave premiums, that has been helpful.
 And also in car and fire, we had some slight increases last year, so that has been helpful. But most
@@ -1042,10 +921,7 @@ premiums the day thereafter, we wait before the full year is over and then make 
 whether this is a structural development and you need to increase premiums. But that's not the
 case yet.
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 And then your question related to real estate and rents, didn't -- we did indeed see specifically at
 the start of the lockdown and through the lockdown period, which in the Netherlands lasted for a
 
@@ -1079,46 +955,28 @@ Bloomberg Transcript
 In terms of vacancy, we started the year with around 3.5% vacancies in the retail space and we're
 now at 3.7%.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Okay. Just to clarify then, when you talk of to rent reductions, is that the provision you are making
 for kind of postponement?
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 I think that the total postponement that we've granted was around EUR5 million, and the provision
 we made for that was close to EUR3 million. So we've provisioned for more than half of the
 postponements and still expect to get quite a jump back of that.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Yes. But then, is that the reduction in rents that you're talking about in the P&L that we're seeing?
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 Correct. Yes.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Okay. All right. Thanks so much.
 
 Operator
 We can now take our next question from Steven Haywood. Please go ahead.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Thanks very much. You've obviously spoken about guidance for the full-year 2020 operating profit
 between the midpoint of full-year '18 and full-year '19. And now you're saying slight north of this.
 
@@ -1134,10 +992,7 @@ half ? And then finally on the 3% to 5% gross written premium target that you're
 and disability. Is there any specific source of customers here, any specific source of distribution or
 any specific competitor, which is losing business to you? Thank you.
 
-A - Annemiek van Melick
-
-{BIO 20317450 <GO>}
-
+A - Annemiek van Melick {BIO 20317450 <GO>}
 Can I start with the impairment question? We did actually -- we did see some impairments coming
 through. I think we've even disclosed in our press release that, that was on total a difference
 versus last year of EUR32 million and there's impairments predominantly related to the equity
@@ -1151,10 +1006,7 @@ may see some additional impairments on equities come through.
 
 Bloomberg Transcript
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Thank you, Annemiek. Well, Steven, as you might know, I have a legal background and I assume
 you've been better in math than I was at school. So I think the guidance on the full year is pretty
 clear. If you would take the number which we ended on in 2018, you would add it up in 2019

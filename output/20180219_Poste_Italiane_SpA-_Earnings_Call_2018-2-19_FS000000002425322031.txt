@@ -29,10 +29,7 @@ Conference Call. Today's conference is being recorded.
 At this time, I would like to turn the conference over to Mr. Matteo Del Fante, CEO. Please
 go ahead, sir.
 
-Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+Matteo Del Fante {BIO 6237992 <GO>}
 Good afternoon, ladies and gentlemen. We're pleased to present the 2017 preliminary
 results of Poste Italiane. As you know, I was appointed CEO in May last year. We have all
 worked hard since to lay the foundation of our strategy. We're presenting our preliminary
@@ -97,9 +94,7 @@ of our business.
 Let me now hand over to the CFO, Roberto Giacchi, who will comment on each speciﬁc
 business unit results. Thank you.
 
-Roberto Giacchi
-
-{BIO 20101579 <GO>}
+Roberto Giacchi {BIO 20101579 <GO>}
 
 Page 2 of 16
 
@@ -373,10 +368,7 @@ This is in summary the segment view (00:34:59) we are going to work with over th
 coming years. That's all for our results. Thank you for your attention. Let me hand over to
 CEO, Matteo Del Fante, for some closing remarks.
 
-Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+Matteo Del Fante {BIO 6237992 <GO>}
 Thank you, Roberto. So, we have presented today what we consider strong operating
 results in management vision (00:35:30) year where we kept the pace of cost discipline,
 we kept the pace of our voluntary early retirement plan, and we kept the pace of investing
@@ -404,9 +396,7 @@ Q&A
 Operator
 Thank you. We are taking the ﬁrst question from Kunal Zaveri from JPMorgan.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 Bloomberg Transcript
 
@@ -421,32 +411,20 @@ good run rate going forward as well, the decline, assuming interest rate remains
 is at the moment? So, any thoughts on these two questions would be very good. Thank
 you.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 I take the ﬁrst question on Insurance. The management fees actually is a percentage of
 technical reserve and is currently stable. So, the increase that you have seen in
 management fees revenue is basically based on the increase of technical reserves. So, we
 didn't change the percentage of the management fees, just that increase the amount, the
 total amount of technical reserves.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. But if I look at the technical...
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Without the...
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Sorry. I was just saying if I look at the technical...
 Page 8 of 16
 
@@ -456,39 +434,25 @@ Company Name: Poste Italiane SpA
 Company Ticker: PST IM Equity
 Date: 2018-02-19
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Yeah, please go ahead.
 
 FINAL
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 ...reserve on slide number 15, it went up by 9%, whereas management fees went up by
 25%. I think what I might be missing is the average technical reserve might have gone up
 more than 10%. Is that the case?
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 I mean, the total increase of technical reserve has a diﬀerent composition of classes. So,
 it's an increase in class I products, an increase in class III products. The overall eﬀect of the
 increase is the one that you see on revenues.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. Got it. Yeah.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
+A - Roberto Giacchi {BIO 20101579 <GO>}
 
 Bloomberg Transcript
 
@@ -498,34 +462,23 @@ you will see at our Capital Market Day, we have carefully forecasted the interes
 for the coming years, and we will show exactly the trend that we are expecting for the
 coming years for interest rate and capital gains (00:41:00).
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. So, probably I'll wait for that. Yeah.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Yeah, we have also to remember that if we are taking around €400 million to €500 million
 capital gains per year in our income statement, what remains as an average
 yield to the portfolio even in stable markets is trending down, but this is going to be
 detailed (00:41:29) in our ﬁve-year plan.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Thanks. That's all what I look for. Thank you. Thanks a lot.
 
 Operator
 We are now taking our next question from Gianluca Ferrari from Mediobanca. Your line is
 open. Please go ahead.
 
-Q - Gianluca Ferrari
-
-{BIO 15042989 <GO>}
+Q - Gianluca Ferrari {BIO 15042989 <GO>}
 Page 9 of 16
 
 
@@ -546,10 +499,7 @@ And on asset management, given that you gave us the picture of ﬂows in postal 
 outﬂows in asset management products and mutual funds in ﬁrst half and second half last
 year. Thank you.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 So, question about sensitivity. An increase for 50 basis point on government spread. Their
 market value of investment decreased by €3 billion. The own funds level decreased by
 about €500 million. The solvency ratio level moved down from 280% to 247%. If we have
@@ -557,37 +507,25 @@ an increase of 50 basis point of spread corporate bond, the market value of inve
 decrease by €600 million about (00:43:46), the own funds level increase by €146 million,
 and the solvency ratio level moves from 280% to 293%.
 
-Q - Gianluca Ferrari
-
-{BIO 15042989 <GO>}
-
+Q - Gianluca Ferrari {BIO 15042989 <GO>}
 Thank you.
 
 Bloomberg Transcript
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 On the derisking of the technical reserves is keeping its lower base. We are deﬁning our
 strategic asset allocation for 2018, but clearly, current market condition and very high
 valuation in most of the asset classes are not pushing for an acceleration of that, but in
 terms of your last question, I would probably keep it, move to the next question, and if
 possible, we'll try to answer you before the end of the call.
 
-Q - Gianluca Ferrari
-
-{BIO 15042989 <GO>}
-
+Q - Gianluca Ferrari {BIO 15042989 <GO>}
 Thank you very much.
 
 Operator
 We are now moving to Emanuele Borghetti from Intermonte. You may now go ahead.
 
-Q - Emanuele Borghetti
-
-{BIO 19118661 <GO>}
-
+Q - Emanuele Borghetti {BIO 19118661 <GO>}
 Yes. Good evening to everybody and congratulations for the results. A couple of
 questions from my side. The ﬁrst one is on the cost of labor that you booked some one-oﬀ
 related to the bonus for the workforce in the fourth quarter. And if you could provide us
@@ -603,9 +541,7 @@ Company Name: Poste Italiane SpA
 Company Ticker: PST IM Equity
 Date: 2018-02-19
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
+A - Roberto Giacchi {BIO 20101579 <GO>}
 
 FINAL
 
@@ -614,19 +550,14 @@ Market Day, also to give you a full picture of – a full and detailed picture o
 aspects. About the cost of labor, basically, we do expect increase in wages in line with
 inﬂation. Today, we have an assumption at around 1.7%.
 
-Q - Emanuele Borghetti
-
-{BIO 19118661 <GO>}
-
+Q - Emanuele Borghetti {BIO 19118661 <GO>}
 All right. Thanks.
 
 Operator
 The next question comes from Giovanni Razzoli from Equita. Your line is open. Please go
 ahead.
 
-Q - Giovanni Razzoli
-
-{BIO 7269718 <GO>}
+Q - Giovanni Razzoli {BIO 7269718 <GO>}
 
 Bloomberg Transcript
 
@@ -643,10 +574,7 @@ previous quarter and also with last year of 2016. I was wondering whether there 
 been some acceleration in terms of investment portfolio strategy impact in the Q4
 performance. Thank you.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Okay. So, let's start from the Q4 performance. The Mail and Parcel division in the Q4
 experienced a decrease of revenues for €123 million, Q4 2017 versus Q4 2016. Also, bear
 in mind that here, we have had in the Q4 2016 the €108 million extraordinary one-oﬀ
@@ -659,9 +587,7 @@ revenues were almost stable, but there was a strong increase in EBIT. EBIT was i
 Insurance and Asset Management business in the Q4 equal to €284 million versus the
 €200 million in 2016. So, plus €84 million.
 
-Q - Giovanni Razzoli
-
-{BIO 7269718 <GO>}
+Q - Giovanni Razzoli {BIO 7269718 <GO>}
 Page 11 of 16
 
 
@@ -674,59 +600,39 @@ Thank you. And now, we wonder whether this performance in the Q4 of the Insuranc
 Asset Management is also reﬂecting some one-oﬀs or non-recurring contributions of
 some kind.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
+A - Roberto Giacchi {BIO 20101579 <GO>}
 
 FINAL
 
 Sorry. It was not clear. Can you say it again, please?
 
-Q - Giovanni Razzoli
-
-{BIO 7269718 <GO>}
-
+Q - Giovanni Razzoli {BIO 7269718 <GO>}
 Yeah. Sorry. I was wondering whether this strong acceleration that you have mentioned in
 the Insurance and Asset Management EBIT performance in the Q4 is reﬂecting some nonrecurring contributions of some kind in terms of either performance of the portfolio,
 investment portfolio or...
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 So, I tried to understand – I mean, your question is if we have non-recurring item in
 Insurance you mean?
 
-Q - Giovanni Razzoli
-
-{BIO 7269718 <GO>}
-
+Q - Giovanni Razzoli {BIO 7269718 <GO>}
 Yeah, in the Insurance, you've mentioned €284 million of EBIT, which is up €85 million (sic)
 [€84 million] (00:51:09) year-on-year.
 
 Bloomberg Transcript
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 In Q4, we have not accounted extraordinary item in Insurance. So, they are all ordinary
 numbers.
 
-Q - Giovanni Razzoli
-
-{BIO 7269718 <GO>}
-
+Q - Giovanni Razzoli {BIO 7269718 <GO>}
 Okay. Thank you.
 
 Operator
 We are now taking a question from Matija Gergolet from Goldman Sachs. Your line is
 open. Please go ahead.
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
-
+Q - Matija Gergolet {BIO 3561672 <GO>}
 Yes. Hello. Good afternoon. Two questions from my side. The ﬁrst one is relating to
 Parcels. Just in the fourth quarter, if I did my numbers correctly, I think you had a decline
 in revenues in Parcels as well, which is perhaps a little bit surprising given that there
@@ -746,45 +652,31 @@ Date: 2018-02-19
 was there something that I was missing from the past? And if there was any other, say,
 exceptional items that you think is worth (00:52:35) for this quarter? Thank you.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
+A - Roberto Giacchi {BIO 20101579 <GO>}
 
 FINAL
 
 On the ﬁrst question, on page 19, we speciﬁed that Parcel revenues are growing from
 €649 million to €693 million, so that's an increase of €6.7 million.
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
-
+Q - Matija Gergolet {BIO 3561672 <GO>}
 Now, okay, but if you look at your nine-month ﬁgures, I think for your nine months, you're
 already €41 million ahead. Now, you are €44 million ahead, which is, let's say, fairly
 (00:53:20) ﬂattish or in a market we should be growing quite nicely.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 I mean, we have had a very good quarter in 2016. The Q4 was very good in 2016, and we
 have had a good quarter also in 2017. On top of this, we had to consider that we have had
 a labor strike in our express courier business unit that at the end, generated a revenue
 loss or about €15 million. So, adding this €15 million, we have had a more solid growth
 quarter-on-quarter.
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
-
+Q - Matija Gergolet {BIO 3561672 <GO>}
 Okay.
 
 Bloomberg Transcript
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 We have always to keep in mind that this kind of labor strike are quite common in the
 industry, and we have been aﬀected in the last quarter as well as other competitor has
 been aﬀected. Going to the other question that you made, the one-oﬀ recap (00:54:43), I
@@ -792,25 +684,16 @@ can tell you that Mastercard was accounted in 2017 for €91 million and that in
 accounted for the Visa sale, and the capital gain account in 2016 was €121 million. So, the
 net eﬀect is minus €30 million
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
-
+Q - Matija Gergolet {BIO 3561672 <GO>}
 Okay. And so, can I just on that Visa, Mastercard, do you have any shares outstanding of
 those two or is that now all gone?
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 We have a limited amount of shares still outstanding in Visa, but it will take several years
 before that we can dispose and monetize. So, it's both immaterial and not an item that will
 materialize soon.
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
-
+Q - Matija Gergolet {BIO 3561672 <GO>}
 Okay. Thank you.
 
 Operator
@@ -827,19 +710,13 @@ go ahead.
 
 FINAL
 
-Q - Elena Perini
-
-{BIO 4202240 <GO>}
-
+Q - Elena Perini {BIO 4202240 <GO>}
 Yes. Good afternoon. I have only one last question about the combined ratio of the P&C
 business because I couldn't get the properly the ﬁgure about it. And I was also wondering
 that if on the decline of the last ratio, there were some extraordinary items or one-oﬀ and
 so on (00:56:43)? Thank you.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Yes. So, as I said before, the combined ratio fell to 56% from 76% in 2016, thanks to an
 improved loss ratio from lower (00:57:04) and reduced expenses ratio. Loss ratio had
 lower claims than expected for 7% and for 7% of the overall loss ratio, we released claims
@@ -848,10 +725,7 @@ expense ratio improved by 6% and this was mainly related to the cost discipline 
 company. So, the sum of the two, the 6% of the expense ratio and the 14% of the loss ratio
 moved the combined ratio from 76% to 56%.
 
-Q - Elena Perini
-
-{BIO 4202240 <GO>}
-
+Q - Elena Perini {BIO 4202240 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -860,10 +734,7 @@ Bloomberg Transcript
 
 We are now moving to Anna Adamo from Autonomous. Please go ahead.
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 Hi. Thank you for taking my question. My ﬁrst question is on BancoPosta. You mentioned
 during the presentation that you are looking to recapitalize BancoPosta in order to boost
 the leverage ratio higher than the current 3.1%. And could you share with us how much
@@ -874,10 +745,7 @@ last year, your sensitivity was much higher, was 115 percentage points, 400 basi
 (00:59:06) of widening of the spread. And now, it's only 60 (00:59:12) . So, what have you
 done to basically reduce the sensitivity of this Solvency II that much? Thank you.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 I'll take the ﬁrst one on BancoPosta. As you know, we already did the capital injection in
 BancoPosta in 2017 for €110 million. At the Capital Market Day, the 27th of February, we
 will give you a full description and detailed description of the capital structure of the
@@ -885,9 +753,7 @@ group and the capital required by BancoPosta to sustain its business development
 what it concerned your second question, the reduced sensitivity is basically related to a
 more diversiﬁed portfolio of investment activities.
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
+Q - Anna Adamo {BIO 16893946 <GO>}
 Page 14 of 16
 
 
@@ -900,10 +766,7 @@ Okay. Thank you.
 
 FINAL
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 If there are no other questions, we had a follow-up answer to Mr. Ferrari of Mediobanca
 which was inﬂow and outﬂow from mutual funds. We are in the position of giving you a
 net ﬁgure for 2017, which is positive €700 million, and we'll give more details Capital
@@ -912,10 +775,7 @@ Market Day strategy.
 Operator
 We are taking a question from Mike Werner from UBS.
 
-Q - Michael Werner
-
-{BIO 4790902 <GO>}
-
+Q - Michael Werner {BIO 4790902 <GO>}
 Actually, all my questions have been answered. Thank you.
 
 Operator
@@ -923,44 +783,26 @@ We have a follow-up question from Matija Gergolet from Goldman Sachs.
 
 Bloomberg Transcript
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
-
+Q - Matija Gergolet {BIO 3561672 <GO>}
 Yes. Hello. Good evening. One more question from me quickly just on the portfolio of
 government bonds in your Financial Services. Could you provide us a sensitivity at yearend to change in spread and to change in interest rates, maybe what will be the change in
 capital gains for roughly 100 basis point change in interest rates or spreads, please as of
 the end of December? Thank you.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 You're referring to the investment portfolio on which...
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
-
+Q - Matija Gergolet {BIO 3561672 <GO>}
 Yeah. (01:02:23).
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 ...sensitivities. Yeah, what kind of sensitivity you're looking for?
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
-
+Q - Matija Gergolet {BIO 3561672 <GO>}
 If you have like 50 basis points of change in the spread and 50 basis points of change in
 interest rates.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Yeah, I think what we can do the best way to answer this question is the following if you
 agree. We can tell you that today versus the ﬁgure we posted in the presentation, the
 capital gain is above €2 billion and that in terms of sensitivities, we are running even
@@ -976,9 +818,7 @@ stronger sensitivities for the Capital Markets Day, stronger, I mean, higher in 
 dimension. And we will give overall scenario sensitivities next week on the overall
 portfolio if that's satisfactory for you.
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
+Q - Matija Gergolet {BIO 3561672 <GO>}
 
 FINAL
 
@@ -987,10 +827,7 @@ Yeah. That's okay. We'll be looking forward to next week then. Thank you.
 Operator
 There are no further questions.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Thank you very much, everybody, and see you next week, Tuesday, 11:00 AM, Poste
 Italiane, Milan. Thank you. Bye.
 

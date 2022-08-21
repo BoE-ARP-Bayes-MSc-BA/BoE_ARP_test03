@@ -12,10 +12,7 @@ Other Participants
 Tracy Benguigui
 
 Presentation
-Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Tracy Benguigui {BIO 21808177 <GO>}
 Good morning. I'm Tracy Benguigui, insurance analyst at Barclays, and I'm pleased to host
 our fireside session with Alan Schnitzer, CEO of Travelers. Apologies for a few minute
 delay. So why don't we just jump in? I believe that Alan has a few opening remarks and
@@ -26,10 +23,7 @@ Bloomberg Transcript
 
 With that, I'll turn it over to Alan.
 
-Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. Thanks, Tracy. Good morning, everybody. Thank you for making the time to tune in.
 Before we get going, I'm duty bound to share that to the extent we get to any forwardlooking information, there are risks and uncertainties involved, and I'd encourage
 everyone to look at our SEC filings for factors that could cause those statements to be
@@ -115,10 +109,7 @@ you'd like to get into. I just thought this would be helpful to set the stage.
 Questions And Answers
 FINAL
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 (Question And Answer)
 Thank you, Alan. I'll just remind folks that we have a survey button on the top right of the
 screen, and we actually have some audience responses, polling questions. The first one
@@ -126,9 +117,7 @@ being pricing question, and we'll will revisit that responses a bit later. But m
 kick off to Alan, maybe you could just set the stage as well on what your pricing outlook
 looks like the rest of the year and into next year.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 
 Bloomberg Transcript
 
@@ -156,10 +145,7 @@ about getting more rate or less rate. It's about getting the right price on the 
 combined with terms and conditions that's really important to managing execution and
 profitability.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Great. I mean, you did mention in a way pricing is one-dimensional. So if you want to pick
 on a non-rating variable like terms and conditions, what would you think is
 underappreciated that Travelers is putting a lot of work across the sustained rate
@@ -174,10 +160,7 @@ Date: 2021-09-14
 
 FINAL
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. So terms and conditions, really important levers in managing risk and reward and
 managing margins. And there's really a lot to that conversation. So the way I think about it,
 Tracy, I start with program terms. And so for a property policy, that would include price,
@@ -230,9 +213,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2021-09-14
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 
 Bloomberg Transcript
 
@@ -244,10 +225,7 @@ renewal retention with giving up some rate and the reverse, holding a line and s
 more rate? Could we anticipate at this point of cycle further increases in your retention
 levels?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 And so I tend -- we tend not to think about that as sort of a portfolio trade-off rate versus
 retention. Again I -- yeah, that's sort of a default to the headline number, which just isn't
 the way we executed really think about this business. As we've explained many times, we
@@ -268,10 +246,7 @@ you've looked at pricing in the last couple of quarters, that's also at an all-t
 again, given that granular count-by-count, class-by-class execution dynamic, we've been
 able to maintain both the high retention and high price.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Great. And maybe we can get into some of your business lines. I'll start off with workers'
 comp. Are you further along understanding how their bureaus will be treating 2020
 pandemic trends on 2022 loss cost filings? Our read is that COVID-19 will be treated as a
@@ -279,10 +254,7 @@ catastrophe and excluded from underlying loss cost trends. But I guess, what is 
 less clear is how these bureaus will be treating workers' comp frequency tailwind in 2020,
 which may be the real wild card.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. So this is a -- I mean, the NCCI, for example, is -- it provides the bureau service for
 many states, but it really is a state-by-state application of this process. And so it's, again,
 as always in this business, hard to generalize across all 50 states. In terms of direct
@@ -303,26 +275,18 @@ Date: 2021-09-14
 is to predict as best as possible what future loss costs are going to look like, and they
 actually do a pretty thoughtful job at that.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 
 FINAL
 
 Okay. Great. And I guess, how are those conversations going so far in terms of pricing,
 putting all that together?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 It's again hard to generalize 50 state conversations. It's a work in process. But I would say
 productive and constructive.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Okay. And then I also noticed that in the second quarter, commercial auto grew at a faster
 clip sequentially, and I understand most of this is rail. But can you contextualize rate
 adequacy on the commercial auto side? Do you think there's still rate catch-up that's
@@ -331,10 +295,7 @@ truckers on the road post-recession?
 
 Bloomberg Transcript
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. So we're always going to see some fluctuations quarter-to-quarter and the dynamic
 in commercial auto in the second quarter. Rate has for a long time and, I think, will
 continue to be a big driver of the net written premium growth. But the story in the second
@@ -352,18 +313,13 @@ needs to be. And we what expect is the economy improves to have some deteriorati
 and driver experience levels. And we would anticipate that and put that into our pricing
 models. So yes, I agree.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Okay. Now, turning to personal auto, because everyone's talking about where's frequency
 and severity. Are regulators looking at 2019 as the base year, completely discounting
 2020? And do you find that to be problematic, given rates were higher and severity was
 lower?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Page 6 of 13
 
 
@@ -387,10 +343,7 @@ having conversations with them on a regular basis, explaining where we are and w
 need. And at the end of the day or at least over time, we generally get to where we need
 to be.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Yeah. I guess, that brings me to the big question of how long it would take. I mean,
 intuitively, personal auto is six-month paper. So it should be easy to reprise. So just trying
 to understand where the regulators heads are at, so you don't go through a number of
@@ -398,10 +351,7 @@ cycles where you're behind on accumulation of loss trend.
 
 Bloomberg Transcript
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. I would say that's largely business as usual as well. There's nothing new there. It's
 the -- that's the same sort of lag in the environment that we've been navigating
 successfully for years. And as we think about where we are and where we need to be, we
@@ -412,17 +362,11 @@ This is a different environment than we had last year, for example. But it's the
 sense that we're well-versed in sitting down with our regulators and moving the process
 along.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Okay. Great. Maybe just thinking about the economy reopening, how do you anticipate
 loss cost trends emerging? Do you anticipate pent-up litigation in the courts?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 So generally speaking, just stepping back. There's clearly a correlation between economic
 activity and loss trend. And so just taking the auto line, for example, when you've got
 more congestion on the roads and you mentioned less experienced drivers, those sorts
@@ -463,37 +407,25 @@ that as you have higher levels of wages, for example, or higher levels of sales,
 economic activity, that would translate into exposure growth, which to some degree
 offsets to one degree or another, but offset that higher loss trend.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Yeah. You mentioned wage inflation. How do you think that's going to impact workers'
 comp loss trends?
 
 Bloomberg Transcript
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Generally, wage inflation is a favorable thing for workers' comp loss trend. And that's
 because that -- the premium dollars will increase linearly with wage increases, but losses
 don't move up proportionately generally. And so higher levels of wages are generally
 good thing for workers' comp margin.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Good insight. Let's talk about catastrophes. So far, the quarter shaping up to be quite
 active. How is the Ida part one and part two looking for you? And I guess my follow-up to
 that is, did Northeast derivative impact of the storm surprise you? Or is that something
 you generally capture in your models?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Good question. Ida has been getting a lot of attention, as it should get a lot of attention.
 But a really important point I want to make is even putting Ida aside, this quarter, from
 both a cat and non-cat weather perspective, is shaping up, to use your words, to be quite
@@ -515,28 +447,20 @@ Date: 2021-09-14
 models just aren't as advanced and developed. So did it surprise us? I wouldn't say it
 surprised us, but I would say the models just aren't as well developed.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 
 FINAL
 
 Got it. And do you have a prediction of the industry level loss?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 I just -- I don't spend any time at all predicting industry level losses. I just don't find any
 value in it. We spend a lot of time coming up with our own view. And I would say our own
 view is coming into focus, but not to a degree that we're prepared to share a number
 right now. But over time, it'll only be a few weeks probably before we have a much better
 handle on what the industry estimates will be, and we'll use that for our own postmortem. But I just don't find a lot of value in speculating about industry losses.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Got it. And also in light of elevated catastrophe event, I guess, it's time we to touch on
 your reinsurance buying philosophy. I mean, it seems like you're comfortable to absorb
 what I call an earnings event, even though you have Ag cover. How did you get to this
@@ -546,10 +470,7 @@ reinsurance for volatility cover?
 
 Bloomberg Transcript
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. I don't think it's quite as simple an equation as the question might imply. I mean,
 optimizing capital efficiency is an ongoing initiative for us. So our CFO, Dan Frey, focuses a
 lot on that. He and I talk about that a lot. And if there were an obvious or easy way to
@@ -569,10 +490,7 @@ write a lot of insurance, a primary insurance on the back of reinsurance, and th
 lower level of capital really leaves you exposed to changes in the reinsurance
 marketplace.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Page 9 of 13
 
 
@@ -592,10 +510,7 @@ to your $5 billion authorization. Can you just share what factors you considerin
 that determination? I mean, can you conceivably be at a point where your excess capital
 position won't result in acceleration of capital returns?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. I'll just take the opportunity to point out we've got a very long, consistent and great
 record on capital management. So we started our stock buyback program in 2006. And
 since 2006, we've returned through share buybacks and dividends nearly $50 billion of
@@ -614,19 +529,13 @@ sheet. And that's an ongoing very deliberate process for us. I would add that in
 buybacks going back to 2006, I think our -- the price per share at which we bought back
 the stock is under $70 a share, $66 or $67 or something. So it's been a great rate for us.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Got it. And I'll also do another compare and contrast to competitors. I mean, some of your
 peers have laid out explicit multi-year savings plans. What are some of the things you're
 doing on the expense side and how meaningful could that impact be to your expense
 ratio?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. So we've got a lot of competitors that are pulling out blueprints on the drawing
 board, talking about what they're going to do in terms of expense management. And I -one of the reasons I opened up the conversation with that is to a large degree, we
 started that five years ago. And so we recognized the need to do that. We didn't pull the
@@ -656,10 +565,7 @@ other alternative for what we do with those dollars. And so from here, as we gen
 incremental efficiency, we can make the decision to either let that fall to the bottom line
 or invest it in other strategic priorities if we think there's a return on.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Great. I'm just going to remind folks that you can submit questions on the portal or email it
 to me directly, and I could take those questions. I have plenty of fallback questions just to
 get us through. So I have actually some philosophical questions. I guess, from our see,
@@ -671,10 +577,7 @@ some point.
 
 Bloomberg Transcript
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. So just taking that in order of the assets. So in terms of leading indicators, I mean,
 we certainly have visibility into some metrics that outside observers wouldn't have access
 to. So we track things like attorney rep rates, the point in the claim in which attorneys are
@@ -714,18 +617,12 @@ there's an opportunity to make a difference.
 
 FINAL
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Great. I've gotten a few audience questions. How comfortable are you with pricing
 dynamics in commercial auto? What refrains you from having a more aggressive stance in
 this space?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 I'm comfortable that it's moving in the right direction, for sure. What stops us from being
 more aggressive? I guess, two things, one is we're in the business of working with our
 distribution partners to take care of our customers. And so it's in our interest to have an
@@ -741,34 +638,22 @@ we're not more aggressive.
 
 Bloomberg Transcript
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Got it. And this question actually reminds me the last time we were in price firming cycle,
 let's call it, 2011 or so on. Basically, you had so many competitors, take a step back in
 workers' comp, and that was an area that you grew a little bit more aggressively. You
 could kind of say that the industry thought of that as a loss leader. So I guess, what makes
 commercial auto a little bit different?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 I'm sorry. I'm not sure I understand the question. Different than what, workers' comp?
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Yeah. I guess, there was a view out there that workers' comp was a loss leader, and you
 took a more aggressive stance at that time. But it sounds like, just based on your
 response, a little bit more conservative on the growth path for commercial auto.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. I'm not sure we ever -- I mean, I think I can say definitively we never looked at
 workers' comp as a loss leader. It's always -- I mean, we've been a market leader there.
 It's been a great product for us. We have outperformed the market over time by pretty
@@ -783,9 +668,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2021-09-14
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 
 FINAL
 
@@ -794,10 +677,7 @@ touching in on your E&S capabilities. I know, you are learning a lot from your i
 Fidelis. You also have in-house capabilities like Northfield, Lloyd's, etcetera. Just how
 satisfied are you in your penetration in specialty lines market?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yes. And beyond Northland, Northfield and Lloyd's, we have more flexibility than, I think,
 people appreciate in our admitted products to provide solutions. So when business
 moves from an admitted market to a non-admitted market, it's not generally -- it's often
@@ -808,25 +688,17 @@ we've got all the tools in our toolbox to be successful. There's nothing we fill
 to do. There's no pinch in the back. But it could be an opportunity for us someday for sure.
 And we evaluate that and we think about that regularly.
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Got it. I think we're got -- we're out of time. This conversation went by really quickly. I really
 appreciate our discussion today. Thank you, Alan.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 
 Bloomberg Transcript
 
 Always nice to see you, Tracy. Thank you very much, and thanks everybody for--
 
-Q - Tracy Benguigui
-
-{BIO 21808177 <GO>}
-
+Q - Tracy Benguigui {BIO 21808177 <GO>}
 Okay. Bye.
 
 This transcript may not be 100 percent accurate and may contain misspellings and other

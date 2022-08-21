@@ -38,10 +38,7 @@ session. As a reminder, this conference is being recorded, January 21, 2014. At 
 would now like to turn the conference over to Ms. Gabriella Nawi, Senior Vice President of
 Investor Relations. Ms. Nawi, you may now begin.
 
-Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+Gabriella Nawi {BIO 2211991 <GO>}
 Thank you, Lena. Good morning. Welcome to Travelers' discussion of our Fourth Quarter
 and full-year 2013 results. Hopefully all of you have seen our press release, financial
 supplement and webcast presentation released earlier this morning. All of these materials
@@ -77,10 +74,7 @@ And now Jay Fishman.
 
 Bloomberg Transcript
 
-Jay Fishman
-
-{BIO 14011069 <GO>}
-
+Jay Fishman {BIO 14011069 <GO>}
 Thank you, Gabi. Good morning, everyone and thank you for joining us today. This
 morning we are very pleased to report a terrific Fourth Quarter to conclude a very
 impressive 2013. We posted full-year operating income of $3.6 billion coming from
@@ -195,10 +189,7 @@ embarked on our active capital management program. This strategy has worked eleg
 by producing superior returns and we remain committed to it. With that let me turn it over
 to Jay.
 
-Jay Benet
-
-{BIO 2456473 <GO>}
-
+Jay Benet {BIO 2456473 <GO>}
 Thanks, Jay. By any measure, our Fourth Quarter results; record net income per diluted
 share of $2.70, record operating income per diluted share of $2.68, operating ROE of
 16.8% and a GAAP combined ratio of 87.7% were very strong. As has been the case all
@@ -289,9 +280,7 @@ unrealized investment gains were approximately $1.3 billion after-tax at the end
 year as compared to $3.1 billion at the beginning of the year. So with that Brian is now
 going to provide some further insight into our operating results.
 
-Brian MacLean
-
-{BIO 4679150 <GO>}
+Brian MacLean {BIO 4679150 <GO>}
 
 Bloomberg Transcript
 
@@ -442,10 +431,7 @@ the rate and underwriting actions we've taken in the marketplace over the last t
 We feel very good about our homeowner's results and the marketplace position of this
 business. With that let me turn it over to Gabi.
 
-Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+Gabriella Nawi {BIO 2211991 <GO>}
 Lena, we will now like to open up for question-and-answer. If I can ask the participants to
 please limit yourself to one question and one follow-up so we can get through as many
 people as possible. Lena?
@@ -456,42 +442,27 @@ Operator
 
 Bloomberg Transcript
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 I had one on investment income. It ran higher in our model even counting the real estate
 and private equity partnerships. And you made an illustration of kind of higher investment
 yield you have been getting. So I guess the question is, were there any other one timers
 in the net investment income line this quarter like prepayments, etc.? Or was this a
 reflection of what -- the kind of underlying higher rate environment is helping this?
 
-A - Bill Heyman
-
-{BIO 3429455 <GO>}
-
+A - Bill Heyman {BIO 3429455 <GO>}
 Hi, it's Bill Heyman. There were no one timers in the fixed income portfolio.
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 And where are you seeing -- I guess where is the sweet spot of where you are investing
 now I guess from a rating and new money yield perspective?
 
-A - Bill Heyman
-
-{BIO 3429455 <GO>}
-
+A - Bill Heyman {BIO 3429455 <GO>}
 I think probably the municipal market. If you look at the differential spreads between book
 yield expiring and new money, it is closest in municipal. In, fact for a time in the Fourth
 Quarter we were investing even yield with what was expiring, that has fallen off a bit.
 Generalizing in order of attractiveness, municipals, corporates, mortgages.
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 And a quick follow-up there is that -- was that attractiveness in the muni market a function
 of people's expectations of a potential Puerto Rican sovereign default? And is that
 
@@ -508,28 +479,20 @@ there?
 
 FINAL
 
-A - Bill Heyman
-
-{BIO 3429455 <GO>}
-
+A - Bill Heyman {BIO 3429455 <GO>}
 Well in order, it is not really affecting how we look at the market. As far as our exposure, I
 could to go through it in some detail. I wouldn't say it is material, we haven't purchased a
 Puerto Rican obligation in 12 years and of the legacy portfolio most is short term and short
 or both. But I think Puerto Rico probably did affect the market as a whole. And frankly to
 the -- speaking selfishly, anything that cheapens the market is good news for us.
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 All right, that is great. Thanks.
 
 Operator
 Mike Zaremski, Credit Suisse.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
+Q - Mike Zaremski {BIO 20606248 <GO>}
 
 Bloomberg Transcript
 
@@ -539,10 +502,7 @@ about 105% of operating earnings. Should we think about that payout ratio level
 continuing in 2014 or maybe we should expect a slow down. I see that exposure growth
 does seem to be -- to grow -- picking up a little bit.
 
-A - Jay Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay Benet {BIO 2456473 <GO>}
 Yes, this is Jay Benet. I think in terms of looking forward as it relates to capital
 management, the absolute level of capital that is needed to fund the growth in the
 business is relatively small. So what we have said in the past is to look at operating
@@ -554,10 +514,7 @@ time. So that doesn't require in our view much in the way of funding next year. 
 always subject to all the things that might take place in terms of how the world will change
 next year. But operating earnings would be the base to look at.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay, that is helpful. And lastly, follow up. So higher levels of non-Cat Large and non-CAT
 weather losses appear to have materially impacted two of the main segments. I know this
 is tough to do but can you help us think about the dynamics like, for example, were the
@@ -572,9 +529,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2014-01-21
 
-A - Brian MacLean
-
-{BIO 4679150 <GO>}
+A - Brian MacLean {BIO 4679150 <GO>}
 
 FINAL
 
@@ -583,25 +538,17 @@ there was how low the Fourth Quarter was in non-cat whether in 2012. And so, thi
 was more consistent with kind of a normal run rate level of non-Cat weather. In BI it was
 relatively consistent. And in FP&II, Alan, if you --.
 
-A - Alan Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan Schnitzer {BIO 3529437 <GO>}
 Mike, it is Alan Schnitzer. In FP&II the small weather and the large losses compared to a
 very favorable result in the prior year. So that is really driving the difference.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Thank you.
 
 Operator
 Amit Kumar, Macquarie Capital USA.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
+Q - Amit Kumar {BIO 15025799 <GO>}
 
 Bloomberg Transcript
 
@@ -610,39 +557,24 @@ helpful, the slide five and slide 17. What I was wondering is using that slide f
 backdrop, could you help us understand what might to be the range of earned rates in
 those different buckets.
 
-A - Jay Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay Fishman {BIO 14011069 <GO>}
 The range of earned rates in those --.
 
 A - Unidentified Speaker
 In the ROE buckets.
 
-A - Jay Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay Fishman {BIO 14011069 <GO>}
 Yes, no, I understand. I am trying to -- I wouldn't know how to answer that actually because
 it is aggregated by product by business.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 And, Amit, those are returns on capital, so obviously it is underlying margin and the
 investments component on those cash flows.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Yes but what I was trying to understand is --.
 
-A - Jay Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay Benet {BIO 2456473 <GO>}
 Page 11 of 25
 
 
@@ -660,10 +592,7 @@ earlier, this is an economic product view going forward of what the returns are 
 look like. This is not a GAAP view. That is why we are having trouble answering the
 question. As a proxy you can kind of divide the unearned premium.
 
-A - Brian MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian MacLean {BIO 4679150 <GO>}
 Amit, this is Brian. Let me go back to I think -- go back to my comments in the Webcast
 and if you can kind of translate the ROE slide roughly into the poorer performing
 businesses obviously the bottom of the ROE Chart and vice versa. And as I said, for the
@@ -677,10 +606,7 @@ can kind of approximate what that would be about -- the 4%-ish, 3%-ish range. Bu
 
 Bloomberg Transcript
 
-A - Jay Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay Fishman {BIO 14011069 <GO>}
 I think this will be our last comment on it because it is an unusual question. The analysis is
 our best estimate of the economic capital returns of the products being sold. I will say
 today, but think it about it over the next quarter. And so, there really isn't much of a rate
@@ -691,10 +617,7 @@ projected investment income, it is an economic -- an economic return concept bas
 allocated capital. But it is, as of today, as of the next three months, that is why we say for
 the quarter.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. No, actually that color is extremely helpful. But the only other question I have is sort
 of a quick follow-up on the opening comments. Regarding the modest adverse
 development and workers compensation. I am trying to sort of reconcile the $85 million
@@ -703,10 +626,7 @@ supplement, and then the loss cost trends, can you sort of talk about how do you
 about the returns in workers' compensation line and maybe address that development a
 bit more? Thanks.
 
-A - Jay Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay Benet {BIO 2456473 <GO>}
 This is Jay Benet. Let me talk about the development for a second. First of all, I do want to
 correct one thing, workers' comp developed favorably this year. It didn't develop
 
@@ -739,10 +659,7 @@ same thing in all of our lines, the same kind of variation.
 
 Bloomberg Transcript
 
-A - Brian MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian MacLean {BIO 4679150 <GO>}
 just -- and so I will give a couple of comments, this is Brian, from a business perspective
 how we are feeling about comp. And first of all I would say if you are looking at net written
 premium, the growth in net written premium is because of pricing primarily rate. So that
@@ -753,25 +670,16 @@ portfolio. And I think we've got real competitive advantages there. So it is a s
 industry, class by class game and there are clearly some states and some classes that still
 need rate improvements. But in the aggregate we feel very good about the returns.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it, okay, that is -- thanks for all of the answers. Appreciate it.
 
-A - Jay Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay Fishman {BIO 14011069 <GO>}
 Hi, it is Jay Fishman. I misspoke on a comment about that slide 5, let me just correct it. I
 am told I said it is earned rate. It is not, that is a written rate analysis, it is the price, the
 rate at which the product is being written today. And so again just to correct the record on
 that.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it, thanks.
 
 Page 13 of 25
@@ -787,10 +695,7 @@ Michael Nannizzi, Goldman Sachs.
 
 FINAL
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 So I do have a question on Dominion, I don't know if it would be possible to know kind of
 what the underlying was for Dominion in the Fourth Quarter and maybe what FP&II would
 have looked like ex that? And if you could just talk about the actions you are taking in that
@@ -798,10 +703,7 @@ book and whether there are any constraints from a regulatory or other perspectiv
 could impact your ability or that will allow you to push for rates that you need to improve
 that business? Thanks.
 
-A - Alan Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan Schnitzer {BIO 3529437 <GO>}
 Sure, it's Alan Schnitzer; let me try to take that. In the quarter actually the Dominion was all
 in neutral it was adverse to the loss ratio but favorable to the expense ratio so that sort of
 netted out, but that was really the result of a couple of I will say unusual things related to
@@ -828,10 +730,7 @@ we will bring to that book over time will improve that result and clearly we wil
 transaction as it impacts our ROEs -- for our international business over time and we
 remain as optimistic about that today as we did when we announced the transaction.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Great. Thanks. And then I guess on that front, I mean do you expect -- anything we can
 glean from what you expect for on a top-line perspective in terms of how much of the
 book you expect to keep versus part of the business that may go as a result of the rate
@@ -845,9 +744,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2014-01-21
 
-A - Alan Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan Schnitzer {BIO 3529437 <GO>}
 
 FINAL
 
@@ -858,34 +755,22 @@ to help you with your modeling as you think about it for next year. But I think 
 forward; we are going to try to stay away from that level of detail on that side of the
 business.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Great. And then just wonder if I could on BI, I know that non-cat weather has created
 some noise in terms of evaluating the year-over-year over the last couple of quarters.
 How should we think about the starting point for margins next year more comparing to
 this year, either Fourth Quarter or for the full year, as we think about the rate actions on a
 written basis earning through? Thanks.
 
-A - Brian MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian MacLean {BIO 4679150 <GO>}
 So, first of all, you meant Business Insurance there, right?
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 I'm sorry, Business Insurance.
 
 Bloomberg Transcript
 
-A - Brian MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian MacLean {BIO 4679150 <GO>}
 Well, because in Business Insurance there really wasn't much of an impact of non-cat
 weather. The last couple years were very comparable. It wasn't exactly the same number,
 but rounding. There wasn't -- when you look at the full-year 2013 in Business Insurance,
@@ -897,19 +782,13 @@ time. So I think you can -- and as we said, loss trend is holding at about 4%. S
 can kind of do that arithmetic. There isn't a lot of unusual stuff that is really distorting that
 number this quarter.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Great. Thank you.
 
 Operator
 Vinay Misquith, Evercore.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 So the first question was just a clarification on the Dominion acquisition. I believe it was
 mentioned that the acquisition would have a 2 point negative impact on 2014 combined
 Page 15 of 25
@@ -924,10 +803,7 @@ ratio, but I still thought that he said that the combined ratio will be flat 201
 
 FINAL
 
-A - Alan Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan Schnitzer {BIO 3529437 <GO>}
 Yes, that is right, and that is because while the Dominion transaction on itself has about a
 2 point adverse impact, there will be other things that we expect to offset that. For
 example, a change in the reinsurance program in our Management Liability business and
@@ -936,10 +812,7 @@ earn in at a higher level than loss cost. So that margin improvement together wi
 reinsurance program on a segment basis, we're talking about, should be about flat. On an
 underlying basis, ex-Cats and PYD.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure, that is helpful. Okay, and then just looking at the Business Insurance segment, and
 looking for this quarter -- that is the Fourth Quarter. I am looking at it on an accident year
 loss ratio ex-Cat. It seems that that number is relatively flat at about 61.2% this quarter
@@ -948,10 +821,7 @@ a 3 point improvement year over year.
 
 Bloomberg Transcript
 
-A - Brian MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian MacLean {BIO 4679150 <GO>}
 Yes, so in the quarter, there were some moving pieces and there is always a little bit of
 weather and a little bit of large losses and a little bit of mix and you are talking just loss
 ratio so expenses aren't impacting it. We saw about a 2.5 point -- when we net through all
@@ -959,28 +829,19 @@ of that stuff what we think of as kind of pure margin the rate -- earned rate in
 the loss cost trend was about 2.5 points in the quarter, down a little bit -- it was about 2.7
 points for the full year.
 
-A - Jay Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay Benet {BIO 2456473 <GO>}
 One of the other things that is always going to impact the year-over-year quarter-overquarter look at the loss ratios in particular would be mix changes in the business, what
 products are a higher percentage one year versus the next, how much loss sensitive
 business there is relative to guaranteed cost. So I think that is also impacting some of the
 quarterly variations that you are seeing.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay, that is helpful. And just one last question on pricing. I just wanted to get a
 clarification. You mentioned that the slowdown in rate is not because of market conditions
 but more the actions that Travelers has taken and more of your business is adequately
 price. I just want to get the clarification on that.
 
-A - Brian MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian MacLean {BIO 4679150 <GO>}
 So several comments there. I mean clearly in the poorer performing business we feel very
 good that our ability to get price improvements, terms and conditions, whatever we need
 to improve the account, is pretty consistent with where it has been the last couple years.
@@ -994,9 +855,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2014-01-21
 
-A - Jay Fishman
-
-{BIO 14011069 <GO>}
+A - Jay Fishman {BIO 14011069 <GO>}
 
 FINAL
 
@@ -1035,19 +894,13 @@ complicated business with a lot of moving parts, different business, different l
 after three years different levels of profitability. But that is the most fulsome response I
 think that we can provide.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure, very helpful, thank you.
 
 Operator
 Greg Locraft, Morgan Stanley.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Next question then.
 Page 17 of 25
 
@@ -1062,10 +915,7 @@ Josh Stirling, Sanford Bernstein.
 
 FINAL
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 Thank you for the -- thanks for taking the call. And two good new slides this quarter. I
 guess just trying to synthesize them. The point you seem to be making is that the mix of
 accounts, sort of how much you need is you are taking as stable, but as accounts naturally
@@ -1077,9 +927,7 @@ sort of set a trajectory in the end of 2012. And I am wondering if you think it 
 look more like last year or if the recent trend for the next -- for the past quarter or two is
 likely to persist with pricing slowing as we work our way through the year?
 
-A - Jay Fishman
-
-{BIO 14011069 <GO>}
+A - Jay Fishman {BIO 14011069 <GO>}
 
 Bloomberg Transcript
 
@@ -1104,10 +952,7 @@ really something that we are executing that is not quite right. Now, again, quar
 quarter because the accounts themselves are different not nearly as predictable. But as
 an overall trend that is the way that we look to the business.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 Great. See if I can ask one final question, growth, you guys are starting to get some
 results from Quantum, separately it looks like in the commercial lines business you might
 be ticking up your growth in the targeted risk section a bit.
@@ -1126,10 +971,7 @@ growth in a couple of your smaller business insurance lines? Thanks.
 
 FINAL
 
-A - Jay Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay Fishman {BIO 14011069 <GO>}
 It's Jay Fishman. I will start with Quantum and I will ask Greg Toczydlowski to chime in and
 provide perspective and then I think we will look to Brian for comments and Bill
 Cunningham is here as well on Business Insurance.
@@ -1160,10 +1002,7 @@ know, Greg, couple of three quarters we will begin to have a view on the loss co
 terms of agent -- why don't you take it? Why don't we go through the agent reaction?
 Anything else you want to add about (multiple speakers)?
 
-A - Greg Toczydlowski
-
-{BIO 16615940 <GO>}
-
+A - Greg Toczydlowski {BIO 16615940 <GO>}
 Yes, I think just as you said, the agent reaction has been very positive, we're three months
 into the big wave that went out in October. And we are actually not surprised on that. We
 had a lot of co-development with the agents, they were right here in Hartford in helping
@@ -1190,10 +1029,7 @@ looking at surrogates or leading indicators including the profile of the busines
 we are encouraged on that. So across the board we are going to continue rolling it out
 with the same level of discipline and are very enthusiastic as we do that.
 
-A - Brian MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian MacLean {BIO 4679150 <GO>}
 On the BI front, as Jay mentioned, we are about returns. And as returns improve we are
 going to be more interested in retaining more business. And we feel good that we had
 record net written premium in BI. It is clearly being driven primarily by pricing actions.
@@ -1205,10 +1041,7 @@ returns.
 
 Bloomberg Transcript
 
-A - Jay Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay Fishman {BIO 14011069 <GO>}
 I think that's important, the questions that we get on many of these calls seem to center
 on the impact of pricing and growth. We do have a series of initiatives in our business
 insurance segment that are designed to produce growth including in one case more
@@ -1220,19 +1053,13 @@ business that generates $20- billion-odd-plus of premium a year it is a challeng
 generate numbers that are consequential in the total. But it doesn't mean that we don't
 have serious effort and work to try and find those opportunities, we do.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 That's helpful. Thanks for the color. Good luck.
 
 Operator
 Jay Cohen, Bank of America-Merrill Lynch.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 On the explanatory notes on the expected economic return table, you talk about $2.5
 billion of statutory surplus that was not allocated in this analysis. Should we think of that as
 Page 20 of 25
@@ -1247,10 +1074,7 @@ excess surplus? Or if not, why it wasn't it allocated?
 
 FINAL
 
-A - Jay Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay Benet {BIO 2456473 <GO>}
 Yes, Jay, this is Jay Benet. First of all, there is some fluidity in what the statutory surplus
 balance is going to look like each quarter because we have earnings and those earnings
 will get dividended up to the holding company. So that is part of it. But we also have, as
@@ -1261,17 +1085,11 @@ what we have referred to as the business to those -- to the products associated 
 business. So we think it is a -- and that regard a full allocation of the capital that we had for
 the businesses.
 
-A - Jay Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay Fishman {BIO 14011069 <GO>}
 And the majority that is not allocated is attributable to what we also would call these run
 off businesses, meaning specifically asbestos, environmental and such.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 That makes a lot of sense, thank you.
 
 Bloomberg Transcript
@@ -1279,20 +1097,14 @@ Bloomberg Transcript
 Operator
 Brian Meredith, UBS.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 A couple quick ones here. First, can we chat a little bit about the homeowner's insurance
 business? It looks like your underlying combineds are in pretty good shape there. And I
 guess my question is, at what point do think you are going to pull back on some of the
 rate that you are getting on homeowners and maybe could potentially look to grow that
 line of business? And could that help at all with some of the auto insurance growth?
 
-A - Brian MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian MacLean {BIO 4679150 <GO>}
 So, Brian, this is Brian MacLean. Clearly the homeowners combined on any basis you look
 at it we feel very good. There has obviously been a huge a story of whether volatility that
 we are still -- so there are still a decent number of places around the country that we are
@@ -1312,9 +1124,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2014-01-21
 
-A - Jay Fishman
-
-{BIO 14011069 <GO>}
+A - Jay Fishman {BIO 14011069 <GO>}
 
 FINAL
 
@@ -1323,57 +1133,37 @@ granted. Our pricing, terms and conditions profile in homeowners is not anecdota
 driven, right. It is not as if it is instinctive, we are basing it on the data and the information
 that we have.
 
-A - Greg Toczydlowski
-
-{BIO 16615940 <GO>}
-
+A - Greg Toczydlowski {BIO 16615940 <GO>}
 And Brian said, that really does have a local story underneath it. When you are following
 the perils across that product line. So as Brian said based on some of the weather trends
 and the perils we have got various strategies across the country right now.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. And then my second question just quickly here, on Business Insurance and FP&II,
 are you seeing any loosening at all in terms of conditions and from a competitive
 landscape out there, anything that we should be concerned about as investors?
 
-A - Brian MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian MacLean {BIO 4679150 <GO>}
 In the aggregate no, and that is something we are pretty encourage with. So we feel
 good about that.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 
 Bloomberg Transcript
 
 Great, thank you.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 And this will be our last question for today.
 
 Operator
 Jay Gelb, Barclays.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 I have two questions. The first is so far in the First Quarter there has been some pretty
 severe freezing temperatures. And I'm just wondering if that could lead to elevated nonCat weather for things like burst pipes in the First Quarter?
 
-A - Brian MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian MacLean {BIO 4679150 <GO>}
 Yes I think, Jay, the honest answer it is too soon to tell. But no question, when you get the
 severe temperature changes that you get we get claim activity from that and we have
 seen some of that, we can't really assess the magnitude of it and the forecast for the
@@ -1393,36 +1183,24 @@ out of it but we haven't scoped it.
 
 FINAL
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Okay. And the second one on a broader issue as the economy recovers we're seeing the
 benefit of increased exposure growth. But I think there is also the looming issue of
 potential increase loss cost inflation both on frequency and severity. So when you talk
 about as 4% for baseline loss cost inflation in Business Insurance, to what extent could we
 see that move up as the economy recovers?
 
-A - Brian MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian MacLean {BIO 4679150 <GO>}
 So I think, again, this is Brian, Jay, things we worry about all the time -- we are seeing a
 little bit of exposure movement from a positive kind of GL and comp driven, which are
 good things, nothing dramatic but there is a little bit of movement there.
 
-A - Jay Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay Fishman {BIO 14011069 <GO>}
 Good news.
 
 Bloomberg Transcript
 
-A - Brian MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian MacLean {BIO 4679150 <GO>}
 Positive news, right. And on the -- so supporting your comment about signs of some
 economic growth. We -- all I can tell you is we obsess over looking at every metric we can
 about what is going on in loss trend and we continue to be encouraged that we are not
@@ -1431,10 +1209,7 @@ talking about for years now is the auto BI trends, bodily injury trends and acro
 businesses. And that continues to run at an elevated level, but it hasn't been getting
 worse in the last several quarters. But we look at it closely.
 
-A - Jay Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay Fishman {BIO 14011069 <GO>}
 And I think that it's, at least so far, fair to say broadly speaking, I am not speaking about
 the insurance industry (inaudible) or us, but broadly speaking there remains not yet a
 meaningful change. In fact I could argue there isn't any change in actual inflation at least
@@ -1442,17 +1217,11 @@ by the traditional measures by which it is reported. We pay a lot of attention, 
 everything we can. But it is very much kind of an outlook question and who the heck knows
 I think is the answer there.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 As long as over economic inflation remains benign should that be a pretty decent
 indicator on loss cost inflation if you boil it down?
 
-A - Jay Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay Fishman {BIO 14011069 <GO>}
 I think we have -- I think the Property Casualty industry has some specific areas where we
 have a little bit of what I will call inflation concentration dynamics. So wage inflation as it
 relates to worker's comp. Medical inflation as it relates to worker's comp. Tort inflation as
@@ -1485,18 +1254,13 @@ It will begin to evidence itself slowly and I hope that we will see it and be ab
 from a pricing standpoint with respect to it. Now I could always be wrong, it might not be
 (inaudible) assessment. But that is how we think about it.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
+Q - Jay Gelb {BIO 21247396 <GO>}
 
 Bloomberg Transcript
 
 Thank you.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Thank you all for joining us today. As usual, myself and Andrew Hersom in the Investor
 Relations department will be available for any follow-up questions. Thank you, and have a
 great day.

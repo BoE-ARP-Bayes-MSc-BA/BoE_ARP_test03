@@ -34,10 +34,7 @@ Results Conference Call. Today's call is being recorded.
 At this time I would now like to hand the call over to Mr. Bertrand Bougon, Head of
 Investor Relation & Rating Agencies. Please go ahead, sir.
 
-Bertrand Bougon
-
-{BIO 18934799 <GO>}
-
+Bertrand Bougon {BIO 18934799 <GO>}
 Good morning, everybody, and thank you for joining the SCOR Group First Quarter
 Results 2015. Before starting this presentation, please consider our disclaimer on page
 two which indicates that the presented Q1 2015 financial information is unaudited.
@@ -54,10 +51,7 @@ Date: 2015-05-06
 
 FINAL
 
-Denis Kessler
-
-{BIO 1498477 <GO>}
-
+Denis Kessler {BIO 1498477 <GO>}
 Thank you Bertrand and good morning everyone. The first quarter of 2015 was very
 satisfactory for SCOR. And the high-quality results recorded by the group confirm the
 relevance of the strategic orientations that we have chosen towards the last years. This
@@ -115,10 +109,7 @@ With this, I'll hand over to Mark.
 
 FINAL
 
-Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+Mark Kociancic {BIO 17852409 <GO>}
 Thank you, Frieder. Going on to page five, I will walk you through the financial highlights of
 the first quarter results of 2015. SCOR wrote more than €3.1 billion of gross written
 premiums in the first quarter of 2015, which represents a 17% increase at current
@@ -153,10 +144,7 @@ in respect of the Swiss debt swaps due to the strengthening of the Swiss franc v
 euro during the quarter.
 Now I'll turn it over to Victor for the P&C results.
 
-Victor Peignet
-
-{BIO 6287211 <GO>}
-
+Victor Peignet {BIO 6287211 <GO>}
 Thank you, Mark, and good morning. Now four slides dedicated to P&C in today's
 presentation. First one provides the Q1 result information, and the next three ones detail
 the outcome of the 1st of April renewals which has already been communicated to you in
@@ -202,10 +190,7 @@ It will fall in our Q2, and it is yet too early to know what impact, if any, it 
 actual net combined ratio.
 I'll now pass on to Paolo for the Life presentation.
 
-Paolo de Martin
-
-{BIO 15930577 <GO>}
-
+Paolo de Martin {BIO 15930577 <GO>}
 Yeah. Moving on to page 13 of the presentation SCOR Global Life delivered a healthy
 growth and a strong technical performance in the first quarter of 2015. Our gross written
 premiums reached €1.7 billion, a growth of 17.7% at current exchange rate or 5% at
@@ -312,10 +297,7 @@ environment in its ability to deliver return on invested assets between 2.7% and
 and its current positioning.
 And now I will hand over to Bertrand Bougon for the conclusion of the presentation.
 
-Bertrand Bougon
-
-{BIO 18934799 <GO>}
-
+Bertrand Bougon {BIO 18934799 <GO>}
 Thank you, François. Before moving on to the Q&A session, please note on page 19, the
 next scheduled event which is H1 2015 results on July 29, as well as the conferences which
 we are planning to attend over the remainder of 2015.
@@ -338,10 +320,7 @@ Operator
 Ladies and gentlemen, we will now move on to the Q&A session. Thank you. So we will
 now take our first question from Thomas Jacquet from Exane. Please go ahead.
 
-Q - Thomas Jacquet
-
-{BIO 4110153 <GO>}
-
+Q - Thomas Jacquet {BIO 4110153 <GO>}
 Hi. Good morning, everyone. So, two questions from my side. The first one is on the cost
 ratio. It seems to be slightly up despite the fact that on the P&C side, it's flattish. Is there
 anything to be mentioned on the Life side in terms of exceptional costs, integration costs
@@ -350,18 +329,13 @@ And my second question is about the tax rate. For the second quarter in a row, i
 to 30% than 20%. Is there anything to be said here? Is it a trend, or should we stick to the
 past guidance? Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
+A - Denis Kessler {BIO 1498477 <GO>}
 
 Bloomberg Transcript
 
 Thank you, Thomas. Maybe, Mark, on the cost ratio for the first quarter?
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Yeah. The cost ratio for the first quarter was 5.15%, so slightly elevated versus last year. A
 couple of things to point out. Maybe last year, first of all, we did have a one-time benefit
 on the pension expense for the group. So last year's comparative is slightly lower. This
@@ -392,9 +366,7 @@ Date: 2015-05-06
 at an elevated level, but I don't see anything structural in our business plan that would say
 something other than a 22% assumption for the group in 2015.
 
-Q - Thomas Jacquet
-
-{BIO 4110153 <GO>}
+Q - Thomas Jacquet {BIO 4110153 <GO>}
 
 FINAL
 
@@ -403,10 +375,7 @@ Okay. Thank you very much. Very clear.
 Operator
 We will now take our next question from William Hawkins from KBW. Please go ahead.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hi. Thank you very much. As you're getting an approval in your solvency ratio from the
 French regulator, can you tell us about your confidence in the headline figure and if there
 are any sort of material areas of uncertainty you need to wind out over the next six
@@ -415,10 +384,7 @@ U.S transactions that you're growing in on the P&C side? Maybe we can get more o
 this afternoon, but I'm just intrigued, that's a pretty competitive saturated market and
 you're not the only large insurer up saying that you can find growth opportunities. Thanks.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Frieder?
 
 Bloomberg Transcript
@@ -438,10 +404,7 @@ not disclose Solvency II expectations, but we will update you once we've done th
 think the IR Day in September is going to be a good time to give a fulsome update on our
 expected Solvency II position.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 And just briefly to come back Frieder, just directionally, are there any particular areas of
 discussion, or is it sort of just losses (24:20)? Thanks.
 
@@ -464,31 +427,19 @@ you will see some adjustments in parts of the model, but it's more going to be a
 out over different parts and there's nothing very significant which is outstanding at this
 point.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 We have filed I think 14,800 pages, was it (25:05). I promise you to give them to you if you
 promise me to read all of them.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 How come you couldn't make 15,000?
 
 Bloomberg Transcript
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 It has been an incredible exercise. The good news is that the board, according to
 Solvency II, the board has to approve the filing. And the board has approved the filing
 yesterday, which is very important day for us, which means that by the end of May, we
@@ -497,22 +448,13 @@ would a process for them ending up I think early December, late November that we
 the full approval. But that was a very important date yesterday because 10 years of work
 and a full approval of the internal model by the board unanimously.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you. That's great.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 And what we do in the U.S., Victor?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, I think it's a function of the starting point. We've been totally underweighted in the
 U.S. for a number of years, and this is obvious when you look at the pie chart of our
 premium income. We have taken the time to restore the franchise of the company and to
@@ -532,10 +474,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2015-05-06
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you.
 
 FINAL
@@ -544,10 +483,7 @@ Operator
 We will now take our next question from Andrew Ritchie from Autonomous. Please go
 ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Hi there. Two quick questions both – or one for François to start with. On the running yield,
 I mean given where you were reinvesting last year, which for most of the year was higher
 than the booked running yield, I was a bit surprised that running yield fell so much in Q1. I
@@ -582,10 +518,7 @@ was before the increase that we observed on all the rates markets over the last 
 that is really material, an increase of 40 basis point, 50 basis point in the U.S., in the UK
 and in the eurozone.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Paolo, (30:35) the question of Andrew about the dividend you give to the group. So
 listening carefully to what you're going to say.
 
@@ -597,64 +530,41 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2015-05-06
 
-A - Paolo de Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo de Martin {BIO 15930577 <GO>}
 I think the level around €100 million that's where you could expect in the Optimal
 Dynamics plan and that's where we have it in. So we had €125 million, so something similar
 level this year.
 
 FINAL
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 But is it all – but do you expect the free surplus you want to keep something around the
 current level on essentially?
 
-A - Paolo de Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo de Martin {BIO 15930577 <GO>}
 Yeah. Keep in mind that the free surplus and all these definitions will probably change with
 Solvency II.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Yes, of course. Yeah.
 
-A - Paolo de Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo de Martin {BIO 15930577 <GO>}
 So as we transition into a new environment, I think the €100 million region is where we
 would expect it to be again in the Optimal Dynamics plan.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
 Okay. Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 We only accept cash, as you know that (31:36). Next question?
 
 Operator
 We will now take our next question from Thomas Fossard from HSBC. Please go ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. Good morning, everyone. Two questions for Victor today. The first question would be
 related to the increase of 160 basis points in the commission rates comparing Q1 2015 to
 Q1 2014. Victor, I was interested to then understand if there were specific business mix, I
@@ -682,15 +592,10 @@ build this €40 million estimate because I can see there is still some very sig
 loss estimate range in the market from $600 million up to $1.3 billion, but just wanted to
 better understand the underlying calculation there. Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Victor?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 
 Bloomberg Transcript
 
@@ -711,27 +616,19 @@ scales are gradually disappearing. So I would think that the 23.7% maybe slightl
 high side, but I think we would expect that the commission overall for the year would stay
 around 23% to 23.5% and probably closer to 23.5% than to 23%.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Thank you.
 
 Operator
 We will now take our...
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 24%, sorry. Yeah, 24% to 24.5%.
 
 Operator
 So we will now take our next question from Kamran Hossain from RBC. Please go ahead.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Page 12 of 19
 
 
@@ -750,10 +647,7 @@ week, and you've reiterated today that you lost some business from two Japanese
 clients. Is that wholly reflected in the €56 million loss business, or is there anything else
 going on there? Thanks.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 François?
 
 A - François de Varenne
@@ -771,38 +665,23 @@ are still slightly below our target duration, which is for the fixed income port
 the range of 4.5 years. So we have still room of maneuver to further increase the duration
 over the next few quarters.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Victor?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, the loss of the Mitsui Sumitomo business represent about €50 million of premium
 being lost at today's exchange rate, Japanese yen against euro.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Is there any...
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 It's not exactly because, of course, the business with the other (37:58) companies has
 also evolved, but the loss itself of that business was up for renewal. So it means the
 premium we were making last year converted at today's exchange rate is about €50
 million.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Great. Just to follow up on that. Is there any potential (38:16) of that business will come
 back or are they just fully again feeding 38:20) that to you now that you've got
 shareholder in your register?
@@ -814,32 +693,22 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2015-05-06
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 I think that's probably a question for Mitsui Sumitomo.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 
 FINAL
 
 I'll follow up with them.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 That's it. That's been the very long standing client of ours for 40 years or more. So we do
 value their business. We do value the relationship. We would definitely hope that what we
 perceive as a misunderstanding could be rectified in the near future. But we are not the
 ones to decide about it.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 
 Bloomberg Transcript
 
@@ -856,25 +725,16 @@ provide capacity and (40:02) services to Mitsui Sumitomo in the future. So it's 
 equate on their side, but I insist on the fact that there's not – we don't bear any
 responsibility for this events (40:15)
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Thanks. That's very clear.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Next question, please?
 
 Operator
 Our next question is from In-Yong Hwang from Goldman Sachs. Please go ahead.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Sorry. All my questions have been answered, so thank you.
 
 Operator
@@ -892,10 +752,7 @@ ahead.
 
 FINAL
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Fantastic. Thank you so much. Two questions. Three. So, the first one is on the pricing and
 rate renewals and all that. The pricing is clearly down, and can you talk a little bit about the
 momentum? So here, is it getting worse down or less down? In other words, if it's
@@ -920,29 +777,17 @@ accept slightly lower prices and it's still very attractive? Or are you doing so
 different? Sorry, probably that one is probably a hard question to answer, but you're really
 good. Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Thank you, Michael. On pricing, isn't it a personal question on pricing? You are not seeking
 a treaty, Michael?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Which one of your three questions are you withdrawing Michael considering...
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 That's very good. I leave that up to you. You're at best place to see things.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Okay. Well, I don't share this view that the manmade are really at extremely low if I
 compare my Q1 of this year with the Q1 of last year. I think we are not much lower. What is
 the fact is that we don't have any spectacular one which had happened in the past and
@@ -991,16 +836,10 @@ saying that we have taken certain focuses and certain initiatives in areas where
 that we are either underweighted or there is a good potential of profitable growth and
 it's working.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Well, done. Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Question?
 
 Operator
@@ -1016,10 +855,7 @@ Date: 2015-05-06
 
 FINAL
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Good morning, everybody. I have two questions. My first question is on the Swiss franc
 currency swap. Could you please clarify whether this has only a cash flow impact or
 whether there was also an impact on the investment result? And my second question is
@@ -1028,16 +864,10 @@ might be on the fixed income. Is there are some sort of certain thresholds that 
 to achieve on the capital gains. So could you somehow elaborate a little bit on your
 strategy even if it's only opportunistic on the capital gains there?
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Thanks, Frank. On currency swap, Mark.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 So we have as you know as a standing policy, we go through this in our IR day that we
 have currency swaps for our debt issuances that are not denominated in euros. So we've
 had several Swiss franc debt issuances and we've hedged those with currency swaps
@@ -1058,16 +888,10 @@ hedges. I believe we were actually plus €2 million from the P&L impact of the 
 we have a very effective hedging strategy on both monetary assets liabilities and the
 debt.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 The capital gains.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 On the capital gain, as you know we have a dynamic and active management of the
 portfolio. And under IFRS, the only way to recognize the performance on non-yielding
 asset classes such as equities is to take into realized gains. So that's what we did in Q1
@@ -1095,18 +919,13 @@ despite the fact that we took €56 million of gain within the equity bucket, we
 replenish during the quarter the amount of unrealized gain on this bucket, which is a
 pretty good news.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay. Thanks.
 
 Operator
 We will now take our next question from Thomas Fossard from HSBC. Please go ahead
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
+Q - Thomas Fossard {BIO 1941215 <GO>}
 
 Bloomberg Transcript
 
@@ -1119,16 +938,10 @@ acquisitions surrounding the Lloyd's, does that create some opportunities for yo
 new underwriting teams, maybe in lines you're not (52:02)? I mean, any business or
 underwriting team opportunities you are thinking about? Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Victor?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Assuming that I'm thinking about underwriting teams, I'm not sure we talk about it. But, no,
 I think the channel operation has had a very successful run, not only on the business side,
 but also on the recognition of the way that's been structured and the way that's
@@ -1154,9 +967,7 @@ Date: 2015-05-06
 And these synergies, which we have started really to implement over the last six to nine
 months is starting to really have interesting perspectives.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
+A - Denis Kessler {BIO 1498477 <GO>}
 
 FINAL
 
@@ -1166,10 +977,7 @@ Operator
 There are no further question in the queue. So I would like to turn the call back to the
 presenters for any further remarks.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Thank you very much for attending this call on the Q1 results. Those are pretty satisfactory
 results, of course, that's what we believe. If you want additional precisions of further
 information, please don't hesitate to call us and call Bertrand and his team, and we'll be

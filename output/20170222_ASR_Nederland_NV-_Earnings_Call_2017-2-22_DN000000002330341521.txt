@@ -28,10 +28,7 @@ Good day, ladies and gentlemen and welcome to the ASR Conference Call on the 201
 Annual Results. Today's conference is being recorded. At this time, I would like to turn the
 conference over to Michel Hulters, Head of Investor Relations at ASR. Please go ahead, sir.
 
-Michel Hulters
-
-{BIO 19111905 <GO>}
-
+Michel Hulters {BIO 19111905 <GO>}
 Thank you, operator. Good afternoon and good morning to those of you listening in from
 the US. Thank you for joining this conference call on ASR full year 2016 results. Presenting
 today are Jos Baeten, CEO; and Chris Figee, CFO. Jos will start today's call with a
@@ -42,9 +39,7 @@ opportunity for Q&A, but please also have a look at the disclaimer in the back o
 presentation for your -- to use [ph].
 Having said that, Jos, you are on.
 
-Jos Baeten
-
-{BIO 2036695 <GO>}
+Jos Baeten {BIO 2036695 <GO>}
 
 Page 1 of 33
 
@@ -347,10 +342,7 @@ And now for more ﬁnancial detail and further information on our solvency posit
 generation, I will hand over to Chris, he will continue to build momentum towards slide 22
 and 23.
 
-Chris Figee
-
-{BIO 18815839 <GO>}
-
+Chris Figee {BIO 18815839 <GO>}
 Thank you, Jos. Over to the ﬁnancial update and continuing on the momentum that
 characterizes our funds or (inaudible) for our Company. Moving to page -- turning to page
 25, I'll take a few pages that I'll talk shortly about the few pages that I will elaborate more.
@@ -873,10 +865,7 @@ please.
 
 Bloomberg Transcript
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Good afternoon. Cor Kluis, ABN. Few questions. So ﬁrst of all on Disability insurance, the
 (inaudible) legislation, can you already give kind of any idea what impact might be on the
 premiums for 2017 and 2018 because last year, the Disability premium went up 4%, but
@@ -890,10 +879,7 @@ possibility?
 And last question is about -- it's more technical thing, the size of the realized capital gain
 reserve. What's the size at the end of 2016 of that ﬁgure? That were the questions.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Thanks, Cor. Let me start with the question on Disability. It is too early to give ﬁnal
 guidance on how the season went, but for a ﬁrst view on it is that a lot of smaller
 companies decided to return to the public system. So in terms of number of customers
@@ -931,10 +917,7 @@ base.
 
 Bloomberg Transcript
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 On your question Cor on the internal model where do we sent, well, we do not have an
 internal model, right. An internal model is a fully (inaudible). The closest thing we have is
 an ECAP model. The ratio of the ECAP model is 226%, but (inaudible) this is not a model,
@@ -953,10 +936,7 @@ already are at pretty safe level.
 You had a fourth question, and I can't even read my own handwriting. You -- what was
 your point again?
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 The realized capital gain reserve?
 Page 18 of 33
 
@@ -968,10 +948,7 @@ Date: 2017-02-22
 
 FINAL
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Realized capital gain reserve at the end of the year is about EUR3.6 billion, actually it was
 still a net addition to that reserve. And to give you some color, we believe that the release
 from that realized capital gains reserves. In the planned period, assuming rates stay
@@ -980,18 +957,13 @@ look at the amortization schedule, amortization pattern of that EUR3.6 billion. 
 roughly where they are today, the contribution of that will be same, but actually the
 planned period, as it was last year.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Okay, it's very clear. Thank you very much.
 
 Operator
 The next question is comes from Mr. Albert Ploegh, ING. Go ahead please.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
+Q - Albert Ploegh {BIO 3151309 <GO>}
 
 Bloomberg Transcript
 
@@ -1009,10 +981,7 @@ mentioned in your opening remarks. So is basically the starting point for 2017 a
 meaning that maybe that the EUR50 million drag is already reduced by 50%? And I'll
 leave it for now for that.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Okay. Albert, on the transitional rule, in the movement from EUR301 million to EUR348
 million with a plus of EUR23 million from the traditional rules that was moved out. So
 there was a negative in the EUR301 million that no longer occurred in EUR348 million, it
@@ -1047,10 +1016,7 @@ So that means the swap spreads reverse and the spread declines, you don't lose t
 beneﬁt. So, the swaps spreads itself does not to do much on organic capital creation, but
 it protects -- it aims to protect the stock of solvency that we have.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay, very clear.
 
 Operator
@@ -1058,10 +1024,7 @@ The next question is coming from Mr. Steven Haywood, HSBC. Go ahead please.
 
 Bloomberg Transcript
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Thanks very much for the presentation. Just a couple of questions, can you go back to
 your sort of core and noncore sovereigns. I know obviously, one is now minus 20 basis
 points, excess spread and other is plus 50 basis points. In reference to slide 36, can you
@@ -1071,10 +1034,7 @@ your opinion about what you think is most appropriate to use whether you should 
 direct yield or the total yield including gains, whether you do use the sort of 2.2% or
 whether you use over 3% as you're assumed UFR? Thank you.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 The core, we deﬁned German government -- Dutch and German government bonds as
 core, all the remaining in Europe is actually noncore. So Dutch and German's are core, the
 rest is noncore. In terms of what is the right level to use, I mean look, the direct yields,
@@ -1105,10 +1065,7 @@ happen year-on-year on-year. So you can actually, you can bank on that.
 But your point is valid, you could argue that the yield you make, the return you make is
 probably about 3%.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 That's great. Thanks very much.
 
 Operator
@@ -1126,10 +1083,7 @@ sensitivity overall for the Group?
 And then ﬁnally, can you give it any indication on how Solvency II is developed so far this
 year given we've seen because some quite signiﬁcant sovereign moves overall? Thanks.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 (inaudible) thanks. In terms of when do we execute the swap spread change in step since
 September. It was actually done in Q3, Q4, maybe Q4 and the remainder actually in
 January, we said it was a series of trades. Also we started doing this by shooting 30-year
@@ -1158,10 +1112,7 @@ not contracted that much. But you can see on page 36, it changes in the portfoli
 
 FINAL
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 And on your last question, the development of solvency during the ﬁrst six to seven
 weeks of the year, without giving any numbers we have seen a fairly stable development
 until now.
@@ -1172,9 +1123,7 @@ Okay, very good. Thanks very much, indeed.
 Operator
 The next question is coming from Mr. Matthias de Wit, KBC Securities. Go ahead please.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
+Q - Matthias de Wit {BIO 15856815 <GO>}
 
 Bloomberg Transcript
 
@@ -1192,10 +1141,7 @@ from 50% to 60% and is there any conservatism less in your current approach or d
 think it's currently it's fair, taken into account some regulatory risk that, that might remain?
 Thanks.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Matias, on the acquisition, let me look at that, I don't have that number of top of my head.
 We'll look it up, we'll feed it back IR team back to you. In terms of the OCC that was we
 signed on the beginning of year, asset mix last year 2016, see just the beginning of the
@@ -1246,19 +1192,13 @@ supported, is a conservatism left in the number or realism left in the number. T
 thing for sure. I still think it's a responsible number. Downside risks to (inaudible) are
 limited from our point of view.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Okay, that's very clear. And if I could just follow up on the organic capital generation, also
 the bit of diﬃculties in analyzing how or in getting a sense of a sustainable recurring SER
 release because there were a lot of changes in the organic numbers. So is there anything
 you could say in that respect?
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 I think on the SCR release, the number we've provided you for the full year was about 6%.
 If you look at the ﬁrst half year, is about 3.5%. So the total release of capital ﬁrst half year
 was 3.5 and 5.7 for the full year. The diﬀerence between the two is an increase in new
@@ -1283,18 +1223,13 @@ happy to spend some capital release in organic growth in our business. But I thi
 number we produced so far has been relatively stable and you could play going forward.
 The key driver here is amount of P&C and visibility, while we were more able to attract.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 All right, very good. Thanks, Chris.
 
 Operator
 The next question is coming from Mr. Bart Horsten, Kempen & Co. Go ahead please.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
+Q - Bart Horsten {BIO 2390919 <GO>}
 
 Bloomberg Transcript
 
@@ -1312,10 +1247,7 @@ will end at April 17 and your AGM, it will be in May, probably the NL 5 will sel
 before your AGM. Do you have an opportunity to participate or where you can only do
 that after the AGM? Thank you.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Thank you. On the Life Insurance business, the capital conversion ratio from the life to
 proﬁt, and to cap generation, it is a bit lower than we thought, simply because the share
 of capital gains reserves, sort of accounting contributions in life business was higher than
@@ -1346,16 +1278,10 @@ the year, a really striking phenomenon that you have to take into account, but n
 most insurance companies, Q3 is assumption season in our actuarial family. So that can
 we -- tend to just happen.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Okay.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 And on your last question, do we still have room to maneuver if and when NL 5 would
 decide to further sell down before the next AGM and after the like period has ended.
 Well, the answer is as simple as clear. We've used our full capacity with the ﬁrst buyback
@@ -1364,37 +1290,26 @@ would decide to do refer to sell down before the next AGM, we will not have room
 maneuver in terms of buying back shares and that there is -- not the limitation is not our
 capital position or the unwillingness to do so, but just we're just not allowed to do so.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
+Q - Bart Horsten {BIO 2390919 <GO>}
 
 Bloomberg Transcript
 
 Okay. Thank you. Yeah.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 It is probably fair to say we do have the intention to participate in placings during the year
 as we've done in the past. The magnitude, the timing is out of our control, from -- our
 shareholder to decide, the magnitude depends on the time in hand, but it's our intention
 to support the sell down by the state as you know in the past.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Okay. Thank you. And if I may, I just a -- one other question, I would like to ask and that's
 on your development of your DC business. It's moving quite okay and it triples in assets
 and it doubled. Could you tell us what the recent dynamics are? And is there also some
 capital release already shown in '16 from this move from DB to DC, if I assume that these
 were mainly existing clients which you have? Thank you.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 The increase in our DC portfolio were mainly new customers. So we were happy with
 welcoming new customers, so that didn't lead to signiﬁcant releases in the DB book. And
 the main driver behind that is our improved product and I think some of the other market
@@ -1411,10 +1326,7 @@ Company Name: ASR Nederland NV
 Company Ticker: ASRNL NA Equity
 Date: 2017-02-22
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -1423,21 +1335,13 @@ FINAL
 
 The next question is coming from Mr. Kunal Zaveri, JP Morgan. Go ahead, please.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Kunal, you're asking question? I'm not on your line. Hello. Can you hear me?
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 (multiple speakers)
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 Bloomberg Transcript
 
@@ -1462,10 +1366,7 @@ investment income is 40 million. That's a big jump from 440 million to 480 milli
 driving that because majority of the asset allocation safety you've done is like in second
 half, so any thoughts on that would be great? Thank you.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 On the -- in terms of the UFR grant, we do (inaudible) in every period from the beginning
 of the period interest rate and the ending of the period interest rates. So we look at the
 UFR contribution as for Jan 1st and the UFR contribution as on 31st of (inaudible) and that
@@ -1522,10 +1423,7 @@ year, 317 this year, so pretty stable number. On top of that is additional resul
 65 and a 67 contribution of earnings from capital amortization, the capital gains from the
 swaptions portfolio.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 That's very clear, but that's what I was trying to get some clue about, this 65 million, the
 second bucket in 2016. I mean, if I look at slide number eight, for example, it mentioned
 that operating result from your acquisition was 22 million actually. By the way, this was
@@ -1547,10 +1445,7 @@ mean, what's driving that? Is it asset re-risking or is it some sort of capital 
 may or may not disappear, any thoughts on that because, see, the only thing I'm trying to
 understand is this 40 million number sounds a bit large given the base of 400 million?
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Even it makes out large on the base of 400 million, but on the basis of a 30 billion odd
 investment portfolio, we are actually talking about something like 10 basis points, 13 basis
 points of additional returns. So the 40 billion odd is the right number, 65 minus 22 gives
@@ -1567,24 +1462,15 @@ million is a lot against 400 million. But again, the 30 billion odd investment p
 you're looking about 10 basis points to 15 basis points additional return. So that put things
 in perspective from our point of view.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 And sir, this is recurring for next, say, whatever is the life cycle of the business basically, it's
 not like a one-oﬀ something like that?
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 So we believe -- if I look at our mid-year plans, at least with the (inaudible), we can foresee
 this as a fairly sustainable number.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 And sir, just going back to UFR. I mean, so how should we think about UFR because if you
 take a mid -- I mean, starting and ending and in between interest rate remain zero, then is
 that the right way of reﬂecting the UFR drag or I don't know the answer as well, but just
@@ -1592,15 +1478,10 @@ any -- because the thing is that, interest rates went down in the second half, s
 interest rates were deﬁnitely much lower than ﬁrst half, and your drag was actually lower.
 So I just got a little bit confused here.
 
-A - Michel Hulters
-
-{BIO 19111905 <GO>}
-
+A - Michel Hulters {BIO 19111905 <GO>}
 Kunal, this is Michel. Can we take this oﬄine and --
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Page 28 of 33
 
 
@@ -1618,10 +1499,7 @@ FINAL
 (Operator Instructions) The next question is coming from Mr. Arjan van Veen, UBS. Go
 ahead please.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Thank you. Just a couple of follow-up questions. Firstly, it doesn't sound like the LACDT
 change you made will be in line with the new guidance is particularly material. So if you
 can give a bit of color on that? And secondly, you gave us a lot of very clear guidance or
@@ -1629,9 +1507,7 @@ commentary around the buyback, but can you also make it maybe give a bit of colo
 around, you did a couple of bolt-ons during 2016, what's the outlook for potentially more
 bolt-ons going forward? Thank you.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
+A - Jos Baeten {BIO 2036695 <GO>}
 
 Bloomberg Transcript
 
@@ -1644,10 +1520,7 @@ is, LACDT is not materially negative impact on our business, actually it's a sma
 more to come, who knows, that depends on how the market will interrupt the number,
 but it's certainly no negative on the -- on LACDT to us.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 And Arjan, on the bolt-ons, we are open for business, our solvency position is strong. We
 can continue to look for options. On the other hand, we have very strict investment
 criteria. And if we look at businesses is to acquire, they should at least meet our ﬁnancial
@@ -1675,9 +1548,7 @@ Date: 2017-02-22
 business. We have very strict valuation in terms of ﬁnance metrics, and we never comment
 on particular deals where we are looking in at the moment.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
+Q - Arjan van Veen {BIO 5197778 <GO>}
 
 FINAL
 
@@ -1687,10 +1558,7 @@ leading (inaudible) 24 is very helpful. Thank you.
 Operator
 The next question is coming from Mr. Matthias de Wit, KBC Securities. Go ahead please.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Thank you. Just some small follow-ups. On Solvency II you stated that part of the increase
 in the ratio in 2016 was linked to cost savings. Just wondering if that's positive alliances or
 is this more linked to changes to your cost assumptions? And then secondly on the risk
@@ -1704,10 +1572,7 @@ dropped quite signiﬁcantly, but I guess it's mainly linked to startup costs, s
 integration costs. So, could you conﬁrm whether that's the case, and also going forward,
 what could we expect from this business line in 2017 and 2018? Thanks.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Okay. On the cost savings, there really was integration of AXENT funeral business at
 Ardanta. And we are -- we believe, we're pretty convinced that I believe that we have the
 lowest cost operating in funeral business. Remember, in our Q3 call we said there were a
@@ -1726,9 +1591,7 @@ it's not an equal number over the entire period.
 So the ﬁrst years will be a bit higher than the latter years as the life -- individual life book
 runs oﬀ. So, the exact pattern is not something I cannot -- at hand here, but --
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Page 30 of 33
 
 
@@ -1742,10 +1605,7 @@ gets lower over time or?
 
 FINAL
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 So you get -- the UFR unwind, the UFR directly higher in the ﬁrst periods and moves down
 over time. And the oﬀsetting risk margin release is high and low over time, so there is a
 plus and a minus that are both higher in the early years.
@@ -1761,9 +1621,7 @@ really more cost preceding returns, it's the investments rather than underlying
 performance issue. We believe that if our funds kickoﬀ and if our goals materialize, this
 will be -- so the proﬁt contributed going forward.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
+Q - Matthias de Wit {BIO 15856815 <GO>}
 
 Bloomberg Transcript
 
@@ -1779,10 +1637,7 @@ spreads during H2 and then early 2017, does that eﬀectively mean that half of 
 portfolio should be assigned a 50 bps excess were done rather than the minus 20 bps
 excess were done which is basically inﬂating that EUR348 million further or not?
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 I'm not sure I understand your question. So, could you please elaborate?
 
 Q - Unidentiﬁed Participant
@@ -1799,9 +1654,7 @@ Company Name: ASR Nederland NV
 Company Ticker: ASRNL NA Equity
 Date: 2017-02-22
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
+A - Chris Figee {BIO 18815839 <GO>}
 
 FINAL
 
@@ -1811,22 +1664,13 @@ see a relative decline of core for the noncore. So it's actually the swap spread
 support the operating cap generation rather than diluted because the 348 was based on
 the Jan 1st portfolio, and now we have a portfolio that has more yield than the assets.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Okay, so your answer is yes, basically?
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Yeah.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Okay. That's very clear. Thank you.
 
 Operator
@@ -1834,10 +1678,7 @@ Mr. Chairman, there are no further questions. Please proceed.
 
 Bloomberg Transcript
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Well, thanks for the time you took to listen to our story and hopefully, we were able to
 reﬂect on all your questions in a proper way. To close this call, again, we were very happy
 with the results we could present today. We delivered upon our promises. And as said in

@@ -75,10 +75,7 @@ strategy. I will come back to this later in the second part of my presentation.
 With that, I would like to hand over to our CFO, Paul Norton, who will now provide you with the
 most important information about the financial figures.
 
-Paul Norton
-
-{BIO 16145125 <GO>}
-
+Paul Norton {BIO 16145125 <GO>}
 Thank you, Philipp. Ladies and gentlemen, I'd also like to welcome you to our conference call today.
 Within the next approximately 25 minutes, I'll give you more detailed information on our financial
 performance in the 2019 financial year. I'd like to start with Slide 5.
@@ -414,10 +411,7 @@ Operator
 We will now begin the question-and-answer session. (Operator Instructions) The first question
 comes from Peter Eliot from Kepler Cheuvreux. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you very much. I have three questions, please. The first one comes from the reinsurance
 effects that you explained on slide 31 about claims cost basically get transferred from current year
 to prior year development. And I just wondering if you could quantify the size of that impact, i.e.
@@ -439,10 +433,7 @@ solvency, et cetera. Yeah. That would be great. Thank you very much.
 A - Philipp Gmur
 Thank you, Peter.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Okay.
 
 A - Philipp Gmur
@@ -450,10 +441,7 @@ I'd like to hand over to Paul in order to answer those three questions.
 
 Bloomberg Transcript
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 The impact of the group reinsurance is quite significant, but and also France to some extent. So
 France is growing and France as a transport business that is typical in the transport business that
 use the underwriting aerologic. If you exclude France and group reinsurance, we're talking about a
@@ -469,17 +457,11 @@ And the same with the Alba and Phoenix book we bought in 2010. So you're seeing 
 those, a run-off results will decline. But -- so the run-off result would have been round about 4.5%
 and -- which is about just over 7% last year without the group -- without the reinsurance in that.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Can I very quickly, Paul, just ask, do you have any sort of feel for what we should expect in the
 future? I mean I know you don't give official guidance, but just the front change.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Run-off results, if you take out the reinsurance upfront, the run-off results will tend to decline, I said,
 because of -- and we mentioned before, because of the run-off of the old book and the pricing is
 much sharper in the Swiss market because most reserves are there. But we still expect a
@@ -501,10 +483,7 @@ figures on that.
 
 FINAL
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. That's great. So I'd just follow up quickly on the sort of second half, my SST question, the
 new tariffs, you said a single-digit percentage point increase. I'm just wondering on the timing of
 that coming through?
@@ -512,10 +491,7 @@ that coming through?
 A - Philipp Gmur
 That should start to come through by the middle of this year.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Right. Thank you very much.
 
 Operator
@@ -523,24 +499,15 @@ The next question comes from Jonny Urwin from UBS. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Well, thanks. So just two for me, please, actually three, why not. And so, firstly on going back to
 that current year loss ratio. I mean with that reinsurance impact, it looks like the current year got a
 little bit better year-on-year on a pure kind of underlying view? Is that right.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 That's right.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 That's right. Okay. That's quick.
 And then secondly, just thinking about (inaudible), so I think for a while companies have been
 talking about pricing, getting a bit tough, claims inflation rising a little bit, I think last year the
@@ -568,10 +535,7 @@ the combined ratio is even better than with the agents network.
 
 FINAL
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Okay. I think that covers a fair point. As Philipp said, we see and we're expecting further
 competition in the motor business and that will have an impact on the -- particularly the non-liability
 side of it where we see the combined ratios definitely creeping up. And in terms of the cost base,
@@ -590,34 +554,22 @@ actually book that since IT development costs through their cost ratios.
 
 Bloomberg Transcript
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thank you very much. And then just on the underlying points, it got a bit better, can you tell us how
 much on your view? Thank you.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 On the underlying, at the moment, I'd probably rather not say how much we're talking about, not
 substantial, but a slight improvement on the underlying.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Brilliant. Thank you.
 
 Operator
 (Operator Instructions) The next question comes from Rene Locher from MainFirst. Please go
 ahead.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Yes. Good morning, all. Thank you very much. So, perhaps, could you comment from your side on
 your new real estate fund. So is this -- are you going to be an active buyer in the Swiss real estate
 market? This is the first question.
@@ -638,10 +590,7 @@ estate and direct yield on the two slides you just mentioned. Paul, would you pl
 
 FINAL
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Okay. I think that we mentioned in my speech that within the specialty markets, for this purpose of
 cash remittance, we've included group reinsurance. And we know we make a profit out a group
 reinsurance and that has -- obviously it's not there, so they didn't pay dividend. To be open, I
@@ -658,10 +607,7 @@ Okay. Andre?
 
 Bloomberg Transcript
 
-A - Andre Keller
-
-{BIO 18667591 <GO>}
-
+A - Andre Keller {BIO 18667591 <GO>}
 Yes, Rene. This is Andre Keller speaking. So on the first question about being an active buyer and
 the answer is, no. As we know, we are a large investor on our balance sheet with more than CHF7
 billion of real estate, Swiss real estate on our balance sheet and now with launching this Swiss
@@ -677,20 +623,14 @@ income of our investment property, overall portfolio is around 3.4%. So the 3.7%
 cannot exactly tell you the kind of attribution to what has been the differences between the 4.9%
 and 3.7%, but the 3.7% is largely in line and representative for our portfolio.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Okay. Thanks.
 
 Operator
 Your next question is a follow-up question from Peter Eliot from Kepler Cheuvreux. Please go
 ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thanks for the option to come back. Just a couple of numbers questions, please. The first one
 was, I guess, we've had a few more cantonal decisions in the second half of the year and obviously
 the tax one-off went up. Just wanted to check whether that, I assume the answer is no, but
@@ -711,10 +651,7 @@ FINAL
 
 I ask Paul, please, to answer those questions.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 At the moment, I don't think there is any adjustment to ask tax guidance. We sort of expect just
 between 18% and 19% as opposed to previously 20% ongoing tax rate. There may be some
 adjustments coming through, but I wouldn't say substantial. Most of the major cantons have
@@ -733,19 +670,13 @@ extraordinary result, which is the reserving, because we are going to be reservi
 less for the losses that come out of the retirements out of those the BVG. And so that should be,
 obviously, a positive benefit longer term.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. All right. Thank you.
 
 Operator
 The next question is also a follow-up question from Jonny Urwin from UBS. Please go ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thanks. Just one more, please. Just thinking about some of the growth coming through, for
 instance, specialty lines, so property engineering and also the active reinsurance. I mean how do
 you think about the potential extra volatility that could bring to book? And how are you controlling
@@ -759,10 +690,7 @@ strategy and a concession within our group in order to mitigate the risks and th
 are -- we do not have any concerns that there is a volatility would be higher than we expect, of
 course.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 If you remember, Peter (sic - Jonny), when the -- at this question when the hurricanes HIM hit in
 2017, you've been growing rapidly in this business. So when you going to be a big problem for you.
 When you remember our combined ratio and I think group insurance around about 103 or
@@ -778,19 +706,13 @@ it's a pretty solid book.
 
 FINAL
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Brilliant. Thanks, guys.
 
 Operator
 The next question comes from Dieter Hein from AlphaValue. Sorry. Please go ahead.
 
-Q - Dieter Hein
-
-{BIO 1557192 <GO>}
-
+Q - Dieter Hein {BIO 1557192 <GO>}
 So. Hi. It's Dieter. Hi. I have a question of what your Chief Investment Officer said regarding your
 strategy of that third-party can participate on your investment expertise in the real estate sector in
 Switzerland. So did I understand you right that you don't want to buy real estate for this third-party
@@ -804,10 +726,7 @@ Bloomberg Transcript
 
 I would like to hand over to Andre Keller.
 
-A - Andre Keller
-
-{BIO 18667591 <GO>}
-
+A - Andre Keller {BIO 18667591 <GO>}
 Yes. Thank you for this question. So, I think it's important to understand that you've seen our
 growth figures that we are actually in a strategy to not substantially grow or not grow our life,
 traditional life business at all. Our strategy is actually to grow also capital-light products. And, as
@@ -828,40 +747,26 @@ important to understand what's the overall strategic rationale, how to capitaliz
 which is also consistent with our strategy and the marginal cost that we incurred, which is very low,
 because we do it anyway.
 
-Q - Dieter Hein
-
-{BIO 1557192 <GO>}
-
+Q - Dieter Hein {BIO 1557192 <GO>}
 Okay. Thank you very much. I have understood that. So but this mean in the future, if there are
 bigger demand forces third-party fund, you would as well by over the market.
 
-A - Andre Keller
+A - Andre Keller {BIO 18667591 <GO>}
 Yes we --
-
-{BIO 18667591 <GO>}
 
 
 
-Q - Dieter Hein
-
-{BIO 1557192 <GO>}
-
+Q - Dieter Hein {BIO 1557192 <GO>}
 Is it right?
 
 FINAL
 
-A - Andre Keller
-
-{BIO 18667591 <GO>}
-
+A - Andre Keller {BIO 18667591 <GO>}
 Exactly. So we will do that and we assess obviously investment opportunities as we do for our own
 portfolio. We will have the same expertise and do that also for third parties. So it's the sweet spot
 of kind of catering additional customers and just our balance sheets as well.
 
-Q - Dieter Hein
-
-{BIO 1557192 <GO>}
-
+Q - Dieter Hein {BIO 1557192 <GO>}
 Yes. Thank you.
 
 Operator

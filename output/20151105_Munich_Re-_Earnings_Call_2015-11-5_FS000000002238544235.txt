@@ -34,10 +34,7 @@ Statement Conference Call. Today's conference is being recorded.
 At this time, I would like to turn the conference over to Mr. Becker-Hussong. Please go
 ahead, sir.
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 Good afternoon or good morning, everyone. Thanks for joining for our call on our Q3
 2015 earnings. Today's set up is pretty simple. Today's speaker is Jörg Schneider, our
 CFO, and we will kick it off right away with Q&A, as we are certain that most of you have
@@ -63,9 +60,7 @@ Operator
 Thank you. Our first question today comes from Andrew Ritchie of Autonomous. Please
 go ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
@@ -107,10 +102,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2015-11-05
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 So, this is a data (05:02) metric through the P&L to the extent these are impaired
 securities will only get downside – the upside (05:07) will always go straight through the
 balance sheet?
@@ -120,10 +112,7 @@ FINAL
 A - Jörg Schneider
 That is true, yeah. That is absolutely true. We will not write it up...
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay.
 
 A - Jörg Schneider
@@ -178,19 +167,13 @@ So perhaps also a random accumulation of negative messages, but the internationa
 business is challenging, remains challenging. There are a lot of chances but also still a lot
 of challenges here.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 So it sounds like – I think it was 97% was your aspiration in that business. Was that right?
 
 A - Jörg Schneider
 That is true but we are at the moment some way away from that.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Even if I allow for the kind of one-offs it sounds like that...
 
 Bloomberg Transcript
@@ -201,10 +184,7 @@ the moment, especially with these developments in our very important markets lik
 Turkey and Poland, which – where we are positive and optimistic mid-term, but short-term
 it's a challenge.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. And just back on the investment return, so any gains that you had on your equity
 hedges are, I mean, have netted off against the equity impairments?
 
@@ -218,9 +198,7 @@ were hit by the impairments at the end of September also partially due to that
 development, but we continued in the beginning of October and seen, from today, that
 was a good decision.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Page 4 of 20
 
 
@@ -243,10 +221,7 @@ seem to understand it quite well. So the reaction is moderate. And we will conti
 a lot of transparency on our strategies here. And perhaps we should be a bit better in
 also explaining the sensitivities.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay, great. Thank you.
 
 Operator
@@ -254,10 +229,7 @@ Thank you. We will now move to In-Yong Hwang of Goldman Sachs. Please go ahead.
 
 Bloomberg Transcript
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Hi, good afternoon. This is In-Yong from Goldmans. Two questions from me. Firstly, on the
 guidance for next year, obviously, this year's guidance is €3 billion, but we've had a quite
 good year in terms of low nat cats and you still got some of the tax benefits coming
@@ -304,10 +276,7 @@ since the low interest rates seem to be somewhat sustainable, when it comes to t
 valuation process, it might be a stretch to keep all these values. That is what we wanted
 to flag here, nothing specific with regard to major steps.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Sure. Just quickly on the guidance again. Are you expecting still to see some tax benefits
 coming through next year as well? I know you said we should still see some in the next
 quarter, but for 2016?
@@ -325,19 +294,13 @@ conservative than on the aggressive side. So as for Q4, like for 2016, I very mu
 that we will stay clearly below our long-term tax rate, which should be in the order of 20%
 to 25%.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Great. Thank you.
 
 Operator
 Thank you. We will now move to Thomas Jacquet of Exane BNP Paribas. Please go ahead.
 
-Q - Thomas Jacquet
-
-{BIO 4110153 <GO>}
-
+Q - Thomas Jacquet {BIO 4110153 <GO>}
 Hi. Good afternoon, everyone. Can you give us an update on the capital position of
 ERGO? Earlier this year, you stated that you had no need to inject capital. Do you stay with
 this view? And my second question regards regulation. Do you – can you give an update
@@ -374,10 +337,7 @@ not on the list. The list has been somewhat revised for the primary insurers. As
 know, no decision has been made, no explicit decision for the reinsurers, also no explicit
 decision that they stay out. We think that would be the right decision, but it's too early.
 
-Q - Thomas Jacquet
-
-{BIO 4110153 <GO>}
-
+Q - Thomas Jacquet {BIO 4110153 <GO>}
 Okay. Maybe a small follow-up, if I may, on the primary side. How sensitive is the capital
 requirement to the UFR at 4.2%? Because I think that the EIOPA has announced that they
 will change the methodology and probably lower the UFR.
@@ -391,10 +351,7 @@ very, very long-term liabilities. On the bulk of the liabilities, it's much shor
 being already long, and, therefore, the relevance would be not dramatic if there were a
 decline in the UFR here.
 
-Q - Thomas Jacquet
-
-{BIO 4110153 <GO>}
-
+Q - Thomas Jacquet {BIO 4110153 <GO>}
 Okay. Thank you very much.
 
 A - Jörg Schneider
@@ -407,9 +364,7 @@ ahead.
 A - Jörg Schneider
 Hi, Kamran. Are you there?
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Page 7 of 20
 
 
@@ -426,10 +381,7 @@ FINAL
 
 Now we can hear you.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Oh, you can hear me, perfect. Okay, two questions. The first one, just on the Tianjin loss.
 Can you just give us a little bit more detail about how you got to that €175 million number,
 and whether that's a worst-case scenario? And secondly, just on potentially maybe Q4
@@ -447,10 +399,7 @@ to intervene here to the detriment of our clients.
 
 Bloomberg Transcript
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Perfect. Is there really exposure on the investment side, either in equities or anywhere
 else?
 
@@ -459,10 +408,7 @@ We have – sorry, I forgot to switch on the microphone. I repeat. So we have an
 our investments in the low triple-digit range and we have already done the impairments in
 the third quarter on the stocks.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Perfect. Perfect. Thanks very much.
 
 A - Jörg Schneider
@@ -471,10 +417,7 @@ Thanks to you.
 Operator
 Thank you. We will now move to Frank Kopfinger of Commerzbank. Please go ahead.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Page 8 of 20
 
 
@@ -541,9 +484,7 @@ will have to be tested for impairment in the final quarter. And dependent on the
 reinvestment rate which we apply in the test, we would have goodwills or we wouldn't
 have goodwills; it depends also on a little bit of a management judgment here.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 
 FINAL
 
@@ -552,10 +493,7 @@ Okay. Thank you.
 Operator
 Thank you. We will now move to Thomas Seidl of Sanford C. Bernstein. Please go ahead.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yeah. Thank you. Two questions. Number one, has your pricing outlook changed by any
 means following Baden-Baden in particular? Do you see increasing price pressure in the
 casualty segment? That was at least what we were hearing post-Monte Carlo following
@@ -584,10 +522,7 @@ thoroughly select what they write and what they don't write. And the closer we a
 client and the more we can provide the client with tailor-made solutions, the better we
 can somewhat distract from the competitive forces in the market.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 In terms of – maybe a follow-up question on the capital deployment, while not a fullfledged M&A, there should be a quite strong demand in transferring the one or the other
 
 Page 10 of 20
@@ -616,10 +551,7 @@ applies for other areas of living benefit business, especially, which is also pa
 difficult. So we continue writing it, but we could somewhat lag behind with regard to
 growth to some competitors.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay. Thanks, Jörg.
 
 A - Jörg Schneider
@@ -631,10 +563,7 @@ Thank you, Thomas.
 Operator
 Thank you. Our next question comes from Vinit Malhotra of Mediobanca. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Hello. Good afternoon. Just – one thing on portfolio management and in the context on
 the liability on the book, on the reinsurance book. We've seen the underlying normalized
 combined ratio has slightly improved and I know it could be quarterly volatility. But is there
@@ -694,10 +623,7 @@ direction. That means we gave up our long-duration position in reinsurance. We a
 not very short as you can see from the numbers, but there is a change, that is true. That
 means that we do not believe in ever-declining interest rates.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Is it more a U.S. exposure, or even...
 
 A - Jörg Schneider
@@ -705,10 +631,7 @@ Yeah. That is true, there's a lot of U.S. exposure and we also have a currency b
 that is long U.S. dollar and we believe that the U.S. capital markets provide good value at
 the moment. Thank you, Vinit.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you.
 
 Page 12 of 20
@@ -724,10 +647,7 @@ Thank you. We will now move to Michael Huttner of JPMorgan. Please go ahead.
 
 FINAL
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 Fantastic. Thank you very much. On the ERGO potential write-down, how much is the risk
 amount (39:12) we are talking about? So that would be one question.
 On the ERGO combined ratio, in the old days ERGO used to be really good, because you
@@ -748,10 +668,7 @@ Bloomberg Transcript
 Yeah. Michael, it's still €400 million, yes. So there we do not see a major increase at the
 moment, but I would expect for next year that we see more. With regard to ERGO writedown, did you ask for risk amounts or how much is in the fire, or what was your question?
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 Yeah, it's kind of risk amount. So we've got the figure of goodwill which is potentially at
 risk of €430 million, which could be already judged in Q4. And I was just thinking what
 would be the amount we should think we can – the base amount which relates for 2016
@@ -782,10 +699,7 @@ years to come.
 
 FINAL
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 Okay. Just going back on the ERGO, so maybe I – just so I understand, so the €430 million
 plus €60 million, that's the envelope, if I would call it that way, or the potential set the
 maximum on the goodwill. Is there a separate figure for DAC, or is that everything
@@ -796,10 +710,7 @@ That's okay. Yes, that is the maximum on the goodwill in Life and Health segment
 that is true. And then we can talk about other intangibles, but this is now a very negative
 view. So as far as I see, now we do not have indications that it goes that far.
 
-Q - Michael I. Huttner
-
-{BIO 21417183 <GO>}
-
+Q - Michael I. Huttner {BIO 21417183 <GO>}
 Brilliant. Thank you very much.
 
 A - Jörg Schneider
@@ -811,10 +722,7 @@ Bloomberg Transcript
 
 Thank you. Michael Haid of MainFirst Bank has our next question. Please go ahead.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Yes, yes. Thank you very much. Just one question also to – relating to life primary
 insurance, your DAC write-downs and what you mentioned before, possible additions to
 the premium deficiency reserve, can you explain how the mechanics work there? How
@@ -831,10 +739,7 @@ policyholders and therefore it's also shared when you write it down as long as y
 enough potential on the policyholders' side to put burdens on it. And this is currently the
 case. So it's basically a 90/10 sharing.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 And the same applies for the premium deficiency reserve?
 
 Page 14 of 20
@@ -849,9 +754,7 @@ A - Jörg Schneider
 Yes. Absolutely the same. And this is logical because it's economically the same origin. It's
 just done on the other side of the balance sheet.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
+Q - Michael Haid {BIO 1971310 <GO>}
 
 FINAL
 
@@ -863,9 +766,7 @@ Thank you, Michael.
 Operator
 Thank you. Our next question comes from Andy Broadfield of Barclays. Please go ahead.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 
 Bloomberg Transcript
 
@@ -917,10 +818,7 @@ each company in the market would have used it. Where we are now, we wouldn't nee
 We have other tools in place and the capitalization of the companies will be all right. So
 we just have to wait. And as far as I see today, we will not use transitionals.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 Okay. Thanks very much.
 
 A - Jörg Schneider
@@ -931,10 +829,7 @@ Thank you. We will now move to William Hawkins of KBW. Please go ahead.
 
 Bloomberg Transcript
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hi. Thank you very much, Jörg. Just one question on economic solvency and capital
 management. You flagged in your prepared remarks that your economic solvency ratio is
 lower by September, and I'm assuming that's before any impact of the dividend at the full
@@ -973,10 +868,7 @@ say I'm not overwhelmed by the number, but absolutely not disappointed. And we d
 expect any negative development from the final calibration of numbers and adoption to
 the Solvency II world.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 And, I mean, just one comment. I still think the eurozone swap yield is actually higher than
 it ended last year, which I would have thought was the main driver. But what do you think
 about capital management for the end of this year? Is a tighter solvency rate making you
@@ -1001,10 +893,7 @@ perception about how much buffer do we want to keep. But it will not be the econ
 capital number, the economic solvency ratio, which will be experienced as the main
 obstacle to capital management from Munich Re.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Okay. Thanks, Jörg.
 
 A - Jörg Schneider
@@ -1013,10 +902,7 @@ Thanks, William.
 Operator
 Thank you. We will now move to Xinmei Wang of Morgan Stanley. Please go ahead.
 
-Q - Xinmei Wang
-
-{BIO 17860767 <GO>}
-
+Q - Xinmei Wang {BIO 17860767 <GO>}
 Hi. Thanks for taking my question. It's Xinmei Wang from Morgan Stanley. I have two
 questions, please. The first is on man-made losses, I'm not sure you've touched on this
 before, but I see you've kept your annual expectation of 3.5%. And I was just interested in
@@ -1057,10 +943,7 @@ that the reality in man-made is a little bit higher than the 3.5%, but we would 
 a totally different territory here. So you can – for the time being, you can rely on 12% being
 still a very good indication going forward for major losses in total.
 
-Q - Xinmei Wang
-
-{BIO 17860767 <GO>}
-
+Q - Xinmei Wang {BIO 17860767 <GO>}
 Okay. Great. Thanks a lot, Jörg.
 
 A - Jörg Schneider
@@ -1070,10 +953,7 @@ Operator
 Thank you. Our final question today comes from Thomas Fossard of HSBC. Please go
 ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes, good afternoon. Good afternoon, Jörg. Just a quick comment from your side on the
 life re operations; how things are going there? How are you comfortable with the trends
 in the technical results? I must admit that looking at slide 26 of the slide pack, I've been a
@@ -1105,10 +985,7 @@ as I know nothing in the pipeline. So our expectation is that 2015 will end up s
 lower than originally anticipated, but that for 2016 we should be back where we want to
 be, that is, a technical result in the order of €400 million.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Thank you, Jörg.
 
 A - Jörg Schneider
@@ -1116,10 +993,7 @@ Thank you, Thomas.
 
 Bloomberg Transcript
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay, thank you. Thanks to all of you for joining us. Further questions, as always, please
 just feel free to give us a call. Otherwise, we are looking very much forward to seeing all
 of you or most of you in London on November 30 for our briefing on Solvency II. Thank

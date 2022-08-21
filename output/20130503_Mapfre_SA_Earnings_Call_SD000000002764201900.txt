@@ -28,10 +28,7 @@ by a question and answer session. (Operator Instructions) I must advise you that
 being recorded today on Friday, May 3, 2013.
 Let me hand the conference to your speaker today, Esteban Tejera. Please go ahead, sir.
 
-Esteban Tejera
-
-{BIO 3910673 <GO>}
-
+Esteban Tejera {BIO 3910673 <GO>}
 Good afternoon, ladies and gentlemen. Welcome to MAPFRE's First Quarter 2013 results
 presentation. As usual, I'll give an overview of the results and then the main business
 developments, and later, Mr. Lubelli will explain the financials in greater detail. Finally, we
@@ -114,10 +111,7 @@ And as usual, I will now hand the call to Mr. Lubelli, who will comment on the f
 bit more detail.
 Luigi?
 
-Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+Luigi Lubelli {BIO 4108780 <GO>}
 Thank you, Esteban. Good afternoon to you all. Please let us move to slide number 9.
 
 Bloomberg Transcript
@@ -310,10 +304,7 @@ Questions And Answers
 Operator
 (Operator Instructions) Vinit Malhotra.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 I think a few very small quick ones. You mentioned on MAPFRE FAMILIAR that weather
 caused unfavorable underwriting. Could you just comment on if it was -- what's the
 number there?
@@ -330,29 +321,17 @@ Then on Brazil, there's a 1.2% I think in the Fourth Quarter from this classific
 impact. Is it a similar magnitude even now in the First Quarter?
 Thank you.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Good afternoon, Vinit. Can you just please repeat your last question? I was taking notes of
 the previous ones, and I was --
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 I'm sorry for this. Too many questions. I apologize.
 
-A - Esteban Tejera
-
-{BIO 3910673 <GO>}
-
+A - Esteban Tejera {BIO 3910673 <GO>}
 No. It's all right.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 In the Brazilian combined ratio, the reclassification had led to a 1 point/2 points of
 improvement last quarter. And is it a similar magnitude even now, or is it -- or is there no
 impact this time around?
@@ -364,9 +343,7 @@ Company N ame: M apfre SA
 Company Ticker: M AP SM Equity
 Date: 2013-05-03
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
+A - Luigi Lubelli {BIO 4108780 <GO>}
 
 FINAL
 
@@ -387,43 +364,29 @@ primarily impacted household insurance, but also motor and also communities; we 
 communities, which is basically buildings. It was basically bad weather in Andalusia. But
 that's all I can tell you qualitatively. I don't have the figure.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 Bloomberg Transcript
 
 Sure.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 The commercial lines went up primarily because of Agricultural business. The Company -there's a, say, public-supported scheme for agricultural insurance in Spain, and our
 Company increased its share in this sort of a pool, and that is what is reflected in the First
 Quarter. I wouldn't necessarily expect that to continue in the coming quarters, but that's
 the primary reason for which you saw this increase in this quarter.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 And you're right. The capital gain in Turkey on normal conditions would have been
 reflected, but the fact is that you had a similar magnitude increase in the appropriation to
 loss reserves for underwriting. And basically, as the two amounts erased each other, we
 thought it wasn't necessary because the net amount was -- the amount that would have
 been left on a net basis would not have been significant for the consolidated account.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay, it was for policyholders then mostly?
 
 Page 8 of 20
@@ -434,38 +397,25 @@ Company N ame: M apfre SA
 Company Ticker: M AP SM Equity
 Date: 2013-05-03
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Yes.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 FINAL
 
 (inaudible) Okay.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Have I answered your question, Vinit?
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes, very much. Thank you very much.
 
 Operator
 Atanasio Pantarrotas.
 
-Q - Atanasio Pantarrotas
-
-{BIO 5933123 <GO>}
+Q - Atanasio Pantarrotas {BIO 5933123 <GO>}
 
 Bloomberg Transcript
 
@@ -486,10 +436,7 @@ sharp decline, if I understand well, of the Motor premiums, and I wonder if this
 lower volumes mainly or lower tariffs. If you can give us more color on this.
 Thank you.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Hi, Atanasio. Good afternoon, and thanks for your questions. I know it may come as a
 surprise, but that's the reason. The financial income went down because rates fell down.
 And the only thing that I would think perhaps complements it a bit, I don't recall the
@@ -540,10 +487,7 @@ premiums, because people are buying simpler covers for older cars.
 So it's a combination of the two, but the whole market fell very significantly, I have to say.
 It was a significant fall in this quarter.
 
-Q - Atanasio Pantarrotas
-
-{BIO 5933123 <GO>}
-
+Q - Atanasio Pantarrotas {BIO 5933123 <GO>}
 Okay. Thank you.
 Page 10 of 20
 
@@ -558,10 +502,7 @@ Maciej Wasilewicz.
 
 FINAL
 
-Q - Maciej Wasilewicz
-
-{BIO 16462204 <GO>}
-
+Q - Maciej Wasilewicz {BIO 16462204 <GO>}
 It's Maciej from Morgan Stanley. I've got a couple of questions, if you don't mind. The first
 question is just whether or not you can give us any update at all on the Aseval or the
 Bankia overhang issues. I'll group them as one, because you might well say that there's
@@ -581,24 +522,15 @@ Bloomberg Transcript
 
 Thank you.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Good afternoon, Maciej. I'll take the -- firstly question on MAPFRE RE. I think perhaps it's
 the fact that I've spoken very quickly and there might have been some confusion.
 No. What happened with -- you're talking MAPFRE RE, right?
 
-Q - Maciej Wasilewicz
-
-{BIO 16462204 <GO>}
-
+Q - Maciej Wasilewicz {BIO 16462204 <GO>}
 Yes, yes.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 So MAPFRE RE actually had an increase in premiums which was essentially due to an
 internal contract that it signed with MAPFRE FAMILIAR. If you exclude that, the premiums
 were actually flat. So -- which is something we already said in the full-year results after the
@@ -614,38 +546,24 @@ Company N ame: M apfre SA
 Company Ticker: M AP SM Equity
 Date: 2013-05-03
 
-Q - Maciej Wasilewicz
-
-{BIO 16462204 <GO>}
-
+Q - Maciej Wasilewicz {BIO 16462204 <GO>}
 Oh, no. You know what I've done? I think I've looked at slide 14 and I've gotten confused.
 So actually, you're right.
 
 FINAL
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Yes. I thought there could have been a confusion. So that's the figures for MAPFRE. I think
 you're referring possibly to MAPFRE GLOBAL RISKS.
 
-Q - Maciej Wasilewicz
-
-{BIO 16462204 <GO>}
-
+Q - Maciej Wasilewicz {BIO 16462204 <GO>}
 Yes. Look, I think you're right. MAPFRE RE actually flat premiums and margins are good. It
 actually makes a lot of sense.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 So that's the (other one).
 
-A - Esteban Tejera
-
-{BIO 3910673 <GO>}
+A - Esteban Tejera {BIO 3910673 <GO>}
 
 Bloomberg Transcript
 
@@ -678,35 +596,24 @@ Company N ame: M apfre SA
 Company Ticker: M AP SM Equity
 Date: 2013-05-03
 
-Q - Maciej Wasilewicz
-
-{BIO 16462204 <GO>}
-
+Q - Maciej Wasilewicz {BIO 16462204 <GO>}
 And what about the overhang? Is there any sort of -- has there been any development
 whatsoever about Bankia's intentions as to the timing of the sell-down of the MAPFRE
 stake, or is that as it was last quarter, basically unknown?
 
 FINAL
 
-A - Esteban Tejera
-
-{BIO 3910673 <GO>}
-
+A - Esteban Tejera {BIO 3910673 <GO>}
 We remain in the same situation that the quarter before. We know that they have to sell in
 a period of time that spans to 2017, but there is no news.
 
-Q - Maciej Wasilewicz
-
-{BIO 16462204 <GO>}
-
+Q - Maciej Wasilewicz {BIO 16462204 <GO>}
 Okay. Thank you very much for that. Thank you.
 
 Operator
 (Operator Instructions) Michael Van Wegen.
 
-Q - Michael Van Wegen
-
-{BIO 6435238 <GO>}
+Q - Michael Van Wegen {BIO 6435238 <GO>}
 
 Bloomberg Transcript
 
@@ -730,9 +637,7 @@ simpler products? Or should we also start to expect a further deterioration in t
 ratio there?
 Thank you.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Page 13 of 20
 
 
@@ -755,10 +660,7 @@ yield. Gains are realized whenever we need to sell those assets for other purpos
 usually, we tend mostly to hold our assets to maturity.
 In terms of Spain, firstly, I've answered your question on financial income?
 
-Q - Michael Van Wegen
-
-{BIO 6435238 <GO>}
-
+Q - Michael Van Wegen {BIO 6435238 <GO>}
 Yes. I'm not quite sure that I understand this answer though, because in the sense that fair
 values run through it, if interest rates come down, if anything, your fair value changes are
 positive rather than negative. So true, there's an upward impact on your financial income
@@ -766,40 +668,25 @@ in Q1 rather than a negative, so if anything --
 
 Bloomberg Transcript
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 That would compensate -- that would explain -- because your question I understood was
 that you think our running yield is too high.
 
-Q - Michael Van Wegen
-
-{BIO 6435238 <GO>}
-
+Q - Michael Van Wegen {BIO 6435238 <GO>}
 No. It's -- as far as I'm concerned, I think it's surprisingly low what you achieved in Q1. 2.8%
 for the Non-Life business seems low given where Spanish bond yields are and your mix
 geographically.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Right. But if you're talking Non-Life, Non-Life is mostly towards the low -- the short end.
 Then they also have cash balances which don't yield that much.
 Honestly, that's -- I'm sorry, but there's really not much more I can tell you. That really is
 what flows through the accounts.
 
-Q - Michael Van Wegen
-
-{BIO 6435238 <GO>}
-
+Q - Michael Van Wegen {BIO 6435238 <GO>}
 Okay.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 And in terms of Spain, one thing is not necessarily related with the other. We try, and our
 track record is a testimony to that, is to price each cover according to its risk. The fact that
 Page 14 of 20
@@ -824,10 +711,7 @@ who can afford less to pay, more expensive policies. But that doesn't necessaril
 impact on the loss experience. The frequency does, but the fact that the covers are
 simpler doesn't necessarily have to have an impact on the loss experience.
 
-Q - Michael Van Wegen
-
-{BIO 6435238 <GO>}
-
+Q - Michael Van Wegen {BIO 6435238 <GO>}
 Perfect. Thank you.
 
 Operator
@@ -835,10 +719,7 @@ Niccolo Dalla Palma.
 
 Bloomberg Transcript
 
-Q - Niccolo Dalla Palma
-
-{BIO 16052945 <GO>}
-
+Q - Niccolo Dalla Palma {BIO 16052945 <GO>}
 I've got three questions. The first one is on the Health Insurance in Spain, which is a
 significant chunk of the Spanish premiums and especially in the quarter. And just the
 combined ratio at 107%, I just wanted to check if this is a one-off increase or if there is
@@ -856,10 +737,7 @@ listed company. Just curious to know whether you were -- you had considered or w
 considering an investment in the holding company which is now IPO-d.
 Thank you.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Hi, Niccolo. The Health Insurance in Spain, the claims ratio is basically -- rather than from
 the claims, it comes from the net premiums earned.
 
@@ -879,16 +757,10 @@ on the recognition of cancellations and we've brought them forward to the First 
 of the year. So that has led to a contraction of the net premiums earned, and that has
 increased the loss ratio.
 
-Q - Niccolo Dalla Palma
-
-{BIO 16052945 <GO>}
-
+Q - Niccolo Dalla Palma {BIO 16052945 <GO>}
 Okay. It's a denominator, not a (nominator)?
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Yes. The Turkish gains. As we said, (we sold) the headquarters of the Company. And the
 appropriation doesn't have anything to do with anything else. It's 100% Turkish. It's
 because the business is growing, and let's say there's a certain market-wide suasion by
@@ -896,10 +768,7 @@ the supervisors to be prudent on that, so the Company have to somehow, align to 
 It's not exactly a law. It's just a recommendation that comes from the supervisors.
 And finally, no, we did not invest in the BB Seguridade, and we are not planning to.
 
-Q - Niccolo Dalla Palma
-
-{BIO 16052945 <GO>}
-
+Q - Niccolo Dalla Palma {BIO 16052945 <GO>}
 Okay. Thanks very much.
 
 Bloomberg Transcript
@@ -907,10 +776,7 @@ Bloomberg Transcript
 Operator
 Mari Ojeda.
 
-Q - Mari Paz Ojeda
-
-{BIO 20586811 <GO>}
-
+Q - Mari Paz Ojeda {BIO 20586811 <GO>}
 Hello. Good afternoon. I'm Maria from Banco Sabadell. I have two questions, one
 regarding the Reinsurance agreement between MAPFRE FAMILIAR and MAPFRE RE. Can
 you elaborate a little more about what are the reasons? Which is expected impact, both in
@@ -921,16 +787,10 @@ that. And last year, you were growing at about a rate above 20%. So this slowdow
 to stay, or just one thing that has happened this quarter and you are going to recuperate
 your trend in next quarters in local currency?
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Is that all, Maria?
 
-Q - Mari Paz Ojeda
-
-{BIO 20586811 <GO>}
-
+Q - Mari Paz Ojeda {BIO 20586811 <GO>}
 Yes.
 
 Page 16 of 20
@@ -941,9 +801,7 @@ Company N ame: M apfre SA
 Company Ticker: M AP SM Equity
 Date: 2013-05-03
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
+A - Luigi Lubelli {BIO 4108780 <GO>}
 
 FINAL
 
@@ -967,31 +825,19 @@ Was it clear, or --?
 
 Bloomberg Transcript
 
-Q - Mari Paz Ojeda
-
-{BIO 20586811 <GO>}
-
+Q - Mari Paz Ojeda {BIO 20586811 <GO>}
 Yes. It's perfectly clear. Thank you.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 And the slowdown in Brazil? Well I wish our business in Spain slowed down to a 13%
 growth. It's simply Brazil is -- the country itself is not growing as much as it did in the past,
 but you know you have ups and downs. But frankly, 13% is all right.
 
-Q - Mari Paz Ojeda
-
-{BIO 20586811 <GO>}
-
+Q - Mari Paz Ojeda {BIO 20586811 <GO>}
 Yes. But you were growing at a much more faster pace, and (do you think) your Non-Life
 insurance in Brazil --?
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Well Maria, the total economy was growing at a faster pace. It's coming, and it's coming
 and going. But by and large, the business is doing well. The agreement with Banco Brasil
 is developing very well on both accounts, and we do have growth. We actually -- we have
@@ -1007,20 +853,14 @@ Company N ame: M apfre SA
 Company Ticker: M AP SM Equity
 Date: 2013-05-03
 
-Q - Mari Paz Ojeda
-
-{BIO 20586811 <GO>}
-
+Q - Mari Paz Ojeda {BIO 20586811 <GO>}
 Yes. No. I agree with you on the whole Company, but at the end, we are growing at
 maybe 15% or 20% in Non-Life, but you are growing much less in Life Insurance, and at the
 (multiple speakers).
 
 FINAL
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Like I explained it in the speech that the fact that Life is growing less is because of the
 transfer of some lines of business to the Non-Life business, and also because of the
 devaluation.
@@ -1028,16 +868,11 @@ The whole Group grew in local currency 18%, and 18% -- I can imagine that you wo
 to see faster growth and we would like to see faster growth, but 18% is not something I
 would complain about.
 
-Q - Mari Paz Ojeda
-
-{BIO 20586811 <GO>}
-
+Q - Mari Paz Ojeda {BIO 20586811 <GO>}
 By the way, have you disclosed the currency rates that you are using? Because there's -or maybe I have another one, but in my estimate, Brazilian real has decreased 10%, and
 according to your numbers, it's much more close to 13%/14%.
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
+A - Luigi Lubelli {BIO 4108780 <GO>}
 
 Bloomberg Transcript
 
@@ -1053,19 +888,13 @@ differences.
 The average exchange rate on the accounts is a bit difficult to reproduce, while the
 balance sheet is period closed so it's much easier.
 
-Q - Mari Paz Ojeda
-
-{BIO 20586811 <GO>}
-
+Q - Mari Paz Ojeda {BIO 20586811 <GO>}
 Yes. It's much easier. Okay. Thank you.
 
 Operator
 Vinit Malhotra.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Page 18 of 20
 
 
@@ -1081,10 +910,7 @@ right?
 
 FINAL
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 As you know, in MAPFRE, the companies, with a few exceptions for the (inaudible)
 business in Latin America, normally (cedes) to MAPFRE.
 The contract was with MAPFRE. It had a different size and, for instance, Verti before was
@@ -1093,55 +919,34 @@ agreement with MAPFRE RE.
 But everything is in the house. It's just that the volume and companies involved, that's
 changed. But everything was in the house before as well.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay, fair point. Okay. Thank you.
 
 Bloomberg Transcript
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Then, of course, as you know, all the internal business gets to MAPFRE RE. MAPFRE RE
 keeps a slice of that, and then it retrocedes the Group business out because of safety
 and prudence reasons. The business coming from inside is dealt with differently than the
 business coming from third parties.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Sure. So the Verti used to reinsure to FAMILIAR, but now Verti reinsures direct to MAPFRE
 RE?
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 Yes. From a consolidated standpoint, it doesn't really make a difference.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 But it makes a difference where the capital is? Is there a fungibility thing here, or --?
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
-
+A - Luigi Lubelli {BIO 4108780 <GO>}
 No. It's not a fungibility. The capital stays where it was, but the fact that the risk is ceded to
 a greater extent to MAPFRE RE means that part of the risk of MAPFRE FAMILIAR is now
 supported by the capital of MAPFRE RE. So there's less -- the capital at MAPFRE FAMILIAR
 can be employed for other purposes because part of it is supported by MAPFRE RE.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Page 19 of 20
 
 
@@ -1152,28 +957,20 @@ Date: 2013-05-03
 
 Okay. But at a Group level capital-wise, no issues, no changes?
 
-A - Luigi Lubelli
-
-{BIO 4108780 <GO>}
+A - Luigi Lubelli {BIO 4108780 <GO>}
 
 FINAL
 
 No changes; just a redistribution by means of another insurance company.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Fair point. Thank you very much. Thank you.
 
 Operator
 (Operator Instructions) There seems to be no further questions at this time. Please
 continue.
 
-A - Esteban Tejera
-
-{BIO 3910673 <GO>}
-
+A - Esteban Tejera {BIO 3910673 <GO>}
 Okay. If there is no more questions, I would like to thank you for attending our
 presentation of the results, and I hope to be with you again for the next presentation.
 Thank you for attending the call.

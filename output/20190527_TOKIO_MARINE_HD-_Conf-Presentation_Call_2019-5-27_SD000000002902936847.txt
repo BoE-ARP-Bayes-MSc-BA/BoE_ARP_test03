@@ -29,10 +29,7 @@ Unidentified Participant, Analyst
 Wataru Otsuka, Analyst
 
 Presentation
-Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Good afternoon, ladies and gentlemen. Thank you for coming to the
 earnings briefing for the first half of fiscal year 2019. I'd like to extend our appreciation for
 your support to the company.
@@ -297,10 +294,7 @@ return, we will strive to gain increased confidence from the market. In doing so
 ask you for your ongoing support.
 Thank you for your kind attention.
 
-Taizou Ishiguro
-
-{BIO 20620398 <GO>}
-
+Taizou Ishiguro {BIO 20620398 <GO>}
 (Interpreted) Thank you very much, Mr. Nagano. We would like to take questions from the
 floor. From those of you who raised hands in the floor, Mr. Nagano will point at you. And
 we will bring a microphone to you. Please allow management to be seated as they take
@@ -309,16 +303,10 @@ therefore, we would like to stick to 2 questions per person. Please raise your h
 have any question.
 
 Questions And Answers
-A - Taizou Ishiguro
-
-{BIO 20620398 <GO>}
-
+A - Taizou Ishiguro {BIO 20620398 <GO>}
 (Interpreted) Muraki-san, please.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 (Interpreted) From Deutsche Securities, Muraki. Two points. First point, Page 40, on the
 right-hand side, ESR sensitivity. In the earnings, ESR volatility remained still at a high level. I
 think that was find out -- found out. And with nat cat, profit -- or ESR was not very affected.
@@ -341,16 +329,10 @@ And the second part of my question is more qualitative. In 2013, you became the
 President of the company. And it's been six years. Please summarize your six years as
 President.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) I haven't come to the end of my term yet.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 (Interpreted) Please look back on your six years in -- as President. As is shown on Page 10,
 the ROE level and stability has been improved. Some positive aspects on the financial
 side. But outside of the financial side, I think, as the corporate slogan, should I call it,
@@ -362,10 +344,7 @@ that were difficult that you see -- feel that you have left to your successors?
 
 Bloomberg Transcript
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Thank you very much for those questions. I received 2 questions from
 Muraki-san. The first question will be responded by Yuasa-san. The first question was on
 ESR sensitivity. Interest rate sensitivity is high. It so appears volatility appears to be high.
@@ -376,10 +355,7 @@ second question, I think I need to respond. And I -- actually last night, as I w
 was imagining maybe this kind of question might be posed today. And so I was surprised
 to hear it. But let me start with the first question. Yuasa-san?
 
-A - Takayuki Yuasa
-
-{BIO 17941516 <GO>}
-
+A - Takayuki Yuasa {BIO 17941516 <GO>}
 (Interpreted) Starting with TMNL. Interest rate risk was taken in the life insurance side. The
 current situation, if we look at it from a long-term perspective, we could say that the
 interest rate situation is suppressed quite artificially. And so we were taking a position that
@@ -400,27 +376,19 @@ Company N ame: Tokio M arine H oldings I nc
 Company Ticker: 8766 JP Equity
 Date: 2019-05-27
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Fujita-san, anything to add from you?
 
 FINAL
 
-A - Hirokazu Fujita
-
-{BIO 17671014 <GO>}
-
+A - Hirokazu Fujita {BIO 17671014 <GO>}
 (Interpreted) I think Yuasa-san said it well. To a certain extent, well, the market, the bond
 market, JGB market has low liquidity. And possible price increase could be anticipated. But
 as Yuasa-san mentioned, buying bonds was something that we decided not to do. We will
 watch carefully the situation in the market to buy bonds on an as-needed basis so that it
 will not impact the market too much.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 
 Bloomberg Transcript
 
@@ -560,10 +528,7 @@ So that was quite lengthy. But with my feeling of appreciation, I expressed my t
 So that sounded like a summary. But let's move on to the next question. I'll ask others to
 respond. Otsuka-san, please.
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 (Interpreted) I'm Otsuka from JP Morgan. I have 2 questions. Here's the first question. I
 have a question for holdings overall. I looked at Page seven through 10, especially Page 10
 actually, with regards to enhancing ROE. You were just looking back at the past six years.
@@ -603,20 +568,14 @@ question for you.
 
 Bloomberg Transcript
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Thank you very much for your question. So you asked 2 questions. Every time
 we have these meetings, I think the questions are becoming increasingly difficult.
 Especially for the first question you asked, I'm not really sure how I should respond,
 meaning we can respond to it in many ways. So Yuasa-san, what do you think? Let's have
 you respond first.
 
-A - Takayuki Yuasa
-
-{BIO 17941516 <GO>}
-
+A - Takayuki Yuasa {BIO 17941516 <GO>}
 (Interpreted) Well we have run a variety of simulations. For example, the organic growth
 pattern as well as strategic options and sale pattern were considered as well. But in
 principle, we believe we are still in the growth phase. Therefore, depending on the
@@ -649,10 +608,7 @@ However, once we feel that growth is difficult to do, we would like to gradually
 the payout ratio in phases. I think that will be the ultimate way of thinking. But there are so
 many scenarios. So I'm -- I apologize that I'm not straightforward.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Thank you very much, Mr. Yuasa. As Mr. Yuasa explained, the order of priority
 is the exact same priority I have in my head as well. So first priority is growth, to
 sustainably grow. So of course, we try to avoid a case where the payout ratio is 50%. So
@@ -666,10 +622,7 @@ like Mr. Hirose to respond.
 
 Bloomberg Transcript
 
-A - Shinichi Hirose
-
-{BIO 18820991 <GO>}
-
+A - Shinichi Hirose {BIO 18820991 <GO>}
 (Interpreted) I am Hirose. Thank you very much for your question. As Mr. Nagano talked
 about earlier, for auto insurance, currently the number of units are still growing from last
 fiscal year. And even if the number of units were to fall, I would say, for the time being, it's
@@ -712,10 +665,7 @@ So my summary point would be we'd like to continue to grow the auto insurance bu
 other areas as well as the life insurance business more than the growth of the auto
 insurance business.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Thank you very much, Mr. Hirose. I hope that answered your question. So on
 Page 13, as you can see, currently specialty insurances are recording high growth.
 However, the pie is still small. It's only 20% of total. So we would like to bring this up to
@@ -764,10 +714,7 @@ would like to have some comments on that.
 
 FINAL
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) I think we received 2.5 questions. And thank you very much for that. The first
 question was with regards to interest rate risk for life insurance apart from long-term
 bonds. I think this was for -- this was a life insurance company, right, acquired reinsurance
@@ -788,16 +735,10 @@ Bloomberg Transcript
 of shareholder return, your thinking towards goodwill will not change? That was my
 question.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) So maybe Yuasa-san can handle that question.
 
-A - Takayuki Yuasa
-
-{BIO 17941516 <GO>}
-
+A - Takayuki Yuasa {BIO 17941516 <GO>}
 (Interpreted) Okay. So the first question, reinsurance, naturally, that's something that we
 are considering on various fronts. For one thing, rates at that time. And also it depends on
 the period. The longer the period, we need to think of different things. And it would also
@@ -825,29 +766,19 @@ Date: 2019-05-27
 shareholder return, we believe that continuity is very important. And therefore, that would
 naturally be taken into account.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 
 FINAL
 
 (Interpreted) I think that was a perfect answer.
 
-A - Takayuki Yuasa
-
-{BIO 17941516 <GO>}
-
+A - Takayuki Yuasa {BIO 17941516 <GO>}
 (Interpreted) Thank you.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Thank you. So Watanabe-san, you're next.
 
-Q - Kazuki Watanabe
-
-{BIO 15948747 <GO>}
+Q - Kazuki Watanabe {BIO 15948747 <GO>}
 
 Bloomberg Transcript
 
@@ -869,19 +800,13 @@ interim period, with regards to onetime dividend opportunities, although your ES
 down, you're still in a target range. So I just wanted to ask whether is there any possibility
 that onetime dividends may be paid at the interim.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Thank you very much, Watanabe-san. So those are 2 hard-to-answer
 questions. It's great. Thank you. So how are you going to answer these difficult questions,
 Mr. Yuasa and Mr. Kawaguchi? So first question is about fire insurance. So Mr. Kawaguchi
 will take it. And the second question will be taken by Mr. Yuasa.
 
-A - Shingo Kawaguchi
-
-{BIO 5768643 <GO>}
-
+A - Shingo Kawaguchi {BIO 5768643 <GO>}
 (Interpreted) Let me answer your question. For fire insurance increases, in October, we
 will be -- we are planning for a rate increase in October. Profitability improvement is
 expected to be plus JPY 15 billion. When everything materializes, it should add up to this
@@ -907,9 +832,7 @@ For corporate fire insurance, 70% is 1-year policies and the longest are 5-year 
 these factors are accounted for as we anticipate the profitability improvement of fire
 insurance. I hope that answers your question.
 
-A - Takayuki Yuasa
-
-{BIO 17941516 <GO>}
+A - Takayuki Yuasa {BIO 17941516 <GO>}
 
 Bloomberg Transcript
 
@@ -935,20 +858,14 @@ opportunities are possible. However, if we conduct M&As, then the story will sta
 change. So if we don't have those opportunities, that there may be a possibility. I hope
 that answers your question.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) To the gentleman, we're able to answer your question as much as we can.
 We are now looking at the market in a pessimistic way. And we're not looking at current
 situations at a pessimistic way. And we have made decisions in a comprehensive manner.
 So I hope you understand. And I hope you extend your support.
 Sato-san?
 
-Q - Koki Sato
-
-{BIO 19983862 <GO>}
-
+Q - Koki Sato {BIO 19983862 <GO>}
 (Interpreted) Sato from Mizuho Securities. Two points. First point, going back to what
 Nagano-san said, one thing that was unexpected was nat cat. Going forward, the
 Page 16 of 24
@@ -972,18 +889,13 @@ profit balance, financial accounting profit appears in the handout. And I feel u
 because you also talk about trying to catch up with global peers. Financial accounting
 index, what does this mean in your company?
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Understood. We have received 2 questions. Looking back on six years, I refer
 to nat cat. But model-wise, how was it, that's a different story? I think I would probably say
 that it was within our expectation. And Kawaguchi-san is going to respond to the first
 question. Yuasa-san will respond to the second question.
 
-A - Shingo Kawaguchi
-
-{BIO 5768643 <GO>}
+A - Shingo Kawaguchi {BIO 5768643 <GO>}
 
 Bloomberg Transcript
 
@@ -1020,18 +932,12 @@ Company N ame: Tokio M arine H oldings I nc
 Company Ticker: 8766 JP Equity
 Date: 2019-05-27
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Yuasa-san, can you please respond to the second question?
 
 FINAL
 
-A - Takayuki Yuasa
-
-{BIO 17941516 <GO>}
-
+A - Takayuki Yuasa {BIO 17941516 <GO>}
 (Interpreted) Now Page 10, the comparison, intentionally, we adopted financial accounting
 for this. And the profit is adjusted for each of the companies. And we thought that it will
 be very difficult to compare apples-to-apples. And therefore, for this particular page,
@@ -1042,16 +948,11 @@ our basis looking at our business plan. And also shareholder return is based on 
 well. And it is based on those numbers that we run the company. I hope that answers your
 question.
 
-Q - Koki Sato
-
-{BIO 19983862 <GO>}
-
+Q - Koki Sato {BIO 19983862 <GO>}
 (Interpreted) So you're using financial accounting just for the handout purposes, is that the
 correct understanding?
 
-A - Takayuki Yuasa
-
-{BIO 17941516 <GO>}
+A - Takayuki Yuasa {BIO 17941516 <GO>}
 
 Bloomberg Transcript
 
@@ -1059,16 +960,10 @@ Bloomberg Transcript
 we use other source of information. So we use public available financial accounting data. I
 hope that answers your question.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Please go ahead. Majima-san, please?
 
-Q - Tatsuo Majima
-
-{BIO 15338044 <GO>}
-
+Q - Tatsuo Majima {BIO 15338044 <GO>}
 (Interpreted) I'm Tokai Tokyo Research Center. My name is Majima. You talked about
 personnel. So I have a question. One question is about personnel. And the second
 question is about autonomous driving insurance. So first is about talent. In the financial
@@ -1092,10 +987,7 @@ Company N ame: Tokio M arine H oldings I nc
 Company Ticker: 8766 JP Equity
 Date: 2019-05-27
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Thank you very much for your question. That's a difficult question, your first
 question. But for the second question, Mr. Okada will take it. So for the first question, let's
 ask Mr. Hirose to attempt to answer this question. Let's see how he responds to it.
@@ -1104,10 +996,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - Shinichi Hirose
-
-{BIO 18820991 <GO>}
-
+A - Shinichi Hirose {BIO 18820991 <GO>}
 (Interpreted) Thank you very much for your question. This is Hirose speaking. With regards
 to popularity ranking of students that are seeking for jobs as well as the decreasing
 popularity of the financial industry, fortunately, with our company, we continue to be quite
@@ -1132,30 +1021,19 @@ Of course, we believe it's important to make use of fintech. However, I don't th
 main part of operations can be replaced completely, entirely by fintech or the new
 emerging technologies.
 
-Q - Tatsuo Majima
-
-{BIO 15338044 <GO>}
-
+Q - Tatsuo Majima {BIO 15338044 <GO>}
 (Interpreted) What is the rate of employees that are leaving the company when they're in
 the third year after they've joined the company?
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) If it's year 3, I think the retention rate is quite high. Not the dropout rate. I'm
 sorry, it's not high. The retention rate is high. I don't have the exact numbers with me.
 
-A - Shinichi Hirose
-
-{BIO 18820991 <GO>}
-
+A - Shinichi Hirose {BIO 18820991 <GO>}
 (Interpreted) Compared to other industries, we do understand that our company's
 dropout rate is low. If we have the numbers with us, can someone bring this here later?
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 Page 19 of 24
 
 
@@ -1183,9 +1061,7 @@ productivity in Japan, I think that's a very important aspect. So not just the T
 through other initiatives, we would like to change. And Mr. Okada will give some follow-up
 comments.
 
-A - Makoto Okada
-
-{BIO 19818959 <GO>}
+A - Makoto Okada {BIO 19818959 <GO>}
 
 Bloomberg Transcript
 
@@ -1203,17 +1079,11 @@ analysis and use of AI, we have started some research into other themes as well.
 our data analysis, in various HR development programs, we are working together. So
 that's what we're doing with them.
 
-Q - Tatsuo Majima
-
-{BIO 15338044 <GO>}
-
+Q - Tatsuo Majima {BIO 15338044 <GO>}
 (Interpreted) So developing people internally, making the workplace a fun place to work
 at, what kind of initiatives are in place? Can you touch upon that as well?
 
-A - Makoto Okada
-
-{BIO 19818959 <GO>}
-
+A - Makoto Okada {BIO 19818959 <GO>}
 (Interpreted) Well how are we trying to change? Well in the past, we were basically a
 traditional insurance company. And some people were brought up that way. However,
 now we have digital. Now we have new businesses and including open innovation. We are
@@ -1239,16 +1109,11 @@ our people.
 So it's not digital branding. But we would like to communicate what we're doing internally.
 So that people can feel the attractiveness of our company.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Thank you very much, Majima-san. Any other questions or comments? Yes,
 please. In the back of the room.
 
-Q - Futoshi Sasaki
-
-{BIO 17564798 <GO>}
+Q - Futoshi Sasaki {BIO 17564798 <GO>}
 
 Bloomberg Transcript
 
@@ -1267,10 +1132,7 @@ want to pass it on to the next team of management. And -- but does it mean that 
 not expecting much change? Or are you going to change significantly? And therefore, this
 is how far you can go in the presentation? Please share us.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Sasaki-san from Merrill Lynch, I have received 2 questions. And the first
 question was with regard to the auto industry in Japan. How will our position change going
 forward? With auto driving becoming more prevalent eventually in the future, how do -does the company expect our positioning to change? I think that was the question. Hirosesan and Kawaguchi-san will supplement.
@@ -1281,10 +1143,7 @@ are for the company. I hope you were there from the beginning of the Q&A session
 think my answer to that question responded to your second part of the question. So let's
 respond to the first question.
 
-A - Shinichi Hirose
-
-{BIO 18820991 <GO>}
-
+A - Shinichi Hirose {BIO 18820991 <GO>}
 Page 21 of 24
 
 
@@ -1312,19 +1171,13 @@ products to our customers. And our business needs to be more efficient and lean.
 where digital or technology could be fully utilized to improve customer experience and
 user experience and also balance that with efficiency.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Thank you. So positioning of car insurance as a product, please respond
 from that perspective.
 
 Bloomberg Transcript
 
-A - Shingo Kawaguchi
-
-{BIO 5768643 <GO>}
-
+A - Shingo Kawaguchi {BIO 5768643 <GO>}
 (Interpreted) Let me supplement auto insurance. Past 20 years, looking back on our
 market share in auto insurance. And this is the market share trend, like including direct
 sales, online sales, the market share is gradually increasing. How will this change going
@@ -1342,10 +1195,7 @@ these are some strengths. And we also have group coverage, which is also another
 of strengths. We intend to provide products that will cater to customer needs and that
 would leverage on our strengths.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) Thank you. This is very challenging. Even major car manufacturers, even they
 can't really anticipate or project how the mobility, environmental change going forward. So
 we are trying to be prepared on all sides. Now we need to be modest and humble in
@@ -1368,16 +1218,11 @@ FINAL
 Majima-sam, with regards to the third year employees and their turnover, coming back to
 your earlier question, we do not disclose in detail. But it's a several percentage, single -lower single percentage. This is the turnover. It's very low level.
 
-A - Taizou Ishiguro
-
-{BIO 20620398 <GO>}
-
+A - Taizou Ishiguro {BIO 20620398 <GO>}
 (Interpreted) So has everyone asked all the questions they have? Okay. So finally, our
 group CEO, Mr. Nagano, would like to extend closing remarks.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 
 Bloomberg Transcript
 
@@ -1398,10 +1243,7 @@ support to them.
 So this is a good opportunity. So finally, I would like to pass on the mic to Komiya-san,
 Senior Managing Director, who will take on my position from the end of June. So Komiyasan, over to you.
 
-A - Satoru Komiya
-
-{BIO 17943039 <GO>}
-
+A - Satoru Komiya {BIO 17943039 <GO>}
 (Interpreted) As introduced, my name is Komiya. I'd like to, first of all, thank you for
 attending our IR meeting today despite your busy schedules. I'm currently in charge of the
 international business. And there were no questions asked today with regards to the
@@ -1434,10 +1276,7 @@ dialogue going forward. And we would like to learn from you all and aim to enhan
 corporate value. So I'd like to ask you, taking this opportunity, to extend to us ongoing
 support. Thank you very much today.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted) So I would like to also ask you for your ongoing support. Thank you very
 much indeed for today.
 

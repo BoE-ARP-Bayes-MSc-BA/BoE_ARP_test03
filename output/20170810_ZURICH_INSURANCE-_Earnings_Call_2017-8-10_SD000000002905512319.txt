@@ -36,10 +36,7 @@ conference must not be recorded for publication or broadcast.
 At this time, it's my pleasure to hand over to Mr. Richard Burden, Head of Investor
 Relations & Rating Agency Management. Please go ahead, sir.
 
-Richard Burden
-
-{BIO 1809244 <GO>}
-
+Richard Burden {BIO 1809244 <GO>}
 Good morning. Good afternoon, everybody. Welcome to our ﬁrst half 2017 Q&A call. On
 the call today, we have our group CEO, Mario Greco; and our group CFO, George Quinn.
 (Operator Instructions)
@@ -52,9 +49,7 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2017-08-10
 
-Mario Greco
-
-{BIO 1754408 <GO>}
+Mario Greco {BIO 1754408 <GO>}
 
 FINAL
 
@@ -119,10 +114,7 @@ Questions And Answers
 Operator
 (Operator Instructions) The ﬁrst question is from Farooq Hanif from CrÃ©dit Suisse.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 I'll keep myself to the 2 questions. So ﬁrstly, when you talk about positive momentum
 continuing, given the rating environment versus inﬂation, are you not signaling that
 maybe some of the underwriting side is going to stabilize and really now it's about
@@ -134,10 +126,7 @@ and therefore could this be more positive for next year?
 
 Bloomberg Transcript
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 Let me start from Farmers and maybe George can help me on the rate environments, your
 ﬁrst question. So Farmers is still passing very signiﬁcant rate increases in order to bring
 the combined ratio below the 105 and more towards 100. Now optically, the next quarters
@@ -149,10 +138,7 @@ business and partially on our customer retention, even that is very minimal. And
 said in some other lines like home. But I think we all agree that proﬁtability is the most
 important thing that they have to go after.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Can I add one thing. So just, I think, also on Farmers, Farooq. If you look at trends across
 the industry, that also looks substantially better than it has for some time. So we're seeing
 loss-cost trend signiﬁcantly improve, both on the frequency and severity. And obviously,
@@ -188,9 +174,7 @@ stronger potential. And we'll use that shift to also beneﬁt the technical perf
 Operator
 The next question is from Vinit Malhotra from Mediobanca.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 Bloomberg Transcript
 
@@ -203,10 +187,7 @@ EMEA. George, could you just update us on the man-made insurance program was
 tightened? And whether this is adding to those deductibles? Or what's the status in that
 case?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thanks, Vinit. So on noncore, I mean, there are 2 things in the quarter that drive the
 performance. So one of them is something that you've seen several times before, which is
 around the steps that we're taking to reduce our exposure to some of the (inaudible)
@@ -252,10 +233,7 @@ The next question is from Peter Eliot from Kepler Cheuvreux.
 
 Bloomberg Transcript
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 I'll take my questions on the Z-ECM please actually. The ﬁrst one was, I'll just -- I was
 struggling to understand the movements precisely. I guess, the business proﬁt
 development is equivalent to about USD 2 billion, which seems -- it seems more than -- a
@@ -271,10 +249,7 @@ start to address that? And are you able to give us any hints on what's your prio
 be? I mean, you look into that share in an improving shareholders return, I just wondering
 if you can elaborate anymore?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Peter, I'll suggest -- I'll start with the walk through the Z-ECM movement. Again to avoid
 any unnecessary volatility, I'll focus on the ﬁrst half rather than just a quarter. So if you look
 at where we ended the year at 125%, we've seen an improvement of around 9 points.
@@ -311,17 +286,11 @@ drive higher returns and to shareholders through the ordinary dividend. I mean, 
 mid-year is an unusual time to discuss capital topics for me. So I mean, it's a topic we'll
 come back to at the end of the year.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Could I just maybe follow-up very quickly. The 6percentage points of business proﬁt, you
 said that's a pretty good sort of sustainable underlying ﬁgure?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I think it's partly dependent on -- I mean, what happens in the life business, because, of
 course, there's a capitalized element there. So it can be a touch volatile. But I think if you
 look at life, in particular both on a bulk and an economic basis in Q2, I mean, very strong
@@ -334,10 +303,7 @@ Bloomberg Transcript
 
 The next question is from Andrew Ritchie from Autonomous.
 
-Q - Andrew James Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew James Ritchie {BIO 18731996 <GO>}
 Two simple questions, I think. First of all, there's a lot of moving parts in the combined
 ratio half year, quarter, quarterly, et cetera. Maybe, George, you could just give us a view
 as to what you think "normalized combined ratios" running out? I'm thinking relative to
@@ -352,10 +318,7 @@ interesting in terms of potential? And just to clarify, if I look at the absolut
 expenses in non-life, all the movement there is cost saves. There's nothing else going on.
 Obviously, they came down quite a lot quarter-on-quarter.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So ﬁrst of all on the normalized numbers, there's a lot of diﬀerent ﬁgures it's relatively
 easy to be confused and it's really relatively easy to choose the number that you prefer. I
 mean, I'll tell you how to look at it. I mean, I think if you took the quarter and you would
@@ -390,10 +353,7 @@ half year combined x-Ogden. So that's roughly where we think we are at the momen
 
 Bloomberg Transcript
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 So Andrew, on the cost side. So ﬁrst of all, we wanted to have an accelerated
 development of the beneﬁts, because both which are intentionally and for you guys
 outside of the company having back end loaded plan wouldn't work. So we are where we
@@ -408,10 +368,7 @@ What is important with that, again internally and for all of you guys, I think w
 discipline and we are showing that we walk the talk. We indicated the targets and we are
 delivering quarter-by-quarter.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I want to point that how much of the P&C expense (inaudible) is I think sustainable cost
 reduction given the move that you can see. I mean, what you see in the expense ratio, it's
 a combination of lower charges from the center which are absolutely sustainable and the
@@ -421,10 +378,7 @@ So that there's no signiﬁcant one-oﬀ expense (inaudible).
 Operator
 The next question is from Dhruv Gahlaut from HSBC.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
-
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 Two questions. First, going through the North American commercial business, could you
 say a few words in terms of how price is developing with respect to claim inﬂation on that
 book at this point of time? Second, you reiterated your guidance in terms of the cash ﬂow
@@ -444,10 +398,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So on the North American commercial market, ﬁxed rate versus lost-cost inﬂation. I mean,
 you probably picked the -- one of the parts with portfolio that has some of the bigger
 challenges also from a market perspective. So I think if we look at the overall today and
@@ -473,10 +424,7 @@ at the Investor Day last year.
 Operator
 The next question is from Nadine van der Meulen from Morgan Stanley.
 
-Q - Nadine Adrienne Marion van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine Adrienne Marion van der Meulen {BIO 15200446 <GO>}
 Two quick questions from my side. You just talked about the expenses. On the
 restructuring costs or restructuring provisions, they were down quite a bit in the Second
 Quarter. Do you still guide -- or maybe you can remind us again on the guidance you
@@ -488,10 +436,7 @@ earnings. I was wondering, given the sort of strong capital of the group and the
 growth that you are continuing to show, do you see the possibility to increase the current
 '17 dividend, whilst having a temporary payout ratio of about 75%?
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 No. We're looking in the eyes, George and I on who should tackle this question. Okay. I
 think it is my turn. So look, it's clearly early to talk about dividends. So George said that
 before. I mean, we can't talk in August about the dividends for the year. Deﬁnitely, the
@@ -514,16 +459,10 @@ there is no doubt that the plan brings us to reward shareholders in a better way
 it's more a question on execution and speed of execution of the plan than about what will
 get done by us over the time. Sorry that I cannot add more to that.
 
-Q - Nadine Adrienne Marion van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine Adrienne Marion van der Meulen {BIO 15200446 <GO>}
 No. This is already quite helpful.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Nothing on the ﬁrst part of your question around expense and particularly the
 restructuring topic. So I mean, it has been a slightly quieter quarter from a restructuring
 perspective in Q2 than the linear run rate would suggest. We're not changing guidance.
@@ -539,10 +478,7 @@ Bloomberg Transcript
 Operator
 The next question is from James Shuck from Citigroup.
 
-Q - James Austin Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Austin Shuck {BIO 3680082 <GO>}
 Two questions from my side. I'm kind of going to give up trying to get answers to the
 question about returning capital and what your plans are around the dividend. But I
 would like to just ask kind of theoretical view of what is actually possible. Because you've
@@ -560,9 +496,7 @@ ends. I'm interested in what you're doing at the micro end. You've seen a number
 competitors make acquisitions and start to move into that segment. So I don't think you
 have so far. So just an update on what's happening on U.S. commercial would be helpful.
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
+A - Mario Greco {BIO 1754408 <GO>}
 Page 9 of 18
 
 
@@ -587,10 +521,7 @@ ways to protect and improve our capital position. But our commitment -- the ﬁr
 commitment we have is to show that we can establish a positive dividend growth after so
 many years.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 I would like to add one comment. So James, I think there was a -- part of your question,
 which was asking about whether there was a hidden constraint that we haven't disclosed.
 So I mean, the -- as you'd expect, ordinarily, rating agencies tend to be a more signiﬁcant
@@ -601,19 +532,13 @@ that wouldn't materially change the picture.
 
 Bloomberg Transcript
 
-Q - James Austin Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Austin Shuck {BIO 3680082 <GO>}
 I guess, if I can just very quickly -- you have a target range of 100 to 120. That's meant to
 allow for the volatility as is. So at some stage, you've got to manage yourself to the
 midpoint of that range, I would guess. So or you need to revisit the capital management
 framework.
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 And we will at some stage, as you said. But in the meantime, let us deliver on what we
 promise, which is based on dividends. And this is what we owe you all. And this is our ﬁrst
 priority, to show that proﬁtability can allow us, by gaining momentum, by maintaining
@@ -647,10 +572,7 @@ FINAL
 
 The next question is from Thomas Seidl from Bernstein.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 I come back to this combined ratio point because it's so important for ZÃ¼rich, obviously.
 So at half year, you had 97.8. George, as you said, compared to last year half year, you
 have a similar period. You had 0.9 higher reserve, 0.5 lower cap, a few one-oﬀs. But it
@@ -665,10 +587,7 @@ negatively as one would expect. So I wonder why this is not the case at ZÃ¼ric
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So on the ﬁrst one, Thomas, on the combined ratio. I mean, I think I said in response to
 Andrew's question earlier that -- I mean, there are -- there's a lot of numbers around the
 combined ratio. I mean, you can choose how you prefer to assemble them. I think the way
@@ -681,17 +600,11 @@ discount the negative large loss experience in Q2. The half is just a bear guide
 mean, if we allow for that, we allow for the commission one-oﬀ, we would see ourselves
 around the 98 level.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Which basically leaves you 2percentage point to improve over the next year as a
 minimum. So how do you get there?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So -- I mean, as Mario said earlier, we make good progress on the expense program. But
 we're by no means done. So I mean, we still have the second of $1 billion to deliver. And
 you know the proposals of the group and you know how much of that will beneﬁt the P&C
@@ -723,20 +636,14 @@ would not expect that PYD would run at that same 3% level for the next 2 quarter
 should expect to see something back more consistent with what you've seen from us
 before.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 I think what's slightly confusing is you did a higher reserve and still you said -- to oﬀset
 Ogden, obviously, to get to the 1percentage point net and still you say the reserve
 adequacy stays unchanged. How...
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes. It's important to remember that a number of diﬀerent things drive reserve strength.
 So of course, there are -- there's a reserve strength that you start with and there's the
 reserve -- the reserve strength that's changed by facts and information that comes to your
@@ -749,10 +656,7 @@ partly explains why you see the signiﬁcant PYD. But with no impact on reserve 
 Operator
 The next question is from Ralph Hebgen from KBW.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 It's actually only one question, I'm going back to the combined ratio. And speciﬁcally the
 component, which is the accident year loss ratio before net cuts. I appreciate all your
 comments. And I understand that it will be just some point, even arbitrary or discretionary
@@ -775,10 +679,7 @@ Date: 2017-08-10
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So I think the ﬁrst point, Ralph, is that you point to the answer in the question. The
 comparison of Q2 this year to Q2 last year is heavily impacted by the point that you make.
 I mean, we had a very, very benign quarter in Q2 of 2016. And we've had a very slightly
@@ -817,10 +718,7 @@ that would be gratefully received. But assuming it moves in the right direction,
 an additional bonus in terms of numbers for you guys in the second half or whenever it
 comes?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 The only thing I will say that it you are completely tenacious around this commission topic.
 You checked this with me the last time we had this conversation. I mean, you make a very
 good point. I mean, we have talked about the mix of business driving this. I mean, we do
@@ -901,9 +799,7 @@ also cover more group, if you could run us through today. Given your expectation
 increase of insurance on that book, what should probably impact of these 2 transactions
 for the remainder of the year and going forward?
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
+A - Mario Greco {BIO 1754408 <GO>}
 
 Bloomberg Transcript
 
@@ -922,10 +818,7 @@ extremely careful. We know that the markets are quite soft. And so we're doing o
 things that we want to do with the customers. But the power of the engine is back in
 place.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On the impact of the 2 transactions. So Sabadell will have, I mean, an immaterial negative
 impact on life earnings. Obviously, part of the transaction is to capitalize a future earnings
 stream and dispose of it. But I don't expect that to be signiﬁcant in the context of reported
@@ -941,10 +834,7 @@ Sorry for a small follow-up. On Banco Sabadell, do you expect that capital to be
 up to group? Or is that ﬁrst not in your hands and secondly, not in today's plan also for
 cash remittance?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 That's a really good question. I mean, as you heard earlier, there's no signiﬁcant capital
 beneﬁt to us from the transaction because of the diﬀerent treatment between Solvency II
 Page 15 of 18
@@ -966,10 +856,7 @@ initial plan.
 Operator
 The next question is from Michael Huttner from JPMorgan.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 On the organic capital generation, could you just say -- give a little bit more granularity.
 Looking at the BOPAT report, it was $1.66 billion taxed. And you said the proﬁt ﬁgure,
 which was mentioned, the organic capital generation, is just under $2 billion. So there's a
@@ -983,38 +870,23 @@ mix shift that I can see and it's really lovely.
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you, Michael. So on the ﬁrst question, it's a bit diﬃcult to give you much more than
 I gave an answer to the earlier question. So I mean, I don't have a bridge in front of me
 that I could give you it point-by-point. But I mean, the key diﬀerence between the
 reporting earnings that you can see and the impact that we have in that Z-ECM ratio
 essentially is the new business value in life. That's the main explanation of the diﬀerence.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 And the Ogden is deducted from both?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Ogden. So Ogden, it's a wee bit complicated. So Ogden was out at the starting point.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Okay, okay. So we can all (inaudible) both.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Correct. So and the 125 starting point we talked about earlier, Ogden was already
 accounted for in that number.
 
@@ -1026,19 +898,13 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2017-08-10
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 So the bridge is actually quite small because the 1,662,000,000 -- no, sorry. Ignore that.
 Sorry carry on. I'm wasting your time.
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On the second topic, I suspect that we'll have to have a look. It would be relatively diﬃcult
 to substantiate my comments from the disclosure that we make. I think you can use some
 proxies but they won't. I mean, we -- you have a commercial segment where you can see
@@ -1048,17 +914,12 @@ have to have a look and see if there's something we can do that's more helpful a
 that mix topic. So I mean, yes, I think you couldn't bridge it from what we gave you today
 other than my comments.
 
-Q - Michael Igor Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Igor Huttner {BIO 1556863 <GO>}
 Okay. And if I think about the bigger picture about the mix shift, you say at the -- when
 (inaudible) arrived, your portfolio was in 30-70 for 2010, stuﬀ you don't like and stuﬀ you
 do like, 2018. Where are you now?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -1079,10 +940,7 @@ development of the group's capital position and any other notable signiﬁcant o
 exceptional items.
 With that, I'll hand over to Richard.
 
-A - Richard Burden
-
-{BIO 1809244 <GO>}
-
+A - Richard Burden {BIO 1809244 <GO>}
 Okay. Well thank you very much, everybody, for dialing in today. I think there may have
 been one or 2 questions that were still waiting to be answered. But I'll see in the interest
 of the time, given it's a busy day with other results. And we'll close it there. And the IR
@@ -1097,10 +955,7 @@ Date: 2017-08-10
 
 So thanks very much.
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 Thank you.
 
 FINAL

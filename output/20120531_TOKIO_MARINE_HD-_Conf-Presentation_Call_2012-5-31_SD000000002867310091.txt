@@ -28,10 +28,7 @@ Unidentified Participant, Analyst
 Wataru Otsuka, Analyst
 
 Presentation
-Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). I am Sumi. Thank you very much for coming to our briefing, despite your
 busy schedule. I will discuss our new mid-term business plan for the next three years,
 before we open the floor for the Q&A session.
@@ -384,16 +381,10 @@ the case, we would like to receive questions as many people as possible. So plea
 your questions to two. Thank you for your cooperation in advance.
 Now, if you have any questions, please raise your hand.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). Yes. The gentlemen in the third row at the center.
 
-Q - Takanori Miyoshi
-
-{BIO 16985826 <GO>}
-
+Q - Takanori Miyoshi {BIO 16985826 <GO>}
 (Interpreted). I am Miyoshi from Goldman Sachs. Thank you very much for your very
 detailed presentation. My first question is about international business. Out of the
 adjusted profit target of JPY230 billion to JPY260 billion in FY'14, you intend to make
@@ -418,10 +409,7 @@ Date: 2012-05-31
 
 FINAL
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). You raised two questions. The first question is how do we expect Delphi to
 grow going forward, in the context of international business investment. The second
 question is how much are we going to grow our capital buffer for the next three years and
@@ -430,10 +418,7 @@ Managing Director in charge of international business, will answer your first qu
 the second question will be addressed by our Executive Vice President, Mr. Amemiya. Mr.
 Nagano, please.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 (Interpreted). I am Nagano, responsible for international business. Thank you for your
 question. With regard to your question on Delphi, we calculated the value of Delphi
 before the acquisition. We calculated the intrinsic value based on their business plan for
@@ -454,22 +439,13 @@ grow to approximately JPY20 billion over the next three years toward FY'2014. Th
 latest assumption.
 Did that answer your question?
 
-Q - Takanori Miyoshi
-
-{BIO 16985826 <GO>}
-
+Q - Takanori Miyoshi {BIO 16985826 <GO>}
 (Interpreted). Yes. Thank you.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). Then Mr. Amemiya will answer your second question.
 
-A - Hiroshi Amemiya
-
-{BIO 7352816 <GO>}
-
+A - Hiroshi Amemiya {BIO 7352816 <GO>}
 (Interpreted). Thank you. Let me address your question. As Mr. Sumi mentioned in the
 presentation, we have embarked on a new initiative to use economic solvency ratio to
 review our resistance to risks, just like our western peers do.
@@ -507,20 +483,14 @@ Did we cover your question sufficiently?
 
 Bloomberg Transcript
 
-Q - Takanori Miyoshi
-
-{BIO 16985826 <GO>}
-
+Q - Takanori Miyoshi {BIO 16985826 <GO>}
 (Interpreted). According to your explanation, sales of business related equities will add,
 for instance, JPY150 billion to your buffer. And I think your adjusted earnings will
 accumulate to about JPY400 billion or JPY500 billion in three years, according to your
 plan. So when JPY700 billion to JPY800 billion is added to the current buffer of JPY400b,
 how much capital do you think you would need to maintain AA?
 
-A - Hiroshi Amemiya
-
-{BIO 7352816 <GO>}
-
+A - Hiroshi Amemiya {BIO 7352816 <GO>}
 (Interpreted). From the standpoint of AA credit rating, we have reflected how we measure
 risk capital on this chart. More specifically speaking, we have measured risk volume on this
 chart, with 99.95% value at risk, which is the confidence interval required for AA rating.
@@ -528,16 +498,10 @@ This 115% on the slide is the ratio calculated on that basis. Based on this appr
 think this number will change or increase. So we believe that we can secure AA rating.
 Did it satisfy your question?
 
-Q - Takanori Miyoshi
-
-{BIO 16985826 <GO>}
-
+Q - Takanori Miyoshi {BIO 16985826 <GO>}
 (Interpreted). Thank you, yes.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). The lady on the third row.
 
 Page 10 of 24
@@ -550,10 +514,7 @@ Date: 2012-05-31
 
 FINAL
 
-Q - Natsumu Tsujino
-
-{BIO 2234779 <GO>}
-
+Q - Natsumu Tsujino {BIO 2234779 <GO>}
 (Interpreted). My name is Tsujino from JPMorgan. Thank you for the opportunity. My first
 question is simple. I think there was a slide which indicated that the rate revisions and
 other measures on auto policies would improve the combined ratio by about 2%. That is
@@ -587,18 +548,12 @@ increase the return a bit more. If you're selling JPY100 billion or JPY200 billi
 equities every year, then you have a pool of fund for further return every year. How willing
 are you at the moment to repurchase your own shares? Thank you.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). Your first question was whether our targeted combined ratio includes the
 effects from the revision of grade rating system for primarily auto policies. Managing
 Director Mr. Iwai will take the question.
 
-A - Koji Iwai
-
-{BIO 16291834 <GO>}
-
+A - Koji Iwai {BIO 16291834 <GO>}
 (Interpreted). Thank you. Let me address your question. As you are aware, the grade
 rating system is going to be revised to resolve a structural problem where the combined
 ratio deteriorated by about 1% every year. Other than this benefit, we have not factored in
@@ -622,17 +577,11 @@ additional measures including rate revision in a timely and appropriate manner. 
 can achieve a combined ratio of about 98%.
 Did it address your question?
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). Then, on the second question on page 27, we have slightly changed our
 expression. So Mr. Tamai, Senior Managing Director, will clarify the definition.
 
-A - Takaaki Tamai
-
-{BIO 15093748 <GO>}
-
+A - Takaaki Tamai {BIO 15093748 <GO>}
 (Interpreted). I am Tamai. Your question was on page 27. The light blue here shows net
 asset value, whose definition has not been changed significantly. And the definition of risk
 capital, shown in purple, has not been changed essentially.
@@ -645,23 +594,14 @@ at everything after tax. As long as the bars are compared on the same basis, I b
 either approach would work.
 Did that answer your question?
 
-Q - Natsumu Tsujino
-
-{BIO 2234779 <GO>}
-
+Q - Natsumu Tsujino {BIO 2234779 <GO>}
 (Interpreted). Yes. So may I understand that just the equity risk is before tax on both right
 and left?
 
-A - Takaaki Tamai
-
-{BIO 15093748 <GO>}
-
+A - Takaaki Tamai {BIO 15093748 <GO>}
 (Interpreted). Yes. That is correct.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). You also asked us at the end our willingness to repurchase our own shares.
 Our basic position is that we would like to implement dividend, share repurchase and
 business investment in a well-balanced manner. As we have been communicating, our
@@ -706,10 +646,7 @@ significantly, on the other hand, we might not be able to take any actions at al
 would like to judge the situation and balance various elements. We have not become less
 eager to repurchase our shares.
 
-Q - Natsumu Tsujino
-
-{BIO 2234779 <GO>}
-
+Q - Natsumu Tsujino {BIO 2234779 <GO>}
 (Interpreted). Following up on Mr. Tamai's response, I earlier said that you were more
 conservative because I was also thinking about your peer company, which sees the equity
 risk on the after tax basis. And they do not have much unrealized gains. In your case,
@@ -720,21 +657,13 @@ have much unrealized gains and if you see the risk volume of equity before tax, 
 other than unrealized gains will be hit more strongly. So it works out differently. Is this
 understanding correct?
 
-A - Takaaki Tamai
-
-{BIO 15093748 <GO>}
-
+A - Takaaki Tamai {BIO 15093748 <GO>}
 (Interpreted). I believe your understanding is correct.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). Yes, please.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
+Q - Masao Muraki {BIO 3318668 <GO>}
 
 Page 13 of 24
 
@@ -776,20 +705,14 @@ will become the fund for shareholder return, including M&A? What is your definit
 fund for shareholder return? If it has changed from the traditional definition, please let me
 know.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). There were two questions. The first question is what we are aiming to do
 during the next three years in domestic non-life business, including corporate expenses
 and agents. Your question is to clarify whether we are going to change redundant cost
 with agents or high cost structure of non-life business and our outlook on top line. Mr. Iwai,
 please.
 
-A - Koji Iwai
-
-{BIO 16291834 <GO>}
-
+A - Koji Iwai {BIO 16291834 <GO>}
 (Interpreted). I am Iwai. Yes, let me answer your question. First of all, you pointed out that
 our expectation on top line growth is quite strong. In addition to the one that we made
 already, we are planning to revise rates for older policies in October. As written under
@@ -827,10 +750,7 @@ best performer. This is what we discussed in developing this mid-term business p
 
 Bloomberg Transcript
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). This may sound redundant. But if I may add, there are many indicators that
 we can look at, like expense reduction or top line growth. But the important thing is what
 we are doing all of these things for. The primary goal for us this time is to achieve the
@@ -883,10 +803,7 @@ Thank you. Please.
 
 Bloomberg Transcript
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 (Interpreted). My name is Otsuka, from Nomura Securities. I would like to ask two
 questions. My first question is on page 30. This page is to review the previous mid-term
 plan. Under the previous plan, your target for adjusted earnings was JPY220b, with the
@@ -905,9 +822,7 @@ think that the market environment is too bad, or are you foreseeing any difficul
 negotiations with your clients? Please enlighten me on the background behind that
 budget. Thank you.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
+A - Shuzo Sumi {BIO 3861639 <GO>}
 Page 16 of 24
 
 
@@ -1009,16 +924,10 @@ concerned that market could remain quite volatile, we have set the budget at JPY
 billion for the time being. We will be flexible. If we can sell JPY100 billion worth, we will do
 so. And if an even better opportunity arises we would like to sell more.
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 (Interpreted). I understand. Thank you.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). Please.
 Page 18 of 24
 
@@ -1049,10 +958,7 @@ because the competitive landscape is changing? What changed your mindset?
 
 Bloomberg Transcript
 
-A - Takaaki Tamai
-
-{BIO 15093748 <GO>}
-
+A - Takaaki Tamai {BIO 15093748 <GO>}
 (Interpreted). From the guidance for FY'12 on page three, you might have received the
 impression that our portfolio is already well diversified. One way of diversification is to
 branch out into different business segments like domestic non-life and life, international
@@ -1067,10 +973,7 @@ optimal diversification across different regions, types and lines of businesses 
 segments in our entire Group. And that should allow us to get to what we envision to be
 in FY'14.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). Did we cover your question sufficiently? Then your second question was
 whether we are focusing on overseas businesses when we look for investment
 opportunities for higher efficiency. We are open for both domestic and international
@@ -1108,10 +1011,7 @@ Did we answer your questions sufficiently? Yes. The gentleman on the fifth row.
 
 Bloomberg Transcript
 
-Q - Koichi Niwa
-
-{BIO 5032649 <GO>}
-
+Q - Koichi Niwa {BIO 5032649 <GO>}
 (Interpreted). My name is Niwa, from SMBC Nikko Securities. I would like to ask about
 primarily two things by referring to page three. First, this is somewhat detailed but I would
 like to ask two questions concerning capital cost. In the Q&A session, you indicated that
@@ -1127,17 +1027,11 @@ And my last question is concerning damages by tsunami and earthquakes in Japan.
 According to some report, some research suggests that actual damages might be bigger
 than expected. How are you managing these risks quantitatively? Thank you.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). The first question was breakdown of capital cost and when we will achieve
 7%.
 
-A - Takaaki Tamai
-
-{BIO 15093748 <GO>}
-
+A - Takaaki Tamai {BIO 15093748 <GO>}
 (Interpreted). We assume our cost of capital to be 7% here, based on capital asset pricing
 model. If we assume risk free rate to be 1% and the market rate to be approximately 4%,
 since our beta value is 1.05, our cost of capital will calculate as approximately 6.5%. Based
@@ -1155,10 +1049,7 @@ FY'14. However, if we can achieve it in FY'13 or FY'12, then that would be bette
 
 FINAL
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). Your second question is how we intend to operate our business assuming
 an average year, while natural cat events are occurring very frequently. Our traditional
 budget for natural cat events for a normal year in Japan was approximately JPY25b, on
@@ -1173,9 +1064,7 @@ earthquake policies that private insurers are underwriting, I believe respective
 will decide future rates, based on the review that I mentioned earlier.
 Yes, please.
 
-Q - Makarim Salman
-
-{BIO 15867027 <GO>}
+Q - Makarim Salman {BIO 15867027 <GO>}
 
 Bloomberg Transcript
 
@@ -1197,10 +1086,7 @@ to where we are at the moment. How much of these numbers are actually macro driv
 And let's say the environment were to remain around the level it is now, how much lower
 would these targets be?
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). We discussed earlier. But your point is that some people say that Tokio
 Marine hasn't bought back its own shares much recently. Especially where we said that the
 PVR for Delphi was 1.5 times when our adjusted PVR was 0.6 times, some shareholders
@@ -1249,16 +1135,10 @@ conservative or realistic.
 If you need some time for a translation, how about we invite questions from others, as we
 are running short on time?
 
-Q - Makarim Salman
-
-{BIO 15867027 <GO>}
-
+Q - Makarim Salman {BIO 15867027 <GO>}
 (Interpreted). No. This is fine. Thank you.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). It is almost time. So is there anyone who would like to ask the last question?
 Yes. The gentleman toward the back.
 
@@ -1283,19 +1163,14 @@ line. I am very curious to find out how much impact your Company is expecting. S
 appreciate it if you could explain to me the impact on top line and bottom line with some
 numbers.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). Your point is that as long as the core auto business is making losses, our
 stock price cannot go up. I agree with you. So we are determined to contain the combined
 ratio at 95% level and make our core business in Japan profitable. It is a bit difficult to
 answer specifically how much the revision of grade rating system would improve our top
 line and bottom line but, Mr. Iwai, could you address this point?
 
-A - Koji Iwai
-
-{BIO 16291834 <GO>}
+A - Koji Iwai {BIO 16291834 <GO>}
 
 Bloomberg Transcript
 
@@ -1309,19 +1184,13 @@ part. And like we discussed earlier, we have not factored that into our plan at 
 We are closely watching both positive and negative factors that we mentioned earlier.
 And we will take additional measures accordingly.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). Does this answer your question? I hope it satisfied your question.
 
 Q - Unidentified Participant
 (Interpreted). Yes.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 (Interpreted). Time has come. So we would now like to conclude today's briefing. Our
 executives will stay here for a while. So please talk to them if you like. Once again, thank
 you very much for your attention.

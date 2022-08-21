@@ -243,10 +243,7 @@ Yes. Thank you. We will now begin the question-and-answer session. [Operator
 Instruction] Our ﬁrst question will come from Mr. Jakob Brink from GBD. Please go ahead,
 sir.
 
-Q - Jakob Brink
-
-{BIO 7556154 <GO>}
-
+Q - Jakob Brink {BIO 7556154 <GO>}
 It's from ABG. Good morning. Just two questions, please. The ﬁrst one is regarding the
 Norwegian FSA letter, you're right and you've just mentioned that this was a big surprise
 to you. So how could this impact your 20% ROE guidance?
@@ -345,10 +342,7 @@ Yes.
 A - Morten Hübbe
 Yeah.
 
-Q - Jakob Brink
-
-{BIO 7556154 <GO>}
-
+Q - Jakob Brink {BIO 7556154 <GO>}
 I guess the ﬁnal thing on this is what is the Standard and Poor's will think, I guess, if the
 regulatory side won't approve it, isn't it fair then to assume that S&P won't either or do
 you have any insights on that?
@@ -357,10 +351,7 @@ A - Tor Magne Lønnum
 No. I guess that it's a very valid point, Jakob, so I think that's – it's clearly a risk related to
 that.
 
-Q - Jakob Brink
-
-{BIO 7556154 <GO>}
-
+Q - Jakob Brink {BIO 7556154 <GO>}
 Okay. Thanks a lot.
 
 A - Tor Magne Lønnum
@@ -379,9 +370,7 @@ Date: 2014-07-10
 A - Morten Hübbe
 Yeah.
 
-Q - Jakob Brink
-
-{BIO 7556154 <GO>}
+Q - Jakob Brink {BIO 7556154 <GO>}
 
 FINAL
 
@@ -390,10 +379,7 @@ Yeah. Sure.
 Operator
 And our next question will come from Mr. Vinit Malhotra. Please go ahead, sir.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Hi there. Good morning. Just three topics, please, quickly. The competition issues that
 you have been raising in the past and this quarter we saw the Privates lines also on an FX
 adjusted showing a positive bend, a small positive bend. Could you just update us on
@@ -464,10 +450,7 @@ as I said, a mitigating eﬀect. It will not mitigate the full eﬀect should th
 recommendation be sort of the ﬁnal verdict. But let's say more than half of it, at least, will
 be mitigated.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Sure. Thanks. A second follow-up, quickly. The competition question was not top line
 question. I was more worried about progressiveness in the marketplace leading to
 ultimately combined ratio eﬀect, but I've seen that you are still in a stable position, so,
@@ -495,10 +478,7 @@ Company Name: Tryg A/S
 Company Ticker: TRYG DC Equity
 Date: 2014-07-10
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 And is that likely to continue that rate or...
 
 FINAL
@@ -508,10 +488,7 @@ I think we'll have to stick to the fact that we've announced DKK 1 billion and w
 DKK 1 billion. And then you can do the math and see that we have DKK 260 million
 remaining.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 All right. Thank you.
 
 Operator
@@ -601,9 +578,7 @@ Operator
 Our next question is coming from Mr. Gianandrea Roberti from Carnegie. Please go
 ahead, sir.
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 Page 11 of 17
 
 
@@ -681,10 +656,7 @@ used for compensation. So, yes, there are some, as you mentioned, some relativel
 movements this quarter isolated. But you shouldn't read too much into it in terms of the
 longer term view of the reserves.
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 Hi. Thanks for that. I actually have a very quick ﬁnal question that I forgot. On the – again,
 looking at the geographical split, the Norwegian combined ratio ended up at 65.9%. But I
 guess that's heavily impacted by the change in the pension scheme that you mentioned
@@ -699,19 +671,13 @@ Yeah. It's – we haven't, as you said, disclosed it, Gianandrea, but it's 13 pe
 related to the eﬀects on the Norwegian combined ratio. So as you mentioned, a relatively
 signiﬁcant impact on the combined ratio in Norway this quarter.
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 Thank you very much.
 
 Operator
 Our next question is coming from Daniel Do-Thoi from JPMorgan. Please go ahead, sir.
 
-Q - Daniel A. Do-Thoi
-
-{BIO 17019775 <GO>}
-
+Q - Daniel A. Do-Thoi {BIO 17019775 <GO>}
 Hi. Good morning. Two very, very quick questions from me. The ﬁrst one is relating to the
 cloudburst in Denmark which, you say, was covered by your reinsurance program. Could
 you just give us the gross loss attributable to this cloudburst, i.e., what you would have –
@@ -743,10 +709,7 @@ sideways cover which makes it slightly tricky to understand the accounting, but 
 we have shown the weather impact and you'll ﬁnd the coverage on the reinsurance
 program on the runoﬀ side.
 
-Q - Daniel A. Do-Thoi
-
-{BIO 17019775 <GO>}
-
+Q - Daniel A. Do-Thoi {BIO 17019775 <GO>}
 Okay.
 
 Bloomberg Transcript
@@ -761,10 +724,7 @@ substantial amount on Norwegian and Danish AAA-rated cover bonds that has perhap
 performed better than benchmark, and of course that is something that at least a
 substantial part of that is a proﬁt that we expect to keep.
 
-Q - Daniel A. Do-Thoi
-
-{BIO 17019775 <GO>}
-
+Q - Daniel A. Do-Thoi {BIO 17019775 <GO>}
 Okay. So it's a function of spreads tightening? Could there be (43:42) performance
 component of it?
 
@@ -772,18 +732,13 @@ A - Tor Magne Lønnum
 Well, you can say it's on the basis of speciﬁc papers that have (43:49) performed better
 than benchmark.
 
-Q - Daniel A. Do-Thoi
-
-{BIO 17019775 <GO>}
-
+Q - Daniel A. Do-Thoi {BIO 17019775 <GO>}
 Okay. Thank you.
 
 Operator
 Our next question is coming from Mr. Thomas Eskildsen. Please go ahead, sir.
 
-Q - Thomas Eskildsen
-
-{BIO 18627844 <GO>}
+Q - Thomas Eskildsen {BIO 18627844 <GO>}
 
 Page 14 of 17
 
@@ -822,10 +777,7 @@ And bear in mind that the model between Danske and us is not the they sell for u
 rather that they refer customers to us and for us to do the actual sales. So we started well,
 but it doesn't play a signiﬁcant role in the actual sales numbers yet.
 
-Q - Thomas Eskildsen
-
-{BIO 18627844 <GO>}
-
+Q - Thomas Eskildsen {BIO 18627844 <GO>}
 Thank you
 
 A - Morten Hübbe
@@ -839,10 +791,7 @@ related to that transition. And also parts of the compensation that we need to p
 to the transition. And that's really why we haven't disclosed the amount because this is a
 part of an ongoing negotiation with the vendors.
 
-Q - Thomas Eskildsen
-
-{BIO 18627844 <GO>}
-
+Q - Thomas Eskildsen {BIO 18627844 <GO>}
 Okay. Thank you.
 
 Page 15 of 17
@@ -856,9 +805,7 @@ Date: 2014-07-10
 Operator
 Our next question is coming from Mr. Niccolo Dalla Palma. Please go ahead, sir.
 
-Q - Niccolo C. Dalla Palma
-
-{BIO 16052945 <GO>}
+Q - Niccolo C. Dalla Palma {BIO 16052945 <GO>}
 
 FINAL
 
@@ -867,10 +814,7 @@ Hi. Can you hear me?
 Operator
 We hear you now, sir.
 
-Q - Niccolo C. Dalla Palma
-
-{BIO 16052945 <GO>}
-
+Q - Niccolo C. Dalla Palma {BIO 16052945 <GO>}
 Okay. So the questions are on the reinsurance cover and the large claims. Could you just –
 the sideways reinsurance cover renews at the 1st of July. Has there been any signiﬁcant
 movement in the cost of that program, up or down, this year?
@@ -892,10 +836,7 @@ quarter, so to speak. So 25% every quarter because it's, by nature, diﬃcult to
 when those large claims will occur. In terms of the weather-related claims, you can say that
 that will have – it will have a heavily tilt in Q1 and Q4, and less of an impact in Q2 and Q3.
 
-Q - Niccolo C. Dalla Palma
-
-{BIO 16052945 <GO>}
-
+Q - Niccolo C. Dalla Palma {BIO 16052945 <GO>}
 Okay. Thanks.
 
 Operator

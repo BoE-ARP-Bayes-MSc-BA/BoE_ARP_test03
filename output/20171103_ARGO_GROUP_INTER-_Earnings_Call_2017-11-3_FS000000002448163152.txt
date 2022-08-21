@@ -27,10 +27,7 @@ opportunity to ask questions. Please note this event is being recorded.
 I would now like to turn the conference over to Susan Spivak Bernstein, Senior Vice
 President of Investor Relations. Please go ahead.
 
-Susan Spivak Bernstein
-
-{BIO 1514699 <GO>}
-
+Susan Spivak Bernstein {BIO 1514699 <GO>}
 Thank you, and good morning. Welcome to Argo Group's conference call for the third
 quarter 2017 results. Last night, we issued a press release on our earnings, which is
 available on the Investors section of our website at www.argolimited.com.
@@ -62,10 +59,7 @@ FINAL
 With that, I'll turn the call over to Mark Watson, Chief Executive Officer of Argo Group.
 Mark?
 
-Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+Mark E. Watson {BIO 20610831 <GO>}
 Thank you, Susan. Good morning, everyone and welcome to our third quarter conference
 call. Despite this year's historic industry-wide catastrophe losses, Argo's strategy of
 building a leading specialty insurer remains our focus. Our U.S. business continues its
@@ -209,9 +203,7 @@ top-tier talent. And because results in our investment portfolio reflect our act
 management and total return strategy, I'm now going to ask Mark Rose, our Chief
 Investment Officer, to make some comments on our portfolio and current market trends.
 
-Mark H. Rose
-
-{BIO 1557365 <GO>}
+Mark H. Rose {BIO 1557365 <GO>}
 
 Page 4 of 14
 
@@ -260,10 +252,7 @@ aided from growing income from bonds and stocks, and alternatives were up mainly
 to the SureTec sale this year.
 With that, I will turn the call back to Jay.
 
-Jay Stanley Bullock
-
-{BIO 3644311 <GO>}
-
+Jay Stanley Bullock {BIO 3644311 <GO>}
 Thanks, Mark and good morning everyone. Let me add some additional color on the
 financials and then open it up to questions. We recognize that there are a lot of moving
 pieces to the numbers and have included additional exhibits in our press release to show
@@ -351,32 +340,20 @@ your line might be muted.
 
 Bloomberg Transcript
 
-Q - Anthony To
-
-{BIO 19955085 <GO>}
-
+Q - Anthony To {BIO 19955085 <GO>}
 Hi. Thank you for taking my questions. Just a broader question, can you give us an update
 on your cyber initiatives, and possibly any commentary on the hurdles in respect to this
 line and how that has progressed, I guess, from the beginning of the year and how will
 you move forward?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Are you referring to the cyber that we offer as a product or how we manage cyber for our
 own risk?
 
-Q - Anthony To
-
-{BIO 19955085 <GO>}
-
+Q - Anthony To {BIO 19955085 <GO>}
 The product?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Okay. Well. So, we've been offering cyber as a product for over a decade. And we
 continue evolving the product. Most of the inforce policies (22:00) that we have are for
 small businesses and I suspect that will continue in the near-term, and I say that because I
@@ -396,34 +373,23 @@ Date: 2017-11-03
 focusing on at the moment. So, I would say that's probably a better discussion a year from
 now than right now.
 
-Q - Anthony To
-
-{BIO 19955085 <GO>}
+Q - Anthony To {BIO 19955085 <GO>}
 
 FINAL
 
 Okay. Thank you for that. And, I guess lastly what's your current appetite in writing private
 flood given the recent storm activity?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Well. It depends on the product. I mean, there's some programs that we offer that
 includes flood and some that don't. As long as it's properly priced, we offer it. But given
 that in the United States, you have the National Flood Insurance Program, and other
 markets for flood, I don't really see us changing our product mix too much, to be honest.
 
-Q - Anthony To
-
-{BIO 19955085 <GO>}
-
+Q - Anthony To {BIO 19955085 <GO>}
 Got it. Thank you so much for your answers.
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Okay
 
 Operator
@@ -432,32 +398,20 @@ Bloomberg Transcript
 
 The next question comes from Matt Carletti with JMP. Please go ahead.
 
-Q - Matthew J. Carletti
-
-{BIO 5249827 <GO>}
-
+Q - Matthew J. Carletti {BIO 5249827 <GO>}
 Hey thanks. Good morning.
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Good morning.
 
-Q - Matthew J. Carletti
-
-{BIO 5249827 <GO>}
-
+Q - Matthew J. Carletti {BIO 5249827 <GO>}
 Just a couple of questions. Mark, you touched on, in your opening comments, a bit about
 consolidating the two reinsurance programs, Ariel and the legacy Argo next year. Can you
 expand on that a little bit? And what sort of follow-on impacts you see that having on how
 you're looking to structure it in terms of how it may impact earnings volatility and capital
 needs?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Sure. So, going forward, obviously, we'll have a lot more to say about this on the next call,
 because then we'll have finished what we're working on placing in the marketplace right
 now. So, I can tell you what we expect to do, but we'll see exactly how it plays out over
@@ -502,10 +456,7 @@ the year as compared to the Argo Re portfolio, particularly for earthquakes, whi
 haven't had one, we felt we buy a little bit more backup cover, and when you add all of
 that up, that was another 15-plus-million-dollars that we probably won't spend in 2018.
 
-Q - Matthew J. Carletti
-
-{BIO 5249827 <GO>}
-
+Q - Matthew J. Carletti {BIO 5249827 <GO>}
 Okay. Really helpful. Really appreciate the color. Next question. Just you know, you guys
 have been busy this year, you're integrating Ariel. We've obviously seen press releases on
 hiring some really qualified people to help build some of the products. How should we
@@ -513,22 +464,13 @@ think about kind of a go-forward view on expense ratio. We know there's some to 
 taken out of Ariel, how that come in over time? Where do you expect that to go and kind
 of over what timeframe?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Yeah. So, Jay mentioned a few things that were impacting the expense ratio this quarter.
 
-Q - Matthew J. Carletti
-
-{BIO 5249827 <GO>}
-
+Q - Matthew J. Carletti {BIO 5249827 <GO>}
 Right.
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 So, take those as given and let me add.
 
 Page 9 of 14
@@ -539,18 +481,12 @@ Company N ame: Argo Group I nternational H oldings L td
 Company Ticker: ARGO US Equity
 Date: 2017-11-03
 
-Q - Matthew J. Carletti
-
-{BIO 5249827 <GO>}
-
+Q - Matthew J. Carletti {BIO 5249827 <GO>}
 Right.
 
 FINAL
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 So, the other things that are really impacting it are restructuring of our operations this
 year, and so we've made changes in our IT. We've outsourced a substantial portion of IT,
 but there's a cost associated with that. We finished the outsourcing project in the first
@@ -575,29 +511,20 @@ quarter of next year. But we've got all the people we need, now it's just a ques
 continuing to execute and keep pulling expense out of the business and writing more
 good profitable business.
 
-Q - Matthew J. Carletti
-
-{BIO 5249827 <GO>}
-
+Q - Matthew J. Carletti {BIO 5249827 <GO>}
 Okay. Great. And then one last question kind of became a topic du jour yesterday, just the
 new tax bill, and obviously it's just a proposal and probably will change 20 times before
 anything final, but as it stands kind of the provision in there that talks a bit about kind of
 shifting internal quarter shares basically would be the application for P&C, what are your
 initial views of that in terms of what the potential impact on Argo might be?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Well, we've expected this to happen for a decade, but we've also expected interest rates
 to go up for a decade too. So, we've kept our investment portfolio duration short and
 we've also been pretty conservative in how we've used intercompany reinsurance on
 average and I'll just say on average.
 
-Q - Matthew J. Carletti
-
-{BIO 5249827 <GO>}
-
+Q - Matthew J. Carletti {BIO 5249827 <GO>}
 Sure.
 
 Page 10 of 14
@@ -610,10 +537,7 @@ Date: 2017-11-03
 
 FINAL
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 The Bermuda company only reinsures about 50% of what's written in the U.S. So, we've
 always underwritten off of two pools of capital, whereas other companies that have
 mainly focused on their Bermuda capital have reinsurance quota shares that could be
@@ -623,19 +547,14 @@ changing how we operate our business very much. And as you point out, the tax if
 anything is enacted by Congress, and that's a big if, it will change many times between
 now and then.
 
-Q - Matthew J. Carletti
-
-{BIO 5249827 <GO>}
-
+Q - Matthew J. Carletti {BIO 5249827 <GO>}
 Right. I mean, on the margins, it sounds like there could even be a scenario where there's
 potential for benefit in the sense that while you might start paying tax on what's
 offshored, you lose the excise tax and you're already paying 35% on what's cut
 domestically and that would drop to 20%, we'd have to shake all that math out, but it
 sounds like it's not far from where it is?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
+A - Mark E. Watson {BIO 20610831 <GO>}
 
 Bloomberg Transcript
 
@@ -645,19 +564,13 @@ an absolute basis. And relative to our competitors who heavily reinsure their U.
 businesses back to wherever their company is domiciled, I think we're in a much better
 competitive advantage to them on an after-tax basis.
 
-Q - Matthew J. Carletti
-
-{BIO 5249827 <GO>}
-
+Q - Matthew J. Carletti {BIO 5249827 <GO>}
 Great. Thanks very much for the answers, Mark.
 
 Operator
 The next question comes from Elyse Greenspan with Wells Fargo. Please go ahead.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Hi, good afternoon. So, I have a couple of questions. My first question, I was just hoping to
 get some additional color just in terms of the market outlook and how you see the pricing
 environment developing. What kind of – what prior cycle would you compare the one that
@@ -665,10 +578,7 @@ we're heading into to, and how long do you think rates can stay from – ? And h
 guess Argo positioning itself to take advantage of firmer commercial lines pricing
 environment?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Yeah, so every cycle is a little different. When you look at the aggregate amount of
 insured losses that the industry has incurred this year, the number that keeps being
 bantered around is a $100 billion, and that's probably right, which is a pretty big number.
@@ -716,19 +626,13 @@ think this time, you see more lines moving up than just property, because I thin
 impossible to hide it when the wind blows. I can be more specific, but I hope that gives a
 sense of what I think will happen.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 No, that's helpful. And do you think, (37:28) how long the kind of firm – like how long
 (37:31) depended upon, the re-insurance and how much kind of capital comes back in
 there or how do you think about how long in terms of number of years and renewals that
 property prices could stay – could continue to increase?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Well, I would say that ,that I have a different answer for property versus the market as a
 whole. I think that because we all have better risk management tools and processes, we
 have a better sense for where pricing ought to be, and I think that if you look at the last
@@ -762,20 +666,14 @@ don't see that happening this year. I don't see a whole list of new companies co
 underwrite risk. I think if there is new capital coming in, it's on the back end in the ILS
 market and that's probably to support retro.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 And you see that – so you see all these capital coming in into the retro market you've
 seen today, so kind of do you think that the market will fully reload? I'm sorry, just to
 follow-up to that point?
 
 Bloomberg Transcript
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 No, no that's okay. Yeah. So, I wouldn't say all of this capital. I think that when you look at
 the – let me be more precise. When you look at where capital was eroded, a substantial
 amount of losses that were incurred by the industry this year found their way into the
@@ -785,10 +683,7 @@ So, I think that it's comes back in to replace what's gone away. And I don't thi
 new wave of capital coming in. I just think that there will be a handful of new entrants into
 the marketplace.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. That's very helpful.
 Thanks, Mark. I appreciate all the color.
 
@@ -796,10 +691,7 @@ Operator
 This concludes our question-and-answer session. I would like to turn the conference back
 over to Mark Watson, CEO, for any closing remarks.
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Thank you, everyone for joining our call today. As I mentioned in my opening remarks, and
 as we talked about in the Q&A, there is a lot going on in our industry right now. And I think
 Page 13 of 14

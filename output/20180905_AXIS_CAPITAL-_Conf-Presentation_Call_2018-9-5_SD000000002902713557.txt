@@ -13,9 +13,7 @@ Meyer Shields , MD
 Unidentified Participant, Analyst
 
 Presentation
-Meyer Shields
-
-{BIO 4281064 <GO>}
+Meyer Shields {BIO 4281064 <GO>}
 
 Bloomberg Transcript
 
@@ -26,10 +24,7 @@ trend in the industry. AXIS' most recent big deal was the acquisition of Novae. 
 outside, it seems like things are progressing well with the integration. I was hoping you
 can give us some insight in terms of how things look on the inside.
 
-Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+Peter John Vogt {BIO 17059745 <GO>}
 Sure, thank you. First, I'd like to thank you, Meyer, for inviting us here today. Looking
 forward to being here for the conference for the next two days.
 Novae is doing well. We closed that on October 2 of last year. So we're 3-plus quarters
@@ -65,10 +60,7 @@ together. So going quite well.
 FINAL
 
 Questions And Answers
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Yes, excellent. One of the elements. And you mentioned this a little bit, are the expense
 savings, both those associated with Novae itself and sort of general expense optimization
 initiatives. Can we translate that into a targeted expense ratio? Or can you give us some
@@ -76,10 +68,7 @@ thoughts about how to think about that in the context of a ratio?
 
 Bloomberg Transcript
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Right. We've talked about that. We're looking at, in total, $100 million off of our 2017 run
 rate by the time we get to 2020 rough run rate. And $60 million of that is going to come
 from Novae and another $40 million through other initiatives that we've now launched in
@@ -93,35 +82,20 @@ our return and trying to really crunch that expense ratio down. Working, though,
 that's going to be up to other things that we can determine to run more efficiently as an
 organization.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Right. But this gets up to 2020?
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 This gets us to only 2020, yes.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. On the subject of M&A, before Novae was acquired, you actually bought a company
 called AVIABEL.
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 I suspect it was overlooked because Novae was a larger acquisition. Can you talk a little
 bit about what AVIABEL brought to AXIS?
 
@@ -135,10 +109,7 @@ Date: 2018-09-05
 
 FINAL
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes. The other reason it may have been overlooked is it was really quite small. AVIABEL
 was a Belgian company located in Brussels. Very small, only $50 million of gross written
 premium but all in the aviation sector. It was attractive to us, one, because it was small and
@@ -150,10 +121,7 @@ aviation book. So we put the 2 books together. It gave us a much larger aviation
 But a more diversified aviation portfolio. So that actually went really quite well. And it was
 very interesting because it was really a one-product-line-type acquisition.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Yes, fantastic. Of course, we do want to encourage as much as participation from the
 around the room as possible. So if you've got a question, just let me know. Otherwise, I
 will keep soldiering on. I have one more M&A question and then we'll get to other topics.
@@ -164,10 +132,7 @@ about -- how should we think about AXIS in that context?
 
 Bloomberg Transcript
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes. When we look at AXIS, we want to make sure that we're relevant in the -- in our
 chosen market, in the markets that we want to play. And we look at the insurance side.
 And there's 3 markets that we really want to make sure we're relevant, the most relevant
@@ -203,10 +168,7 @@ Date: 2018-09-05
 
 FINAL
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, fantastic. Let's all get to current operations now. And I think another top-of-mind
 topic among a lot of investors is loss cost inflation and loss trend. There's sort of a
 disagreement among different executives over the course of Second Quarter earnings in
@@ -215,9 +177,7 @@ averages. And Albert himself, Albert Benchimol, CEO of AXIS, had talked about se
 sometimes real inflation. Can you give us a little bit more detail of what you're seeing on
 that front?
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
+A - Peter John Vogt {BIO 17059745 <GO>}
 
 Bloomberg Transcript
 
@@ -242,17 +202,11 @@ actually make the best returns? And I think that's some of the issues that we lo
 it's not only what we think the inflation is, it's what has that inflation done to how you
 structure your product and where you want to play on our program.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. And so there -- it sounds like there is an underlying shift in terms of attachment
 points. Is that real or theoretical at this point?
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 The hard part is, the market doesn't want to move, right. So you have to deal with, one,
 where you want to play; and two, how do you might be able to write enough business but
 handle that. And so our guys will look at -- they'll write a $1 million attachment point if they
@@ -270,26 +224,17 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2018-09-05
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Right. It provides, a, the opportunity for stabilization and distinctive performance. So you
 mentioned what the market will or will not allow. And obviously, that's a perennial hot
 topic.
 
 FINAL
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Where is the market now in terms of pricing? Our superficial assumption, is it a -- it varies
 by line of business based on profitability? But I hope you can give us a little bit more
 detail. And also, to the extent you can talk about terms and conditions in the other
@@ -297,10 +242,7 @@ aspects of underwriting, have (you seen it) go up?
 
 Bloomberg Transcript
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes. So through Second Quarter, we continued to see pricing positive, we'll talk about the
 insurance side first. But obviously a slowdown from what we've seen. Coming right out of
 the Third Quarter of '17, we saw a good increase in pricing on our property lines,
@@ -343,32 +285,20 @@ year in terms of pricing.
 
 FINAL
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Right, yes. And I guess there's 2 ways or 2 aspects to that. There's the contribution to
 pricing from whatever loss trends we have this year. And the negative contribution to
 pricing from the continued inflow of third-party capital.
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Yes.
 
 Bloomberg Transcript
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes. So I mean, that's the best part, what you see on the reinsurance side now. I mean, I
 think third-party capital is here to stay. I think at AXIS, we recognize that. We have a thirdparty capital area where we look to partner with third-party capital and use our
 underwriting and our expertise in underwriting and our expertise in distribution to help
@@ -392,17 +322,12 @@ to capital, whether it's our balance sheet or our insurance guys use reinsurance
 help them get into a market or we use third-party capital. We need to be using the best
 capital to provide the best product to our clients.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. So let me take that concept and go one step further. A lot of the Bermuda-based
 insurance/reinsurance models initially since, I guess, post 9/11 predicated on property
 casualty.
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
+A - Peter John Vogt {BIO 17059745 <GO>}
 Page 6 of 14
 
 
@@ -413,34 +338,23 @@ Date: 2018-09-05
 
 Yes.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 FINAL
 
 That expected contributions to income is, I think, permanently -- based on the way you've
 described third-party capital, is permanently lower than it had been in the past.
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 So how should we think about the future of reinsurance as a contributor to really building
 value?
 
 Bloomberg Transcript
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 I think when you look at building value, one, you got to look at the ROEs you're going to
 get. So what's the returns you're going to get. And if you can actually get a good return
 for your shareholders because you are writing some risk. But you're also getting some
@@ -463,10 +377,7 @@ business. In 2011, at this point now 16 years ago, I think at AXIS we've evolved
 business. And we're continuing to evolve it to get positive streams of income from various
 sources.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Perfect. That's helpful. And again, if people have questions, just signal in some sort of way.
 I don't want to overlook anything.
 I want to talk a little bit about Lloyd's. On the one hand, we do seem to be seeing some
@@ -489,10 +400,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes. It'll be interesting to see. When I heard what Lloyd's was doing and they came out
 publicly with what they say they were doing, it was very interesting to us because over the
 last number of years, what they were saying and telling people to do is what we've been
@@ -530,16 +438,11 @@ probably not making money. You don't know. But they've exited lines. And if they
 exited, they've probably made the same conclusion that we probably aren't making
 money in it. And we don't see reasons to stay in that particular line of business.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. So is it fair to say that you're expecting a more positive marketplace in Lloyd's, let's
 say, in 2019 versus '18? Is it too early to say that?
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
+A - Peter John Vogt {BIO 17059745 <GO>}
 
 Page 8 of 14
 
@@ -557,10 +460,7 @@ we believe that having a leadership in a line of business, you can drive better 
 can drive better terms and conditions. So as we look at our plans, that's where our guys
 are focusing on, where we can actually influence changes for the positive.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, fantastic. An AXIS-specific question that I want to focus on because I thought it was
 an interesting perspective is the stated desire to reduce your reliance on the top 3
 brokers. I was hoping you'd talk about that. What's -- first of all, what's -- what drove that
@@ -568,10 +468,7 @@ decision making process? And how is it progressing in terms of actual implementa
 
 Bloomberg Transcript
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes, I think this is a deep question. We'll think about it on, again, an insurance versus
 reinsurance side. On the reinsurance side, you've really got the top 3 brokers. And we
 work very closely with them. I think the differentiating factor in the reinsurance world is not
@@ -596,19 +493,13 @@ them. So that allows us to see bigger breadth of market, really what we do well 
 distributor, where on the retail side, that expert underwriting, if they're standard risks, you
 initially shine there, right, when you're looking at that.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 So I would argue -- oops, sorry, yes, go ahead.
 
 Q - Unidentified Participant
 (inaudible) if you have a (inaudible) of the program (inaudible)?
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes.
 
 Page 9 of 14
@@ -625,10 +516,7 @@ So what (inaudible)? Can you determine (inaudible) of your distribution strategy
 
 FINAL
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 So the smaller risk side? Yes. What we had to do is in the U.S. especially, we've put in a
 new system called (duck creek) in the back end that allowed us to actually move very
 quickly. So all the products that are on there now that we should be done with over 3.5
@@ -656,10 +544,7 @@ Q - Unidentified Participant
 I have a question on the (inaudible) side. (inaudible) out there. (inaudible)? Or (inaudible) a
 big factor (inaudible) out there and (inaudible)?
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Right now it's interesting. One, I don't like to talk about other people's M&A because
 you'll never know. But Aspen had a process. They follow their process. And now it seems
 like it's going through and see what -- so we'll have to wait and see what happens. But I'll
@@ -685,10 +570,7 @@ Date: 2018-09-05
 
 FINAL
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes. We just started -- it's on the reinsurance side. We just started that about three years
 ago now. So it's not a big part of our business yet. We actually brought in some folks, built
 our own models. We've got good relationship with some distributors. We're finding it's
@@ -706,10 +588,7 @@ about (inaudible).
 
 Bloomberg Transcript
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 You think about -- even in the past, even on the property side, you had to start to model
 demand surge post cats. And I think that's what this is. And I think when you think about
 social inflation. And one of our guys look at social inflation, you need to consider a variety
@@ -721,10 +600,7 @@ of analysis that goes through that. And I think you just have to watch. And you 
 for actual, what is actually happening rather than speculative.
 Yes.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 One point you mentioned in business, going back to that (inaudible), it's I guess, been a
 little -- it felt like there was something there. But in terms of diversifying distribution, you
 talked about building relationships with the wholesale distribution channel, which itself has
@@ -732,10 +608,7 @@ gone through a period of (inaudible) and consolidation, maybe not last year but 
 years. That -- does that pose a similar sort of oligopolistic model to what we're seeing in
 reinsurance? Does wholesale look like reinsurance?
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Wholesale has got -- I think part of it is the value that they bring to their brokers. And you
 do have, on the wholesale side, the top number of wholesalers are really quite big. And
 they are getting there. And maybe we will end up with the top, we'll call it, 4 or 5 or
@@ -762,50 +635,30 @@ us bring expenses down through the movement of data back and forth. And so as we
 cement those relationships, we hope to actually be able to use that to our advantage and
 their advantage. They'll have lower expenses. We'll get a greater look at more business.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Is there a trend of new wholesale brokers being formed? I don't think there is. Now
 correct me if I'm wrong.
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 I haven't...
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 Bloomberg Transcript
 
 (inaudible).
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes, I haven't seen more being formed.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 So the (inaudible) players, are you establishing more relationships with people that are
 out there?
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes. Yes.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, fantastic. And again, if there are questions, please just let me know. Please tweet
 your question.
 And this is a little simplistic. But we've put out a chart a couple of months ago just tracking
@@ -825,10 +678,7 @@ Date: 2018-09-05
 
 FINAL
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes. First I'd say at AXIS, we are committed to Bermuda. That's where our holding is. I do
 get that question. Are we looking to move off the island? We're not looking to move off
 the island. We're committed to Bermuda. We have a good relationship with the BMA. And
@@ -845,34 +695,22 @@ island. The expertise that's there, some of these consolidations have lent itsel
 being able to pick up talent where we can actually use some talent. But other than that, I
 think still Bermuda and the BMA is a good place for us to be on a go-forward basis.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Has the competitive environment changed at all in the wake of some of these, I
 guess, takeovers where (BNC) still exists? It's just under different ownership?
 
 Bloomberg Transcript
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes. We've seen pockets of people wanting to grow. And you'll get an initial growth surge.
 But at the end of the day, everybody wants a return on their capital, right. And everybody
 wants a decent return on their capital. So it's interesting we hear competition is tough and
 it's a hard market. I mean, it's a soft market.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 It's difficult.
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter John Vogt {BIO 17059745 <GO>}
 Yes. A difficult market. But that's -- I think that's going to be the go forward. I do think that
 where we are today, the big cycles where you can just turn around to be able to get all
 the pricing that you need, that has gone away. So we need to be smarter, we need to get
@@ -882,10 +720,7 @@ competitive environment we are today. And I do think that even folks who've now 
 also. So I do think that the competition is going to be there forever, the competitive
 landscape. And I don't think being private actually reduce those hurdle rates too much.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Right, yes. Okay. Then I just wanted to do a quick surveys if there's any final questions.
 And if not, please join me in thanking Pete for a very helpful presentation.
 Page 13 of 14
@@ -896,9 +731,7 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2018-09-05
 
-A - Peter John Vogt
-
-{BIO 17059745 <GO>}
+A - Peter John Vogt {BIO 17059745 <GO>}
 
 This transcript may not be 100 percent accurate and may contain misspellings and other
 inaccuracies. This transcript is provided "as is", without express or implied warranties of

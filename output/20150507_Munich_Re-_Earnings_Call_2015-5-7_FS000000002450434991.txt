@@ -33,10 +33,7 @@ Conference Call. Today's conference is being recorded.
 At this time, I would like to turn the conference over to Mr. Becker-Hussong. Please go
 ahead.
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 Good afternoon everyone. Welcome to our Q1 2015 conference call. Speakers today are
 Torsten Jeworrek and Jörg Schneider. I am sure most of you have listened to Jörg's
 audiocast this morning, so there should be no need for an additional statement from
@@ -54,10 +51,7 @@ Date: 2015-05-07
 
 FINAL
 
-Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+Torsten Jeworrek {BIO 5724439 <GO>}
 Yeah. Thank you, Christian and good afternoon ladies and gentlemen. I would like to give
 a short summary as an introduction about our April 1 renewal. April 1 is for the Munich Re
 P&C portfolio, the smallest renew of the three renewal dates. The premium volume which
@@ -142,10 +136,7 @@ Finally, we consider the pure price change in our portfolio of minus 2.6% as a r
 or even very satisfactory outcome under the conditions which I described.
 Here, I would like to finish, and I think I'll switch back to Christian.
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you, Torsten. We will now go right into Q&A. As always my usual request, please
 maximum of two questions per person. Thank you.
 
@@ -163,10 +154,7 @@ Date: 2015-05-07
 
 FINAL
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Hi, it's James Shuck from UBS. I had two questions, please. Firstly, actually on primary life
 in Germany, I just want to – could you just give some big picture thoughts on what
 happens to German life companies if government bond yields are to stay below 1% over,
@@ -247,10 +235,7 @@ economic situation, perhaps during the last couple of days, we see a little bit 
 the end of the tunnel with the increase in yields, but the circumstances and the regulatory
 environment is of a kind that allows for a smooth management of that situation.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Can I just very quick follow-up on that and that's very helpful. Thank you very much. I just
 wanted to be clear on one point though, and that is that, if the Solvency II calibration for
 companies shows a big deficit, then they can apply the transitional rules, where they
@@ -266,10 +251,7 @@ from the current difficult situation to a better situation in future. But, on th
 my view, the regulators are not allowed to undermine the rules which has been set by a
 contradictory behavior.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Okay. That's very helpful on that question. Thank you very much.
 
 Page 5 of 19
@@ -291,10 +273,7 @@ with the share – the latter with the share of 23%. And since we invest substan
 our reinvestments in outside of the Eurozone, the situation doesn't look so dark at first
 glance.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 That's great. Thank you very much.
 
 A - Jörg Schneider
@@ -305,10 +284,7 @@ The next question comes from Kamran Hossain from RBC.
 
 Bloomberg Transcript
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi, all, afternoon. I've got three questions, first one is just following up on the James'
 question really, I assume from your comment, I mean you are planning to use transitional
 measures under Solvency II. I know you've got other benefits to come through into your
@@ -326,10 +302,7 @@ A - Jörg Schneider
 Sorry, Kamran, we didn't quite understand, what kind of loss were you talking about in
 your second question please?
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Cyclone Pam.
 
 A - Jörg Schneider
@@ -352,23 +325,15 @@ applying transitional measures, and because we have lot of tools to deal with th
 situation and this is just one of them; but we do not want to exclude it, that is for sure.
 Torsten on that cyclone.
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 Yeah, Cyclone Pam, it's true, I was not aware that this island does exist by the way before
 its happened.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 My mother spent a year there, when she was 19, actually. I had never heard of it, apart
 from that.
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 
 Bloomberg Transcript
 
@@ -381,31 +346,19 @@ share in property business. So, this loss finally ends up with one primary insur
 have a strong reinsurance relationship with him. That explains it. So that this loss is not
 spread in the primary market.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Okay. That makes perfect sense then.
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 Yeah.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Thanks very much.
 
 Operator
 The next question comes from William Hawkins from KBW.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hi, there. Thanks very much. First of all, your economic solvency ratio, you acknowledge
 that it would have fallen in the first quarter. Could you try and help us just scale how much
 of it might have fallen by? And then specifically on that, you flagged that the
@@ -441,9 +394,7 @@ broad thumb and therefore we do not want to give quarterly reports on that. This
 change with Solvency II where we have quarterly information to the regulator and to the
 public.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
@@ -487,10 +438,7 @@ So, as you know, we're always trying to reflect bad news as early as we could un
 current accounting rules. So, we look forward to getting him on board, but we do not
 expect to see drastic changes with regard to this strategy very soon.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Lovely. Thank you very much.
 
 A - Jörg Schneider
@@ -501,10 +449,7 @@ The next question comes from Andrew Ritchie from Autonomous. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Hi, there. Quick one first of all for Torsten, the underlying combined ratio in Q1 was 98%,
 although I think that included about a point benefit from currency. So, the underlying
 maybe is 99%. So I assume that there is just some quarterly noise in that number and it's
@@ -519,10 +464,7 @@ underlying rate against the higher ceding commission. Do you think we're going t
 a situation this year where overall rate all-in price on proportional business is going to start
 falling? Thanks.
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 Yeah. First, to your combined ratio question, that is true. We have certain positive
 contribution from the stronger dollar from the foreign currencies to our combined ratio,
 which helped us a bit. On the other hand, as far as normal price changes are concerned,
@@ -581,10 +523,7 @@ and term changes. So that I would – I do not expect radical changes in that bu
 cannot completely be excluded that such a pressure comes into the business even not –
 even if I don't think it's this year.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -598,9 +537,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2015-05-07
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 
 FINAL
 
@@ -634,19 +571,13 @@ of risk-free rate is much more important for the calculation than the volatility
 Therefore, it could be slightly lower at the moment, the capitalization, but not at all that
 we feel here a general negative tendency.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Great. Thank you very much.
 
 Operator
 The next question comes from Michael Haid from MainFirst Bank.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Thank you very much. Good afternoon. Just one question on solvency, Jörg. You
 mentioned that 138% would have fallen by a low double-digit percentage amount. One
 insurance company not too far away from you, said it took measures, managerial actions
@@ -679,10 +610,7 @@ discipline into the primary life insurance market in a way that guarantees for l
 very high levels plus bonus policies which are extremely generous will be something of
 the past. This is my hope.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 But the fact that you changed the product does not affect your solvency immediately,
 right? It's just a more long-term change of the situation.
 
@@ -693,10 +621,7 @@ That is true. But we also gradually changed the investment policy and increased 
 duration in the last two years. Yeah, that is also beneficial here to at least mitigate the
 effect.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Perfect. Thank you very much.
 
 A - Jörg Schneider
@@ -705,10 +630,7 @@ Thank you, Michael.
 Operator
 The next question comes from Frank Kopfinger from Commerzbank.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Hi. Good afternoon, everybody. I have two questions. My first question is on your U.S.
 dollar impact. Could you help us better to understand the impact of a stronger U.S. dollar
 on your P&L. I understand that you have a positive 1% impact on the combined ratio in P&C
@@ -752,28 +674,19 @@ Bloomberg Transcript
 Your second, I would like to answer after the – it's commissions, yeah. Torsten, would you
 take it?
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 Sure. The change in admin expenses or in expenses is purely from higher commission and
 profit commission. That's the full effect. It has nothing to do with admin expenses. We
 have, because of good profitability, higher profit commissions. And we have higher flat
 commissions because of some softening in the business.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay. Thanks.
 
 Operator
 The next question comes from Michael Huttner from JPMorgan.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Thanks a lot. My first question is, you had the €700 million derivative loss, which we find
 the €700 million, I guess, in the balance sheet on the other side. And I'm just wondering,
 how to understand this? I'm so confused. Because on the one hand, nothing has actually
@@ -858,19 +771,13 @@ translation of our shareholders' equity of the non-euro subsidiaries into euro g
 through to the P&L. This is not true. This is a balance sheet effect only. So this is not part of
 the movement here. Sorry for that.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Can I just have a very quick follow-up. The €760 million, how much was the net effect?
 
 A - Jörg Schneider
 Net after tax or what do you mean by that?
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Yeah. After tax and policyholders.
 
 Bloomberg Transcript
@@ -878,28 +785,19 @@ Bloomberg Transcript
 A - Jörg Schneider
 Well, you can deduct some 25% perhaps.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Okay. Thanks.
 
 A - Jörg Schneider
 Thank you, Michael.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Thank you very much.
 
 Operator
 The next question comes from Thomas Fossard from HSBC.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes, good afternoon. Two question on my side. First question will be on the life primary
 business in Germany. I'm sorry about that, I should know about it. But I've read some press
 article about the Protektor scheme, which potentially could make a – basically Munich Re
@@ -934,10 +832,7 @@ burden also for our Group like for our competitors here.
 
 Bloomberg Transcript
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 So I come back to your question of Pemex loss. Pemex loss is an explosion on an oil
 drilling platform in the Gulf of Mexico on the Mexican side. The loss is new. It only occurred
 on April 1 this year. Of course, considering the late date of the loss, it's pretty uncertain at
@@ -946,10 +841,7 @@ seems a very digestible loss, we think low double-digit euro amount for our port
 it's something you would expect in one or the other way. You have always these kinds of
 single man-made losses every quarter. So nothing large for our portfolio.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay. And just to come back on this former Protektor scheme, any sense, any fear that
 this funding of the scheme could be approaching soon, or obviously that you're pretty
 relaxed on this point in the short-term? Thank you.
@@ -959,10 +851,7 @@ I don't know. It's difficult. I can't give a reasonable and reliable statement o
 I'm not aware of the situation of the market in total and even less about the situation of
 very small individual players.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay. Thank you.
 
 Operator
@@ -976,9 +865,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2015-05-07
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 
 FINAL
 
@@ -1016,10 +903,7 @@ at the moment, yeah. So you can more or less forget about it as long – in spit
 volatility, I must say, but the markets are extremely liquid. So that works pretty well.
 Bernhard?
 
-A - Bernhard Kauf mann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kauf mann {BIO 18347993 <GO>}
 Yeah. Hi, Andy. This is Bernhard Kaufmann. First of all, like Jörg already mentioned, all
 long-term guarantee measures that are applied in the industry will be transparent from
 their effect. So there will be full transparency on what they do to the economic solvency
@@ -1049,10 +933,7 @@ near to our heart, that we have full transparency, if we would apply this on our
 and not framework, but also how we internally then can use the numbers as – and not
 watered down by these measures.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 Okay. Can I just come back on one other sort of related point is, I think we're seeing sort
 of steady pressure building from other stakeholders. It was interesting in the IMF's
 Financial Stability Report and subsequent comment just yesterday or day before about
@@ -1071,10 +952,7 @@ some technical standards. The local regulators will apply them according to the 
 or explained rules. But the industry now has acquired good basis for the necessary
 calculations. Bernhard, do you want to add anything?
 
-A - Bernhard Kauf mann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kauf mann {BIO 18347993 <GO>}
 Perhaps one additional point. I think the pressure is already high with respect to the life
 insurance industry as the problems are transparent. The Solvency II framework with the
 long-term guarantee measures gives some time for smooth transition, but behind the
@@ -1083,10 +961,7 @@ companies who are then also perhaps more affected than others. So I think that i
 part of the way of making this really a smooth transition and not some sort of accident
 happens on the way.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 Okay. Thanks very much.
 
 Operator

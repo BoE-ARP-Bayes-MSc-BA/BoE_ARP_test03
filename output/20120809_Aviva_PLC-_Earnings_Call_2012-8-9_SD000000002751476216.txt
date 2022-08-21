@@ -29,10 +29,7 @@ Oliver Steel, Analyst
 Unidentified Participant, Analyst
 
 Presentation
-John McFarlane
-
-{BIO 1509370 <GO>}
-
+John McFarlane {BIO 1509370 <GO>}
 Good morning, everyone. Now it's just one month since I last spoke to you about the
 plans through to 2014. And as you'd expect, while there's been a lot of activity inside the
 Company in that period, the consequences of that are going to find their way into
@@ -94,10 +91,7 @@ you can expect further announcements in the second half and other announcements 
 year. And I remain confident that we'll do exactly as we said we would going forward.
 Thank you. And now I'll pass you to Pat.
 
-Pat Regan
-
-{BIO 15131018 <GO>}
-
+Pat Regan {BIO 15131018 <GO>}
 Great. Thanks John. Good morning, everybody. Nice to see you all here again. I did notice
 actually we'd got some Team GB chocolates for everybody to enjoy in the bowls, if you
 hadn't seen.
@@ -381,10 +375,7 @@ So we'll now open it up to Q&A. Right, I think we've got our usual roving mics [
 audience. Nick, do you want to?
 
 Questions And Answers
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Nick Holmes, Nomura. A couple of questions. Firstly is on the US. I'm a bit surprised by the
 improvement in the annuity margin, especially in the low interest rate environment and
 also the strong growth in sales. And I just wondered if you can give us a bit more color
@@ -399,10 +390,7 @@ this. There seem to be different views on this.
 And also whether your decision not to write the large bulks is connected with your views
 on this. Thank you.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. Good question. Shall I take those? On US annuity market, the, obviously the lower
 interest rate environment has quite a big impact generally across the market for all
 players in our part of it, which as you remember is equity indexed annuity market.
@@ -440,16 +428,10 @@ have a broader one where you can say these block of cash flows are relatively ce
 you can apply it to those cash flows? And that's one of the key debates. That's one of the
 key parts of this impact assessment they'll go through over the next few months.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 And sorry, the last question on BPAs.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 On BPAs? Yes and no. Obviously we're mindful of possible impacts of Solvency II, but I
 think the -- I think you've got a pretty good rule for how it's going to impact UK annuities. I
 think the debate is generally around the other products and more Continental Europe.
@@ -457,35 +439,20 @@ And I think our view was much more dictated by the -- our own economic capital v
 
 Bloomberg Transcript
 
-A - John McFarlane
-
-{BIO 1509370 <GO>}
-
+A - John McFarlane {BIO 1509370 <GO>}
 Yes. The return is zero, economic return, so it's no-brainer.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 But I think most companies would say it depends on the case, the ---
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 One company I think would say that.
 
-A - John McFarlane
-
-{BIO 1509370 <GO>}
-
+A - John McFarlane {BIO 1509370 <GO>}
 We generated our -- we're working on a weighted average, long-run weighted average
 cost of 9% and that's what they generate. There's no excess returns.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 I think as an overarching statement we are looking for a balance of risk income, annuity
 income. That's definitely going to form part of our income streams and a balance of
 savings-type income, slightly lower capital-intensive. We believe as you do that there are
@@ -500,9 +467,7 @@ Company N ame: Aviva PL C
 Company Ticker: AV/ L N Equity
 Date: 2012-08-09
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 FINAL
 
@@ -513,10 +478,7 @@ And secondly, the reserves in France, life reserves in France have gone down sig
 I guess partly due to ForEx. But can you give us some color on the outflows and the
 impact of that on that? Thank you.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. Thanks. Yes. As you know, we've -- there's two bits of the individual annuity market
 we've been successful on, obviously converting our existing pension customers into
 annuity customers and historically we've been also successful in wining probably close to
@@ -545,21 +507,13 @@ reinvestment rate was something like 3% and your peers -- sorry, 3.5%, and your 
 who said 3% have now reduced that to 2% for new money. So I'm just wondering what's
 your view on that component of the earnings stream would be going forward.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. New money, Clifford, what would you say?
 
-A - Clifford Abrahams
-
-{BIO 7425676 <GO>}
-
+A - Clifford Abrahams {BIO 7425676 <GO>}
 About 3%.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
+A - Pat Regan {BIO 15131018 <GO>}
 Page 10 of 24
 
 
@@ -577,10 +531,7 @@ FINAL
 
 Oliver, do you want to?
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 Oliver Steel, Deutsche Bank. Just a couple of questions. First is, okay, so you've written off
 the US Life goodwill, but you haven't really written off anything in Europe and particularly
 not in Spain. So I was just wondering about the rationale for that. The simple answer is
@@ -589,9 +540,7 @@ bit more detail in your thinking on that.
 The second question is on restructuring costs. Perhaps you'd just give us a little bit more
 detail on how you expect the timing of that to develop beyond this year.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
+A - Pat Regan {BIO 15131018 <GO>}
 
 Bloomberg Transcript
 
@@ -613,18 +562,13 @@ we need to finish most of that this year, partly for our own sanity and partly t
 the costs don't flow much into next year. So I think 2014 you really should expect not much
 at all, a little bit into '13 but a lot less than this year.
 
-A - John McFarlane
-
-{BIO 1509370 <GO>}
-
+A - John McFarlane {BIO 1509370 <GO>}
 Yes, one of the things we are not using much discretion here when it comes to goodwill
 impairment. We are actually doing what we are required to do and reassess them. And
 we've reassessed them all at the half, and we've done what we are required to do
 basically. It's as simple as that.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
+A - Pat Regan {BIO 15131018 <GO>}
 Page 11 of 24
 
 
@@ -635,9 +579,7 @@ Date: 2012-08-09
 
 James, do you want to go next?
 
-Q - James Pearce
-
-{BIO 16758460 <GO>}
+Q - James Pearce {BIO 16758460 <GO>}
 
 FINAL
 
@@ -650,15 +592,10 @@ you being required to put cash in?
 Then thirdly in Ireland I notice you blame the deterioration on the weather, but in the
 detail it's come through the motor account. What's going on, on the non-life in Ireland?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Okay. Alright, shall I take two and three? Do you want to do number one?
 
-A - John McFarlane
-
-{BIO 1509370 <GO>}
+A - John McFarlane {BIO 1509370 <GO>}
 
 Bloomberg Transcript
 
@@ -672,10 +609,7 @@ progress. We know more. The certainty is increasing. The uncertainty is obviousl
 and that's what we are working through, and ultimately we'll end up negotiating that.
 We're not at that stage yet. We are in some of the smaller ones.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 I'll take the last two then. On Ireland that was more factually noting the weather has been
 higher, but the weather has been higher for three out of the last four years in Ireland, so
 whether that's a good explanation or not.
@@ -715,9 +649,7 @@ annuities, and certainly bulk purchase, and certainly in France, Spain and over 
 as well. So it was more of an issue in 2011. We're expecting that to be less so as we go
 forward.
 
-A - John McFarlane
-
-{BIO 1509370 <GO>}
+A - John McFarlane {BIO 1509370 <GO>}
 
 Bloomberg Transcript
 
@@ -763,52 +695,34 @@ returns going forward by repositioning the Group, having enough cash flow and co
 sustain the dividend. But in the very short run its about capital and so we're just getting on
 with that.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Andy and then Andy. Do Andy first and then we'll come back to, well, Gordon and then
 Andy afterwards.
 
-Q - Andy Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy Broadfield {BIO 7273415 <GO>}
 Hi, thanks. Andy Broadfield from Barclays. Just a bit more clarity on the capital position, on
 the economic solvency position. You've given us the walk from yearend to the half, but it's
 come down from the last disclosure. I think 145 I think was the number. I don't know if that
 was an approximate number when you last disclosed it, but it was 145 at Q1 I think.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes.
 
 Bloomberg Transcript
 
-Q - Andy Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy Broadfield {BIO 7273415 <GO>}
 And if you take out Delta Lloyd business you've had about 4, 5percentage points decline
 in the quarter. I was wondering whether you can explain a little bit about what the main
 drivers were there. I appreciate you won't want to do a whole reconciliation, but is that
 just a market movements thing?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. So we were taking some positive actions in the Second Quarter. But you also saw
 spreads went out a little bit generally. Obviously Spanish spreads went out a bit more. So
 it's mainly a credit spread impact in the Second Quarter, which a reasonable positive in
 the first was slightly negative in the second.
 
-Q - Andy Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy Broadfield {BIO 7273415 <GO>}
 Okay. Then the second question is just on Solvency II and the progress there because I
 think talking to people involved with the project externally I think it's been a difficult
 project. I'm sure it has been for everyone, but it's been an expensive project. Just
@@ -818,9 +732,7 @@ has been, what it's likely to be and the tail on it? I know you want to get it d
 -- I thought these things will have a cost tail that will go on for longer than '14, but that's
 the plan. So what are the numbers for that please?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
+A - Pat Regan {BIO 15131018 <GO>}
 
 Page 14 of 24
 
@@ -860,10 +772,7 @@ Solvency II just in a normal mode and we're building that into our plans whether
 the UK GI or UK Life or whatever. So the bulk of it this year, but second half is probably
 going to be similar to the first half.
 
-A - John McFarlane
-
-{BIO 1509370 <GO>}
-
+A - John McFarlane {BIO 1509370 <GO>}
 Clearly we've got enough understanding of economic return and capital allocation to our
 businesses that we can sharpen that up of course. But it wouldn't cost anything like this
 amount of money to do it. So if this was voluntary we wouldn't make this investment
@@ -874,16 +783,10 @@ in the business. And so we really need to get it out the way. And so we're not g
 slow it down. If there is any delay to the program we'll just get it done in 2013 to draw a
 line on it.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Okay. Thanks Andy. I think it was Gordon next.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Yes, Gordon Aitken from Royal Bank of Canada. So three questions. Firstly, UK pensions is
 bigger than any other country in terms of sales. You said your moving more into the fee
 Page 15 of 24
@@ -910,9 +813,7 @@ And finally just staying on bulks, so you're not writing any new bulks but that 
 going to close the solvency gap for you. We've had a few reinsurance transactions
 recently with other companies. Is this something you're looking at?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
+A - Pat Regan {BIO 15131018 <GO>}
 
 Bloomberg Transcript
 
@@ -937,10 +838,7 @@ the general insurance business and they brought a lot of the pricing techniques 
 from that into the individual annuity business in a way that we think is more sophisticated
 than most in the market.
 
-A - John McFarlane
-
-{BIO 1509370 <GO>}
-
+A - John McFarlane {BIO 1509370 <GO>}
 I think I'm right is saying that the returns on the individual annuities are actually very
 attractive generally. The new business is more attractive than the old back books basically.
 But it is attractive and so a rational thing for us to do is to do lots of it because it's very
@@ -962,19 +860,13 @@ we're doing. The problem is we are making this trade-off between capital and ret
 the time and in that sense there has to be some subduing of it even though the market
 opportunity is there for us.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 I think your last question, would we look at opportunities to look at back book deals? Yes.
 You're sitting next to the right man. So yes, we'll look at that and see if there is an
 opportunity there for us. Everybody is looking at you now Jason.
 Barrie then I'll come to Andrew.
 
-Q - Barrie Cornes
-
-{BIO 2389115 <GO>}
-
+Q - Barrie Cornes {BIO 2389115 <GO>}
 Morning. It's Barrie Cornes at Penmure Gordon. I just want to talk about GI insurance,
 particularly the UK. I think your weather losses were a lot less than some of us going for. A
 lot of the floods occurred the last three days in June. Have they been put back into July
@@ -984,43 +876,25 @@ figure?
 
 Bloomberg Transcript
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. I'm not going to comment on their numbers or estimates. Ours is a straight up
 number. We don't think there's a lot flowing into July at all, do we, Clifford? So I think our
 tell of that tale would be we genuinely think we've got better flood mapping and
 therefore risk selection than perhaps others have in the market.
 
-Q - Barrie Cornes
-
-{BIO 2389115 <GO>}
-
+Q - Barrie Cornes {BIO 2389115 <GO>}
 Thank you.
 
-A - John McFarlane
-
-{BIO 1509370 <GO>}
-
+A - John McFarlane {BIO 1509370 <GO>}
 And the first (inaudible).
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes, I mentioned that to him.
 
-A - John McFarlane
-
-{BIO 1509370 <GO>}
-
+A - John McFarlane {BIO 1509370 <GO>}
 Five months they were pretty good.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Andrew?
 
 Page 17 of 24
@@ -1031,9 +905,7 @@ Company N ame: Aviva PL C
 Company Ticker: AV/ L N Equity
 Date: 2012-08-09
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
+Q - Andrew Crean {BIO 16513202 <GO>}
 
 FINAL
 
@@ -1047,9 +919,7 @@ Then thirdly, on your definition of required capital on your economic basis is j
 internal capital. Could you say whether the FSA requires additional buffers, and how big
 those are?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
+A - Pat Regan {BIO 15131018 <GO>}
 
 Bloomberg Transcript
 
@@ -1075,10 +945,7 @@ extra buffer to say what's happens in various scenarios of sovereign debt, what 
 in various scenarios of pension risk, all of those kind of things. So they've all informed
 where we've landed in our target capital range. So that's, but that's how I'd characterize it.
 
-A - John McFarlane
-
-{BIO 1509370 <GO>}
-
+A - John McFarlane {BIO 1509370 <GO>}
 I think they're broadly consistent. If we reached where we're trying to get to then we'll be
 comfortable, the FSA will be comfortable as well. So that's not -- and as they're lower
 we're each as uncomfortable as each other. So in a sense there's not a material
@@ -1096,10 +963,7 @@ You might say something about the mix of the expenses because the first question
 
 FINAL
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes, so we've got, in our GBP400 million we've got about GBP300m# or so that will be
 people related and about GBP100 million or so that's non-staff related. I think actually our
 early estimates are we've probably got a bit more --- this done our new targets, just to be
@@ -1107,59 +971,36 @@ clear. But there is probably a little bit more we can go on, on the non-staff ce
 really get into the guts of the program. But that's how it -- the split of the GBP400 million
 is about GBP300 million people related, about GBP100 million non-people related.
 
-A - John McFarlane
-
-{BIO 1509370 <GO>}
-
+A - John McFarlane {BIO 1509370 <GO>}
 We actually think we can do better, but we need to work it out.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 And by line?
 
-A - John McFarlane
-
-{BIO 1509370 <GO>}
-
+A - John McFarlane {BIO 1509370 <GO>}
 Which lines?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
+A - Pat Regan {BIO 15131018 <GO>}
 
 Bloomberg Transcript
 
 I haven't got it by line Andrew or maybe -- we'll talk to you offline, but I haven't got it off
 the top of my head by line. We'll do Colin first then we'll come back to you, Andy.
 
-Q - Colin Simpson
-
-{BIO 15894636 <GO>}
-
+Q - Colin Simpson {BIO 15894636 <GO>}
 Thanks. It's Colin Simpson from Goldman Sachs. Could I actually ask your take on genderneutral pricing that's coming in at the end of the year or the beginning of next year? This
 is -- could be hugely disruptive. And I imagine with all the management change that's
 happened in Aviva and people are worried about their jobs, and you have large market
 shares, is it fair to say that you could be one of the big losers from gender-neutral pricing?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Are you suggesting we are not gender-neutral in our management changes? Was that
 your question? I can confirm --
 
-Q - Colin Simpson
-
-{BIO 15894636 <GO>}
-
+Q - Colin Simpson {BIO 15894636 <GO>}
 Are you saying something about your future CEO?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 We've been entirely gender neutral in our management changes. Sure, it affects
 everybody in the market in terms of how you look at risk selection and pricing. We've
 been thinking about this for some time, Clifford, haven't we, so I don't know whether you
@@ -1175,10 +1016,7 @@ Date: 2012-08-09
 
 FINAL
 
-A - Trevor Matthews
-
-{BIO 2001261 <GO>}
-
+A - Trevor Matthews {BIO 2001261 <GO>}
 This is not a problem. There are some countries around the world that had already had
 gender-neutral pricing of course. We've got teams of people not just in the UK but in
 some of the continental countries as well who've been working on this for some time. And
@@ -1187,10 +1025,7 @@ this. In fact we're looking to be one of the winners. Don't forget we've got thi
 analytic capability which helps us also as we look at rating through a different set of lenses
 going forward. So we're in good shape I think.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Thanks Trevor. Andy, then we'll come to Jon.
 
 Q - Unidentified Participant
@@ -1207,10 +1042,7 @@ And the third question was about following on from Oliver's question. Some compa
 include the goodwill in Spain in their IGD surplus. Do you do that? And if you were to write
 off the -- you know, okay.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. No on the last one. There's no goodwill, certainly obviously there's no goodwill
 impact from the US either, but there would be none if we reassessed Spain.
 I think I told you last time that we weren't going to give country by country IGDs. I'll give
@@ -1223,10 +1055,7 @@ that is something we've a mind to do Andy, but not at the half year. We'll proba
 that up at the yearend.
 Jon?
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Yes, morning. Jon Hocking from Morgan Stanley. I've got three questions please. Can you
 remind us of what the cross-border holdings are of Italian and Spanish debt at the end of
 Page 20 of 24
@@ -1250,10 +1079,7 @@ Then the third question. On UK commercial lines, could you give us a little bit 
 commentary sort of segment by segment where pricing is, where volume is, how you see
 rate etc?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Sure. Why don't I -- I'll pick off one and three and then I'll let John talk to the objectives.
 On the cross-border, it's still -- our Italian holdings -- Spanish holdings are primarily in
 Spain. We've got a tiny bit in France. On Italian holdings in pound terms we've got
@@ -1268,10 +1094,7 @@ performance of commercial motor by -- from 113 or so down to 101. We've probably
 what, about 6% now, something like that in commercial line rates. But property and liability
 is still pretty flat.
 
-A - John McFarlane
-
-{BIO 1509370 <GO>}
-
+A - John McFarlane {BIO 1509370 <GO>}
 Yes, on objectives, my own philosophy about this is if you ask somebody to do 16 things
 you're asking them to do nothing basically because they'll come back and say I did eight
 of them brilliantly and I did eight -- I was weak on these eight. Then you have to say well
@@ -1378,26 +1201,17 @@ Now bonus is slightly different in that it's about how you did this year and tha
 slightly different process but it still a meritocratic basis. So I don't know if that's all helpful,
 but that's how we're running the place.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Marcus.
 
-Q - Marcus Barnard
-
-{BIO 2103471 <GO>}
-
+Q - Marcus Barnard {BIO 2103471 <GO>}
 Yes, Marcus from Oriel Securities. Pat, can you explain the GBP90 million increase in the
 DAC amortization charge because against GBP1 billion of operating profit that's quite a
 material increase. And I note the point you make on page 12 about spread margins in the
 US and one-offs in China, but is this the level we should factor in going forward or is it a
 one-off in half one '12?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 It's -- the main dynamic there is it's almost automatic. As you make those higher earnings
 in the US, particularly driven by the higher spread margins, you get automatically a higher
 DAC charge. So it is one goes with the other. So if you assume what I said earlier, that the

@@ -38,10 +38,7 @@ Teleconference for Travelers. As a reminder this conference is being recorded on
 20, 2017. At this time, I would like to turn the conference over to Ms. Gabriella Nawi, Senior
 Vice President of Investor Relations. Ms. Nawi you may begin.
 
-Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+Gabriella Nawi {BIO 2211991 <GO>}
 Thank you. Good morning, and welcome to Travelers' discussion of our first quarter 2017
 results. Hopefully, all of you have seen our press release, financial supplement and
 webcast presentation released earlier this morning. All of these materials can be found on
@@ -85,10 +82,7 @@ also relabeled related terms. To be clear, this is a wording change, and there w
 changes in the calculation of these amounts.
 And now Alan.
 
-Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you, Gabby. Good morning, everyone, and thank you for joining us today. This
 morning, we reported core income of $614 million and core return on equity of 10.8%,
 both of which are impacted by $226 million of after-tax catastrophe losses. About half of
@@ -187,10 +181,7 @@ And with that, I'll turn it over to Jay.
 
 Bloomberg Transcript
 
-Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+Jay S. Benet {BIO 2456473 <GO>}
 Thank, Alan. Core income was $614 million, down from $698 million in the prior year
 quarter. And core ROE was 10.8%, down from 12.5%. There were several moving pieces
 this quarter, so let me spend a few minutes providing you with some further insight into
@@ -287,9 +278,7 @@ awards. And, as Alan said, the board raised our quarterly dividend from $0.67 to
 share and authorized an additional $5 billion in share repurchases.
 With that, let me turn the microphone over to Brian.
 
-Brian William MacLean
-
-{BIO 4679150 <GO>}
+Brian William MacLean {BIO 4679150 <GO>}
 
 Bloomberg Transcript
 
@@ -441,10 +430,7 @@ FINAL
 
 With that, let me turn it back to Gabby.
 
-Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+Gabriella Nawi {BIO 2211991 <GO>}
 Thank you. We're ready to start the Q&A portion of the call.
 Before we do that, if I could please ask you to limit yourself to one question and one
 follow up. Thank you.
@@ -456,20 +442,14 @@ proceed.
 
 Bloomberg Transcript
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
-
+Q - Amit Kumar {BIO 16979665 <GO>}
 Thanks, and good morning. Two questions. The first question is – I guess going back to
 the discussion on the personal auto book, you talked about the higher underlying loss
 ratio, which is not a surprise. I'm curious, how should we think about that loss ratio, either
 stabilizing at the current level or ticking up or down going forward based on the market
 environment?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Good morning, Amit. It's Michael Klein. So, in terms of the underlying, you see the 3.2
 points on page 18. When we talked about that last quarter, we talked about the fact that
 the full-year impact of that in 2016 was about 3.5 points. The fact that that 3.2 points
@@ -480,10 +460,7 @@ comes through, so there is a couple of things going on there. The rate that we'r
 that will eventually eat into that 3.5 points, but there is certainly an unfavorable year-overyear comparison for the first three quarters of this year because we don't have the full 3.5
 points recognized till you get to the basis of the full year 2016.
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
-
+Q - Amit Kumar {BIO 16979665 <GO>}
 Okay. The other question I had – and this is switching gears on – I guess the broader
 reserve releases and some of the questions we've gotten from investors have obviously
 
@@ -503,10 +480,7 @@ we got in Q1 2016? And hence, we should be careful how we think about reserve re
 going forward? Or am I over thinking the meaningful decline in reserve releases this
 quarter?
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 Hi, this is Jay Benet. Let me start by saying what we always remind people of, that is that,
 every quarter we're looking at, literally, all the reserves, doing lots of analysis and when
 there's an indication that the reserves need to change, we make those changes. So, we
@@ -519,47 +493,30 @@ of it more as episodic. And that we had larger reserve development in Bond & Spe
 last year versus a smaller amount this year I just look at, that's just what the data said and
 we'll see what the data brings in subsequent quarters.
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
+Q - Amit Kumar {BIO 16979665 <GO>}
 
 Bloomberg Transcript
 
 Okay. Thanks for the answer. I'll stop here. Thank you.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Next question, please.
 
 Operator
 Our next question comes from the line of Jay Gelb with Barclays. Please proceed.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Thank you. Can you hear me okay?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah, we can, Jay.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Thank you. For personal auto, I was a little surprised at the persistent high level of policy in
 force growth at 12%, given the efforts to fix profitability there. Can you give us a bit more
 insight on that?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Page 10 of 25
 
 
@@ -589,9 +546,7 @@ action and manage the flow of quote volume into the business have started to tak
 And so we're actually seeing our quote activity and our win rates come down consistent
 with expectation and the growth continues to moderate.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 
 Bloomberg Transcript
 
@@ -599,20 +554,14 @@ Jay, it's Alan. I would just emphasize what Michael said, that we were generally
 achieve what we wanted to achieve, and we generally are where we expected to be. So a
 quarter past, we talked to you about last quarter, so far so good.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 I appreciate that. And then my follow up is on the buyback and how the Simply Business
 acquisition affected that. So, in the Q, it says the Simply Business acquisition was total
 consideration of around $490 million. I thought an acquisition of that size might not have
 slowed the pace of buybacks in the quarter. I'm just trying to think about what the
 implications are for buybacks going forward.
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 Yeah. Hi Jay, this is Jay. The way we manage capital, as you recall, we're preserving capital
 for organic growth in our business, and for any kind of activity that would add to
 shareholder value over time. So, what we looked at here was a relatively modest
@@ -639,25 +588,16 @@ to what the capital level should be, and then return the remaining excess. So I 
 look into it as anything other than some cash planning on our part and no change
 whatsoever in the whole capital management strategy of the place.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Great. Thanks, Jay.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Next question, please.
 
 Operator
 Our next question comes from the line of Sarah DeWitt with JPMorgan. Please proceed.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Hi, good morning. Could you talk about what you're seeing in terms of loss trends in
 Business Insurance? Do you expect any upward pressure there? I know last quarter you
 talked a little bit about how the propensity to litigate in auto had spread to small
@@ -665,10 +605,7 @@ commercial.
 
 Bloomberg Transcript
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Sarah, good morning, it's Alan. I would say, broadly speaking, we haven't seen any
 significant changes in loss trend in really any of our commercial businesses. And I think you
 mentioned propensity to litigate. That's not exactly right. What we've seen is a little bit of
@@ -683,17 +620,12 @@ Now, in terms of the way we think about that and price and set reserves, we alwa
 assume things will return to longer-term normal, but I would say, maybe with the
 exception of auto that's been persistently difficult, really no change.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Okay. Great. Thank you. And then in Business Insurance, you've been taking modest
 renewal rate increases for the past two quarters, but you mentioned it's still below loss
 trend. What would need to happen for you to take rate to keep up with loss trends?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Page 12 of 25
 
 
@@ -717,21 +649,13 @@ that we're getting. And there's other levers we can pull to improve profitabilit
 talked about this before, terms and conditions, mix, expenses, claims handling, other
 strategic investments. So, all those things add up, Sarah.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Okay, thank you.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
+A - Gabriella Nawi {BIO 2211991 <GO>}
 
 Bloomberg Transcript
 
@@ -740,19 +664,13 @@ Next question, please.
 Operator
 Our next question comes from the line of Kai Pan with Morgan Stanley. Please proceed.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Good morning, and thank you. First question, just follow up on the personal auto side. The
 140 basis point deterioration, if you are excluding the re-estimates, that's assuming
 mostly coming from the new business track or tenure impact. If your PIF growth is
 gradually slowing down, is that impact will drag on for a little bit longer?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Sure, Kai, this is Michael. Couple of comments, and one just to remind everybody, there is
 also seasonality in the overall underlying combined ratio in Personal Insurance. So, the
 98.6% for the first quarter is reflective of, generally speaking, a lower underlying loss ratio
@@ -771,9 +689,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2017-04-20
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
+Q - Kai Pan {BIO 18669701 <GO>}
 
 FINAL
 
@@ -783,10 +699,7 @@ rather than do that in the U.S.? And do you expect to expand that platform in th
 market, because you have a dominant, kind of like a leading position in small business
 insurance here?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Sure, Kai, good morning, thanks for the question. We've been thinking about everything
 changing in the world for a long time. And clearly, one of the things changing most
 significantly and maybe poised to have the biggest impact on us is the world becoming
@@ -821,15 +734,10 @@ our ability to help them accelerate that in the U.S., I think, was really attrac
 And the capabilities they bring to us is attractive to us. So, it started in the UK and we'll
 bring it to the U.S. and potentially other geographies.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Great. Thank you so much.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Page 14 of 25
 
 
@@ -840,9 +748,7 @@ Date: 2017-04-20
 
 Thank you.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
+A - Gabriella Nawi {BIO 2211991 <GO>}
 
 FINAL
 
@@ -852,10 +758,7 @@ Operator
 Our next question comes from the line of Paul Newsome with Sandler O'Neill. Please
 proceed.
 
-Q - Jon Paul Newsome
-
-{BIO 3522950 <GO>}
-
+Q - Jon Paul Newsome {BIO 3522950 <GO>}
 Good morning. I'm curious about the change in the international business, could you – in
 one sense you said that the strategy isn't changing, but it sounds like there is some
 change going on there, either from a – who is in charge kind of position, or something
@@ -865,10 +768,7 @@ perspective?
 
 Bloomberg Transcript
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah, good morning, Paul. It really is a way – this is completely borne out of the way that
 we plan to manage the business, and really it's the opportunity we think we have to
 leverage our terrific know-how and capabilities in the U.S. to deliver those capabilities
@@ -886,17 +786,11 @@ do that with the great leadership that has always done that. But we've got an op
 with our – the talent and the capabilities in the U.S. to just do a better job of leveraging
 that outside of the U.S.
 
-Q - Jon Paul Newsome
-
-{BIO 3522950 <GO>}
-
+Q - Jon Paul Newsome {BIO 3522950 <GO>}
 But there's nobody – is there actually a change in who reports to who or anything like that
 in those segments?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Well, it's – we've always had a matrix reporting structure, and we'll continue to have a
 matrix reporting structure, the international business and the people that run the countries
 will continue to report to Kevin Smith and he'll have responsibility for that. But beneath
@@ -912,31 +806,20 @@ that organizational alignment, we'll look at Greg Toczydlowski for Business Insu
 Tom Kunkel for Bond & Specialty, and Michael Klein for Personal Insurance, and they will,
 on a matrix basis, manage their product delivery outside the United States.
 
-Q - Jon Paul Newsome
-
-{BIO 3522950 <GO>}
+Q - Jon Paul Newsome {BIO 3522950 <GO>}
 
 FINAL
 
 Okay.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 It's actually not that different than the way we've thought about it all along, it's just an
 opportunity to reinforce the engagement on a product level.
 
-Q - Jon Paul Newsome
-
-{BIO 3522950 <GO>}
-
+Q - Jon Paul Newsome {BIO 3522950 <GO>}
 Okay. Thank you very much. Appreciate it.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Next question, please.
 
 Operator
@@ -944,10 +827,7 @@ Our next question comes from the line of Randy Binner with FBR. Please proceed.
 
 Bloomberg Transcript
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 Hey, good morning, thanks. I had a follow-up to Amit's question earlier. The question is,
 how are actual severity trends developing relative to the assumption you made, call it late
 last year? And if there's commentary on frequency as well, this is in auto, of course. I'm
@@ -956,10 +836,7 @@ all observe, I think continued challenges in auto accident frequency and severit
 question is, how is the actual loss environment developing relative to that repricing
 assumption that started late last year?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Yeah, so, Randy, it's Michael. The actual development is consistent with the repricing
 assumptions. Whether that's the 3.5 points of elevated bodily injury losses that are now in
 the underlying, or whether it's the elevated level of loss trend that we talked to you about
@@ -979,9 +856,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2017-04-20
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
+Q - Randy Binner {BIO 15145081 <GO>}
 
 FINAL
 
@@ -992,10 +867,7 @@ dislocation out there with some of the mutuals really having to push very high p
 do you see yourself, kind of in the middle or potentially losing market share as we see
 market share dislocation in U.S. auto insurance?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Sure, so just a couple of points. First of all in 2016, we gained share ever so slightly, 0.1%,
 based on the growth that we experienced last year. Certainly, coming into this quarter,
 you see the PIF growth at 12%, you see the period-to-period PIF growth at 2%. We would
@@ -1011,39 +883,24 @@ wait and see.
 
 Bloomberg Transcript
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 And Randy, we don't really manage to market share. We manage to return to profitability,
 balancing that with growth, and market share will fall out of that.
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 Understood, thanks a lot.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Next question, please.
 
 Operator
 Our next question comes from the line of Elyse Greenspan with Wells Fargo. Please
 proceed.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Hi, good morning. First question, I was hoping to get some additional color on your
 outlook for the Business Insurance pricing environment. In the Q, you guys point to the
 Page 17 of 25
@@ -1060,10 +917,7 @@ the U.S. economy when you came to that outlook for the RPC?
 
 FINAL
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 So, Elyse, RPC obviously includes rate and exposure, and so it's a broader measure, and
 there is obviously a corridor around the words broadly consistent. And so we're probably
 not going to break that down into pure rate and exposure. We'll – obviously we thought
@@ -1074,9 +928,7 @@ those trends still persist out there, and so we'll have to take that into accoun
 we'll take it from there. Obviously, we operate in a competitive marketplace, and so that
 will be a factor. So we'll – we're encouraged and we'll see where it goes.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 
 Bloomberg Transcript
 
@@ -1089,10 +941,7 @@ personal auto book came down in the fourth quarter, and then also was at that ki
 lower level this quarter. How do you think about the expense ratio for the auto book when
 you think about your margin outlook for that business for the balance of 2017?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Yeah, so, Elyse, it's Michael. To your point – so, I'll start with expense ratio. We continue to
 manage expenses on a pretty disciplined basis inside PI, and we're enjoying the benefit
 of the increased volume over relatively flat expense base, and that continues to be our
@@ -1101,16 +950,10 @@ In terms of the other components of loss ratio, it's really normal period-to-per
 fluctuation. There's nothing – there are some puts and takes underneath that, but it's
 really normal period-to-period fluctuation, explains those other changes in the underlying.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. Thank you very much.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Next question, please.
 
 Operator
@@ -1126,19 +969,14 @@ Our next question comes from the line of Ryan Tunis with Credit Suisse. Please p
 
 FINAL
 
-Q - Ryan J. Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan J. Tunis {BIO 16502263 <GO>}
 Hey, thanks, good morning. I guess my first one was just a follow-up on Alan's comments
 about in domestic, the positive rate indication this quarter on 59% of the book versus
 53% a year ago. And I guess just thinking a little bit more granularly, what is leading to the
 upward rate indication? Is there pressure on certain accounts or is it – I think the point you
 made, just several years of rate running below loss cost trend?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 
 Bloomberg Transcript
 
@@ -1159,20 +997,14 @@ different position from a return perspective, and we were happy to take the rate
 was, where it's been over recent quarters, and so it's just very granular execution with a
 return objective in mind.
 
-Q - Ryan J. Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan J. Tunis {BIO 16502263 <GO>}
 Thank you, that's helpful. And then, I guess just following up on the line of questioning in
 auto. And I guess, thinking about weather in Q1. It seemed like January, February weather
 was somewhat benign. You had warmer temperatures. I'm wondering how you'd
 characterize the impact of weather on auto in 1Q, in the first quarter. I think the way to ask
 it is, how did frequency trend year-over-year?
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 Yeah, again, I would say broadly speaking, frequency and severity in the first quarter came
 in consistent with our expectations. I think we talk about the impact of the weather, and
 we'll talk about warm temperatures above freezing in cold months can give you
@@ -1190,72 +1022,46 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2017-04-20
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian William MacLean {BIO 4679150 <GO>}
 Well, and specifically, this is Brian, when you think of the first quarter cat activity, it's the
 tornado, hail, and specifically the hail.
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
+A - Jay S. Benet {BIO 2456473 <GO>}
 
 FINAL
 
 Correct.
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian William MacLean {BIO 4679150 <GO>}
 That is driving the numbers, and that is usually the case. So especially in auto, hail will bring
 about an immediate uptick.
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 Correct.
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian William MacLean {BIO 4679150 <GO>}
 And that's what we saw in March, as Alan pointed out.
 
-Q - Ryan J. Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan J. Tunis {BIO 16502263 <GO>}
 Got it. So, maybe over March, weather normalized some. Okay. Thank you.
 
 Bloomberg Transcript
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Next question, please.
 
 Operator
 The next question comes from the line of Larry Greenberg with Janney Montgomery
 Scott. Please proceed.
 
-Q - Larry Greenberg
-
-{BIO 16478161 <GO>}
-
+Q - Larry Greenberg {BIO 16478161 <GO>}
 Good morning, and thank you. Just staying on auto, are you seeing anything new in how
 you think about the long-term value of the business that you've put on in the last couple,
 few years? Probably undeniable that you'd like to have repriced some of that a little bit
 earlier. But are you seeing anything new that would support or refute that this is business
 that you ultimately want, and will be value-enhancing over the long term?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 No, Larry, we're not. I mean, as we've talked about over the past several quarters, we are
 slicing and dicing it 18 ways to Sunday. But from a quality perspective, the quality of the
 business, the profile of the business is very consistent with what we targeted when we
@@ -1278,29 +1084,17 @@ long term value economic perspective, it's tracking with our expectations. Again
 would have liked to have charged more for it, but that was really the primary conclusion,
 and that's why the strategy to improve the profitability to go after it with base rate.
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 And to the extent that we do keep it and improve profitability from an economic
 perspective, it'll be a good thing in terms of creating economic value.
 
-Q - Larry Greenberg
-
-{BIO 16478161 <GO>}
-
+Q - Larry Greenberg {BIO 16478161 <GO>}
 Great, thanks, that's all I had.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Thanks. Next question, please.
 
 Operator
@@ -1309,19 +1103,13 @@ Bloomberg Transcript
 
 Our next question comes from the line of Brian Meredith with UBS. Please proceed.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yeah, thanks. A couple quick questions here. First, Brian, Alan, could you talk a little bit
 about the competitive dynamics right now in the workers' compensation insurance area?
 Your premiums are down a little bit the last couple quarters. And are you seeing any
 impact in the marketplace from perhaps a competitor having some issues?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah, so thanks, Brian. And I always preface our comments with we feel great about our
 workers' comp capabilities. We clearly feel we're the industry leader. We've got, between
 our underwritten book and our service book, the largest portfolio in the industry. So we
@@ -1348,29 +1136,18 @@ closely.
 
 FINAL
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Okay, great. And then next question, I'm just curious, in the management liability area,
 what are you seeing with loss trends there?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah, nothing significant. There has been a lot written about securities class actions being
 up.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Right.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 
 Bloomberg Transcript
 
@@ -1385,26 +1162,17 @@ now being brought in federal court for reasons you would have to ask the plainti
 about, but you really have to look at the aggregate of those two numbers to see the
 trends in claim counts.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Thanks for the answer.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Next question, please.
 
 Operator
 Our next question comes from the line of Jay Cohen with Bank of America Merrill Lynch.
 Please proceed.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Yes, thank you. Most of my questions have been answered, but just one question, when
 you look at the difference in the renewal rate change versus renewal premium change,
 that difference is much bigger in select than it is for the broader commercial or Business
@@ -1421,10 +1189,7 @@ select?
 
 FINAL
 
-A - Gregory C. Toczydlowski
-
-{BIO 16615940 <GO>}
-
+A - Gregory C. Toczydlowski {BIO 16615940 <GO>}
 Hey, Jay, this is Greg Toczydlowski. In the select business, just given the smaller nature of
 those policies, we have a certain segment of the business that we call Express business,
 and the CMP or the BOP portion has some inflationary guards inside there. So that's
@@ -1435,50 +1200,33 @@ mix that we're writing, some wage increases and some increases in payroll. So th
 combination of the two is really giving us that exposure lift that we're getting in that
 business.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 And workers' comp, that has a bigger piece of the select business than it is of the overall
 segment business?
 
-A - Gregory C. Toczydlowski
-
-{BIO 16615940 <GO>}
+A - Gregory C. Toczydlowski {BIO 16615940 <GO>}
 
 Bloomberg Transcript
 
 Is the question as a percentage of the overall premium? It's got a similar mix profile, if
 that's the question.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Okay. I'll follow-up offline. That's helpful, though. Thanks, Greg.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Great. And this is our last question.
 
 Operator
 Next question comes from the line of Meyer Shields with Keefe, Bruyette & Woods.
 Please proceed.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Great. Thanks, good morning. Very briefly, when you talk about reallocating the
 international business to the individual segments, can you talk broadly about what impact
 that would have on the reported underlying combined ratios?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Just procedurally, one of the things we're in the process of doing is reconstituting the 10K information, as well as the supplement. So just in line with your question, we'll be
 providing this kind of data to you in advance of the webcast for the second quarter. We
 Page 23 of 25
@@ -1496,65 +1244,39 @@ pretty modest.
 
 FINAL
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 And just to state the obvious. When you look at the consolidated number for prior
 periods, there'll be no change, right?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Correct.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 It will be modest reallocation among the segments, but relatively small impact.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 Bloomberg Transcript
 
 Right. No, that makes sense. And then the Simply Business acquisition, where are we
 going to see those earnings in the segments in the income statement?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Simply Business, we expect it to be part of the Business Insurance segment. So it will be
 there, but we'll see how we'll present that. I mean it will be part of the segment, it will be
 wrapped in. But again, just in terms of the size of the Business Insurance segment, Simply
 Business will be a pretty small piece of that.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Great. Thanks so much.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Excellent. That concludes our call for today. Thank you very much for joining.
 
 Operator

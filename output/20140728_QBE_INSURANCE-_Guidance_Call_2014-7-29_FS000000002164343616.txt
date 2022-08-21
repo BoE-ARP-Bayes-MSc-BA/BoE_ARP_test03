@@ -30,10 +30,7 @@ recorded today, Tuesday, 29 July, 2014.
 I would now like to hand the conference over to your host today, Mr. John Neal, CEO.
 Thank you, sir. Please go ahead.
 
-John D. Neal
-
-{BIO 20988613 <GO>}
-
+John D. Neal {BIO 20988613 <GO>}
 Good morning, everyone. I have our Group CFO, Pat Regan, present with me together
 with Tony Jackson, our Group Head of Investor Relations.
 I would like to provide some color on today's market release that comes ahead of QBE's
@@ -124,46 +121,28 @@ question comes from the line of Ross Curran from CBA. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Ross N. Curran
-
-{BIO 15090587 <GO>}
-
+Q - Ross N. Curran {BIO 15090587 <GO>}
 Hi, gents. I realize you said you're going to probably leave this for the full-year results, but
 I just noticed, conspicuous in the absence are any comments on dividend or outlook for
 earnings in the second half. Do you have any comments on either of them?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I think as far as dividend, Ross, I think you're right in your opening remarks. We're still
 going through the processes of finalizing the half-year results and it'll take the board's
 consideration to determine any impact on dividend. I think there's no change in our
 dividend policy. Remains to pay 50% or up to 50% of cash profit.
 
-Q - Ross N. Curran
-
-{BIO 15090587 <GO>}
-
+Q - Ross N. Curran {BIO 15090587 <GO>}
 And can we also assume then the European workers' comp we saw in Italy over last year,
 that's all been sorted out as well?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yeah. The reserves on the – it's, in fact, medical malpractice.
 
-Q - Ross N. Curran
-
-{BIO 15090587 <GO>}
-
+Q - Ross N. Curran {BIO 15090587 <GO>}
 I'm sorry.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Page 3 of 22
 
 
@@ -175,9 +154,7 @@ Date: 2014-07-28
 Medical malpractice both in Italy and Spain and the reserves through the half year are
 stable.
 
-Q - Ross N. Curran
-
-{BIO 15090587 <GO>}
+Q - Ross N. Curran {BIO 15090587 <GO>}
 
 FINAL
 
@@ -186,18 +163,13 @@ Fantastic. Okay, thank you.
 Operator
 And your next question comes from the line of Nigel Pittaway from Citigroup.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 Good morning, guys. A few questions, if I may. First of all, can you make some comments
 on the source of the premium weakness because, although you're saying that FX is
 adverse relative to PCP, I think it's favorable relative to the time you originally guided. So
 can you just explain where the premium weakness has come from, please?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 Bloomberg Transcript
 
@@ -208,18 +180,12 @@ So if we're not seeing the right price for the business, then we're quite rightl
 from business. It was particularly prevalent in the second quarter with the reinsurance
 renewals coming in on the Japanese book and on the US portfolio.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 All right. Okay. And then, secondly, just on the large losses, can you comment how the
 sort of new reinsurance arrangements worked and whether or not the loss was greater or
 less as a result of having this?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yeah. The only difference really I tried to call out in the earlier remarks is that the floods in
 the UK in the first quarter were quite different to a conventional loss, in that they
 manifested over a ten-week period. And accordingly, the losses that are reported during
@@ -241,9 +207,7 @@ Company N ame: QBE I nsurance Group L td
 Company Ticker: QBE AU Equity
 Date: 2014-07-28
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 
 FINAL
 
@@ -254,34 +218,22 @@ the reinsurance arrangements. So can you make some comments on that? And then al
 obviously, ACE and some of the others flagged this type of adverse development quite a
 while ago, so just why it's taken so long as well to sort of advice of that?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yeah. I think we were early than most in terms of calling the result for crop, which was
 what we did in December last year. Most of the development actually came through in the
 first quarter. And I think it's the way in which the reinsurances interrelate on a state-bystate basis with the government reinsurance operations that's really causing the
 difference. But you're right, the combined ratio is going to be somewhere around about
 104%, 105% for 2013 in the final reckoning.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 All right. So I thought the cap with the reinsurance was 103%. That's, obviously, not right.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 It depends on how the losses fall on a particular commodity and on a state-by-state basis.
 
 Bloomberg Transcript
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 All right. Okay. Yeah. And then, obviously, you were talking, obviously, about having done a
 detailed actuarial review in Argentina. But the impression you, obviously, gave was that
 there was a global actuarial review that had been pretty detailed. So, I guess, the
@@ -289,10 +241,7 @@ question is why wasn't this picked up in the global review and are there any oth
 where you feel that you're going to have to do these actuarial reviews which could result
 in further, as I called, one-off losses?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Sure. I think the encouraging thing, Nigel, for us is that 90% of our businesses are
 contained within three major divisions: Australia/New Zealand, Europe and North America.
 I think as we've said before, both in Australia/New Zealand and Europe, where a
@@ -325,10 +274,7 @@ remarks, I think it's very important that we demonstrate that we're decisive and
 until we have in taking the provision that we've taken.
 I don't know, Pat, if you want to...
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 Yeah. Thank you, John. Hello, Nigel. I think what I'd add is, obviously, somebody joining
 new, there are a few things you look for when you're trying to assess for kind of risk of
 prior-year in terms of continuity, various things, whether that be people, processes, data,
@@ -351,19 +297,14 @@ macro and particular claims development in workers' comp there. So there aren't 
 other portfolios that have got those kind of characteristics to them. So this is the one that
 really needed that review and that review has now been done.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 Okay. Thank you.
 
 Operator
 Your next question comes from the line of James MacGill (sic) [James Coghill] from UBS.
 Please go ahead.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
+Q - James Coghill {BIO 14006200 <GO>}
 Page 6 of 22
 
 
@@ -378,34 +319,20 @@ why you had a net risk margin release (0:15:27-0:15:36)?
 
 FINAL
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I certainly didn't catch that, James. I wonder whether you could – could you just say that a
 little bit more loudly? You're very faint.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 Apologies. Can you hear me now?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yes, better.
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 Clearly. Yes.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
+Q - James Coghill {BIO 14006200 <GO>}
 
 Bloomberg Transcript
 
@@ -413,10 +340,7 @@ I was interested in understanding that net risk margin release of $55 million, w
 come out of the half ? That's quite unusual for the PoA to drop at the half ? And if you
 could just remind us what your targets are there for the full year.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yes. So I think the simple answer is that the PoA moves around with seasonality, notably
 crop. So we don't actually have any crop reserves of any substance through the half year.
 Obviously, they exist at some level at the year-end and they have a beneficial impact on
@@ -426,23 +350,15 @@ and 90% – I'll come back to 90% – is really from the crop. And we believe th
 PoA on a full year basis of 90% will be met by year-end. So we just let that number flow in
 full anticipation that 90% will be applicable at year-end.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 Okay. Thanks for that. And then on the net investment yields running at 2.7%, there's,
 obviously, some mark-to-market benefits there relative to what you were targeting for the
 full year. Can you just clarify what those were?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I might ask Pat to comment on that.
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
+A - Patrick C. Regan {BIO 15131018 <GO>}
 Page 7 of 22
 
 
@@ -459,19 +375,14 @@ gains – it's not completely mark-to-market gains because we've also made some 
 kind of realized gains as well. But the delta between about a 2.2% running yield and the
 2.7% is a combination of mark-to-market and realized gains.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 Thank you.
 
 Operator
 And your next question comes from the line of Kieren Chidgey from Deutsche Bank.
 Please go ahead.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 
 Bloomberg Transcript
 
@@ -489,24 +400,15 @@ months, given a lot of these issues have clearly been around for two years and g
 of the comfort that you provided at the December results around being on top of those
 issues?
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 Kieren, hi. It's Pat. I'll have a crack at that. Just to your first point, just going into detail, the
 numbers that you referenced, as we said, undiscounted, the $200 million and $140 million
 are slightly apples and oranges because, obviously, the $170 million is (0:19:24).
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Yeah.
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 But in terms of answering your question, there's a number of things changing within
 Argentina. Most obviously, you've got the macro environment which has changed a lot this
 year, so we saw a 20% devaluation of the peso in January, the consequent impacts on
@@ -549,37 +451,25 @@ the right picks on all of that is quite complex generally, but particularly in t
 To help us do that, we also put in a new actuarial model that we've used here in Australia
 and that's, I think, enhanced our ability to make some of these selections.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Okay. And just to be clear around the increase in frequency you've assumed, does that
 allow for further uplifts in propensity to claim and litigation just given the economy is
 travelling pretty tough at the moment.
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 Yeah. We factored in the latest data on that. To an extent, (0:21:59) would be if you look
 at the charts and they can't go up that much more, simply (0:22:02) with all of the cases
 litigated, if they carried on at this current rate of increase. But, yeah, we have made what
 we think are pretty sensible assumptions around that.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 We've also taken the data back and drawn comparisons with other territories both in Latin
 America and in North America, with the frequency of claimant is six to ten times the level
 you're seeing elsewhere. So we've got to acknowledge that level of frequency. But as Pat
 suggested, it's comfortably out of step with what you would expect, but nonetheless
 we've accepted the numbers as presented.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Okay. Presumably – whilst this has had a prior-year impact presumably, you maintain
 reserves at the sort of levels going forward on an accident year basis, what impact does
 Page 9 of 22
@@ -594,10 +484,7 @@ that have on the underlying combined ratio in Latin America?
 
 FINAL
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 So two points – yeah, two points to make on that. First point is that the model that we're
 looking to deploy here is really driven to look at finalization rates for claims. So assuming
 that there is a correlation between inflation and interest rates, then you should not see
@@ -612,9 +499,7 @@ rates are around about 25%. So you're getting a significant return on the assets
 you're holding. But that's an analysis we're still completing in some detail. And again, in
 that respect, I think we'll update the market more fully on 19 August.
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
+A - Patrick C. Regan {BIO 15131018 <GO>}
 
 Bloomberg Transcript
 
@@ -624,10 +509,7 @@ give you a sense of that. For our 2002 accident year, there's something close to
 claims still not viable. Obviously, it's very long-tailed stuff. So that the reserve increase for
 comp is, will be applied back over multiple accident years.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Okay. Thanks. The other question, second one just on your large claims, experience in
 your reinsurance covers around that. John, just to be clear, are you still sort of – would you
 budget 8.5% of premium for the first half ? Are you still running this first half, second half
@@ -635,10 +517,7 @@ differential? And related to that, if you have had more large individual claims 
 half, are you approaching your deductibles on your group aggregate covers which should
 allow you to have a better large individual result in second half ?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yeah. I think the first point I would make, Kieren, is that when we do the budgeting for
 large individual risk and cat claims, we tend to look at them across the full 12 months. And
 what we've done historically is, because of the greater propensity to weighting for cat
@@ -670,28 +549,19 @@ year and it won't at the full year in terms of the allowances that we're carryin
 don't see a particular issue with the large individual risk claims being of a size that will
 require the aggregate covers to respond.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 I'm just sort of asking whether or not you've eroded enough of your, sort of, deductible
 on the aggregate cover, so that if you do have more in the second half, you're getting a
 high degree of recoveries on this?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 No. As at the moment, I would say it's a hard number to call. But at the moment, I would
 say the cost of large individual risk claims are not at a level that would require the
 aggregate to respond.
 
 Bloomberg Transcript
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Okay. All right. And then finally, just on the – following up on an earlier question around the
 premium pullback, just the particular areas you cited such as reinsurance in various classes
 in Europe, at a very high level, have the returns you've been making in those areas where
@@ -701,10 +571,7 @@ a positive margin mix impact for the group more broadly or is it just there's be
 significant change in rates this year that were delivering okay and now they won't going
 forward?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yes. I think there's three things, I would say, in this space. I think if you look in the
 reinsurance that – our combined operating ratios have been absolutely superb, particularly
 following a quite (0:28:07) year in 2013. So we certainly expected some pressure on price.
@@ -739,10 +606,7 @@ just see default rates falling, and therefore, less business coming from the len
 space. So that's been a factor as well. So those are the three callouts, I would say, that are
 having an impact on top line.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 All right. Thank you.
 
 Operator
@@ -751,20 +615,14 @@ go ahead.
 
 Bloomberg Transcript
 
-Q - Ryan Fisher
-
-{BIO 3487027 <GO>}
-
+Q - Ryan Fisher {BIO 3487027 <GO>}
 Thanks, guys. Obviously, a lot of questions and there's a lot of answers of what I was
 going to ask. But on the GWP, I just wanted to check, given that I gather some of the
 reinsurance is sort of 1H biased with GWP, should we just annualize – roughly annualized
 the shortfall from the first half ? Or are there any half-on-half issues we need to take into
 account?
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 I don't think there's any dramatic seasonality that is worth – it's more the underlying
 business points that John referenced. The only one actually that we did try and highlight in
 the back of the release was there was an FX impact on both GWP and earned premium in
@@ -772,10 +630,7 @@ the first half, so that contributed. So you can make your own conclusions about 
 the second half. But other than that, I don't think there was anything particular seasonal. It
 was just general business trading.
 
-Q - Ryan Fisher
-
-{BIO 3487027 <GO>}
-
+Q - Ryan Fisher {BIO 3487027 <GO>}
 Okay. Thank you. And just a final question. Just picking of the big picture thing, so you've
 commented that, and correct me if I'm misinterpreting any of these things, but you've
 commented that you're still fairly happy with the 10.5% large loss budget. You've indicated
@@ -797,10 +652,7 @@ position and the gearing at this point?
 
 FINAL
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 So I'll deal with all four and Pat might want to jump in. I'd say the first one, yes, I'm very
 happy that the allowance is at 10.5% of net earned premium, the large individual risks, that
 are appropriate. I see no reason to change that. And I think when you do get chance, if
@@ -823,38 +675,23 @@ gearing is going down. But it is our intention to give a very full update on our
 and indeed our reference core and non-core businesses at the half year and it's probably
 best to leave any further discussion on that until 19 August.
 
-Q - Ryan Fisher
-
-{BIO 3487027 <GO>}
-
+Q - Ryan Fisher {BIO 3487027 <GO>}
 Okay. Thank you. But nothing dramatic on the capital front at this point?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 No, nothing today.
 
-Q - Ryan Fisher
-
-{BIO 3487027 <GO>}
-
+Q - Ryan Fisher {BIO 3487027 <GO>}
 Yeah. Thanks, John.
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 Yeah. The other thing I'd add to that, John, as we alluded to there on the capitals, gearing
 has got better in the six months as we've made money. So that's what helped. I think
 we're fairly comfortable we want that to continue to trend down over time. And we think
 there's some intelligent things we can do in the core and non-core review that will very
 specifically help that.
 
-Q - Ryan Fisher
-
-{BIO 3487027 <GO>}
-
+Q - Ryan Fisher {BIO 3487027 <GO>}
 Page 13 of 22
 
 
@@ -866,25 +703,17 @@ Date: 2014-07-28
 Great. And very finally, just clarifying that there's no update or clarification on full year
 guidance at this point, is that correct?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 FINAL
 
 No, there isn't today. I think what' I'd like to do is to see that sort of final consolidation at
 the half year and then be very explicit in that respect on 19 August.
 
-Q - Ryan Fisher
-
-{BIO 3487027 <GO>}
-
+Q - Ryan Fisher {BIO 3487027 <GO>}
 Okay. Thank you, guys.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Thank you.
 
 Operator
@@ -893,20 +722,14 @@ Please go ahead.
 
 Bloomberg Transcript
 
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 Good morning, guys. Just a few questions. Firstly, on Argentina, with the recent – sort of
 the recent top-ups, I thought we already had a buffer that we've put in there over and
 above what was necessary just to insulate against any adverse development. So can you
 confirm sort of what that buffer was, and so it's clearly that would – obviously move
 through that buffer and exhausted that on top of the $170 million?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yeah. I think, Daniel, what that might be is – and we've done some cross referencing as
 part of the process here of looking at how the local market behaves and how they
 reserve, we've always reserved on a significantly more conservative level on a per case
@@ -916,17 +739,11 @@ between the reserve position that they would hold and we would hold. I hasten to
 saying that, I think we've taken the right and appropriate steps. It's not a reflection of that
 being any more or any less than that.
 
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 Okay. And on the core and non-core components, is the long-tail volatile business in
 emerging markets, is that core or non-core?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I think if you turn to this – let's deal specifically with the workers' compensation book in
 Argentina. It's a book of business that we've underwritten since 2001. We do think our
 Page 14 of 22
@@ -944,19 +761,14 @@ profitable for us.
 
 FINAL
 
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 Okay. The high individual risk losses, it seems to be – there's a recurring theme with
 respect to that. There always seems to be some unusual risk claim and at a frequency
 which is probably higher than expected and it's been, I guess, that for a little while. How
 are you going about fixing the underwriting position on some of these broker facilities or
 areas where you might be – have historically been exposed to some weakness?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 Bloomberg Transcript
 
@@ -975,17 +787,11 @@ extended period of flooding in the UK through January and February. I think the 
 which is probably not having the broadest line of sight over the loss activity in the US and
 notably in Europe in June. I think the losses are perhaps bigger than the market expects.
 
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 Okay. Can you comment on the risk margins or the adequacy thereof of risk margins in
 Europe?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yeah. I think in – risk margins generally, it's a good point really because I think we need to
 remind ourselves that we're always talking about the claims central estimate here and
 we're still talking about risk margins of around about $1.5 million is about the central
@@ -993,10 +799,7 @@ estimate that we're talking about. And as I referred to earlier, we've not chang
 of average target from one year to the next of a probability of adequacy of through 90%.
 On the European business, I might ask Pat to comment specifically on that.
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 We'll give the group number today and we'll give you more specifics, obviously, as we get
 together on August 19. I'd refer back to is generally what we're seeing outside of
 Page 15 of 22
@@ -1015,19 +818,14 @@ saw positive prior-year development coming out of Europe. And actually, it wasn'
 wasn't the negative loss of ups and downs. It was pretty stable across all of the major
 portfolios.
 
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 Okay. Okay. And just a final question then on the cost-out story. Obviously, it looks to be
 running ahead of expectation. Clearly, your expense ratio is better than budget, but your
 top line is down. As we look ahead, is there a risk – are we really, sort of draw a line in the
 sand on the benefits, given if we are moving into a tougher market, are we more likely to
 see some of those savings traded away to preserve or retain sort of business?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 Bloomberg Transcript
 
@@ -1043,28 +841,19 @@ point to remember is there's no further cost or investment in the program. It's 
 benefit. But as we're saying earlier on, I think if we do see pressure on top line, then
 there's no reason why we can't correspondingly take cost out.
 
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 Okay. Thank you very much.
 
 Operator
 And your next question comes from Siddharth Parameswaran from JPMorgan. Please go
 ahead.
 
-Q - Siddharth Parameswaran
-
-{BIO 15037291 <GO>}
-
+Q - Siddharth Parameswaran {BIO 15037291 <GO>}
 Hi, John. It's Siddharth from JPMorgan. A couple of questions, if I can. Just one on
 reserves. I'd like to just clarify, the $170 million in Argentina, is that a number net of the
 discount rate change as well? So, presumably, that would have gone up?
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 Hi, Siddharth. It's Pat here. The $170 million is actually Latin America, the vast majority of
 which is Argentina. It is net of the discount rate, yes. So we've made a little footnote in the
 release. What we've moved to now is an explicit linkage of both discount rate moves and
@@ -1083,10 +872,7 @@ rate and the claims inflation.
 
 FINAL
 
-Q - Siddharth Parameswaran
-
-{BIO 15037291 <GO>}
-
+Q - Siddharth Parameswaran {BIO 15037291 <GO>}
 Yeah. Okay. That makes sense. Can I just ask, Pat, about your comments about the US
 reserves. It seemed that that was the one market where you still had some residual
 concerns. You said you were quite cautious still on how the experience was emerging. I
@@ -1097,9 +883,7 @@ conservatively than they had in the past. I was just wondering if you'd give som
 comments on particular lines that might still be causing some concerns and how the latest
 years are trending.
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
+A - Patrick C. Regan {BIO 15131018 <GO>}
 
 Bloomberg Transcript
 
@@ -1117,19 +901,13 @@ that type. So that's naturally something we'll keep a close watch on. There's no
 on flagging in terms of the development patterns around that. But there's much higher
 level of complexity in that kind of book.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I think, in reverse, if you turn the positive on that, I think whilst there's lots of movement in
 crop, I think that's been pretty well flagged across the industry. Absent the crop
 movement, the numbers we're talking about in North America in prior are really
 comparatively small compared to their income to almost be incidental.
 
-Q - Siddharth Parameswaran
-
-{BIO 15037291 <GO>}
-
+Q - Siddharth Parameswaran {BIO 15037291 <GO>}
 Yeah. Okay. Fair enough. Could I just ask a question on rates as well? It seems like a lot of
 the rate pressures you're flagging, John, seem to be – seemed to have occurred in the
 latter period in the half. So would it be imprudent to assume that some of those
@@ -1145,10 +923,7 @@ Date: 2014-07-28
 
 FINAL
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I think the – I'll take the longer-term view of that. I think it's more prevalent for 2015 than it
 is for 2014 in many respects. In Europe, I think a significant proportion of the business is
 written. So, in terms of the drop in income, I think much was anticipated. It's also important
@@ -1162,17 +937,12 @@ being delayed, and clearly you're seeing price increases getting close to zero, 
 above zero in Australia, I think, will have an impact on the thinking that we might have for
 premium expectation for 2015.
 
-Q - Siddharth Parameswaran
-
-{BIO 15037291 <GO>}
-
+Q - Siddharth Parameswaran {BIO 15037291 <GO>}
 Yeah. Okay. Okay. And one last question. Just on what the implications, if there is a credit
 rating downgrade at all, are there any lines of business you may not be able to write
 business in or that you may face some GWP pressures?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 Bloomberg Transcript
 
@@ -1181,17 +951,11 @@ we're dealing with an issue which frustrates us, but impacts our profit, reduces
 at the half year. We don't see that impacting our financial strength ratings with any of the
 major rating agencies, so we just don't see that as an issue.
 
-Q - Siddharth Parameswaran
-
-{BIO 15037291 <GO>}
-
+Q - Siddharth Parameswaran {BIO 15037291 <GO>}
 Yeah. But if at some stage, there was an issue, are there any class of business where the
 credit rating is particularly important to write the business that you currently write?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I think it's – it's rated independently. Obviously, the LMI business has its own independent
 rating, which as you know is AA minus. So it's above the rating that applies for the group.
 Their rating was just recently affirmed two weeks ago. But that rating is quite sensitive, but
@@ -1201,10 +965,7 @@ commercial portfolio with an A Standard & Poor's rating, but that's not what we'
 out to do. We're looking to maintain an A+ rating and an A rating where they invest. But as
 I said, I don't see any issues that we're discussing today that should impair those rating.
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 I'll just refer you back to the comments John and I made earlier on, as well as the increase
 of – improvement, I should say, in gearing for the first half. We are going to talk you
 through the core, non-core and how we see that kind of improving capital ratios going
@@ -1217,10 +978,7 @@ Company N ame: QBE I nsurance Group L td
 Company Ticker: QBE AU Equity
 Date: 2014-07-28
 
-Q - Siddharth Parameswaran
-
-{BIO 15037291 <GO>}
-
+Q - Siddharth Parameswaran {BIO 15037291 <GO>}
 Okay. Thanks very much.
 
 FINAL
@@ -1234,10 +992,7 @@ business? So, obviously, tomorrow morning, the bears and the (0:48:10) investors
 going to be asking me why QBE is involved in this business, which should appear to be
 sort of quite far away from your sort of core geographic markets?
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 It's quite a complex exercise. I wish didn't sound like I'm avoiding your question.
 
 Q - Operator
@@ -1245,10 +1000,7 @@ No.
 
 Bloomberg Transcript
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 I think – the first couple of things I'd say is, you need to apply the, albeit sizeable reserve
 strengthening clearly, back over a number of accident years. So the amount you're adding
 into it any individual accident year comes more in the kind of 15%, 20% increase in the loss
@@ -1260,10 +1012,7 @@ probably 80s.
 Q - Operator
 Right.
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 Thirdly, as John referenced, it's not a particularly satisfactory or completely satisfactory
 answer. You've got elevated – with a higher claims inflation, you have higher investment
 income. So the effect of that does mitigate to an extent the higher combined ratio. So
@@ -1281,9 +1030,7 @@ Company N ame: QBE I nsurance Group L td
 Company Ticker: QBE AU Equity
 Date: 2014-07-28
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 FINAL
 
@@ -1309,35 +1056,23 @@ Bloomberg Transcript
 And your next question comes from the line of Brett Le Mesurier from BBY. Please go
 ahead.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 Thank you. A few questions. Is the Australia/New Zealand division the only one to make
 the 10% insurance margin target in the first half 2014?
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 Well, I don't think we've given – we haven't given out the specific combined and insurance
 margin today, Brett. Obviously, we'll get into that on August 19. But I think we – basically, as
 we said in the result, we talked about a couple of specific items, really most of which
 relates to Latin America. Europe, Australia, and North America are pretty – and Asia, I
 should say, are performing pretty much in line with our expectations.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 Right. And in the announcement, it said that the European business was doing the same
 as it was last year, I think it said, which was an insurance margin of about 5%. Is that the
 correct interpretation of your words?
 
-A - Patrick C. Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick C. Regan {BIO 15131018 <GO>}
 We were talking specifically that the combined ratio is broadly in line with last year. Again,
 we'll give you the insurance margin when we get to the – when we get to the half year. I'd
 imagine it to be a little bit more than 5%, but we'll give you that number.
@@ -1349,9 +1084,7 @@ Company N ame: QBE I nsurance Group L td
 Company Ticker: QBE AU Equity
 Date: 2014-07-28
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 
 FINAL
 
@@ -1360,25 +1093,17 @@ and given the central catastrophe claims, large and catastrophe claims number th
 use, I don't really understand why you're not confident about giving an insurance margin
 number for the second half of 2014. Is there something else that's going on?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 No, there's nothing else that's going on. We're literally updating the market today as
 we're going through the processes to consolidate our half-year result. And as part of that
 process, we'll always get through in detail division by division with their updated forecast
 for the full year. So it's just not appropriate today to be giving the sort of – detail that
 information when the work is not yet completed. So it's as simple as that.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 When did the actuarial review in Argentina start?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 Bloomberg Transcript
 
@@ -1393,30 +1118,18 @@ the final reckoning. And frankly, I think because of issues that we've been disc
 particularly over the past 12 months, I thought the only thing and right thing to do, take the
 action, take it up and take it today.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 So that review started a couple of months after the last result – the last result
 announcement, I should say.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Late Q1, early Q2, yes. So your into March.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 Okay. Has the result or this announcement that you've had – that you made today been
 discussed with the rating agencies?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 We've had very early and preliminary conversations with the rating agencies, yes.
 
 Page 21 of 22
@@ -1427,34 +1140,23 @@ Company N ame: QBE I nsurance Group L td
 Company Ticker: QBE AU Equity
 Date: 2014-07-28
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 And their reaction is consistent with what you said earlier?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 
 FINAL
 
 It is.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 Okay, good. Thanks so much.
 
 Operator
 Ladies and gentlemen, we will now close the question-and-answer session. And I would
 now like to hand the conference back to today's presenters. Please continue, gentlemen.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Okay. Thank you, everybody. Thanks for taking the time to dial in. And I think, as we've
 said, we will be providing a very detailed update on 19 August including a division-bydivision analysis as well as answering in detail the plans that we have on core and noncore businesses and the capital updates that Pat's referred to.
 

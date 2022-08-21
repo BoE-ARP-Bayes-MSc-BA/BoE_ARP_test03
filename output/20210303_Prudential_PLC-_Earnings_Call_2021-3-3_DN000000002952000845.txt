@@ -40,10 +40,7 @@ My name is Maxine and I'll be coordinating the call today. (Operator Instruction
 I will now hand you over to your host, Mike Wells, Group Chief Executive to begin. Mike,
 please go ahead when you're ready.
 
-Mike Wells
-
-{BIO 4211236 <GO>}
-
+Mike Wells {BIO 4211236 <GO>}
 Page 1 of 34
 
 
@@ -89,10 +86,7 @@ also have our Group in Jackson Investor Relations teams. So, Laura, over to you,
 would pleased to make some short prepared remarks on what you see as the key
 features of the business and although early morning for you and your team.
 
-Laura Prieskorn
-
-{BIO 16580187 <GO>}
-
+Laura Prieskorn {BIO 16580187 <GO>}
 Yes. Thank you, Mike. I'm excited to speak with you today about Jackson's outlook and
 hard work towards independent. Over my many years at Jackson, I helped guide growth
 for regional firms for a leading US annuity provider. Throughout our history, our culture of
@@ -155,10 +149,7 @@ over the long-term.
 Both Marcia and I look forward to spending more time with you here today, but for now, I'll
 turn the call back over to Mike.
 
-Mike Wells
-
-{BIO 4211236 <GO>}
-
+Mike Wells {BIO 4211236 <GO>}
 Page 3 of 34
 
 
@@ -250,10 +241,7 @@ Bloomberg Transcript
 (Operator Instructions) Our first question comes from Farooq Hanif from Credit Suisse.
 Your line is now open.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, everybody, and congratulations today on the steps you've taken. So, just my first
 question on Jackson actually, given the positive news you've given on the outlook for the
 RBC ratio and it seems that your capital generation will allow that to potentially recover
@@ -268,10 +256,7 @@ you have on health and protection in Asia, can you guide us a little bit to when
 here in your P&L, when will it start to be kind of -- and I say, a contributor to the Group?
 Thank you.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 So, let me give a couple of general comments, and I'm going to go back to Laura and Nick
 on the specific answers. So, I think, one of the things with Pulse, it's critical that we keep in
 mind is what you're seeing is an integration of the channels as much as you are -- with the
@@ -305,10 +290,7 @@ views on that, and then, Nick, on the other two, if you would, please. Laura, fi
 
 Bloomberg Transcript
 
-A - Laura Prieskorn
-
-{BIO 16580187 <GO>}
-
+A - Laura Prieskorn {BIO 16580187 <GO>}
 Yeah, sure. Thank you, Mike. There is couple of points I could share the health of the
 existing in-force book is very strong. And we would of course expect it to be the case with
 the equity markets near all time highs. The other point I would share, to keep in mind, we
@@ -316,16 +298,10 @@ have a long history of capital generation and remittances to Prudential. And the
 relation to our overall financial goals, I would just point out that we will have more detail
 available in our upcoming SEC filings.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Nick, do you want to share ownership rules in China and Pulse?
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Sure, Mike. Hello, Farooq. I mean, the share ownership rules in China, I don't -- are not
 really a benefit or risk to our franchise. It's a 50-50 JV. Yes, we are interested in buying up,
 but that's now dependent on our partner. So, nothing -- and as I said, no, neither a risk or
@@ -358,34 +334,23 @@ business value and contribution to IFRS. I mean, contribution to IFRS would lag,
 any other startup, but it's part and parcel of what we offer, it's integrated with our other
 channel offering.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Thank you. I mean, just to come back on the share ownership, I was referring more to
 rules about individuals in Mainland China and their ability to buy foreign insurance products
 and liberalizing now, but I'm happy to take that offline. But -- I mean, there is a lots of
 questions on line, but that's what I was referring to more than your ownership of the JV.
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 I see. So, you're referring to the announcements that we made on sales priorities for
 2021?
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 Bloomberg Transcript
 
 Yeah, that's right. Yeah.
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 I mean, yes, we note that with interest. They did say that that they will study how, when
 and if so how to open up the capital account. The capital account is the component of the
 $50,000 a year. That can be directed to buying effectively protection linked products or
@@ -396,16 +361,10 @@ of ourselves. It's positive that they're looking at it and it reinforces the -- 
 for our franchise where that to -- where they too conclude to reopen aspects of the way
 in which people bought that were in place pre-2017.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Farooq, thanks for the questions. Appreciate it.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Thank you.
 
 Operator
@@ -418,9 +377,7 @@ Company N ame: Prudential PL C
 Company Ticker: PRU L N Equity
 Date: 2021-03-03
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
+Q - Jon Hocking {BIO 2163183 <GO>}
 
 FINAL
 
@@ -439,19 +396,13 @@ question. And the final question, on the holdco cash, on a pro forma basis, you 
 guided $13.5 million [ph] at the end of 2020, what sort of level do you also run in terms of
 central liquidity going forward once you complete the restructuring? Thank you.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thanks, Jon. Nic, you want to take Indonesia and then, Mark, the EEV question and holdco
 cash question please.
 
 Bloomberg Transcript
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Okay. Let's start. Hello, Jon. Let's start with Indonesia, we've done a number of things this
 year, the -- we've launched and there is more detail on Indonesia specific slide, but we've
 launched around 60 new products. Remember, we've been saying for some time that
@@ -499,15 +450,10 @@ halted the progress that we have made in the previous two months in growing this
 business, we've continued to retool increased -- broadened our product set and finding
 favor with consumers in the current backdrop and we're a better business for it.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thanks, Nic. Mark, do you want to -- EEV and holdco cash please.
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 
 Bloomberg Transcript
 
@@ -523,25 +469,16 @@ we've got a very good cover in terms of our central cash level. But we're very c
 with what it is that the level it is at the moment, and would expect to see that come down
 a little bit as we get the other side of Jackson.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Thanks so much.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thanks, Jon.
 
 Operator
 Our next question comes from Colm Kelly from UBS. Your line is now open.
 
-Q - Colm Kelly
-
-{BIO 19140684 <GO>}
-
+Q - Colm Kelly {BIO 19140684 <GO>}
 Page 9 of 34
 
 
@@ -568,20 +505,14 @@ by $2 billion or more. Are you able to provide any more updated guidance on what
 think the impact to the Hong Kong capital levels will be as you transition to RBC? So, I'll
 leave it at there. Thanks.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Appreciate that. Thanks. Nic, do you want to go by health and protection mix and then
 Mark the capital regimes and the actions required going forward for RBC including
 probably should mention the Group wide supervisory regime as well.
 
 Bloomberg Transcript
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Okay. So, on the health and protection mix, the reason -- candidly, the reason it changed
 is because of how significant in terms of case size, Mainland China businesses in Hong
 Kong. We had the benefit literally of a month in 2020 of just over with pipeline business.
@@ -602,10 +533,7 @@ to open and for that high ticket size critical illness to sales to Mainland Chin
 to resume. And we've shown a lot of innovation in that space and we are ready to go
 once the border opens up.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Mark, on RBC management actions.
 
 Page 10 of 34
@@ -616,9 +544,7 @@ Company N ame: Prudential PL C
 Company Ticker: PRU L N Equity
 Date: 2021-03-03
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 
 FINAL
 
@@ -646,25 +572,16 @@ regulators comfortable, we'll be able to share something more fully with you on 
 But generally speaking, as the markets move towards these new kind of realistic regimes,
 we do see a very significant benefit coming through.
 
-Q - Colm Kelly
-
-{BIO 19140684 <GO>}
-
+Q - Colm Kelly {BIO 19140684 <GO>}
 Excellent. Thanks a lot.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thank you.
 
 Operator
 Our next question comes from Scott Russell from Macquarie. Your line is now open.
 
-Q - Scott Russell
-
-{BIO 15107992 <GO>}
-
+Q - Scott Russell {BIO 15107992 <GO>}
 Yeah, good afternoon, everyone. Three questions if I can about Asia. Firstly, in Hong Kong,
 I'm interested in the half on half increase in margins that was surprisingly strong in the
 second half, which is surprising given rates were lower in terms of assumptions and
@@ -696,18 +613,12 @@ is a headache to value, but I'm more interested in why it keeps rising, what doe
 about the level of bonuses that you're paying on with-profit policies at the moment. Is
 there anything I can infer there? Thanks very much.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thanks, Scott. Nic, why don't you do the first two and then Mark, on the third?
 
 Bloomberg Transcript
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Okay. The -- if the increase in margin in the second half is purely a protection, the
 business mix change, I mean, clearly with the border closed, our attention turned squarely
 on the development of our domestic franchise, maybe I can give you a little more color.
@@ -733,10 +644,7 @@ what's driving it is an uptick in sales from agents in the second half of the ye
 the first half and because agency does a lot more health and protection, that's what's
 driving the uptick that you see.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thanks, Nic.
 Page 12 of 34
 
@@ -746,32 +654,20 @@ Company N ame: Prudential PL C
 Company Ticker: PRU L N Equity
 Date: 2021-03-03
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Less to do with rate and less to do with the savings component, really a lot of the profit
 comes from health and protection, savings is participating inevitably the margins on those
 are more modest.
 
 FINAL
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Yeah. Mark, do you want -- with-profits, please.
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
-
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 Sure.
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 (multiple speakers) I didn't answer the question on agency. Yes. I mean, we are clearly,
 maintaining our distribution infrastructure is key, a lot of the agents that were purely are
 Mainland China focused haven't been very busy in 2019 and remain. So, some are in
@@ -779,18 +675,13 @@ China, not all but clearly the comp market in China, it's against the rules. A n
 others refocus their efforts into the domestic market, and as I said on the last call fed by,
 often fed by leads from Pulse in order to help them establish a client base.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
+A - Mike Wells {BIO 4211236 <GO>}
 
 Bloomberg Transcript
 
 Okay. Mark?
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
-
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 Okay. So, on the with-profits fund, I get that it maybe a messy thing to or difficult thing to
 value but it's incredibly valuable thing to have in the business. So, as you say, we have $5.2
 billion of unallocated surplus and that's really there to fund future bonuses. And it's a bit
@@ -804,10 +695,7 @@ So, it's an incredibly valuable component of the Asia business. In terms of the 
 risks are pulled and our earnings from them tend to be fairly back-end loaded, but it's an
 incredibly powerful and key differentiator.
 
-Q - Scott Russell
-
-{BIO 15107992 <GO>}
-
+Q - Scott Russell {BIO 15107992 <GO>}
 Thanks, Mark. Can I just quickly pick up on that, I mean, I guess, I'm trying to understand
 why it you're not actively trying to reduce this because it's money that's stuck there that
 doesn't really belong to anybody. And if you're paying out, it gives you power to pay more
@@ -824,10 +712,7 @@ Date: 2021-03-03
 
 FINAL
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 If I may, the unallocated surplus is the surplus over and above assets share. So, it doesn't - it's not correlated to if you like the phasing of your annual or terminal bonuses. It simply
 reflects the overall size of the firm. This is a $63 billion fund that it needs to have a
 sufficiently healthy state in order to provide the investment freedom and to provide the
@@ -836,16 +721,10 @@ with the size of the overall fund. And as I said, it provides the investment fre
 allows us to manufacture yield that allows us to compete in the savings part of the sector
 here in Hong Kong.
 
-Q - Scott Russell
-
-{BIO 15107992 <GO>}
-
+Q - Scott Russell {BIO 15107992 <GO>}
 Okay. Thanks, all. I appreciate the detail.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thank you.
 
 Operator
@@ -853,10 +732,7 @@ Our next question comes from Oliver Steel from Deutsche Bank. Your line is now o
 
 Bloomberg Transcript
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 Thank you very much. A couple of questions. The first is, I wonder if you can just give us a
 little bit more granularity, fourth quarter on fourth quarter and third quarter on third
 quarter in terms of sort of VNB growth of the different markets, because otherwise it's
@@ -870,18 +746,12 @@ Chief Executive of the entire Group. So, I'm just wondering, what are you -- wha
 long-term in terms of the management structure and what you see long term in terms of
 the sort of head office of the Group?
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 So, the quarter on quarter, Nic. I'll let you address that and I think I'll take the Group
 structure, since I think your question is Oliver's am I here, so I got to come back to that.
 Nic, why don't you do Q4-on-Q4?
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Hi, Oliver. I'd point you to two slides in the appendix, slide 59 first, which gives the
 quarterly progression in the middle section of that slide on new business profit,
 admittedly it's not by market, but it did give you uptick, you see 28% uplift Q3 on Q2 and
@@ -909,31 +779,19 @@ it's come across the piece, pretty much aided by agency coming back more strongl
 more health and protection being done and just generally volumes going up as we re-tool
 the business and as we got used to doing business in the current environment.
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 Can we work out from these, what sort of fourth quarter on fourth quarter growth was exHong Kong? Because, I mean, you're always higher in the fourth quarter than in the third
 quarter, but you're normal still in the fourth quarter.
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Yes, so bottom left of Slide 39, it gives you the numbers.
 
 Bloomberg Transcript
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 Okay. Thank you.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Oliver, on the structure. Thanks, Nick. On the structure, look, I agree with a couple of
 pieces. So, we have about 200 roles now in London, approximately. And I think that's -that for all of us I'm sure on this call COVID has sort of demonstrated that you work
 globally and teams don't have to be in the same building. And we have no aspiration to
@@ -991,19 +849,13 @@ new management team in the US and certainly true of the teams on the ground in A
 and where we have in group. That's all working because of the leverage in it, not because
 of any one individual or where they are sitting.
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 Thank you.
 
 Operator
 And the next question comes from Kailesh Mistry from HSBC. Your line is now open.
 
-Q - Kailesh Mistry
-
-{BIO 15396670 <GO>}
-
+Q - Kailesh Mistry {BIO 15396670 <GO>}
 Hi, good afternoon. I'm Kailesh here. Thank you for taking my question. First one is just
 coming back to the points around Mainland Chinese sales in Hong Kong. Two points here,
 has imported persistency held up well given the broader restrictions impact on the ability
@@ -1035,39 +887,25 @@ those KPIs be going forward, because obviously the structure of the group has ch
 and then you're hoping to get some change in the shareholder structure as well. Thank
 you very much.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Can you shout me a little bit on the last one, on KPIs, what are you -- give a little more
 detail on what you'd like in that question? I want to make sure I answer that specifically.
 
-Q - Kailesh Mistry
-
-{BIO 15396670 <GO>}
-
+Q - Kailesh Mistry {BIO 15396670 <GO>}
 Yeah, yeah. So, obviously, you've talked about EEV per share growth of double-digit.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
+A - Mike Wells {BIO 4211236 <GO>}
 
 Bloomberg Transcript
 
 Yeah.
 
-Q - Kailesh Mistry
-
-{BIO 15396670 <GO>}
-
+Q - Kailesh Mistry {BIO 15396670 <GO>}
 And then, you've talked about dividend tied to operating cash generation. But what are
 the KPIs on which management or the financial KPIs that management would be
 remunerated upon, and I guess that fits into the G part of the ESG debate. Thank you.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Yes. That helps a lot. Thank you. So I guess, Nic, I'll give you the Mainland China. But just a
 general comment I'd make first is, remember, we've been operating in Hong Kong for
 decades, so where COVID is unique in scale, we've seen pent-up demand come back
@@ -1078,10 +916,7 @@ products that can offset this risks, but the out of pocket costs of not having i
 relevant to a retail consumer and certainly policymakers. But Nic, will talk about Mainland
 GBA critical illness pricing.
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Okay. So, on Mainland customers persistency, no change to what we've seen historically,
 between 97% and 98% of customers that were with us at the beginning of 2020 ended
 up with us at the end of 2020. No significant premium collection issues. In 2020, we
@@ -1139,9 +974,7 @@ Year one was directed to growing -- attracting more customers. And clearly, we n
 through at the bottom of that funnel. Year two will also move into servicing of in-force
 customers as well as, I guess, trying to up-sell to those at the appropriate point in time.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
+A - Mike Wells {BIO 4211236 <GO>}
 Page 18 of 34
 
 
@@ -1179,31 +1012,19 @@ have as a group, and for the year, and they're all concurrent right, we've got t
 business, grow the value of the business, grow the return of the business while we're
 doing all the strategic objectives we've stated and that's how people will be paid.
 
-Q - Kailesh Mistry
-
-{BIO 15396670 <GO>}
-
+Q - Kailesh Mistry {BIO 15396670 <GO>}
 Thank you.
 
 Operator
 Our next question comes from Andrew Crean from Autonomous. Your line is now open.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Good morning, everyone. Three questions.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Good morning, Andrew.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Good morning. Firstly, on the specific relationship, I mean, I know you've said you want to
 take majority control, it's up to them, but could you give us a bit more context? I mean, is
 it actually thinking about selling safety, I know they have done something with Allianz,
@@ -1231,9 +1052,7 @@ has been closed for over a year, for now a year and a half and there was any rat
 disruption before then. Is there any likelihood that there will be superannuated sales from
 pent-up demand from the years when the border was closed? Thank you.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
+A - Mike Wells {BIO 4211236 <GO>}
 
 Bloomberg Transcript
 
@@ -1264,9 +1083,7 @@ markets and continue to move forward. On LCSM, it is a good number.
 And I'll let Mark comment on that and Nick comment on border opening one more time.
 Mark, on capital.
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 
 Page 20 of 34
 
@@ -1289,15 +1106,10 @@ expect it to settle. And before we start talking about any potential ranges in t
 which we're looking to operate. But as things stand, we are very comfortable with the
 level that we are at and it enables us to do what we need to do.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Nic, the border.
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
+A - Nic Nicandrou {BIO 15589153 <GO>}
 
 Bloomberg Transcript
 
@@ -1312,10 +1124,7 @@ when the markets have suddenly reopened and with campaigns we've tried to access
 But I think it's the pace at which the various parts of China, open air corridors or otherwise
 with Hong Kong.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 And I think, we are much faster, much better at dealing with reopenings than we've ever
 been in the history of the Group and you see that across different markets in Asia. Also in
 China, we have initiatives with the Eastspring with that would be that's doing well. There is
@@ -1325,16 +1134,10 @@ Mainland China strategy. So it's -- we're pleased with the breadth of that and o
 relative to market very pleased with the year-on-year growth, and as you see the growth
 of the earnings.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Thank you.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thank you.
 
 Operator
@@ -1351,10 +1154,7 @@ Our next question comes from Larissa Van Deventer from Barclays. Your line is no
 
 FINAL
 
-Q - Larissa Van Deventer
-
-{BIO 21570130 <GO>}
-
+Q - Larissa Van Deventer {BIO 21570130 <GO>}
 Thank you, and good afternoon. Three questions. The first on numbers, the other two
 strategic on distribution fees, all on Asia. Honestly from the numbers, it's $1.4 billion on
 Asian in-force business generation, I'll read you the numbers, you don't necessarily need
@@ -1369,31 +1169,19 @@ and then also renewing this year. How do you see the mix in new business profits
 from a distribution perspective and then how should we think of the impacts on margin,
 please.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Okay. Mark, do you want to take the first one and Nic, the second?
 
 Bloomberg Transcript
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
-
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 Mike, I'm just looking at the numbers, so Nic, wants to start on second and then I'll come
 back to this with first and I'll get you [ph] schedule up.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Sure.
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Okay. Hello, Larissa. The first thing I'd say is that all these channels, they're not competing
 with each other, they're complementary and the level of penetration is what it is across all
 of our markets in Asia. Actually, what you would want to have and this is what we do is to
@@ -1434,44 +1222,26 @@ we deploy very little risk capital. So, the performance on IRR basis is very str
 complements that from agency to produce an overall across our portfolio IRR of North of
 30% with very attractive payback period.
 
-Q - Larissa Van Deventer
-
-{BIO 21570130 <GO>}
-
+Q - Larissa Van Deventer {BIO 21570130 <GO>}
 Thank you, Nic.
 
 Bloomberg Transcript
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
-
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 And Larissa, if your question was about the in-force unwind, yeah, that is really due to the
 lower rates that we saw during the course of the year and that element that has created
 some movement there.
 
-Q - Larissa Van Deventer
-
-{BIO 21570130 <GO>}
-
+Q - Larissa Van Deventer {BIO 21570130 <GO>}
 Okay. Thank you. So, mainly a rate driven change.
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
-
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 Yeah. You got it.
 
-Q - Larissa Van Deventer
-
-{BIO 21570130 <GO>}
-
+Q - Larissa Van Deventer {BIO 21570130 <GO>}
 Thank you.
 
-A - Patrick Bowes
-
-{BIO 16444249 <GO>}
-
+A - Patrick Bowes {BIO 16444249 <GO>}
 And Mike, it's Patrick, I've got a question online now, which I'll just read out, is from Justin
 Floor in South Africa from PSG. I've got two questions, one for Mark and then one for Nic,
 the question for Mark is under what conditions would Prudential not need to raise equity
@@ -1487,18 +1257,12 @@ Company N ame: Prudential PL C
 Company Ticker: PRU L N Equity
 Date: 2021-03-03
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Mark, on equity raise.
 
 FINAL
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
-
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 Yeah, so in terms of the element of looking around equity raise. I think, we don't -- well,
 firstly, as you can see with the element of the debt-equity ratio that we have and what we
 said previously in terms of the comments in the rating agency is we don't have to raise,
@@ -1509,18 +1273,12 @@ the deleveraging really with a view to enhancing our financial flexibility. We d
 raise, but we think if we don't raise it will curtail some of the great opportunities we see
 ahead of us in Asia.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thanks, Mark. Nic?
 
 Bloomberg Transcript
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 I mean, we -- clearly we study what everyone else is doing in the region. What we have
 with Pulse is a completely different proposition. Vitality is a wellness app and it's focused
 on reward based behavior. Ours is an ecosystem, it's infinitely scalable, that's why we've
@@ -1536,18 +1294,13 @@ and we are able to harness the data exchanges to effectively develop personalize
 propositions for their -- for different customer set. So, it's a very different concept and
 totally very important to us and critical to our growth ambitions going forward.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 (multiple speakers) back to you.
 
 Operator
 Our next question comes from Blair Stewart from Bank of America. Your line is now open.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
+Q - Blair Stewart {BIO 4191309 <GO>}
 
 Page 24 of 34
 
@@ -1575,34 +1328,23 @@ there's still not a great deal of headroom, if any, between cash and versus cash
 wonder if that's something that concerns you or is there any plans to increase the amount
 of cash remittances from Asia? Thank you.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
+A - Mike Wells {BIO 4211236 <GO>}
 
 Bloomberg Transcript
 
 Okay. Why don't we -- Blair, if you don't mind I'll change the order and we'll address them
 all. Okay.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Yeah.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Let's do -- Marcia, do you want to address RBC volatility and keep in mind, in a year that
 was records on equity rate and basis risk in the US, I think, it's a -- but that said, why don't
 you address that? And then, I think, we will -- Mark, I'm going to have you get the next
 three, if you don't mind.
 
-A - Marcia Wadsten
-
-{BIO 20249635 <GO>}
-
+A - Marcia Wadsten {BIO 20249635 <GO>}
 Sure, Blair, let's take that question. And I can acknowledge that we are largely a VA
 company. So, there is a certain amount of volatility that is difficult to eliminate. But I would
 say, certainly, when we look at 2020 and going back to 2019, we did have some pretty
@@ -1631,15 +1373,10 @@ And then just, we look to our hedging program to just continue to operate effect
 has so many times over the years and a volatile period and use that as a way to try to
 manage that volatility to the greatest extent that we can.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thanks, Marcia. Mark, holdco cash.
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 
 Bloomberg Transcript
 
@@ -1667,10 +1404,7 @@ in the past as a result of some deferral of, for example, elective procedures an
 that are being pushed out as a result of COVID and people understandably staying away
 from hospitals and let's say absolutely we have to go there.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Just on that last point, Mark, you've -- with all due respect you've just repeated the
 question I asked, but what is the impact of that favorable experience, is that the reason
 there has been a decoupling between the in-force premium base and the profit growth.
@@ -1686,10 +1420,7 @@ Date: 2021-03-03
 
 FINAL
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
-
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 So, if the element of those claims come back, we would expect there to be a degree of
 normalization coming through on that particular patch. As -- I think as -- because ultimately,
 if you need a hip replacement, you're going to need to get that done as soon as we can
@@ -1700,22 +1431,13 @@ appetite to engage -- or to engage with hospitals and the like. So, claims is an
 component of it and therefore I think you'll see a more normalized level of those going
 forward I thought I would think at the back end of this year and certainly into 2022.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 But not possible to quantify at this stage.
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
-
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 Not at this stage. No.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Thank you, Mark.
 
 Operator
@@ -1724,10 +1446,7 @@ Bloomberg Transcript
 
 Our next question comes from Ashik Musaddi from J.P. Morgan. Your line is now open.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Thank you, and good afternoon, everyone. Just three questions I have. First of all,
 thanks a lot for Slide Number 76 for giving the embedded value split for different regions.
 Having said that, like, when I look at that slide, it's a bit puzzling to me, because if I
@@ -1762,10 +1481,7 @@ why is high earnings of 25%? That would be very helpful. Thank you.3
 
 FINAL
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Okay. Thanks, Ashik. The -- Mark, the first two is yours and, Nic, we will have to do the third
 one. I think the -- to generally address, Ashik, your question on China in the second part, it
 would depend on the percentage we bought, right. So, if we bought half the company I'm
@@ -1779,9 +1495,7 @@ that's probably a better proof statement in a hypothetical and I appreciate the
 hypothetical is an important one. So, Mark, do you want to do the first and then Nic, the
 third question, please.
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 
 Bloomberg Transcript
 
@@ -1798,28 +1512,16 @@ coming in. But one of the things that we'll certainly look to do as we go throug
 aspect of the half year certainly gives people a better sense of some of the drivers
 behind the individual metrics for these new segment during the half year please.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 And Nic, Thailand.
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Sure. Hi, Ashik.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Hi, Nic.
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Page 28 of 34
 
 
@@ -1853,16 +1555,10 @@ scale and we've taken actions to do that.
 
 Bloomberg Transcript
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Thank you. Thank you.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thank you, Ashik.
 
 Operator
@@ -1897,10 +1593,7 @@ competitive dynamic there especially thinking about the restructuring and the cr
 a new state backed entity there. Is that having a potential impact on the competitive
 dynamic? Thank you.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thanks, Dominic. I think, why don't -- Nic, why don't we let Ben answer a couple, make him
 -- Ben, make you work a little bit in the -- how about utilization of benefits, the border is
 truly closed, I think, is the way to think of it, but Ben you want to talk about our
@@ -1921,10 +1614,7 @@ sort of major cities. So, I think, from that regard, really very little to add o
 course, as we've seen elsewhere given COVID people deferring elective medical
 procedures.
 
-A - Nic Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nic Nicandrou {BIO 15589153 <GO>}
 Okay. Maybe just to add, there is, I mean, clearly, flows are tend to be gated from
 Mainland China into Hong Kong, but not the other way. If someone wanted to surrender a
 policy, they could and the money could be paid into account in Hong Kong or even across
@@ -1958,10 +1648,7 @@ component actually our share increased from just below 4% to just over 5% [ph]. 
 and on our banking channel, we continue to focus on the regular premium and winning
 share in that particular segment.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Okay, everybody. Thanks, Nic. So, guys we're down another three questions left, and I'd
 ask both the people asking the question, our team, let's keep it brief just given where we
 are in the time. Do you want to go to the next one, guys?
@@ -1969,10 +1656,7 @@ are in the time. Do you want to go to the next one, guys?
 Operator
 Our next question comes from Nick Holmes from Societe Generale. Your line is now open.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hi, guys. Thank you very much. I'll keep this very, very brief. RBC ratio, what's the reaction
 have you had from regulators and rating agencies about whether full 50% is sufficient.
 And second, Jackson strategy, what about diversification, what's happened to
@@ -1981,10 +1665,7 @@ Thank you very much.
 
 Bloomberg Transcript
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 So, the rating materials, Nic, is published. And I think we have, again, with the Form 10, I'm
 not going to get into a regulatory or anything forward-looking on that, but it's -- you see
 the rating agencies public on their comments. On the verification, Marcia and Laura both
@@ -1997,16 +1678,10 @@ options. But that's all we're going to say prior to the Form 10 filing later thi
 we've got to be very guarded that we don't -- you'll get some more information in it. But
 again that's -- we're live on that now. So, I've got to keep those two to a minimum.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Cool. Thanks for taking my question.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thanks, Nick.
 
 Operator
@@ -2022,10 +1697,7 @@ Our next question comes from Gordon Aitken from RBC. Your line is now open.
 
 FINAL
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Great. Thanks very much. Couple of questions on embedded volume please. Firstly,
 you've continued to report embedded value alongside IFRS earnings and when most
 European insurance companies dropped embedded value from a long time ago, why you
@@ -2038,18 +1710,12 @@ values, the best estimate basis, how prudent you believe your embedded value is,
 should we continue to expect positive variances and assumption changes in the future?
 Thank you.3
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thanks, Gordon. Mark, do you want to take those two?
 
 Bloomberg Transcript
 
-A - Mark FitzPatrick
-
-{BIO 20178326 <GO>}
-
+A - Mark FitzPatrick {BIO 20178326 <GO>}
 Sure. Hi, Gordon. So, in terms of embedded value we believe it is a very important metric,
 it's something that we use extent to be ourselves in-house as a management team is
 something we extensively with our Board to be able to talk about the performance of the
@@ -2065,16 +1731,10 @@ And I'd much rather have a cautious stance and released and overly aggressive an
 back. So, our cautious stance has been proven out year-after-year and not minded to
 change that on a go-forward basis.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Thank you.
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 We've got time for one more, guys.
 
 Operator
@@ -2087,19 +1747,13 @@ Company N ame: Prudential PL C
 Company Ticker: PRU L N Equity
 Date: 2021-03-03
 
-Q - Thomas Wang
-
-{BIO 18056117 <GO>}
-
+Q - Thomas Wang {BIO 18056117 <GO>}
 Thank you, I'll be very quick so if I'm reading it correctly, I think is Pulse not yet in China and
 India. Just wondering why so? Thanks.
 
 FINAL
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 Thanks, Thomas. So, we are -- we obviously have the option to do both and we are
 looking at both actively. I think, it's -- there is a bandwidth issue and there -- which you've
 seen us do with Pulse is we rolled it out Malaysia in November of 2019, late November and
@@ -2113,18 +1767,12 @@ the life side there's a variety of licenses you would need with the Pulse projec
 India, the same. But they're both within our realm of strategic options and are looking at
 both.
 
-Q - Thomas Wang
-
-{BIO 18056117 <GO>}
-
+Q - Thomas Wang {BIO 18056117 <GO>}
 Got it. Thanks.
 
 Bloomberg Transcript
 
-A - Mike Wells
-
-{BIO 4211236 <GO>}
-
+A - Mike Wells {BIO 4211236 <GO>}
 All right, guys. So, hopefully, that gives you an idea everybody on the progress we're
 making towards the strategic objectives. The -- we think was very agile and effective
 performance during the most severe parts of COVID and I think that the key to me is the

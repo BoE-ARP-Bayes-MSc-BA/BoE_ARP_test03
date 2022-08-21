@@ -33,10 +33,7 @@ Ladies and gentlemen, thank you for holding. Welcome to the Aegon Fourth Quarter
 results conference call for analysts and investors. (Operator Instructions) I will now hand
 the conference over to Mr. Alex Wynaendts. Please go ahead, sir.
 
-Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+Alex Wynaendts {BIO 1821092 <GO>}
 Good morning, and thank you for joining us today for this review of Aegon's Fourth
 Quarter and full-year 2012 results, and today also with me are Jan Nooitgedagt, the CFO,
 Darryl Button, the Head of our Corporate Financial Center, and of course Willem van den
@@ -361,10 +358,7 @@ Operator
 Thank you. (Operator Instructions) The first question is from Farooq Hanif of Citigroup.
 Please go ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Good morning, everybody. Thanks for taking my questions. First question is could you just
 quickly run us through the movement in the holding excess capital from Q3 to Q4, just the
 main items? Is it mainly just the cash flow that's been generated and how much of that
@@ -383,10 +377,7 @@ achieved in the Fourth Quarter and the drivers behind that? Thank you.
 
 FINAL
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Farooq. Good morning. Thanks for your questions. So in terms of excess capital in the
 holding, what we said is that the excess capital in the holding increased to EUR2 billion at
 the end of the Fourth Quarter and that's up from EUR1.6b. And this is the result of
@@ -402,10 +393,7 @@ one-off EUR20m, which obviously brings our margin for this quarter above our tar
 
 Bloomberg Transcript
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Hi, Farooq. It's Darryl. We did have a one-off in the VA this quarter. We had been
 introducing volatility-controlled funds across our whole VA platform, and we got approval
 in the Fourth Quarter to push those funds into a large part of the mandates of the asset
@@ -414,34 +402,22 @@ going forward and when we run those lower hedge costs through the future gross p
 we end up with a DAC unlocking. That was about EUR20 million to the favorable this
 quarter in the VA line.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Sorry, just to understand, that's a new fund for existing customers?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes. It's really we have to go through -- as you know, we do a lot of our DAC unlocking
 work in the Third Quarter. This was a case where we had a little bit delayed on that. We
 had to actually get the fund boards to approve the new fund mandates and the new vol
 controlled funds, and that approval didn't happen until the Fourth Quarter so we couldn't
 take the benefit until the Fourth Quarter.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. I'll probably come back on that later, but just on the cash flow, you were at EUR1.6
 billion and you go to EUR2b, does the EUR2 billion holding also allow for the dividend that
 you've declared?
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Page 8 of 23
 
 
@@ -457,24 +433,16 @@ that was the basis for us to increase our final dividend from EUR0.10 to EUR0.11
 
 FINAL
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. I'll probably come back later on that with IR, but thank you very much.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Thank you, Farooq.
 
 Operator
 Thank you. The next question is from Ashik Musaddi from JP Morgan. Please go ahead.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 Bloomberg Transcript
 
@@ -491,10 +459,7 @@ securities will be counted as Tier 1 capital under the Solvency II rules, which 
 allowed to be calculated because of the preference share structure? Some color on this
 will be good. Thank you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes, on the dividend, I think we've been very consistent with sharing with you what our
 policy is. And our policy is to have an attractive dividend, a dividend that grows with the
 business and that is based on the capital position of the Company. So that's the first
@@ -521,10 +486,7 @@ remaining as qualifying as Tier 1 under Solvency II. And the exact amount is?
 
 FINAL
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes, Ashik, it's Darryl. It's a little hard to answer the exact amount. The Solvency II rules are
 still moving, as you know. The real issue here is that perhaps push and demote the junior
 perpetuals down into a Tier-2-class security. Our working assumption is that with the prefs
@@ -536,52 +498,36 @@ majority of the perpetuals would in fact be Tier 1.
 A - Unidentified Speaker
 Be grandfathered, yes.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thanks. Just a follow up on that. So if I look at your financial statement, it states that EUR5
 billion is something for perpetual and hybrid, so is it reasonable to say that a vast majority
 of this number would be allowed as Tier 1 capital?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
+A - Darryl Button {BIO 7089946 <GO>}
 
 Bloomberg Transcript
 
 Yes. I think we're thinking, at this point, at least 80% of them would be grandfathered and
 that's roughly in line with our working assumption.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay, fantastic. Thank you.
 
 Operator
 Thank you. The next question is from Farquhar Murray from Autonomous. Please go
 ahead.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Good morning, gentlemen. Just one very quick question, and apologies if it got covered
 earlier, but does the capital restructuring at all affect the way that S&P will look at you?
 And I don't know whether you've had any preliminary discussions around that at all.
 Thanks. That's just the question.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes, Farquhar, thanks for your question. I'll pass it on to Darryl, who has had very recently
 discussions with the rating agencies, in particular also covering this item.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
+A - Darryl Button {BIO 7089946 <GO>}
 Page 10 of 23
 
 
@@ -597,20 +543,14 @@ positive.
 
 FINAL
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Okay. Brilliant. Thanks very much.
 
 Operator
 Thank you. The next question is from Jan Willem Weidema from ABN Amro. Please go
 ahead.
 
-Q - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+Q - Jan Willem Weidema {BIO 15133400 <GO>}
 Good morning. Few questions. If I look at your core capital ratio it's now 75%, but
 presumably it will drop to around 74% if IAS 19 is imposed. Can you elaborate on where
 you want to your ratio to be now that, A, the EC requirement has gone but, B, your
@@ -625,33 +565,21 @@ which relates to your dividend?
 Final question, can you comment on whether you had a benefit from your innovative life
 bonds that you issued one or two years ago? Thank you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Willem, maybe Jan will answer the first question on the impact of IAS 19 on the CBR ratio.
 
-A - Jan Nooitgedagt
-
-{BIO 16335191 <GO>}
-
+A - Jan Nooitgedagt {BIO 16335191 <GO>}
 Yes, it's a clear answer. It has no impact on our capital base ratio. Also our revaluation
 reserves have no impact. And it is the same way we treat the IAS 19, so no impact on
 capital base ratio.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 In terms of I think you were asking about the European Commission, as I said in my
 introduction, with the end of 2012 at a CBR ratio as defined with European Commission
 above 75%, we have met all our targets and as such we have now concluded our
 agreements.
 
-Q - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+Q - Jan Willem Weidema {BIO 15133400 <GO>}
 Page 11 of 23
 
 
@@ -667,10 +595,7 @@ the targets for earnings growth that you set two years ago?
 
 FINAL
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Jan Willem, there are many different factors affecting that 75%. That is one measure.
 What you also have to look at is the amount of excess capital freely deployable at the
 holding, which I think is giving you a better indication as to how much capacity we have to
@@ -693,19 +618,13 @@ we did in the Netherlands whereby we were able to take some of our longevity ris
 our balance sheet. At this point in time we have said it has very marginal impact on
 earnings.
 
-Q - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+Q - Jan Willem Weidema {BIO 15133400 <GO>}
 Alright. Thank you.
 
 Operator
 Thank you. The next question is from Hans Pluijgers from Cheuvreux. Please go ahead.
 
-Q - Hans Pluijgers
-
-{BIO 16245530 <GO>}
-
+Q - Hans Pluijgers {BIO 16245530 <GO>}
 Yes. Good morning. Coming back on the ROE target going forward because in principle
 you could argue that a big part of your other targets, like the fee part of the business,
 your growth quarter last year on the underlying level was very strong. But how you look at
@@ -733,10 +652,7 @@ And also on the UK you argue that a marketing spend has helped or marketing acti
 helped in Q4. Any plans for that going forward in 2013? So how should we look at sales
 development in the UK?
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Hans, on the ROE target we remain committed on delivering on our targets. Please also
 keep in mind that we have given the targets in conjunction with a set of financial markets
 assumptions and in particular, as you know, the level of interest rate development. We
@@ -801,10 +717,7 @@ that supports the intermediaries. So we have a very broad now capability and tha
 really I think bode well for the future, but I will be able to be more clear with you on that in
 the Third Quarter.
 
-Q - Hans Pluijgers
-
-{BIO 16245530 <GO>}
-
+Q - Hans Pluijgers {BIO 16245530 <GO>}
 Thank you.
 
 Operator
@@ -813,10 +726,7 @@ Bloomberg Transcript
 
 Thank you. The next question is from Paul Diaz from RBC. Please go ahead.
 
-Q - Paul Diaz
-
-{BIO 4658200 <GO>}
-
+Q - Paul Diaz {BIO 4658200 <GO>}
 Yes, hi there. Good morning. Couple of questions please. Just building on the question
 there on the UK business, just wondering if you could give me a bit more detail around
 the persistency charge in the UK as to exactly what that's in relation to and how you see
@@ -825,10 +735,7 @@ And the second point was just on the cash generation. The release of required su
 seems to be a much larger proportion of the cash generation in this quarter. How
 sustainable is that or should we be treating some of that as a one off ? Thanks.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes, we've said we had this charge in the UK on persistency. It's not a big number, but still
 on the quarterly earnings it does have an impact. And this obviously is related to what we
 just discussed, the whole RDR activity. What's important here for me to say is that this is a
@@ -856,10 +763,7 @@ items that relate to AG38 and they also related to our disposals and the proceed
 Prisma and Banco Civica. So these are clearly not recurring. But on AG38 maybe, Darryl,
 do you want to add something?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes, on the operational cash flows there were some one timers in there so the
 operational cash flow was stronger than we would normally expect. It really related to we
 got to the end of the year and did our capital testing and AG38 testing in the US and it
@@ -872,9 +776,7 @@ little bit earlier, yes, there were some extraordinaries there, as Alex just men
 terms of the Civica and the Prisma sales contributed some additional holding company
 cash flow.
 
-Q - Paul Diaz
-
-{BIO 4658200 <GO>}
+Q - Paul Diaz {BIO 4658200 <GO>}
 
 Bloomberg Transcript
 
@@ -884,10 +786,7 @@ Operator
 Thank you. The next question is from Robin Buckley from Deutsche Bank. Please go
 ahead.
 
-Q - Robin Buckley
-
-{BIO 3596512 <GO>}
-
+Q - Robin Buckley {BIO 3596512 <GO>}
 Yes. Good morning. Just a couple of questions please. Firstly just following on I guess
 from our operational cash flow question, could you just give an indication I guess of what
 the underlying run rate is that we could expect on a quarterly basis just stripping out the
@@ -897,10 +796,7 @@ Alex, where you were talking about some server management actions to try and min
 the impact of dilution. I was just wondering if you could expand on that at all please. Thank
 you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Then on the operational cash flows I indicated in my introduction that if you would take off
 the one-time items -- which were just discussed; I won't repeat them -- if you also would
 correct for market impacts, change in shape of the yield curve, then the number would
@@ -928,10 +824,7 @@ And I think the point I was trying to make is that we are aware that we will tak
 account in actions we'll be taking going forward to minimize or even neutralize entirely the
 effect.
 
-Q - Robin Buckley
-
-{BIO 3596512 <GO>}
-
+Q - Robin Buckley {BIO 3596512 <GO>}
 Okay. Thank you.
 
 Operator
@@ -941,10 +834,7 @@ Bloomberg Transcript
 Thank you. The next question is from William Elderkin from Goldman Sachs. Please go
 ahead.
 
-Q - William Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William Elderkin {BIO 3349136 <GO>}
 Good morning, everybody. William Elderkin from Goldman Sachs. Couple of questions
 please. Following on from your last comment, A, are you thinking about taking some
 measures to eliminate the dilution from your stock dividend?
@@ -955,10 +845,7 @@ buffer you want in place before you will consider major capital actions?
 And then just a final numbers question. Within the Asset Management earnings, can you
 give us a guide to how much of those revenues are coming from performance fees?
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 As I just said, I don't think there's much, William, I can add to what I just said in answer to
 Robin, saying that obviously we want to minimize the dilution. We want to make sure that
 we do that in a balanced way, taking into account all the interests of all the stakeholders. I
@@ -1000,40 +887,22 @@ Bloomberg Transcript
 
 Darryl is --
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 It's about EUR6 million in the quarter, Alex.
 
-Q - William Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William Elderkin {BIO 3349136 <GO>}
 This quarter?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes. But there's an offset also in the incentive.
 
-Q - William Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William Elderkin {BIO 3349136 <GO>}
 Great. Thank you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Does that answer your questions?
 Page 17 of 23
 
@@ -1043,10 +912,7 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2013-02-15
 
-Q - William Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William Elderkin {BIO 3349136 <GO>}
 Yes, thank you very much.
 
 FINAL
@@ -1055,10 +921,7 @@ Operator
 Thank you. The next question is from David Andrich from Morgan Stanley. Please go
 ahead.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David Andrich {BIO 15414075 <GO>}
 Hi. Good morning. Just a couple of questions. First of all, in the Americas you mentioned
 that you've added some alternative channels in terms of the VA distribution. I was just
 wondering if you could maybe give a bit more detail on that.
@@ -1074,19 +937,13 @@ maybe is it having any regulatory impact in terms of the regulator's attitude to
 insurers and if they're looking at tightening things up more or the impact you see coming
 from that. Thanks.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes, on distribution we actually have been working very much on expanding our
 distribution. And I know we've had a number of new distribution channels. Some of them
 have been announced others not. I'm looking at Darryl who is just, as you know, coming
 from the US. So which one can you mention explicitly, Darryl? Some exciting ones actually.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 There are and I'm probably more comfortable answering the trend than I am the names. I
 don't feel very comfortable putting actual names out so I'm going to withhold from that.
 We have been on both the VA and the life side lining up some very good names in terms
@@ -1118,10 +975,7 @@ FINAL
 
 Last question?
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 And on SNS maybe I should give the answer. Yes, on SNS obviously this has been I think
 quite a shock actually for people here in the Netherlands. A nationalization has never
 happened before, so there's a lot of questions around about the legal environment, to
@@ -1136,9 +990,7 @@ in our results, effectively increasing our dividends, is clearly in sharp contra
 see around SNS. And that should from that point of view be beneficial to Aegon going
 forward.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
+Q - David Andrich {BIO 15414075 <GO>}
 
 Bloomberg Transcript
 
@@ -1147,10 +999,7 @@ Great. Thank you.
 Operator
 Thank you. The next question is from Francois Boissin from BNP Paribas. Please go ahead.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Good morning, gentlemen. Just a few questions please on my side. The first one on the
 core capital ratio. Can you give the number basically at the end of the year after dividend
 payment?
@@ -1170,9 +1019,7 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2013-02-15
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alex Wynaendts {BIO 1821092 <GO>}
 
 FINAL
 
@@ -1184,61 +1031,38 @@ with this target for the time being certainly, but at least we have more flexibi
 the best I can say to you right now.
 I'm not sure I understood your question on the US but, Darryl, you would like to --
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 I think it was a basic earnings sensitivity question. The interest rate I assume was the
 question.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Yes that's right. What's -- again taking the full year 2012 reported base, what happens to
 that base if rates remain at the current level, FX rates euro/dollar at this level?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
+A - Darryl Button {BIO 7089946 <GO>}
 
 Bloomberg Transcript
 
 Yes, I think if you use 2012 as the base I think we're looking at about EUR10 million a
 quarter headwind from low interest rates if they remain low into '13.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 If they remain at the same level that they have been in 2012.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Overall on average, I would say, is that your point?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes, that's in line with our DAC assumptions. It gets a little bigger as we grow out because
 we do have an assumption that rates will rise over time. So it's $10 million a quarter in '13.
 That probably grows to closer to $30 million a quarter in '14 and '15 range. So it depends
 on how long rates stay out there. When you get out there, you get past our assumption of
 where, our DAC assumption where we are assuming that rates will rise further.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Yes, I understand that. You're in dollars or in euros in terms of 10 and 30 a quarter?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Both in dollars.
 
 Page 20 of 23
@@ -1249,75 +1073,45 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2013-02-15
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 In dollars, okay. So in euros basically you would have -- it would be assumed -- the average
 exchange rate in 2012 was?
 
 FINAL
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 We're sitting at $1.33 or $1.34 here today. Obviously it was lower than that, much lower
 than that three months ago and where it's going to be three months from now I guess I
 have no idea.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 And if he knew, if Darryl knew, I'm sure he wouldn't be sitting next to me, he'd be sitting
 somewhere else.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 That's for sure.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Okay. Fair enough. And on SNS?
 
 Bloomberg Transcript
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes, on SNS we believe that we will probably have between EUR10 million and EUR15
 million contribution to the EUR1 billion which, as you know, the financial markets. But the
 biggest part obviously is with the banks and we have a small bank and therefore it's a very
 small amount.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Sure. And it has be paid in 2014, I guess?
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes, I'm not sure. It's not clear.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 It's at least expected.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 That's expected, 2014, a one off.
 
 Operator
@@ -1331,9 +1125,7 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2013-02-15
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
+Q - Gordon Aitken {BIO 3846728 <GO>}
 
 FINAL
 
@@ -1345,10 +1137,7 @@ The second question is really a comment on competition. There seems to be a real
 of supply in this pension buyout market and do you think you will be able to take some
 more margin as a result of that?
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes, on your first question it's obviously politically a very sensitive question. So will pension
 plans require to make cuts, yes, they do that and they are making announcements on an
 ongoing basis of reducing pension payments going forward. So that is taking place.
@@ -1377,15 +1166,10 @@ as you look at our Fourth Quarter you see that we have been able to sell a coupl
 attractive contracts and these contracts all were attractive in the sense that they are
 contributing positively to our MCVNB.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Thank you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alex Wynaendts {BIO 1821092 <GO>}
 
 Page 22 of 23
 

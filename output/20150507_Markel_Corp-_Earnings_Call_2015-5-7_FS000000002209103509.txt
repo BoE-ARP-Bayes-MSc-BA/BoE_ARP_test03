@@ -38,9 +38,7 @@ event is being recorded.
 I would now like to turn the conference call over to Mr. Tom Gayner, President and Chief
 Investment Officer. Mr. Gayner, the floor is yours, sir.
 
-Thomas S. Gayner
-
-{BIO 1896932 <GO>}
+Thomas S. Gayner {BIO 1896932 <GO>}
 
 Page 1 of 12
 
@@ -60,10 +58,7 @@ with investment results and an update on Markel Ventures.
 As always, we thank you for your interest and support of Markel and we look forward to
 your questions. With that, Anne?
 
-Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+Anne G. Waleski {BIO 16735457 <GO>}
 Thank you, Tom, and good morning, everyone. I'm happy to report that we are off to a
 fantastic start in 2015 with our investing, underwriting, and Markel Ventures' operations all
 contributing to our success. While this is an exciting beginning, it's important to remember
@@ -198,10 +193,7 @@ Invested assets at the holding company were $1.4 billion at the end of March 201
 compared to $1.5 billion at the end of the year.
 With that, I'll turn it over to Mike to talk about our U.S. Insurance segment.
 
-F. Michael Crowley
-
-{BIO 6836605 <GO>}
-
+F. Michael Crowley {BIO 6836605 <GO>}
 Thanks, Anne. Good morning. As we've outlined before, the U.S. Insurance segment
 comprises all direct business written on our U.S. Insurance companies and includes all of
 Page 4 of 12
@@ -271,10 +263,7 @@ FINAL
 
 I'll now turn the call over to Richie.
 
-Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+Richard R. Whitt {BIO 7084125 <GO>}
 Thanks, Mike, and good morning, everybody. Today, I'll focus my comments on the
 underwriting results for the first quarter of 2015 for both our International Insurance and
 Reinsurance segments.
@@ -353,10 +342,7 @@ feel that rates are inadequate. We continue to reinforce this message with our
 underwriting teams as is reflected in our first quarter's gross written premium numbers.
 Now, I'd like to turn it over to Tom. Thank you very much.
 
-Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+Thomas S. Gayner {BIO 1896932 <GO>}
 Thank you, Richie. I'm going to try to set a record of brevity this morning in my investment
 and Markel Ventures comments. My colleagues in the room are placing bets as we speak.
 In short, we are earning positive and productive returns on our investment in Markel
@@ -450,10 +436,7 @@ Operator
 Thank you, sir. The first question we have comes from John Fox of Fenimore Asset
 Management. Please go ahead.
 
-Q - John D. Fox
-
-{BIO 1796608 <GO>}
-
+Q - John D. Fox {BIO 1796608 <GO>}
 Yeah, hi. Good morning, everyone. I have two questions. First one is on the reserve
 releases, which over the last two quarters have been over $300 million. And I imagine you
 could have started that process, instead of the fourth quarter last year, the second
@@ -464,10 +447,7 @@ reserve releases that you have taken in the last two quarters? Did something cha
 you just feel you got to your margin of safety level or is there some other catalyst? And
 then I have another question. Thank you.
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 Good morning, John. I don't think anything has changed. I think, overall, the experience
 that we have seen in the loss reserves has been positive. I do think we have a tendency to
 wait until the second half of the year to look real hard, as we have historically, at A&E or
@@ -489,29 +469,20 @@ experience be maybe better than we expected on day one, but we are still being
 cautious in that space. So I understand that the reserve takedowns have been significant,
 but I don't think there's anything different happening here.
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt {BIO 7084125 <GO>}
 John, Richie. I'll just add to that. I talked about volatility. And as an example, in our Global
 Insurance division, last year we had prior year development. This year, we had prior year
 redundancies. And it sort of gets back to that business is – it's excess limit, large limit
 business and it's just simply more volatile. So that was just a complete turnaround year-toyear and one of the drivers.
 
-Q - John D. Fox
-
-{BIO 1796608 <GO>}
-
+Q - John D. Fox {BIO 1796608 <GO>}
 Okay. And Richie, my second question is on Reinsurance. Should we expect to see the
 magnitude of decline in gross written that we saw this quarter, which I applaud if you're
 not getting the adequate rate? So should we think about that line being down 20% yearover-year or something of that nature?
 
 Bloomberg Transcript
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt {BIO 7084125 <GO>}
 You know, it's a little hard to say. I mean we're going to have to see how the rest of the
 year goes, John. We made two pretty fundamental decisions over the last number of
 months in terms of exiting U.K. motor and significantly reducing U.S. non-standard, simply
@@ -520,25 +491,16 @@ way we needed to. We're going to look at every contract that comes up on its own
 Those were, obviously, two pretty big items, and we'll just have to see how the rest of the
 year goes.
 
-Q - John D. Fox
-
-{BIO 1796608 <GO>}
-
+Q - John D. Fox {BIO 1796608 <GO>}
 Okay. Thank you for the terrific results.
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt {BIO 7084125 <GO>}
 Thank you.
 
 Operator
 Next we have Mark Dwelle of RBC Capital Markets.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Yeah. Good morning. A couple of questions. Dwelling on that last one, the U.K. motor
 book that you had exited at the end of last year, is that a quota share book or an excess
 book, which is to say, is it something that's going to affect all of the forward quarters of
@@ -552,50 +514,32 @@ Company N ame: M arkel Corp
 Company Ticker: M K L US Equity
 Date: 2015-05-07
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt {BIO 7084125 <GO>}
 Mark, it's mostly renewed January 1. There are some renewals throughout the year, but a
 big renewal date on that business is January 1. It is excess loss business, it's not a quota
 share business.
 
 FINAL
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay. Thank you. The second question relates to the tax rate. Anne, I think you kind of
 described how it works. Is it right or at least reasonable to assume that 19% is going to be
 the run rate for this year, unless something changes otherwise? I know you true it up later
 in the year, but as a starting point is that where we should begin thinking?
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 That's what our expectation is and we'll true it up each quarter, but you're right.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay. And then finally on the asbestos retrocession transaction, what portion of overall
 asbestos reserves were transferred? And I guess, if it's not 100%, why not 100%?
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 Well, it was about 35%.
 
 Bloomberg Transcript
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt {BIO 7084125 <GO>}
 Yeah. It was Mark, as Anne said, 35%. The reason for the third is this would be all of the
 asbestos in environmental reserves that resided in our U.K. insurance company, Markel
 International Insurance Company. And what it really does is it cleans up and removes all of
@@ -604,27 +548,19 @@ sheet. It was just an opportunity to – we've been working for 15 years to sort
 the legacy that we purchased with Terra Nova, and this is the culmination, if you will, of
 those efforts. And the guys over there did an absolutely fantastic job cleaning that up.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay. But you didn't really – this was just opportunistic with respect to that book. Did you
 consider getting rid of the U.S. portion as well, or that just wasn't really what was on the
 table?
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt {BIO 7084125 <GO>}
 That wasn't what was on the table at the time. I mean we've been running that book, that
 legacy position down for a long time over there and it was an opportunity to complete it,
 if you will. In the U.S., I mean we've certainly – I mean obviously, we look at it all the time to
 decide whether you're better off running it off or you're better off letting someone else
 run it off. But we're perfectly comfortable keeping the rest of it.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Page 11 of 12
 
 
@@ -643,10 +579,7 @@ At this time, we're showing no further questions. We'll go ahead and conclude to
 question-and-answer session. I would now like to turn the conference back over to Mr.
 Tom Gayner, President and Chief Investment Officer, for any closing remarks. Sir?
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Thank you very much for joining us and we look forward to catching up next quarter. Take
 care.
 

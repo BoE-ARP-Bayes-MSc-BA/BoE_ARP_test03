@@ -27,10 +27,7 @@ Bloomberg Transcript
 William Hawkins , MD, Head of European Insurance Research and Senior Analyst
 
 Presentation
-Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+Ulrich Wallin {BIO 4863401 <GO>}
 Yes. Good morning, ladies and gentlemen. I'd like to welcome you to our conference call
 presenting the results for the first half year of 2018. As always, I'm joined by our CFO,
 Roland Vogel.
@@ -85,10 +82,7 @@ investment income, the return on investment from assets under own management wer
 On this note, I would like to hand over to Roland, who will explain these figures to you in
 more detail.
 
-Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+Roland Helmut Vogel {BIO 16342285 <GO>}
 Good morning. And thank you, Uli. Maybe one short remark before I start. For those
 interested in analyzing our reserve situation in even more detail, we have published the
 P&C loss reserve triangles as of December 2017 on our website today.
@@ -274,10 +268,7 @@ FINAL
 I think this concludes my remarks. And as usual, I'll leave the target matrix and the outlook
 to you, Uli.
 
-Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+Ulrich Wallin {BIO 4863401 <GO>}
 Thank you, Roland. The target matrix reflects good performance of our business in the
 first half year, with almost all targets being reached. This is particularly gratifying as the
 first half year 2017 also had shown results which were largely in line with our targets.
@@ -383,10 +374,7 @@ FINAL
 Operator
 (Operator Instructions) And the first questions are from the line of Jonathan Urwin at UBS.
 
-Q - Jonathan Peter Phillip Urwin
-
-{BIO 6126952 <GO>}
-
+Q - Jonathan Peter Phillip Urwin {BIO 6126952 <GO>}
 Just 2 from me. So in life, what can we expect from the underlying performance
 improvement from these recaptures? I think they're a bit higher than we were thinking,
 certainly. Is the main impact just lower volatility going forward? So will we see higher
@@ -397,10 +385,7 @@ the ordinary dividend component will just make up a larger piece of the pie?
 
 Bloomberg Transcript
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well I mean, the recapture that we have seen are a little bit higher than expected, I must
 say. But it also shows that the problem area of our legacy U.S. mortality business, we are
 now able to come to a solution with -- on that. This clearly improves the earnings in 2019
@@ -418,24 +403,15 @@ we will, of course, have to wait until year-end when we have a clear picture of 
 the entire year. This is in line which -- with the way we normally look at our dividend
 payments.
 
-Q - Jonathan Peter Phillip Urwin
-
-{BIO 6126952 <GO>}
-
+Q - Jonathan Peter Phillip Urwin {BIO 6126952 <GO>}
 Just a quick follow-up on life -- on the life side. So you mentioned at the end of your
 prepared remarks that it was EUR 400 million is the current underlying view of life EBIT. Is
 that correct?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Yes. It's more than EUR 400 million.
 
-Q - Jonathan Peter Phillip Urwin
-
-{BIO 6126952 <GO>}
-
+Q - Jonathan Peter Phillip Urwin {BIO 6126952 <GO>}
 Page 8 of 19
 
 
@@ -446,9 +422,7 @@ Date: 2018-08-09
 
 More than EUR 400 million.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
+A - Ulrich Wallin {BIO 4863401 <GO>}
 
 FINAL
 
@@ -456,18 +430,13 @@ I mean, if you exclude the negative effects from the legacy mortality business i
 is actually currently. But I have to say that the first half year went quite well. It's quite a bit
 more than EUR 400 million.
 
-Q - Jonathan Peter Phillip Urwin
-
-{BIO 6126952 <GO>}
-
+Q - Jonathan Peter Phillip Urwin {BIO 6126952 <GO>}
 Quite a bit more, okay.
 
 Operator
 We are now over to the line of William Hawkins at KBW.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
@@ -481,10 +450,7 @@ the concentration risk between contracts, how that's spread? Then lastly just ve
 can you just indicate what is currently your binding constraint to any capital distribution
 decision you might make?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Thank you, William, for the questions. Yes. The guidance on the U.S. mortality, the
 guidance of more than EUR 1 billion is regardless of the losses from the legacy U.S.
 mortality business. What is the balancing item? I mean, we have continued to buffer on
@@ -497,15 +463,10 @@ However, I mean, it's, of course, only about 100, I mean, groups of ceding compa
 are factored here. And I would say, I mean, the conclusion on that we have seen up to
 now is around, I would say, 40% of the portfolio by net amount at risk. That should -might be a pretty good guidance. Then the last question, can you remind me?
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Binding constraints on capital distribution.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
+A - Ulrich Wallin {BIO 4863401 <GO>}
 
 Page 9 of 19
 
@@ -523,16 +484,10 @@ dividend in a given year but also concerned that we want to pay a constant divid
 regardless the volatility that, I mean, a reinsurance company may see because, I mean,
 we are in the risk-taking business, which can be quite volatile.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 So there's nothing to flag with regards to rating agencies criteria anywhere?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Not really. I mean, we have -- of course, there has been a tightening in the capital model
 of S&P. But they just had confirmed our AA; rating. We are still, I mean, in a comfortable
 situation there from our current, I mean, ratio according to their model but also due to the
@@ -543,10 +498,7 @@ Our next question's over the line of Kamran Hossain of RBC Capital Markets.
 
 Bloomberg Transcript
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Sorry to stick on this topic of life. But I guess, in relation to the recaptures, could you just
 talk us through the time line? Because the way I understand it, the notification period
 hasn't been -- I guess, price increase has gone through. It hasn't been a particularly long
@@ -556,10 +508,7 @@ of how long do people have to take any decisions relating to that? And the secon
 question, just on the U.S. legacy losses, could you just give us a number year-to-date? I'm
 not sure if I missed it early.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well you didn't miss that number because I didn't tell it. But I mean, the year-to-date
 number is around $40 million negative. But that is -- I mean, we expect it according to
 what we call the reboot assessment just to be more like $100 million. So I mean, we have
@@ -598,9 +547,7 @@ your question, does it?
 Operator
 Okay. We're now over to the line of Paris Hadjiantonis at CrÃ©dit Suisse.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 
 Bloomberg Transcript
 
@@ -616,10 +563,7 @@ above, which, to an extent, implies a lot of conservatism or maybe a large one-o
 Which of the 2 is it? And if you could actually give us your new money yield currently, that
 would also be helpful.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 I would leave the second question to Roland because he knows that much better than
 me. Regarding the $264 million recapture, that was not yet sufficient for the expected -- I
 mean, all other things being equal, for the expected about EUR 400 million of EBIT.
@@ -627,10 +571,7 @@ However, if we would have recaptured $500 million, then, of course, the majority
 business that is subject to rate increases would have been recaptured. That would, of
 course, then mean that the EUR 400 million should definitely be within reach.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 Okay. And with regards to the investment income, yes, you're right. The current
 achievement is remarkably above the guidance. But the guidance has at least 2.7%. When
 we go into the year, we usually look at the ordinary income and leave out the rest. We
@@ -660,8 +601,7 @@ FINAL
 
 Our next question is over the line of Vinit Malhotra at Mediobanca.
 
-Q - Vinit Malhotra
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 One on Life Re. One on P&C. On Life Re, one thing I'm curious is, is this -- I mean, is -- the
 very strong mortality on the legacy side. And you said it's half the result of what you would
 have expected and then how bad it is. So is it the right thing to do to cancel all these
@@ -675,14 +615,9 @@ in the reinsurance market, where pricing hasn't happened. But is -- are these st
 products actually consuming capital? And if not, then what do you plan to do with that EUR
 400 million on the balance sheet?
 
-A - Ulrich Wallin
-
 Bloomberg Transcript
 
-{BIO 16184491 <GO>}
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well on license held, of course, we were relatively pleased to see some better mortality
 on our U.S. life legacy. But first of all, that doesn't mean that the business has turned into
 profitable -- into profitability; and secondly, it's only 2 quarters. And I mean, it's a better
@@ -723,10 +658,7 @@ it's not quite as good as it should have been. But it's still all right, I would
 
 FINAL
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Can I follow up with you on this EUR 400 million? Because this is not the first time we've
 heard this number. I mean, there was a question, I think, in the full year results call when
 you had said that you can't be sure of EUR 400 million in '19. But maybe afterwards,
@@ -734,9 +666,7 @@ because '17 wasn't very good. I'm talking about Life Re EBIT. Could you clarify,
 said it should be over EUR 400 million, you did say not '19. But did you mean somewhere
 in '20 or some medium term or some later?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
+A - Ulrich Wallin {BIO 4863401 <GO>}
 
 Bloomberg Transcript
 
@@ -756,10 +686,7 @@ That's really not visible on the new underwriting years.
 Operator
 We now go to Sami Taipalus of Goldman Sachs.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 So my first question, just coming back to the Life & Health reinsurance business. It's really - it's only Solvency II impact from the sort of recaptures that you're doing? Then my
 second question is on IFRS 17. You commented about the change or potential change to
 the reserves. Could you just add a little bit more color there? I guess, we're moving from
@@ -767,16 +694,11 @@ a regime, which is a prudent-based regime without discounting to one where you'r
 going to have a best estimate or discounting best estimate liabilities with a risk
 adjustment. So how should we see that change playing out over the next couple of years?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well I didn't quite catch your first question on the recapture. What did you want to
 (inaudible)?
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
+Q - Sami Taipalus {BIO 17452234 <GO>}
 
 Page 13 of 19
 
@@ -791,35 +713,23 @@ numbers from these recaptures.
 
 FINAL
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 On the Solvency II numbers, it was -- on the Solvency II numbers, the impact is rather
 limited because the higher-than-expected mortality is, of course, in the technical -- in the
 Solvency II technical provisions because, on Solvency II, of course, we haven't got a lock-in.
 So the effects on solvency ratio will not be very large. And so I mean...
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 The sentiments you've been getting have been in line with sort of the assumptions that
 you have in your technical provisions at the moment?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Oh, yes, absolutely. And on IFRS 17, I would hand over to Roland because he's the expert
 in that.
 
 Bloomberg Transcript
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 Yes, Sami. I think to -- this is, of course, a hot topic. And we are all -- we are trying -- in the
 middle of doing our analysis of our first simulations and whatever. You mentioned that we
 are going from a prudent to a best estimate, which I don't see exactly because we are in
@@ -837,16 +747,10 @@ the unit of account. So there are lots of technicality -- technicalities to be s
 especially in practice. And again, we feel that what we do today makes a lot of sense. And
 if possible, we will try to maintain that.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 And I would say that IFRS 17, in the finer details, it's still a little bit a moving target.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 Yes.
 
 Operator
@@ -862,8 +766,7 @@ Date: 2018-08-09
 
 FINAL
 
-Q - Guilhem Horvath
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 The first question is on P&C re combined ratio. I'm a bit surprised to see the mix between
 the loss ratio and the expense ratio this quarter because usually when you write
 structured reinsurance, the loss ratio is higher and the expense ratio is substantially
@@ -875,14 +778,9 @@ confident that these issues and all the recapture process will be finished at th
 2018? Or is there any chance that you have further issues with this business going
 forward?
 
-A - Ulrich Wallin
-
 Bloomberg Transcript
 
-{BIO 18460437 <GO>}
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Yes. I mean, regarding the P&C combined ratio between -- the mix between loss ratio and
 expense ratio, I mean, on the fact that reinsurance business on some of the larger
 transactions, the loss ratio has actually come in better than expected due to the structure
@@ -907,10 +805,7 @@ that there will be some uncertainty. But the majority of the portfolio will be s
 Operator
 We now go to the line of Ivan Bokhmat at Barclays.
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 I've got a question on the reserving side. You mentioned that, that was all in line with
 expectations for the Second Quarter. I have a question, perhaps a bit broader in scope.
 For the structured reinsurance business that you write, is it the same reserving approach?
@@ -929,10 +824,7 @@ Date: 2018-08-09
 
 FINAL
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Okay. I would then take the question on the reserving approach on the structured
 reinsurance business. It's actually somewhat different to what we see in the P&C side. It's
 also relatively conservative because the way we account for the margins is that we defer
@@ -944,10 +836,7 @@ later. But of course, the overall amount of conservatism as percentage of the pr
 there is less because also the volatility of the results are significantly less. And on the
 earnout pattern, I would defer to you, Roland, because I think it's a really difficult question.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 Yes. Thank you. I must admit we haven't really analyzed that. The -- of course, if you grow
 remarkably, especially with proportional business at the beginning of the year, a lot of
 what you had underwritten and what you see as a gross premium written will be reserved
@@ -963,10 +852,7 @@ Bloomberg Transcript
 
 Our next question is over the line of Thomas Fossard at HSBC.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Two additional questions remaining on the life side. First one will be on what you've got at
 the present time in terms of reprice from your client base. Are you able to say how much
 of the amount at risk are coming as recapture, how much you believe actually clients will
@@ -977,20 +863,14 @@ The (100) clients, which have decided to recapture the business, how are you con
 that you can keep forward the new -- the commercial relation when it comes to securing
 new business on new treaties?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Yes. I mean, firstly on the mix between recapture and implementation and arbitration. Of
 course, we haven't got any notice of arbitration so far. From the notices we have got, I
 would say it's around a little bit more than 80% that have decided to recapture. And the
 remainder has implemented. It's really difficult to say how that will turn out. But I will give
 you a very precise answer on that at the end of the Third Quarter. The actual -- sorry.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 And the 80-20 is on 40%...
 Page 16 of 19
 
@@ -1000,25 +880,17 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2018-08-09
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Off the net amount of (IFRS).
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
+Q - Thomas Fossard {BIO 1941215 <GO>}
 
 FINAL
 
 Off the net amount of (IFRS). Okay. So you're still waiting for the 60% to come in the
 coming weeks?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 That's right. That's right. Then, I mean, the future commercial relationship, I mean, we still
 continue with those clients' future business, particularly on the financial solutions side.
 However, I mean, on the mortality solutions new business, we have changed our pricing
@@ -1029,10 +901,7 @@ like all of life business or universal life and business like that. So I mean, n
 production has been pretty strong. But due to the pricing actions that we took on the
 mortality solutions business, it's actually coming down. Does that answer the question?
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes.
 
 Bloomberg Transcript
@@ -1040,10 +909,7 @@ Bloomberg Transcript
 Operator
 Our next question is over to the line of Frank Kopfinger at Deutsche Bank.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 I have 2 questions. My first question is on the outlook for P&C reinsurance. Can you
 comment a little bit on your view on the market environment, especially as you're now
 entering into the next negotiations? Monte Carlo and Baden-Baden are upcoming. And
@@ -1055,10 +921,7 @@ put together your specialty insurance initiatives with HDI. Is there any impact 
 forward as you are obviously losing some business on the different -- within your
 financials?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 So as far as the P&C market outlook is concerned, considering that it's in the run-up to
 Monte Carlo, I'm not going to prejudice my underwriters. I'm, of course, very optimistic
 that we will see further increases. However, it's also fair to say that the market will
@@ -1097,20 +960,14 @@ Our next question is over the line of Andrew Ritchie at Autonomous.
 
 Bloomberg Transcript
 
-Q - Andrew James Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew James Ritchie {BIO 18731996 <GO>}
 I just have one question. On your slide on renewals, the intriguing sentence, which says
 casualty pricing is not fully reflecting the continued loss emergence, I mean, casualty -U.S. casualty has been an area where you've been trying to become more constructive. I
 think you expect it to grow. So what are you referring to? Are you basically suggesting that
 the pricing has been disappointing? Is the loss emergence on auto-related lines? Or is it
 other lines?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well I mean, where we are growing on our casualty business, it's more with our mediumsized clients and it's more like standard business, like standard GL, lead umbrellas on SME
 type business. So it's not the large account U.S. casualty. I mean, where we are concerned
 and where we feel it's not fully reflected in the pricing is the developing inflation and the
@@ -1140,10 +997,7 @@ triggered the change.
 
 FINAL
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Yes. I mean, when it comes to -- we did -- we are not an IFRS. We haven't gotten a
 disposal gain on the sale of Inter Hannover. The reason is that, I mean, we keep a good
 part of the profit stream of that business through reinsurance. And Inter Hannover has
@@ -1159,9 +1013,7 @@ Operator
 Okay. Gentlemen, at this stage, there seem to be no further questions in the queue. Can I
 please pass it back to you?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
+A - Ulrich Wallin {BIO 4863401 <GO>}
 
 Bloomberg Transcript
 

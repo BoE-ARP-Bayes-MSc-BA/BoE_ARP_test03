@@ -28,10 +28,7 @@ Oliver Steel, Analyst
 Ravi Tanna, Analyst
 
 Presentation
-Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+Nigel Wilson {BIO 1535703 <GO>}
 Good morning, everyone. Welcome to our 2016 half-year results. And indeed, welcomed
 by a photograph of Manchester; one of the cities we are helping to regenerate.
 For the UK to grow, it is essential that our great cities replicate the success of London.
@@ -115,10 +112,7 @@ We have a slightly different lineup today. As usual, I will be followed by Mark 
 However, Simon Gadd, our CRO; and Kerrigan Procter, our MD of LGR, will perform an
 entertaining and informative double act before again I sum up at the end. Mark?
 
-Mark Gregory
-
-{BIO 15486337 <GO>}
-
+Mark Gregory {BIO 15486337 <GO>}
 Thanks, Nigel. I too would like to add my thanks to our colleagues for all their hard work in
 delivering the results you see before you today. But also to express my sadness at the
 recent premature death of Gene Gilbertson.
@@ -404,10 +398,7 @@ As you'll be aware, there is an increasing trend amongst FTSE 100 companies to a
 similar formulaic approach to setting interim dividends.
 And with that, I'll hand over to Simon Gadd.
 
-Simon Gadd
-
-{BIO 17956222 <GO>}
-
+Simon Gadd {BIO 17956222 <GO>}
 Thank you, Mark. CROs and risk functions are paid to worry about the future to ensure we
 understand, manage and can tolerate the downsides for the risks we take.
 My remit covers the full range of financial, operational and conduct risks. I also worry about
@@ -521,10 +512,7 @@ that we have considerable inherent benefits from being long-term investors with 
 liquidity pressures.
 And with that, I'll hand over to Kerrigan.
 
-Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+Kerrigan Procter {BIO 15093363 <GO>}
 Thank you, Simon. Good morning. You've heard about LGR's financial results from Mark
 and about the Group's risk management framework from Simon. So I would like to talk
 about LGR's diversified sources of new business and the management of our back book.
@@ -630,10 +618,7 @@ we will be considering whether our longevity best estimate should extrapolate th
 variations into a longer-term trend.
 I'll now hand you back over to Nigel.
 
-Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+Nigel Wilson {BIO 1535703 <GO>}
 Thank you, Kerrigan. Now, returning to our theme of growth. This slide shows example of
 our investment in the UK; in Cardiff, Manchester, Bracknell and Newcastle.
 
@@ -739,9 +724,7 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2016-08-09
 
-Q - Andy Sinclair
-
-{BIO 17749036 <GO>}
+Q - Andy Sinclair {BIO 17749036 <GO>}
 
 FINAL
 
@@ -756,10 +739,7 @@ And thirdly, on Solvency II versus the cash flow disclosure. Operating cash gene
 GBP655 million. I just wanted to reconcile that against the GBP0.5 billion release under
 Solvency II and economic capital, if you could. Thanks.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Remember, we've got lots of other businesses which are not in our Solvency II. So on the
 management actions, I'll ask Mark to pick that up; and the managing longevity, Kerrigan;
 and on Solvency II, go back to Mark.
@@ -771,10 +751,7 @@ some of your questions to them.
 In management actions, I've been slightly disappointed. I think Mark could have done a
 much better job in the first half of the year .
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Yes. You're quite right. So of the GBP0.5 billion, pretty much all of that was down to
 management actions in the first half.
 So we've got plenty more things in the hopper. Some we can do ourselves and these
@@ -804,10 +781,7 @@ steady state in terms of the total S2 model in the round.
 
 FINAL
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 I think on the longevity one it depends. There's clearly some details in that figure, the
 10.2% is made up of the Aegon business, where we didn't reinsure the longevity risk; Got
 a bit of individual annuity business in there that we didn't; And the pension risk transfer
@@ -819,9 +793,7 @@ future half-years.
 So a little difficult to really be precise at this moment; it depends on the price of longevity
 risk.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
+A - Mark Gregory {BIO 15486337 <GO>}
 
 Bloomberg Transcript
 
@@ -838,10 +810,7 @@ over. So we will get the GBP9 billion back in due course. But it will take a num
 to get there. So it's quite hard to do an exact side-by-side comparison because they
 behave in quite different ways.
 
-Q - Ravi Tanna
-
-{BIO 16926941 <GO>}
-
+Q - Ravi Tanna {BIO 16926941 <GO>}
 Ravi Tanna, Goldman Sachs. I've three questions please. The first one was on your cash
 guidance of 5%. I was just wondering what assumption is embedded for LGC returns in
 order to reach that 5%.
@@ -862,18 +831,13 @@ Then third one was on asset allocation. And I was just looking for broader thoug
 around the Bank of England's term funding scheme and any implications that might have
 for corporate bond markets and your portfolio.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
+A - Nigel Wilson {BIO 1535703 <GO>}
 
 FINAL
 
 Again, Mark, do you want to take the first two; and Kerrigan can take the third one?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Yes. So on the cash guidance, particularly for LGC. The way we bring LGC op cash in, is
 actually, we use literally each month-end asset portfolio that we have in LGC. For each
 asset class, we have a projected return for that month. And we rebalance it based on the
@@ -887,17 +851,11 @@ So for each asset category we have a different assumption, not particularly racy
 
 Bloomberg Transcript
 
-Q - Ravi Tanna
-
-{BIO 16926941 <GO>}
-
+Q - Ravi Tanna {BIO 16926941 <GO>}
 I was just wondering, the 5%, is it predicated on keeping the same quantum in cash for
 the second half of the year, is another way of asking?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Very broadly. We've still got some plans. But clearly we're now into August, we haven't
 invested it yet. So there's a practical limit how much you can get invested in the time.
 But certainly over time, we'd expect that money to -- offset more of that money to get
@@ -920,9 +878,7 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2016-08-09
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
+A - Kerrigan Procter {BIO 15093363 <GO>}
 
 FINAL
 
@@ -942,19 +898,14 @@ So those are the sorts of things that we're thinking about. Those are the flexib
 we have and the strengths that we have to develop our asset allocation with both the
 corporate bond purchase program as part of QE and the term funding.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
+A - Nigel Wilson {BIO 1535703 <GO>}
 
 Bloomberg Transcript
 
 Mark, do you want to add anything in terms of what we're seeing from clients and their
 views on asset allocation across the world at the moment?
 
-A - Mark Zinkula
-
-{BIO 16142450 <GO>}
-
+A - Mark Zinkula {BIO 16142450 <GO>}
 Yes, certainly. So I think it would be -- because what we had was mostly pension assets,
 our themes would be similar to what we're doing in our balance sheet. Because the next
 evolution of LDI, if you will, is now that the hedging strategies are being implemented to
@@ -965,10 +916,7 @@ And even post the referendum, we're still seeing demand as well from external cl
 well for illiquid assets. So I think the weakness of the currency has certainly probably been
 part of that. So again, it would be very similar to what we're doing on our balance sheet.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 And one of our keen themes is to stop Mr. Stanworth hoarding his GBP2.3 billion of money
 and actually get spending it on sensible things.
 Can we go down here and then go across to Andrew and then come back to -- I'm trying
@@ -982,9 +930,7 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2016-08-09
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
+Q - Gordon Aitken {BIO 3846728 <GO>}
 
 FINAL
 
@@ -996,10 +942,7 @@ And also, any change in strain? So that's really a question about pricing post-B
 And you talked about quite substantial pipelines in both buy-ins and longevity swaps.
 What proportion of those typically do you execute on?
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 On the general point on Standard Life, I did give Keith a cheeky call but he said that he
 was holding fire for this morning and it wasn't worth actually getting together. So he's
 confirming what his private call said to me.
@@ -1009,10 +952,7 @@ want to add something?
 
 Bloomberg Transcript
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Yes, just some thoughts there. More broadly, the change in attitude. I think about the
 GBP2.1 trillion of liabilities, it's such a huge figure, it's difficult to get your head around. We
 think that is a two to three decade opportunity and post the EU referendum, it's still a two
@@ -1059,32 +999,20 @@ sooner or later, they will transact I'm sure. But it could be in that GBP13 bill
 few months to a small number of years and then, of course, other people will come in and
 change that pipeline as we look and so that'd be nearer term in terms of transactions.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 So if you took three percentages, 10%, 50% or 90%, you would say 50% was probably
 the better of those three estimates?
 
 Bloomberg Transcript
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Yes. If you're looking over the next year, I think 50% would be the better.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Yes, yes. Is there anything you want to add, Paul, on the availability of direct investments
 and the infrastructure demand we're seeing across the UK?
 
-A - Paul Stanworth
-
-{BIO 15495409 <GO>}
-
+A - Paul Stanworth {BIO 15495409 <GO>}
 Sure. I think in terms of direct investment portfolio, we've still got a huge pipeline that
 we're working with the UK Government on for regeneration investment offers. They have
 a pipeline of over GBP100 billion that the UK Government is seeking to invest in over the
@@ -1114,18 +1042,12 @@ FINAL
 So I think we're still comfortable with our strategy and we still see a huge pipeline that is
 relevant to L&G.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Yes, I think we're very encouraged by the progress that we're making in the build-to-rent
 sector and Bernie's sandbagging his targets for the year yet again at GBP500 million for
 lifetime mortgages and I'll be really disappointed if it isn't higher by the year-end. Andrew.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Andrew Crean, Autonomous. Three questions. Mark, could you finish off the answer to the
 question about the long-term returns you're assuming in LGC? Overall, I think it was 5.3%
 last year so that's what we're after.
@@ -1143,19 +1065,13 @@ transitionals? And secondly, if for instance your coverage ratio is to fall to a
 because of low interest rates which are not economic, how would that reflect on your
 dividend policy?
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Some really good questions. I was expecting those of Andy, actually, he's busy reshuffling.
 On the last question there, if Simon answers that one because he will give you a better
 perspective from the risk point of view and, Mark, do you want to take -- either you or
 Kerrigan take the mixture between you.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Yes. I got them all. So just on the first one around the LGC long-term assumptions, in
 reality, a blended number doesn't really tell the whole truth, Andrew. We do break it down
 by asset class.
@@ -1173,18 +1089,13 @@ I'm actually (to back solve) the math to work out what it is. But it will be sli
 based on the fact we do hold more cash. We haven't fundamentally changed many of the
 other medium-term expected --
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
+Q - Andrew Crean {BIO 16513202 <GO>}
 
 FINAL
 
 Numbers?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 I don't think I've worked it out, actually. We can certainly work it out. But it is -- we haven't
 changed the basis. We simply said that actually, given our actual split of assets within that,
 we've just taken it by asset class, the expected return. And that's what drives the blended
@@ -1208,16 +1119,10 @@ with lower rates but so has the recalculated transitional.
 So the pain of interest rates is all coming through the SCR calculation, not the transitional
 and the risk margin which sits within the technical provisions.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Kerrigan, do you want to talk about the profitability, pre and post longevity insurance?
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Yes. Yes, I think that, as I said, it's early days yet for Solvency II and I think as we've said
 many times, it somewhat depends on the price of the longevity risk that you get.
 I'm not going to precisely answer your question. But just in terms of some of the dynamics
@@ -1241,16 +1146,10 @@ terms of SCR and risk margin uses, of which how much strain you get obviously th
 depends on how much premium you get in from the client. And those are the sorts of
 variables that we're thinking about in terms of that new business.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Simon, do you want to pick up on the bits that you got left out of ?
 
-A - Simon Gadd
-
-{BIO 17956222 <GO>}
-
+A - Simon Gadd {BIO 17956222 <GO>}
 Just to follow up on the question around rates. It is a bit of a complicated subject I'm
 afraid. If you think about it as asset and liability matching, we're trying to get the interest
 rate sensitivity of assets to match the interest rate sensitivity of our liabilities. We've only
@@ -1270,17 +1169,11 @@ change that view but clearly it's nowhere near that at this point in time.
 So you can only really balance the rate sensitivity of one of your balance sheets, your
 profits or your Solvency II; we've chosen the profits.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 I think the 140% was an illustrative number. It's by no means the target. Under the scenario
 you described, that would have no change whatsoever on our dividend policy. Andy?
 
-Q - Andy Hughes
-
-{BIO 1540569 <GO>}
-
+Q - Andy Hughes {BIO 1540569 <GO>}
 Andy Hughes, Macquarie. Three questions if I could. The first one is about slide 19. This is
 my best guess as to why the stock price is not doing too well today. So obviously, you're
 showing GBP500 million of operational cash generation, zero from new business and
@@ -1311,10 +1204,7 @@ And on the third, it's a small question. I think Mark said the property portfoli
 sensitive to market value movements. But is sensitive to other assumptions. Could we
 have some sensitivity regarding those assumptions, please? Thanks.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Okay. Right. So on the op cash generation, they would say, Andy, clearly it's rounded to
 the nearest GBP100 million. So like all these things, they are big numbers.
 
@@ -1331,10 +1221,7 @@ funds in to match the SCR. So that does impact the coverage ratio. But in pure s
 terms, we've written new business on terms which pretty much mean we're getting our
 SCR funded by third parties, either retail customers or by pension scheme trustees.
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Do you want me to say a few words on the longevity? Well I think you have probably a lot
 of the facts in that we had -- as we know, mortality is very highly seasonal. So on the cold,
 dark, winter months, you get a big spike up in mortality and it falls away in the summer
@@ -1359,38 +1246,23 @@ going through in the second half of this year and is in full flight.
 
 FINAL
 
-Q - Andy Hughes
-
-{BIO 1540569 <GO>}
-
+Q - Andy Hughes {BIO 1540569 <GO>}
 (inaudible; microphone inaccessible).
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Yes. We'll talk about that at the year-end; we're not going to talk about it now. You've
 made your own estimates in your naught, Andy. So -- but we won't comment on that until
 we've actually completed all of the work and talk about that in March of next year.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Shall I pick up the property value one?
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Yes.
 
 Bloomberg Transcript
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Okay. So just on the property value, actually there is some disclosure in the pack. So if you
 look at page 50, we've given some plausible upside and downside valuations for the
 property portfolio.
@@ -1403,22 +1275,13 @@ So when you're looking at the L&G, our property valuation, you can kind of scale
 the fact of what the capital value we're actually exposed to is somewhat less than simply
 taking a proportion of the total value.
 
-Q - Andy Hughes
-
-{BIO 1540569 <GO>}
-
+Q - Andy Hughes {BIO 1540569 <GO>}
 (Inaudible; microphone inaccessible)?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Yes. We've given that disclosure, haven't we?
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Yes.
 
 Page 26 of 35
@@ -1429,9 +1292,7 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2016-08-09
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
+Q - Jon Hocking {BIO 2163183 <GO>}
 
 FINAL
 
@@ -1450,19 +1311,14 @@ that you're hedging the profit rather than the Solvency II capital, given that y
 cover from the annuity block is basically driven by the Solvency II rather than IFRS.
 Have you hedged the risk margin at all, the downside risk there, on that basis? Thank you.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
+A - Nigel Wilson {BIO 1535703 <GO>}
 
 Bloomberg Transcript
 
 Okay. Do you want to take the last question on the risk margin as well, Simon, since you're
 our hedging guru today. And well, are you taking both or shall we bring Kerrigan?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 So just to give a bit of color to the protection result. So at year-end, I did make the point
 we had changed the shape, particularly in respect of reinsurance modeling. So as you
 know, for a lot of our protection business, pretty much all of it, we reinsure the mortality
@@ -1480,9 +1336,7 @@ There's a lot of bits and bobs in there, the loss of the I minus E tax regime, t
 GBP million; and some other bits and bobs in there. But at its core, that's the main
 component of the lower protection back-book release.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
+A - Nigel Wilson {BIO 1535703 <GO>}
 Page 27 of 35
 
 
@@ -1496,10 +1350,7 @@ movements. And how we manage an interface between LGR and LGIM?
 
 FINAL
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Yes. Well look, I can kick off with the investment mandates just in itself. There is no
 automatic requirement to sell on a downgrade. We have no expectation of buying subinvestment grade assets, of course. And when they're grounded, there's a cure period or
 kind of a cure explain period, just as you find in most investment mandates.
@@ -1512,25 +1363,17 @@ every day come in and work on that portfolio, to mitigate that risk, which I thi
 key part of how we run the portfolio.
 On the capital figures, I'm not sure of the --
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
+A - Mark Gregory {BIO 15486337 <GO>}
 
 Bloomberg Transcript
 
 That's the way we've done it.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Do you want to have a go at this, because obviously, you failed the last time. So another
 go on it.
 
-A - Simon Gadd
-
-{BIO 17956222 <GO>}
-
+A - Simon Gadd {BIO 17956222 <GO>}
 Yes, okay. Referring to the quickest answer . So the short answer is no, we don't pay out
 the rate on our risk margin . The long answer is because that would make it even more
 different to our IFRS position. So you'd add it even -- the risk margin is very long duration,
@@ -1541,16 +1384,10 @@ And by the way, the PRA blessed for us and the whole of industry, a recalculatio
 transitional, because of the mid-movement in the impact of the risk margin of the rates
 fall during the first half of the year.
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 Oliver Steel, Deutsche Bank.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Page 28 of 35
 
 
@@ -1562,24 +1399,16 @@ Date: 2016-08-09
 We'll take three more questions. There's two and there's one other question, if anybody
 else. And Alan. So one, two, three. Okay?
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
+Q - Oliver Steel {BIO 6068696 <GO>}
 
 FINAL
 
 I'll ask three, then.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 And everyone's asked three questions so far, you could ask two or four to be different.
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 To follow-up Jon's question on the protection operational cash flow. It's down 30%. You're
 saying half of that is down to reserve changes. The I minus E, I think is GBP7 million in a full
 year, which is diddly-squat.
@@ -1597,10 +1426,7 @@ will that change when you look at the data in the second half of the year?
 Then third one, nice easy question. You've closed Kingswood. I think I also saw some
 other restructuring costs. What sort of extra cost savings do you expect from those?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Yes. Sound like all mine, don't they? Okay. So the rest of the color on the protection
 operational cash generation. So, as I say, roughly half comes from the change to the
 mortality reinsurance.
@@ -1661,10 +1487,7 @@ I wouldn't say there's been a fundamental change in the way we think about the q
 and shape of prudence in the annuity back book. Some of the annuity asset is not the very
 best proxy for the level of prudence in that back book.
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 (Inaudible; microphone inaccessible).
 
 Page 30 of 35
@@ -1675,9 +1498,7 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2016-08-09
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
+A - Nigel Wilson {BIO 1535703 <GO>}
 
 FINAL
 
@@ -1686,10 +1507,7 @@ There's an ongoing program. Kingswood's not closed yet. That's the costs of clos
 Kingswood, all brought forward, or pretty much all brought forward, to today. There may
 be other costs as we go through the process. But that's our estimate as of today.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Ashik Musaddi, JPMorgan. Just couple of questions. One is why is IFRS more important
 than Solvency II? And if IFRS is important, what measure, cash, operating profit, net
 earnings, what is relevant. And why, basically? So -- because I don't know if I have heard
@@ -1702,18 +1520,13 @@ And thirdly, your savings profit was down a bit, 20%, 25%. What is driving that.
 good run rate to assume going forward? Because your mature book is running down. And
 your new business is still Cofunds, I don't know what the profit there is. Thank you.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
+A - Nigel Wilson {BIO 1535703 <GO>}
 
 Bloomberg Transcript
 
 Do you want to pick up on the longevity thing, Kerrigan, to start with?
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Yes. That one's probably reasonably straightforward to explain. We're not accumulating
 much of that risk on our balance sheet. So we've changed the names of the business. It's
 pension risk transfer, it's about helping clients define benefit pension schemes, remove
@@ -1726,10 +1539,7 @@ we reel them in and then they may do further transactions down the line. But we 
 an important service to give our clients to intermediate in those deals and then find a
 dozen or more reinsurers around the market.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 I think on the Solvency II, I thought Simon gave a very clear answer to that. We have made
 a decision and that's what we're going to do, we're articulating it clearly. It may not be
 what other people are doing and that's fine. We've made our decision and we'll continue
@@ -1754,10 +1564,7 @@ We're not trying to develop real expertise in hedging something that we think is
 theoretical, uneconomic and will disappear. So that's the reason for that.
 And do you want to do the last?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Yes, just on the savings profit. Clearly, the mature book is in decline, I would say the rate
 of decline 2015, we still had a reasonable level of things like endowment maturities with
 associated terminal bonus and clearly, shareholders get one-ninth of that and then clearly,
@@ -1765,18 +1572,12 @@ that level of maturity profile is evened out now.
 So yes, it will still decline. But actually, probably more steadily over a period and clearly, we
 want the platform business then to step up and fill the void.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Alan, the last question.
 
 Bloomberg Transcript
 
-Q - Alan Devlin
-
-{BIO 5936254 <GO>}
-
+Q - Alan Devlin {BIO 5936254 <GO>}
 Alan Devlin, Barclays. A couple of questions. First on bulk annuities, I wonder if you could
 talk about the relative attractiveness of the US versus UK versus Europe. It does seem to
 be a little more positive on the UK this time?
@@ -1785,24 +1586,15 @@ loss. When do you think that could actually turn into profitability and start to
 Then just finally, any thoughts on M&A? You've been reasonably quiet of late. And what
 your thoughts are on that. Thanks.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Mark, do you want to go first why the dismal performance in Workplace savings, you've
 continued it in the first half of this year and why you haven't pulled your socks mate ?
 
-A - Mark Zinkula
-
-{BIO 16142450 <GO>}
-
+A - Mark Zinkula {BIO 16142450 <GO>}
 Yes. Absolutely . Okay. And there are different ways that people calculate performance in
 the Workplace businesses.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 He's not going to tell you that he got stuffed on internal costs. But -Page 32 of 35
 
 
@@ -1811,24 +1603,16 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2016-08-09
 
-A - Mark Zinkula
-
-{BIO 16142450 <GO>}
-
+A - Mark Zinkula {BIO 16142450 <GO>}
 Thank you for mentioning that though, it would have sounded offensive if I'd said it.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
+A - Nigel Wilson {BIO 1535703 <GO>}
 
 FINAL
 
 Jackie Knowles out-negotiated him .
 
-A - Mark Zinkula
-
-{BIO 16142450 <GO>}
-
+A - Mark Zinkula {BIO 16142450 <GO>}
 No but Workplace, that does only reflect the administrative aspect of the business. So
 when you look at it in a vertically integrated basis, it's very profitable. It's clearly profitable
 when you look at the asset management revenue and profitability that's attached to that
@@ -1846,10 +1630,7 @@ profitability short term on just building out the administrative platform; have 
 on a long-term basis, on a fully vertically integrated basis including the asset management
 profitability.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 I think our challenge is that we managed to make the LGR platform and the LDI platform
 completely homogenous globally and so we've seamlessly moved into other markets.
 We've done the DC business in America. But we haven't yet got what I'd describe as a
@@ -1858,23 +1639,15 @@ going on these jollies to various countries and coming back telling me how great
 market is and if only we had the proper platform business, we could get a huge amount
 of business in these .
 
-A - Mark Zinkula
-
-{BIO 16142450 <GO>}
-
+A - Mark Zinkula {BIO 16142450 <GO>}
 Really quick though. And it doesn't include our investment only platform which we only set
 up a couple of years ago over here, which is very rapidly accumulating assets will continue
 to and is
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 About GBP30 billion?
 
-A - Mark Zinkula
-
-{BIO 16142450 <GO>}
+A - Mark Zinkula {BIO 16142450 <GO>}
 
 Page 33 of 35
 
@@ -1889,26 +1662,17 @@ with some legacy issues.
 
 FINAL
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Yes, I think that's a very important point, you only see half of it, one-third of it, in fact, is in
 the Workplace; the rest of it is on the investment only platform which is actually twice the
 size of the Workplace savings one. But given your historic background, we've always
 produced the information on the Workplace savings platform.
 Is that all your questions answered, or?
 
-Q - Alan Devlin
-
-{BIO 5936254 <GO>}
-
+Q - Alan Devlin {BIO 5936254 <GO>}
 No. We haven't done the BPA?
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Absolutely, still remain enthused on the US annuity market. We're busy quoting on several
 billion dollars of deals out there of course, unlike the UK we probably don't see all the
 deals in the US as we do in the UK yet.
@@ -1920,10 +1684,7 @@ clients still looking to transact. We can price well on the longevity side asset
 administer deals now. So we're confident to spend quite a lot of time out there with the
 team and remain very enthusiastic about that market. Yes, probably leave it there.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 On M&A, we're still looking at bolt-on acquisitions. That's very much the theme of the
 business rather than transformational deals. There's nothing that I would say was
 imminent at this moment in time but several of the investment banks who are
