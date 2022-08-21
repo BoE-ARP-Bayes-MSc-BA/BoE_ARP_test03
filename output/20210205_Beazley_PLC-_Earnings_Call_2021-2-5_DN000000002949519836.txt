@@ -29,10 +29,7 @@ December 2020. My name is Adam, and I'll be the operator for this call. (Operato
 Instructions)
 I will now hand you over to Andrew Horton to begin. So Andrew, please go ahead.
 
-Andrew Horton
-
-{BIO 5697110 <GO>}
-
+Andrew Horton {BIO 5697110 <GO>}
 Thank you very much, and welcome, everybody, through our results presentation. If we
 just move briefly, quickly through the disclaimer. We hit the contents of what we're going
 to present this morning. So I'm going to give you an overview. Then I'm going to talk
@@ -186,10 +183,7 @@ I'll now hand over to Adrian, who will take us through the COVID-19 third-party 
 
 Bloomberg Transcript
 
-Adrian Cox
-
-{BIO 16257010 <GO>}
-
+Adrian Cox {BIO 16257010 <GO>}
 Andrew, good morning. I'm Andrew Cox, the Chief Underwriting Officer for Beazley. So as
 some of you may remember this time last year, we did quite a lot of work thinking through
 that sorts of liability claims and exposures we could expect from COVID and the
@@ -244,10 +238,7 @@ Bloomberg Transcript
 
 And with that, I'll pass over to Sally to take us through the financials.
 
-Sally Lake
-
-{BIO 20925273 <GO>}
-
+Sally Lake {BIO 20925273 <GO>}
 Thanks very much, Adrian. Good morning, everyone. My name is Sally Lake, and I'm the
 Beazley Finance Director. I want to take you through three areas before passing back to
 Adrian to tell you more about the business. I'm going to cover investments, reserves and
@@ -398,10 +389,7 @@ FINAL
 
 And with that said, I'll pass over to Adrian to talk about the business.
 
-Adrian Cox
-
-{BIO 16257010 <GO>}
-
+Adrian Cox {BIO 16257010 <GO>}
 Sally? Okay. So as we enter 2020, as Andrew mentioned at the beginning, we will sort of
 moderately optimistic that the market was moving in the right way having really opened
 up and confessed in 2019 about the profitability issues across a number of different areas.
@@ -554,10 +542,7 @@ Date: 2021-02-05
 
 FINAL
 
-Andrew Horton
-
-{BIO 5697110 <GO>}
-
+Andrew Horton {BIO 5697110 <GO>}
 Thanks, Adrian. So let's get the crystal ball out and look at what's going to happen in 2021.
 Of course, the crystal ball last year was generally pretty accurate other than one major
 thing that it missed. So let's look at 2021. We feel we have an exciting outlook, as we
@@ -580,10 +565,7 @@ Bloomberg Transcript
 Thank you. (Operator Instructions) Our first question today comes from Kamran Hossain
 from RBC. Kamran, your line is now open. Please go ahead.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi, good morning, everyone. Good morning, Andrew, Sally, Adrian. So the first question is
 on capital. I guess looking at the numbers, whilst it wasn't as bad as most people had
 assumed, you still made a second half loss. Can you maybe walk through how you got
@@ -596,21 +578,13 @@ Firstly, does that include COVID at $50 million that you've talked about? And wh
 really start to see the mid-teens rate improvements impacting this ratio? Is that 2022 or
 beyond? Thank you.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Do you want to start on the capital one?
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Hi, Kamran. I hope --
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Page 11 of 25
 
 
@@ -623,10 +597,7 @@ Hi, Sally.
 
 FINAL
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 I got some points, so I'll do my best. So what's happened in the second half of the year?
 So clearly everyone was aware of the further increase on the COVID losses. But also,
 depending on what happens in the profits, expectations versus actual that will move it as
@@ -655,19 +626,13 @@ renew annually, but it's very rare that we do things in a one-year basis, but it
 that we'll continue to monitor over time.
 Adrian, I don't know if you want to add anything to that one.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Yeah. Some of our reinsurance is on a rolling two-year basis and some of them are annual,
 but we don't tend to do things staccato. And that's one of the reasons why we have a
 close bunch of reinsurers that work with us for a very long time. So we'll be able to use
 that, I think as long as we need to.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 I also think we're quite careful about the reinsurance and thoughtful on the reinsurance
 because the two lines of business where we've added more reinsurance are mainly on
 the liability side, and they are more capital intensive and they can be more volatile. Now
@@ -702,10 +667,7 @@ years. So you're probably start seeing the rate increases of '19 and '20 coming 
 three years down the track on the medium-tail book as opposed to straight away, when
 we'll have a great idea of where the loss costs are going.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Thank you so much. See you at the half year results. Thank you so much.
 
 Operator
@@ -715,10 +677,7 @@ Bloomberg Transcript
 Our next question is from Andrew Ritchie of Autonomous. Andrew, your line is now open.
 Please go ahead.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi, there. Good to see you all. Couple of questions. First of all, you've referenced several
 times in the reserve disclosure to the benefit from aggregates reinsurance on some of
 the years. I think it's on cyber and specialty where you've increased loss picks on some
@@ -750,10 +709,7 @@ difference likely between growth and net growth in '21?
 
 FINAL
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 So I'm going to -- just on the realistic disaster scenarios. In very straightforward terms,
 Andrew, obviously our realistic disaster scenario for the pandemic was not as extreme as
 what's actually happened. But not surprisingly, one of the lessons learned from that as we
@@ -770,10 +726,7 @@ at the end.
 
 Bloomberg Transcript
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Okay. I'll do what I want, and then Adrian will do the rest. That's always -- that's what I
 apply most day. So on the capital, it's a really good point underwrite and I didn't mention
 that in my voice over. So just to get everyone up to speed. So at Lloyd's, you don't have
@@ -816,10 +769,7 @@ margin in the early -- the immature years as well. And we're recovering at the m
 but then we'll have to see how that margin comes out over time. But Adrian, you're the
 expert.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 I guess, right. Sally, we bought some sort of aggregate protection on the long tail
 business since 2011, and we've generally brought it in three-year chunks. And so it's been
 a consistent part of our strategy. There is plenty of limit left. We buy in percentage terms,
@@ -847,20 +797,14 @@ has done historically. And that is in direct response to the fact that most of t
 a PML for contingency, which proved to be wrong. We might have learned a bit more
 about that if which stress them before and that's what we're doing from now on.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay, thank you.
 
 Operator
 Our next question comes from Emanuele Musio of Morgan Stanley. Emanuele, your line is
 now open.
 
-Q - Emanuele Musio
-
-{BIO 19781440 <GO>}
-
+Q - Emanuele Musio {BIO 19781440 <GO>}
 Page 15 of 25
 
 
@@ -880,21 +824,13 @@ And also a question of reserves. What kind of assumptions have you made in relat
 casualty trends. And I mean do you see material risk potentially emerging from litigation
 on the back of COVID-19. Thanks.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Do I start, Andrew?
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Yeah, sure.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
+A - Sally Lake {BIO 20925273 <GO>}
 
 Bloomberg Transcript
 
@@ -921,9 +857,7 @@ the half year, we have our margin, we have this aggregate excess of loss insuran
 well on the books that take a while for the claims to really show themselves. But again,
 Adrian, do you want to add?
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
+A - Adrian Cox {BIO 16257010 <GO>}
 
 Page 16 of 25
 
@@ -946,10 +880,7 @@ not a bit more, that it was at the end of 2019. And of course, that was the big 
 changed. The only thing that has changed is, what we can do about it, right. And we're
 able to price for it, underwrite for it, in a way that we weren't as much a year ago.
 
-Q - Emanuele Musio
-
-{BIO 19781440 <GO>}
-
+Q - Emanuele Musio {BIO 19781440 <GO>}
 Okay, thank you.
 
 Operator
@@ -957,10 +888,7 @@ Our question is from Iain Pearce of Credit Suisse. Iain, your line is now open.
 
 Bloomberg Transcript
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 Hi, thanks for taking my questions. The first one was just on cyber. There seems to be
 quite a notable step change in the level of rate increases you're getting in Q4. So I'm just
 wondering, if you could talk a little bit about what's going on in that market more from a
@@ -974,10 +902,7 @@ And then just a second quite quick one on the dividend. When you talk about the 
 resumption, is how we should be thinking about a resumption in line with where it was
 before it was suspended?
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Let me pick up on the dividend. The dividend has got to be dependent on where we
 actually are at the half year. So let's see where we are at the half year. And then
 commitment is, It's a great financial discipline, and we've always have this financial
@@ -987,10 +912,7 @@ But we have to see where we are at the half year before we can be definitive of 
 where we're going to be.
 Adrian, over to you on your view of cyber landscape.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Page 17 of 25
 
 
@@ -1027,20 +949,14 @@ risk managing our client starts to result in the number of ransomware attacks co
 down because that's evidence that our re-underwriting and our strategy is working. And
 that's as important as the rate changes that we're getting.
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 That's great. Thank you.
 
 Operator
 Our next question is from Darius Satkauskas from KBW. Darius, your line is now open.
 Please go ahead.
 
-Q - Darius Satkauskas
-
-{BIO 19724328 <GO>}
-
+Q - Darius Satkauskas {BIO 19724328 <GO>}
 Good morning. Thank you for taking my questions. Another question on capital please. At
 the end of your press release, you discussed that the capital surplus is currently $476
 million or 23%. I guess I'm interested to hear how you think about the surplus target
@@ -1063,10 +979,7 @@ Date: 2021-02-05
 
 FINAL
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Yes. So let me pick up on the capital. I mean the target range we set, well, I don't want to
 go into the whole history of it, we used to have a target range of 10% prior to the
 Solvency II target range, because we thought it was a sensible thing to have a capital
@@ -1086,10 +999,7 @@ Second question was on reserves. Is that right, Sally, for 2021?
 
 Bloomberg Transcript
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Yeah. So I think the question, if I've got it right, Darius, is that you're saying the low 90s,
 how do you get there? And so obviously, people know as we generally open and open
 consistently and then have reserve releases. And in my head how big this reserve
@@ -1108,17 +1018,11 @@ think it takes to really get a good feel for the year and then start to think ab
 that margin. And so hopefully I've answered your question. That it's not really relevant for
 the next 12 months, the more recent years.
 
-Q - Darius Satkauskas
-
-{BIO 19724328 <GO>}
-
+Q - Darius Satkauskas {BIO 19724328 <GO>}
 Thank you. Can I just take on that? What -- so should we be thinking that you're not going
 to be rebuilding the reserve buffer on the back of kind of 10% reserve releases?
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Rebuilding the reserve buffer? I didn't quite catch --
 
 Page 19 of 25
@@ -1129,18 +1033,12 @@ Company N ame: Beaz ley PL C
 Company Ticker: BEZ L N Equity
 Date: 2021-02-05
 
-Q - Darius Satkauskas
-
-{BIO 19724328 <GO>}
-
+Q - Darius Satkauskas {BIO 19724328 <GO>}
 Yeah. How should we think --
 
 FINAL
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Okay. I always say in reserving. Where the reserve buffer is, we're fine with. We do our
 reserving. We compare. If it's 5% to 10% we're fine. It varies year-on-year. I mean in -- and
 6.3%, it's fine. It's where we've been in similar prices in the past. And so we haven't
@@ -1153,10 +1051,7 @@ we're happy where we are.
 
 Bloomberg Transcript
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Yeah. So the reserve buffer is -- the reserve strength is an output of a very in-depth
 process looking at all of our individual lines in all of our underwriting areas, it's not
 something that we're trying to back calculate for. So the reserve buffer at 6.3%, we're
@@ -1172,25 +1067,16 @@ reinsurance can operate in certain lines and we've had a further drag back this 
 we had in previous years, because had a number of different events this year. We haven't
 had a COVID-19 style event before, fortunately.
 
-Q - Darius Satkauskas
-
-{BIO 19724328 <GO>}
-
+Q - Darius Satkauskas {BIO 19724328 <GO>}
 Thank you.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Great, thanks.
 
 Operator
 Our next question is from Ivan Bokhmat from Barclays. Ivan, your line is now open.
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 Hi, good morning. Thank you very much. The first question would be on cyber. I just would
 like to understand a little bit what kind of assumptions do go into your cyber aspirations
 for 2021, whether you intend to grow exposure, or it's mostly about the rate development
@@ -1215,9 +1101,7 @@ capital raise to possibly grow exposure at more than, let's say single-digits, t
 seem to be implied into this growth number. And perhaps I'm wrong, please correct me.
 Thank you.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
+A - Andrew Horton {BIO 5697110 <GO>}
 
 Bloomberg Transcript
 
@@ -1242,10 +1126,7 @@ don't see it, based on where we are, that another equity raise would be needed, 
 with our capital strength at 23% and having those other levers in place or growth for 2021.
 Why don't you talk about cyber again, Adrian, on --
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Yes, for sure. So the business plan for cyber has been flagged internally and externally the
 most dynamic one. So it's one that will absolutely change according to how our claims
 experience develops over the year. And where do we think that the actions we've taken
@@ -1266,29 +1147,20 @@ Company N ame: Beaz ley PL C
 Company Ticker: BEZ L N Equity
 Date: 2021-02-05
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 And at this point, we're not going to start disclosing combined ratios for our cyber
 business. We do disclose loss development table for the CyEx and the combined ratio for
 the CyEx business and we'll be continuing to do that.
 
 FINAL
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 Thank you.
 
 Operator
 Our next question comes from Ben Cohen of Investec. Ben, your line is now open.
 
-Q - Benjamin Cohen
-
-{BIO 21227414 <GO>}
-
+Q - Benjamin Cohen {BIO 21227414 <GO>}
 Thanks very much. There were just two things I wanted to ask. Firstly, just to clarify, I think
 Adrian said earlier that he expected that net would grow only slightly less fast than gross.
 So I think when you -- when Andrew last talked about at Q3, it was more about at least a
@@ -1301,10 +1173,7 @@ And the second thing was just in terms of the growth in the political and contin
 business overall, just the impact from a lack of events or just how you see that unit
 developing this year? Thank you.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Have a go? Because I'm the one that's quite sure on that. That's on the gross growth
 before. I think it's finalizing the business plan than of what we're actually buying. So you
 probably caught me at an earlier stage of the plan being finalized, and Adrian obviously
@@ -1315,10 +1184,7 @@ understating the growth versus net difference in 2020. And therefore I overstate
 difference next year with the combination of those two impacts. And I think the capital -the capital to show is that because the capital at Lloyd's goes up by about 15%, which is
 very close to our expected growth in net growth in 2021.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 On the PAC business, Ben, the -- so we have budgeted for more contingency business
 this year than last. And we'll see that's partly increased rate and partly because we are
 expecting it to be a bit more activity this year than last. We've been quite careful about
@@ -1336,10 +1202,7 @@ Company N ame: Beaz ley PL C
 Company Ticker: BEZ L N Equity
 Date: 2021-02-05
 
-Q - Benjamin Cohen
-
-{BIO 21227414 <GO>}
-
+Q - Benjamin Cohen {BIO 21227414 <GO>}
 Thank you very much.
 
 FINAL
@@ -1348,10 +1211,7 @@ Operator
 Our final question today comes from Andreas van Embden of Peel Hunt, Andreas, your
 line is now open. Please go ahead.
 
-Q - Andreas van Embden
-
-{BIO 1795530 <GO>}
-
+Q - Andreas van Embden {BIO 1795530 <GO>}
 Yes, good morning. Thank you very much. I just had a question about your -- the sensitivity
 to interest rates across your investment portfolio. It's probably somewhat higher than I
 was expecting. And obviously there is a mismatch in your balance sheet between your
@@ -1365,10 +1225,7 @@ would put your capital position more than in the past? Thanks.
 
 Bloomberg Transcript
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 I mean, Andreas, I can't see that. I mean you're possibly right, with a low interest rate
 depending on how interest rate spiked, how -- what the impact on capital would be. I
 mean that's such a technical question. I probably have to come back to you on that. I know
@@ -1377,29 +1234,17 @@ but we haven't thought through that comment. So can we come back to you on it be
 I can't answer what the impact on capital is in interest rate spike going forwards. I think it's
 unlikely to happen in the short-term, but we can look at it.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 And just to add --
 
-Q - Andreas van Embden
-
-{BIO 1795530 <GO>}
-
+Q - Andreas van Embden {BIO 1795530 <GO>}
 Perfect.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Stuart Simpson will be -- the other levy he has is the duration of the portfolio, which he
 actively manages on that. But we can come back to you with more details.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Yeah. We tend to have our assets shorter duration. And when we have asset shorter
 duration to our liabilities, it does have a capital impact because the best capital impact will
 be to match assets and liabilities with the same duration, but then we have potential
@@ -1415,50 +1260,31 @@ volatility in the annual P&L of the investments. So we've always tried to balanc
 things. Now I don't think it's dramatically changed this year on the back of lower interest
 rates, but let's have a look at it.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
+A - Sally Lake {BIO 20925273 <GO>}
 
 FINAL
 
 Yeah.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 We have started to think a little bit more about inflation proofing.
 
-Q - Andreas van Embden
-
-{BIO 1795530 <GO>}
-
+Q - Andreas van Embden {BIO 1795530 <GO>}
 Okay, perfect.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Okay. With that, thank you for all those questions. It's good to speak to everybody today.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Thank you very much.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
+A - Sally Lake {BIO 20925273 <GO>}
 
 Bloomberg Transcript
 
 Thanks, everyone. Take care. Hope we see you soon.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Yes. Have a good weekend.
 
 Operator

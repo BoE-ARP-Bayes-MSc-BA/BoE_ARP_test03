@@ -33,10 +33,7 @@ name is Emily, and I will be coordinating this call today. (Operator Instruction
 And now, I have the pleasure of handing over to your host, Adrian Cox, CEO to begin.
 Adrian, please go ahead.
 
-Adrian Cox
-
-{BIO 16257010 <GO>}
-
+Adrian Cox {BIO 16257010 <GO>}
 Good morning, everyone, and welcome to the Beazley interim results. I thought, I'll give a
 quick overview of what to expect this morning. I will start with the highlights of our halfyear numbers. I am quite pleased with them and following that, Sally will go through the
 numbers in a bit more detail Including the exhibits on capital and reserve strength that we
@@ -118,9 +115,7 @@ account the 2021 results as a whole, rather than just the second half. And at th
 year-end, we will also share the future dividends strategy.
 And with that over to you Sally.
 
-Sally Lake
-
-{BIO 20925273 <GO>}
+Sally Lake {BIO 20925273 <GO>}
 
 Bloomberg Transcript
 
@@ -224,9 +219,7 @@ earlier, the Board remains committed to a dividend payment at the end of the yea
 taking the whole year into account.
 With that, I will pass over for the main event, as we call it, and Paul on cyber.
 
-Paul Bantick
-
-{BIO 15979097 <GO>}
+Paul Bantick {BIO 15979097 <GO>}
 
 Bloomberg Transcript
 
@@ -537,9 +530,7 @@ there is an opportunity now through risk management and resilience to create a s
 kind of opportunity.
 And with that, I will pass it back to Adrian.
 
-Adrian Cox
-
-{BIO 16257010 <GO>}
+Adrian Cox {BIO 16257010 <GO>}
 
 Bloomberg Transcript
 
@@ -670,10 +661,7 @@ Operator
 Thank you very much. (Operator Instructions) Our first question today comes from Kamran
 Hossain from RBC. Kamran, your line is now open.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi. Good morning, everyone So the first two questions are on cyber because I guess it
 would be rude not to ask Paul some questions given his presentation. The first one is just
 about market behavior in cyber. Obviously, you've been in this market for the long haul.
@@ -701,16 +689,11 @@ exciting. In terms of the areas of growth for next year, should we expect them t
 similar to those that you've seen kind of year-to-date, or are there any other areas that
 you think we should highlight? Thank you.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 All right. Paul, do you want to tackle the first two cyber questions. I will think about how we
 are going to grow.
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
+A - Paul Bantick {BIO 15979097 <GO>}
 
 Bloomberg Transcript
 
@@ -734,10 +717,7 @@ understanding from clients constantly around what do they -- how are they consta
 evolving, how are they constantly seeing their controls evolve. But I do see that one day
 that could be something that potentially the cyber market starts to look at.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Thank you, Paul. So on to growth, I think, what we've been talking for the last 18 months is
 about the 85-15 split of how we are feeling about our portfolio, with the 15 really being
 the areas that we think are exposed to this COVID aftershock claims environment, as well
@@ -771,27 +751,19 @@ So the sort of short answer is, our 85-15 remains, but we are in a very live cla
 environment at the moment, and I think that will influence both what the market does and
 what our view of risk is. And so that will influence what we do.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 
 Bloomberg Transcript
 
 Okay. Thanks, Adrian.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Thank you, Kamran.
 
 Operator
 Our next question comes from Will Hardcastle from UBS. Will, your line is now open.
 
-Q - Will Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - Will Hardcastle {BIO 16346311 <GO>}
 Hi. Good morning, everyone. First question on cyber, second on capital and dividend, if it's
 okay. So first on cyber, you are seeing these enormous price increases that sounds to be
 potential opportunities, of course, you are going to weigh the risk off. And you are sort of
@@ -818,10 +790,7 @@ metrics suggesting that you'd have been comfortable to do so?
 
 FINAL
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Okay. Thank you, Will. I'll have a crack at those and please feel free to wade in if I miss
 anything. So on to cyber and as we've been very careful to say that the data that we have
 is very early because as you say we're any seven, eight months into something and in
@@ -859,10 +828,7 @@ year. It's a sort of thing that you do when you finish and you have a look back 
 something that's going to last for the foreseeable future. So it's just a timing thing for us
 really, not much to read into it apart from that.
 
-Q - Will Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - Will Hardcastle {BIO 16346311 <GO>}
 Okay. That's really clear on the dividend. I guess one thing I just wanted to clarify, it's not a
 new point. You mentioned something about the full-year. Obviously, you stand committed
 on doing some changes, but just thinking about that a little bit, if that comes, I'm not sure
@@ -879,10 +845,7 @@ two-thirds of the year, or will it be covering the whole year, how would you loo
 
 FINAL
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Yeah. That's a yes. And so you're right to ask that question because we worded it quite
 carefully. So the intention, all things being equal, is that the dividend will reflect the full
 year's earnings rather than just second half. So thank you for asking us.
@@ -891,9 +854,7 @@ Operator
 Our next question comes from Andrew Ritchie from Autonomous. Andrew, your line is
 now open.
 
-Q - Andrew Ritchi
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchi {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
@@ -919,16 +880,10 @@ the average check count is the same year-on-year for the half-year. And also the
 translation from cents to pence appears to be (inaudible) last year's average exchange
 rate. Maybe just clarify what's going on there. Thanks.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Okay.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 I start with. I'll take that one away to look in detail at that. So I probably can't do that live.
 
 Page 17 of 36
@@ -939,24 +894,16 @@ Company N ame: Beaz ley PL C
 Company Ticker: BEZ L N Equity
 Date: 2021-07-23
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 The earnings per share one.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
+A - Sally Lake {BIO 20925273 <GO>}
 
 FINAL
 
 Yeah.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Okay. I will get back to you on that one, Andrew. If we go through the first three questions
 then, in terms of reinsurance recoveries available. We may have an echo if that's the case,
 I do apologize. And yes, we have plenty of reinsurance left available across our specialty
@@ -976,10 +923,7 @@ I would love to be able to share the net cat budget with you, but I'm not allowe
 (inaudible) myself to say that's fine, I thought I can say that. And Paul why don't I pass over
 the Lodestone question to you.
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
-
+A - Paul Bantick {BIO 15979097 <GO>}
 Yeah. Thanks, Andrew. Lodestone, as you rightly point out, is doing fantastically well. Yes,
 it can and it does do work with non-Beazley clients. It's something that we're seeing a lot
 of people, particularly in the middle-market clients having a huge amount of value from.
@@ -997,9 +941,7 @@ Beazley and how do we partner on this and what is the opportunity for both organ
 And it's very much done in partnership and very exciting. They have just launched in the
 UK, and there is hopefully a lot more to come.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
+A - Adrian Cox {BIO 16257010 <GO>}
 Page 18 of 36
 
 
@@ -1020,51 +962,31 @@ we're assessing what can we do with Lodestone folks to help our own proposition,
 also in and of itself because cyber risk management -- cybersecurity risk management is a
 very fast-growing opportunity and maybe it's something we can capitalize on that.
 
-Q - Andrew Ritchi
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchi {BIO 18731996 <GO>}
 And owned by Beazley today?
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Sorry.
 
-Q - Andrew Ritchi
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchi {BIO 18731996 <GO>}
 It's 100% owned by you today to clarify that?
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
+A - Adrian Cox {BIO 16257010 <GO>}
 
 Bloomberg Transcript
 
 Yes. It is. Well, that and the employees, but yes.
 
-Q - Andrew Ritchi
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchi {BIO 18731996 <GO>}
 Okay. Thanks.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Pleasure.
 
 Operator
 Our next question comes from Ian Pearce from Credit Suisse. Ian, please go ahead.
 
-Q - Ian Pearce
-
-{BIO 17168137 <GO>}
-
+Q - Ian Pearce {BIO 17168137 <GO>}
 Hi. Thanks for taking my questions, all cyber-related, please. So just I was hoping you
 could touch on sort of what's going on more widely in terms of claims trends in the cyber
 market. Obviously, you are all flagging some improvement in claims experience. Can you
@@ -1092,44 +1014,27 @@ And then, finally, just in terms of the investments that we've made, could you j
 some numbers around that and how you're treating that from an accounting perspective,
 whether that's all been expensed?
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Okay. I think there four questions there. I'll do the third one.
 
-Q - Ian Pearce
-
-{BIO 17168137 <GO>}
-
+Q - Ian Pearce {BIO 17168137 <GO>}
 Sorry.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 No, it's perfect, just making sure that we address them. I'll pass the fourth one about the
 investments to Sally. I will have a go at the loss ratio and if you want talk about the trends
 and the rate into next year.
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
+A - Paul Bantick {BIO 15979097 <GO>}
 
 Bloomberg Transcript
 
 Sure.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Yeah.
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
-
+A - Paul Bantick {BIO 15979097 <GO>}
 Should I go, one and two first. Okay. So, yes, I mean you right Ian. We are seeing right
 now, as I said, rates doubling. When you look at the wider cyber market and you think
 about trends, I think, there are several things. Definitely, all the cyber carriers that certainly
@@ -1164,15 +1069,10 @@ scenario for 2022 rates, but right now, I certainly see and from talking to brok
 partners and others, we certainly see the rate environment and rates continuing to
 increase through next year.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Claims trends.
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
+A - Paul Bantick {BIO 15979097 <GO>}
 
 Bloomberg Transcript
 
@@ -1194,16 +1094,10 @@ four, five months worth of claims trends data, we'll have a much better handle o
 the market is at that point in time from a rating standpoint and then we be able to finalize
 the rate.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 I think cyber frequency is down generally or just --
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
-
+A - Paul Bantick {BIO 15979097 <GO>}
 I think cyber frequency was not just -- may have been down slightly recently, but I don't
 think generally. I think cyber frequency is down slightly. And it can be a bit seasonal, cyber
 frequency. You see certain hotspots. So July 4 in the US, that holiday weekend, Christmas
@@ -1213,9 +1107,7 @@ seeing and from talking to a lot of the experts that we work with, they are not 
 dramatic drop in frequency, although there are things on the way that might help along
 with the underwriting actions.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
+A - Adrian Cox {BIO 16257010 <GO>}
 Page 21 of 36
 
 
@@ -1232,10 +1124,7 @@ this year. As you say, it's early from a business line perspective, it's even ea
 booking and profit perspective. So we will wait a little bit longer before that flows through
 to our P&L or not. Sally do you want to talk about the investment dollars?
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 So it's not a dissimilar answer actually. So the cost of the ecosystem, as Paul described, is
 minimal within the first half. I expect it to increase in the second half and then probably
 increase further in the fullness of next year as well. It will come through our admin costs. I
@@ -1244,34 +1133,22 @@ some of that, but that decision hasn't been made yet. So I can update in the fut
 that, but in terms of the financials we are seeing today, it's not a significant amount within
 those.
 
-Q - Ian Pearce
-
-{BIO 17168137 <GO>}
-
+Q - Ian Pearce {BIO 17168137 <GO>}
 Okay. Perfect. Thank you.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Thanks, Ian.
 
 Bloomberg Transcript
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
-
+A - Paul Bantick {BIO 15979097 <GO>}
 Thank you.
 
 Operator
 Thank you. Our next question comes from Freya Kong from Bank of America. Freya,
 please proceed with your question. Your line is open.
 
-Q - Freya Kong
-
-{BIO 20097488 <GO>}
-
+Q - Freya Kong {BIO 20097488 <GO>}
 Good morning, guys, and thanks for taking the questions. I've got three questions if that's
 all right. Firstly, on your dividend strategy, and what you will be giving us at the end of the
 year, has anything changed in the business for you to step away from your previous
@@ -1294,10 +1171,7 @@ Date: 2021-07-23
 
 FINAL
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Great stuff. Okay. So has anything changed on our dividend strategy? Yes and no. So we
 haven't decided what it is next year or going forward yet. So it may be a resumption of
 what we've been doing before and maybe something different and we haven't thought
@@ -1325,38 +1199,23 @@ now. I think the net premium growth of 14% is sort of in line with the mid-teens
 were guiding to and which we are still guiding to, and which we are thinking it will persist
 into next year. Sally, have I missed anything?
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 No. It's fine.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Does that help, Freya?
 
-Q - Freya Kong
-
-{BIO 20097488 <GO>}
-
+Q - Freya Kong {BIO 20097488 <GO>}
 Yes thanks. Yes. I mean the maximum gross guidance hasn't really changed, but your
 gross premium guidance has increased. Where -- in which lines are you sharing more with
 the reinsurers?
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 So the biggest type of reinsurance we've been buying is proportional reinsurance on our
 specialty lines and our CyEx books, which are the most capital-intensive that we have and
 that's why we chose to share that, and also the ones that are growing the fastest.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Page 23 of 36
 
 
@@ -1367,9 +1226,7 @@ Date: 2021-07-23
 
 And then you've got the one-off purchases.
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
+A - Paul Bantick {BIO 15979097 <GO>}
 
 FINAL
 
@@ -1377,18 +1234,13 @@ And then you've got the loss portfolio transfer that's right in property, which 
 one-off impact. So the difference between gross and net shouldn't be as much at the end
 of the year. Yeah, you're right. Thank you.
 
-Q - Freya Kong
-
-{BIO 20097488 <GO>}
-
+Q - Freya Kong {BIO 20097488 <GO>}
 Okay. Perfect. Thanks, guys.
 
 Operator
 Our next question comes from Ashik Musaddi from JPMorgan. Ashik, the line is now yours.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 Bloomberg Transcript
 
@@ -1415,10 +1267,7 @@ in the market that going into second half, pricing would most likely start taper
 specialty lines, reinsurance, et cetera. So I mean it's early days, I agree, but any thoughts
 on where the pricing is heading towards ex-cyber?
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
-
+A - Paul Bantick {BIO 15979097 <GO>}
 Okay. Right. So let's try and tackle that bit by bit. So yes, we are also seeing significant
 price increase and we are pushing price increase, and at the same time, we are improving
 our risk selection and we're seeing some early impact of that. The expectation is if all that
@@ -1464,10 +1313,7 @@ new business last year. So we're seeing for the amount of new business we write,
 actually a lot less policies that we need to add to do that because of the rating
 environment. So we are seeing a lot of new business both in the US and internationally.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 And when we look at our rate change ex-cyber, your -- it was a good observation. It's sort
 of consistent with where it was and it is slightly different from what we hear in the market
 and that's due to some of the impacts that we were talking about in Q1, right. So, we, like
@@ -1478,10 +1324,7 @@ overall, that amounts the same sort of number, but the drivers are slightly diff
 because I think we do have higher weighting of that business compared to some of our
 peers, that generates a higher average rate change that we are demonstrating today.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. And just any visibility on like going forward you would expect it to continue or would
 you say that for your book as well probably we are getting towards a bit of tapering now?
 
@@ -1495,10 +1338,7 @@ Date: 2021-07-23
 
 FINAL
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 No, I don't think we have anything new to say on the short tail lines of business. What
 you're hearing from others is consistent with what we are seeing. I think the longer tail
 lines of business took longer to turn, so whereas the property market, for example, really
@@ -1507,19 +1347,14 @@ So it's slightly behind the market cycle. And our expectation is that it will pe
 longer because of that. So that's why we're guiding to a similar level of rate change for
 the second half of the year.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thank you. Thanks a lot.
 
 Operator
 Thank you for your question, Ashik. Our next question comes from Faizan Lakhani from
 HSBC. Faisal Please go ahead.
 
-Q - Faizan Lakhani
-
-{BIO 22154809 <GO>}
+Q - Faizan Lakhani {BIO 22154809 <GO>}
 
 Bloomberg Transcript
 
@@ -1534,16 +1369,10 @@ question is on capital. Could you just give us a breakdown in terms of how the c
 developed from the implications of the change in investment portfolio, rates and
 volumes/
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
-
+A - Paul Bantick {BIO 15979097 <GO>}
 Okay. I think you want to take questions one and three, Sally.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Yeah, sure. So, yes, so just to remind everyone at the year-end we spoke about actually
 that there was a depression caused by a set of claims within the reserved surplus being
 COVID in particular, but also the fact that we've had some cats, which we have had again
@@ -1563,51 +1392,34 @@ Company N ame: Beaz ley PL C
 Company Ticker: BEZ L N Equity
 Date: 2021-07-23
 
-Q - Faizan Lakhani
-
-{BIO 22154809 <GO>}
-
+Q - Faizan Lakhani {BIO 22154809 <GO>}
 So will it remain to the same extent this half year?
 
 FINAL
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 It probably hasn't changed significantly is what I would probably say because if I look at
 how the gross versus net has moved, as we spoke about earlier, we are still in a similar
 position. So I would say, it may have moved, but not to anything significant.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 And then capital.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 And then on capital, short answer, kind of no. So we don't give that breakdown. I guess
 what you're seeing is an overall increase in the ECR of around 5%. So you could kind of
 work out what if we are growing net premium by 14%, and we're getting 10% offsets from
 other things both -- and that would include both rate change and claims, but we don't give
 that breakdown. That's just high level --
 
-Q - Faizan Lakhani
-
-{BIO 22154809 <GO>}
+Q - Faizan Lakhani {BIO 22154809 <GO>}
 
 Bloomberg Transcript
 
 Did the investments portfolio have any impact at all in terms of how the capital developed
 or has that been modest in the grand scheme of things?
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 No, not particularly. The two things that would impact it is if we changed our risk appetite,
 which we haven't, and secondly, if there is some volatility change in the market which
 there has been up and down over the last couple of years, but it's not a significant driver
@@ -1615,16 +1427,10 @@ of our capital, though it will do in the rounding but our peak capital isn't dri
 investment portfolio because relatively the risk is lower compared to other risks that we
 take.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 So Paul, cyber severity.
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
-
+A - Paul Bantick {BIO 15979097 <GO>}
 Yeah. So cyber severity. It's still fairly early when we're looking at the business, it is down
 since October, talk about severity. I mean it will take a little bit more time for us to be able
 to look at that and take a view on that. But with the action we've been taking, both in the
@@ -1649,39 +1455,24 @@ so far and the 50 basis [ph] on premium, that is very much comparing it to 2019 
 numbers are looking at not just how is it down, but how is it down compared to what we
 saw in 2019, 2020 because that's predominantly where the ransomware threat existed.
 
-Q - Faizan Lakhani
-
-{BIO 22154809 <GO>}
-
+Q - Faizan Lakhani {BIO 22154809 <GO>}
 And may I ask a couple of follow-up questions if that's okay?
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Sure.
 
-Q - Faizan Lakhani
-
-{BIO 22154809 <GO>}
-
+Q - Faizan Lakhani {BIO 22154809 <GO>}
 In terms of cyber, your frequency is down by 20%. You're keeping your loss pick -- your
 loss pick isn't allowing it to the improvement in cyber. Can we -- though we eventually
 assume that the loss pick in CyEx you've sort of broken it down to set (Technical Difficulty)
 current year down being additional buffer to your results. That would be fair?
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 You want to answer it?
 
 Bloomberg Transcript
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Yes. So I think the question was given that we have amended our loss pick given the
 positivity that we're seeing in the data, can we imply that there is more reserved margin
 coming out of that. I would say, if the trend continues, then that would be the outcome,
@@ -1691,18 +1482,12 @@ data at least probably till the year-end to start drawing those conclusions beca
 completely correct that if we continue with this trend then that would be an outcome.
 Hopefully that (Multiple Speakers)
 
-Q - Faizan Lakhani
-
-{BIO 22154809 <GO>}
-
+Q - Faizan Lakhani {BIO 22154809 <GO>}
 And just in terms of the second half of the year, if rates go up, do you think that will simply
 just pause the worsening trends, or can we assume improving cyber rates from here
 would feed into better experience in the second of the year?
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 So rate action is a backwards looking thing, right. So rates are going up because the
 claims of the insurance market has paid and so I don't think rates will continue to go up
 because of what happens in the second half of 2021, rates will continue to go up or not
@@ -1718,10 +1503,7 @@ Company N ame: Beaz ley PL C
 Company Ticker: BEZ L N Equity
 Date: 2021-07-23
 
-Q - Faizan Lakhani
-
-{BIO 22154809 <GO>}
-
+Q - Faizan Lakhani {BIO 22154809 <GO>}
 Perfect. Thank you very much for answering my questions. Thanks, Faizan.
 
 Bloomberg Transcript
@@ -1732,10 +1514,7 @@ Operator
 Thank you for your questions Faizan. Our next question comes from Ivan Bokhmat from
 Barclays. Ivan, the floor is yours.
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 Good morning. I've got a couple of questions both in cyber. The first one would be
 related to capital intensity of the business. I'm just wondering if given the panel that
 you've got, the quote right now, if you can help us understand for cyber, what is the -what cost of business would you compare the capital intensity to? If it would be akin to
@@ -1752,22 +1531,13 @@ others outside than just the risk limits? Or typically the policies you offer ar
 and therefore, you would still be exposed to, let's say, cloud outages even for the breach
 response customers? Thank you.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Sally, on the capacity, why don't you have me take a crack?
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 You have a crack. You quite like it.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Okay. Yeah. It's a good observation, right. So it does have attributes or elements of both
 property and liability in it and if cyber would have been born a different way, it would have
 been in our property team, as Paul said because it emerged as a regulatory and legal
@@ -1799,10 +1569,7 @@ that we've been doing these last couple of years is to be much more stringent an
 careful as to how we give that coverage out because of the fact that we do know it
 accumulates. Paul, is there anything else you would like to add on top of that/
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
-
+A - Paul Bantick {BIO 15979097 <GO>}
 I think we've been doing that, but we also do a lot of work to understand what these
 scenarios would look like because they don't I mean the same for large accounts, for
 example, as they do middle market. It doesn't mean the same for international as it does
@@ -1812,43 +1579,28 @@ understanding of when these scenarios happen, who is that going to impact, and
 therefore, what coverage are we giving them and how much are we give them. It's a
 combination of all those things put together.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Does that help, Ivan?
 
 Bloomberg Transcript
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 Yeah. Maybe I can follow up. I mean, considering that a lot of your portfolio would be
 market risks, I'm just wondering, what do you perceive the wording of the contracts in
 your books different than from broader markets exposures? There is some differentiation
 which you can help illustrate.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 The differential between our cyber wordings and the market cyber wordings, is that what
 you are after?
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 Yeah. As in, if you look at the largest cyber writers, like (Multiple Speakers) who would
 presumably take more larger clients, and it doesn't have to be minutes of course. But
 whether you think there is a difference in the wording between you and the largest
 players, let's say, in the US?
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
-
+A - Paul Bantick {BIO 15979097 <GO>}
 Yeah. I think the biggest difference is around the fact is in our Beazley Breach Response
 product, which gives us control over the claim. So when you look at the cyber market and
 the wordings, firstly, agents -- spot on, the main point of differentiation in the wordings is
@@ -1878,10 +1630,7 @@ that you would see.
 
 Bloomberg Transcript
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 And that manifests itself in how the claim presents and that's the important thing for us,
 right. So the value that the client of Beazley Breach Response has if they have an issue,
 they can call us up and we will handle it for them and take a lot of the stress out of that
@@ -1894,25 +1643,16 @@ how the ensuing claims is handled, which you don't always get an insurance, beca
 oftentimes it's the indemnity policy so the client does it and then we reimburse them. The
 control that gives us is a significant advantage for us.
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
-
+A - Paul Bantick {BIO 15979097 <GO>}
 The other significant advantage that gives us is speed. We see data far quicker because
 clients are -- we are their first call. If something is happening, they call us first. So we will
 see trends, we will see costs, we should see movements far quicker because we have it
 in-house rather than waiting for third parties to tell us about what they are seeing.
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 Great. Thank you. By the way, this focused session on cyber is brilliant.
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
-
+A - Paul Bantick {BIO 15979097 <GO>}
 Thank you.
 
 Operator
@@ -1937,9 +1677,7 @@ And my second question is that, you are quite bullish in terms of your growth fo
 2022, and how much of that is actually embedded with the rates momentum outlook and
 how much of that will be organic growth? Thank you.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
+A - Adrian Cox {BIO 16257010 <GO>}
 
 Bloomberg Transcript
 
@@ -1961,20 +1699,14 @@ the moment, those are just our first pass at it. Did I miss anything?
 Q - Unidentified Participant
 Thank you.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Thank you, Ming.
 
 Operator
 Our next question comes from Andreas van Embden from Peel Hunt, Andreas, please go
 ahead.
 
-Q - Andreas van Embden
-
-{BIO 1795530 <GO>}
-
+Q - Andreas van Embden {BIO 1795530 <GO>}
 Yes. Hello. Thank you very much. I just really had one question. We've seen sort of three
 years of rate on rate increases across your portfolio and your peers as well and I
 appreciate we are seeing an acceleration on cyber now. But just want to see how this sort
@@ -1995,10 +1727,7 @@ you.
 
 FINAL
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Okay. I'll have a go then. If I get it wrong, please. So, I think -- so yes, I mean what was Sally
 saying earlier, she was saying that one of the goals she had, when she took over the role
 a couple of years ago, was to show more consistent and better prior-year reserve
@@ -2014,48 +1743,31 @@ finished, right. So we consistently have to react and make sure we're on top of 
 new as well as fixing what we know about from the past which is a sort of general hedge.
 As I said before, that all other things being equal, yes, it should begin to flow back in.
 
-Q - Andreas van Embden
-
-{BIO 1795530 <GO>}
+Q - Andreas van Embden {BIO 1795530 <GO>}
 
 Bloomberg Transcript
 
 And how long do you think it will take for those rate increases to really sustainably take it
 back to the sort of low 90%s or perhaps even better combined ratios?
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Well, we are guiding to low 90%s this year, Andreas. So we're hoping that that will start to
 go then. When you look at our combined ratios in the past, when we had combined ratios
 under 90%, those were generally years with significantly lower than average cat activity.
 So we had a sort of a run rate of 92%ish, low 90%s. And then the bonus, if you will, of a
 low natural cat-free year.
 
-Q - Andreas van Embden
-
-{BIO 1795530 <GO>}
-
+Q - Andreas van Embden {BIO 1795530 <GO>}
 Understood. So the rate increases will bring you back to where you were on average
 before?
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 That's what a low 90%s projection would imply, yes, absolutely.
 
-Q - Andreas van Embden
-
-{BIO 1795530 <GO>}
-
+Q - Andreas van Embden {BIO 1795530 <GO>}
 Okay. All right. Thank you very much.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Thank you.
 
 Page 33 of 36
@@ -2072,10 +1784,7 @@ proceed with your question.
 
 FINAL
 
-Q - Nick Johnson
-
-{BIO 1774629 <GO>}
-
+Q - Nick Johnson {BIO 1774629 <GO>}
 Hi, everybody. Just two questions, please. Firstly, on capital, the required capital growth
 for next year estimate of 5% is a lot lower than recent years. It's been around about 15% I
 think. You mentioned the benefit of rates in that calculation. Just wondering, to clarify,
@@ -2086,18 +1795,12 @@ And then the second question is on SPAC D&O growth, perhaps you could just talk 
 about the risk management in that category? And sure it feels like quite a risky segment.
 Thanks.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Right. Why don't you take the first one. While I bring my D&O underwriter on and ask -while you answer the second one.
 
 Bloomberg Transcript
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Yes. Hi, Nick. So yes, you are completely right what that 5% increase allows for is what
 we're planning to -- currently planning to grow in the business plan, early days on it net of
 reinsurance which as we've said is similar to what we're looking at this year. So that does
@@ -2115,10 +1818,7 @@ that we've got some encouraging data but there is more to learn between now and 
 we finalize the business plan, but yeah, it will definitely evolve in the coming months. Over
 to you Adrian on SPACs? Was that long enough?
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Thanks. So that's a great question to finish good morning with. So I guess to start with -SPACs have been around for a long time. I first had SPACs explained to me when I was
 running SL back when -- and than must have been five, seven years ago, and they've
 always been slightly curious instruments, but they've been around for a while and they've
@@ -2150,49 +1850,31 @@ businesses and so on and so forth. But they are a valid part of our D&O book and
 have some history with them, but we're very careful because they are high risk just as
 we've been very careful with IPOs over the years.
 
-Q - Nick Johnson
-
-{BIO 1774629 <GO>}
-
+Q - Nick Johnson {BIO 1774629 <GO>}
 Thanks. That is reassuring. Thanks very much indeed.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Thanks, Nick.
 
 Bloomberg Transcript
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Thanks, Nick.
 
 Operator
 We currently have no further questions registered. So I'll now hand back to Adrian, Sally,
 and Paul to conclude today's call.
 
-A - Adrian Cox
-
-{BIO 16257010 <GO>}
-
+A - Adrian Cox {BIO 16257010 <GO>}
 Great stuff. Thank you very much indeed. Well, thank you very much for calling in this
 morning. I hope that was useful. If you have any follow-up questions, please get in touch
 with Sarah and we'll do our best to answer them. And we look forward to seeing you very
 soon. Thank you very much.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Thanks, everyone. Have a good day.
 
-A - Paul Bantick
-
-{BIO 15979097 <GO>}
-
+A - Paul Bantick {BIO 15979097 <GO>}
 Good day.
 
 Page 35 of 36

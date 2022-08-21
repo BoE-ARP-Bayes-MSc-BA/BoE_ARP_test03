@@ -34,10 +34,7 @@ Good day and welcome to the Munich Re Half Year Financial Report to 2018 Confere
 Call. At this time, I would like to turn the conference over to Mr. Christian Becker-Hussong.
 Please go ahead.
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you. Good afternoon, ladies and gentlemen to our Q2 earnings call. I have the
 pleasure to welcome Joachim Wenning, CEO of Munich Re Group; and our CFO, Jörg
 Schneider, this afternoon. Joachim will kick it off with his statement. As Jörg already
@@ -54,10 +51,7 @@ Date: 2018-08-08
 
 FINAL
 
-Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+Joachim Wenning {BIO 16273429 <GO>}
 Thank you, Christian, and welcome also to all of you out there on the phones. In the name
 of Jörg and myself, welcome to this call. You all have already listened I guess to the
 podcast that Jörg has produced, including the slides highlighting the key drivers of the
@@ -165,9 +159,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2018-08-08
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+Christian Becker-Hussong {BIO 19080254 <GO>}
 
 FINAL
 
@@ -179,9 +171,7 @@ Q&A
 Operator
 Our first question today comes from James Shuck of Citi. Please go ahead.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
+Q - James A. Shuck {BIO 3680082 <GO>}
 
 Bloomberg Transcript
 
@@ -207,10 +197,7 @@ guidance around the net earned premium expectation for full year because we can'
 that's very difficult to forecast and will have an impact on the combined ratio. Thank you
 very much.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 James, I will take the first one, and Jörg maybe take the second one and the third one
 with regards to net earned premium expectations for the full year. So where is the growth
 coming from? As you said, roughly half of the absolute growth volumes, they are related
@@ -249,9 +236,7 @@ bit difficult even for us at the moment with this strong growth from the renewal
 the impact. But as a rule of thumb, I would say it should be roughly €18 billion for property
 casualty reinsurance, including primary insurance out of reinsurance. Is this okay, James?
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
+Q - James A. Shuck {BIO 3680082 <GO>}
 
 Bloomberg Transcript
 
@@ -268,10 +253,7 @@ change here, especially not such an enormous increase. We use more sidecars than
 did in the past. But the traditional retro has reduced to the same extent. Therefore, it's
 more or less an unchanged policy here.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Yeah. Okay. Thank you very much.
 
 A - Jörg Schneider
@@ -280,9 +262,7 @@ Thank you, James.
 Operator
 Our next question comes from Michael Huttner of JPMorgan. Please go ahead.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
+Q - Michael Huttner {BIO 1556863 <GO>}
 
 Page 5 of 23
 
@@ -315,9 +295,7 @@ to estimate for the market. We do not expect the ZZR to be reduced from that mom
 on, but we will not have a similar need for an increase, and therefore, we would be very
 happy if this rule change will take place very soon.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
+Q - Michael Huttner {BIO 1556863 <GO>}
 
 Bloomberg Transcript
 
@@ -328,16 +306,10 @@ The benefit at the moment is mostly that we do not have to realize a valuation r
 our investment portfolio to the same extent as we did. And you can see that already in
 the Q2 numbers that we stood on the break here.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Okay.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Maybe I add one thing, Jörg, that is the benefit to the market and it's not an economical
 benefit yet, but it gives them some relief that is, that with the new rule for building the
 ZZR, the buildup of the ZZR that has been happening for some years and would continue
@@ -347,10 +319,7 @@ very sharp release of the ZZR reserves, and this new rule would bring that the b
 softened or smoothened out a little bit, but then also the future release will be slightly
 shorter. So it's just smoothening impact of the buildup in the release of the ZZR reserve.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Okay.
 
 Page 6 of 23
@@ -363,10 +332,7 @@ Date: 2018-08-08
 
 FINAL
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Quality of business assurance was another question of yours, Michael. So why are we
 confident that the business that we have written, that shows growth in our books is of
 good quality. For a big chunk of the business, we can explicitly state that because we have
@@ -381,10 +347,7 @@ only the smaller part of that growth if you like is decentrally written, but it'
 business than that, that we have seen in previous year only that'll be right a little bit more
 of that.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 And has there been – have you been extra careful on the reserving yield?
 
 A - Jörg Schneider
@@ -392,10 +355,7 @@ You mean overall with the basic loss reserve?
 
 Bloomberg Transcript
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 No. Well I suppose (00:23:37), well either on this one, on the (00:23:40) in Colombia, it
 feels like you kind of rejoice, and you're so, I double the numbers.
 
@@ -405,10 +365,7 @@ more careful side, and that explains perhaps part of the difference between us a
 peers at the moment. But it's difficult for myself to make a judgment because as you
 know, we always reserve for the best estimate.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Thank you.
 
 A - Jörg Schneider
@@ -417,9 +374,7 @@ Thank you, Mike.
 Operator
 We will now move to Jonny Urwin of UBS.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
+Q - Jonny Urwin {BIO 17445508 <GO>}
 
 Page 7 of 23
 
@@ -449,10 +404,7 @@ please. Thank you.
 
 Bloomberg Transcript
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 So Jörg, I will start with the first question. So with regard to the 2020 net income, you're
 right that the expectation for 2020 is based on the assumption that the combined ratio
 will probably go down to a level of 97% on P&C Re. That means that some short tail
@@ -499,18 +451,13 @@ grow.
 Now, it's absolutely not that. It's precisely explainable more or less year by year. And that
 makes me at least confident, and I hope that I share a little bit of that comfort with you.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Great. Thanks very much.
 
 Operator
 Our next question today comes from Vinit Malhotra of Mediobanca.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 Bloomberg Transcript
 
@@ -562,10 +509,7 @@ summarize, it's a good environment and we expect the level between 2.7% and 2.8%
 persist, perhaps second quarter was a little bit on the upper end of the reasonable range
 for future reinvestments. Joachim?
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Yeah, thanks, Vinit. This is Joachim. So the fall in premiums on Life Re side, this can be
 explained by two effects, very clearly. So it's structured transactions and typically those
 structures they are designed to hold for a period that is limited for three years, four years
@@ -585,19 +529,13 @@ no negative impact on technical results, if at all, rather on the contrary. So y
 possibly conclude that the high technical result would have gone back to some
 divestment from this type of transactions.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you very much.
 
 Operator
 We will now take a question from Thomas Seidl of Bernstein. Please go ahead.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yeah. Thank you. Good afternoon. First, on ERGO you say it's well on track on the
 turnaround. It seems though that the Life business is a bit lagging expectations. When I
 look at the operating expenses, they seem to be up 11% at half-year year-on-year. So I
@@ -626,9 +564,7 @@ confident you say in the webcast you achieved €2.3 billion, €2.4 billion net
 year. What would drive your decision by how much to increase the absolute dividend next
 year given the capital is still enormously strong?
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
+A - Joachim Wenning {BIO 16273429 <GO>}
 
 Bloomberg Transcript
 
@@ -675,31 +611,19 @@ a reliable answer on that.
 
 FINAL
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay. Maybe if I can follow-up on that dividend. Of course, we know that we have to wait
 for Q3 and Q4. But at the full-year number this year, it was said that you are going to grow
 the absolute payout in line with earnings. So my question was, with the CFO change, are
 you sticking to this promise?
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Yes.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay. Thank you.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay. Can we move on with the next question, please?
 
 Operator
@@ -708,10 +632,7 @@ Bloomberg Transcript
 
 Certainly. Our next question comes from Vikram Gandhi of Société Générale.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hi. Thank you for the opportunity. I've got two questions. Firstly, given where the industry
 pricing is and given how the shift in strategy on cost cutting and business mix changes
 have evolved so far, what does it do to your confidence with respect to the 2020 outlook
@@ -719,10 +640,7 @@ or guidance? Are you more confident, less confident about the 2020 guidance? And
 secondly, how are you seeing the HIM losses developing? And is there anything there that
 gives you comfort about the combined ratio and profitability over the full-year? Thank you.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 So thank you, Vikram. Your question with regard to the confidence level, the way that I am
 comfortable answering such questions is the following. When we are into the first year of
 three years commitment and we see that in that first year we are progressing as we
@@ -731,10 +649,7 @@ expected, then my confidence level is higher than it is at the very beginning of
 A - Jörg Schneider
 On the HIM losses – sorry, Vikram, you have an additional question on that?
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 No.
 Page 12 of 23
 
@@ -748,9 +663,7 @@ A - Jörg Schneider
 Okay. On the HIM losses, they come overall in as expected, so very small changes only
 and no tendency on our side.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 
 FINAL
 
@@ -762,9 +675,7 @@ Thank you, Vikram.
 Operator
 Our next question comes from Andrew Ritchie of Autonomous. Please go ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
@@ -785,10 +696,7 @@ don't think the total quantum changes. So I'm not sure it's actually an economic
 And also presumably you're right, for us, earnings will go down because you'll be realizing
 less gains. Is that not the case? Thanks.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Thank you, Andrew. So with regard to the new product ranges at ERGO, so ERGO has
 started modernizing, if you like, or if not bringing totally new P&C products starting with
 car insurance products to the market, then household insurance, personal liability
@@ -835,10 +743,7 @@ requirements. And it allows us, so a relieve of the ZZR rules allow us to better
 the business in the interest of stability and in the interest also of shareholders. Therefore,
 it's a small but important net positive.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 So it wouldn't affect your expectations for 2020 ERGO Life contribution?
 
 A - Jörg Schneider
@@ -849,10 +754,7 @@ earnings. We are very happy that the expense savings come in. That it's importan
 the reorganization of the sales forces has been successful, and that there's very good
 momentum, but you will continue seeing deviations in the numbers that is unavoidable.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. Thanks very much for the color.
 
 A - Jörg Schneider
@@ -871,10 +773,7 @@ We will now move to a question from Kamran Hossain of RBC. Please go ahead.
 
 FINAL
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi. Just wanted to talk about cyber base (00:49:10). You called out in your growth
 initiatives piece, talking about continued growth in the first half of the year, is it okay to get
 an update on, I guess, premiums and if you have the number of reserves that you have
@@ -905,10 +804,7 @@ observed with a lot of conservatism, perhaps there would also be room for, let's
 more generous modeling of the risk. At the moment, we try to stay on the very tough
 side which also increases the cost of capital as you can imagine.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 That's right. Thanks for the color, Jörg.
 
 A - Jörg Schneider
@@ -917,10 +813,7 @@ Thank you, Kamran.
 Operator
 We now take a question from Thomas Fossard of HSBC.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Page 15 of 23
 
 
@@ -944,9 +837,7 @@ that on the loss-affected business which have been renewed, where is the missing
 and where potentially you have been facing already significant or I would say lower pricing
 or declining prices already at midyear? Thank you.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
+A - Joachim Wenning {BIO 16273429 <GO>}
 
 Bloomberg Transcript
 
@@ -966,20 +857,14 @@ because of a more beneficial, if you like, to be renewed portfolio structure hig
 what you should also take into account, please, is the large contracts and they dilute this
 picture.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay. Next question, please.
 
 Operator
 Thank you. We will now take a question from Michael Haid of Commerzbank. Please go
 ahead.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Thank you very much. Good afternoon. Actually, two questions. First question on P&C re
 and again on the large – on the structured large quota share business. As you mentioned,
 they come with a combined ratio closer to 100%. And all else being equal, your
@@ -1033,10 +918,7 @@ growing at the moment. Therefore, there are no major changes. And overall, it's 
 healthy picture. And by the way, the large deals don't come in at 100%. Yeah, they come
 in below 100%, so somewhere between 97% and 100%, perhaps in the middle or so.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -1049,9 +931,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2018-08-08
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 
 FINAL
 
@@ -1066,10 +946,7 @@ speculation that you're looking for a partner for your AM activities. Can you pl
 comment on what your strategy for the business is and any thoughts which help us to
 understand your logic?
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Yeah. Let me start with the second one, and Jörg, I don't know if you take the – take it?
 Yeah. I'll take the second one with regard to asset management business, Frank.
 
@@ -1112,9 +989,7 @@ Date: 2018-08-08
 
 Thank you, Frank.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 
 FINAL
 
@@ -1123,9 +998,7 @@ Thank you (01:03:45).
 Operator
 We will now move to a question from William Hawkins of KBW.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
@@ -1183,10 +1056,7 @@ down in Europe, and the widening of credit spreads which was the most important 
 Overall, moderate increase in eligible own funds on a small increase on solvency capital
 requirement.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 So, just to follow-up briefly. To the extent that your P&C book has grown quite significantly,
 the fact that the SCR hasn't gone up much. Is that telling us that there's no capital strain
 from your P&C growth, or is it something being offset (01:08:12) life re going down or
@@ -1197,9 +1067,7 @@ There is only a small increase in capital requirement for P&C on a currency-adju
 and some relief – and increase from currency, yeah, so both. Both going upwards, but it
 was tiny.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
@@ -1212,10 +1080,7 @@ partially booked as operational expenses, partially as non-operational, but we d
 longer call it restructuring expenses. The net impact was €68 million and this is
 approximately one-third of the 2018 budget.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Fantastic. Thank you.
 
 A - Jörg Schneider
@@ -1245,9 +1110,7 @@ of the combined ratios in Greece and Turkey? Maybe you could shed some light on 
 Maybe as a third question, looking at the agricultural business, do you see any losses
 arising here in the third quarter looking at the drought out there in Europe? Thank you.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
+A - Joachim Wenning {BIO 16273429 <GO>}
 
 Bloomberg Transcript
 
@@ -1313,9 +1176,7 @@ Operator
 As there are no further questions, I would now like to turn the call back to Mr. Christian
 Becker-Hussong for any additional or closing remarks.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 
 Bloomberg Transcript
 

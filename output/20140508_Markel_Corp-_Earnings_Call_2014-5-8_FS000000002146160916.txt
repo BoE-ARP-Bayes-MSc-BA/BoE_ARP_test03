@@ -28,10 +28,7 @@ recorded.
 I would now like to turn the conference over to your host, Mr. Tom Gayner, President and
 Chief Investment Officer for Markel Corporation. Thank you. Mr. Gayner, you may begin.
 
-Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+Thomas S. Gayner {BIO 1896932 <GO>}
 Thank you, Bob. Good morning and welcome everybody to the Markel Corporation first
 quarter conference call. We're glad that you've joined us today. My name is Tom Gayner.
 And with me today are Anne Waleski, our Chief Financial Officer; and my Co-Presidents,
@@ -61,10 +58,7 @@ FINAL
 
 With that, let me turn it over to Anne.
 
-Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+Anne G. Waleski {BIO 16735457 <GO>}
 Thanks, Tom, and good morning, everyone. Before I go over our first quarter results, I'd
 like to provide some information on our new reporting segments. As we highlighted in our
 2013 fourth quarter conference call and Form 10-K, we are now aggregating and
@@ -243,10 +237,7 @@ Invested assets at the holding company were $1.1 billion at March 31, 2014, comp
 $1.3 billion at the year-end 2013. The decrease is primarily due to the timing of intercompany settlements.
 With that, I'll turn it over to Mike to talk about the U.S. Insurance segment.
 
-F. Michael Crowley
-
-{BIO 6836605 <GO>}
-
+F. Michael Crowley {BIO 6836605 <GO>}
 Thanks, Anne. Good morning. As Anne explained, the U.S. Insurance segment comprises
 all direct business written on our U.S. insurance companies and includes all of the
 underwriting results of our Wholesale division and our Specialty division, as well as certain
@@ -305,10 +296,7 @@ her leadership and enthusiasm will be sorely missed. We hope Susan visit us ofte
 wish her a very happy retirement.
 I'll now turn the call over to Richie.
 
-Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+Richard R. Whitt {BIO 7084125 <GO>}
 Thanks, Mike, and good morning, everyone. In my comments today, I'll focus on our
 International Insurance and Reinsurance segments. I'll start by discussing the International
 Insurance segment's first quarter results and then discuss the results for our Reinsurance
@@ -384,10 +372,7 @@ once famously said, this is not our first rodeo. We're confident we can navigate
 competitive market.
 Now, I'd like to turn it over to Tom.
 
-Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+Thomas S. Gayner {BIO 1896932 <GO>}
 Thank you, Richie. As promised in the intro, my comments will be very brief this morning.
 As is always the case, we remain completely focused on the long-term growth in the
 intrinsic value for the Markel Corporation. We measure ourselves on five-year rolling
@@ -487,18 +472,12 @@ Thank you. Ladies and gentlemen, we'll now be conducting a question-and-answer
 session. Our first question comes from the line of Mark Hughes with Lafayette
 Investments (sic) [SunTrust]. Please proceed with your question.
 
-Q - Mark Douglas Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Douglas Hughes {BIO 1506147 <GO>}
 Hi. It's Mark Hughes with SunTrust. Tom, could you talk about your outlook for interest
 rates here? You say you're slowly beginning to extend the duration of the portfolio.
 What's your view on rates here?
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Well, I still think that rates are too low and they are unnatural. And we've had that point of
 view for a while. And that – and the investment business is early enough to be confused
 with being wrong. We've had a pretty substantial mismatch between the normal match of
@@ -511,18 +490,12 @@ out.
 
 Bloomberg Transcript
 
-Q - Mark Douglas Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Douglas Hughes {BIO 1506147 <GO>}
 Right. In the professional liability area – that was one of the segments you highlighted as
 rates coming down meaningfully at the same time that you had adverse developments in
 architects and engineers. Any more detail you can provide on what's going on there?
 
-A - F. Michael Crowley
-
-{BIO 6836605 <GO>}
-
+A - F. Michael Crowley {BIO 6836605 <GO>}
 Well, this is Mike. Good morning. It's very competitive in professional lines. And, obviously,
 architects and engineers are just one of the professional lines that we write. We write a lot
 of medical lines. We write lawyers. We write a number of different lines. Where we're
@@ -530,20 +503,14 @@ seeing the real competitive pricing is in the very large account business. And w
 write really large architects and engineers firms. So, it's more in the medical and other
 professional lines where we're seeing the rate decreases.
 
-Q - Mark Douglas Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Douglas Hughes {BIO 1506147 <GO>}
 Thank you.
 
 Operator
 Thank you. Ladies and gentlemen, our next question comes from the line of Mark Dwelle
 with RBC Capital Markets. Please proceed with your question.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Page 10 of 18
 
 
@@ -556,33 +523,23 @@ Yeah. Good morning. A couple questions. Richie, you had talked a little bit abou
 composition on the reinsurance book and you indicated that it was substantially casualty.
 Can you just give us a broad general percentage of what portion is still property?
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
+A - Richard R. Whitt {BIO 7084125 <GO>}
 
 FINAL
 
 What is it, Anne? North – you've got a rough.
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 Well, it's about 70% globally and 30% Markel International. So if you use that as a proxy -
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt {BIO 7084125 <GO>}
 Yeah. It's probably about 60%/40% casualty today. And, obviously, the casualty carries a
 much higher loss ratio. We had a first quarter with very little catastrophe losses, very little
 to almost none, so a fairly low loss ratio there. But on the casualty business, you have to
 start out very conservative and that's really what's driving that combined ratio up for the
 segment.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 
 Bloomberg Transcript
 
@@ -592,10 +549,7 @@ Reinsurance segment as well is exposed to currency risk? I mean I know that a lo
 what's at Lloyd's is priced and denominated in dollars, but what proportion has an FX
 exposure?
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt {BIO 7084125 <GO>}
 Mark, I'd be guessing to give you a number and we can go back and kind of look to help
 you out. But you're absolutely right. A lot – what you find in marine and energy and what
 you find at Lloyd's is a tremendous amount of business, even though it's foreign business,
@@ -604,25 +558,16 @@ exposure there, although a lot of those contracts are denominated in dollars. So
 have to get back to you with the number, but it's relatively low when you look at our
 balance sheet. I'll guess and say 10% to 15%.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay.
 
-A - F. Michael Crowley
-
-{BIO 6836605 <GO>}
-
+A - F. Michael Crowley {BIO 6836605 <GO>}
 And one thing I would add to that, Mark, is the investment activities follow the form to
 either reinsurance world deferred on, whatever, writing in the insurance business. So if
 we're, I think, putting liabilities of our books in any foreign currency, typically, we will buy
 investments in that currency as well to keep that economically matched.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Page 11 of 18
 
 
@@ -637,18 +582,12 @@ and that's actually where I started. So maybe that's pretty close to the answer.
 
 FINAL
 
-A - F. Michael Crowley
-
-{BIO 6836605 <GO>}
-
+A - F. Michael Crowley {BIO 6836605 <GO>}
 So that'd be 10% to 15%, that would equate to probably 10% to 15% of the reserves being
 in those foreign currencies. The businesses – it's probably in that realm, in terms of the
 original currency of the premium we're writing.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay. The last question I had relates to the Abbey Protection business. I guess I found
 somewhere in the Q that that business had about $3 million or so of revenues in the
 quarter. And I think when we talked about it initially the annual run rate was in the $50
@@ -656,9 +595,7 @@ million to $60 million range. I guess that implies to me that there's probably a
 amount of seasonality to that. I just hope that you could comment to just kind of help,
 clarify how the revenue stream comes through on that one.
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
+A - Richard R. Whitt {BIO 7084125 <GO>}
 
 Bloomberg Transcript
 
@@ -669,35 +606,23 @@ revenue. There is a service component to the business – professional services 
 to the business. And that's what you're seeing – I guess that you're picking that up in other
 revenues, other expenses.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Right.
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt {BIO 7084125 <GO>}
 That's the professional service component. $3 million for the quarter, $12 million or so
 probably for the year is what we'd be looking for there. So that would be sort of the split.
 The total of $60 million, $12 million or so of it coming from services, the rest of it earned
 premium on insurance business.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 I see. That's helpful. Thanks. No more questions.
 
 Operator
 Thank you. Our next question comes from the line of Matthew Berry with Lane Five
 Capital. Please proceed with your question.
 
-Q - Matthew Berry
-
-{BIO 16846746 <GO>}
-
+Q - Matthew Berry {BIO 16846746 <GO>}
 Page 12 of 18
 
 
@@ -717,10 +642,7 @@ be harder to price appropriately given the lack of knowledge of the underlying r
 so how do you get comfortable that this is something we can earn a valuable underwriting
 profit on over the cycle? I mean after all I value the cost free flow pretty highly.
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt {BIO 7084125 <GO>}
 Right. Well, couple things there. We have five insurance divisions. The Reinsurance division
 is one of those. So we have quite a bit of diversification amongst the products. I like
 reinsurance as a business. I like it even better if it's one of my five businesses, because
@@ -742,10 +664,7 @@ market like we're currently experiencing is we may write less and I fully expect
 market conditions stay challenging in reinsurance. So, I feel very good about the
 reinsurance operation as part of Markel.
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Matthew, I'd like to add. I think this is where the mindset and the culture of Markel is quite
 relevant to this and in the way that all of our business that are unique and diversified parts.
 We're willing to do more of the things where the profit opportunities are good and less of
@@ -759,9 +678,7 @@ you won't get any of the good stuff if you're not there and in the market and ha
 talented people making the decisions. And as long as there long-term owners and people
 have a long-term time horizon, we'll be just fine with it.
 
-Q - Matthew Berry
-
-{BIO 16846746 <GO>}
+Q - Matthew Berry {BIO 16846746 <GO>}
 Page 13 of 18
 
 
@@ -777,10 +694,7 @@ portfolio?
 
 FINAL
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Well, the good news is it doesn't differ at all in the sense that it's cash and we get to
 invest it. Now what we'll do – and this is a discussion that we sort of coordinate with the
 actuaries – we look at what the expected liabilities are. So if we're writing property
@@ -788,10 +702,7 @@ business, we'll keep that money pretty short. And if we're writing liability bus
 keep that a little bit longer. And that's really consistent with what we do for any piece of
 float that comes in here, whether it was primary or reinsurance.
 
-Q - Matthew Berry
-
-{BIO 16846746 <GO>}
-
+Q - Matthew Berry {BIO 16846746 <GO>}
 Okay. And then I have one final one which is just historically, you guys have split out
 acquisition costs in your annual – from other underwriting expenses in your annual filings
 on a per segment basis. I didn't notice that in the 8-K which you released with the new
@@ -802,37 +713,25 @@ intending to keep splitting out acquisition costs for me.
 
 Bloomberg Transcript
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 Matthew, I believe that the intent – and it was the case in the 10-K. I don't think we
 intended to communicate vis-a-vis the 8-K that we were discontinuing that practice.
 
-Q - Matthew Berry
-
-{BIO 16846746 <GO>}
-
+Q - Matthew Berry {BIO 16846746 <GO>}
 Okay. Good. That's great. Thank you very much, Anne.
 
 Operator
 Thank you. Our next question comes from the line of Jay Cohen with Bank of America
 Merrill Lynch. Please proceed with your question.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Thank you. Thanks to you guys for giving us the historical data on the new format. That
 was really helpful for our modeling. So appreciate that. I guess let me start with some
 questions on the non-insurance piece. Tom, you had mentioned manufacturing had a slow
 first – or – what products are we talking about? Is there any particular product where you
 saw that sluggishness?
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Sure. There are three lines where we're in the manufacturing world. One, we make the
 baking equipment for commercial bakers and those are major installations where a bun
 
@@ -862,9 +761,7 @@ there. So that should – it's one of the reasons I'm optimistic about the rest 
 But those are the manufacturing businesses that were off to a bit of a soft start in the first
 quarter.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 
 Bloomberg Transcript
 
@@ -873,10 +770,7 @@ this other business. There was, I guess, a net loss in the quarter. And I don't 
 was a seasonality effect there. Or from an annual standpoint, should we expect an
 earnings contribution from that business?
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Yeah. I think we would expect – well, first of all, that business supports – it supports the
 underwriting business. So we probably aren't looking for massive margins on the
 consulting business, because, in effect, it does support our ability to get the insurance
@@ -884,19 +778,13 @@ business. But I think, over time, we certainly want to at least cover our costs 
 little bit on that consulting business. And actually we are looking to add consulting
 services. So we would over time maybe even hope to expand the margins on that.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Got it. That's helpful. And then the other piece, which again lost money in the quarter, but
 I know it can jump around quite a bit is the run-off business for the life and annuity
 business. Can you give us any sense of what your expectation is for an earnings
 contribution from that business?
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 And I might actually refer this one to Nora here, who is our Controller. The accounting for
 the life business is you're basically amortizing off the discount. And so that number is
 pretty set unless you change assumptions somewhere along the lines. So I think it was
@@ -913,69 +801,43 @@ Date: 2014-05-08
 of like interest expense. It's just amortization of the discount on those life reserves – on
 that life liability.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 
 FINAL
 
 And I guess the revenue associated with the assets in that business show up elsewhere in
 your -
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Well, that was received years ago, keep in mind. You've received the revenue and put
 them on the books and now you're just amortizing off the discount.
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt {BIO 7084125 <GO>}
 We do earn some investment income while we -
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Quite a bit. There is that.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 But the investment income is what I am saying. That shows up elsewhere.
 
 Bloomberg Transcript
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 It's showing up in the Investment segment.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Got it. That makes sense. Very good. I've got a couple other – let me stop here. And if
 there's no other questions, I'll buzz back in.
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Thanks, Jay.
 
 Operator
 There are no other questions at this time. Jay, would you like to ask your additional
 questions?
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Yeah, if you don't mind. The question had to do with going through a process this year,
 where you, I'll phrase it, rebasing the Alterra reserves to fit more with your own approach.
 And I remember the exact same thing happening with Terra Nova. And that worked out
@@ -990,9 +852,7 @@ Company N ame: M arkel Corp
 Company Ticker: M K L US Equity
 Date: 2014-05-08
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 
 FINAL
 
@@ -1009,10 +869,7 @@ Terra Nova, it takes, I'll say, three to four years to really – on a balance s
 Alterra's, it will take, I would think, three to four years for us to feel good about those
 reserves, the way we feel good about legacy Markel reserves.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Yeah. And I seem to recall that three to four years playing out with Terra Nova. I guess I
 thought possibly this might be shorter. In that when you bout Terra Nova, it was a very
 difficult time in the industry, right. Reserves for a lot of companies were quite short where
@@ -1021,37 +878,25 @@ better shape than Terra Nova's were back in 2001 or whenever that was.
 
 Bloomberg Transcript
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 I think that is a fair assumption. And we're a year into this. The deal closed May 1 a year
 ago. Things have gone well in the first year. But some of these reserves are long-tail. And
 I'd like more time to look at them. I hope you're right. And I'd like to see you be right in
 that three to four. I'd rather under-promise and over-deliver. And if that happens, we're all
 very happy.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Yeah. Something you guys have done historically. So I appreciate those answers. Thank
 you.
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 Thanks, Jay.
 
 Operator
 Thank you. There are no further questions at this time. I'd like to turn the floor back to
 management for closing comments.
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Great. Well, thank you very much for joining us. We look forward to chatting with you next
 quarter. Bye-bye.
 

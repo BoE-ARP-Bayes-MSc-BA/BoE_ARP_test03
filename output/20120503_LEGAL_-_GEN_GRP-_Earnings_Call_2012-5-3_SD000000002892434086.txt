@@ -36,10 +36,7 @@ analyst call. (Operator Instructions) Today, I'm please to present Mr. Nigel Wil
 John Pollock, Executive Director; and Mr. Mark Gregory, Executive Director. Please begin
 your meeting.
 
-Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+Nigel Wilson {BIO 1535703 <GO>}
 Good morning, everyone. And thanks for joining the call. I'm here with several of my
 colleagues, not just John Pollock and Mark Gregory. But also Wadham Downing, Kate
 Burnell [ph] and Paul Stanworth. And everyone will be delighted to answer any questions
@@ -126,10 +123,7 @@ Bloomberg Transcript
 Operator
 (Operator Instructions) Jon Hocking, Morgan Stanley.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 I've got two questions, please. On LGIM firstly, could you give us some color on the
 pipeline for the LDI and the Fixed Income business? And on the international assets, can
 you comment on how many clients you won in the quarter, new mandates you won in the
@@ -138,10 +132,7 @@ Then secondly, on the Savings business, how much of what we saw in Q1 with the
 weakness in investment contracts is likely to persist into Q2?
 Thank you.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Yes, I think just in terms of the pipeline, we're pretty happy with the overall pipeline.
 Indeed, one of the reasons that Mark Zinkula is not on the call with us is he's busy out
 there selling as we -- and engaged in front office activity as we speak. We've never been
@@ -160,10 +151,7 @@ On Savings, Mark?
 
 FINAL
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Yes, Jon, just -- you're quite right to highlight the issue around savings investments. I think
 we have to reflect here there are some big macro themes at play. We are going through
 a period of quite low consumer confidence/disposable income to invest in savings
@@ -187,32 +175,20 @@ things.
 So probably you might say we'll probably a slight increase in trend overall. But I wouldn't
 expect a massive bounce-back to be honest, Jon.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 So it's a weakness because you've pulled product in Q1?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 We have actually pulled from product, yes. In fact, we are disciplined. But we're not
 prepared to keep manufacturing what might look like very good products but with very
 different downside risk profiles for end customers. So we have pulled products, yes.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 So effectively, your confidence is going to recover in two Q's because you've pulled some
 product in Q1; that's not going to recur in Q2. And there's an underlying factor, which is
 obviously not helpful. But it's partly L&G-specific factors that drove the shortfall?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Some and some, Jon. Clearly, the overall macro environment is such that I don't savers
 are clear whether this is a risk-on/risk-off type market we're in right now. And that has
 affected our Unit Trust business [ph].
@@ -232,60 +208,37 @@ how that helps us design those products.
 
 FINAL
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Okay. So one last follow-up, then. Is this across all channels? Are you seeing it more in the
 bank channel or less in the bank channel?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 I'd say more in the bank channel.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Okay. And is there any funding relationship here, or is it just literally --?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Not on our --
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
+Q - Jon Hocking {BIO 2163183 <GO>}
 
 Bloomberg Transcript
 
 No. I mean the banks' point of view; are they selling other products rather than your
 products?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Certainly not, certainly not what we've got tied [ph] to this region. They can't do that. So
 no, it's a mutual agreement between ourselves and our key distributors.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Okay. Thank you very much.
 
 Operator
 Blair Stewart, Bank of America.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 A question along the same lines really, because everything else is pretty straightforward.
 Just on the Savings net flows, you've seen GBP400 million outflow, despite GBP300
 million inflow in the workplace pensions. So the conclusion is that there's quite heavy
@@ -304,9 +257,7 @@ Date: 2012-05-03
 
 Thanks very much.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
+A - Mark Gregory {BIO 15486337 <GO>}
 
 FINAL
 
@@ -359,35 +310,23 @@ both before and after the immediate impact of RDR.
 
 FINAL
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Given the types of IFAs that you're dealing with, you're not paying the commission any
 more, would you expect yourselves to be slightly less impacted than the market there,
 given that I guess by definition your partners will be more RDR-ready? Is that a fair
 assumption?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 I think to an extent, Blair. But even then, we've got to still sit down and for the first time,
 for example, talk about the impact of an advice charge. It's just a very different
 conversation to one that perhaps advisers will have had in the past. So I don't think
 anyone's completely exempt from the impact. I might argue we'll be less impacted. But to
 say we'll be not impacted I think would be overly ambitious for us.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Okay. That's great. Thanks very much.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Cheers, Blair.
 
 Bloomberg Transcript
@@ -418,10 +357,7 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2012-05-03
 
-A - John Pollock
-
-{BIO 6037447 <GO>}
-
+A - John Pollock {BIO 6037447 <GO>}
 Hi, Greig. The group protection, I think -- group pensions, I think you're talking about
 group protection there, are you, rather than group pensions?
 
@@ -431,19 +367,13 @@ FINAL
 
 Yes. Well you said group protection in your notes. So I assume I'm talking about that.
 
-A - John Pollock
-
-{BIO 6037447 <GO>}
-
+A - John Pollock {BIO 6037447 <GO>}
 Yes. You said group pensions. Just clarifying that.
 
 Q - Greig Paterson
 My apologies. Group protection, apologies.
 
-A - John Pollock
-
-{BIO 6037447 <GO>}
-
+A - John Pollock {BIO 6037447 <GO>}
 Let me pick up PIC bid. We don't ever talk about competitive pricing, Greig, as well you
 know. It's a great question. But I'm not telling you.
 
@@ -452,10 +382,7 @@ But did you bid on it? That's all [ph].
 
 Bloomberg Transcript
 
-A - John Pollock
-
-{BIO 6037447 <GO>}
-
+A - John Pollock {BIO 6037447 <GO>}
 We pretty well offer prices on pretty well everything we're asked for. I don't actually
 remember the last time that we refused to bid on a case. There are very, very few cases
 in the market where exclusivity is granted without necessarily a competitive process. And
@@ -469,10 +396,7 @@ competitive deals.
 Q - Greig Paterson
 All right. So I'll assume that's a yes for the did you bid on it one.
 
-A - John Pollock
-
-{BIO 6037447 <GO>}
-
+A - John Pollock {BIO 6037447 <GO>}
 Well I gave my answer, Greig. As far as GI is concerned, this is not -- our growth has not
 particularly been driven by rating, it's been driven by distribution growth. We are playing
 more strongly in the direct space. And one or two additional brokerage deals have been
@@ -497,10 +421,7 @@ Q - Greig Paterson
 So what year-on-year rate increases is the market doing, if you don't want to quote yours?
 Is it low single digits or --?
 
-A - John Pollock
-
-{BIO 6037447 <GO>}
-
+A - John Pollock {BIO 6037447 <GO>}
 Last year would be slightly more compelling numbers than trying to give anything this year.
 Last year, we saw something in the range of 5% to 10% on average rate hardening. It
 would be too early this year to give anything that's happened this year. Perhaps we can
@@ -527,19 +448,13 @@ you poached some people from the Aviva SME mortgage operation last year and you'
 launched this year. I was wondering what your targeted percentage of assets backing the
 annuity liability book you're looking for in terms of the long-term SME mortgage space.
 
-A - John Pollock
-
-{BIO 6037447 <GO>}
-
+A - John Pollock {BIO 6037447 <GO>}
 Well let me just -- we don't ever poach anybody from anywhere, Greig. We --
 
 Q - Greig Paterson
 They moved across voluntarily. Sorry; apologies.
 
-A - John Pollock
-
-{BIO 6037447 <GO>}
-
+A - John Pollock {BIO 6037447 <GO>}
 Page 9 of 28
 
 
@@ -561,10 +476,7 @@ Thank you very much.
 Operator
 Nick Holmes, Nomura.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 A couple of questions. Firstly, with bulk annuities, are you still seeing positive new business
 strain? I know it fell last year. And I wondered if this trend was continuing.
 Then secondly, changing focus away from the UK, looking at US and Asia. And LGIM's
@@ -574,10 +486,7 @@ Thank you.
 
 Bloomberg Transcript
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Yes. I think on the LGIM, it's a little bit early to talk very explicitly about that. We'll give a
 more detailed review at the half year, when we think we'll have made more demonstrable
 progress in those areas.
@@ -586,23 +495,14 @@ And that we would expect the strain to be a modest positive number for the year,
 were to make a forecast at this particular time of the year. But it's -- there's no shocks in
 the marketplace around in either direction.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. That's pretty clear. And would perhaps John like to make any comments about the
 pipeline? I think, Nigel, you said he'd give us a bit more detail.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Not that much detail.
 
-A - John Pollock
-
-{BIO 6037447 <GO>}
-
+A - John Pollock {BIO 6037447 <GO>}
 I always get asked about pipeline. And Greig is a very keen observer of pipeline. And it
 does depend very heavily on your definition of pipeline.
 
@@ -631,10 +531,7 @@ years. Who knows?
 But there is still good activity. But I think in general terms it's slightly more subdued at the
 moment than it has been.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. Great. Thanks very much.
 
 Operator
@@ -643,10 +540,7 @@ Bloomberg Transcript
 
 Andy Hughes, BNP Paribas.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 A couple of questions, if I could. The first one is I guess coming back to the investments.
 And that slide that was a bit of a surprise. Just looking at the movement between Q1 last
 year and Q1 this year. And I know you mentioned that structured products you're selling
@@ -662,10 +556,7 @@ from the unit trust products. So can you talk a bit about that. And how differen
 your easy [ph] assumptions?
 Thank you.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Yes, Andy, are you just referring there to the savings flows?
 Page 11 of 28
 
@@ -675,35 +566,22 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2012-05-03
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Yes.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
+A - Nigel Wilson {BIO 1535703 <GO>}
 
 FINAL
 
 Yes, not the LGIM flows, which were --?
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 No. So the -- yes.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 I'll let Mark answer that.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
+A - Mark Gregory {BIO 15486337 <GO>}
 
 Bloomberg Transcript
 
@@ -748,38 +626,23 @@ So it will have zero embedded value impact.
 
 FINAL
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Okay. So the outflows are for mainly products which aren't investment, because obviously,
 some of them are and some of them aren't, aren't they? So --
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Sorry, I thought you were asking a question specifically about the delta on the -- those on
 investments.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 The savings.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 That is by definition -- in our case, that is all non-insurance business.
 
 Bloomberg Transcript
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Right, okay. Great. Thanks. Can I ask another question of Solvency II as well? I know you
 mention in the release that you're happier with some of the progress relating to the
 counter-cyclical premium, essentially [ph] a buffer. But also, could you perhaps talk a bit
@@ -789,27 +652,19 @@ And one point on the matching premium was the limitation of the credit spread, t
 assets. Are you still thinking that that's going to happen, or do you think that's likely to
 change as well?
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 I think the principle is well established; he detail around it is not well established. I would
 be very surprised if the A stood the test of time as well. I suspect there are a number of
 changes which will happen over the next few months. And the direction of travel is
 certainly in our favor.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Okay. Thank you.
 
 Operator
 Ashik Musaddi, JPMorgan.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Page 13 of 28
 
 
@@ -832,10 +687,7 @@ more interesting and we can see a significant pickup in new business. So how do 
 about that?
 Thank you.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Just on the investment profile, I think it's probably worth saying in L&G terms. And I do
 stress in L&G terms, we probably are investing certainly more substantial sums in key
 strategic areas. So you mentioned platforms. Clearly, we're investing in our RDR
@@ -879,18 +731,12 @@ hiatus. I'm fully expecting us to maintain that level of momentum going forwards
 
 FINAL
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. Can you just give one more follow-up just --? Can you give us some sense of what
 are your expectations for the opt-in and opt-outs after -- of your existing schemes which
 you are expecting to basically contribute to new business in the second half ?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Yes. It's actually very difficult to answer that overall, because it does very much depend on
 how benevolent the sponsoring employer has been. And some of the schemes we've
 won, for example, actually -- people almost can't opt out. They're put into a pension
@@ -917,10 +763,7 @@ they need to meet their side of the bargain.
 So I'm slightly more bearish on the level of opt-outs. But again, that's all part of our pricing
 discipline when we factor that into our economic models.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thank you.
 
 Operator
@@ -933,9 +776,7 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2012-05-03
 
-Q - Raghu Hariharan
-
-{BIO 15133573 <GO>}
+Q - Raghu Hariharan {BIO 15133573 <GO>}
 
 FINAL
 
@@ -952,9 +793,7 @@ impact of the mix you're seeing where you're seeing net inflows into your Group 
 business and outflows I guess in your Unit Linked Bonds and Individual Pensions business?
 Thanks.
 
-A - John Pollock
-
-{BIO 6037447 <GO>}
+A - John Pollock {BIO 6037447 <GO>}
 
 Bloomberg Transcript
 
@@ -971,20 +810,14 @@ that has changed, or any dramatic moves, or any dramatic drivers in either the a
 market or in the CPA market that is changing anything substantially. So by and large, it's
 steady as she goes in both those markets.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 In terms of LGIM, we are investing to achieve that growth. We're building an infrastructure
 in the Middle East, building an infrastructure in America. And have started to build
 infrastructure in Asia. So you have to recognize to get the growth you've got to spend the
 money to get there. So the bottom line impact is not dramatic from getting extra volume
 through.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Just on the savings margin point, it's clear there's quite a lot of moving parts going on
 within the Savings covered business, new business margin. But overall, my view would be I
 wouldn't expect the mix in the First Quarter to add any material change to the overall
@@ -997,10 +830,7 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2012-05-03
 
-Q - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+Q - Raghu Hariharan {BIO 15133573 <GO>}
 Okay. Thank you.
 
 Operator
@@ -1009,10 +839,7 @@ FINAL
 
 James Pearce, UBS.
 
-Q - James Pearce
-
-{BIO 16758460 <GO>}
-
+Q - James Pearce {BIO 16758460 <GO>}
 A couple of questions. You've had flat sales with new business straying off a bit. And you
 talk about that being driven by changes in mix. Could you clarify on that whether you're
 talking about product mix within the UK, or a shift from the UK to international?
@@ -1020,9 +847,7 @@ Then secondly, the UK volume that you've seen, how do you think your market shar
 developed during the period? Do you think your UK volume will be -- will turn out to be
 typical of the markets?
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
+A - Nigel Wilson {BIO 1535703 <GO>}
 
 Bloomberg Transcript
 
@@ -1034,10 +859,7 @@ In terms of strength, the delta is very small year over year. And it's predomina
 of million extra in insured savings as we invest to grow that business, as Mark's talked
 about on the answer to at least five questions.
 
-Q - James Pearce
-
-{BIO 16758460 <GO>}
-
+Q - James Pearce {BIO 16758460 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -1051,10 +873,7 @@ figures on what -- numerically what changes you've made to your bank exposures, 
 happened to your equity portfolio. And what the net cash flow impact will be looking
 forwards.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 I'll talk about the financial impacts. I'll ask Paul to give a more market contextual
 background of what we've been doing.
 Page 17 of 28
@@ -1075,10 +894,7 @@ that when they're modeling that through for the year. In large, that's influence
 colleagues at LGIM's view.
 Paul, do you want to -- ?
 
-A - Paul Stanworth
-
-{BIO 15495409 <GO>}
-
+A - Paul Stanworth {BIO 15495409 <GO>}
 Broadly speaking, you'll have noticed in the past that we have reduced exposure to the
 bank sector. And we continue to do that at roughly a reduction of about 1.5% of LGPL's
 funds have been moved out of banks and into gilts. And within shareholder funds, a
@@ -1092,10 +908,7 @@ But can you quantify the impact on the shareholders (multiple speakers)?
 
 Bloomberg Transcript
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 The assumptions are in the back of the accounts. Without actually reproducing our model
 here, it's just that we noticed in a number of models. And I can't remember which
 specifically, that they -- the amount of investment return built into the group cover [ph]
@@ -1114,10 +927,7 @@ Thank you very much.
 Operator
 Andrew Crean, Autonomous Research.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Page 18 of 28
 
 
@@ -1147,10 +957,7 @@ they'll be bringing money, existing pension pots with them?
 
 Bloomberg Transcript
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 I'll take the first one on Solvency II. I think it is the -- we're still in the ink-drying mode.
 Whilst the -- as I said earlier the direction of travel's fine. The level of detail that's going to
 be required to get consistency across Europe is probably in line with our own
@@ -1158,22 +965,13 @@ expectations. But a lot greater than other people's expectations. And the infere
 draw, Andrew, is probably that there's a reasonable chance of the process getting
 delayed. The probability of that's probably increased in the last couple of months.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 And does that then delay your process for doing a review of your capital position?
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Yes.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Just on the corporate pensions price and an impact on the earnings, Andrew, clearly, I'm
 not going to comment precisely on exactly where our margins are and just how we're
 pricing individual mandates. But it is fair to say that our strategic thinking is that auto
@@ -1201,51 +999,33 @@ we're fighting very hard to make sure that we produce a one size fits all for al
 employees' solution, not just for their new auto enrollees. And that's absolutely core to
 our --
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 So it's the existing employees who are more valuable in the near term, isn't it?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Yes. I'd [ph] argue that point. But clearly, we're trying to be inclusive, Andrew. And think
 about all the employees, not just a few. But it is fair to say that people can -- tend to be
 worth rather more to us than those starting from --
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Scratch.
 
 Bloomberg Transcript
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Starting from zero. And anyway we'll stress again, we have invested very heavily here to
 make sure that we are very efficient. But clearly, this is a scale game ultimately. And
 without commenting on the kind of numbers you've quoted, it's fair to say that the
 greater the scale and the greater the efficiency, then the more attractive this business
 becomes.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Thanks very much.
 
 Operator
 Toby Langley, Barclays.
 
-Q - Toby Langley
-
-{BIO 15924432 <GO>}
-
+Q - Toby Langley {BIO 15924432 <GO>}
 Toby Langley, Barclays Research. I've got three questions. The first is on any benefit that
 you feel you had in the First Quarter from the kind of dithering from the Treasury around
 chopping pension tax relief. St. James's Place certainly appears to have done quite well in
@@ -1275,9 +1055,7 @@ an asset to premium ratio that we should maybe be thinking about in terms of thi
 about what's the economic benefit of turning on these auto enrolment agreements?
 Thanks.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
+A - Mark Gregory {BIO 15486337 <GO>}
 
 Bloomberg Transcript
 
@@ -1299,10 +1077,7 @@ businesses as hard as we possibly can. But I don't think that's down to any kind
 over pension tax relief.
 Do you want to take the investment one?
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 In terms of investment, it's really the same answer I gave to Raghu's question earlier is
 that LGIM, we're having to spend -- we'll give a better review and sense of that at the half
 year when there's a bit more certainty about one or two things that are going on in
@@ -1326,51 +1101,31 @@ What was the third question?
 
 FINAL
 
-Q - Toby Langley
-
-{BIO 15924432 <GO>}
-
+Q - Toby Langley {BIO 15924432 <GO>}
 Yes, on the asset ratio to -- asset to premium ratio. If I could just come back, Nigel, on that
 point though. In our heads, should we --? One of your competitors -- this investing number
 is a three-digit number. So for you, is it a two-digit number; is it a single-digit? How should
 we be thinking about that in terms of modeling?
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 It's a two-digit number. But it's not -- it's not a single-digit number.
 
-Q - Toby Langley
-
-{BIO 15924432 <GO>}
-
+Q - Toby Langley {BIO 15924432 <GO>}
 A two-digit number for the year or in the quarter?
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 We can't spend that quickly, Toby.
 
-Q - Toby Langley
-
-{BIO 15924432 <GO>}
+Q - Toby Langley {BIO 15924432 <GO>}
 
 Bloomberg Transcript
 
 You can't spend that quickly. Okay, good. All right. And the assets, your premium ratio?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Yes, sorry, Toby. I switched off there. Can you repeat that question again?
 
-Q - Toby Langley
-
-{BIO 15924432 <GO>}
-
+Q - Toby Langley {BIO 15924432 <GO>}
 So Andrew was, I think, fishing for some sense as to what people may bring to the
 platform as a result of being signed up to auto enrolment. And I -- probably maybe
 posturing the question a different way, is there kind of -- how should we think about that
@@ -1380,10 +1135,7 @@ that's your regular premiums. But what typically will that type of individual br
 Or what do you hope for them to bring with them in terms of asset flows; i.e., transfer of
 existing savings?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 It's very hard to be absolutely definitive about an average, because clearly, the schemes
 we're talking about, it depends on the employees within those schemes. Clearly, some of
 these people are -- some of those schemes we're winning have got much, much higher
@@ -1407,18 +1159,13 @@ that we are very keen to win.
 So it's a key determinant. But I wouldn't want to be too prescriptive about how it works on
 average, because virtually every scheme has got different characteristics.
 
-Q - Toby Langley
-
-{BIO 15924432 <GO>}
-
+Q - Toby Langley {BIO 15924432 <GO>}
 Okay. Thank you.
 
 Operator
 Marcus Barnard, Oriel Securities.
 
-Q - Marcus Barnard
-
-{BIO 2103471 <GO>}
+Q - Marcus Barnard {BIO 2103471 <GO>}
 
 Bloomberg Transcript
 
@@ -1431,29 +1178,20 @@ cash generated is a bit lower. I'm just wondering are you still confident that t
 business adds value to shareholders over the medium to longer term?
 Thanks.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 : Just on the persistency one, Marcus, I think I'll take your lead there. All I would say just to
 reassure, I don't think we're seeing any major shifts in the trend either way in the First
 Quarter. But I think it's a fair challenge to say we should give you a bit more color on any
 impact of the overall economy on persistency at the half year.
 
-A - John Pollock
-
-{BIO 6037447 <GO>}
-
+A - John Pollock {BIO 6037447 <GO>}
 And on GI, the short answer is, yes. The comparator to last year, if you remember, we had
 very hard freeze in December 2010, meaning that January '11 was a relatively benign year.
 We had a bit of a storm in January and a bit of a freeze in February, which has impacted
 Q1 results. But despite the wet weather, I'm very confident that GI continues to offer very
 good shareholder value hell bent on continuing to grow that business.
 
-Q - Marcus Barnard
-
-{BIO 2103471 <GO>}
-
+Q - Marcus Barnard {BIO 2103471 <GO>}
 Okay. Thank you.
 
 Page 23 of 28
@@ -1469,10 +1207,7 @@ Gordon Aitken, RBC.
 
 FINAL
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Just one question on corporate pensions. It's interesting your scheme wins in the quarter;
 you brought in 29,000 existing members. And that was ahead of the market leader who
 reported 26,000. Now we've talked a bit about how much you're investing and you've
@@ -1483,9 +1218,7 @@ information. So basis points the members are paying, average premium size and st
 turnover.
 Thanks.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
+A - Mark Gregory {BIO 15486337 <GO>}
 
 Bloomberg Transcript
 
@@ -1530,16 +1263,11 @@ and how they comply with the auto enrolment obligations, because they are quite
 onerous.
 I think that's why we're actually proving to be quite popular in the -- in this space.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Are you all chasing the same type of business, or do you favor particular parts of this
 market?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
+A - Mark Gregory {BIO 15486337 <GO>}
 
 Bloomberg Transcript
 
@@ -1552,25 +1280,16 @@ employees.
 So I think, by definition, it is the largest schemes in the marketplace at this point in time.
 And now we're probably moving on to the next stage of larger schemes.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Okay. Thank you.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 This is the last question coming up by the way guys.
 
 Operator
 Andy Hughes, BNP Paribas.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Just a quick question about the change in asset allocation for the annuities now you're
 starting to do commercial property loans. Obviously, when you write a commercial
 property loan, its value that you calculate fair value, which I guess is the same as what you
@@ -1591,74 +1310,44 @@ as you start doing more commercial property lending?
 
 FINAL
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 The short answer to that question is, no. The amount of, obviously, commercial property
 lending so far is trivial in the context of the overall portfolio. We may or may not decide it's
 a very important asset class going forward. We're just seeing there's some reasonable
 opportunities in the marketplace for us as consequences of banks deleveraging.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 But does it actually depress your new business, positive new business trends?
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 No.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 It doesn't?
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 No.
 
 Bloomberg Transcript
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 So how does that work? Are you fair valuing it above what you lend to the Company, or -?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 The basis on which we would write a commercial loan would be the same as you'd write a
 quoted debenture, or any other secured type lending. So the difference between what
 we're doing is that they're bilateral agreements as opposed to traded agreements, which
 would be bonds. So there'd be no difference at all.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 So you treat it like corporate debt and you'd apply your own rating criteria and use the
 yield on the asset versus default assumption?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Yes, because the structure of what we're doing isn't typical of bank loans; it's basically the
 type of stuff that looks like a bond.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 But that's -- my understanding that's very different to Aviva, who do claim that they fair
 value the debt on their loan balance sheet and use a risk-free rate to discount the liability
 Page 26 of 28
@@ -1671,58 +1360,39 @@ Date: 2012-05-03
 
 backing it.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
+A - Mark Gregory {BIO 15486337 <GO>}
 
 FINAL
 
 I can't really comment on what Aviva do.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Okay. And the other part of the question was I guess on the de-risking on the Bank side.
 When you risked the portfolio and move stuff into high risk securities, the yield went up
 and you released cash. Now you've de-risked the portfolio, why would the cash not go
 down?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Because we're changing the composition of some other parts of the portfolios we just
 talked about into commercial loans. And so there's -- the combination is that we're
 moving into what we think are favored markets away from non-favored markets. And as
 Nigel was saying, we correctly predicted the quite significant downgrade of the banking
 sector. And we've been working for some years to reduce our exposure to that.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
+Q - Andy Hughes {BIO 15036395 <GO>}
 
 Bloomberg Transcript
 
 Okay. So as you're selling the Bank debt, you're buying other things which have quite a
 high yield as well. And that's sharing [ph] a net neutral effect to the underlying cash flow.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 And higher risk adjusted yields.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 High risk adjusted -- yes, sorry. Thank you.
 
-A - Nigel Wilson
-
-{BIO 1535703 <GO>}
-
+A - Nigel Wilson {BIO 1535703 <GO>}
 Okay. Thank you, everyone, for your questions. If there are any other follow-up questions,
 Kate, Wadham and the rest of the team will be around all of today. Indeed, if you've got
 further questions for Mark, John or myself, we'll be happy to take them.
@@ -1730,10 +1400,7 @@ Thank you, again for your interest. And look forward to seeing some of you in th
 few weeks.
 Bye.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Goodbye.
 
 Operator

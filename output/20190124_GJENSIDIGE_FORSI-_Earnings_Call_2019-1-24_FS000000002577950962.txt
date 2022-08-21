@@ -35,10 +35,7 @@ As always, we will start with our CEO, Helge Leiro Baastad, who will go through 
 highlights, followed by our CFO, Jostein Amdal, who will run through the numbers in
 further detail. And we will have plenty of time for questions at the end. Helge, please.
 
-Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+Helge Leiro Baastad {BIO 5865247 <GO>}
 Thank you, Mitra. Good morning and welcome, everyone. 2018 was indeed an
 extraordinary year for Gjensidige with extreme weather impacts hitting our earnings for
 the ﬁrst three quarters. The fourth quarter was a more normal quarter from a weather
@@ -132,10 +129,7 @@ And with that, l will leave the word to Jostein to present the Q4 results in mor
 
 Bloomberg Transcript
 
-Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+Jostein Amdal {BIO 19939645 <GO>}
 Thank you, Helge, and good morning, everybody. I will start on page 7. We delivered a
 proﬁt before tax of NOK 1.7 billion in the fourth quarter. As a reminder, the bank's results
 are recorded as discontinued operations and, hence, not included in this table. The
@@ -251,10 +245,7 @@ exposure towards equities and credit risk. The pro-forma Solvency margin given t
 of Gjensidige Bank is calculated to 245% as of the year-end 2018.
 I'll then hand the word back to Helge for some concluding remarks.
 
-Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+Helge Leiro Baastad {BIO 5865247 <GO>}
 To sum up on page 14, standing at the very beginning of 2019, I'm very optimistic about
 Gjensidige's prospects. I'm conﬁdent of the signiﬁcant probability measures across the
 whole operation of feeding through and I'm conﬁdent we will deliver on our ambitious
@@ -297,10 +288,7 @@ Bloomberg Transcript
 Thank you. We will take our ﬁrst question from Jonny Urwin of UBS. Please go ahead. Your
 line is open.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi. Morning. Thanks. Thanks for taking my questions. Just two, please. So, ﬁrstly, the
 underlying improvement in the loss ratio came through a bit sooner than expected which
 is good to see. And I note in the presentation that you talk about weather being a partial
@@ -314,10 +302,7 @@ And it's often a trend and actuaries always say this, but the good underwriting 
 to get better from a reserving perspective and the bad underwriting years tend to get
 worse. So any comments there would be great. Thank you.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 I can give you a comment on the ﬁrst question and Jostein are preparing the second one.
 You're actually asking if you see a turning point of proﬁtability in fourth quarter, especially
 for motor. Proﬁtability for motor Norway improved in fourth quarter 2018 compared to
@@ -338,10 +323,7 @@ encouraged by the results and feel conﬁdent that we will see a turning point d
 
 FINAL
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 On the reserves, I mean even though loss ratio very higher in the last – say from second
 half of 2016 somewhat, loss ratios haven't been really high. And I feel very conﬁdent really
 that we have suﬃcient reserves on these past vintages and don't see any special risk of
@@ -350,10 +332,7 @@ Remember that the releases (00:20:31) from very long tail lines of business, wor
 comp and motor TPL. And it's not those lines of business that have been especially hit in
 2017 and 2018. So I'm not too worried about that.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Fair enough. Great color. Thanks, guys. Thank you.
 
 Operator
@@ -362,19 +341,13 @@ line is open.
 
 Bloomberg Transcript
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
-
+Q - Matti Ahokas {BIO 2037723 <GO>}
 Yes. Good morning. Two questions. It sounds like the weather in Q4 was a bit better than
 kind of a normal Q4. Is it possible to quantify this? You obviously gave the negative
 weather impact in the previous quarters. And then regarding the sale of the bank, how
 will this impact the diversiﬁcation beneﬁts in your capital calculation? Thanks.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Hi. We don't have a speciﬁc number for how bad was Q4 2017. Q4 2018 is not far from
 normal, maybe slightly benign but not – yeah, but not very. Q4 2017, we said, but without
 quantifying that we were hit by winter eﬀects in Q4 2017, especially on the motor side. So
@@ -385,10 +358,7 @@ being more precise.
 On the bank, there is no diversiﬁcation beneﬁt at all in the capital calculation from bank
 and insurance.
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
-
+Q - Matti Ahokas {BIO 2037723 <GO>}
 Great. Thanks a lot.
 
 Operator
@@ -406,10 +376,7 @@ comes from Blair Stewart of Bank of America. Please go ahead. Your line is open.
 
 FINAL
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Hello. Good morning. I've got a couple of questions. Helge, when you talk about the
 turnaround happening in the ﬁrst half of the year, how should we think about quantifying
 that in terms of the impact on the combined ratio? If you can give us some color there.
@@ -418,9 +385,7 @@ accrue the dividend all the way through the year, or is that just the Q4 eﬀect
 as well, what was the additional NOK 1 billion of excess reserves? Was that, in any way,
 included in the Solvency position or has that provided a boost? Thank you.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 
 Bloomberg Transcript
 
@@ -435,10 +400,7 @@ after this turning point. Whether we will ever reach historical peaks, it's di�
 but we will certainly do our best to improve proﬁtability from that turning point. So, once
 again, it's the underlying proﬁtability improvement year over year.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 For the Solvency calculation throughout the year, we assume a 70% dividend as a
 percentage of IFRS proﬁt because that, until now, is the minimum average and will
 increase to 80% going forward. So, not to speculate in what the actual dividend will be,
@@ -463,9 +425,7 @@ Company Name: Gjensidige Forsikring ASA
 Company Ticker: GJF NO Equity
 Date: 2019-01-24
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
+Q - Blair Stewart {BIO 4191309 <GO>}
 
 FINAL
 
@@ -474,10 +434,7 @@ useful to have a view on to what extent price increases that you're managing to
 implement are above the inﬂation level. That might be a good guide for us. So are the
 price increases exceeding the claims inﬂation level in motor?
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 Yeah. Talking about – to start with our expectation for – just to give a comment on
 expected claims inﬂation going forward ﬁrst. So, our expectation is unchanged and, if
 anything, tilting a bit down to around 5% to 6%. And remember, however, that this reﬂects
@@ -489,46 +446,33 @@ that level. And I commented churn, the retention is unchanged. We see gradually
 somewhat more challenging new sales. That's natural. But, overall, we are very conﬁdent
 into 2019.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
+Q - Blair Stewart {BIO 4191309 <GO>}
 
 Bloomberg Transcript
 
 The price increases don't look signiﬁcantly above that level, Helge. They're between 5%
 and 7%, so they're really above but not signiﬁcantly above, would that be fair?
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Please also remember the earnings eﬀect of these price increases since 24 months. We're
 talking about price increases that will hit new policies and that then takes time both for
 the policies to renew and the earning into the accounts.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Yeah. Yeah. Sure. Okay, great. Thank you. Thanks very much.
 
 Operator
 Our next question today comes from Kevin Ryan of Bloomberg Intelligence. Please go
 ahead. Your line is open.
 
-Q - Kevin Ryan
-
-{BIO 1814771 <GO>}
-
+Q - Kevin Ryan {BIO 1814771 <GO>}
 Many thanks. Just a point of administration. Could you let us know how quickly the FSA
 are likely to approve the dividend payout? And secondly, on the dividend, given that
 you're maintaining it this year with lower underlying proﬁtability and having to go to the
 FSA for approval, is this a look forward as to your optimism for 2019 that we can expect
 growth from here? Many thanks.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
+A - Jostein Amdal {BIO 19939645 <GO>}
 Page 9 of 16
 
 
@@ -544,16 +488,10 @@ this will actually happen, it's hard for us to be very concrete on that. Yeah, a
 
 FINAL
 
-Q - Kevin Ryan
-
-{BIO 1814771 <GO>}
-
+Q - Kevin Ryan {BIO 1814771 <GO>}
 Okay. Thanks.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 On the second, our dividend policy remains is that we strive to keep a high and normal
 and stable dividend and if we have growth in underlying proﬁts then dividends – or their
 dividends should also grow. We do have a fairly solid Solvency margin both before and
@@ -566,9 +504,7 @@ investment return for the (00:30:54) it's low. It's a little bit kind of normali
 assumptions. Yes, we do expect higher proﬁts in 2019 and 2018 as I expect all of you have
 as well.
 
-Q - Kevin Ryan
-
-{BIO 1814771 <GO>}
+Q - Kevin Ryan {BIO 1814771 <GO>}
 
 Bloomberg Transcript
 
@@ -578,10 +514,7 @@ Operator
 Our next question today comes from Jan Erik Gjerland of ABG. Please go ahead. Your line
 is open.
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Yeah. Good morning. It's Jan Erik from ABG. I have four questions. The ﬁrst one is about
 price versus new wins in commercial. You have a quite steep growth in commercial
 premiums, so how much is really price increases versus new business wins during the year
@@ -604,10 +537,7 @@ Date: 2019-01-24
 
 FINAL
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 It's large questions, all of them, Jan Erik, and I can start and Jostein, please ﬁll me out.
 Regarding commercial, we have actually last, I would say, during 2015, 2016, and 2017 had
 – remember, we have 80% is direct distribution. It's SMEs. It's large motor book also in the
@@ -618,15 +548,10 @@ it's a diﬀerent type of market we're operating in now into 2019 compared to wh
 one year ago.
 When it's about churn, I read your paper last week and I wouldn't say that we are...
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Thank you.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 
 Bloomberg Transcript
 
@@ -644,10 +569,7 @@ keep and try to retain our broad proﬁtable customers.
 Commercial, the third, and the bank, maybe you could comment on the third and the
 fourth questions.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Yes, Helge. On the negative frequency in the commercial sector, you see that we have a
 small negative development in the underlying losses or underlying results in the
 commercial (00:35:34) particular line of business that has been hit. But it's mostly related
@@ -655,10 +577,7 @@ to property and motor, but no speciﬁc ﬂavor I can give to that. It is part o
 short-term volatility in that and that we are looking to mitigate through price and other
 measures. Similar problems in the motor line as we have...
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Just a question. On the motor side, it's a little odd that if you have a sort of improved
 weather situation on the private side in motor, while we have a negative observation on
 that same kind of frequency on the commercial side.
@@ -671,9 +590,7 @@ Company Name: Gjensidige Forsikring ASA
 Company Ticker: GJF NO Equity
 Date: 2019-01-24
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
+A - Jostein Amdal {BIO 19939645 <GO>}
 
 FINAL
 
@@ -682,16 +599,10 @@ in commercial also includes more heavy trucks, car ﬂeets, and so on which are 
 than the private. And on the property side, there's been several smaller losses that has
 been kind of contributed to this negative frequency.
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Okay. Thank you.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 The bank, which products have lower margins, what's really hitting the bank in the fourth
 quarter has been a lot of one-oﬀs, but we also have some lower underlying margin in the
 ordinary mortgage book. Funding costs have increased and we've delayed some of the
@@ -705,29 +616,20 @@ customers in the consumer loan sector. Yeah, I think that's the broad story.
 
 Bloomberg Transcript
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Perfect. Thank you very much for very good answers.
 
 Operator
 Our next question comes from Paul Walsh of Field Gibson Media. Please go ahead.
 
-Q - Paul Walsh
-
-{BIO 3076077 <GO>}
-
+Q - Paul Walsh {BIO 3076077 <GO>}
 Good morning. Just a couple of questions if you don't mind, please. I remember during
 your Capital Markets Day in London at the back end of last year, you talked about a target
 of increased claims reporting to be done digitally. Could just give me an update on that,
 please, in terms of how many policies are being handled digitally? And also, if you could
 possibly give me an update on IFRS 17 preparations, please.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 I'll start on the IFRS 17, while we're struggling to ﬁnd the ﬁgure on the digitalization here.
 IFRS 17, we expected to start in or to be implemented by 1/1/2022. And we are well under
 way to implement these new accounting regulations. It will have a fairly limited impact on
@@ -752,58 +654,35 @@ On the updated numbers on the digitalization of claims handling, we are at 69.6%
 frequency claims in the private segment in Norway that's applied online as of Q4 2018.
 And then I don't have a combined ﬁgure for the other geographies, but it's increasing.
 
-Q - Paul Walsh
-
-{BIO 3076077 <GO>}
-
+Q - Paul Walsh {BIO 3076077 <GO>}
 Good. So, just to conﬁrm, it was 69.6% in the private segment.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Yeah, in Norway.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 Norway.
 
-Q - Paul Walsh
-
-{BIO 3076077 <GO>}
-
+Q - Paul Walsh {BIO 3076077 <GO>}
 In Norway.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
+A - Jostein Amdal {BIO 19939645 <GO>}
 
 Bloomberg Transcript
 
 Yeah, private segment.
 
-Q - Paul Walsh
-
-{BIO 3076077 <GO>}
-
+Q - Paul Walsh {BIO 3076077 <GO>}
 Thank you very much.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Yeah.
 
 Operator
 Our next question comes from Vinit Malhotra of Mediobanca. Please go ahead. Your line
 is open.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Thank you for letting me come back into this call. Sorry about the technical hassle.
 Maybe a few follow-ups, please. Just on the Solvency and the reserving topic, please. If
 you could clarify, so when the FSA had approved the excess reserves in Q3, is it a safe
@@ -839,10 +718,7 @@ very much.
 
 Bloomberg Transcript
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Okay. On the ﬁrst one, the FSA – what the FSA are approved and/or said to us that was
 when they identify a margin in the claims reserve that should be included in the Solvency
 margin calculation. They didn't approve the numbers or anything like that as such. So, this
@@ -866,9 +742,7 @@ lower results. There's no dialogue with Nordea regarding these results. They'll 
 from the formal closing some time during Q1. And beyond that, the proﬁt or lack of proﬁt
 is our risk and not theirs.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Page 14 of 16
 
 
@@ -885,21 +759,13 @@ before. Is that because of something in the market? Is it because of better beha
 competitors? Is it just some trends you are observing? Could you just comment a bit
 about why that 5% to 6% versus 6% before, please?
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 Yeah. As I said, it's – expectation is unchanged actually. But...
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Unchanged, okay.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 
 Bloomberg Transcript
 
@@ -917,26 +783,17 @@ cost, frequency development and portfolio mix. That adds up to 5% to 6%. And I
 commented also that other price increases has been in average above that last quarter
 and into 2019. And that gives just opportunities going forward.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Vinit, I'm just getting back to your Denmark question. I think maybe to clarify one thing if I
 understood you correctly that there was NOK 1 million lower premiums in local currency.
 It's the decrease, which is NOK 1 million lower when measured in local currency. So, if you
 have approximately NOK 30 million in Norwegian kroner, it will be NOK 29 million
 measured in local currency.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Sorry. I misread it quickly. Thank you.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Yeah.
 
 Operator

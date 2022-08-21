@@ -32,10 +32,7 @@ Call. Today's call is being recorded. (Operator Instructions)
 For opening remarks and introduction, I would like to turn the call over to Karen Beyer,
 Senior Vice President, Investor Relations. Please go ahead, ma'am.
 
-Karen L. Beyer
-
-{BIO 6404488 <GO>}
-
+Karen L. Beyer {BIO 6404488 <GO>}
 Thank you, and good morning, everyone. Welcome to Chubb's June 30th, 2019 second
 quarter earnings conference call.
 Our report today will contain forward-looking statements, including statements relating to
@@ -64,10 +61,7 @@ Financial Officer. We'll then take your questions. Also with us to assist with y
 are several members of our management team.
 And now, I'll turn the call over to Evan.
 
-Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+Evan G. Greenberg {BIO 1444445 <GO>}
 Good morning. As you saw from the numbers, we had a very good second quarter,
 highlighted by excellent underwriting and strong premium revenue growth globally and
 constant dollars that is benefiting from favorable underwriting conditions and our various
@@ -175,10 +169,7 @@ FINAL
 
 With that, I'll turn the call over to Phil.
 
-Philip V. Bancrof t
-
-{BIO 4621336 <GO>}
-
+Philip V. Bancrof t {BIO 4621336 <GO>}
 Thank you, Evan. Our balance sheet and overall financial position remain quite strong. We
 have $107 billion portfolio of cash and high quality investments that is well rated and liquid,
 and we are generating substantial capital and significant positive cash flow. Cash flow in
@@ -250,10 +241,7 @@ expected range of 14% to 16%. Through 6 months, our core operating effective tax
 was 15%.
 I'll turn the call back to Karen.
 
-Karen L. Beyer
-
-{BIO 6404488 <GO>}
-
+Karen L. Beyer {BIO 6404488 <GO>}
 Thank you. At this point, we'll be happy to take your questions.
 
 Questions And Answers
@@ -261,10 +249,7 @@ Operator
 Thank you. (Operator Instructions)
 And we'll take our first question from Mike Phillips with Morgan Stanley. Please go ahead.
 
-Q - Mike Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Mike Phillips {BIO 21023048 <GO>}
 Thank you. Good morning, everybody. First question on -- Evan, on your comments of
 what's driving the rate activity and, I believe, you said something like it's income and
 reserve driven, not capital driven. So I guess, I wonder if you can expand upon -- that kind
@@ -281,10 +266,7 @@ Date: 2019-07-24
 
 FINAL
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Well, just simply, the rate has not kept pace with loss cost trend, and that puts pressure
 on income and it puts pressure ultimately on reserves. You are either -- I think that it just
 imply, it says what it implies. The balance sheets over time have less redundancy in them,
@@ -296,10 +278,7 @@ to you is, income and balance sheet not capital driven that there is a dearth of
 There is plenty of capital around and -- but it is more disciplined at this moment and it
 comes to -- it's deployed when the rate and terms are more adequate.
 
-Q - Mike Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Mike Phillips {BIO 21023048 <GO>}
 Okay, no, thank you. That's helpful. I guess, if I could turn specifically to North America
 commercial lines, where, I guess, depending on what you use for 2Q '18 with your
 comments from last year, the structure settlement term had some impact there. So the
@@ -311,10 +290,7 @@ maybe has your view of loss trends in that segment changed since last quarter?
 
 Bloomberg Transcript
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Yeah. Let's look at North America commercial P&C, let's look it at on a current accident
 year ex-cat. Last year ran an 87.4% combined ratio. This year it ran an 87.9% combined
 ratio. I mean, simply outstanding, world-class and in the 80s. So let's have that
@@ -323,25 +299,16 @@ impact from that. It was simply rate and trend naturally, not non-cat, weather o
 that, just simply rate and trend, something I've been saying for many quarters. Thanks for
 the question.
 
-Q - Mike Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Mike Phillips {BIO 21023048 <GO>}
 All right. Thank you.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
 Operator
 We'll take our next question from Elyse Greenspan with Wells Fargo. Please go ahead.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi, good morning. My first question, Evan, is also -- just going back, I guess, to some of
 your comments to the previous question on just what you're seeing with loss trend. Are
 you guys seeing any changes in the tort environment? And I know there's a lot of different
@@ -360,10 +327,7 @@ quarters?
 
 FINAL
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Sure. Elyse, in the aggregate, in the round, the loss cost trend is stable. We haven't seen a
 change in it. As you rightfully note though, within that, it varies by class of business and
 area of business. We've talked for a number of quarters for quite some time now about
@@ -381,10 +345,7 @@ hope that helps you.
 
 Bloomberg Transcript
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Yeah. That's helpful. And then, you said kind of talking through the core margin within
 North America commercial that the delta between this Q2 and last Q2 is really just due to
 rate versus trend. You seem, in your comments this quarter and also last quarter, pretty
@@ -393,27 +354,19 @@ reaching the point where -- obviously, it takes a while to earn in the rate. But
 getting this rate and accelerates, do you think as we get into 2020, you can think about
 that being an environment where there will be some core margin improvement?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 We're in the risk business, so I can project the numerator reasonably well to you. I can't
 project and prognosticate the denominator -- the denominator I can project. I can't quite
 project the numerator the same way to you because we are in a risk business. And so,
 look, rate exceeding trend is a simple statement. It's an ameliorating factor, and that's a
 good thing. We'll see what its impact is on margin in the future.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, thank you. And then one last quick numbers question. You guys mentioned you
 added a little bit to your Jebi loss in the quarter. What are you guys pegging that as for
 insured loss for the overall industry right now?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 
 Page 7 of 15
 
@@ -426,27 +379,19 @@ Date: 2019-07-24
 I don't have a number in my head. My colleagues around the table don't, but we'll take it
 off-line with you and we'll give you a number.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 
 FINAL
 
 Okay, thank you very much.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
 Operator
 We'll take our next question from Yaron Kinar with Goldman Sachs. Please go ahead.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Thank you, good morning. Going back to North America commercial, so Evan, you're
 talking about world-class margins there and loss trends that are stable. I guess, do you
 need more rate in that segment today? Or is this maybe an opportunity to try and take
@@ -454,10 +399,7 @@ market share while others are still pushing for rate?
 
 Bloomberg Transcript
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 It varies by class of business. There is no general statement. Some classes are adequately
 priced, some classes need rate and terms and condition changes, and some classes
 need substantial rate. And so it varies. It's -- there is not a simple box for that. But as I
@@ -465,28 +407,19 @@ think you can see, our new business is up. Our renewal retention is high. We're 
 favorable underwriting environment. And where it makes sense to us, and we've got a lot
 of data and a lot of experience, we're leaning right into it.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay, thank you. And then, I guess, if I shift to the investment portfolio. So it sounds like -apart from the comments that you're not really looking for any change in direction here
 even with the change in monetary policy, one thing I did notice was an increase in duration
 sequentially. Is that a strategic move? Or was that just kind of normal quarterly noise or
 movement?
 
-A - Philip V. Bancrof t
-
-{BIO 4621336 <GO>}
-
+A - Philip V. Bancrof t {BIO 4621336 <GO>}
 It was simply technical. At the end of last year, we had decreased the duration because
 we weren't getting paid to take duration risk. And over the course of this year, it's drifted
 up slightly. But to the extent this would -- half a point or half a year or 4 years, we don't
 think there's any material impact on our investment income.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay. So you're not necessarily looking to extend duration here?
 
 Page 8 of 15
@@ -497,58 +430,38 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2019-07-24
 
-A - Philip V. Bancrof t
-
-{BIO 4621336 <GO>}
-
+A - Philip V. Bancrof t {BIO 4621336 <GO>}
 We are not.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
+Q - Yaron Kinar {BIO 17146197 <GO>}
 
 FINAL
 
 Okay, thank you.
 
-A - Philip V. Bancrof t
-
-{BIO 4621336 <GO>}
-
+A - Philip V. Bancrof t {BIO 4621336 <GO>}
 Welcome.
 
 Operator
 We will take our next question from Ryan Tunis with Autonomous. Please go ahead.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Thanks, good morning. So clearly, terms and conditions rate have accelerated and
 improved throughout the year. Evan, would you say on the other side that, that loss trend
 today is -- it's a more challenging environment than it was 6 months ago?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 No. I'd say it's -- if I compare 6 months ago to today, it's stable.
 
 Bloomberg Transcript
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Fair enough. And then, I guess, I'll be the annoying one to ask about the crop, but just
 curious what the thought process was? And how you're thinking about the planting
 season? It didn't look like you put up a loss fig in agriculture. I'm not sure if you did, but
 just interested in your thoughts there.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Sure. Let me make just a couple of comments about that and It's not annoying. I would be
 surprised if one of you didn't ask about. First of all, we did put up the loss ratio about 2.5
 points this quarter. So -- but what you have to recognize, it's on a low earned premium
@@ -575,9 +488,7 @@ Date: 2019-07-24
 what, but come on over here, we're going to make a lot of money in hedging in
 commodities.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
+Q - Ryan Tunis {BIO 16502263 <GO>}
 
 FINAL
 
@@ -587,26 +498,17 @@ Operator
 (Operator Instructions) We'll take our next question from Paul Newsome with Sandler
 O'Neill. Please go ahead.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 Good morning, I want to ask if I make my own assumption about where we are from a
 pricing versus loss cost spread, is there anything in either the North America commercial
 or the overseas business mix and business exchange that would affect that sort of easy -that simple calculation for me?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 I'm -- you have to explain. I'm not really sure what you're asking me, Paul?
 
 Bloomberg Transcript
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 So what I'm asking is the natural business mix, all things being equal, going to be for a
 business that has lower or higher combined ratios because I think we're all making an
 assumption of whether or not Chubb hit a point where the earnings or the price increases
@@ -614,32 +516,20 @@ are above claim cost inflation that gives us an estimate of when we think we're 
 see an inflection in margins. But that calculation assumes basically that the business mix is
 the same in the various segments.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 The business mix within the segments is reasonably steady. There's not -- this is a big
 book of business. So there is not big shifts taking place. There's always -- every quarter it
 changes. It's jittery. But in the round, it's -- the mix is quite steady.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 Okay. That's great. And then -- I'm sorry, I'm going to beat on crop a little bit. But is there
 a chance that given the delay in the -- potential delay in the harvest, we can see a change
 in the premium recognition from mainly in third to more in the fourth?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 No. It's formulaic, so no.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 Okay, thank you.
 Page 10 of 15
 
@@ -654,34 +544,22 @@ We'll take our next question from Brian Meredith with UBS. Please go ahead.
 
 FINAL
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes, thanks. A couple here for you. First, I'm just curious, in the overseas area, Evan,
 reserve release is going to really slow on a year-over-year basis. Was there any kind of
 one-timers there that was going on?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 No. There was not.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Okay. And then the growth you're seeing, no one-timers. Got you. And the growth you're
 seeing in overseas, where is it coming from? Is that some of the distribution relationships
 you have, other things going on?
 
 Bloomberg Transcript
 
-A - Juan Carlos Andrade
-
-{BIO 16371272 <GO>}
-
+A - Juan Carlos Andrade {BIO 16371272 <GO>}
 Brian, this is Juan Andrade. The growth is actually pretty broad-based. As Evan said in his
 opening remarks, we certainly are seeing pretty good growth coming out of our London
 wholesale market operation as we see the market continuing to firm and we see
@@ -692,27 +570,18 @@ on a global basis. The distribution agreements are certainly doing well. We're g
 good traction on all of that. So I would say it's really a combination of our organic
 strategies in addition to the rate that we're continuing to see now.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 great, thank you.
 
 Operator
 We'll take our next question from Jay Gelb with Barclays. Please go ahead.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Thank you and good morning. Given the ongoing shifts we're seeing and tightening in the
 commercial property, casualty and insurance market, Evan, I'm wondering if in this
 environment, it might shift your thinking on mergers and acquisitions at all?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 No. Steady. And it doesn't shift with the times that way. So we know -- I have been very
 consistent in -- when asked this for many years now. We are builders, and we're a
 company of builders. And we have a strategy to grow our company organically.
@@ -731,27 +600,19 @@ And when we identify the right target or partner and financials and we judge it 
 our strategy in a positive way and will be accretive to our shareholders, their capital, then
 we are -- we know our minds, and we will pull that trigger.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 That's helpful. Thank you. Just to follow up on that, with the potential for acquisitions to
 complement organic growth, does that imply you're more focused on bolt-on acquisitions
 as opposed to something larger or transformational?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 We're agnostic. I know you want me to say more, but I'm sorry. There's not really more to
 say there.
 
 Operator
 And we will take our final question from Meyer Shields with KBW. Please go ahead.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 Bloomberg Transcript
 
@@ -760,10 +621,7 @@ reinsurance. We're hearing a lot of commentary that's very positive, especially 
 catastrophe side, didn't see tremendous amount of growth in Global Reinsurance this
 quarter.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Yes. The reinsurance market is, I think, modestly tightening. I think, for the most part,
 reinsurers are riding on the backs of primary writers. And if they feel pressure in their own
 income or balance sheet statements, then they are more taking action by the seasons
@@ -776,18 +634,12 @@ underwriting positions on reinsurance and -- that they don't drive higher pricin
 terms for themselves. We'll -- I can't prognosticate the future, but so far I see it's relatively
 modest, the changes in terms and conditions and pricing in the reinsurance market.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. That's very helpful. And second, Chubb came out with a fairly strong statement on
 climate change in the context of which entities you're willing to underwrite? Has that
 changed the, I guess, loss trend assumptions for property risk?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Page 12 of 15
 
 
@@ -798,30 +650,19 @@ Date: 2019-07-24
 
 No. You're referring to the position we took on coal and...
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 FINAL
 
 Yes.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 And it's a de minimis portion of our writings.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, perfect. Thanks so much.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
 Operator
@@ -830,20 +671,14 @@ James. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
-
+Q - Greg Peters {BIO 3111497 <GO>}
 Good morning. Thanks Evan, in the past you've commented on the impact of the tariffs
 and trade wars that seem to be evolving from quarter-to-quarter. And I wanted to give
 you an opportunity to give us an update on how you think the current environment has
 affected your business? And what we should be thinking about in our calculus about the
 results going forward?
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Yes. I don't -- we grew our overseas business by 9% in the quarter, and you see it's
 broad-based. So I don't see a linkage between tariffs and the health of Chubb's business.
 And our business is more idiosyncratic. We are active in local markets around the world
@@ -868,9 +703,7 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2019-07-24
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
+Q - Greg Peters {BIO 3111497 <GO>}
 
 FINAL
 
@@ -881,8 +714,7 @@ the news, it seems like every other week we're hearing about troubles in the tru
 industry, whether it's LME or Timmerman Starlite. And so I'm curious what your
 perspective is on the balance between rate and fiscal survival of an industry?
 
-A - Evan G. Greenberg
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Well, we're not responsible for the fiscal survivor of any industry except our own. And I
 know from my perspective, I'm a fiduciary of shareholder capital that expects a
 reasonable return if we deploy that capital towards the trucking industry to take insurance
@@ -895,24 +727,16 @@ rational circle of life there. And for those who simply operate in a less profes
 manner and can't police their loss cost will be -- to buy insurance is going to -- the price is
 going to be reflected. That's it.
 
-Q - Greg Peters
-
 Bloomberg Transcript
 
-{BIO 1444445 <GO>}
-
-{BIO 3111497 <GO>}
-
+Q - Greg Peters {BIO 3111497 <GO>}
 Right. I'm not trying to suggest that you have financial responsibility for the trucking
 industry. I just realized that everyone wants to raise prices on long-haul trucking, etc. And
 yet, it seems like a lot of the long-haul truckers are having a lot of headwinds and their
 survival is in question. So there is a balance to be had I suppose between charging higher
 prices and actually not being able to have a customer insured at all.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Yes. But if it was -- and I understand what you're saying. If it was to raise prices to earn
 unreasonable margins or to earn any margin -- I mean, right now, the trucking business is
 not -- that's never been an easy business and to make any money in trucking. So is it
@@ -925,16 +749,10 @@ price increases than, say, those who don't have the wherewithal or capability or
 embrace technologies that will help to ameliorate that rise in their loss cost. It's the best I
 can do for you.
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
-
+Q - Greg Peters {BIO 3111497 <GO>}
 Okay, great, thanks for the answers.
 
-A - Evan G. Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan G. Greenberg {BIO 1444445 <GO>}
 Page 14 of 15
 
 
@@ -952,10 +770,7 @@ FINAL
 And this does conclude today's question-and-answer session. I'd like to turn the call back
 over to Karen Beyer for additional or closing remarks.
 
-A - Karen L. Beyer
-
-{BIO 6404488 <GO>}
-
+A - Karen L. Beyer {BIO 6404488 <GO>}
 Thank you all for your time and attention this morning. We look forward to seeing you
 again next quarter. Thanks, and have a great day.
 

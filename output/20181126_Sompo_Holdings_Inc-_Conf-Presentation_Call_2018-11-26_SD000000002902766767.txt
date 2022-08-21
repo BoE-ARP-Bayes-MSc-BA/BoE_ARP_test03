@@ -27,10 +27,7 @@ Bloomberg Transcript
 Unidentified Participant, Analyst
 
 Presentation
-Kengo Sakurada
-
-{BIO 15149542 <GO>}
-
+Kengo Sakurada {BIO 15149542 <GO>}
 Thank you very much for coming out of your busy schedule. All the results for the financial
 numbers are already disclosed on 19th last week. So I want to go over the overall
 explanation so we can have more mid; and long-term perspective discussions, especially
@@ -301,10 +298,7 @@ So now we want to move on to Q&A session. Just like as usual, when you ask your
 questions, we will bring you a microphone. So please state your name and your company
 name as well. Please raise your hand if you have questions.
 
-Q - Kazuki Watanabe
-
-{BIO 15948747 <GO>}
-
+Q - Kazuki Watanabe {BIO 15948747 <GO>}
 Watanabe from Daiwa Securities. I have 2 questions. My first question on Page seven of
 the presentation, regarding the return to shareholders. So you have some explanation. I'm
 talking about the total payout ratio. You will be considering this payout ratio in a flexible
@@ -401,10 +395,7 @@ And that is the answer to the first question.
 
 Bloomberg Transcript
 
-A - Shinichi Hara
-
-{BIO 20712733 <GO>}
-
+A - Shinichi Hara {BIO 20712733 <GO>}
 And this is Hara answering to your international business. The strategic business hiring
 underwriters has been continuing for the last few years. So no change to this strategy.
 And Sompo have licenses in 30 countries in the world. So utilizing such licenses, we will
@@ -457,10 +448,7 @@ time. Tsujino-san, please?
 
 Bloomberg Transcript
 
-Q - Natsumu Tsujino
-
-{BIO 2234779 <GO>}
-
+Q - Natsumu Tsujino {BIO 2234779 <GO>}
 I am Tsujino from Mitsubishi UFJ Morgan Stanley. I have 2 questions. First of all, I would like
 to know the net payment you have made for the domestic natural disasters, which
 happened this term. It came to a little less than JPY 150 billion. But I would like to know
@@ -497,10 +485,7 @@ Date: 2018-11-26
 
 FINAL
 
-A - Masahiro Hamada
-
-{BIO 20083917 <GO>}
-
+A - Masahiro Hamada {BIO 20083917 <GO>}
 Well thank you. I, Hamada, would like to respond to your first question. And I take it that
 your question is related to our reinsurance strategy related to this year's natural disaster
 situation. There's no meaning in evaluating in hindsight. But what we can say, is for
@@ -563,10 +548,7 @@ And Mr. Muraki?
 
 FINAL
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 I'm Muraki from Deutsche Securities. I have 2 questions. My first question is about the
 initial plan for the next year. So this year, you had natural disasters. And these will be
 affecting or not affecting next year or not. But can you tell us the impact and, for example,
@@ -666,10 +648,7 @@ you may be hearing this here and there. But a little while later, in cyber risk 
 business, more details of this business and the level of technology can be shared in the
 near term. So I hope you can bear with us.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 On the same note, if that's possible. So you want to put the insurance business to the
 front line at the beginning. But when it comes to distribution channel, you are using the
 SME channel for Sompo Japan Nipponkoa, is that the plan?
@@ -706,10 +685,7 @@ Yes. Sato-san and then (Otsuka-san) in that order.
 
 Bloomberg Transcript
 
-Q - Koki Sato
-
-{BIO 19983862 <GO>}
-
+Q - Koki Sato {BIO 19983862 <GO>}
 I am Sato from Mizuho. My first question has to do with FY 2018. You are now at midpoint
 of MTP. I would like you to give us your overall evaluation. You are talking about JPY 273
 billion adjusted consolidated profit. Your target, this was not adjusted for reinstatement
@@ -841,10 +817,7 @@ focus on. And by the next time, we can discuss more details and we can show you 
 result with the evidence about our plan.
 Yes. Majima-san, please?
 
-Q - Tatsuo Majima
-
-{BIO 15338044 <GO>}
-
+Q - Tatsuo Majima {BIO 15338044 <GO>}
 Yes. I'm from Tokai Tokyo Research. This is rather detailed. But it's on the Page 27 of the
 addendum. It's not what you have presented. This is looking at unconsolidated the
 seeding situation of Sompo Nipponkoa, JPY 74 billion book and the insurance was JPY
@@ -882,10 +855,7 @@ Thank you for your question. I would like to talk about (Ioma Kawabe), Page 27 o
 addendum talks about, for example, 2018 this is about JPY 177.7 trillion and the JPY 112.6
 trillion.
 
-Q - Tatsuo Majima
-
-{BIO 15338044 <GO>}
-
+Q - Tatsuo Majima {BIO 15338044 <GO>}
 I'm looking at the seeded amount.
 
 Bloomberg Transcript
@@ -899,20 +869,14 @@ about major difference vis-a-vis other competition, then that's that. So of cour
 collection is going to take place after it was incurred this year. And so that effect is going
 to be beyond.
 
-Q - Tatsuo Majima
-
-{BIO 15338044 <GO>}
-
+Q - Tatsuo Majima {BIO 15338044 <GO>}
 And what would be -- what would the size be around JPY 1 billion?
 
 A - Unidentified Speaker
 Well I would rather not give you any figures now. Let me get back to you.
 Sasaki-san, please?
 
-Q - Futoshi Sasaki
-
-{BIO 17564798 <GO>}
-
+Q - Futoshi Sasaki {BIO 17564798 <GO>}
 This is Sasaki from Merrill Lynch Securities. First question is about shareholder return, let's
 say, for next year. So if we were to have typhoon again next year, you're going to have to
 reverse the internal reserves to conduct shareholder return with the same amount of last
@@ -924,9 +888,11 @@ Company N ame: Sompo H oldings I nc
 Company Ticker: 8630 JP Equity
 Date: 2018-11-26
 
-Bloomberg Transcript
-
 FINAL
+
+A - Unidentified Speaker
+
+Bloomberg Transcript
 
 year, is that your thinking? Because last year the amount of shareholder return, I want to
 see if that is the bottom amount committed to the shareholder return or not. I want to
@@ -936,7 +902,8 @@ including insurance. That is the trend we're seeing right now. And will that hav
 on your business or negatives on your business? Is there are any positives or negatives on
 your business with this trend?
 
-A - Unidentified Speaker
+Q - Futoshi Sasaki {BIO 17564798 <GO>}
+
 Thank you for your questions. Regarding shareholder return, let me answer your question.
 Our basic policy of shareholder return is a stable dividend. That is the basic policy. So the
 dividend amount of last year will be maintained first or even there will be additional
@@ -962,10 +929,6 @@ basically. It's been a while since the automakers are changing their trend. They
 sell the cars. They're trying to expand their business with their supplementary services.
 And that will not have a major impact on our business. That is the current conclusion.
 
-Q - Futoshi Sasaki
-
-{BIO 17564798 <GO>}
-
 So for example, let's say, Toyota for certain cars, they have already started underwriting
 for certain insurance companies. So it's almost 100% share by a certain insurance
 company. The same thing happens with other automakers. Would that be a negative
@@ -977,9 +940,7 @@ I understand your point now. Those type of insurances, yes. And we call this as 
 insurance. And that's been taking place under certain conditions. And with certain
 insurance companies, the products are being sold by automakers.
 
-Q - Futoshi Sasaki
-
-{BIO 17564798 <GO>}
+Q - Futoshi Sasaki {BIO 17564798 <GO>}
 Page 17 of 18
 
 
@@ -998,10 +959,7 @@ Well not completely. Actually, if one company does that with one automaker and t
 company will follow to do the same thing. So that doesn't really change the market
 condition.
 
-Q - Futoshi Sasaki
-
-{BIO 17564798 <GO>}
-
+Q - Futoshi Sasaki {BIO 17564798 <GO>}
 So for the future changes -- potential changes wise?
 
 A - Unidentified Speaker

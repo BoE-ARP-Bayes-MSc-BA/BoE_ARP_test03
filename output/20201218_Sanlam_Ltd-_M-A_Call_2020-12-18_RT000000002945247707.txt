@@ -25,10 +25,7 @@ Bloomberg Transcript
 Please note that this call is being recorded. I'd now like to turn the conference over to Paul
 Hanratty. Please go ahead, Paul.
 
-Paul Hanratty
-
-{BIO 7445748 <GO>}
-
+Paul Hanratty {BIO 7445748 <GO>}
 Thanks very much, Claudia. And good afternoon ladies and gentlemen and thank you very
 much for joining us on this conference call right towards the end of December, when I
 know you all want to be on a leave. I'm joined today on the call by Abigail Mukhuba,
@@ -91,16 +88,10 @@ Operator
 Okay. Thank you. (Operator Instructions) First question comes from Sarine Barnard from
 Ninety One. Please go ahead, Sarine.
 
-Q - Sarine Barnard
-
-{BIO 6259120 <GO>}
-
+Q - Sarine Barnard {BIO 6259120 <GO>}
 Hi Paul. Hope you are well?
 
-A - Paul Hanratty
-
-{BIO 7445748 <GO>}
-
+A - Paul Hanratty {BIO 7445748 <GO>}
 Yes, Sarine. How are you?
 
 Page 2 of 5
@@ -111,33 +102,22 @@ Company N ame: Sanlam L td
 Company Ticker: SL M SJ Equity
 Date: 2020-12-18
 
-Q - Sarine Barnard
-
-{BIO 6259120 <GO>}
-
+Q - Sarine Barnard {BIO 6259120 <GO>}
 You're keeping us busy.
 
-A - Paul Hanratty
-
-{BIO 7445748 <GO>}
+A - Paul Hanratty {BIO 7445748 <GO>}
 
 FINAL
 
 You should be on holiday now.
 
-Q - Sarine Barnard
-
-{BIO 6259120 <GO>}
-
+Q - Sarine Barnard {BIO 6259120 <GO>}
 Unfortunately not. So I just wanted to ask about the asset outperformance participation
 amount. So can you maybe just expand a bit on that. So the ranges aren't quite wide. And
 is there specific hurdle rate and a specific participation fee the investment or how does
 that work?
 
-A - Paul Hanratty
-
-{BIO 7445748 <GO>}
-
+A - Paul Hanratty {BIO 7445748 <GO>}
 No, it's on the whole portfolio, Sarine. So I suppose you can think of it as a sort of
 performance fee you might see in an investment fund. So basically if the return on this is
 above risk free plus 3% over a three-year period then the participation begins at the rate
@@ -146,43 +126,29 @@ fee goes up to 25%. And we basically have a three-year period. And at the end of
 years, the arrangement comes to an end. And so, obviously, the objective is to grow the
 fund at above the hurdle rate.
 
-Q - Sarine Barnard
-
-{BIO 6259120 <GO>}
+Q - Sarine Barnard {BIO 6259120 <GO>}
 
 Bloomberg Transcript
 
 Okay. And is that performance fee similar to the ARC performance fee?
 
-A - Paul Hanratty
-
-{BIO 7445748 <GO>}
-
+A - Paul Hanratty {BIO 7445748 <GO>}
 It's similar in deposit, it's very different in terms of its range and detail, but the principle is
 very similar. There's also quite a big difference in the fact that there is -- each one is a
 three-year period. So if you have a look at the exact details, it's actually quite a lot
 different and it's not nearly as you know if you model it out through a whole stochastic
 range of potential returns, it's not nearly as generous as the ARC one.
 
-Q - Sarine Barnard
-
-{BIO 6259120 <GO>}
-
+Q - Sarine Barnard {BIO 6259120 <GO>}
 Okay, great. And then just maybe on the discount. So for the listed assets they're
 basically, it's at market because you've got the facility to deal with the liquidity premium.
 But so for the unlisted assets, so that value, does that include the 25% minority and
 liquidity discount that ARC would carry at -- in their business?
 
-A - Paul Hanratty
-
-{BIO 7445748 <GO>}
-
+A - Paul Hanratty {BIO 7445748 <GO>}
 Yes. And then we've applied a discount to that.
 
-Q - Sarine Barnard
-
-{BIO 6259120 <GO>}
-
+Q - Sarine Barnard {BIO 6259120 <GO>}
 Another 10% discount to that. Okay, great. Understood. Thanks.
 
 Page 3 of 5
@@ -199,10 +165,7 @@ Please go ahead, Asanda.
 
 FINAL
 
-Q - Asanda Notshe
-
-{BIO 19227857 <GO>}
-
+Q - Asanda Notshe {BIO 19227857 <GO>}
 Thanks and good afternoon. I hope you're all well. Just two questions from my side.
 Maybe to follow on from the question on the performance fee. Maybe just rationale
 behind it. I mean Sanlam Life is paying for the stake, I would imagine that you're paying, I
@@ -211,9 +174,7 @@ also you arrived at the ranges for the hurdles maybe that compared to, let's say
 Life's cost of capital or any sort of measure like that? So just related. And then also the
 second question is, why exclude the banking assets in the mix? Thank you.
 
-A - Paul Hanratty
-
-{BIO 7445748 <GO>}
+A - Paul Hanratty {BIO 7445748 <GO>}
 
 Bloomberg Transcript
 
@@ -241,10 +202,7 @@ know that we have a number of relationships with different banks. Probably our b
 and best-known one would be Capitec. And so we don't want to get involved in directly in
 the banking industry. Hope that answers your questions.
 
-Q - Asanda Notshe
-
-{BIO 19227857 <GO>}
-
+Q - Asanda Notshe {BIO 19227857 <GO>}
 Okay. Thank you.
 
 Operator
@@ -262,10 +220,7 @@ turn it back to you for closing comments?
 
 FINAL
 
-A - Paul Hanratty
-
-{BIO 7445748 <GO>}
-
+A - Paul Hanratty {BIO 7445748 <GO>}
 Yes, of course, Claudia. Thank you very much for hosting the call and for acting as the host
 of the call. So just to thank everybody very much for dialing in. I hope that you've managed
 to get a picture of what's happening. And so if anybody wants any follow up, by all means

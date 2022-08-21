@@ -24,10 +24,7 @@ Results of 2016. Today's conference is being recorded.
 At this time, I would like to turn the conference over to Mr. Michel Hulters, Head of Investor
 Relations at ASR. Please go ahead, sir.
 
-Michel Hulters
-
-{BIO 19111905 <GO>}
-
+Michel Hulters {BIO 19111905 <GO>}
 Thank you, operator. Good afternoon and good morning to those of you listening-in from the US.
 Welcome to ASR's conference call on its first half year results of 2016. Presenting today are Jos
 Baeten, CEO; and Chris Figee, CFO.
@@ -38,10 +35,7 @@ position. Following the presentation, there will be ample opportunity to ask que
 do also review our disclaimer on forward-looking statements in the back of the presentation.
 Having said that, Jos, the floor is yours.
 
-Jos Baeten
-
-{BIO 2036695 <GO>}
-
+Jos Baeten {BIO 2036695 <GO>}
 Thanks, Michel. Good day, everybody. Thanks for joining us. Michel already mentioned I would
 discuss some highlights. I think that the main highlight in the first half year for ASR was our very
 successful IPO. It was an exciting and challenging period for us and we are happy we succeeded
@@ -199,10 +193,7 @@ competitive and challenging market for the medium-term.
 And having said that, Chris, let's hand over to you. You will discuss sort of the financial results,
 investment portfolio and especially capital, capital generation and our solvency position. Thanks.
 
-Chris Figee
-
-{BIO 18815839 <GO>}
-
+Chris Figee {BIO 18815839 <GO>}
 Very good, Jos, thank you. Ladies and gentlemen, Chris Figee speaking. Going to the financials, let
 me start on page number nine, the operating results. As you may recall, the definition of our
 operating result effectively is the full IFRS net result, but then excluding capital gains and excluding
@@ -671,9 +662,7 @@ fallen to 99%. So all in all, we continue to have a very strong and very stable 
 fortress balance sheet allowing us to stand and to provide shelter in volatile -- volatile times.
 With that, I end my part on the financials; and give the floor back to Jos.
 
-Jos Baeten
-
-{BIO 2036695 <GO>}
+Jos Baeten {BIO 2036695 <GO>}
 
 Bloomberg Transcript
 
@@ -691,10 +680,7 @@ Operator
 Ladies and gentlemen, we will now start the Q&A session. (Operator Instructions) First question
 comes from the line of Mr. Ashik Musaddi of JP Morgan. Your line is open.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Hi, good morning. Ashik Musaddi from JP Morgan. Just got couple of questions. Can you give
 us some sense about the additional UFR drag that can happen because of year-to-date interest
 rate decline. I'm not sure because I'm not sure if your numbers are based on the organic capital
@@ -709,16 +695,12 @@ And last one is, it looks like your capital is running off at around, say, 4% wh
 will that impact life earnings as well or do you have other measures such as just say M&A to
 counter that? Thank you.
 
-A - Jos Baeten
+A - Jos Baeten {BIO 2036695 <GO>}
 Chris?
-
-{BIO 2036695 <GO>}
 
 
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
+A - Chris Figee {BIO 18815839 <GO>}
 
 FINAL
 
@@ -758,18 +740,12 @@ capital available of course and we have sufficient capital we find ways to share
 shareholders, but at this point in time we believe it's appropriate to link dividends to the operating
 result.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 And our official policy is 45 -- between 45% and 55% of the operational result. We will pay a cash
 dividend as from an SCR of EUR140. And we already last quarter -- at IPO communicated that we
 are going to pay EUR175 of dividend over the full-year 2016.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thank you. That's very clear. Just a follow-up on the beginning question that I had with respect to
 UFR. I mean, the only reason I'm trying to get some sense around that is because in your
 prospectus you somewhere mentioned that ex-UFR for 100 basis point decline, your own funds go
@@ -790,10 +766,7 @@ Because ultimately, your operational capital generation, the first bucket, is no
 second bucket is not changing, but the third bucket can be a chunky number. That's the reason.
 Thank you.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Yeah, let's say, if interest rates don't go up or go down, of course, the UFR rate goes down. But
 again that -- probably those would be compensated by the latter bucket, which is in market and
 operational improvements.
@@ -802,10 +775,7 @@ changes.
 And secondly, as I said, we reiterate that fact that we believe there is sufficient room in the first
 two buckets to absorb any deltas in the UFR drag over time at current rates.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 That's great. Thank you. Very clear.
 
 Bloomberg Transcript
@@ -813,10 +783,7 @@ Bloomberg Transcript
 Operator
 Next question comes from the line of Mr. Albert Ploegh of ING Bank. Your line is open.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Yes, good morning, sir. Good afternoon all. A few questions from my end. Maybe to come back to
 the mass lapse reinsurance contract, can you basically give a little bit more background to two
 different sections, what the exact reason was.
@@ -835,10 +802,7 @@ And maybe I missed that in the comments already before, but on the closed book o
 can you maybe add what that actually contributed to the 159 million capital generation over the
 first half ? Thank you.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Okay. Albert, thank you. On the mass lapse, in Solvency II, one has to hold capital against a mass
 lapse event. Actually, if Solvency II stipulates, you have to hold capital against an instantaneous
 
@@ -874,16 +838,10 @@ reinsurance capital out there, a lot of reinsurance capital available. So at the
 tangible risk that you might say that's a [ph] significant charge in a Solvency II environment, but we
 will actually transfer the risk and pay a price that's a very attractive transaction to us.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Albert on your question on our flexibility if the shift from DB to DC takes not place in the speed we
 expect or will be faster than we expect, our current and old DB platform already has been
 outsourced including 80 people. And there we already are on a more flexible cost base than we
@@ -892,19 +850,13 @@ were in the past. And our new DC platform is a so-called software-as-a-service p
 and the income side of DC, we already have a high level of cost flexibility. So I think the speed of
 the transfer will not affect our ability to reach the cost objectives we have set ourselves.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay. And that's very clear.
 
 Operator
 Next question comes from the line of Mr. Matthias de Wit of KBC Securities. Your line is open.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Yes, good afternoon. First question is on slide 24 again. Just wonder how M&A and the derisking is
 captured in that slides, derisking presumably had an impact on the required capital. So just if you
 could quantify that and provide me with some comments on which bucket that derisking is
@@ -923,10 +875,7 @@ And then lastly, yeah, I had one other question on capital generation that is, i
 the breakdown between Q1 and Q2 from the -- for the organic capital generation, please? Thank
 you.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Okay. Matthias, thank you very much. I think we could all save us paper and kind of going forward,
 we'll only produce page 24 in the next result. On the market operation -- on M&A, look, in the first
 half of the year, we didn't do any major M&A. There were some transactions that were closed after
@@ -963,10 +912,7 @@ fluctuate over time, markets fluctuate over time and we're in long run business.
 believe that the Q1 was really that much different from Q2, but frankly speaking I don't have that
 number, we do it on a half-year basis.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Okay, that's clear. And maybe just one follow-up, if I may. Just to come back on Ashik's question,
 so your guidance for capital generation is still roughly in line with the guidance provided at the fullyear results of around 9% organic capital generation, whereas spreads came down, rates
 dropped, you derisked a bit. So just wondering what's offsetting that. So is it M&A, is it the
@@ -978,10 +924,7 @@ understand that better please?
 
 FINAL
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Yeah. I think that number is still true. So what is different, I think, yes, recent spreads came down. At
 this point in time, our underwriting results are very strong in the first half year, excluding hail storms.
 So that's a very strong result. Although rates came down, we believe significant part of our
@@ -996,9 +939,7 @@ And thirdly, the one thing where you may see some spillover is spillover between
 market developments, because I find that if rates fall and return go up, sometimes they should -excess return do show up in the market and operational variances. But all in all, we believe that the
 guidance given at the IPO still holds.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
+Q - Matthias de Wit {BIO 15856815 <GO>}
 
 Bloomberg Transcript
 
@@ -1007,10 +948,7 @@ Very clear. Thanks a lot.
 Operator
 Next question comes from the line of Mr. Ron Heydenrijk of ABN Amro.
 
-Q - Ron Heydenrijk
-
-{BIO 3653338 <GO>}
-
+Q - Ron Heydenrijk {BIO 3653338 <GO>}
 Hello. Good afternoon, gentlemen. A few questions. Firstly, on your combined ratios in the P&C
 business, you have a 94.6 excluding the June storms in P&C, which compares to the, I think, seem
 to remember 98% guided on the medium-term. What's the immediate outlook for that ratio? And
@@ -1020,10 +958,7 @@ Then secondly you give the sensitivity of your Solvency II to a UFR drop of 50 b
 basis points. Could you also give the reduction in UFR drag on the 50 basis points and 100 basis
 points as well please? And that's it for now. Thank you.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Thanks, Ron. On the disability on P&C combined ratios, the medium-term target for disability is not
 95, but 93, so with 92 we're pretty much on schedule. So the 93 stands, and we hopefully will do a
 bit better like we've done in the first half. The medium-term target for P&C is indeed 98. The hail
@@ -1043,10 +978,7 @@ And the second question, Chris?
 
 FINAL
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Yeah. On the UFR drag, what happens to the UFR drag if UFR goes down by 50 basis points? Well
 (inaudible), I don't have that number. If the UFR goes down, also the drag goes down. I -- we really
 obviously do not calculate that number because we could speculate what the UFR could become.
@@ -1058,10 +990,7 @@ a taker of the -- a receiver of the outcome not driver of the outcome. So (inaud
 and I'm not going to find, not going to try to find out, I'll just see what the UFR actually has. I'm
 focusing on the business generation of capital and the effect of release of capital on the book.
 
-Q - Ron Heydenrijk
-
-{BIO 3653338 <GO>}
-
+Q - Ron Heydenrijk {BIO 3653338 <GO>}
 Fair enough. Thank you.
 
 Operator
@@ -1069,10 +998,7 @@ Next question comes from the line of Mr. Benoit Petrarque of Kepler Cheuvreux. Y
 
 Bloomberg Transcript
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Yes, good afternoon, gentlemen. Three questions on my side. The first one will be on the bank
 and asset management earnings, which were quite low this quarter on zero. So you said that you
 have been invested [ph] in the business, I guess, on the asset management side. What type of
@@ -1089,10 +1015,7 @@ on the IAS 19 adjustment of 426 million on the equity, which took place in Q1 --
 comes from lower discount rate, why do you -- I do not see any impact on the Solvency II ratio from
 this adjustment? Thank you very much.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Very good. On the first question, on the bank and asset management segment, you can see the
 operating earnings are around zero. Actually, just slightly misleading because the financial earnings
 are positive. In this segment, you've got real estate asset management, capital market asset
@@ -1158,10 +1081,7 @@ are very pleased with this.
 
 
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Okay. Thank you very much.
 
 FINAL
@@ -1170,10 +1090,7 @@ Operator
 Next question comes from the line of, hope I pronounce it well, Mr. Angel Kansagra of Barclays.
 Your line is open.
 
-Q - Angel Kansagra
-
-{BIO 19712659 <GO>}
-
+Q - Angel Kansagra {BIO 19712659 <GO>}
 Hi, good afternoon all. I just have two questions. The first one is on the combined ratios on
 disability. I see that the commission ratio has fallen a lot to 9.5%. Is this something, which will
 continue so that we'll need to adjust the model or this was just one-off ?
@@ -1184,10 +1101,7 @@ ahead or do you see a fall in the ROE in line with your medium-term target? Than
 
 Bloomberg Transcript
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Thank you, Angel. On your first question, on the disability commissions, indeed they are a bit lower
 than they were last year. There are two reasons for that. The first one is, a change in the portfolio
 mix, traditional, there is a higher level of commission in individual that was even sometimes up to
@@ -1203,30 +1117,18 @@ commission by customers, the price will be a bit lower. So from our point of vie
 the results of the business, but it only change the relationship between commission and premium.
 Is that clear?
 
-Q - Angel Kansagra
-
-{BIO 19712659 <GO>}
-
+Q - Angel Kansagra {BIO 19712659 <GO>}
 Yeah. So what you're saying is that in absolute terms the commission might fall, but the ratio would
 not be impacted much?
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 The absolute business result will not be impacted over time by the fall of the commission rate -- of
 the commission ratio.
 
-Q - Angel Kansagra
-
-{BIO 19712659 <GO>}
-
+Q - Angel Kansagra {BIO 19712659 <GO>}
 Okay.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Angel, on your ROE question, just for the record for everybody. If you -- if the IAS 19 actuarial gains
 and losses would have been stable, at the same level at the end of last year, if you hold a pen and
 paper, the IFRS ROE would have been 19.8, operating ROE 13.4, financial leverage 24.3 and double
@@ -1241,20 +1143,14 @@ have.
 
 FINAL
 
-Q - Angel Kansagra
-
-{BIO 19712659 <GO>}
-
+Q - Angel Kansagra {BIO 19712659 <GO>}
 Yeah, indeed. Thank you.
 
 Operator
 (Operator Instructions) Next question comes from the line of Mr. Bart Horsten of Kempen & Co.
 Your line is open.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Yes, good afternoon, gentlemen. If I may, a few follow-up questions. On capital creation, you
 indicated that the net release of capital also included run off of your individual life book, and I was
 wondering, what part of the net release of capital was that in the 4%? And also, what can we
@@ -1269,10 +1165,7 @@ currently a discussion going on, whether health insurers would be able or would 
 to pay out dividends. And I was wondering if that would pass this law, what would that mean to
 ASR? Thank you.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Let me start with your last question. Actually, the debate is a reverse debate. It is currently
 forbidden to pay dividends and there is a discussion ongoing whether it should be allowed to pay
 dividends. So we will await the result of this discussion. And as we have said at IPO, we will not
@@ -1292,10 +1185,7 @@ And the take-away from that business is that, that it provides us with growth in
 the P&C business. So that's for your question, Bart, and I -- for the two other questions, I think Chris
 is ready to answer.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Yeah, on the question of release of capital, what was the contribution from the individual life
 business and how stable is the 4%. The 4%, really the bulk of it was individual life. If you think about
 
@@ -1333,17 +1223,11 @@ So what we do today is that gives you the comfort and confirmation that the cons
 level of these subsidiaries is sufficient and that we have been able to upstream significant amount
 of capital away to the holding, especially from our life business in the first half year.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Okay, thanks. And maybe a follow-up on that. Is it -- does it deliver any additional capital synergies,
 both on the requirement or available funds with merging these separate entities?
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Well, basically what it does, it pushes diversification benefits from the holding into subsidiaries. So
 it makes them tangible, because diversification across legal entities happens at holding. Once you
 merge it, it happens into the legal entities. It does not mean that, we will go out upstream all these
@@ -1355,12 +1239,10 @@ And as long as our operating entities generate attractive returns on capital, we
 comfortable leaving the capital -- cash in the subsidiaries. But at least it improve and enhances our
 flexibility when it comes to capital submission to the Group.
 
-Q - Bart Horsten
+Q - Bart Horsten {BIO 2390919 <GO>}
 Great. Thank you.
 
 Operator
-
-{BIO 2390919 <GO>}
 
 
 
@@ -1369,10 +1251,7 @@ hand over to Mr. Jos Baeten of ASR for the final remarks.
 
 FINAL
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Well, everybody, thanks for joining us and being with us for almost two hours. ASR had an exciting
 first half year with our IPO at the 10th of June and all the preparations. After that, we felt Brexit, we
 have seen some severe hail storms. And despite all this, we've delivered upon the promises we've
@@ -1387,9 +1266,7 @@ where the sun is shining too. And some of my colleagues promised me to look for 
 drink a cool glass of beer on the results we've presented today. And Chris will be go back -- will go
 back to Snow White and join his Seven Dwarfs Children. Thanks everybody.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
+A - Chris Figee {BIO 18815839 <GO>}
 
 Bloomberg Transcript
 

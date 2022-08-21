@@ -33,10 +33,7 @@ me remind you that all participants will remain on listen-only mode. And after w
 question-and-answer session. Please also note that this conference is being recorded.
 I would like to hand the call over to Mr.Bart De Smet, CEO. Mr.Smet, please go ahead.
 
-Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+Bart Karel August De Smet {BIO 16272635 <GO>}
 Good morning, ladies and gentlemen. Thank you all for diving into this conference call and for
 being with us for the presentation of the results of Ageas of the first half year of 2020. As usual
 I'm joined in the room by Christophe Boizard, our CRO; Emmanuel Van Grimbergen, our Chief Risk
@@ -121,10 +118,7 @@ above EUR1 billion that excluding the amount ring-fenced for Fortis settlement.
 Ladies and gentlemen, with this, let's say, satisfying news, I would now hand over to Christophe for
 details on the results.
 
-Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+Christophe Boizard {BIO 15390084 <GO>}
 Thank you, Bart, and good morning, ladies and gentlemen.
 
 Bloomberg Transcript
@@ -240,10 +234,7 @@ concludes the introduction and we are now open the call for question. May I ask 
 yourself to three questions. We have a first question from Fulin Liang from Morgan Stanley. Please
 go ahead.
 
-Q - Fulin Liang
-
-{BIO 21126177 <GO>}
-
+Q - Fulin Liang {BIO 21126177 <GO>}
 Hi. Thank you. Thank you very much for the presentation. And this is a very strong result. I have two
 questions, please. The first one is, you basically reverse what you said -- what you said Q1 in terms
 of the annual guidance. And you're basically saying that you have fixed the original guidance, which
@@ -262,10 +253,7 @@ that what was announced last year. I mean, the full amount on the EUR2.65. Is wo
 intention that in -- is that okay, you could increase your payout to at least maintain stable or even
 higher EPS. Thank you.
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 Okay. A lot of elements in your questions. Thank you for that. First of all, when we give -- when we
 were prudent or even could not confirm our guidance at the end of the Q1, I think the justification
 was mainly that we were fully in the start, in any case, in Europe of the COVID-19 crisis and as also
@@ -324,12 +312,10 @@ profit-sharing to customers until the end of September, that recommendation has 
 until the end of the year. So I cannot precisely say, when we will announce this, but it will be a set
 later in the year that maybe with an execution early 2021.
 
-Q - Fulin Liang
+Q - Fulin Liang {BIO 21126177 <GO>}
 Okay. Thank you.
 
 Operator
-
-{BIO 21126177 <GO>}
 
 
 
@@ -337,10 +323,7 @@ Thank you. Next question from Albert Ploegh from ING. Please go ahead.
 
 FINAL
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Good morning all. Yeah. I've got three questions from my end as well. First to come back on the
 Asian results X capital gains and X discount growth impact. I still struggle a little bit on the Q-on-Q
 underlying improvement. I understand that Non-Life obviously was very fully impacted by the
@@ -358,10 +341,7 @@ strong level in the second quarter, some detail there would be helpful as well? 
 
 Bloomberg Transcript
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 Okay. A quick high level calculation of that on your first question. And so if you look last year, the
 profit in Asia was EUR331 million. Yeah, you could say -- the addition -- let's say, the exceptional
 element in that were EUR50 million tax relief. From the past, if you look to the delta it is, it is this
@@ -381,10 +361,7 @@ achieve, to reach our budget in our expected amount in real estate capital gains
 that is also of course helping us in the comfort with the guidance we gave.
 Maybe the third question, I pass it to you Christophe, operational.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Yes. So on the operational free capital generation, we -- Q2 benefited from the COVID-19 thing,
 good improvement in Non-Life, which goes there rather directly into increase in the -- on front part.
 So, you don't have a lot of difference in the SCR. The jump in the Q2 operational component of the
@@ -396,10 +373,7 @@ basis, and it's the reason why we are confident to stay within the range for the
 
 
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Great. Thank you.
 
 Operator
@@ -408,10 +382,7 @@ FINAL
 
 Thank you. Next question from Ashik Musaddi from JPMorgan. Please go ahead.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thank you. And good morning, Bart. Good morning, Christophe. Very good numbers. So, thanks a
 lot. I have a couple of questions, if you can help me. Now, I think for this year, you have been pretty
 clear about earning momentum. But I want to go back to your Investor Day slide, where you
@@ -432,10 +403,7 @@ mean, valuations would be depressed if you won't to buy anything. So what are yo
 M&A? What are the areas that you're looking that at the moment? Is there anything in the pipeline?
 Thanks a lot.
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 Okay. Thank you, Ashik. Before I go into the answer of your questions, together we'll give probably.
 A reminder that I have not given a complete answer on a question I received -- we received
 previously on the dividend for the future related to the guidance ever. The question was, yeah,
@@ -456,9 +424,7 @@ about being close to the guidance, as being based of course on also what we expe
 different operating companies as evolution in the Non-Life results, and then mainly frequency,
 security, and maybe you, Antonio, can dwell a bit more on that.
 
-A - Antonio Cano
-
-{BIO 16483724 <GO>}
+A - Antonio Cano {BIO 16483724 <GO>}
 
 
 
@@ -475,15 +441,10 @@ slightly lower frequency in medical in Portugal. But I mean, if you would ask me
 month ago, I would say, well, we expect to normalize it in Q3 with all the additional lockdowns, et
 cetera, I would expect that will -- that frequency will continue to be depressed.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Thank you.
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 
 Bloomberg Transcript
 
@@ -499,20 +460,14 @@ in, in the portfolio. So we continue to apply our, I would say, our strategic or
 given at multiple times and as you know we'll not be entering new deals, where we don't see a
 strategic let's say added value or where pricing is beyond what we feel reasonable.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. That's very clear. Many thanks for this.
 
 Operator
 Thank you. (Operator Instructions) Next question from Farquhar Murray from Autonomous
 Research. Please go ahead.
 
-Q - Farquhar Charles Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Charles Murray {BIO 15345435 <GO>}
 Good morning, gentlemen. Two questions, if I may. Firstly, on the decision to pay out an interim
 dividend, that clearly entails the situation as kind of respectful disagreement between Ageas and
 the NBB, which frankly I don't blame either of you for. But could you just give us some insight into
@@ -523,10 +478,7 @@ stand. So I just wondered if you could outline what criteria and priorities are 
 regards to using his successor? And is that most likely to be an external candidate and perhaps
 more broadly are we likely to see any new on strategy as we move into a new era? Thanks.
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 Okay. On your first question, Farquhar, I personally do not like that this decision for us to pay a
 dividend we've seen as a disagreement with the National Bank. So I -- it can appear to be like that.
 But we have been in talks with them already since the month of October. I think where we have
@@ -601,69 +553,43 @@ a certain period of one month, one month and a half before the National Bank wil
 But be assured that this will be that this is a very professional process and where the arc [ph] will
 be communicated as soon as possible.
 
-Q - Farquhar Charles Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Charles Murray {BIO 15345435 <GO>}
 Just as a follow-up on that. If you -- if there is a kind of approval process with the NBB, do I take it
 therefore it must be an external candidate?
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 No, even if it's an internal one, every change of role has to be -- to pause again the fit and proper
 person.
 
-Q - Farquhar Charles Murray
-
-{BIO 15345435 <GO>}
+Q - Farquhar Charles Murray {BIO 15345435 <GO>}
 
 Bloomberg Transcript
 
 Yeah. Okay.
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 That's not even with the another born memory if somebody from management, the only thing is if
 it would be an external person, you could expect that the timing, the delay for the fit and proper
 might be longer.
 
-Q - Farquhar Charles Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Charles Murray {BIO 15345435 <GO>}
 Okay. And then --
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 That's why I'm a bit prudent in saying one month, one and a half.
 
-Q - Farquhar Charles Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Charles Murray {BIO 15345435 <GO>}
 Yeah. That's totally fine. Just for the record, by the way. I actually totally agree with your arguments,
 and actually -- I actually have quite a lot respect the NBB. It's not an not my fault the situation we're
 in. Thanks.
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 Thank you.
 
 Operator
 Thank you. Next question from David Barma from Exane BNP Paribas. Please go ahead.
 
-Q - David Barma
-
-{BIO 19957338 <GO>}
-
+Q - David Barma {BIO 19957338 <GO>}
 Good morning. Thank you for taking my questions. Just a few remaining. That the first one is on
 solvency and under the regulatory ratio. I mean, this is something we talked about in the past, but
 given the volatility in H1, just wanted to come back on this. Would you be able to split the key
@@ -682,15 +608,10 @@ And a small third question on the UK. You mentioned in the slide back, some prov
 done like the potential COVID impact on non-motor lines. Would you be able to give a some color
 on that? Thank you.
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 Emmanuel, you take the first question.
 
-A - Emmanuel Van Grimbergen
-
-{BIO 18010465 <GO>}
+A - Emmanuel Van Grimbergen {BIO 18010465 <GO>}
 
 Bloomberg Transcript
 
@@ -716,16 +637,10 @@ Solvency II in 2016 that we did not want to manage the group base on such a vola
 introduce our Pillar 2 framework where all the main important decisions are taken like ALM pricing,
 but certainly also capital management decisions.
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 Okay. Thank you, Emmanuel. Maybe Antonio.
 
-A - Antonio Cano
-
-{BIO 16483724 <GO>}
-
+A - Antonio Cano {BIO 16483724 <GO>}
 Yeah. So your second question, I think it was your -- the drop in investment income as AG and what
 the sources are. So there is a drop of dividend income, Q2 typically is the big dividend season. So
 not everybody has paid the expected dividend that we see like a around EUR8 million net impact.
@@ -742,9 +657,7 @@ products where we actually don't really see any planes coming in yet. But we exp
 part of the year, maybe also even in '21 some more claims and that we've taken a provision where
 I will say it's not a double-digit number, and I'll keep it like that, so it's relatively minor.
 
-Q - David Barma
-
-{BIO 19957338 <GO>}
+Q - David Barma {BIO 19957338 <GO>}
 
 FINAL
 
@@ -753,10 +666,7 @@ Great. Thank you very much.
 Operator
 Thank you. Next question from Jason Kalamboussis from KBC Securities. Please go ahead.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Yes. Good morning. I just wanted to ask you three quick questions. The first one being on the UK.
 What would be the underlying number excluding COVID? So we're trying to see if we have had any
 underlying improvement or we are close to basically zero results from the UK, and what can you
@@ -780,10 +690,7 @@ determine, if you do more sizable M&A having seen that you meet -- so you know i
 CASER and in Portugal Tranquilidad. I just wanted to put that in perspective with these potential file.
 Thank you.
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 So on the UK, just maybe coming back to the numbers and I'll give you the numbers of Q2 only for
 the UK. So, you see we have reported the Q2 result of EUR25 million. Bear in mind in the
 reinsurance account there's also a very sizable amount that is originated by the quota share and
@@ -836,10 +743,7 @@ ETHIAS filing.
 Operator
 Thank you. We will go to the next question from Steven Haywood from HSBC. Please go ahead.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Good morning. Thank you. Just can you give me a bit of insight into Solvency II ratio of 153% for the
 Continental Europe. It means, it come down, state from a 170%. Is it a similar impacts that are
 hitting here compared to the Solvency II ratio? And another anymore -- anymore reserving actions
@@ -850,10 +754,7 @@ a share buyback in the period of six months, can it take place over a period of 
 than a period of 12 months, or will you shift your sort of an annual announcement of share buyback
 to the full year from the second quarter? Thank you.
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 Okay. Thank you for the question. I'll take the Continental Europe question on solvency. So indeed,
 so we are in end of June, our Pillar 2 solvency is at the 153%. And looking at the Pillar 1 solvency,
 there we are at a level of 233%. But as you know, in that ratio, there are also conditional measures
@@ -873,10 +774,7 @@ the group. So -- and I think you had also a question, whether we expect any rese
 reserving in Portugal, the answer is very simple, we do not expect any additional reserving in
 Portugal.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 For instance, for the reserve and you -- I mentioned in my speech, but we just released reserves.
 So this should be a sign that there is no need in this region.
 And on the question on the share buyback, so we refer to repayment, a delay of the launch to
@@ -889,9 +787,7 @@ activities on maybe nevertheless a bit the environmental situation and so on. An
 history, the one and first share buyback we did I think in 2011 was one over a period of six months,
 so definitely not excluded.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
+Q - Steven Haywood {BIO 15743259 <GO>}
 
 Bloomberg Transcript
 
@@ -900,10 +796,7 @@ Great. And that's very helpful. Thank you.
 Operator
 Thank you. Next question from Farooq Hanif from Credit Suisse. Please go ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, everybody, and congratulations on your good results today. Just going back on the question of
 the regulatory PIM. So in Belgium, I believe the dividend has not been upstream yet in that ratio or
 has it, because obviously it could go down a lot more when you do that. So, is the regulator
@@ -915,10 +808,7 @@ gave an underlying improvement in the Asian profit over the six months. But the 
 even better than the growth in technical abilities, the margin seems to be getting better. Could
 you give some comment on this? And is this kind of a sustainable trend? Thank you very much.
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 The first question. So when we contacted the National Bank on our intentions with dividend, we of
 course, also indicate to them that AG Insurance, so our Belgium subsidiary will in principle follow
 the same route. And for your information, when beginning of the year, it was already a decision
@@ -952,9 +842,7 @@ agency business in China. So this is why we have such an important impact from r
 payments, and of course the following strength of the growth function and management, which is
 on the yearly basis even above 20% if you look to our figures.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 Bloomberg Transcript
 
@@ -963,10 +851,7 @@ Okay. That's very clear. Thank you very much. Thank you.
 Operator
 Thank you. Next question from William Hawkins, KBW. Please go ahead.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hello. I just got one question, please. Could you talk about whether you're expecting any headwind
 to emerge against the motor frequency benefits with regards to rebates as far as I'm aware, but
 I'd like to know what you sort of done anything in the UK or in Belgium? So, you've taken all of the
@@ -976,10 +861,7 @@ automatically happens where you are in sort of commercial terms. So, I'm just ki
 completely irrelevant and we can forget about it and we just think about the frequency or is they're
 going to come up with today, yes, we've got frequency with those more of an offset to rebates.
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 Hi, William. I'll pick that one. So, a rebate in the sense that we give premium back to the customer
 that is not something we are doing, it is not also something that's kind of contemplated in the
 contract. Now, I'm very well aware what (inaudible) did for example in the UK, is not something we
@@ -992,9 +874,7 @@ portfolio as you seen and the other products that might be impacted. So no, ther
 contractual rebate type of thing. The only thing that you could see is in some contracts, there's a
 kind of a profit-sharing commission with distributors that might be an impact.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 
 
@@ -1004,27 +884,19 @@ so much.
 
 FINAL
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 That depends on the -- that would depend on the type of product you're selling. So if you sell
 products that are like a paper mile type or product then you would have that. We don't have that in
 Belgium, not in our portfolio.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 That's helpful. Thank you.
 
 Operator
 Thank you. We don't have any more question for the moment. (Operator Instructions) We don't
 have any more questions. Back to you for the conclusion.
 
-A - Bart Karel August De Smet
-
-{BIO 16272635 <GO>}
+A - Bart Karel August De Smet {BIO 16272635 <GO>}
 
 Bloomberg Transcript
 

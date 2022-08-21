@@ -30,10 +30,7 @@ noise. After the speakers' remarks, there will be a question-and-answer session.
 you.
 I would now like to turn the call over to Mr. Peter Hill. Please go ahead.
 
-Peter J. Hill
-
-{BIO 15385944 <GO>}
-
+Peter J. Hill {BIO 15385944 <GO>}
 Good morning and thank you for joining our financial results conference call for the
 second quarter of 2018. Yesterday, after the market close, we issued our quarterly
 release. If you didn't get a copy, please call me at 212-521-4800, and we'll make sure we
@@ -156,9 +153,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2018-07-25
 
-Robert Qutub
-
-{BIO 15269353 <GO>}
+Robert Qutub {BIO 15269353 <GO>}
 
 FINAL
 
@@ -558,10 +553,7 @@ Bloomberg Transcript
 Operator
 Your first question comes from the line of Kai Pan with Morgan Stanley.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you and good morning. So, thank you so much for all the detail about the reserve
 releases. I just want to follow-up on that. Just the – is that – you do this study you said at
 the anniversary day, which means we will not see sort of big reserve movements is
@@ -570,10 +562,7 @@ related to these hurricanes were 2017 cat events until second quarter of next ye
 A - Kevin J. O'Donnell
 Kai, you came across a little broken up there. Can you actually just repeat the question?
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Sure. And you said you typically do these, like, deep dives, reserve study at the
 anniversary of those events. And that's the time you decided to either add it to these
 reserves. So, which that imply would not – we would not see significant movements on the
@@ -603,10 +592,7 @@ had and we felt comfortable that in the second quarter we were in a strong posit
 able to make the judgments that we made. I wouldn't read that forward that we would do
 the same second quarter next year.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. That's fair. But if I'm looking back your 2004, 2005 hurricane losses, we have – we
 didn't see sort of meaningful reserve releases from those events until probably 2007,
 2008. I just wonder, is that correct or not, and what has changed here that why you
@@ -633,10 +619,7 @@ did and we were able to achieve it in the second quarter. I think it would have 
 same process we applied after each of the events, it's just that, this event became
 transparent in the second quarter, not the third.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay, great. My next question is on the underlying combined ratio in the Property Cat
 segment. It looks like it's kind of elevated comparing either 49% versus like low-40s for
 the prior years. I just wonder, is there any sort of one-off item which is not including the
@@ -650,9 +633,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2018-07-25
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
+A - Robert Qutub {BIO 15269353 <GO>}
 
 FINAL
 
@@ -661,22 +642,13 @@ events drove it. I did point out some anomalies in the acquisition expense ratio
 the events that actually drove it up, but absent that, they were fairly normal. Really nothing
 that was other than the cat events was the big driver.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 So, it's just one-off on this quarter?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Than the large item for the 2017, yes.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. And then last one, if I may. If you're stepping back, Kevin, if you look at first quarter
 operating ROE about 13.5%, the second quarter, if you strip out all the reserve releases
 coming from 2017, that still is 13%? So, I just wonder, is that 13% ROE sustainable in your
@@ -691,10 +663,7 @@ most efficient capital to match with it. So, without giving guidance as to what 
 expectations are, I think our strategy is working well in this market and we hope that it
 continues to work well as we move into third and fourth quarters.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you, and good luck with the wind season.
 
 A - Kevin J. O'Donnell
@@ -703,19 +672,13 @@ Appreciate it. Thanks.
 Operator
 And your next question is from the line of Amit Kumar with Buckingham Research.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Thanks, and good morning, and congrats on the print. Few questions, the first question,
 going back to Kai's question on ROE, if I flip the question, do you think that the better way
 to look at RenaissanceRe is looking at the value creation over time? Do you think is that
 better or should we continue to focus on near-term ROE move?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Page 13 of 23
 
 
@@ -735,10 +698,7 @@ A - Kevin J. O'Donnell
 No, that's exactly right. I think, if we do our job and grow tangible book value plus
 accumulated dividends, I think that's our best path retaining long-term shareholder value.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Thanks for that clarification. The second question, and maybe I might hope for a bit more
 color on the reserve releases. If I understand correctly, the majority of the release came
 from Harvey, but Irma and Maria were sort of unchanged. Maybe just go a bit deeper and
@@ -761,10 +721,7 @@ to what's driving the events. But from our perspective, when we look across the 
 each of the hurricanes are down on a net basis. And when I said that the wildfires are
 about the same as what they were when we put them up in the fourth quarter.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 No, I guess, what I was trying to ask is, is Harvey like 80%, 75%? Like, is there some sort of
 proportion which would help us sort of do some sort of a comparative analysis with other
 companies?
@@ -777,10 +734,7 @@ to dive more deeply, because the net changes to us are unique to us. And because
 of it depends on the assumptions you made with the original loss estimates that you use
 for reserving.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Page 14 of 23
 
 
@@ -796,10 +750,7 @@ this sort of as a guide or going forward in terms of our modeling purposes?
 
 FINAL
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 I think there's three things driving the growth. And that is – one is, obviously, we're seeing
 interest rates increase over the last year, that's driving probably the majority of the
 increase. You can see that in the fixed maturity where that's up several million dollars.
@@ -810,10 +761,7 @@ helped part of the growth when you think about in volumes. And then, you can loo
 see benefits from that as the rates go up. New money yield is 3%, probably a little bit
 higher than that with the rates going up, so that's how we focus on them.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. Thanks for the answers and good luck for the future.
 
 A - Kevin J. O'Donnell
@@ -821,19 +769,13 @@ Appreciate it. Thanks.
 
 Bloomberg Transcript
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Thank you.
 
 Operator
 And your next question is from the line of Yaron Kinar with Goldman Sachs.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Morning, everybody. I guess, my first question maybe a little premature, but I am going to
 take a stab at it anyway. Just given where pricing is today and with a benign start to the
 wind season this year, if the wind season proves to be benign this year at the end of
@@ -861,10 +803,7 @@ serving our clients and bringing our capital to their needs will be unchanged.
 
 FINAL
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay. I appreciate that. And then my second question, in terms of your partners, with a
 perspective of a year after the storms, have the conversations changed or the issues that
 they're focused on changing at all, or is it pretty much consistent from relative to where it
@@ -880,9 +819,7 @@ bring to them in understanding the risk from which they accept to us. So, those
 conversations have been fairly robust. So, I feel like we're in a great spot with where the
 market is and with our access both to desirable risk and efficient capital.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
+Q - Yaron Kinar {BIO 17146197 <GO>}
 
 Bloomberg Transcript
 
@@ -894,10 +831,7 @@ Yeah.
 Operator
 And your next question is from the line of Elyse Greenspan with Wells Fargo.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Hi, good morning. My first question, you gave some color on your gross-to-net strategy
 within your Property book this year. I guess, if we have a repeat of last year's events, not
 specifically the same events that meaning more of frequency events than severity events,
@@ -931,10 +865,7 @@ more wildfires, we saw an opportunity in the dislocated liability market for pub
 California. So, we could have more exposure to something like that. But I don't think that's
 an industry trend.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. That's great. And then, in terms of as we think about the take down for the 2017
 losses that you guys had this quarter, could you provide some color in terms of the IBNR
 that you guys have up for the events, and how that will compare to past events, I guess,
@@ -953,10 +884,7 @@ recognize that each of these have a unique development pattern. And I think we w
 thoughtful in thinking about those and how to set the original reserves and also how to
 set the current reserves.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay, great. And then, in terms of the expense ratio this quarter, I know you guys pointed
 out a few factors, the hurricanes impacted the number. If I kind of adjust for the
 reinstatement and the profit commission impact, I get an expense ratio, and this is for the
@@ -966,10 +894,7 @@ premium offsets that. So, is that about the right expense ratio to assume going 
 or was there something kind of one-off when we back out the impact of the 2017 loss
 adjustment?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 No, I think we tried to highlight in my prepared comments the factors that were driving the
 cost that were outside of what you'd see normal growth that will come in, that will
 probably correspond to premium growth like acquisition expense cost. We will invest in
@@ -986,9 +911,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2018-07-25
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 
 FINAL
 
@@ -1005,16 +928,10 @@ portfolios. As far as our buyback positioning, nothing's changed. We continue to
 deploy into the business first. And our preferred method of capital return remains share
 buybacks, which have been accretive over time.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. Thank you very much.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Thanks, Elyse.
 
 Operator
@@ -1023,10 +940,7 @@ Bloomberg Transcript
 
 And your next question is from Ryan Tunis with Autonomous Research.
 
-Q - Ryan J. Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan J. Tunis {BIO 16502263 <GO>}
 Hey. Hey, thanks. Just got a few here. I guess, my first one, following up on Elyse's
 question, I think, you guys did a really good job giving us the kind of the bottoms-up view
 on why you're comfortable with the big reserve release, but just looking for something
@@ -1035,10 +949,7 @@ helpful, but if not that, is there anything you can give us that we can see in p
 available data that you think kind of adequately says that, hey, like, this is one reason why
 you should be comfortable with where we have net reserves at this point?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 No. Ryan, this is Bob. Thanks for the question. I think there's a couple of things. As Kevin
 pointed out, there is the complexity of the business model makes it difficult just the way
 we manage the risk. Yes, there's the individual storms, you layer that with the
@@ -1057,9 +968,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2018-07-25
 
-Q - Ryan J. Tunis
-
-{BIO 16502263 <GO>}
+Q - Ryan J. Tunis {BIO 16502263 <GO>}
 
 FINAL
 
@@ -1085,10 +994,7 @@ comfortable with the level of reserves we're carrying.
 
 Bloomberg Transcript
 
-Q - Ryan J. Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan J. Tunis {BIO 16502263 <GO>}
 Okay. And then, I just had a couple thinking about, I guess, retro in Upsilon, if I had this
 right, so there's been a pretty big capital raise in Upsilon, and – I mean, correct me if I'm
 wrong here. That's a lot of business that you've written because you raised capital in
@@ -1103,10 +1009,7 @@ mentioned, we do own a portion of the capital that's deployed within Upsilon. So
 gross portfolio we like. We just recognize that we can bring more efficient capital by
 moving it off the rated balance sheet and delivering that product to our customers.
 
-Q - Ryan J. Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan J. Tunis {BIO 16502263 <GO>}
 Got it. I guess, what I was trying to maybe get at is, if you think about, I mean, I guess, it's
 tricky if all you are doing is moving it from your balance sheet over to Upsilon. But just
 trying to think about, if you have like a no-loss year, your decision to raise all this capital on
@@ -1137,10 +1040,7 @@ customers with that capital.
 Operator
 Your next question is from the line of Josh Shanker with Deutsche Bank.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Yeah, good morning, everyone. You guys have been growing fantastically in non-cat lines.
 And I'm trying to understand the picture of the pie getting bigger or are you getting
 better? And that might be a combination of both? You discussed the California wildfire
@@ -1160,10 +1060,7 @@ best accounts, and then working hard by bringing our expertise, not only in Prop
 but increasingly in other lines of business to the session that they're making outside of
 Property Cat. So, it's more about an access -it's access for us more than competing.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Is that a conversation that begins with a broker or begins with a client?
 
 A - Kevin J. O'Donnell
@@ -1174,9 +1071,7 @@ that we can talk broadly across the portfolio of coverages that we're providing.
 do a good job balancing the important role that the broker plays and bringing our
 expertise directly to the client, so we can have the most robust conversations.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Page 20 of 23
 
 
@@ -1202,18 +1097,13 @@ that is highly coordinated and we empower the underwriter to make the decision, 
 make sure that every underwriter is fully informed about the quantum of the overall
 relationship.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Well, I'll be interested to watch. Congratulations. Thank you.
 
 A - Kevin J. O'Donnell
 Appreciate it. Thanks.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
+A - Robert Qutub {BIO 15269353 <GO>}
 
 Bloomberg Transcript
 
@@ -1222,10 +1112,7 @@ Thanks.
 Operator
 And your next question is from Meyer Shields with KBW.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Thanks. Just a couple of, I think, quick questions. One, Kevin, you mentioned that the
 standalone reinsurance business model is attractive to clients. Is that changing, in other
 words, is it becoming more attractive than it was a year or two ago?
@@ -1236,10 +1123,7 @@ value of having the ability to have a conversation with somebody who doesn't com
 with them, I think, might be increasingly important, but it's something that we always
 thought was important.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. No, that helps. Also within casualty and specialty, so you talked about rates and loss
 trends basically offsetting each other from, what I'll call, a margin perspective. When you
 see loss trends accelerate, does that itself catalyze more demand for reinsurance
@@ -1258,10 +1142,7 @@ market. I said it's not always as cleanly connected as that.
 
 FINAL
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. And then, the final question. When you look at – I guess, so you correctly
 anticipated, for example, the LAE inflation or agro recovers. On the LAE side, do current
 2017 catastrophe reserves include any potential acceleration of 2018 as a difficult year?
@@ -1271,10 +1152,7 @@ Let me rephrase your question to see if this is where you're asking. Are we anti
 that if there is losses in 2018, loss adjustment expenses would be even higher because
 some of adjustors are deployed on 2017 events?
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Oh, I meant the other way round. In other words, since these claims take a little bit longer
 to settle, if there are events this year, then loss adjustment expenses related to claims
 incurred last year would go up even more?
@@ -1291,10 +1169,7 @@ think if we were to set reserves for events that could occur in third or fourth 
 2018, we would certainly consider the availability of adjusters to make sure we understand
 the impact on loss adjustment expense.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, that's helpful. Thank you very much.
 
 A - Kevin J. O'Donnell

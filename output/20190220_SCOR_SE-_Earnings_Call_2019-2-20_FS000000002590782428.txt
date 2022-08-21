@@ -36,10 +36,7 @@ question, please kindly limit your number of questions you place to two question
 time I would now like to hand the call over to Mr. Ian Kelly, Head of Investor Relations.
 Please go ahead, sir.
 
-Ian Kelly
-
-{BIO 19976646 <GO>}
-
+Ian Kelly {BIO 19976646 <GO>}
 Good morning, everybody, and welcome to the SCOR Group 2018 full year results call.
 Before we start, can I please ask you to consider the disclaimer on page 2 of the
 presentation, which indicates that the financial results for the full year 2018 included in this
@@ -196,10 +193,7 @@ and to set out the ways and means chosen to achieve these, leveraging a Tier 1 s
 global and deep franchise (00:11:50), the prime rating, the expertise-driven human capital.
 Let me now hand over to Mark for the financial details. Mark, the floor is yours.
 
-Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+Mark Kociancic {BIO 17852409 <GO>}
 Thank you, Denis, and good morning, everyone. So let's begin on slide 8. I will walk you
 through the financial highlights for the year. 2018, SCOR underwrote €15.2 billion gross
 written premiums, representing a 7.1% increase over 2017 at constant exchange rates, or
@@ -294,10 +288,7 @@ its solvency position is not sensitive to the level of the ultimate forward rate
 With this, I'd like to hand over to Victor for his comments on the development of the P&C
 portfolio.
 
-Victor Peignet
-
-{BIO 6287211 <GO>}
-
+Victor Peignet {BIO 6287211 <GO>}
 Thank you, Frieder. Good morning. 2018 was another year marked by natural catastrophe,
 although not as badly as 2017. 2018 and 2012 are the second costliest nat cat years on
 record, with insured losses of around $80 billion. Costliest years are 2017, 2011 and 2005,
@@ -345,10 +336,7 @@ Bloomberg Transcript
 
 On this note, I'll hand over to Paolo for his comments on the Life division.
 
-Paolo de Martin
-
-{BIO 15930577 <GO>}
-
+Paolo de Martin {BIO 15930577 <GO>}
 Thank you, Victor. SCOR Global Life records another successful year in 2018, both in terms
 of growth and profitability. The total year, we've been able to record gross written
 premiums on €9.1 billion, achieving effectively the Vision in Action assumption one year
@@ -409,10 +397,7 @@ invested assets' financial contribution quality. The annualized return on invest
 could be comprised between 2.7% and 3% for the full year 2019.
 With this, I will hand it over to Ian for the conclusion of (00:25:02).
 
-Ian Kelly
-
-{BIO 19976646 <GO>}
-
+Ian Kelly {BIO 19976646 <GO>}
 Thank you, François. On page 18, you will find the next schedule of events starting on April
 26 with Q1 2019 results and Annual General Meeting, as well as the conferences, which we
 are planning to attend across the first half of 2019.
@@ -435,10 +420,7 @@ Operator
 Thank you. We will now take our first question from Kamran Hossain from RBC. Please go
 ahead.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi. It's Kamran Hossain from RBC. Couple of questions. First one is looking at the, I guess,
 the Solvency II earnings during the year, new business contribution is particularly strong
 and that €450 million definitely above what you had flagged in late September, the €300
@@ -449,9 +431,7 @@ And the second question just on capital. Would it be possible to get an update o
 AAA surplus and whether actually the merger of the 3SEs will do anything there at all?
 Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
+A - Denis Kessler {BIO 1498477 <GO>}
 
 Bloomberg Transcript
 
@@ -470,10 +450,7 @@ yeah, ups and downs as I mentioned. And we haven't disclosed the number for the
 previous year, but the level was approximately in the same order of magnitude. So,
 there's nothing unusual about new business value in 2018.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Thanks.
 
 Operator
@@ -489,40 +466,26 @@ Date: 2019-02-20
 We will now take our next question from Jonny Urwin from UBS. Your line is open. Please
 go ahead.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
+A - Denis Kessler {BIO 1498477 <GO>}
 
 FINAL
 
 I think there was a second question for Mark.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 So on the second question, your question had to do with the S&P Capital level. So, we are
 still significantly above the AAA threshold for S&P Capital. Not so much has changed for us
 and that's the fact (00:28:43).
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi. Jonny Urwin here. Should I go now?
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Yeah. Go ahead, Jonny.
 
 Bloomberg Transcript
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thanks. So just to follow up on the (00:29:00) number then. So, I mean, it's a really good
 number and even adjusted for the experience variance like 16 points or so. So, I mean, is
 the message today that that's broadly sustainable, obviously, there'll be pluses and
@@ -554,10 +517,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2019-02-20
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thank you. Could you give us a normalized expectation just for where you think that
 (00:31:21) would run even if it's just a range? That'd be great.
 
@@ -572,10 +532,7 @@ But then, the contribution from the in-force business is a bit more mechanical. 
 mostly unwinding of discount and release of cost of capital and investment income on an
 expected basis. So, you should see less volatility in that regard.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Got it. Thank you.
 
 A - Frieder Knüpling
@@ -588,16 +545,10 @@ minuses over time so you'd need a somewhat longer time series to really make rob
 projections on this. But now with this in mind, I think you can take the numbers as a good
 starting point (00:32:45).
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 So on the P&C market dynamics?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, you need to look at it from three perspectives. The P&C market insurance,
 reinsurance, and retrocession. But my feeling is that we've got the losses already in the
 books. I mean, we've got the nat cat losses for sure with the last two years and don't
@@ -630,20 +581,14 @@ of segments in the market where you see that the reaction is already there. As I
 not sufficient, but we expect it to amplify as we pursue the next two renewal seasons in
 2019.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thank you very much.
 
 Operator
 We will now take our next question from Sami Taipalus from Goldman Sachs. Please go
 ahead.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Yeah. Hi. Thanks for taking my question. First one is again on the capital generation,
 actually. Is it possible to just break down the new business contribution a bit between P&C
 and Life just so we get a feel of it? That would be quite helpful.
@@ -666,10 +611,7 @@ Sorry, on the variances, yes, you're right. Excess nat cat claims have gone into
 we've had positive variances and developments from other parts of the P&C and Life
 portfolio so this has more than offset the P&C nat cat claims, but they are in there.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Is it possible to be just a little bit more specific on what those positive variances are?
 
 A - Frieder Knüpling
@@ -685,18 +627,13 @@ Date: 2019-02-20
 They're really spread out across the portfolio. So, from other parts of the P&C portfolio
 and the Life business. So, as I said, it's spread out across the whole (00:36:57).
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
+A - Denis Kessler {BIO 1498477 <GO>}
 
 FINAL
 
 (00:36:59) on the reserve release.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Yeah. Also, I think this is totally consistent with what we've done all over the years when
 we have been hit by large natural catastrophe. And if you refer back to 2011 or 2012, you
 would find exactly then the same magnitude of reserve release that are totally consistent.
@@ -707,34 +644,22 @@ reserving (00:37:41), but this amount of release, while it's quite marginal comp
 (00:37:47). So we believe (00:37:49-00:37:52), we believe that we are comfortably
 anticipate we have to do so (00:37:55).
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Okay. But did the levels of surplus change over the year or was it stable or...
 
 Bloomberg Transcript
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 I think it has been – we have been unable this year to replenish the level of surplus. So we
 are basically in the same order of magnitude as we were at the end of last year.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Okay. Great. Thank you.
 
 Operator
 Our next question comes from Andrew Ritchie from Autonomous. Please go ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Hello? Hi. It's Andrew Ritchie here. I have two questions. First of all, for François, could you
 just give us a view on how you're thinking about credit risk right now. There's obviously
 been some spread widening in Q4. It's come back a bit in Q1, slightly more uncertainty on
@@ -768,18 +693,12 @@ in our corporate bond portfolio today. We purchased bonds. We purchase shorter
 duration BBB bonds to enhance the runoff capacity today and we decreased idiosyncratic
 exposure when bond redeemed (00:40:28).
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 In terms of the retro program, Victor (00:40:33).
 
 Bloomberg Transcript
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Yeah. On the retro, there was no change of structure in the retro program. We discussed,
 as I commented, a question of the loss activity we had this year, you see that that's kind
 of an in-between scenario between benign and severe. And we have a pretty unusual
@@ -793,29 +712,17 @@ that is being activated. But this scenario, we knew about it and we have modeled
 Our combined ratio is below 100%. It's pretty unusual to have a loss activity that is so
 evenly well spread over five different blocks of event.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 And you could give us the contribution of retro in 2017 and (00:42:04) that shows the
 pattern of claims.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Different, yeah. In...
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 The processing program (00:42:10) (00:42:12).
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Page 14 of 24
 
 
@@ -834,18 +741,12 @@ So, we had non-proportional recovery on top of proportional. This meant that we 
 are missing the 20% non-prop because we don't reach the per event and aggregate total
 by which our non-proportional retrocession would be triggered. (00:42:55)
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 I guess the (00:42:58) I guess the positive being you didn't – because you didn't burn a
 large part of your retro in 2018 then that would have enhanced your ability to renew it on
 decent terms?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, I think you can see the glass half empty or half full. It's quite obvious to me that if
 2019 is a normal year, we are going to come for renewal of our retrocession in a very
 favorable situation, whereby, I mean, we would not have activated our non-profit 2018. If
@@ -855,36 +756,24 @@ comparison to the rest definitely.
 
 Bloomberg Transcript
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. Thank you very much.
 
 Operator
 We will now take our next question from Vinit Malhotra from Mediobanca. Please go
 ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Hello? Hello. This is Vinit from Mediobanca. Am I on? But I don't – actually it's not clear. Ian,
 shall I go on?
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Yes. Go ahead, Vinit.
 
 Operator
 Your line is now open.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yeah. Sorry. Sorry. Okay. So, I'm try to stick to two questions. I have few numbers of things
 (00:44:11) here. Just starting with the (00:44:17) in the fourth quarter. Victor, are you able
 Page 15 of 24
@@ -908,30 +797,19 @@ And if I could just squeeze in, on the investment return outlook, it's a bit sub
 compared to previous years. Is that because the – you're deemphasizing realized gains?
 So that's my two questions. Thank you very much.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Victor?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Yeah. Morning, Vinit.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 Bloomberg Transcript
 
 Hi.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Actually, just to be quite clear, my point was to say that the market has been hit by series
 of large man-made in different sectors and the sectors I mentioned are refining in the
 energy side, aluminium, mining, large construction project – hydroelectric, in particular –
@@ -949,10 +827,7 @@ extent, the few large losses that you had during the year, hence, the excellent 
 that we are able to pull out despite the fact that the year is heavy man-made loss activity
 here.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 And I'm sorry...
 Page 16 of 24
 
@@ -962,9 +837,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2019-02-20
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 
 FINAL
 
@@ -973,43 +846,28 @@ and then we have to benefit of the strengthening of the market and probably the
 rectifications of certain clauses that have deviated over the years. That is going to happen
 and is already happening. We see that in different sectors that have been loss-affected.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Sure. And the €130 million, Victor, you mentioned on page 15, is that – that's an early
 figure, but are you able to point out a quarterly fourth quarter figure or it's not very
 relevant?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Oh, the €130 million is the total amount of nat cat losses in excess of €3 million each that
 we have sustained during the entire year. The larger ones in this €130 million is Frederick,
 the European storm, which stands at – it's about €30 million, I believe.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Thanks, Victor. Thank you.
 
 Bloomberg Transcript
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 €26 million, exactly. So you've got this one at €26 million, and then we've got a lot of them
 which are probably corresponding to higher activity of severe convective storms that we
 have seen everywhere in the world. I mean tornado, flash floods, hail storms, as the one
 we had in Sydney just before the end of the year.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yeah. Thank you.
 
 A - François de Varenne
@@ -1044,19 +902,14 @@ unrealized gain portfolio at the end of 2018, we still have a significant buffer
 especially coming from the real estate portfolio and capital gains from (00:50:23) in 2019
 and probably the following year.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Thank you.
 
 Operator
 We will now take our next question from Thomas Fossard from HSBC. Your line is open.
 Please go ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
+Q - Thomas Fossard {BIO 1941215 <GO>}
 
 Bloomberg Transcript
 
@@ -1076,16 +929,10 @@ So any current thinking about how to maybe rebalance the group or is it time to 
 the group now towards P&C in order to capture maybe the next five years leg? Thank
 you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Victor.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, we've done a lot of studies on wildfire in California as you may imagine. We already
 changed our pricing after the year 2017, but we don't have any model at the moment that
 is really operational, but we have started to, well, work on deterministic scenarios last
@@ -1119,16 +966,11 @@ wherever we underwrite contract with exposures, we are getting those exposure
 calibrated, assessed and priced for. And that's what we are doing not only in California
 but in other areas, Canada in particular.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 So we don't invest (00:54:50) anymore in the companies producing (00:54:53). Mark,
 about the balance (00:54:57)?
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
+A - Mark Kociancic {BIO 17852409 <GO>}
 
 Bloomberg Transcript
 
@@ -1142,10 +984,7 @@ franchise development of the group, so that's something you'll probably hear a b
 of in September on our IR Day. But again, the split in the capital requirements really isn't
 that different.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Mark, I fully understand that. But I mean also contrast in terms of maybe what looks to be
 a stabilization of a five, six years soft market environment. And keeping in mind that last
 time you grew externally on the P&C side, which Converium was also, I would say, back to
@@ -1153,10 +992,7 @@ times where markets on the P&C side were a bit more, I would say, stronger than 
 been over the past five years. I mean did that triggers any strategic thinking and conscious
 of the timing in the cycle currently?
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Oh, we're always prepared to allocate additional capital to areas of our business
 geographically in lines that are going to produce more. That's a clear point. It's something
 we were prepared to do in the first quarter of 2017. It didn't really materialize. But there's
@@ -1173,9 +1009,7 @@ Date: 2019-02-20
 there's really very limited limitations on where we would want to grow and that includes
 investment risk, life risk and P&C risk.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
+Q - Thomas Fossard {BIO 1941215 <GO>}
 
 FINAL
 
@@ -1185,28 +1019,19 @@ Operator
 We will now take our next question from Frank Kopfinger from Deutsche Bank. Please go
 ahead. Your line is open.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Good morning, everybody. I have two questions. My first question is on the €200 million
 one-off. Given that we are halfway through Q1, any thoughts you can already share by now
 of what you are going to do with the €200 million? And then secondly, on the tax rate for
 2019, in 2018, the tax rate even if I adjust for the U.S. tax effect had been pretty high. So
 any view on where tax rate should go in 2019?
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Mark on the first question.
 
 Bloomberg Transcript
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Yeah. So the tax rate was elevated in 2018 at 34%, approximately 34%, and that was
 heavily influenced by the U.S. tax reform charge of €68 million, which we saw as a onetime
 event. If you normalize it for the U.S. tax reform charge, we're slightly above 21% in the
@@ -1226,9 +1051,7 @@ benefit that we'll get under Solvency II. That's probably something that we will
 the strategic plan, which will be unveiled in September during our Investors Day
 presentation.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Page 20 of 24
 
 
@@ -1246,10 +1069,7 @@ FINAL
 We will now take our next question from Vinit Malhotra from Mediobanca. Please go
 ahead. Your line is open.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Thank you. Thanks for the follow-up on, just some non-numbers topics please. Vinit,
 Mediobanca again, sorry. So, Denis, there was a media article I read a few days ago that
 SCOR wants to be a consolidator or views itself as a consolidator. Are you able to
@@ -1259,35 +1079,23 @@ Second question just quickly, on this normalized ROE, it's now three years in a 
 literally most of this plan where it's above the target substantially so or maybe at least
 100 bps. Which bit is in your view the surprise versus the target 800-plus five-year riskfree (01:01:06), if anything? Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Mark?
 
 Bloomberg Transcript
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 I want to make sure I understand your last question, Vinit. You were asking which business
 was a surprise versus the (01:01:22)?
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Or driver, sir. Yeah, I mean we've seen 10.1%, 9.4% and even the previous year was 9.5%.
 So we are consistently above target which is good news. I'm just wondering where is this
 in your view the good news coming from? It's just a very small – I mean if there's nothing
 that is striking then that will stick. I'm curious (01:01:41) to see something is standing up
 here.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Yeah. We have enjoyed, for example in 2017, we enjoyed a very nice return on invested
 assets. It was probably stronger currently at the upper end of our guidance or (01:01:58)
 the market. P&C remains very resilient so take a look at the combined ratio. That's better
@@ -1296,9 +1104,7 @@ and we are outperforming that the first two to three years of the plan thus far 
 Life continues to be quite stable for us. So it's been quite a strong performance across
 the board for us I would say in all three areas.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
+A - Denis Kessler {BIO 1498477 <GO>}
 
 Page 21 of 24
 
@@ -1365,9 +1171,7 @@ Date: 2019-02-20
 policy that was stated quite a few years ago (01:06:39) the last more than 10 years
 (01:06:44).
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 FINAL
 
@@ -1400,10 +1204,7 @@ leaving. But I want to just to pay tribute to Victor for everything he's brought
 which is absolutely exceptional (01:08:59) and we wish you the best, Victor. Thank you for
 your contribution.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Thank you. Thank you, Denis. So thank you very much, everybody, for attending this
 conference call and please don't hesitate to call us should you require any further
 information. Just to remind you, we do have our Analyst Roundtable call at 5:00 PM GMT,

@@ -25,10 +25,7 @@ Bloomberg Transcript
 Michael van Wegen, Director
 
 Presentation
-Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+Matteo Del Fante {BIO 6237992 <GO>}
 Good morning, ladies and gentlemen. Thank you for joining us this morning as we
 present Poste Italiane Third Quarter results for 2018.
 I will take you through the key highlights for the period before handing over to our CFO,
@@ -174,9 +171,7 @@ immediate positive impact he has had on our business, thanks to his deep knowled
 Poste and the ﬁnancial markets. And I'm certain that he will be a signiﬁcant asset for us
 and for the company. Over to you, Guido.
 
-Guido Maria Nola
-
-{BIO 20719012 <GO>}
+Guido Maria Nola {BIO 20719012 <GO>}
 
 Bloomberg Transcript
 
@@ -488,10 +483,7 @@ FINAL
 Let me now hand back to Matteo for some closing remarks before we open the call for
 questions. Thank you.
 
-Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+Matteo Del Fante {BIO 6237992 <GO>}
 Thank you, Guido. Thank you, everyone. Before taking your questions, let me reiterate
 some key ﬁnal points.
 
@@ -517,10 +509,7 @@ Operator
 (Operator Instructions) We will now take our ﬁrst question from Anna Adamo of
 Autonomous Research.
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 I have 2 questions. Firstly, on the ﬁnancial services. I see that there are EUR 1.4 billion of
 additional unrealized losses on the bond portfolio, can you explain what is driving these
 unrealized losses, given that the spread move was only 30 basis points during the period?
@@ -538,9 +527,7 @@ Company Name: Poste Italiane SpA
 Company Ticker: PST IM Equity
 Date: 2018-11-08
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
+A - Matteo Del Fante {BIO 6237992 <GO>}
 
 FINAL
 
@@ -549,16 +536,10 @@ negative move on the mark-to-market of the BTP portfolio is exactly on line with
 basis points move because we always announce and specify that the sensitivity of the
 mark-to-market of the portfolio to BTP spread is around EUR 500 million. It may be your...
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 To follow up on this point...
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 If I can ﬁnish. Just, maybe the thing that is not fully appreciated by the market is the fact
 that we have high sensitivity to the spread because we have a long dated portfolio, the
 maturity of the portfolio is around 13 years. But given we hedge from the interest rate risk
@@ -566,28 +547,19 @@ of the portfolio, the duration of the portfolio is only ﬁve years. So we have 
 to the BTP spread, which is something that is not hedged but we each have a much lower
 sensitivity to the interest rate spread duration. And sorry, what's your follow-on question?
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 Can you speak to these unrealized losses between the held to collect and held to collect
 and sell portfolio?
 
 Bloomberg Transcript
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Yes. We don't disclose that ﬁgure. I can tell you that we have today in the portfolio, in the
 bond portfolio, a portion of the portfolio, which has around EUR 500 million of capital
 gain unrealized. But we don't give disclosure of -- we can take this speciﬁc question oﬀ
 the line with you, if you want, okay? On the second question, please, Guido.
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 On the second question, well, ﬁrst of all, no, we don't believe we're lowering the quality
 using ancillary-owned funds. First, you need to bear in mind that, as we said, this is a
 commitment that will turn into Tier 1, Unrestricted Tier 1 should the Poste Italiane decide to
@@ -620,8 +592,7 @@ the third question is, if you look at your banking book, I'm seeing deposits dow
 Second Quarter in a row. At the same time, repos are growing quite materially. Can you
 tell us what is the strategy behind this?
 
-A - Matteo Del Fante
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Okay. Thank you, Gianluca. I'll take the ﬁrst 2 questions and then ask Mr. Novelli, the CEO
 of BancoPosta to take the third one. On mail, the increase on mail and Guido highlighted
 in his presentation the fact that it is probably the ﬁrst time in at least 10 years that we see a
@@ -637,14 +608,9 @@ incremental revenues. You mentioned EUR 300 million, EUR 400 million, I think yo
 bit on the wide side. But you're clearly in the ballpark. And on the third question, on
 deposits, please Andrea.
 
-A - Andrea Novelli
-
 Bloomberg Transcript
 
-{BIO 6237992 <GO>}
-
-{BIO 15185958 <GO>}
-
+A - Andrea Novelli {BIO 15185958 <GO>}
 Good morning, everyone. So on deposits, as you can see from Page 13, the stock of
 deposits is growing from the end of last year. As Guido mentioned, this is mainly coming
 from public administration deposits. But I would like to stress the fact that also the retail
@@ -655,10 +621,7 @@ I was referring to the fact that retail are growing versus end of the last year 
 and Q2 are decreasing in Q3. At the same time, repos are now EUR 6.6 billion. They were
 EUR 5 billion end of last year. So I was curious to know why?
 
-A - Andrea Novelli
-
-{BIO 15185958 <GO>}
-
+A - Andrea Novelli {BIO 15185958 <GO>}
 The retail component is growing as well, just to be clear, compared to the other quarters
 of the year and going to the repo component, this is due to the fact that in our plan, we
 envisaged a very prudent increase in the leverage of our portfolio. Actually, given the
@@ -678,10 +641,7 @@ Date: 2018-11-08
 
 FINAL
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 A few questions I have is, ﬁrst of all, I mean, if insurance business starts giving lower
 capital back to the holding company, to the Mail & Parcels as a dividend, let's say, if it
 moves to a 50% payout versus your 90% payout for the next four years, how should we
@@ -699,10 +659,7 @@ model at some point? How much time it will take? Is it something worth looking a
 
 Bloomberg Transcript
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 In terms of the dividend policy, I just want to remind -- take the opportunity to remind that
 we have a committed increase of 5% for 2018, 2019 and 2020. That's our commitment in
 February 2018. So an increase of 5% in absolute terms of the dividend. The reduction of
@@ -720,10 +677,7 @@ the dividend policy of the holding company that is the one committed with invest
 the market. On the GDPR and the potential consideration on the internal model, I will ask
 Guido to answer, please.
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 So quickly on GDPR, Ashik, as you may know, as we said already before, direct marketing
 price is much less important as in Italy, in general, it's not as frequent as in the U.K. for
 example. You mentioned Royal Mail. For us it has a much lower impact and we had
@@ -743,26 +697,17 @@ Company Name: Poste Italiane SpA
 Company Ticker: PST IM Equity
 Date: 2018-11-08
 
-Q - Michael van Wegen
-
-{BIO 6435238 <GO>}
-
+Q - Michael van Wegen {BIO 6435238 <GO>}
 One quick question. Can you explain, under which circumstances the ancillary capital will
 be converted into Tier 1? So in other words, under which circumstances will either
 PosteVita decide themselves or be forced by the regulator to draw on the credit?
 
 FINAL
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Please, Guido.
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 As I said before, there is no constraint. The Board of PosteVita has the right to call at any
 point of time it feels it's needed. And obviously, we will take into account any
 consideration that the regulator will have. But they will not -- we don't expect them to
@@ -771,9 +716,7 @@ before, I mentioned that AOS or the ancillary-owned funds, once they're drawn, b
 Tier 1, let me be even more clear, they become equity, not just Tier 1. So it's a capital
 increase. It's a capital injection.
 
-Q - Michael van Wegen
-
-{BIO 6435238 <GO>}
+Q - Michael van Wegen {BIO 6435238 <GO>}
 
 Bloomberg Transcript
 
@@ -783,20 +726,14 @@ between brackets, artiﬁcially because of the ancillary capital to 210%. I mean
 regulator is still happy if you have were to hit 150% or I mean, at some point, they are
 going to ask you to make this hard capital. And just trying to understand when that is.
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 Let me just say that, again, we retain -- the board retains that ﬂexibility. But we maintain a
 commitment of 130%. So that line would be drawn at 130%. Next question?
 
 Operator
 We will take our next question Filippo Prini of Kepler.
 
-Q - Filippo Prini
-
-{BIO 15149583 <GO>}
-
+Q - Filippo Prini {BIO 15149583 <GO>}
 My ﬁrst question is on cost. Given what you achieved both in absolute terms and your
 year trend in the ﬁrst nine months of the year, if you exclude for the Fourth Quarter what
 will come from the early retirement cost and what you mentioned on higher variable cost
@@ -806,9 +743,7 @@ question is on SIA, your participation in SIA, we have a lot of something in the
 in the latest couple of weeks. We know that SIA is not basically the busiest part of your
 business plan. But if you can add some comment on that?
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
+A - Matteo Del Fante {BIO 6237992 <GO>}
 
 Page 14 of 19
 
@@ -843,10 +778,7 @@ Our next question will come from Giovanni Razzoli of Equita.
 
 Bloomberg Transcript
 
-Q - Giovanni Razzoli
-
-{BIO 7269718 <GO>}
-
+Q - Giovanni Razzoli {BIO 7269718 <GO>}
 I have 2 questions. The ﬁrst one is on the Slide #14, which shows that the improvement in
 the trend in the postal -- net inﬂow of the postal savings, that's evident. And given the
 current market environment to where I suggest that -- I expect that the uncertainty on the
@@ -860,16 +792,10 @@ reﬂecting the purchasing you're mentioning of BTPs implemented in May and June
 wondering whether given the amount of maturities that you add, we may assume a
 conﬁrmation of these trends in terms of margins going forward?
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 And I ask Andrea to answer. Thank you, Giovanni.
 
-A - Andrea Novelli
-
-{BIO 15185958 <GO>}
-
+A - Andrea Novelli {BIO 15185958 <GO>}
 On the ﬁrst question on Postal Savings, as you have noted and as we show on Slide 14, we
 are seeing a signiﬁcant improvement of the net inﬂow compared to last year. And once
 again, I can conﬁrm that we are fully in line with the guidance we have given for this year,
@@ -898,10 +824,7 @@ increasing spreads. Then, in terms of expectation for the coming years, I think 
 has already answered that. Of course, this is providing an upside compared to the net
 interest income expectation we had in the plan.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Again, I'd just add, Giovanni, that you're right. We have a 2.63% average return, excluding
 capital gain on our portfolio for the ﬁrst nine months of 2018. And it is the ﬁrst time that it
 goes up in four years because in the ﬁrst half of the year, we had 2.58%. So it is the ﬁrst
@@ -913,10 +836,7 @@ The next question will come from Manuela Meroni of Banca IMI.
 
 Bloomberg Transcript
 
-Q - Manuela Meroni
-
-{BIO 1782610 <GO>}
-
+Q - Manuela Meroni {BIO 1782610 <GO>}
 My ﬁrst question regards the revenues of mail, clearly a very positive result in this quarter
 also due to the repricing that you made in July. I'm wondering if we can expect further
 repricing going forward? And what we can expect in the Fourth Quarter 2018 and in 2019?
@@ -927,10 +847,7 @@ increased operating proﬁtability is also due to the increase in ﬁnancial mar
 wondering if you can elaborate a little bit more on this point? And if you can guide us in
 terms of ﬁnancial contribution for the next quarter?
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 In terms of the ﬁrst question, the mail revenues, no, we don't anticipate one speciﬁc
 repricing in the last quarter. The repricing of the 1st of July was agreed upon with the
 regulator. But obviously, that repricing stays in the prices of the volumes that we deliver.
@@ -962,10 +879,7 @@ clients. And I must say that I have to give credit to our sales force for having
 bring the results that we're proudly showing today on the mail side. On the second
 question, on the insurance and speciﬁcally the ﬁnancial margin, I will ask Guido to answer.
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 Manuela, the answer is very short and very simple. We expect this to just be a seasonal
 eﬀect. Some of the realized proﬁts were anticipated slightly to this quarter, which we
 would normally expect in Q4. So we conﬁrm the target for the year and I hope this
@@ -976,10 +890,7 @@ The next question will come from Alberto Villa of Intermonte.
 
 Bloomberg Transcript
 
-Q - Alberto Villa
-
-{BIO 16005221 <GO>}
-
+Q - Alberto Villa {BIO 16005221 <GO>}
 I have a couple of questions. I'm sorry, I couldn't follow the entire call so maybe I
 apologize if you have already answered. But the ﬁrst one is on the pension reform under
 discussion by Italian government. So the quota change to reform. I was wondering if this
@@ -991,10 +902,7 @@ volatile environment in terms of Asset Management products. Are you seeing any, 
 say, outﬂows from Asset Management products or you expect net inﬂows to continue in
 the coming months?
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Okay. On the pre-retirement charges, as you know, it has always been company policy to
 do the ﬁnal income statement provision in Q4. So as we stated today, this is not a change,
 it will happen with the last quarter of the year. We are on track in terms of one, the
@@ -1007,10 +915,7 @@ will impact our workforce speciﬁcally, which I remind you is relatively aged. 
 probably an opportunity, I agree with you. On the retail ﬂow in these market conditions, I
 will let Andrea Novelli, the CEO of BancoPosta answer it.
 
-A - Andrea Novelli
-
-{BIO 15185958 <GO>}
-
+A - Andrea Novelli {BIO 15185958 <GO>}
 So as you know, we start from a low penetration of Asset Management products on total
 customer assets compared to other players. So in this environment, we are not seeing
 Page 17 of 19
@@ -1039,10 +944,7 @@ We will now take our ﬁnal question from Federico Braga of UBS.
 
 Bloomberg Transcript
 
-Q - Federico Braga
-
-{BIO 19916816 <GO>}
-
+Q - Federico Braga {BIO 19916816 <GO>}
 Actually just 2 follow-ups as all my questions have already been asked. The ﬁrst one is on
 the insurance, the gross written premiums. So year-to-date, the gross written premiums
 are down 22% compared to your initial guidance of 15%. So just was wondering what is
@@ -1056,10 +958,7 @@ minimum guarantee revenues of EUR 262 million would imply a sharp drop of revenu
 the last quarter of the year. So just was wondering, if you can give us a little bit more color
 on what to expect on this line?
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Thank you, Federico. I will start with the second question. We are assuming in our plan a
 stable universal service contribution for 2018. On the ﬁrst question, you're probably right
 in terms of slightly lower net gross premiums. But we are talking a few hundreds. And as

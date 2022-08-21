@@ -29,10 +29,7 @@ recorded today, Monday, the 10 of November, 2014.
 I would now like to hand the conference over to your speaker today, Mr. Simon Thomas,
 Finance Director of Just Retirement. Please go ahead, sir.
 
-Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+Simon George Thomas {BIO 15219564 <GO>}
 Thank you, operator. Thank you, operator. I'm Simon Thomas, CFO of Just Retirement,
 and I'd like to welcome you all to this conference call to discuss our IMS for the three
 months ended 30 of September, 2014. We really do appreciate your interest. And I'm
@@ -134,10 +131,7 @@ Operator
 Thank you. The first question comes from the line of Andrew Sinclair from Merrill Lynch.
 Please ask your question.
 
-Q - Andrew J. Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew J. Sinclair {BIO 17749036 <GO>}
 Morning, everyone. Just two questions if that's okay. Firstly, I just wonder if you could tell
 us a bit about the competitive environment at the moment for individual annuities and for
 bulks; and secondly, who you're coming up against in the bulk annuity market. And thirdly,
@@ -145,18 +139,12 @@ again on bulks, just could you tell us anything about the margins in the bulk de
 been done over the last few months, and if they're just similar to what we've seen
 elsewhere on your book previously? Thanks.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 Okay, Andrew. Perhaps if I could pick up the – I'll ask David, actually, sorry, to talk about the
 competitive environment and who we're coming up against, and I'll cover the margin
 point, if that's okay. David?
 
-A - David Paul Cooper
-
-{BIO 15900182 <GO>}
-
+A - David Paul Cooper {BIO 15900182 <GO>}
 Hi, Andrew. Well, in two parts, in the individual underwritten annuity market, the
 competition is broadly the same as it has always been, even pre-budget. So we're coming
 
@@ -178,37 +166,22 @@ On DB, we are seeing most of the DB writers in the markets – in the segments o
 market that we're operating in. So we've come up against the likes of PIC, the likes of
 Aviva, L&G and Partnership.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 Okay. And on...
 
-Q - Andrew J. Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew J. Sinclair {BIO 17749036 <GO>}
 Sorry. Just to follow up on that. So, in there, any change on the price competitiveness in
 that market and individuals and on DB?
 
-A - David Paul Cooper
-
-{BIO 15900182 <GO>}
-
+A - David Paul Cooper {BIO 15900182 <GO>}
 Well, can Simon pick that up as part of the margin?
 
-Q - Andrew J. Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew J. Sinclair {BIO 17749036 <GO>}
 Yeah. Sure. Sure.
 
 Bloomberg Transcript
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 I was going to say on the margin side, I mean, clearly, to dwell on volumes rather than
 margins. But what I can say is that when we were talking back in September on the
 prelims, I indicated that the IUA margins were lower due to the competition in the
@@ -219,16 +192,10 @@ of margin that we've seen.
 One thing I would flag is that in terms of our IUA market share, it's actually fallen, we think,
 in the quarter to June. So, that's relevant as well.
 
-Q - Andrew J. Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew J. Sinclair {BIO 17749036 <GO>}
 That's good. Thank you very much.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 Thank you.
 
 Operator
@@ -257,10 +224,7 @@ surprise me, but then your comment that economic capital remains unchanged, I th
 if you're writing at that rate it puts some pressure on economic capital. I just want to chat
 about that.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 Okay, Greig. Well, perhaps I'll ask David to talk about sort of the fourth quarter's
 progression and I'll come back and talk about the lifetime mortgages and the volume, and
 then perhaps we'll get Shayne to talk about the economic capital side. Get in all three,
@@ -268,10 +232,7 @@ why not? So, David?
 
 Bloomberg Transcript
 
-A - David Paul Cooper
-
-{BIO 15900182 <GO>}
-
+A - David Paul Cooper {BIO 15900182 <GO>}
 Hi, Greig. Remember, our quarter to the quarter four that you're referring to doesn't tend
 to be depressed because of seasonality. We turn the business around sufficiently fast that
 our previous quarter fours have been broadly in line with quarter three. It's quarter one, in
@@ -281,19 +242,13 @@ from financial intermediaries over the Christmas period.
 Q - Greig Paterson
 All right, cool. So you're basically just saying that it's flat in nominal terms, quarter-onquarter?
 
-A - David Paul Cooper
-
-{BIO 15900182 <GO>}
-
+A - David Paul Cooper {BIO 15900182 <GO>}
 Yes.
 
 Q - Greig Paterson
 All right, cool.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 Okay. Greig, and on the lifetime mortgages, I think, again, we talked about this a few
 weeks ago, but clearly we have three levers to try and slow down and change the mix of
 the lifetime mortgages. The first is to write more annuities, which is clearly the favored
@@ -319,10 +274,7 @@ off the balance sheet. But I'd describe that really as a bit of a slow burner an
 certainly my least preferred option.
 Shayne, the economic capital?
 
-A - Shayne Paul Deighton
-
-{BIO 17759794 <GO>}
-
+A - Shayne Paul Deighton {BIO 17759794 <GO>}
 Yeah. Good morning, Greg. You're absolutely right. Writing at more than the 25% we
 normally do has some impacts on economic capital. But I would say that the amount that
 we write in any one quarter, when you only consider the excess over 25%, isn't really
@@ -340,10 +292,7 @@ Right. Just one point, you said market share, was that in calendar quarter two, 
 you said till June? Or what was your market share change in the third quarter, if you'd
 update us. And I know there's industry stats?
 
-A - David Paul Cooper
-
-{BIO 15900182 <GO>}
-
+A - David Paul Cooper {BIO 15900182 <GO>}
 Yeah. We haven't got industry stats for the quarter we're reporting on now. So, no, the
 comment was in relation to quarter two.
 
@@ -351,19 +300,13 @@ Q - Greig Paterson
 Okay. Do you have any view on whether you're gaining shares or not, relative to your
 pricing, conversion rate, stuff like that?
 
-A - David Paul Cooper
-
-{BIO 15900182 <GO>}
-
+A - David Paul Cooper {BIO 15900182 <GO>}
 Probably no change to perhaps a little down, but that's a guess.
 
 Q - Greig Paterson
 All right. No problem. Thank you.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 Thanks, Greig.
 
 Operator
@@ -380,10 +323,7 @@ Please ask your question.
 
 FINAL
 
-Q - Barrie J. Cornes
-
-{BIO 2389115 <GO>}
-
+Q - Barrie J. Cornes {BIO 2389115 <GO>}
 Morning, everybody. It's Panmure Gordon. Just three questions if I may. First of all, I
 obviously appreciate you're managing down lifetime mortgage volumes, but do you see
 any increase in level of demand overall for LTMs as a result of the change in death taxes,
@@ -393,30 +333,19 @@ mentioned, Simon, is going to come on stream? Is that going to be in April next 
 the last question I had was I just wondered if you had some color on the process for
 customers getting advice post April 2015 on their pots.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
-
+A - Simon George Thomas {BIO 15219564 <GO>}
 Okay, Barrie. Well, I'm going to hand over to David, I think, on those.
 
-A - David Paul Cooper
-
-{BIO 15900182 <GO>}
-
+A - David Paul Cooper {BIO 15900182 <GO>}
 I think, for those. Sorry. Yeah. Hi, Barrie.
 
-Q - Barrie J. Cornes
-
-{BIO 2389115 <GO>}
+Q - Barrie J. Cornes {BIO 2389115 <GO>}
 
 Bloomberg Transcript
 
 All right.
 
-A - David Paul Cooper
-
-{BIO 15900182 <GO>}
-
+A - David Paul Cooper {BIO 15900182 <GO>}
 The lifetime mortgage markets, each has been growing (15:16) has been growing in
 successive quarters, I think, for the last seven quarters or eight quarters. So the demand is
 up regardless of what's actually happened in the budget, I mean, for all the wellrehearsed reasons about the income poor, asset rich.
@@ -424,24 +353,15 @@ I think you're correct that that could be another consequence of the budget chan
 we'll see greater demand for lifetime mortgages, but that's probably in the medium term.
 That won't be a rapid change after April.
 
-Q - Barrie J. Cornes
-
-{BIO 2389115 <GO>}
-
+Q - Barrie J. Cornes {BIO 2389115 <GO>}
 Okay.
 
-A - David Paul Cooper
-
-{BIO 15900182 <GO>}
-
+A - David Paul Cooper {BIO 15900182 <GO>}
 In terms of the products, yes, we are still targeting April. And as Simon said, we hope to
 be able to share in more detail with you what we're doing in the New Year. And on the
 process, could you just ask that question again, the last piece?
 
-Q - Barrie J. Cornes
-
-{BIO 2389115 <GO>}
-
+Q - Barrie J. Cornes {BIO 2389115 <GO>}
 Page 7 of 8
 
 
@@ -456,10 +376,7 @@ port of call, then onto an IFA, or straight to an IFA? How's it going to be done
 
 FINAL
 
-A - David Paul Cooper
-
-{BIO 15900182 <GO>}
-
+A - David Paul Cooper {BIO 15900182 <GO>}
 No. I think there'll be two routes, effectively. There will be people that seek out the
 guidance, which we've yet to see in its full glory, but those people will go through a
 guidance process, and probably then onto some form of advice. And then there will be a
@@ -467,18 +384,13 @@ significant number of people that go straight to an advice business. I think wha
 see is a broader offering of advice, which may well include simplified advice operating
 alongside or instead of full advice and possibly replacing non-advice, if that makes sense.
 
-Q - Barrie J. Cornes
-
-{BIO 2389115 <GO>}
-
+Q - Barrie J. Cornes {BIO 2389115 <GO>}
 Yeah. Okay. Thank you.
 
 Operator
 Thank you. There are no further questions at this time. Please continue.
 
-A - Simon George Thomas
-
-{BIO 15219564 <GO>}
+A - Simon George Thomas {BIO 15219564 <GO>}
 
 Bloomberg Transcript
 

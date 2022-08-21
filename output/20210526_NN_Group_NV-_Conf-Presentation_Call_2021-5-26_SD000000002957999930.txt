@@ -24,10 +24,7 @@ Unidentiﬁed Participant, Analyst
 Bloomberg Transcript
 
 Presentation
-Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+Jelmer Lantinga {BIO 20384884 <GO>}
 Good afternoon. Welcome to NN Group's DeepDive Webinar. I'm Jelmer Lantinga, the
 Head of Investor Relations. About a year ago, we presented our targets and strategy at
 our Capital Markets Day. Since then, we were able to talk to many of you. Today we have
@@ -42,9 +39,7 @@ He will present on interest rate risk management. Finally, we have a Q&A session
 allows you to ask all your questions that you have from Tjeerd, Maurice and Bernhard.
 Now let's get started, and let me hand over to Tjeerd to start his presentation on Non-life.
 
-Tjeerd Bosklopper
-
-{BIO 20235210 <GO>}
+Tjeerd Bosklopper {BIO 20235210 <GO>}
 
 Page 1 of 27
 
@@ -338,10 +333,7 @@ overcoming sleeping problems. Our experience shows that professionals taking out
 prevention services have a much smaller chance of suﬀering from example, burnout. With
 that, let me now pass you back to Tjeerd for the wrap-up.
 
-Tjeerd Bosklopper
-
-{BIO 20235210 <GO>}
-
+Tjeerd Bosklopper {BIO 20235210 <GO>}
 Well thank you, Maurice. Let me now quickly wrap up for the key takeaways. So the Dutch
 market is sizable growing moderately and has healthy combined ratios. In this market, we
 have a unique and leading position in Non-life in the Netherlands in both size and
@@ -356,10 +348,7 @@ our strategy and targets. Thank you.
 
 Bloomberg Transcript
 
-Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
-
+Bernhard Kaufmann {BIO 18347993 <GO>}
 Hello, everyone. One year ago, soon after I joined NN Group, we presented our new
 strategy at the Capital Markets Day and I gave you an overview of our risk and solvency
 position and how we optimize risk and return proﬁle. Today I want to come back to one of
@@ -562,18 +551,12 @@ pension book in the Netherlands, support OCG growth, especially in an environmen
 rising interest rates. I hope I have convinced you that interest rates are really no problem
 for us. With this, I hand it back to Jelmer.
 
-Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+Jelmer Lantinga {BIO 20384884 <GO>}
 So thank you, Bernhard, and thank you, Tjeerd and Maurice, for your presentations on
 Non-life and interest rate risk. We will now start with the Q&A session.
 
 Questions And Answers
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Can I kindly ask you to focus your questions on the topics of the presentations and to limit
 yourself to two questions so that everybody gets a chance to participate? And if you wish
 to ask a question, you can now virtually raise your hand. So the ﬁrst question is already
@@ -581,10 +564,7 @@ there. It's from Cor Kluis from ABN AMRO. Cor, please go ahead. Great to see you
 
 Bloomberg Transcript
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Just a few questions. First of all, on the VIVAT acquisition, the VIVAT Non-life acquisition. I
 think based on the local reporting, VIVAT Non-life in 2019 at a gross written premium of
 around EUR 800 million, that's 790 or something. I think there are some cleaning in the
@@ -605,10 +585,7 @@ also have this split out for the OCG part? Because the OCG part was plus 245. Wh
 only the stock and ﬂow element if you would isolate that? Probably larger, but could you
 help us with that ﬁgure as well? That's it from my side.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Thank you, Cor. So let us start with the question on VIVAT. I think Maurice, you are
 probably best placed to answer that question. You were the former lead of that
 Page 11 of 27
@@ -634,18 +611,12 @@ balance, broadly, it's neutral. We are pleased with the progress, especially bec
 have a lot of experience with the delta migration, and we're now following with the VIVAT
 migration, we are very pleased with the retention so far.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Thank you. Tjeerd, on PIM?
 
 Bloomberg Transcript
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Yes. So thanks, Cory. So on the PIM, partial internal model. So you're indeed correct that
 VIVAT was on standard formula and still is, and we're in the process of bringing VIVAT to
 our partial internal model. This is a process with the regulator where you go through
@@ -656,10 +627,7 @@ model change, bringing VIVAT to the partial internal model. The magnitude of tha
 is too early to disclose as it is obviously dependent on the ﬁnal conclusion that we reach
 in this process with the regulator and the other stakeholders.
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 Yes. Cor. On your last question on OCG, stock and ﬂow related to a 50 basis point
 upward shift. In 2021, if interest rates stay as they are, so really this 50 basis points upward
 shift, the expectation is that we see in the OCG of 2021, a positive contribution of EUR 245
@@ -668,19 +636,14 @@ beneﬁt is reduced, we will also then see a 20 million on average, positive imp
 2025. So that is the, let's say sensitivity always compared to end of 2020, if interest rates
 go up 50 basis points.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 The question was more focused on this stock and ﬂow part because I think on Slide nine
 of C9 you show the stock and ﬂow parts separately. Because the total on the own
 reference is minus 0.9, the stock and ﬂow part is minus 1.5. So that's good. We never see
 the ﬁgures. But also, do you have that for the 2 45 if you would only take the stock and
 ﬂow part without the other elements?
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 
 Page 12 of 27
 
@@ -699,10 +662,7 @@ equivalent to the minus 0.9 billion million own funds movement. Then the ﬂow p
 really about this EUR 20 million annual on average until 2025, I was referring to that
 would come then in the later years.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 The next question is from Robin van den Broek from Mediobanca. Robin, good to see
 you. Please go ahead. Let us then maybe try again in a minute with Robin and move
 forward to the next question from Michael (inaudible). Michael, good to see you and
@@ -725,18 +685,12 @@ therefore, looking to grow the car ﬂeet portfolio? Because if I remember corre
 was a problem book maybe seven, eight years ago, where you aggressively pulled away.
 So maybe you can give some color around that.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Yes. Good questions, Michael. Maybe Tjeerd, you can maybe start on both. First, maybe
 on the PIM and then on the motor segment. Then probably Maurice can add some color
 from your view on motor --
 
-A - Tjeerd Bosklopper
-
-{BIO 20235210 <GO>}
-
+A - Tjeerd Bosklopper {BIO 20235210 <GO>}
 Motor and car ﬂeet model, yes. Yes. So let me start with the ﬁrst question on the partial
 internal model. So indeed, we expect a positive beneﬁt coming from the PIM, but
 obviously too early to indicate the magnitude. Typically, we have the Non-life company
@@ -789,10 +743,7 @@ you combine it, you see that with the SME portfolio with prevention, and of cour
 servicing, that helps a lot in improving our motor business. So that's why we believe in the
 proﬁtable portfolio.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Thank you, Michael. Then next question by e-mail from Michael Huttner from Berenberg. I
 think three questions. (Operator Instructions) First question from Michael is on the DNA
 business. How quickly we would expect it to return to proﬁt, pricing or portfolio problem?
@@ -819,10 +770,7 @@ trends. Tjeerd, do you want to start on individual disability?
 
 FINAL
 
-A - Tjeerd Bosklopper
-
-{BIO 20235210 <GO>}
-
+A - Tjeerd Bosklopper {BIO 20235210 <GO>}
 Yes. So ﬁrst question, disability and accident, how quickly will it turn to proﬁt? So we
 always separate the disability and accident business in group and in individual. So with
 regards to group, which is about 2/3 of our portfolio, the main impact that we've seen
@@ -876,19 +824,14 @@ Date: 2021-05-26
 motor business. Obviously the continued eﬀects on the improvements, actions that we've
 taken on. So that gives you a bit of color on how we see this year developing.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 
 FINAL
 
 Thank you, Tjeerd. Maybe Bernhard, could you share your views on the inﬂation risk from
 a group perspective?
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 Yes. Two or three remarks from a group perspective.
 
 Bloomberg Transcript
@@ -909,16 +852,10 @@ time. So that would be then the economic outlook that may be than on the negativ
 But in general, again higher inﬂation -- or higher interest rate environment is a positive for
 us.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Thank you, Bernhard. Okay. Then the next question from Benoit Petrarque from Kepler.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Now, basically, two questions on my side. The ﬁrst one was on the comments you made
 around data analytics in Non-life. I mean this is a tool used to improve the underwriting. I
 was trying to understand how much potential do you see in terms of potential impact on
@@ -939,9 +876,7 @@ Company Name: NN Group NV
 Company Ticker: NN NA Equity
 Date: 2021-05-26
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 
 Bloomberg Transcript
 
@@ -952,10 +887,7 @@ Maybe, Maurice, you can add your color on speciﬁc experience you might have fr
 OHRA and then Bernhard, would you like to take the question on rerisking? Tjeerd, would
 you like to start?
 
-A - Tjeerd Bosklopper
-
-{BIO 20235210 <GO>}
-
+A - Tjeerd Bosklopper {BIO 20235210 <GO>}
 Yes. So thanks very much, Benoit, for your question. So as you can imagine, we were an
 end, we acquired Delta Lloyd with a Non-life business. We acquired Feedlot with a Nonlife business within an end. We already had a direct label with bancassurance labels. So
 we, in our strategy, identiﬁed a real potential to pull all the data from all the diﬀerent
@@ -986,16 +918,10 @@ opportunities in diﬀerent kind of segments. And as for us, as a Non-life organ
 crucial, we have a lot of experience, but the developments go so fast that there are a lot
 of opportunities in this area.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Thank you, both, very clear. Bernhard, on the rerisking.
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 Yes. On your rerisking question, Benoit. First, well, rerisking as part of our strategy to
 achieve the EUR 1.5 billion target in 2023. We are well on track, like I pointed out. And
 from the EUR 200 million that we targeted, we have achieved already EUR 170 million that
@@ -1024,19 +950,13 @@ spreads went down, now client rates start to move. Typically, there's a timing e
 between interest rates moving and clients rate moving. So we expect that the spreads will
 also catch up and that we will also get back to better spread levels also in the next time.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Yes. Thank you. Very clear. Then the next question, I think is coming from Ashik Musaddi
 from JPMorgan.
 
 Bloomberg Transcript
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 I have like a couple of questions. You can help me. First of all, I want to understand that
 OCG interest rate sensitivity point again. So what I want to understand is EUR 1.5 billion is
 your guidance. Then interest rates this year have moved, let's say by 45 basis points, let's
@@ -1058,9 +978,7 @@ tighter, but that should also beneﬁt the solvency ratio as well. So can you gi
 clarity on what has happened to mortgage spreads so that we can understand what has
 happened to Solvency II ratio as well this year because of spreads.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Page 18 of 27
 
 
@@ -1074,10 +992,7 @@ also easy. It's to you how you want to take it in each order.
 
 FINAL
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 Thank you, Ashik, for the questions. I'll start with longevity. Because longevity risk is still
 one -- not one, it's our peak risk in insurance and business -- the business risk, so in our
 risk proﬁle. From a strategic point of view, it makes sense to reduce this peak exposure
@@ -1129,10 +1044,7 @@ Date: 2021-05-26
 
 FINAL
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Yes. Maybe Ashik, we are also able to catch up after this call to walk through all the details
 in more detail through all the numbers. Okay. Then we go to the next question, which is a
 question by e-mail from Robin van den Broek. Apologies, Robin, that apparently the
@@ -1142,10 +1054,7 @@ back of higher rates? That is very much in line with what we just discussed with
 Then secondly, what is the impact of tighter mortgage spreads on OCG? I think again two
 questions for you, Bernhard. I think we kind of touched upon?
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 Yes. I think I can be quick, but I think very much to the point that the remittance capacity
 now I tried to show that this is not really impacted by interest rate changes, interest rates
 going down. That's mainly because of these moving bits and pieces between stock and
@@ -1165,19 +1074,13 @@ million impact on OCG. So around this order of magnitude, I would assume is the 
 just from tightening. If you compare this to the EUR 245 million of interest rates, then you
 get to a good estimate of the total market impact that we saw until year-to-date.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 We have a short follow-up question from Robin, which is with higher Solvency II ratio than
 peers and interest rates going up. When does this become more fungible? Well I think at
 our Capital Markets Day we talked about the priority of having a strong and resilient
 balance sheet. But maybe, Bernhard, if you can add some color?
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 Yes. I think you summarized it already very well, because the again the environment that
 we are in and also the sensitivities that we see this environment makes us comfortable
 with our current position. If we are entering another economic environment and there
@@ -1185,9 +1088,7 @@ may be changes, and this would be something to reconsider, but I would also see 
 next time that we have no additional aspects that we will take into account coming from
 just this kind of interest rate movements.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 
 Page 20 of 27
 
@@ -1202,10 +1103,7 @@ Autonomous.
 
 FINAL
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Just two quick questions from me. Just starting on the Non-life side. So to Maurice, I think
 with regards to this kind of disability legacy portfolio, I just wondered if you could give us
 some color around the scope of that size of it, and also maybe perhaps how the duration
@@ -1214,16 +1112,11 @@ interest rate side. You mentioned a kind of move from swaps into long bonds duri
 quarter. I just wondered if that had any impact at all in term modeling of solvency or
 capital generation until I presume not.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Okay. Maybe on the D&A, Tjeerd, would you like to start with some views on portfolio of
 individual disability.
 
-A - Tjeerd Bosklopper
-
-{BIO 20235210 <GO>}
+A - Tjeerd Bosklopper {BIO 20235210 <GO>}
 
 Bloomberg Transcript
 
@@ -1241,29 +1134,18 @@ tail, especially for smaller book of business. And especially, if there would be
 a more problematic part probably other runoﬀ can take longer in such a situation. But
 normally, it would be in that range.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 And the total size of the portfolio is around EUR 300 million to EUR 400 million, I think?
 
-A - Tjeerd Bosklopper
-
-{BIO 20235210 <GO>}
-
+A - Tjeerd Bosklopper {BIO 20235210 <GO>}
 Yes. The total individual disability is around EUR 300 million, and the Movir book is about
 half of that. And Movir is the book where medical professionals are represented.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Okay. And maybe for you, Bernhard, the question on the actions that you took on the
 interest rates risk?
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 Page 21 of 27
 
 
@@ -1281,18 +1163,12 @@ consumption goes up. So that means solvency capital requirements are impacted, b
 also in a not really material way but in a way that you see it but not really changing our
 position.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Just adding all those elements together, so higher interest rates, narrower spreads and
 obviously that kind of shift into longer bonds. I mean that at EUR 1.5 billion target in 2023?
 Is it easier or more diﬃcult? I get the sense, it's kind of a much, much.
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 I think especially from the impacts we discussed around market credit investments and
 interest rates, there we are really well progressing. I think that is right that you got this
 notion, but there are some parts in the strategy where we are working on, where we have
@@ -1302,18 +1178,13 @@ interest rates. Also, this is an impact that comes through every year, contribut
 year. So it's -- well, 2021 will be, especially compared to the base 2020, really a good step
 forward. But then still, of course there's a lot of homework to do.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 
 Bloomberg Transcript
 
 Then the next question is also by video from Steven Haywood from HSBC.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Two questions. One on Non-life and one on solvency. You mentioned right at the
 beginning that it's a hardening market, I think and I would like to know more speciﬁcally
 what level of price increases are you putting through in the major ﬁre and motor lines,
@@ -1323,22 +1194,14 @@ Then on the solvency, I'd like to know what Bernhard's view is on the risk margi
 you'd like to see this change in the future, whether you -- whether the IOP can potentially
 look at adjusting it somehow, what would you like them to do to the risk margin?
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 That is potentially a nice conversation that you could have, Bernhard with Steven, on the
 risk market, try to keep it short.
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 Yes. Yes. Yes.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Page 22 of 27
 
 
@@ -1352,10 +1215,7 @@ you like to start Bernhard?
 
 FINAL
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 Yes. Very much. Steven, that really goes to the heart of the discussion around the Solvency
 II 2020 review and what is now under review. Because there the risk margin is now also on
 the table and up for discussion, there are some suggestions that would lower the risk
@@ -1365,18 +1225,12 @@ of capital. If it's solvency capital requirement or if it's an additional reserv
 it's very high now and to recalibrate this and to come to a regime where this is more in
 line with really what is risk adequate, now I could not welcome it more.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Okay. Then Tjeerd, would you like to say something about the hardening market?
 
 Bloomberg Transcript
 
-A - Tjeerd Bosklopper
-
-{BIO 20235210 <GO>}
-
+A - Tjeerd Bosklopper {BIO 20235210 <GO>}
 Yes. So thank you for your question, Steven. So indeed, the market has been hard over
 the past two years. We were very pleased with that because having to complete major
 migrations from Delta Lloyd and VIVAT in a harder market is, of course easier than if there
@@ -1400,10 +1254,7 @@ disciplined in pricing. Yes. I think on a longer outlook, Non-life is typically 
 that is hard to predict, and nobody has a glass ball for, but that will be sort of my
 guidance for you.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Page 23 of 27
 
 
@@ -1426,9 +1277,7 @@ remittance capacity. If that remittance capacity is not aﬀected by interest ra
 what about the link between OCG and free cash ﬂow, which we also talked about at the
 CMD. Bernhard, would you be able to talk about them?
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 
 Bloomberg Transcript
 
@@ -1451,10 +1300,7 @@ interest rate level for the time to come and then also the time lag until this r
 showing up into free cash ﬂow on holding level that we can then use for potential
 remittances.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Yes. Okay. That's makes total sense. Let's then move to a follow-up question from Robin
 van den Broek by e-mail. Impact of higher rates on excess return of real estate and
 equities. Will the full absolute yield make its way into OCG? Indeed, use assumptions for
@@ -1462,10 +1308,7 @@ both as categories? Then the second question is, what is the saturation point of
 mortgages in your asset mix? Does potentially low LTV on your current book help? I think
 relating to higher house prices. Are you able to talk about --
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 Yes. Yes. Yes. Robin, so to the ﬁrst question, the -- for real estate and equities, we have risk
 premium assumptions that we get are long-term looking back over some years. Those we
 
@@ -1493,10 +1336,7 @@ loan-to-value goes down. That is, let's say implicit eﬀect that via this route
 up into our allocation. And for the next years, we see also additional possibility to grow in
 this asset class.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Yes. Okay. Thank you, Bernhard. Then the next question is from Andrew Baker, also by email. The ﬁrst question on Non-life. Are you still open in the M&A Non-life sector? Or does
 your high market share prevent this? Then a second question on the current spread levels,
 can you give a sense of the diﬀerence in return on SCR for corporate bonds, mortgages
@@ -1505,10 +1345,7 @@ Tjeerd, would you like to start on M&A in Non-life, yes?
 
 Bloomberg Transcript
 
-A - Tjeerd Bosklopper
-
-{BIO 20235210 <GO>}
-
+A - Tjeerd Bosklopper {BIO 20235210 <GO>}
 Yes. So we are very pleased with the two acquisitions we've done in Non-life. So Delta
 Lloyd and VIVAT very substantial acquisitions in the Non-life part that we're currently
 integrating. So Delta Lloyd, of course already being completed, and VIVAT, we're making
@@ -1521,10 +1358,7 @@ very happy with the position we're in. We're happy with the acquisitions and our
 yes, is to obtain the value from those two acquisitions. So yes, an opportunity comes by,
 we will look at it, but we're very pleased with the position we have.
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 Okay. Yes, Andrew. On your question, the diﬀerence in risk return view on the asset
 classes. Clearly, Dutch mortgages stand out because of the low-risk proﬁle and for very
 good reasons, with the whole institutional framework that we have in the Netherlands, but
@@ -1552,17 +1386,11 @@ our perspective. But this is where we are more selective, and therefore, also, i
 time to build up exposure, and there we are taking now the, let's say smaller steps in
 being a little bit more selective building up the portfolio.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Okay. Very clear. Then the last question of the session today is from Benoit Petrarque,
 which is hopefully a video question.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Yes. Just coming back on the Solvency II ratio, you just mentioned that it was kind of
 stable to 10. I looked at it end of April, maybe something happened in May but at the
 impression that the mortgage spreads tightening was very positive at about 8percentage
@@ -1572,18 +1400,13 @@ that it's actually ﬂat given the mortgage spread is a big positive on the stoc
 anything special on the government bonds, spread in the month of May? Or trying to
 understand why it's actually ﬂat since the beginning of the year in Solvency II?
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 
 Bloomberg Transcript
 
 Yes. Thank you, Ben. Thanks, Bernhard. Final question for you.
 
-A - Bernhard Kaufmann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kaufmann {BIO 18347993 <GO>}
 Yes. We -- you're right, the negative impact I was referring to was the OCG. So -- and if we
 now switch to Solvency II, the tightening is positive. Also equity developments, they also
 contributed positively, but there were other market developments on government bonds.
@@ -1595,10 +1418,7 @@ Then on the positive side, in addition, business development until now, also pos
 contributed to the ratio. So these are the main contributors to the kind of ﬂattish
 development.
 
-A - Jelmer Lantinga
-
-{BIO 20384884 <GO>}
-
+A - Jelmer Lantinga {BIO 20384884 <GO>}
 Thank you, Benoit. Thank you, Bernhard. Okay. So I think we are now about to close this
 session. We have come to an end of the webinar. Thank you, Tjeerd. Thank you, Maurice.
 Thank you, Bernhard. Of course all of you for attending this webinar. Stay safe and

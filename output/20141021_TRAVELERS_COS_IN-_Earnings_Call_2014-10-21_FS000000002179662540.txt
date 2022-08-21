@@ -37,10 +37,7 @@ session. As a reminder this conference is being recorded on October the 21, 2014
 At this time, I would like to turn the conference over to Ms. Gabriella Nawi, Senior Vice
 President of Investor Relations. Ms. Nawi, you may begin.
 
-Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+Gabriella Nawi {BIO 2211991 <GO>}
 Thank you, Julian. Good morning and welcome to Travelers discussion of our third quarter
 2014 results. Hopefully, all of you have seen our press release, financial supplement and
 our webcast presentation released earlier this morning. All of these materials can be
@@ -78,10 +75,7 @@ Bloomberg Transcript
 
 And now Jay Fishman.
 
-Jay S. Fishman
-
-{BIO 14011069 <GO>}
-
+Jay S. Fishman {BIO 14011069 <GO>}
 Thank you, Gabby. Good morning, everyone and thank you for joining us today. As I'm
 sure you've read, the results this quarter were just terrific, as demonstrated by our
 operating return on equity of 15.2%. In addition to posting very strong financial results, the
@@ -135,10 +129,7 @@ In addition to hearing from Jay and Brian this morning, Alan and Doreen will pro
 commentary on the performance of their business segments.
 And with that, let me turn it over to Jay.
 
-Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+Jay S. Benet {BIO 2456473 <GO>}
 Thank, Jay. We were very pleased with our results this quarter, with operating income per
 diluted share of $2.61, and an operating ROE of 15.2%, driven by very strong underwriting
 and investment results. Underwriting results benefited from a slightly lower level of
@@ -225,10 +216,7 @@ Finally, net unrealized investment gains were approximately $2.9 billion at end 
 quarter as compared to $2 billion at the beginning of the year.
 With that, let me turn things over to Brian.
 
-Brian W. MacLean
-
-{BIO 4679150 <GO>}
-
+Brian W. MacLean {BIO 4679150 <GO>}
 Thank, Jay. Before Alan and Doreen go over the segment results, I'd like to give some
 perspective on how we view the overall market.
 
@@ -275,10 +263,7 @@ FINAL
 
 And with that, I'll turn it over to Alan.
 
-Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you, Brian, and good morning. In Business and International Insurance, third quarter
 operating income was $552 million. The underlying combined ratio, which excludes the
 impact of tax and prior-year reserve development, was 94.9% for the quarter, up 1.7
@@ -344,10 +329,7 @@ To wrap it up, I'm pleased with our strong results for the quarter; and in terms
 execution going forward, we intend to pursue more of the same.
 And with that, let me turn it over to Doreen.
 
-Doreen Spadorcia
-
-{BIO 4883600 <GO>}
-
+Doreen Spadorcia {BIO 4883600 <GO>}
 Thank you, Alan. I'd like to begin by saying how excited I am to again work with Tom
 Kunkel and his leadership team in managing our market leading Bond & Specialty
 Insurance business. Also, I'm really proud of the progress we've made in Personal
@@ -437,10 +419,7 @@ production metrics and we remain pleased with the results of the Quantum 2.0 rol
 far.
 And with that, I'll turn the call back to Gabby.
 
-Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+Gabriella Nawi {BIO 2211991 <GO>}
 Thank you, Julian; we're now ready for the Q&A portion. I would ask participants to please
 limit yourself to one question and one follow-up. Thank you.
 
@@ -452,31 +431,19 @@ Operator
 Thank you. Our first question comes from the line of Jay Gelb from Barclays. Your line is
 now open. Please proceed with your question.
 
-Q - Jay H. Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay H. Gelb {BIO 21247396 <GO>}
 Thank you. I wanted to touch base on exposure growth in Business Insurance. It appears
 to be accelerating in the middle-market commercial business, and Select is showing more
 stable growth. Can you talk about the differences that are driving that?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yes, the difference in middle-market versus Select?
 
-Q - Jay H. Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay H. Gelb {BIO 21247396 <GO>}
 Yes, in terms the rate of change in exposure growth being stronger in middle-market than
 Select.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. The exposure impact really isn't from sales and payroll. And if you look at the
 starting and ending point, you're probably looking at the webcast. If you look at the
 starting and the ending points, it's actually a pretty straight line from those two end
@@ -494,40 +461,25 @@ we would expect that to develop over time into more of a straight line.
 
 FINAL
 
-A - Brian W. MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian W. MacLean {BIO 4679150 <GO>}
 This is Brian. The other point on Select, a lot of that exposure growth is values on the
 property component of CMP.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 And that's been an affirmative effort on our part to try to improve the values.
 
-Q - Jay H. Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay H. Gelb {BIO 21247396 <GO>}
 Okay. So any other underlying difference in terms of exposure growth on the small
 business versus middle-market?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 No, there isn't really. Other than on the small side, we've really been working on the
 insurance to values; and in middle-market, it really is a function of how we account for the
 audit premium in the exposures.
 
 Bloomberg Transcript
 
-Q - Jay H. Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay H. Gelb {BIO 21247396 <GO>}
 Okay. Then I had a separate question on capital return. So, year-to-date, if my math is
 right, share buybacks plus dividends are $2.9 billion; operating income $2.6 billion. So,
 clearly capital return running well ahead of operating income, on the order of around
@@ -537,10 +489,7 @@ capital management strategy in terms of – could that gap between capital retur
 operating income continue to grow over time, somewhat similar to what we've seen this
 year?
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 Hi, Jay. This is Jay Benet. Thanks for asking the question. I think, what you're really seeing
 is a timing difference in the generation of the excess capital versus the timeframe in which
 it's repurchased. So, when we look at, particularly year like 2014, one of the things you
@@ -567,32 +516,20 @@ broadly than just a nine month period.
 
 FINAL
 
-Q - Jay H. Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay H. Gelb {BIO 21247396 <GO>}
 Okay. So based on that, we should still generally think about buybacks and dividends
 being roughly equal to annual operating earnings?
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 I'm not saying it's roughly equal. In our 10-Q and 10-K, we talk about having enough capital
 to support the growth in the business; and occasionally, we make pension contributions to
 our qualified pension plans. So, there are other things that will utilize capital in the place.
 But, the creation of capital is from the earnings.
 
-Q - Jay H. Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay H. Gelb {BIO 21247396 <GO>}
 Thank you.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Thank you. Next question, please?
 
 Bloomberg Transcript
@@ -601,36 +538,22 @@ Operator
 Our next question comes from the line of Michael Nannizzi from Goldman Sachs. Your line
 is now open. Please proceed with your question.
 
-Q - Michael S. Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael S. Nannizzi {BIO 15198493 <GO>}
 Great. Thanks. Just a couple of questions. In terms of the Auto business, we're trying to
 figure out, you talked about 6% rate increases, and we're trying to square that with the
 rate declines that you've taken and talked about taking on the Quantum business that
 you've re-priced. Can you help sort of square those two things? Thanks.
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
-
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 Michael, this is Doreen. Are you looking at the webcast with renewal premiums change?
 
-Q - Michael S. Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael S. Nannizzi {BIO 15198493 <GO>}
 Yes.
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
-
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 That would be also our existing book on the renewal book of business.
 
-Q - Michael S. Nannizzi
-
-{BIO 15198493 <GO>}
+Q - Michael S. Nannizzi {BIO 15198493 <GO>}
 
 Page 11 of 26
 
@@ -643,28 +566,20 @@ Date: 2014-10-21
 Okay. So for a business that you're – Quantum is for new business only? Is that – so that's
 your – okay?
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 
 FINAL
 
 Quantum 2 is for new business only.
 
-Q - Michael S. Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael S. Nannizzi {BIO 15198493 <GO>}
 Got it. Okay. That makes sense. And then, one question on Business Insurance, we're kind
 of looking at the margins there and what has happened. How much of an impact on the
 year-over-year comparison is Dominion having, if at all? And how should we think about
 that trend? I know you mentioned some non-cat weather, but just trying to parse out sort
 of rate versus loss trend in underlying margin. Thanks.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Hi, it's Alan Schnitzer. On The Dominion, as we get sort of a year-in, post close, we're
 going to try to resist the temptation to break out the impact of that, in particular.
 
@@ -677,38 +592,24 @@ ratio, a couple of tenths on the expense ratio. But, we'd really like to move aw
 quantifying the impacts of that transaction; it just gets harder and harder to do as we
 integrate.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Sorry. And it's Gabby, just to be clear, that's because it wasn't in the prior quarter. He's not
 setting a level for Dominion.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 That's right.
 
-Q - Michael S. Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael S. Nannizzi {BIO 15198493 <GO>}
 Got it. Okay. Okay. Thank you.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Great. Next question, please?
 
 Operator
 Our next question comes from the line of Kai Pan from Morgan Stanley. Your line is now
 open. Please proceed with your question.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
+Q - Kai Pan {BIO 18669701 <GO>}
 Page 12 of 26
 
 
@@ -725,18 +626,12 @@ terms of how much that to drag on the 50 basis point deterioration year-over-yea
 also is that a pattern, the way I'm seeing in the past few quarters, because I guess your
 peers reported some sort of non-cat large losses in past few quarters as well?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 We've been observing for a couple of years that the weather seems to be getting more
 extreme. And so this is consistent with what we've been seeing over a couple of years. In
 the quarter, weather was worth something like 1.5-points on the delta.
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 This is Jay Benet. I'd add though to that that when you're asking, are there trends
 involved, we are always going to have quarter-over-quarter differences associated with
 things like non-cat weather or large losses, and what we try to do is point that out to give
@@ -748,19 +643,13 @@ favorable side.
 
 Bloomberg Transcript
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Great. My second question is on the reinsurance side. Just given what's happening in the
 marketplace in reinsurance, basically pricing coming down, there's alternative solutions,
 and just wonder what's your overall reinsurance strategy? Are you thinking about setting
 up some alternative structure, including internal or captive reinsurers?
 
-A - Jay S. Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay S. Fishman {BIO 14011069 <GO>}
 Hi, it's Jay Fishman. So, we're certainly looking at everything. There's obviously a lot of
 activity in that space. We're not a big utilizer of reinsurance, broadly speaking. When you
 look at the amount of ceded premium that we put out to the marketplace, it really isn't
@@ -795,61 +684,38 @@ us found ourselves with primary exposure without underlying reinsurance to cover
 there's a lot of moving parts here, and we're sure looking at it pretty hard. But so far, I'd
 say nothing that really excites me at least a great deal.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you so much for the answers.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Michael, let me just clarify, just so we pull these two questions together and don't leave
 any confusion here. So, what we said was, there was about a 2-point increase in the
 combined ratio due to both weather and The Dominion. That was 2-points all in; about 1.5
 point of that is weather and about 0.5 point of it is Dominion.
 
-A - Jay S. Fishman
-
-{BIO 14011069 <GO>}
+A - Jay S. Fishman {BIO 14011069 <GO>}
 
 Bloomberg Transcript
 
 And again, just speak to direction, please.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Increase.
 
-A - Jay S. Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay S. Fishman {BIO 14011069 <GO>}
 An increase of 1.5-point due to weather and an increase of 0.5 point due to Dominion.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 That's right.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Next question, please?
 
 Operator
 Our next question comes from the line of Vinay Misquith from Evercore. Your line is now
 open. Please proceed with your question.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Hi, good morning. The first question is on pricing and loss cost trends. I believe you said
 not to focus too much on pricing being up at about 3.3% and loss cost trend at about 4%.
 Page 14 of 26
@@ -868,10 +734,7 @@ us understand, I mean, peers are looking at loss cost trend in the 2% to 3% rang
 4% number seems a little bit high. Just wondering, if there is some amount of
 conservatism in that?
 
-A - Jay S. Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay S. Fishman {BIO 14011069 <GO>}
 Well, I think perhaps we'll split the question, between myself and Alan. First, the reason
 that we're just cautioning against evaluating 3.3% versus 4% is that that arithmetic is
 pretty easy to do, but doesn't take into account all of the factors that affect the
@@ -900,23 +763,15 @@ So, our caution is simply to let you know that notwithstanding all of our analyt
 insight into the numbers, this is getting pretty precise to make arithmetic calculations
 based on these numbers. We just caution against it.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 On the second question on loss trend, hard for us to comment on anybody else's loss
 trend. But I would suggest you might want to look at mix.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. That's helpful. Just as a follow-up, the Homeowners commission expense ratio was
 low. I was just curious to why that was? Thanks.
 
-A - Jay S. Fishman
-
-{BIO 14011069 <GO>}
+A - Jay S. Fishman {BIO 14011069 <GO>}
 Page 15 of 26
 
 
@@ -927,81 +782,46 @@ Date: 2014-10-21
 
 Can you repeat the question please?
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 
 FINAL
 
 I couldn't hear it. I'm sorry.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Yeah. Sorry. On the Homeowners, I believe the commission expense ratio was lower...
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
-
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 Yeah.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 ...this year versus last year. I was just curious, why?
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
-
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 We did reduce the Homeowners commission rates.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay.
 
 Bloomberg Transcript
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
-
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 Yeah. We implemented those in probably the middle of 2013, maybe a little bit earlier
 than that.
 
-A - Brian W. MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian W. MacLean {BIO 4679150 <GO>}
 And some of the expense initiatives we had...
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
-
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 Well, in the...
 
-A - Brian W. MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian W. MacLean {BIO 4679150 <GO>}
 ...from – relative to Quantum was also impacting Homeowners.
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
-
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 Yes, exactly. So, about 25% of our expense reductions fell to the Homeowners line.
 
-A - Jay S. Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay S. Fishman {BIO 14011069 <GO>}
 But the Homeowners commission expense number fell because of a change in the rate
 that we pay on Homeowners business. We implemented that, again, in the middle of
 2013. That's the driving factor there.
@@ -1013,15 +833,10 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2014-10-21
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. Thank you.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
+A - Gabriella Nawi {BIO 2211991 <GO>}
 
 FINAL
 
@@ -1031,10 +846,7 @@ Operator
 Our next question comes from the line of Jay Cohen from Merrill Lynch. Your line is now
 open. Please proceed with your question.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Yes, a couple of questions. I guess, maybe the first quick one for Doreen. You had
 mentioned, I think it was the specialty and professional liability business that you had
 changed your reinsurance cession there, and that helped earnings. Can you talk a little bit
@@ -1048,10 +860,7 @@ as if this is an annual sizable charge, and you're almost going on a pay-as-you-
 and we should almost expect this kind of charge going forward. I'm wondering if you can
 give more insight into the asbestos?
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
-
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 This is Doreen. I'll talk first about the Bond & Specialty Insurance reinsurance treaty, and
 then I'll turn it over to Jay Benet for asbestos. But, as I think we reported in the past, the
 decision was made to exit from our management liability excess-of-loss reinsurance
@@ -1064,16 +873,10 @@ about 3-points of that underlying improvement. And it's really just looking at w
 premium you wanted to pay for your loss content. So, a great decision was made, and we
 see it in the results.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 That's helpful. Thanks, Doreen.
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 Hi, Jay. It's Jay. As it relates to asbestos, as you know, we follow this very closely every
 quarter and we supplement the quarterly procedures with, what we refer to is the, very
 Page 17 of 26
@@ -1122,16 +925,10 @@ But that's the environment, but I will say that there isn't a fundamental change
 environment, it's not new theories or anything like that, it's more a matter of trying to
 estimate, what's actually out there. I hope that was helpful.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Yeah. That was helpful, Jay. Thank you.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Next question, please?
 
 Operator
@@ -1148,20 +945,14 @@ is now open. Please proceed with your question.
 
 FINAL
 
-Q - Larry Greenberg
-
-{BIO 1712308 <GO>}
-
+Q - Larry Greenberg {BIO 1712308 <GO>}
 Good morning and thanks for taking the question. I respect that you don't want to get into
 too much detail on Dominion; but given the fourth quarter will be the first where we're on
 an apples-to-apples basis, it would be helpful to just know what Dominion is growing at
 organically. And I think when you did the deal, you expected it to be modestly accretive to
 2014. And I'm wondering if that's coming to fruition?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Larry, it's Alan, I'm just trying to process the questions here. On Dominion, I should just
 take a step back and say that we're very pleased with the transaction, the integration is
 going very well, they're very pleased with the local team in Canada and the way the two
@@ -1173,36 +964,24 @@ we were when we signed it.
 
 Bloomberg Transcript
 
-A - Jay S. Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay S. Fishman {BIO 14011069 <GO>}
 And let me just add in, because it's the right time to do it. A not insignificant portion of the
 rationale here was to export and make available in the Canadian marketplace, product
 and expertise that we had here in the U.S. that had not been developed up in Canada.
 That is still very much the plan. So, we are at the early days here, we are very much at the
 early days. I'm sorry, but that was helpful.
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 Larry, in terms of your specific questions, I think, we'd really prefer on a business this size
 probably not to go down to that level of detail, other than to say, it's on track, whenever
 you do a deal this size, there's always some surprises that are a little bit good and a little
 bit bad, but all of those are within the range of expectations and we're very, very pleased
 with the transaction.
 
-Q - Larry Greenberg
-
-{BIO 1712308 <GO>}
-
+Q - Larry Greenberg {BIO 1712308 <GO>}
 Okay. Fair enough.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Okay. Next question, please?
 
 Operator
@@ -1220,19 +999,13 @@ Your line is now open. Please proceed with your question.
 
 FINAL
 
-Q - Albert S. Copersino
-
-{BIO 4366978 <GO>}
-
+Q - Albert S. Copersino {BIO 4366978 <GO>}
 Thanks very much. I was wondering if you all had available or were willing to share for the
 Bond & Specialty segment and for the Personal segment. We have the renewal premium
 change in the slide deck; but I was curious, if you were able to give us the rate changes
 specifically?
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 I'm sure, Brian and I will chat here, but those businesses in particular, it's really quite
 difficult to parse rate change and renewal premium change, because they operate so
 much together.
@@ -1245,39 +1018,24 @@ therefore, really can't be parsed with quite as much precision, okay?
 
 Bloomberg Transcript
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
-
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 This is Doreen. We do look at it, to Jay's point; but we find the combination of them with
 renewal premium change to be the more meaningful way to look at the business. And
 we've never really disclosed that level. So, we can look at it, but we just want to make
 sure...
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 Yes, in most cases in our personal line business the fundamental exposure is not changing
 and it is the total price change that is really reflective. And Doreen, you could talk about
 the Bond.
 
-A - Jay S. Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay S. Fishman {BIO 14011069 <GO>}
 You get deductibles; you can get changes, but we just don't parse at that level.
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 Bond?
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
-
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 On the Bond side, I would say and we've talked a little bit about the – in management
 liability, in particular, on RPC and rate, it's such, again, to Jay's point, a combined concept
 of what the limits are, the attachment point, the term of the policy, so we look at them
@@ -1291,15 +1049,10 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2014-10-21
 
-Q - Albert S. Copersino
-
-{BIO 4366978 <GO>}
-
+Q - Albert S. Copersino {BIO 4366978 <GO>}
 Okay. Well, thank you all. I appreciate it.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
+A - Gabriella Nawi {BIO 2211991 <GO>}
 
 FINAL
 
@@ -1309,16 +1062,11 @@ Operator
 Our next question comes from the line of Meyer Shields of KBW. Your line is now open.
 Please proceed with your question.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Great. Thanks. Good morning. Doreen, has there been any change in the
 competitive environment for personal lines, specifically Auto, over the course of the year?
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 
 Bloomberg Transcript
 
@@ -1329,34 +1077,22 @@ terms of a little bit of people changing commission, a little bit of targeting s
 price reduction. What we haven't seen in that channel is anybody really address broadly
 the cost structure. And so, no, it's not a major change; we just continue to watch it.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. That's good news. Jay, you talked earlier about the other factors that can drive
 margin improvements aside from the gap between rate increases and lost cost trends. I
 was wondering, are those other issues – is that expected trends changing at all?
 
-A - Jay S. Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay S. Fishman {BIO 14011069 <GO>}
 Sorry, I don't, is that expected trend changing at all? Help me, I don't understand quite the
 question.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 No, I'm asking it poorly. Is the impact of other factors besides the rate/loss trend gap and
 its impact on margin expansion, is that translate – given the improvements that you've had
 so far, for example, in the granularity of pricing and so on, should we expect less margin
 expansion from those other factors going forward than we have the last couple of years?
 
-A - Jay S. Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay S. Fishman {BIO 14011069 <GO>}
 I got it. I got it. The answer is, I sure don't think so. The reason for the caution is simply
 because it would be, I think, inappropriate to leap to a conclusion that 4% versus 3.3% will,
 in effect by definition, result in a narrowing margin. It may. I'm not saying it's not. But there
@@ -1382,16 +1118,10 @@ call to absolutely say, it's going to expand or it's going to contract. It is on
 effect, right now, and we don't know how to be any more precise than we're being with
 you. This is as good as we have to offer.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. I understand. Thank you.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Next question, please?
 
 Operator
@@ -1401,19 +1131,13 @@ Bloomberg Transcript
 Our next question comes from the line of Paul Newsome from Sandler O'Neill & Partners.
 Your line is now open. Please proceed with your question.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 Good morning. Thank you and congratulations on the quarter. Just recently, I was doing an
 agent tour, and they were talking about a little bit more aggressiveness in the spread
 between new business and renewal business on the commercial business. I wanted to
 see if you perceived any change there in that either in Travelers or in the marketplace?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Hey, Paul, it's Alan. Let me comment on us; and I'm not sure we're going to comment
 more broadly on the market. But it's always dangerous, I think, to take one conversation
 with an agent and extrapolate from that. I would say from our data, we see that over the
@@ -1421,10 +1145,7 @@ last couple of years, seven quarters or eight quarters, there has been a pretty 
 gap between new and renewal. But if you look back over a longer period of time, I'd say
 that gap is reasonably tight at the moment on a longer-term view.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 And then as a separate question, it's been a long time since we've talked about some of
 the direct channels and other experimentation that you've been working on over several
 years. And I'd like to know, if Quantum 2.0 is where we're at with respect to what we're
@@ -1439,9 +1160,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2014-10-21
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 
 FINAL
 
@@ -1456,16 +1175,10 @@ just direct, but we will continue to look at where we can enhance the property p
 well as looking at how we bring accounts together, and that will be both a benefit for the
 agency channel as well as direct.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 Great. Thanks for the answers.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Great. And this is our last question. Thank you.
 
 Operator
@@ -1475,10 +1188,7 @@ Bloomberg Transcript
 Our last question comes from the line of Josh Stirling from Sanford Bernstein. Your line is
 now open. Please proceed with your question.
 
-Q - Josh C. Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh C. Stirling {BIO 17463087 <GO>}
 Hi, good morning, and thank you. Congratulations on a great quarter and thanks for fitting
 me in. So, Jay, pricing has been slowing. It's come off, what, 3% in the past year; and if you
 sort of simplistically project forward another year, at last year's pace pricing probably
@@ -1490,10 +1200,7 @@ the sort of back and forth around the margin outlook and Alan's comments, I thin
 basically saying that you'll keep pricing more or less in line with inflation over the next year
 or so. Is that right?
 
-A - Jay S. Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay S. Fishman {BIO 14011069 <GO>}
 Well, I can certainly tell you what our strategy is. I have no problem sharing that. And
 obviously, the ability to execute in a business environment: we may succeed; we may not.
 We haven't changed anything about the way we're approaching individual accounts. I
@@ -1576,10 +1283,7 @@ actually better for everybody. You get better analysis, you get better, more tho
 pricing related to risk. So, that's a somewhat fulsome answer, but that's how I feel about
 it.
 
-Q - Josh C. Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh C. Stirling {BIO 17463087 <GO>}
 That's really helpful, Jay. I guess just one other question. Related to the personal lines
 business, you guys have made big inroads with Quantum 2.0, stabilizing your volumes
 there, getting a more competitive product to market. I'm wondering what your plans are
@@ -1590,10 +1294,7 @@ engine? Thank you.
 
 Bloomberg Transcript
 
-A - Jay S. Fishman
-
-{BIO 14011069 <GO>}
-
+A - Jay S. Fishman {BIO 14011069 <GO>}
 I'm going to ask Doreen to answer. But just, because I'm allowed to be so proud of what
 the organization has done. So, as far back as we see the data having, I'll say, integrity, and
 that's at least 10 years and maybe more on a comparable basis, we've had 1 year in our
@@ -1607,10 +1308,7 @@ actually I personally think in the future as the potential shift between Auto an
 Homeowners, I think it could very well do some shifting over the next 10 years. I love
 where we are; but with that, Doreen, you can take the rest.
 
-A - Doreen Spadorcia
-
-{BIO 4883600 <GO>}
-
+A - Doreen Spadorcia {BIO 4883600 <GO>}
 Thank you. And obviously, following on what Jay said, I'll tell you that we spent and it goes
 back to I think one of the earlier questions, just about looking at weather. And you
 probably recall, we looked at pricing, we looked at underwriting, we looked at
@@ -1636,22 +1334,13 @@ according to what our expectations were. But as Jay said, we really were a prope
 underwriter; we like the product; and we're going to look for the opportunities going
 forward.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Great.
 
-Q - Josh C. Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh C. Stirling {BIO 17463087 <GO>}
 Great, Doreen, Jay. Thank you so much.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 This will conclude our call. As always, I am available in Investor Relations for any follow-up
 questions. Thank you for joining and have a great day.
 

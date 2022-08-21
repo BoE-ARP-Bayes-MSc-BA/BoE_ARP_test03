@@ -37,10 +37,7 @@ is being recorded.
 I would now like to turn the conference over to Tom Gayner, Co-Chief Executive Officer.
 Please go ahead, sir.
 
-Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+Thomas S. Gayner {BIO 1896932 <GO>}
 Thank you, Denise. Good morning. My name is Tom Gayner and it is my pleasure to
 welcome you to the Markel first quarter conference call. I'm joined this morning by my
 colleagues Anne Waleski, our CFO; and Richie Whitt, our Co-CEO, and we're all glad that
@@ -85,10 +82,7 @@ presentation changes affect how we run the business. We continue to maintain a s
 focus on building the long term economic value of Markel.
 With that, Anne?
 
-Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+Anne G. Waleski {BIO 16735457 <GO>}
 Thank you, Tom and good morning everyone. 2018 is off to a solid start. As Tom said, our
 Insurance operations produced strong underwriting profits and delivered top line growth
 driven in part by recent acquisitions. Contributions from our Markel Ventures operations
@@ -254,10 +248,7 @@ brokers. Invested assets at the holding company were $2.6 billion at March 31, 2
 $2.7 billion at the end of the year.
 With that, I will turn it over to Richie to talk more about our underwriting results.
 
-Richard R. Whitt, III
-
-{BIO 7084125 <GO>}
-
+Richard R. Whitt, III {BIO 7084125 <GO>}
 Thanks, Anne, and good morning, everyone. Compared to slugging through all the
 accounting changes that Anne had to do, the underwriting results this quarter are pretty
 darn straightforward and very solid. I'm going to focus my comments on our underwriting
@@ -396,9 +387,7 @@ We will continue to push for adequate rates on all of our business and are prepa
 write less if the price is not right.
 Thank you. And at this point, I'd like to turn it over to Tom.
 
-Thomas S. Gayner
-
-{BIO 1896932 <GO>}
+Thomas S. Gayner {BIO 1896932 <GO>}
 
 Bloomberg Transcript
 
@@ -467,35 +456,21 @@ Operator
 Thank you, Mr. Gayner. We will now begin the question-and-answer session. And your first
 question this morning will come from Mark Hughes of SunTrust. Please go ahead.
 
-Q - Mark Douglas Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Douglas Hughes {BIO 1506147 <GO>}
 Thank you. Good morning.
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Good morning.
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 Good morning.
 
-Q - Mark Douglas Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Douglas Hughes {BIO 1506147 <GO>}
 The current accident year, loss pick in the Insurance business looked like it was helped by
 some mix shift in the M&A. Is this a good number? You think we ought to think about for
 subsequent quarters or is this particularly good or perhaps it could be better?
 
-A - Richard R. Whitt, III
-
-{BIO 7084125 <GO>}
+A - Richard R. Whitt, III {BIO 7084125 <GO>}
 Page 9 of 14
 
 
@@ -515,34 +490,23 @@ much within our attritional expectations. So it's going to take a little bit to 
 the current accident year settles out in terms of the mix issues, but I would say it was a
 fairly normal kind of quarter for us.
 
-Q - Mark Douglas Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Douglas Hughes {BIO 1506147 <GO>}
 And then any comment on inflation, either frequency or severity in any of the businesses?
 Interest rates are obviously picking up here. Is that impacting your loss profile at all?
 
-A - Richard R. Whitt, III
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt, III {BIO 7084125 <GO>}
 I think we've said in the past, at least for past few quarters, there appears to be more
 claims cost inflation out there, just like there appears to be a bit more general inflation in
 the economy. The two go together. So yes, I mean clearly we're seeing a little bit of tickup in in the claims trend and that's why we believe it's appropriate to seek rate.
 
-Q - Mark Douglas Hughes
-
-{BIO 1506147 <GO>}
+Q - Mark Douglas Hughes {BIO 1506147 <GO>}
 
 Bloomberg Transcript
 
 Then I think professional liability was a growth area for you. Any comment on any kind of
 loss dynamic or pricing dynamic in that line?
 
-A - Richard R. Whitt, III
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt, III {BIO 7084125 <GO>}
 It's tough. But the place where people are able to get the most price obviously is
 property, U.S. property primarily. I think a lot of people would tell you they've been
 disappointed with the amount of rate increase. I don't know if I'm disappointed. I
@@ -553,19 +517,13 @@ had some. I think it's still early as well and we'll see what kind of results pe
 we move through 2018. I think that could also put more pressure on rates and lead to
 hopefully people pushing for a bit more rate in the casualty and professional lines.
 
-Q - Mark Douglas Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Douglas Hughes {BIO 1506147 <GO>}
 Thank you.
 
 Operator
 The next question will come from Jeff Schmitt of William Blair. Please go ahead.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Hi. Good morning, everyone. Were there any cats in the Insurance segment in the
 quarter?
 
@@ -577,9 +535,7 @@ Company N ame: M arkel Corp
 Company Ticker: M K L US Equity
 Date: 2018-04-25
 
-A - Richard R. Whitt, III
-
-{BIO 7084125 <GO>}
+A - Richard R. Whitt, III {BIO 7084125 <GO>}
 
 FINAL
 
@@ -590,19 +546,13 @@ quarter. We don't need to – we don't call out cat losses if they're kind of of
 nature, so we certainly had losses from the countless winter storms and things of that
 sort. But they fell within what we would consider sort of the attritional bucket.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Okay. And then touching on that underlying loss ratio then, it looks like it was down about
 200 basis points, a lot driven by that shift in business mix. But could you quantify that
 more? I mean is half of that driven by the surety lender businesses or 100% or more than
 100%?
 
-A - Richard R. Whitt, III
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt, III {BIO 7084125 <GO>}
 Boy, I wouldn't have the numbers available for that right now. It's certainly a portion of it.
 Like I said, I think we had a pretty normal first quarter. So, I would say our accident year
 combined on the other lines were sort – we have over 100 lines of business and they're
@@ -611,18 +561,12 @@ think most of that change is going to be mix.
 
 Bloomberg Transcript
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Okay. And then could you speak, I know you can't talk about deals specifically, but could
 you talk about the pipeline maybe? Are you seeing more deals? And did you mention
 valuations, are they going up or?
 
-A - Richard R. Whitt, III
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt, III {BIO 7084125 <GO>}
 Tom I think touched on this from the Markel Ventures side. I think it's the same in no
 matter what, where the property is for sale, things are pretty expensive. And there's
 plenty of deals out there and I think a lot of it is just people seeing the recent prices that
@@ -631,18 +575,13 @@ floating around. I think the two issues from my standpoint are pretty high price
 expectations and in some cases relatively low quality. So, it's going to take the right one
 for us to see something we want to do.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Okay. Thank you.
 
 Operator
 The next question will be from Mark Dwelle of RBC Capital Markets. Please go ahead.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
+Q - Mark Dwelle {BIO 4211726 <GO>}
 
 Page 11 of 14
 
@@ -656,30 +595,19 @@ Yeah. Good morning. Most of my questions are really just clarifications. Did I h
 within Insurance, you had favorable 2017 cat development of $17 million and then in
 Reinsurance, it was unfavorable cat development of $12 million?
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 
 FINAL
 
 Yes.
 
-A - Richard R. Whitt, III
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt, III {BIO 7084125 <GO>}
 Yes. That is right.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Okay. So on balance, it was really generally right, just not necessarily (35:13)
 
-A - Richard R. Whitt, III
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt, III {BIO 7084125 <GO>}
 Yeah, on balance, it was pretty much flat. And you know what, that's not a particularly
 surprising development, you would expect you'd be more precise on your Insurance risk
 and often you have to wait a while to get the reports in on the Reinsurance side. So in
@@ -688,10 +616,7 @@ Insurance, up a little bit on Reinsurance.
 
 Bloomberg Transcript
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Okay. The second question I have relates to some of the segment and particularly the
 Other segment, the much unloved Other segment. I guess the two things that are the
 main two things that are in that segment then are going to be the program services
@@ -699,28 +624,16 @@ business recently acquired and then the CATCo business. Is there anything else t
 within what you define, I guess, as the products and services or the services and
 investment management revenues?
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 We have a couple small things, a couple small MGA operations...
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Right.
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 And then we had the runoff of the old Alterra life and annuity business.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Got it. Okay. All right, then on – okay, those are my questions there. Then on Markel
 Ventures, Tom, I think you partly answered my question in your opening remarks with
 respect to the Costa Farms seasonality or how that interacts with the revenue and
@@ -740,10 +653,7 @@ Farms, but the other quarters are of relatively similar run rate such that the b
 
 FINAL
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Right. And to provide some clarity on that as best I can. Well, yes, the first quarter is
 typically the lowest seasonal quarter for Costa. That would be accentuated this particular
 quarter because you had the hurricane during 2017, and with the time it takes to buy
@@ -754,52 +664,31 @@ that's why I think during the course of the year, you'll see that diminish. And 
 time we get into 2019, you're looking at quarter-over-quarter, apples-to-apples, that
 would not have any distortions to it.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 I see, so the natural seasonality was a little bit accentuated just by let's call it the lack of
 inventory available for sale because of – because of loss.
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Exactly.
 
 Bloomberg Transcript
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Okay. And then in your remarks, you commented on kind of normalized EBITDA margin.
 When I go to do that math, I usually get a range somewhere between 12% and 15%. Is that
 the right ballpark?
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Yeah, I think so. I think it's in Pittsburgh somewhere.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Obviously, I'm just making sure. I don't have any other questions. I think that's all I had.
 Thank you.
 
-A - Richard R. Whitt, III
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt, III {BIO 7084125 <GO>}
 Thanks, Mark.
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Thank you.
 
 Operator
@@ -815,9 +704,7 @@ Date: 2018-04-25
 And ladies and gentlemen, that will conclude our question-and-answer session. I would
 like to hand the conference back over to Tom Gayner for his closing remarks.
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 
 FINAL
 

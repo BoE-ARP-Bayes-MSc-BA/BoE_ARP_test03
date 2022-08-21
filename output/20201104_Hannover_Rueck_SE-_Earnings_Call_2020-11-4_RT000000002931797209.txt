@@ -29,10 +29,7 @@ recorded.
 At this time, I would like to hand you over to our host today, Mr.Jean-Jacques Henchoz,
 Chief Executive Officer. Please go ahead, sir.
 
-Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Thank you very much, and good morning, everyone. Let me welcome you to this
 conference call presenting our results for the first nine months of the year. As usual, I'll
 start with an overview before our new Group CFO, Clemens Jungsthofel goes through
@@ -118,10 +115,7 @@ maintained a high degree of flexibility around our hybrid capacity.
 On that note, I would like to hand over to Clemens, our CFO who will explain the figures
 in more detail.
 
-Clemens Jungsthof el
-
-{BIO 20496428 <GO>}
-
+Clemens Jungsthof el {BIO 20496428 <GO>}
 Yes. Good morning, and thank you, Jean-Jacques. It's a pleasure for me to present the
 financials of the Hannover Re Group for the first time. So moving directly on to the
 segmental reporting.
@@ -310,9 +304,7 @@ risk taking. Contribution, as you can see here, on the ordinary investment incom
 diversified as usual, this time with a slightly lower share from private equity.
 So this conclude my remarks. And I hand back to you Jean-Jacques.
 
-Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
+Jean-Jacques Henchoz {BIO 17457677 <GO>}
 
 Page 6 of 20
 
@@ -413,10 +405,7 @@ We will now begin our question-and-answer session. (Operator Instructions) Our f
 question is from Emanuele Musio, Morgan Stanley. Please go ahead. Your line is now
 open.
 
-Q - Emanuele Musio
-
-{BIO 19781440 <GO>}
-
+Q - Emanuele Musio {BIO 19781440 <GO>}
 Good morning. Thanks for taking my question. Actually, I have two questions. Looking at
 your guidance for 2021, I am quite surprised that you are aiming at earnings in line with
 2019, basically. However, since then, the rate have gradually improved. The momentum
@@ -448,9 +437,7 @@ book at better rates, shouldn't you see more than that, more than 5%? I mean, wh
 the average rate improvement across your book to-date? So if you can please help me
 understand a little bit more about these two elements.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 
 Bloomberg Transcript
 
@@ -466,10 +453,7 @@ And we felt this would of course have a bearing on the eventual growth outlook t
 So maybe both P&C and life and health, I'll ask Sven to start with P&C with the
 assumptions, expectations for '21 and then Klaus on the life and health outlook.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Yes. Thank you, Jean-Jacques.
 When it comes to the profitability, our expectation is that we will have substantial rate
 increases at set to 1:1 and later renewals. But as I already explained during our Investors
@@ -511,10 +495,7 @@ of their programs. So that would be my explanations on the P&C side.
 
 Bloomberg Transcript
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Okay. On the life side, we basically have to look at the U.S. and the performance there.
 The claims Jean-Jacques mentioned the EUR160 million are more than two-thirds from
 the U.S. And I would expect that to be the case also next year. All the other countries do
@@ -531,10 +512,7 @@ are fulfilling our plans completely and this should continue and might be evne m
 favorable in 2021. But we will definitely see COVID claims. It all depends on the fact when
 the U.S. starts managing the pandemic.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Maybe just one last piece of information on '21. Overall, we have the 5% growth. This is a
 bit of a mixed bag. The P&C growth is expected to be beyond that while life and health
 will be slightly below in the short term. So this shows a little bit of differentiation with the
@@ -549,10 +527,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2020-11-04
 
-Q - Emanuele Musio
-
-{BIO 19781440 <GO>}
-
+Q - Emanuele Musio {BIO 19781440 <GO>}
 Okay. Thank you.
 
 FINAL
@@ -561,10 +536,7 @@ Operator
 Our next question is from Kamran Hossain, RBC. Please go ahead, sir. Your line is now
 open.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi. Good morning, everyone. First question is based on the dividend, how to think about
 that? I guess the regular parts of the dividend is very clear. So a discussion there. But what
 are the key trigger points to think about on capital position versus the special cost of the
@@ -577,19 +549,14 @@ increased, I think, 13% year-on-year well ahead of the premium growth you're sug
 Is this mix change at some assumption change or bits of both? Any thoughts on that
 would be helpful. Thank you.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 
 Bloomberg Transcript
 
 Thank you. Clemens will respond on the dividend and capital management and Sven on
 that net cat.
 
-A - Clemens Jungsthof el
-
-{BIO 20496428 <GO>}
-
+A - Clemens Jungsthof el {BIO 20496428 <GO>}
 Yes. Thank you. Well, Kamran, on the dividend. Well, you can see that in our Solvency II
 number, which is very stable at 222% as of Q3. So in all regimes and of course as you
 rightly mentioned, we do have the rating agency models, et cetera. We've always had
@@ -607,10 +574,7 @@ our guidance in terms of the special dividend really to be able to make a better
 we see the Q4 numbers and when we are through the renewals particularly on the P&C
 side.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Page 11 of 20
 
 
@@ -624,20 +588,14 @@ question? I didn't fully understand parts of your question.
 
 FINAL
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Yes. Sure. The -- I guess, the large loss budget seems to have grown -- or for next year
 seems to have grown 13%. You're implying 13 -- sorry, 13% versus 5% premium growth. So
 I was just trying to understand is this a mix change in business? Or are you rising kind of
 more cat business? Or is this an assumption change given the last four years have been
 running ahead of budget, I guess, not just for you, but for the industry as well?
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Okay. Thank you very much. The answer to that question is that it's a mix between our
 over achievement in 2020. As you know, when we started the year, we didn't expect a
 double-digit premium growth on the P&C side. And of course the EUR975 million, we had
@@ -653,32 +611,20 @@ the re-rating we are expecting. So we have adjusted our risk appetite from somew
 the 16% range to 18% of economic capital according to Solvency II. So there is a little
 higher risk appetite, but not substantially.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 That's great. Thank you.
 
 Operator
 Our next question is from Vinit Malhotra, Mediobanca. Please go ahead sir. Your line is
 now open.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Good morning. Thank you. I hope you can hear me.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Yep.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 So the question -- the first one is on the gross loss on COVID in third quarter of EUR264
 million. I just wanted to better understand is the allocation to the IBNRs and is the
 allocation to the individual treaties, is that something that is just the mechanical
@@ -704,16 +650,11 @@ more divergence between the population and what you would expect from Hannover R
 portfolio. And I'm more referring to even a qualitative comment from the more recent
 data, not just 3Q, please. Thank you very much.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Thank you. So the gross-to-net situation COVID will be answered by Sven and U.S.
 mortality by Klaus.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
+A - Sven Althoff {BIO 19104724 <GO>}
 
 Bloomberg Transcript
 
@@ -735,17 +676,11 @@ transaction. And lastly in Q3, we have started to already -- to also see a lot a
 our ILS fronting activities. And they are, of course, directly channeled to the investor base
 for which we are doing the fronting.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 And so even for the fourth quarter, you still think you're still very comfortable with the
 situation on COVID P&C, Sven?
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 We are comfortable. I wouldn't say very. I mean, the pandemic is ongoing. We have the
 second wave of partial lockdown mechanisms. You and I, we have both no idea whether
 that's a November topic or whether this will lead well into 2021. So from that point of view,
@@ -760,15 +695,10 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2020-11-04
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
+A - Sven Althoff {BIO 19104724 <GO>}
 
 Bloomberg Transcript
 
@@ -776,10 +706,7 @@ FINAL
 
 Yes.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Yes. On the life side, I might have to disappoint you. My former answers are still valid. We
 don't have much new information. The second and third quarters of the U.S. Population
 mortality has been as you mentioned, at 20% higher than expected. About 70% of that is
@@ -802,26 +729,17 @@ distribution in your portfolio. And as you might remember, we have been able to 
 a lot of this in the last two years by recaptured. I hope that answers your question, but I'm
 sure you will ask it again in three months' time. And then I might have another answer.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Right. We'll look forward to that. Thank you very much.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Sorry.
 
 Operator
 Our next question is from Thomas Fossard, HSBC. Please go ahead. Your line is now go
 ahead. Your line is now open.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. Good morning, everyone. I've got two questions. The first one would be related to
 the special dividend again. Sorry about that. Understand your remark regarding still a
 
@@ -847,15 +765,10 @@ has been. But clearly we have not seen yet any substantive news flows on these t
 So maybe you could shed some light on what has driven the increase in those two lines in
 terms of additional reserves? Thank you.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Clemens, special dividend first.
 
-A - Clemens Jungsthof el
-
-{BIO 20496428 <GO>}
+A - Clemens Jungsthof el {BIO 20496428 <GO>}
 
 Bloomberg Transcript
 
@@ -873,16 +786,10 @@ basis dividend, of course. So that's something that we kept in mind as well. But
 will revisit that position earlier in 2021.
 I hope, Thomas, that answers the question to some extent on the hybrid front.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes, thank you.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 When it comes to the COVID losses, let me start with the credit side. Yes, you're right. We
 have a relatively little news as far as individual insolvencies is concerned. Here, the various
 state stimulus programs for the economy are doing their job. So we have strong stimulus
@@ -915,19 +822,13 @@ accordingly. And as I've mentioned before, we have taken this as, yes, a require
 proportionately build additional IBNRs on top of that in order to stay at a comfortable level
 when it comes to actually advice claims to IBNRs and the overall reserve situation.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 So thank you. Maybe one word, if you could on the other lines, so maybe the financials
 and D&O lines where things have increased as well?
 
 Bloomberg Transcript
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Yes. There was a relatively proportionate increase in all lines of business. If you look at Q2
 where we had booked EUR600 million and Q3 the EUR873 million, which we have booked
 on a gross basis, we have added to our Q2 results in all those lines of business. But
@@ -935,20 +836,14 @@ depending on the news we received from the ceding companies to a varying extent,
 largest increase we have certainly shown is on the property business interruption side. But
 there were also additional ins against lines of business like D&O.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay. Thanks, Sven.
 
 Operator
 Our next question is from Paris Hadjiantonis, Exane BNP Paribas. Please go ahead. Your
 line is now open.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Yes. Hi from my side as well. I hope everybody's doing well. The first question will be on
 Solvency II. And what is assumed currently in terms of COVID-19 losses going forward? I
 think Klaus implied earlier that some low triple digit million for higher mortality claims from
@@ -975,16 +870,11 @@ one-third of the life and health losses are coming from non-mortality, so morbid
 other. Can you just give us some light on what exactly is driving this morbidity and other
 losses? Thank you.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Thank you. So Clemens will comment on what's baked into the Solvency II numbers, and
 then Klaus will take the other questions then.
 
-A - Clemens Jungsthof el
-
-{BIO 20496428 <GO>}
+A - Clemens Jungsthof el {BIO 20496428 <GO>}
 
 Bloomberg Transcript
 
@@ -1004,10 +894,7 @@ on the short term, let's say probably the next quarter and probably somewhat int
 reflected in Solvency II reserves already. But Klaus, you might be able to shed some more
 light on that.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Yes. Let's start with the Solvency II numbers. I have just the numbers for the U.S., and this
 is about EUR100 million for the fourth quarter and 2021. About EUR30 million is for the
 fourth quarter and the rest for the year 2021 under Solvency II. There is no loss recognition
@@ -1035,19 +922,13 @@ recognition for the disability business in Australia.
 
 FINAL
 
-A - Clemens Jungsthof el
-
-{BIO 20496428 <GO>}
-
+A - Clemens Jungsthof el {BIO 20496428 <GO>}
 So Paris, to be clear that is really what you see under both regimes, right, under Solvency
 II. And IFRS as Klaus mentioned, something that we don't see in 2020, but we expect in
 2021. However, we have taken care of that already as a sort of a second order effect
 related to COVID, to some extent, already in our 2020 numbers.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 According to my definition, this is even a third order effect. The first order is COVID claims
 -- named COVID claims. The second is the claims I mentioned earlier from death of
 despair few sites -- or fewer people seeking medical treatment and die of a heart attack,
@@ -1055,9 +936,7 @@ because they don't go to hospital. The third order effect -- impact would be an 
 downturn, which across the world has an impact on our disability claims. Does that answer
 your question?
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 
 Bloomberg Transcript
 
@@ -1066,35 +945,23 @@ mortality, you're talking about EUR17 million impact in 2021 and then also some 
 morbidity side in Australia. Are these already reflected in your guidance for 2021 in terms
 of IFRS profits?
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Yes.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Yes, okay.
 
 Operator
 Our next question is from Andrew Ritchie, Autonomous. Please go ahead. Your line is now
 open.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi there. Just a very quick question. I'm assuming your willingness to talk about the
 dividend means that you're assuming the regulator in Germany, BaFin, will be as
 pragmatic year-end dividend discussions as they were with the FY '19. Is that your working
 assumption? Have you been given any indications so far on that?
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 So we didn't have a direct discussion yet on this, but we expect based on the dialogue
 we've had in the past months to have a pragmatic perspective from the regulator in
 Germany. That's the assumption. I feel optimistic that this will be confirmed as we start the
@@ -1110,9 +977,7 @@ New Year. But my assumption is that we'll have -- based on the numbers, based on
 performance and the strong reserving position and the business outlook that BaFin would
 confirm the dividend.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 
 FINAL
 
@@ -1122,9 +987,7 @@ Operator
 (Operator Instructions) We haven't received further questions. I will hand back to the
 speakers.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 
 Bloomberg Transcript
 

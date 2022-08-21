@@ -23,10 +23,7 @@ Presentation
 
 Bloomberg Transcript
 
-Lars Moeller
-
-{BIO 18028603 <GO>}
-
+Lars Moeller {BIO 18028603 <GO>}
 Good morning, everyone. Here's Lars Moeller from Tryg. I'm the Head of Investor
 Relations. We are here to present our 2013 results. And with me this morning I have
 Morten Hubbe, our CEO, and Tor Lonnum, our CFO.
@@ -35,10 +32,7 @@ only a picture of Tor and Morten here today. And after the presentation from Mor
 Tor, we will of course have our Q&A session, as usual.
 So with these words, over to you, Morten.
 
-Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+Morten Hubbe {BIO 7481116 <GO>}
 Thank you, Lars. And if you turn directly to slide 3, we show the Fourth Quarter highlights,
 of course impacted signiﬁcantly by 45,000 storm claims in Denmark, where we expect to
 pay out DKK650 million prior to reinsurance. And despite that, we deliver a strong result
@@ -128,10 +122,7 @@ And over to you, Tor.
 
 Bloomberg Transcript
 
-Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+Tor Lonnum {BIO 16534375 <GO>}
 Thank you, Morten. If we move to slide number 11, ﬁrst and foremost we see that there is
 still some decline on the top line, both in nominal and in ﬁxed currency, albeit relatively
 high decline due to the fall in or the drop of the price of the Norwegian krone.
@@ -219,10 +210,7 @@ shouldn't be a signiﬁcant impact. We're talking in the area of some DKK100m. I
 at the development in pure equity, it's more or less ﬂattish.
 And I guess that leaves it back to you, Morten.
 
-Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+Morten Hubbe {BIO 7481116 <GO>}
 And I guess we can summarize that we are quite pleased that we're able to handle the
 two signiﬁcant storms while still delivering a strong development in our bottom line result,
 and clearly satisﬁed that the main driver is our eﬃciency measurement program, which
@@ -236,29 +224,20 @@ Bloomberg Transcript
 
 And with that, I think we have concluded our presentation.
 
-Lars Moeller
-
-{BIO 18028603 <GO>}
-
+Lars Moeller {BIO 18028603 <GO>}
 Yes. Then we are ready to take questions so, operator, please.
 
 Questions And Answers
 Operator
 (Operator Instructions) Per Gronborg, Danske Markets.
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
-
+Q - Per Gronborg {BIO 15910340 <GO>}
 Hello. It's Per Gronborg from Danske. One question related to the storm impact. You had
 two big storms in Denmark, a number of medium-sized events in Norway. You state in
 your report that you have DKK150 million for own account on each event. How have you
 been able to limit the total impact to DKK255m, which is pretty impressive?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Well I guess we can say, Per, that we have the DKK150 million for own account per event
 and then we pay the reinstatement premium for each, and the total of that, in eﬀect, is
 DKK400 million for the two events. Then I guess limiting that further on the total weather
@@ -276,10 +255,7 @@ the two storms net/net, bottom line, they are actually DKK400m.
 
 FINAL
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 And I guess, just to supplement Morten in terms of the weather events you talk about in
 Norway, Per, they're so limited in their eﬀect that it doesn't really have a large inﬂuence in
 the numbers. And bear in mind that the winter has been extremely favorable both in
@@ -287,47 +263,29 @@ Norway and in Denmark in Q4. And so I guess if you look at the overall impact, y
 was some signiﬁcant weather events, but there were also some positive events that took
 the total eﬀect down.
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
-
+Q - Per Gronborg {BIO 15910340 <GO>}
 What has the cost been for the four events in Norway?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Sorry?
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
-
+Q - Per Gronborg {BIO 15910340 <GO>}
 What has the cost been for the two medium-size storms in Norway and the two smaller
 storms we had in Norway in the Fourth Quarter?
 
 Bloomberg Transcript
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 A very, very limited eﬀect. It's not very visible. We're talking in the area of low -- I would
 say somewhere below DKK20m, so it doesn't really have a large impact.
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
-
+Q - Per Gronborg {BIO 15910340 <GO>}
 Okay. Thank you.
 
 Operator
 Hakon Fure, DnB Markets.
 
-Q - Hakon Fure
-
-{BIO 16623060 <GO>}
-
+Q - Hakon Fure {BIO 16623060 <GO>}
 Yes. Hi. Good morning. It's Hakon from DnBNor. A few questions. Firstly, on the sideways
 reinsurance, could you remind us how much of the DKK500 million in weather related
 claims you're expecting for this year that you expect in the ﬁrst half? And am I right in
@@ -336,9 +294,7 @@ should expect, eﬀectively, no weather related claims in the ﬁrst half?
 And secondly, on run-oﬀs, am I right -- if inﬂation remains close to zero in Denmark,
 should we expect the current run-oﬀ gains level to remain, going forwards?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
+A - Morten Hubbe {BIO 7481116 <GO>}
 Page 6 of 17
 
 
@@ -357,28 +313,19 @@ all, our assessment is that our reserving margin at the end of 2013, if anything
 higher than at the beginning of 2013.
 And reinsurance?
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Yes. Hi, Hakon. I guess it's important to say that, in terms of the sideways cover, you are
 right that we're more or less covered in terms of larger weather related events, but bear in
 mind that it's always a threshold on the bottom of DKK20m. Did you understand that?
 
-Q - Hakon Fure
-
-{BIO 16623060 <GO>}
-
+Q - Hakon Fure {BIO 16623060 <GO>}
 Yes. That's perfect. And ﬁnally, given the proﬁtability that we're seeing in some products,
 especially motor comprehensive, how do you see prices trending in 2014 compared to
 2013?
 
 Bloomberg Transcript
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 We're talking -- if we should split the question between Norway and Denmark, I guess, I
 think I have mentioned already that in terms of the Danish market we have seen
 competitive pressure. I guess our take is that we should be able to push through the
@@ -392,10 +339,7 @@ in 2014.
 Operator
 Jakob Brink, ABG.
 
-Q - Jakob Brink
-
-{BIO 7556154 <GO>}
-
+Q - Jakob Brink {BIO 7556154 <GO>}
 It's Jakob from ABG. Just three questions. The ﬁrst one's relating to the combined ratio in
 Norway. It's extremely low, at 78% in the Fourth Quarter, but also it's a very big movement
 compared to last year in the Fourth Quarter. Could you maybe give a bit more detail on
@@ -420,10 +364,7 @@ FINAL
 Then, thirdly, did you mention anything about the Solvency II capital requirement, that
 you expected that to go up in 2014, and if so, how much? Thank you.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Yes. Thank you, Jakob. The ﬁrst question, in terms of what is going on in terms of
 movements in Norway, I think ﬁrst and foremost, and I guess Morten mentioned that as
 well, if you look at Norway in Q4 I think it is almost unprecedented with a combined ratio
@@ -437,10 +378,7 @@ in terms of combined ratio. If you -- sorry.
 
 Bloomberg Transcript
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Then I guess on your second question, Jakob, on premiums, you're absolutely right that
 there's still a negative top line development in 2013, which we're perfectly willing to
 accept. But what we do see is that there is less of a negative trend in Q4 than in the full
@@ -477,28 +415,20 @@ portfolio with an agreement that we no longer have.
 
 FINAL
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Yes. Then, on the ﬁnal question about the Solvency II, as you mentioned, Jakob, there will
 be a change in Danish regulation, and we do expect that that will adjust the individual
 solvency requirements somewhat upwards. We're still in the midst of calculations, but I
 would say that we're talking in the area of DKK200 million to DKK400m. So that's why I
 said it wouldn't be signiﬁcant, but we would see an upward shift.
 
-Q - Jakob Brink
-
-{BIO 7556154 <GO>}
-
+Q - Jakob Brink {BIO 7556154 <GO>}
 Okay. Thank you.
 
 Operator
 Daniel Do-Thoi, JPMorgan.
 
-Q - Daniel Do-Thoi
-
-{BIO 17019775 <GO>}
+Q - Daniel Do-Thoi {BIO 17019775 <GO>}
 
 Bloomberg Transcript
 
@@ -510,10 +440,7 @@ wondering if that's due to the bringing forward of the program or whether you've
 able to identify additional opportunities as you've gone along. Those are my two
 questions. Thank you.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 I think, on your ﬁrst question, the answer, if you look at the actual numbers, is no. There's
 no real impact. The only area where we've seen aggregators being slightly successful in
 the Nordic scenery has been in Sweden with Insplanet. And now we see that Insplanet is
@@ -538,10 +465,7 @@ Date: 2014-01-30
 
 FINAL
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Yes. Hi, Daniel. In terms of the cost program, I guess it's fair to say that it's a valid
 comment you make, and I think Morten mentioned the drop in nominal expenses. We
 see, actually, for Fourth Quarter alone that it's a drop of DKK100 million in nominal
@@ -554,17 +478,11 @@ the total target, and thus I think it's too soon to say that we are going to do 
 terms of the targets for the cost program. I think at the moment, at least, we're more or
 less focused on making sure that we will be able to realize the targets that have been set.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 But we're happy with the results in the pipeline for the next couple of years. That will keep
 us working.
 
-Q - Daniel Do-Thoi
-
-{BIO 17019775 <GO>}
-
+Q - Daniel Do-Thoi {BIO 17019775 <GO>}
 Okay. Thank you.
 
 Operator
@@ -573,10 +491,7 @@ Bloomberg Transcript
 
 Gianandrea Roberti, Carnegie.
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 Yes. Good morning, from me as well. A couple of questions on aspects that you have
 already touched upon. I think in the last six months in the Danish market, if I leave aside
 what is probably Denmark's ﬁrst real aggregator, I can count at least six, seven new
@@ -606,10 +521,7 @@ necessary level. Thanks.
 
 FINAL
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Morning to you as well, Gian. I think, on your ﬁrst question, you are absolutely right that
 it's a paradox that on one hand the aggregators in Denmark are not visible at all in the
 numbers. On the other hand, you're completely right that there are many new attempts
@@ -637,10 +549,7 @@ clearer what is our pricing, with or without bundling discount, so that we don't
 too negatively in a before bundling discount pricing measurement. That is really the issue
 we take the most seriously.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Yes. Hi, Gianandrea. I guess you're right in terms of the savings eﬀect full year 2013 is
 DKK300 million or somewhat above[ph] DKK380m. And you're right; that was really what
 I was trying to indicate earlier in terms of the presentation, that we will see some
@@ -650,10 +559,7 @@ In terms of contingency plans, yes, there is deﬁnitely a contingency plan for 
 In terms of the upside, as you mentioned, I guess that is -- I think Morten was very clear in
 his statement. We are aiming for the 20% return on equity target also in 2014.
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 Thank you.
 
 Page 11 of 17
@@ -667,9 +573,7 @@ Date: 2014-01-30
 Operator
 (Operator Instructions)
 
-A - Lars Moeller
-
-{BIO 18028603 <GO>}
+A - Lars Moeller {BIO 18028603 <GO>}
 
 FINAL
 
@@ -678,18 +582,13 @@ Will there be any more questions?
 Operator
 Daniel Do-Thoi, JPMorgan.
 
-Q - Daniel Do-Thoi
-
-{BIO 17019775 <GO>}
-
+Q - Daniel Do-Thoi {BIO 17019775 <GO>}
 Sorry. I'm just following up on Tor's comment earlier on the sales trend in comprehensive
 motor insurance. I was wondering if you could just talk a little bit more about that, what's
 driving that, and particularly in the context of an unbundling debate in Danish motor.
 Thank you.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
+A - Tor Lonnum {BIO 16534375 <GO>}
 
 Bloomberg Transcript
 
@@ -703,10 +602,7 @@ selecting CASCO, and of course that is related to the fact that if the value of 
 signiﬁcantly lower people don't select CASCO as a part of the insurance. And that is just
 one of the explaining factors for why the average insurance premium is slightly down.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 I guess -- on the bundling question, Daniel, I guess there's two diﬀerent debates in the
 Danish market, as we see it. One is that if you look at our Norwegian private bundling,
 there is a clear incentive for the customer if you even pick up product four, ﬁve or six. The
@@ -718,10 +614,7 @@ of the scale, being able to create transparency on what is the motor price after
 discount, because more than 90% of the customers actually get that discount. So those
 are the two diﬀerent trends.
 
-Q - Daniel Do-Thoi
-
-{BIO 17019775 <GO>}
-
+Q - Daniel Do-Thoi {BIO 17019775 <GO>}
 Okay. That's clear. Thank you.
 
 Page 12 of 17
@@ -737,10 +630,7 @@ Gianandrea Roberti, Carnegie.
 
 FINAL
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 Yes. Sorry. Just a couple of quick follow-ups. In Norway, in the private lines, I think in
 December DnB non-life was telling me that they were raising prices 2%, 3% in 2014 in the
 private lines, motor and house, to counter -- to oﬀset the expected claims inﬂation. Is that
@@ -756,10 +646,7 @@ approach to all this can take away more customers from you.
 
 Bloomberg Transcript
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 I think, if I take the last question, you can take the ﬁrst one, Tor. Well I guess if the
 acquisition cost on the Internet was only 5%, then I guess a company like Admiral should
 have a much lower cost ratio than we should, and I guess in eﬀect they don't. So I guess
@@ -780,10 +667,7 @@ the price diﬀerentiation as being number one strategic initiative, that with t
 they're asking they would come nowhere close to that risk selection, and also maybe that
 will punish their results.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 And I think, Gianandrea, just to supplement Morten a bit, we do have some experience in
 Tryg from using aggregators in Sweden, and I haven't seen a number -- an acquisition
 cost in the area of 5%, to be frank. So it might be that that's a new trend in their market,
@@ -803,10 +687,7 @@ FINAL
 I guess, to your ﬁrst question in terms of the price increases in private lines, that is in line
 with our own expectations.
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 Okay. Thanks. So just to clarify, just to make my point more clearly, was that the 5%
 acquisition cost is not from the aggregator but it's from some of these Internet players.
 But thanks a lot for your answer. I appreciate that.
@@ -814,10 +695,7 @@ But thanks a lot for your answer. I appreciate that.
 Operator
 Andy Hughes, Exane BNP.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Hi. Hello, guys. A very quick question, if I could. Obviously you highlighted that top line is
 quite diﬃcult in terms of top line growth. One of your competitors may be about to sell
 some assets very close to you in the Baltic region. Would you have any interest at all in
@@ -825,10 +703,7 @@ acquiring those? And thank you very much.
 
 Bloomberg Transcript
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Well I guess good morning to you as well. We have clearly deﬁned the Nordics as being
 our geographical footprint, and we have no plans of acquiring Baltic assets.
 And I guess our view is that we are focused primarily on continuously improving our
@@ -838,19 +713,13 @@ but an improvement towards the end of 2014 and then we expect to see a slight po
 top line in 2015. And while we do that and continuously improve our earnings as we move
 along, we're perfectly happy with that route.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Thank you very much.
 
 Operator
 Vinit Malhotra, Goldman Sachs.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Hi. Thank you. Good morning, everybody. Two questions, please. One is on the retention
 in Denmark. On the commercial side, I see the bar again -- the line again coming back up
 in Danish commercial. Is it that new customers are coming in, or is it that the people that
@@ -877,10 +746,7 @@ would you say most of that was due to this good luck factor, or some of it was s
 selection features in your portfolio or some other diﬀerentiation features? So if you just
 take a two-year view Fourth Quarter, it would be great. Thank you very much.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 If I take your ﬁrst question, on commercial Denmark, I guess it's fair to say that if you go
 back just four years our combined ratio in commercial was more than 100. So the price
 increases we carried out with Danish commercial customers were very steep, in a period
@@ -901,10 +767,7 @@ commercial to continue further upwards. And as a result, we should see the negat
 trend on commercial top line in total start to become smaller and gradually become
 positive, but that is probably in 2015.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Yes. Hi. And to the question about the underlying development, I guess you're right; we
 did mention that 2012 was a very benign insurance year. And I guess if you look at the
 development in the commercial segment, for instance, you do see that there is a
@@ -931,10 +794,7 @@ our proﬁtability focus for 2014.
 
 FINAL
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 And I guess it's fair to say, while your question is on commercial, that our price
 diﬀerentiation initiative started in private lines ﬁrst, and now it's picking up more products
 also in commercial lines. So clearly we have a pipeline for the next couple of years to
@@ -945,20 +805,14 @@ our future plan is that no product should ever be more than one year old. So cle
 signiﬁcant step-up in the price diﬀerentiation and risk selection area as number one on
 the strategic agenda, and that will help commercial in the coming years.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thanks. And sorry, the reason I ask is because in 3Q I distinctly remember there was a
 comment that you were saying that mid-size claims are going up. That clearly went back
 to normal in Fourth Quarter, just to follow up? And maybe that was related to commercial.
 
 Bloomberg Transcript
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 That was related to the corporate segment. So you're quite right; we did make a comment
 about the corporate segment in Q3. And as you can see from the underlying, there is a
 slightly better development in Q4.
@@ -967,25 +821,16 @@ book of business, for instance, we deﬁnitely need to follow and monitor the si
 closely, going forward. And I guess if you look at the geographic information, you can see
 that very clearly.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Thank you very much.
 
 Operator
 There are no further questions at this time. Please go ahead, speakers.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Thank you very much.
 
-A - Lars Moeller
-
-{BIO 18028603 <GO>}
-
+A - Lars Moeller {BIO 18028603 <GO>}
 Yes. Thank you very much for participating in this call this morning; very appreciated. Just
 want to remind you that we will be around for the next couple of weeks, the next months,
 Page 16 of 17
@@ -999,18 +844,13 @@ Date: 2014-01-30
 actually, with the roadshow, so you can see that on the last page on this presentation
 here. So with these closing remarks, thank you and have a nice day.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
+A - Morten Hubbe {BIO 7481116 <GO>}
 
 FINAL
 
 Thank you.
 
-A - Tor Lonnum
-
-{BIO 16534375 <GO>}
-
+A - Tor Lonnum {BIO 16534375 <GO>}
 Thank you.
 
 Bloomberg Transcript

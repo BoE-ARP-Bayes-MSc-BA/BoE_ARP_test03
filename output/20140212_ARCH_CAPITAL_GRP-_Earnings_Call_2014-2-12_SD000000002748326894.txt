@@ -61,10 +61,7 @@ Company's website.
 I would now like to hand the call over to Mr. Dinos Iordanou and Mr. Mark Lyons. Please
 proceed.
 
-Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+Dinos Iordanou {BIO 2397727 <GO>}
 Thinks, Dominique. Good morning, everyone and thank you for joining us today.
 
 Bloomberg Transcript
@@ -190,10 +187,7 @@ $801 million in the Northeast representing approximately 15% of common equity
 shareholders while the Gulf PMLs also decreased to $670 million and our Florida TriCounty PML now stands at $566 million. With that I will turn it over to Mark to comment
 further on our financial results and then after Mark we will entertain your questions. Mark?
 
-Mark Lyons
-
-{BIO 6494178 <GO>}
-
+Mark Lyons {BIO 6494178 <GO>}
 Great. Thank you, Dinos. Good morning everyone. I have a bit of a cold so hopefully you
 guys will bear with me.
 
@@ -388,19 +382,13 @@ Bloomberg Transcript
 Operator
 (Operator Instructions) Amit Kumar, Macquarie Capital.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Congrats on another strong quarter. Just if you follow up on the MIPS because I guess
 that's the most exciting piece right now. First of all, would you help us in terms of framing
 out what you believe the market opportunity is in terms of how you are thinking about the
 total mortgage originations and what share, what private MIs have of that?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Well you have a multiple part question but I will try to frame it in broad terms and then
 maybe Mark can get more specific to it, but first and foremost the CMG is no change in
 the marketplace. CMG has been operating since 1994 so in essence us acquiring that
@@ -431,66 +419,40 @@ So I don't know how best to describe the market to you but we believe it's a goo
 opportunity and a strongly capitalized company like Arch Mortgage will be a welcome
 addition to the marketplace with enough room for us to grow.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. I don't know if Mark has anything to add to that?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Not too much. As you know, if you split this thing by channel is how we look at it, the credit
 union space we would have now that the acquisition is closed, 45% market share perhaps
 that could go a little north. We'd like to protect that, perhaps marginally increase it over
 the short term and over the longer term on the lender or bank channel we certainly hope
 to get to a double-digit market share three years down the line or so.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. And the lender channel is through PMI, right?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
+A - Mark Lyons {BIO 6494178 <GO>}
 
 Bloomberg Transcript
 
 That's correct.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Well the old PMI. There is no PMI. It will be --
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Mostly on paper.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. Because I am looking at some statistics and it shows CMG at least having currently
 a 3% market share but that's in the traditional private MI business.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Right, that's 3% of the total. I was quoting of the channel itself. 45% of the credit union
 channel.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 How much would that equate to in terms of the overall market? Like what would the 3%
 look like?
 
@@ -502,38 +464,25 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2014-02-12
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 The inverse of what you just said.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
+Q - Amit Kumar {BIO 15025799 <GO>}
 
 FINAL
 
 Got it. Sorry, go ahead.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 The 45% of the credit union channel is 3%, 3.5% of the aggregate channel.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. I guess the only other question I have, and I will stop, is I know in the past you
 talked about sort of a mid-teen return on this. Has that thought process changed and
 what would be -- I don't know if a capital charge is the right word, how should we think
 about capital versus MI versus capital deployment in other avenues? Thanks.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
+A - Dinos Iordanou {BIO 2397727 <GO>}
 
 Bloomberg Transcript
 
@@ -543,16 +492,10 @@ probably 15 to 1. But for the time being it is 18 to 1 and we do like that busin
 it will take some time for us to get to a steady state, probably three years as Mark said,
 and then the real accretion to our ROE will start happening at that point in time.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. In three years accounting, so 2016 is the first year, right?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 No, mid-2014 is kind of the first year because the sales forces just about now. We won't
 be writing a lot on the old PMI platform until probably Third Quarter of this year.
 It takes time to get the book policies in place and then you start receiving the flow from
@@ -564,10 +507,7 @@ the Fourth Quarter and of course in this First Quarter. But our success is mostl
 the smaller and regional banks because the process is a little easier and we are
 gravitating to the large originators.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Page 10 of 26
 
 
@@ -584,18 +524,12 @@ FINAL
 
 Jay Gelb, Barclays.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Just wanted to touch base on the 11% to 13% accident year return on equity target. With
 primary commercial rates peaking and reinsurance rates softening what do you feel will
 be able to continue to drive that over time?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Jay, depends on what happens going forward. Don't forget if everything remained
 steady, let's say we just, we barely -- if we say the rate increases we achieve in the future
 are only good enough to cover loss cost trend then your ROE will unless you allow your
@@ -609,17 +543,11 @@ points we saw maybe two quarters ago, but 80 basis points as we saw in the Fourt
 Quarter, so it will depend on that. But right now we are very confident about the business
 we write it will generate that kind of return on equity.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 If market conditions were to deteriorate worse than expected next year can you talk
 about Arch's ability to pull back on volume?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Before you go there, this is your question along with some of Dino's answer. Remember,
 we're quoting you these margin expansion numbers on a written basis. So a lot of it is
 baked into 2014 already because of what was done in the four quarters of 2013.
@@ -627,10 +555,7 @@ So even if you had the assumption of 2014 being a 0 margin expansion you can pre
 much figure out, barring unusual capital of cats and things of that nature, you could
 arithmetically pretty much get to a strong insurance result.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Yes, the earned premium comes later on than the written premium. So the 2014 is baked,
 if you have a change it will affect 2015 and beyond.
 But I can't predict the future if we are going to have a change. The math is pretty easy.
@@ -654,19 +579,13 @@ happening in that particular -- too much competition, too many players and we're
 getting rate increases above trend so in essence that will deteriorate and we don't like to
 be playing in spaces that the economics get worse.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Right, okay. Then can you just update us on your thoughts around share buyback given the
 growth opportunities in areas like mortgage insurance? You said in the past that we
 shouldn't look for much in the way of share buybacks but just wanted to confirm that that
 was still your current thinking.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Yes, our current thinking hasn't changed. We will maintain a bit of access capital as
 cushion. That's always been our philosophy.
 And we continue to look for opportunities to deploy capital in our business. But absent of
@@ -675,29 +594,20 @@ excess capital at a faster pace than we need to have.
 
 Bloomberg Transcript
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Okay. Thanks very much.
 
 Operator
 Michael Zaremski, Credit Suisse.
 
-Q - Crystal Lu
-
-{BIO 21493547 <GO>}
-
+Q - Crystal Lu {BIO 21493547 <GO>}
 Hi. Good morning. This is Crystal in for Mike today.
 My first question is can you elaborate on the Watford Re fund? If you can't comment on
 the potential size of the fund and the impact to the financials perhaps you can discuss its
 strategy which appears to be casualty lines focused where it's most third-party funds in
 the marketplace are property focused.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 What we have announced in January is we have agreed in principle to act as a reinsurance
 manager, reinsurance underwriter for Watford Re. We are just going to be a new multiline
 Bermuda reinsurer fully rated and Highbridge Principal Strategies will act as the investment
@@ -723,39 +633,24 @@ be done by Highbridge Principal Strategy.
 Both of us are, Highbridge and Arch, is bound contractually for a long time to provide
 those kind of services. So that's the principle concept of the facility.
 
-Q - Crystal Lu
-
-{BIO 21493547 <GO>}
-
+Q - Crystal Lu {BIO 21493547 <GO>}
 Okay. Thank you. That's very helpful.
 
 Operator
 Michael Nannizzi, Goldman Sachs.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Maybe, Dinos, have you talked about how much capital right now is at the -- is in the MI?
 
 Bloomberg Transcript
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 In the MI space?
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 No, that you have pushed down into CMG in order to write business.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 CMG is capitalized, we just bought the entity. Our financial strength will, as a matter fact
 they are under review by the rating agencies to, they're a triple minus with a positive
 outlook, triple-B-minus with a positive outlook based on waiting for the closing of the
@@ -764,16 +659,11 @@ So we expect a significant balance on the credit rating of that facility. But we
 be adding capital to it to maintain adequate capital ratios and depending on their
 production we will continue maintaining adequate capital. Mark, do you want to -- ?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 To the extent, if you're real question, Michael, is emanated from consideration at closing,
 which is a little different than ongoing capital base --
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Page 13 of 26
 
 
@@ -792,10 +682,7 @@ I'm just trying to figure how much is in there? How much business do you think y
 going to write so we can start to think about what sort of ROEs this business is going to
 be able to generate and when.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 I understand the underlying premise in your question but we don't know to what extent
 we're going to be penetrating that lender market. As Dino says that is not going to get
 any traction until midyear and then get the monthly streams behind it.
@@ -804,9 +691,7 @@ as Dino said, it is approximately 18 to 1 now and get stiffened over time, that'
 are going to need to do. But that will be a function of the actual rate on which we put on
 these exposures.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
+A - Dinos Iordanou {BIO 2397727 <GO>}
 
 Bloomberg Transcript
 
@@ -818,29 +703,17 @@ Also this is part of the things that we do overseas. You're going to get a lot m
 on this on the First Quarter when we are going to start reporting the segments individually
 and then you can build your models after that.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. Okay, would it be possible to get insurance in force just as a kind of ballpark at this
 point, or do you want to wait until --?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Right now I think the risk to capital ratio is closer to 10 to 1.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 So it's not going to -- this is what it looks like now to us. And that will start going up as we
 produce more business but it will take probably a couple of years, maybe three years
 before we get to the point that we have enough production and then we need to add
@@ -853,9 +726,7 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2014-02-12
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
+A - Mark Lyons {BIO 6494178 <GO>}
 
 FINAL
 
@@ -865,24 +736,16 @@ about, that translates to about $280 million, $275 million of implied capital ne
 arithmetically as opposed to GFC requirements. That assumes 100% of it is kept on shore
 as well, which is likely not the case, but anyway I'm just giving you --
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 That's great. That's what I was looking for. Thank you.
 Then just last one. The marginal tax rate on the MI business, will that be different from
 your consolidated tax rate or do you expect it to be similar?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 It should be marginally higher because there may be a difference in the quarter share
 percentage.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 
 Bloomberg Transcript
 
@@ -896,10 +759,7 @@ employ that same strategy of just kind of lifting the capital out of the reinsur
 and moving it into the insurance market and kind of bringing that situation with them? Is
 that something you think about?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 I can't talk about others because I don't know what they're going to do. First of all, if you
 have a structure like Arch, which you have businesses in both segments you have the
 opportunity to do it.
@@ -927,10 +787,7 @@ across the board not only in our program business or our binding authority busin
 also in what we do throughout the world. And that is also a focus of our reinsurance
 operations as reinsurers of underlying businesses. They still look for the small, mediumsize type of accounts to reinsure.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 And let me just add, Michael, don't view this as a panacea of moving capital from
 reinsurance to insurance. We just got done quoting that the full accident year was about
 83 combined for the reinsurance group.
@@ -938,9 +795,7 @@ They've worked hard to be well diversified. So although there's focus on cat, ca
 not the only game in town.
 That's a 17% return on revenue right there. So it's not -- the sky isn't falling.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
+A - Dinos Iordanou {BIO 2397727 <GO>}
 
 Bloomberg Transcript
 
@@ -952,27 +807,18 @@ I do have a management tool that I got from my father, it's a Louisville Slugger
 keep it in the corner of my office because I never have to use it. These guys are more
 disciplined than I am.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Thank you very much for the answers.
 
 Operator
 Josh Shanker, Deutsche Bank.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Dinos, what happens if there's an Andrew or a Katrina and with all this collateralized paper
 are there no second event covers out there? Does the industry suddenly scramble for
 protection on day two?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 It depends what these facilities that have the collateralized paper will do. Are they going
 to ante up additional capital so they can participate? Or I don't know the answer to it.
 You can have different scenarios as to what's going to happen. For example if I'm a buyer
@@ -991,31 +837,19 @@ to be at that point in time.
 
 FINAL
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 In terms of your buying are you buying protection at this point with collateralized paper
 more so than rated paper or how do you view the trade-off there?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 We buy both. We buy both and we model things out and we believe if we can have a
 good purchase we don't really care if it's traditional or fully collateralized.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 And is there reversal expected for this Canadian tax charge in 2014? Is this one time or
 does it get earned back through the other direction in the future?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 That's a good question and you kind of answered it yourself. This is not a write-off.
 
 Bloomberg Transcript
@@ -1024,38 +858,24 @@ This is a valuation allowance against the deferred tax asset. So depending upon
 revaluations periodically and if performance is good in 2014 you start to see the
 unwinding of that.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Not in 2014, you see unwinding of that in 2015 and beyond.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 We'll call it a reevaluation allowance.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Okay, perfect. Thank you very much.
 
 Operator
 Vinay Misquith, Evercore.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 So the first question is on the debt. A little surprised that you took on debt because I
 thought that you guys were sitting on a lot of excess capital. Could you help us
 understand that decision please.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Page 17 of 26
 
 
@@ -1075,18 +895,12 @@ before. But we also have the opportunity to deploy it in other business and ther
 things that we are working on. And if that doesn't materialize we can always return it to
 shareholders.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Just to amplify that, Vinay, saying it's attractively priced, it's tax-deductible, we tended to
 want to raise it in the jurisdiction where it is going to be deployed. And as a general
 statement we don't really like to trap capital if we can get away with it.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. The second question is on the opportunity in the mortgage insurance space. I
 believe you said that you don't want to get more than about 20% of your capital. In the
 next three years where do you think, how much of capital do you think you will be able to
@@ -1094,35 +908,23 @@ deploy right now?
 
 Bloomberg Transcript
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Not enough to even get as close to 20%. We just said we have put in about $400 million,
 we are about 10 to 1 right now. It has a lot of room to get to 18 to 1.
 If we are very successful probably you are looking out three years out before we need -and don't forget I can't even predict what my balance sheet is going to look three years
 out but I can tell you we will have a lot more than $560 billion of common equity. So the
 20% it will take quite a bit of time.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 We didn't say we want to be 20% tomorrow we said we will work on the opportunities the
 market gives us and we are going to try to build it but from a risk management point of
 view we didn't want to deploy more than 20%. And of course there is other ways to
 deploy capital as you have seen with our activity at Watford.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 But just looking in terms of the capital that you are looking at deploying (multiple
 speakers).
 
@@ -1134,39 +936,26 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2014-02-12
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Within the Arch balance sheet, yes.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
+Q - Vinay Misquith {BIO 6989856 <GO>}
 
 FINAL
 
 Right. So do you think that the mortgage insurance operation you could maybe do about
 $1 billion in terms of capital deployed in the next two to five years?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Maybe five years out, but not in the two to three years.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. All right. The last question is on the ROE.
 Looking at the 11% to 13% underwriting your ROE, trying to translate that into GAAP ROE
 and other deviates in the balance because you got excess capital. Could you help us
 understand this difference?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
+A - Dinos Iordanou {BIO 2397727 <GO>}
 
 Bloomberg Transcript
 
@@ -1183,22 +972,13 @@ turn it over to Mark, calculations on these things but they are projections and 
 comfortable with it, that's what we put it in our commentary. Mark, anything more you
 want to say?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 No. I think you nailed it. Nothing to add.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 So wasn't 2013 a very low year for cats and 2014 should be a more normal year for cats?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 The cat business for us is I would say on an expected basis the low cat might give you
 another $100 million, $150 million of excess profit and on a bad cat year you take that off,
 
@@ -1230,10 +1010,7 @@ range. I don't give you a bullet point because I'm not that smart to know exactl
 segments we're going to be successful to grow versus other, and mix will make a
 difference. But 11% to 13% we are very comfortable with.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Thank you.
 
 Bloomberg Transcript
@@ -1241,17 +1018,11 @@ Bloomberg Transcript
 Operator
 Ryan Byrnes, Janney Capital.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Just wanted to get your thoughts on why you are making a bet on your professional lines
 in D&O on the reinsurance side rather than the insurance side.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Don't forget, we are doing it on both, on insurance side and on the reinsurance side, but
 you got to go by geography. We're not making a big bet in Europe and other parts of the
 world because we don't see the uplift on the rate. The bet we are making in the US is we
@@ -1274,19 +1045,14 @@ Date: 2014-02-12
 Where we don't see opportunities also we don't have any misguided misconceptions. We
 will cut that back.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 
 FINAL
 
 Okay. Great. Then just quickly, last question is can you refresh us maybe on the, on your
 M&A pipeline or for one-off type deals, I guess another use of capital going forward?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 We don't comment on future activity but in general terms we have seen as we reported
 on the CMG transaction opportunities sometimes do special deals in reinsurance because
 people they're looking for capital relief and sometimes you've got to have the excess
@@ -1295,10 +1061,7 @@ drying up then we've got to rethink about what do you do with excess capital? Bu
 now I'm still in a wait-and-see pattern looking at all these opportunities that we are
 discussing.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Great. Thanks for the answers.
 
 Operator
@@ -1307,18 +1070,12 @@ Bloomberg Transcript
 
 John Hall, Wells Fargo.
 
-Q - John Hall
-
-{BIO 1497612 <GO>}
-
+Q - John Hall {BIO 1497612 <GO>}
 I was wondering on the mortgage insurance side, you sort of moved into that segment
 first in reinsurance and now with the closing of CMG do you think being a primary player is
 going to reduce your opportunities to continue to write reinsurance there?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Well I don't believe so. The opportunities might have went away anyway. A lot of the
 reinsurance transactions they were out of necessity because some of the direct
 mortgage insurance they were in need of capital and we recognize that from the first day.
@@ -1349,10 +1106,7 @@ And now the capital markets have opened to some of the potential clients, some e
 clients and potential clients. So I don't know what their needs are going to be in the future
 but our intent is to be both as a reinsurer and also primary in the US and also overseas.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Just to augment that a bit, your question necessitates a scenario or two and how will the
 capital markets continue to view our mortgage insurance spaces? As the GFC capital
 requirement let's hypothesize.
@@ -1361,10 +1115,7 @@ for some of the legacy players to come to the compliance.
 The extent that the Capital Markets get a little more cold shoulder towards it, reinsurance
 as a capital source becomes a very attractive.
 
-Q - John Hall
-
-{BIO 1497612 <GO>}
-
+Q - John Hall {BIO 1497612 <GO>}
 Great. Thanks very much.
 
 Bloomberg Transcript
@@ -1372,37 +1123,23 @@ Bloomberg Transcript
 Operator
 Meyer Shields, KBW.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Two quick questions if I can. First in that 40% of the reinsurance segment reserve releases
 that came from shorter tail lines is there any way of breaking that down between normal
 run rate losses and the major cats that have been incurred since 2011?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Most of it is non-cat. So I am estimating, but I believe it was closer, it was north of 50% on
 the non-cat.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Great. And second, if you were to tease out the mortgage insurance results in 2013
 from reinsurance would the underwriting margin have gone up or down?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 The margin will go down slightly though -- it will be negligible.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 Page 22 of 26
 
 
@@ -1413,27 +1150,19 @@ Date: 2014-02-12
 
 Okay. Perfect. Think you very much.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
+A - Dinos Iordanou {BIO 2397727 <GO>}
 
 FINAL
 
 It's taking out the MI out of --
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 It's funny because we looked at that ourselves. And if I do it in combined ratio
 perspectives probably the best way to do it, the calendar quarter for the reinsurance
 division would have been about 90 bps higher, which is marginal, and 40 bps higher the
 full calendar year with the mortgage insurance removed.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Good. That's very helpful. Thanks so much.
 
 Operator
@@ -1454,10 +1183,7 @@ reserve pickup in the Fourth Quarter, is there any tie between that and Watford?
 prospect of Watford starting soon in any way linked and will it participate at all on that
 treaty? And that's it for me, thanks.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Let me start with the fresher one, the last question. No, it had nothing to do with Watford
 because Watford even though the probability is very high at the time we made that
 transaction we were making it for us.
@@ -1495,35 +1221,24 @@ Thank you very much.
 Operator
 Mark Dwelle, RBC Capital Markets.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
+Q - Mark Dwelle {BIO 4211726 <GO>}
 
 Bloomberg Transcript
 
 One real quick question. On the CMG premiums you gave us, $100 million, is that a
 written or an earned -- ?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 It's an annual written premium and seeing it has been steady-state is annual year end too.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Okay. That was my second question.
 Okay, that's all he needed. Thank you.
 
 Operator
 Michael Nannizzi, Goldman Sachs.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Just quick follow-up. I had a question on, I remember a while back, maybe Dinos it was
 you or Mark, you had mentioned that the MI would not meaningfully impact earnings until
 2016. Did that contemplate the interest cost related to this debt raise or was that just on
@@ -1537,15 +1252,10 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2014-02-12
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 It contemplate everything.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 
 FINAL
 
@@ -1556,30 +1266,19 @@ I'm guessing that contemplates the accident year loss ratio you initially book i
 estimate of ultimate losses? Because otherwise it doesn't look like on an accident year
 basis you would be there for 13%.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 I don't totally understand the question. Did you understand the question?
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 In other words you had, booked a 13.5% this year, 11.7% operating --
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
+A - Dinos Iordanou {BIO 2397727 <GO>}
 
 Bloomberg Transcript
 
 13.5% on a net basis --
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Yes, 11.7% operating, but you had some obviously some favorable development in there.
 So taking that into consideration you're probably -- that would be somewhere in the $250
 million to development, maybe you are in the 7% to 8% range.
@@ -1588,20 +1287,14 @@ the accident year result is not going to close that gap for 2014 or 2015 that th
 assumption that preserves and continue their trend that we have seen in the last several
 years?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Well some of it is, remember, these comments Dinos is making on the range are
 underwriting years not accident years. In an improving market accident year 2013 will be
 worse than underwriting year 2013, and underwriting year 2014 will improve even more.
 So accident year is the starting point but you have to translate probably a pretty material
 movement to convert that to an underwriting year in improvement.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 On your reserve question, we've been reserving conservatively all of our lives. We are not
 planning to change that.
 
@@ -1622,20 +1315,14 @@ And that philosophy hasn't changed with us. So I don't believe that our reserve 
 will change. So in essence based on historical averages I would think the same kind of
 performance is going to emerge.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. Great. Thank you very much.
 
 Operator
 With no further questions in the queue I would like to hand the call back to Mr. Iordanou
 for closing remarks.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Well thank you all and we are looking forward to talking to you in the next quarter, which is
 going to be probably a little more exciting first time we are going to report the MI as a
 separate section of our three businesses and I am sure you're going to have a ton of

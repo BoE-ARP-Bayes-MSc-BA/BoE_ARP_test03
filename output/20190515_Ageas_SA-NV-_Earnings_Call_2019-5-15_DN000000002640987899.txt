@@ -33,10 +33,7 @@ there will be a Q&A session. Please also note that this conference is being reco
 I would like to hand the call over to Mr. Bart De Smet, CEO, and Mr. Christophe Boizard,
 CFO. Gentlemen, please go ahead.
 
-Bart De Smet
-
-{BIO 16272635 <GO>}
-
+Bart De Smet {BIO 16272635 <GO>}
 Good morning, ladies and gentlemen. Thank you all for dialing into this conference call
 and for being with us for the presentation of the results of Ageas for the first three
 months of 2019. I'm joined by my colleagues of the executive committee and by Hans De
@@ -112,10 +109,7 @@ FINAL
 
 Ladies and gentlemen, I will now hand over to Christophe for more details on the results.
 
-Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+Christophe Boizard {BIO 15390084 <GO>}
 Thank you, Bart, and good morning, ladies and gentlemen. As usual, I will give you some
 details per segment. On Slide 6 on the presentation, so in Belgium, the net result
 amounted to EUR81 million compared to EUR136 million last year. As you know, with the
@@ -224,8 +218,7 @@ Ladies and gentlemen, this concludes the introduction and we now open the call f
 questions. (Operator Instructions) The first question is from Jason Kalamboussis from KBC
 Securities. Please go ahead.
 
-Q - Jason Kalamboussis
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Yes. Good morning. A couple of questions, the first one is on the Asia. You had a very
 strong quarter even if we account for seasonality and realized gains. So could you give us
 a bit more color on this, that would be great. And also if something that you see already
@@ -238,14 +231,9 @@ generation, is it -- should we be expecting higher -- other higher SCRs going fo
 the back of this internal reinsurance or it is an exceptional one-off of EUR95 million and it
 should stay at these levels? Thanks very much.
 
-A - Bart De Smet
-
 Bloomberg Transcript
 
-{BIO 4811408 <GO>}
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay I'll take the first question; Antonio, the UK question; and Christophe, the last one. So
 on Asia, a strong quarter indeed, but -- and which we could say the most volatile element
 in it is of course the capital gains where we had a huge impact in Q4, a negative one from
@@ -262,10 +250,7 @@ expectation is indeed that in the later part of the year this will reverse. And 
 pretty much on track with our targets in terms of inflow. But I think particularly encouraging
 is also the good underlying focus -- the focus is still on that obviously.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 The negative impact on the free capital generation, so I will come back on the breakdown
 I have just given and will give you more explanation. So first, I indicated that the
 discontinuation of the stop-loss accounted for EUR25 million and you may ask why is there
@@ -299,10 +284,7 @@ Phase 1 on the insurance. We want to go beyond recent this and -- to go beyond t
 have a more positive tax base in the Holding. So this effect will be mitigated, but I am
 talking for the future here. This year, this will stay as well the cost of EUR70 million.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Thank you very much.
 
 Operator
@@ -312,10 +294,7 @@ Bloomberg Transcript
 Thank you. Next question from my Robin van den Broek from Mediobanca. Sir, please go
 ahead.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Yes. Good morning everybody. First of all, on Slide 13, you provide a EUR397 million of
 area for capital transactions and in the slide you specified that's the call debt instrument,
 the share buyback and the injection in Asia. But when I add to the call debt instrument and
@@ -342,36 +321,22 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2019-05-15
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 (inaudible)
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
+Q - Robin van den Broek {BIO 17002948 <GO>}
 
 FINAL
 
 I'm sorry, I cannot hear anything. It is very, very soft.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Excuse me, can you hear me?
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 This is a lot better.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 So the first question, the call in Belgium, of course, the $550 million was at 100% as we
 only owned 75%. So the impact for AGS was EUR360 million. The capital injection in Asia is
 a smaller amount of EUR5 million in the Philippines to follow the growth and the remainder
@@ -380,10 +345,7 @@ Philippines and EUR31 million share buyback.
 
 Bloomberg Transcript
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Relating to the capital generation and the decline in SCR noticed in Q1, I think your
 observations are correct. The free capital generation is helped by a relatively small SCR
 decline in Q1, which is partially seasonal. We also had that last year a few times depending
@@ -396,19 +358,13 @@ recurring. So looking forward, you could expect more of flat evolution or a slig
 in SCR, but then also a better generation of warm [ph] front, of course, weather
 permitting that is the correct observation that you made.
 
-A - Hans J. J. De Cuyper
-
-{BIO 17991990 <GO>}
-
+A - Hans J. J. De Cuyper {BIO 17991990 <GO>}
 I think on the last question for Belgium, the effect of the capital gain transaction, which
 was booked in the technical results due to the nature was actually higher (inaudible) it was
 EUR21 million after tax. If we take that into account, our margin before capital gains is
 stable even a very slight increase compared to the same quarter last year.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -425,10 +381,7 @@ Thank you. Next question from Ashik Musaddi from JPMorgan. Please go ahead.
 
 FINAL
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Hi. Good morning, Bart, Christophe. I have a few questions if you can help me on those.
 First of all is around M&A, I mean, if I look at Bloomberg, very recently there is speculation
 that you're looking at Tranquilidade in Portugal and you've been linked with the CaiFor as
@@ -453,10 +406,7 @@ the year. So I mean, shall we still stick with the EUR275 million to EUR325 mill
 will normalize in few coming quarters or should we just try and be a bit more optimistic on
 that? Thank you.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay. Thank you, Ashik. The first question on M&A, so I -- unfortunately, we can only
 repeat what we have said at the Investor Day, and is that we in a first place look at
 opportunities in markets where we are strong, so being mainly Belgium, Portugal, that we
@@ -499,10 +449,7 @@ insurance results of EUR850 million to EUR950 million. We see no reason at all t
 or lower this range. We believe that of course exception made for very unforeseen
 circumstances that that will be the range in which we will end at the end of this year.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thanks that's very clear. So just going back on the M&A a bit, sorry, I'm coming back to this
 because I think it's a very important part of your business model. So, I mean, ROI, is it fair
 to say that we should still stick with like 11% ROI hurdle over a two-year period for
@@ -512,10 +459,7 @@ we still stick with 11% ROI over a two-year period?
 
 Bloomberg Transcript
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Well, I would say, that's one of the criteria we've set there. So we will stay to that. Of
 course, depending on the country where you are, the risk profile that can be from one
 country to another country slight difference in ROE that we -- the ROI that we apply for a
@@ -527,19 +471,13 @@ go on within one or two years, it will be 15 times earnings that we paid. So in 
 markets you have to be a bit more, let's say, flexible from that side. But we will not for
 instance go in Belgium for an acquisition where the return on equity is a 7% to 8%.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 That's very clear. Many thanks for this.
 
 Operator
 Thank you. Next question from Farooq Hanif from Credit Suisse. Please go ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi there. Good morning. Thank you very much by the way for the explanation in your pre
 and post insurance and it was very helpful. So thank you for that. Just three questions;
 firstly, I note that your upstream expectation for Asia for 2019 is flat on last year and I'm
@@ -562,10 +500,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Okay. For the first question, the EUR95 million; first of all, it's based on dividends coming
 out of China, Thailand, Malaysia. Thailand, Malaysia are overtime more flat. And that's also
 in order to keep, let's say, the growth profiles of these companies supported. In China,
@@ -598,18 +533,12 @@ would say let's monitor and let's see but we are still at plus 20% vis-a-vis end
 December of last year, which gives a decent margin for the future. But it cannot be
 (inaudible)
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 If I just following up the fact that there's been a recovery year-to-date could potentially, in
 my view, I think lessen the downside risk on impairment. Would you agree with that in 3Q,
 sorry in 2Q?
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Page 10 of 18
 
 
@@ -630,10 +559,7 @@ equation compared to our peers. This is obviously a market phenomenon, so the ma
 will adapt to the new rules for us. For now, I would just keep it as a neutral item. Obviously,
 it has also some possibilities. I think by June, July we'll know a bit more.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. That's very helpful. Thank you so much.
 
 Operator
@@ -642,10 +568,7 @@ ahead.
 
 Bloomberg Transcript
 
-Q - Bart Jooris
-
-{BIO 3470300 <GO>}
-
+Q - Bart Jooris {BIO 3470300 <GO>}
 Yes. Hi. Thank you for taking my questions. If I -- you already touched on this Bart, but if I
 could continue a little bit on the combined ratios in Belgium, we saw increases in an all
 business lines. So there is only a weather impact of this. So what we should see as the
@@ -655,17 +578,11 @@ regarding to the UK, if we add back the reinsurance EUR3 million and the restruc
 EUR12 million, it's EUR26 million, if we do that times three and we add the profit of this
 year, you're already on the top of your guided range. Do you stick to that range?
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay. Maybe for the combined ratio, Belgium, I will leave it to Hans to give a bit more
 detail. Hans?
 
-A - Hans J. J. De Cuyper
-
-{BIO 17991990 <GO>}
-
+A - Hans J. J. De Cuyper {BIO 17991990 <GO>}
 Well, I think that the prime effect is indeed as we said the weather effect in the Non-Life
 business for a full 10%. If I zoom in on the detail, we see a slight deterioration if we
 exclude the weather impact on Accident and Health, but nothing really to look to worry
@@ -677,10 +594,7 @@ concerns at this stage on the 96% ambition. Of course, for the remainder of the 
 impact of reinsurance for additional weather effects that might happen of course will
 come into play. So you can definitely not extrapolate the weather impact for the full year.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Page 11 of 18
 
 
@@ -698,16 +612,10 @@ million this quarter part of it will be recognized under the reinsurance segment
 look through the AGS results coming out of the UK, you could indeed keep that EUR70
 million to EUR90 million that we indicated earlier at the full year results scope.
 
-Q - Bart Jooris
-
-{BIO 3470300 <GO>}
-
+Q - Bart Jooris {BIO 3470300 <GO>}
 But probably more on the top of the range, right?
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 If we can exceed the targets we give we will never let it stay apart. So but take also the
 overall indication I gave that we are quite confident again not excluding, really unforeseen
 would say, world's issues that we will see -- the year between that EUR800 million to
@@ -715,34 +623,22 @@ EUR900 million group results, -- EUR850 million to EUR950 million insurance resu
 whether it will be on the lower, higher or medium end, that's something I think where we
 probably will be able to give a bit more feeling further in the year.
 
-Q - Bart Jooris
-
-{BIO 3470300 <GO>}
-
+Q - Bart Jooris {BIO 3470300 <GO>}
 Okay. One small detail on that, is there any update on the Ogden rate of evolution?
 
 Bloomberg Transcript
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 On Ogden, everybody awaits the first weeks of August as the date and that will be
 published. But as with many things in the UK, you never know.
 
-Q - Bart Jooris
-
-{BIO 3470300 <GO>}
-
+Q - Bart Jooris {BIO 3470300 <GO>}
 Okay. Thank you very much.
 
 Operator
 Thank you. Next question from Albert Ploegh from ING. Sir, please go ahead.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Yes. Good morning. Thank you for taking my questions. I've got basically two. One is on
 the earnings bridge in Asia from Q1 last year to Q1 this year. To understand a bit better
 what is the true operating underlying performance? Q1 last year, I think, there were some
@@ -764,10 +660,7 @@ Date: 2019-05-15
 
 FINAL
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 On the first question, so the comparison Asia last year and this year, I would indicate that
 the main difference is the higher net capital gains. If you look through slides, sorry Slide 5
 or 6, I think is -- sorry 19, you'll see that last year, we had EUR25 million capital gains, this
@@ -779,10 +672,7 @@ within one, two years. And then there was on reevaluation of reserves in China, 
 a minimal impact, I think, something like EUR5 million. So that's some of the explanations.
 But the big difference is lower capital gains.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay. Thank you.
 
 Operator
@@ -790,10 +680,7 @@ Thanks. Your next question from Matthias De Wit from Kempen. Please go ahead.
 
 Bloomberg Transcript
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Sorry you still -- would you still like to get some feedback on the capital gains in Belgium. I
 think you had the second follow up question. There were -- I don't think we will give the
 full budget numbers for the year, but what I can tell you is we are quite on track of what is
@@ -803,19 +690,13 @@ scheduled and at this moment they're also fully on track. So we still keep our a
 the operating margin towards the end of the year, which is also within the targets of the
 group.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay, clear.
 
 Operator
 Sorry, now, next question from Matthias De Wit from Kempen. Sir, please go ahead.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Good morning. I've got two questions, please. First is on capital generations. I could just
 come back to the operational SCR movement the decline of EUR30 million, you
 mentioned seasonal items, but is there anything else that you can highlight because I
@@ -839,10 +720,7 @@ your capital generation is to this macro movement? And then just a second questi
 taxation. What should we expect in terms of the effective tax rate following the reforms
 we've seen in Belgium and also taking into account the impact of the reinsurance -internal reinsurance, which could be beneficial? Thank you.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Okay, Matthias, thank you for your questions. Okay. I can indeed only repeat that the main
 aspect is seasonality, and if you look at the movement in SCR, of course on the quarter,
 it's always exaggerated in the free capital generation because in overall it's only a small
@@ -877,15 +755,10 @@ that we give, of course, they're based on the end of year solvency, give a good 
 of the macroeconomic impact that you can expect also on SCR as well as own funds and
 on some free capital generation.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Thank you. And the tax thing?
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
+A - Christophe Boizard {BIO 15390084 <GO>}
 Page 14 of 18
 
 
@@ -913,10 +786,7 @@ concerned, it will be an annual tax return at the end of the year and my expecta
 the net profit of the quota share at the Holding level will give a better image at the end of
 the year. Thank you.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Okay. Thank you.
 
 Operator
@@ -925,10 +795,7 @@ Bloomberg Transcript
 
 Thank you. Next question from Jason Kalamboussis from KBC Securities. Please go ahead.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Yes. Hi. Just quick follow-up questions. The one is on the M&A that was asked earlier. I just
 wanted just to ask, I mean, Portugal that's fine that's in line with what you got, but when
 you're looking at the new country in Europe, I thought that your preference would have
@@ -944,10 +811,7 @@ but are you confident that in the future there is no way that there will be an i
 taxman in a certain way either general to spending a lot of time and that the benefits
 somewhere in the future could run into an issue.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay. Jason, the first question, again, we don't comment on the rumors as. So when we
 said that we might look to a fourth market to find a fourth core activity as far as I know we
 Page 15 of 18
@@ -966,17 +830,12 @@ would be minor knowing that there are three, four big players that have advantag
 that's it. So we didn't mention specifically or exclude specifically other countries. So no real
 concrete things that we can share or we'll share it with the outside world.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Okay. So if I may -- on this one you don't have a preference for a market like Italy. It is
 basically for you every country, it will depend on the opportunities and what you see
 coming in front of you?
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
+A - Bart De Smet {BIO 16272635 <GO>}
 
 Bloomberg Transcript
 
@@ -1001,24 +860,16 @@ completely driven by the Holding. It was, I can -- I'm 100% sure this real marke
 transaction. In any case, the tax authorities are consulted. We are in the process of
 discussing tax ruling, and if we obtain a tax ruling, this will remove all the risk for the future.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 When do you expect to get that tax ruling?
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 On that side, but I really feel confident about the strength of our tax authority. These are
 things which are known in the market. If you go to the UK for instance that is very
 common, this kind of protection arrangement at even much larger scale. So frankly it
 should be okay. But in any case we will have the formal feedback from the tax authority.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 
 Page 16 of 18
 
@@ -1034,30 +885,18 @@ if you want any residual risk even if not this is very remote.
 
 FINAL
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 If we free up, and you risk because once the tax ruling is obtained, the physical
 administration cannot comeback on what the tax ruling states.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Yes, but the tax ruling, when is that in place?
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 It's under way. So there are some delays. So we have to wait for some months but the
 outcome will be known before the end of the year.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Superb. Thank you very much. Very helpful.
 
 Operator
@@ -1068,10 +907,7 @@ Thank you. We don't have any more questions for the moment. (Operator Instructio
 there are no further questions, I would like to return the conference call back to the
 speakers.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay, ladies and gentlemen, thank you for your interesting and strong questions. To end
 this call, let me summarize the main conclusions. Our net result was in line with the strong
 one delivered last year with the exceptionally high result in Asia, offsetting the lower

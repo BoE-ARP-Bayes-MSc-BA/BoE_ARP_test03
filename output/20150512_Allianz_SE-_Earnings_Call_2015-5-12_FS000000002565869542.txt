@@ -31,19 +31,13 @@ for the First Quarter 2015. For your information, this conference is being recor
 time, I would like to turn the call over to your host today, Mr. Oliver Schmidt, Head of
 Investor Relations. Please go ahead, sir.
 
-Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+Oliver Schmidt {BIO 2473131 <GO>}
 Thank you, Christy. Yeah, good afternoon from my side as well and welcome to our
 conference call about the results of the ﬁrst quarter 2015. I think I can keep it brief. We
 have published key numbers already last week. You have seen our analyst presentation
 this morning and for the details, you will now get from Dieter.
 
-Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+Dieter Wemmer {BIO 4755450 <GO>}
 Thanks so much, Oliver, and good afternoon also from my side, and good morning to the
 ones dialing in from The States. I am using the analyst presentation as usually and
 mention from time to time the page numbers in case you get lost.
@@ -389,10 +383,7 @@ our ﬁrst question from James Shuck from UBS.
 
 FINAL
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Good morning. Thanks for taking my questions. I had three questions, please. Firstly, on
 economic capital, I mean obviously, you've managed the development since year-end to
 Q1 to be broadly ﬂat. There's a number of moving parts in there. There's a certain amount
@@ -421,10 +412,7 @@ diﬀerences and the equity diﬀerences. And I suppose there's a sub-set within
 you just talk about the negative experience variance you've had on Allianz Life U.S.
 following the very strong growth there, please? Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Okay, James. Thank you very much. I must say I have to reject the statement about
 subjectivity in the economic model. If this would be our own internal model, yes, there
 would be subjectivity. But this is the model we are going to ﬁle over the next few weeks
@@ -467,48 +455,31 @@ good point. The signs look to me also diﬃcult to interpret. I think we will lo
 67 and maybe send out an updated version of it. We are this quarter a bit short in time
 and I think some of the checks probably missed this. Sorry for that.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
+Q - James A. Shuck {BIO 3680082 <GO>}
 
 Bloomberg Transcript
 
 No, that's ﬁne. That's ﬁne. Could you just clarify on the experience variance on the U.S.
 business, please?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I think that is probably just a trading results out of the hedging, which are not always
 perfect as the uptake of some small base was clear and that is being updated in the
 changes, but that is very small. And that is driven by changes in interest rates that is
 coming from mismatches in the hedging program.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 I guess, my point is on the U.S. We've seen very strong growth coming from Allianz Life.
 And I just want to be sure that that business is behaving as you thought it would do when
 you sold it?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Absolutely. And by the way, there's a positive number.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 It's a negative number, isn't it? Minus €386 million?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Then I'm on the wrong page. I'm on page 67. I look at the €61 million.
 Page 9 of 24
 
@@ -518,37 +489,23 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2015-05-12
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Minus €386 million in point number two.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 FINAL
 
 Sorry. You are on table two.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Yes.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah. I was on table three. Sorry. Yeah. I think that it's – we need to follow up on this
 number. I think the operating proﬁt margins are still all holding up.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Okay. We can take that up later. That's great. Thank you very much.
 
 Operator
@@ -571,10 +528,7 @@ margin in France? Going forward here, is this the new normal? And kind of under 
 situation it will turn out ﬁne, but under new MCEV guidelines you'll be reporting negative
 margins here? Thanks.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Paul, I think the duration management's done for the year. I would not say – we continue
 to look at each OE and will continue to very proactively manage our solvency ratio. But
 certainly, as of today, as you have probably all noticed, the 20-year euro swap curve at the
@@ -615,10 +569,7 @@ go ahead. Your line is open.
 
 Bloomberg Transcript
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, there. I was wondering if you could quantify what would happen if you moved your
 U.S. business to now to two times the level of capital that you're assuming and also if you
 could comment on what BaFin thinks of your U.S. capital assumption that you're making in
@@ -632,10 +583,7 @@ exclude FX? So it was obviously up on an average reserve basis 11%, but it seems
 So, do you think you could've achieved roughly 4% or 5% growth a year in your reserves
 and could you possibly quantify that? That would be really helpful. Thank you very much.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I think if I remember correctly from end of 2014, we had roughly 8% net growth in the
 reserves and half was inﬂow and half was accrued interest. And three months later, the
 situation has not changed a lot because a lot of the inﬂows were from the second half of
@@ -670,47 +618,29 @@ staying away from all this speculation, whether it's factor one, two, three, fou
 because I think that are all debates based on an uneducated view on U.S. statutory
 requirements.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Actually my question was probably a little bit more benign. What I meant was, obviously,
 you must have – I mean, BaFin are not going to be completely surprised when you input
 this model to them because they will have seen it before. Is that correct?
 
 Bloomberg Transcript
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Well, as I said, we are discussing with them all details since more than three years with the
 same team. And actually when we – I also said in the February call, when we changed to
 U.S. equivalent, of course, we had a consultation discussion with BaFin and we are not hip
 shooting.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 And is it a bigger factor if you changed your assumption?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Well, in the end, that would go a few points down.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 And actually probably the gap between internal model and equivalence is, as we speak,
 smaller than at the beginning of the year. I did not do the test, but U.S. interest rates are
 on the rise again, credit spreads came down. So probably end of April number, the
@@ -725,10 +655,7 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2015-05-12
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thank you very much.
 
 FINAL
@@ -737,8 +664,7 @@ Operator
 Thank you. We will now take our next question from Thomas Jacquet from Exane. Please
 go ahead. Your line is open.
 
-Q - Thomas Jacquet
-
+Q - Thomas Jacquet {BIO 4110153 <GO>}
 Hi. Good afternoon. So my ﬁrst question is on the Italian Life new business margin. I'm
 quite surprised to see such a decline in new business proﬁtability, given the fact that you
 have a lot of unit-linked, so do you plan to take actions to restore proﬁtability? Or is it
@@ -747,14 +673,9 @@ your – the management actions you've taken to save the solvency. Can you give 
 of magnitude of the diﬀerent things you've done? And can you specify whether you used
 some hedging techniques and some – buying some options, for example? Thank you.
 
-A - Dieter Wemmer
-
 Bloomberg Transcript
 
-{BIO 4110153 <GO>}
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah. Well, the drop in Life new business margin, it's – I think they have a good new
 business margin on the unit-linked business, but also the classical Italian general account
 business has a small negative new business margin. Why is that? Because the old fund
@@ -769,20 +690,14 @@ part were actually futures, which we executed and which we are using in hedge
 accounting. That means they are not – you are not seeing any derivative impact in our
 P&L.
 
-Q - Thomas Jacquet
-
-{BIO 4110153 <GO>}
-
+Q - Thomas Jacquet {BIO 4110153 <GO>}
 Okay. Thank you very much.
 
 Operator
 Thank you. We will now take our next question from Jon Hocking from Morgan Stanley.
 Please go ahead. Your line is open.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Hey, there. I've got three questions please. Firstly, could you go through the movements
 in the solvency ratio? You were talking faster than my ability to write unfortunately. I think
 
@@ -808,61 +723,37 @@ sort of break out a lower number due to the impact of derivatives. Just wonderin
 can explain what the diﬀerence is between the gross number and the lower net number?
 Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I think with the last question you lost me. What is...
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 So just on slide 23, Dieter, there's...
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 The new investments?
 
 Bloomberg Transcript
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 In brackets, or in the bubble actually. The 2.2% down from 300 (sic) [3%] the prior year,
 and there's a breakout bubble, so in the economic reinvestment yield including
 derivatives.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yes. The duration extension on the new business, when I include also the forwards and
 these are more the AAA government bonds, then that reduces the average new
 investment yield.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 So the model – the economic one, we should be using the 1.7%, that's the number to
 compare going forward, is it?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Well, that in accounting terms in the next number of years, the 2.2% is what materializes.
 Because the 1.7% if you buy it forward during the forward period in hedge accounting,
 that is a zero impact of this one that will only crystallize after the forward period.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Page 14 of 24
 
 
@@ -875,43 +766,28 @@ Okay. Okay. Thank you.
 
 FINAL
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 And so that was this question. Then the Solvency II movements, I think that was – in total,
 the downward changes were 19% and the upward changes up obviously 20%, otherwise
 it's not moving plus 1%. And there is – I think that's mainly the management actions and
 then, of course, including the hybrid, which makes 4 points.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Is it possible to break out a little bit the 19%?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Well, I thought actually more it was our result call and now it's becoming a Solvency II
 seminar. I think you are only using the very detailed disclosures of Allianz to challenge the
 others. That is ﬁne, but I'm actually not sure whether Allianz gets a lot of beneﬁt out of the
 details. It seems that every detail creates only a myriad of further reviews of our model,
 and that is already being reviewed by the regulators.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Okay.
 
 Bloomberg Transcript
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 So the main driver is asset duration. There are some equity hedges in it. There is a better
 matching of our own pension liabilities and things like that. So in each of our Life OEs I
 would say it is a list between ﬁve and 20 smaller actions and it is all adding up. I think it's
@@ -921,17 +797,11 @@ is not a stable number which you calculate once a year and which is only changin
 ﬁve years like Solvency I. And I think that is what you have to learn when interpreting it
 and the companies have to learn to manage it.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Okay. Thank you. And then the duration gap closure, that was up principally on the asset
 side, or was there any liabilities?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I think liabilities are naturally going also slightly up because we are in a convex world, and
 convex actually means that when your credited interest rates goes closer to the
 guarantee, you get closer to the pure native duration calculation of the guarantee. So, as
@@ -947,10 +817,7 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2015-05-12
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Okay. Thank you very much.
 
 FINAL
@@ -959,22 +826,13 @@ Operator
 Thank you. We will now take our next question from Andrew Ritchie from Autonomous.
 Please...
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Hi, there. I promise I wouldn't ask about Solvency II.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I buy you a beer in London for this.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. I'll remember that. The ﬁrst question just on normalized. I noticed the – in the roll
 forward chart of the accident year loss ratio you showed a 1.8% eﬀect of frequency and
 severity excluding NatCat. I think from your comments you would suggest a lot of that is
@@ -983,10 +841,7 @@ just give us a sense as to are there any underlying severity trends?
 
 Bloomberg Transcript
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yes. There is a bit of the weather. But as I also said, in Q1 2014, we were still too optimistic
 on Brazil on Fireman's Fund and also Russia and the whole catch up which happened
 during the quarter during 2014 is of course now embedded also in Q1 2015. So, that has
@@ -997,17 +852,11 @@ that there are all the seasonal eﬀects in loss ratios and, therefore, we usual
 season by season, but for Brazil and Russia that was less of a seasonal eﬀect, that was
 really operational deterioration and that...
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 I guess I just observed in some of the commentary you talked about severity in Italy and I
 think Turkey. I mean is there – what is severity out running in Italy for example?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Well, our claims average is slightly up, that is – and in Turkey as well also on the motor
 side. But that is I think in the – that is probably not baking in a lot here in the numbers.
 Yes, our attritional loss ratio also in Italy is slightly higher than a year ago, and that is not
@@ -1022,37 +871,23 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2015-05-12
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 And frequency is no longer falling presumably?
 
 FINAL
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Frequency is actually slightly lower in Italy. It depends whether you look on MTPL alone or
 whether you look at other MODs. The total frequency in Italy for our book is still a little bit
 lower.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. And then the second question...
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 MTPL is a little bit up.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
@@ -1065,10 +900,7 @@ that still meant that even in your repricing you would still see decent volume g
 maybe just a bit more explanation on what happened to the U.S. would be useful?
 Thanks.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Well, I think, ﬁrst of all, the starting point with last year is a fairly high sales volume. There
 is also a little bit more competition coming in. And the product is in falling interest rates
 less attractive for the customer. Therefore it is not surprising when you increase your fee
@@ -1079,22 +911,13 @@ new business margin is still above our 2% level. And it was in the end a local d
 trade oﬀ between volume and margin, which is okay from a group perspective as long as
 the margin is above 2%.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 So the repricing may aﬀect volumes a bit more, but I guess you get a bit of margin back?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 We get a bit of margin back in the second quarter, yeah.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. Great. Thank you.
 Page 17 of 24
 
@@ -1110,10 +933,7 @@ Please go ahead. Your line is open.
 
 FINAL
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Thanks. I'm afraid I'm not going to merit any kind of beer, but I hope this is a Life
 question. On this Solvency, my understanding, I mean it's very, very high level, it's
 eﬀectively the big trade-oﬀ is that or the big management action involved futures and as
@@ -1135,23 +955,14 @@ last question is on the PIMCO. How much is the – can you give us a rough idea 
 much performance fees is to come, just so we know what ﬁgure to add? Thank you so
 much. And yeah, sorry, no beer.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 No beer, yeah. I think that was indeed a light question on Solvency II. Maybe you get half
 a pint.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 So impact on earnings is very small through the actions. I think some of the shorter dates
 at physical bonds we replaced by longer dated, that was probably the more of – well,
 economically it was probably positive in operating investment income is small change. I
@@ -1191,26 +1002,17 @@ already some good ﬁrst steps on the expenses, certainly paid by restructuring 
 but the restructuring charges will also be oﬀset by €330 million proceeds from ACE, so I
 think that is all balancing out quite well.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 All right. Fair enough.
 
 Bloomberg Transcript
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 And PIMCO, you had a question on the performance fees. Well, in the end when you take
 the midpoint outlook of our Asset Management segment, you can almost easily calculate
 how much performance fee has at least to come.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Okay. That's brilliant and well done on the segregated funds and all that. Really well done,
 that's amazing what you did. Thank you very much.
 
@@ -1218,10 +1020,7 @@ Operator
 Thank you. We will now take our next question from Thomas Seidl from Bernstein. Please
 go ahead. Your line is open.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yes. Thank you. Good afternoon. Three questions, please. I'm also in for a beer, it's only
 on earnings, not on capital. The ﬁrst question is on, I come back to the U.S. Life and also
 maybe Italian Life, and the fact that you repriced the business. From a management
@@ -1250,9 +1049,7 @@ which is not great, but it's still stabilized. My question here is from here is,
 expectations that we basically see a slight upward trend? Or when I just look at the page
 59, overall, it seems to be maybe slightly going down going forward?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Bloomberg Transcript
 
@@ -1299,9 +1096,7 @@ Date: 2015-05-12
 not counting on performance fees. If you add them, then of course we are back to a very
 good cost income ratio.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
+Q - Thomas Seidl {BIO 17755912 <GO>}
 
 FINAL
 
@@ -1311,10 +1106,7 @@ Operator
 Thank you. We will now take our next question from Nick Holmes from Société Générale.
 Please go ahead. Your line is open.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Thank you very much, there. Hi, Dieter. I've got just one question. I'm afraid it's on
 Solvency II, but it's a nice Solvency II question. I wanted to ask, looking positively at what
 Solvency II is doing for the industry, do you think that you will stop writing guarantees in
@@ -1324,10 +1116,7 @@ for the industry overall. Thank you.
 
 Bloomberg Transcript
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yes. That is indeed a nice question on Solvency II. Well, maybe the industry would not
 consider it as a nice question. I don't think that we would stop writing any guarantees. I
 think when you look at our product, Perspektive in Germany, that is exactly our answer to
@@ -1347,16 +1136,11 @@ recover to 6% is very, very unlikely. And also ﬁnancial markets are today much
 volatile than we were all used from previous periods and this volatility is probably more of
 the driver that this 40 years stable guarantees are very diﬃcult to manage.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Thank you, Dieter. So just to clarify, are you actually selling at the moment open-ended
 guarantees in Germany, ones that can extend 20, 30, 40 years.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Page 21 of 24
 
 
@@ -1369,38 +1153,25 @@ To a small extent as everybody else in the market, but I think we do. This is a 
 and highly capitalized balance sheet and it's in our new business I think by far the smallest
 share of all players.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 
 FINAL
 
 Right. And in 2016, would you actually stop altogether writing that type of business?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Look, as we are measuring internally already now for several years under the Solvency II
 regime and we managed the company like in 2016, why would we act next year diﬀerently
 than this year?
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 You cannot start acting under Solvency II on January 1; that will be a bit late. It seems so
 that some people believe they can start next January, but I think that is a bit late.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 
 Bloomberg Transcript
 
@@ -1410,10 +1181,7 @@ Operator
 Thank you. We will now take our next question from Michael Haid from MainFirst Bank.
 Please go ahead. Your line is open.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Thank you very much. Good afternoon. Michael Haid, MainFirst Bank. One question on
 Allianz Leben, certainly Allianz Leben is not amused by the current low interest rate
 environment. So my question is maybe a little bit broad but aside of lengthening the
@@ -1422,10 +1190,7 @@ the situation here? I guess, my question goes into the direction, how can you im
 mortality results or cost results or what other measures can you take or you have already
 taken?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Well, ﬁrst of all, I actually read your study on the German life insurance industry, was the
 very well done and very interesting reading material, Michael. So what can we do in the
 ultra low yield environment? I think we play here our scale and peer advantage. I think
@@ -1451,28 +1216,17 @@ Asset Management is probably the main positive. That does not mean that we are s
 idle on our old successes. We are constantly working on further changes and
 improvements.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 How easy would it be for you to improve the expense result, which, if it's negative, it has
 to be carried...
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 We had the positive expense result.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Okay. Thank you very much.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Bloomberg Transcript
 
@@ -1481,17 +1235,11 @@ And, Christy, we have time for one more question, if there's any.
 Operator
 There are no further questions in the queue.
 
-A - Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+A - Oliver Schmidt {BIO 2473131 <GO>}
 Great. Great. Thanks for joining the call. We say goodbye to everybody and have a very
 nice remaining afternoon.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah. Thanks so much and see some of you in the next days. Thank you. Bye.
 
 Operator

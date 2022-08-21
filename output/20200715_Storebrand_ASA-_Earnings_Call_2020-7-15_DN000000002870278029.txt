@@ -22,10 +22,7 @@ Vegard Toverud, Analyst
 Bloomberg Transcript
 
 Presentation
-Daniel Sundahl
-
-{BIO 20548519 <GO>}
-
+Daniel Sundahl {BIO 20548519 <GO>}
 Good morning, ladies and gentlemen. Welcome to Storebrand's Second Quarter Result
 Presentation. As usual, CEO, Odd Arild Grefstad will go through the key highlights before
 CFO, Lars Loddesol dives deeper into the numbers. At the end of the presentation, we
@@ -33,10 +30,7 @@ will open up for questions and answers. In order to ask your questions, let me r
 that you have to be dialed into the conference call.
 But without further ado, I give the word to CEO, Odd Arild Grefstad.
 
-Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+Odd Arild Gref stad {BIO 5483351 <GO>}
 Thank you, Daniel and warm welcome everyone. The situation in the Norwegian and
 Swedish society and markets following the COVID-19 pandemic has normalized a lot after
 the turmoil in the first quarter. Storebrand continue to experience strong growth in our
@@ -120,9 +114,7 @@ emphasize on how to use end to end digitalization, to reduce risk and for furthe
 reductions.
 And with that, I give the word to our CFO, Lars Loddesol.
 
-Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
+Lars Aasulv Loddesol {BIO 3969188 <GO>}
 
 Bloomberg Transcript
 
@@ -306,10 +298,7 @@ a lower discount rate on future liabilities on the balance sheet. Good cost cont
 strong buffers ensures future profitability.
 You want to say something about Capital Markets Day?
 
-Daniel Sundahl
-
-{BIO 20548519 <GO>}
-
+Daniel Sundahl {BIO 20548519 <GO>}
 Thank you, Lars Aa. Loddesol. Yes the postponed Capital Markets Day that was originally
 scheduled for the second quarter has now been scheduled for the 10th of December. So
 please save the date. And with that we will move over to Q&A. And again, let me remind
@@ -331,10 +320,7 @@ calling from Kepler Cheuvreux. Please go ahead.
 
 FINAL
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you very much. So my first question I guess is on the Solvency ratio. And if we just
 assume the Capital Markets day as they are today, I'm just wondering if you can update us
 or remind us on how you think the 26 points of transitional benefit will develop overtime,
@@ -356,10 +342,7 @@ percentage this quarter was about 10 points higher than it has been in any other
 quarters. So I'm just wondering if you can elaborate a little bit on the dynamics there, is
 that sort of COVID-19 impact or how should we think about that? Thank you very much.
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 All right. Thank you, Peter. I will start-off on the -- on the transition rules. The transition rules
 last 16 years from 2016 until 2032 and they will be linearly reduced from 16 to 32. So in
 that sense, you will have a linear reduction to start-off with from this time and until 2032.
@@ -367,25 +350,17 @@ And then there will be some technicalities depending on how the Unit Linked port
 grows, that can add a cap on the transitional rules, but that is quite -- it's quite hard to
 make a general rule for how that will play into it.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 You are quite --
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Can I follow-up very quickly on that just, I mean we -- can we assume that we sort of quite
 saw from the Unit Linked growth impacting, I'm just thinking if we do see strong growth in
 quarters -- in the future quarters, is there a chance that 26 points could reduce in the
 short-term or are we thinking you can anticipate very long way before if any short-term
 impacts?
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 Page 7 of 18
 
 
@@ -398,23 +373,16 @@ You can see small impact on the transitional rules from Unit Linked growing, but
 going to be large impacts on the solvency transitional rules from that in the short term as I
 can judge it.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 
 FINAL
 
 With respect to --
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Great, Thank you.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 
 Bloomberg Transcript
 
@@ -434,27 +402,18 @@ also has a short-term negative impact on cost or but as you can see the cost lev
 very much under control. But if we were to reduce the growth, we would also benefit from
 lower cost from those sales provisions.
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 There is no -- actually no deferred acquisition cost in our portfolios in Norway when it
 comes to the growth -- strong double-digit growth.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 That's great, thank you very much.
 
 Operator
 Your next question comes in from the line of Hakon Astrup calling from DNB Markets.
 Please go ahead.
 
-Q - Hakon Astrup
-
-{BIO 18861149 <GO>}
-
+Q - Hakon Astrup {BIO 18861149 <GO>}
 Thank you. Good morning. So two questions from me, the first on Solvency, so can you
 remind us of what management actions have they built to improve the solvency ratio from
 the current level and should we expect to implement some of these measures during the
@@ -474,10 +433,7 @@ dividends, so we are quite clear that we don't have the intention to paying divi
 towards dividend payments some based on your dialogue with the regulator, what
 conditions to be met before you need to pay a dividend for 2020. Thank you.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 Okay. With respect to management actions on the solvency, we are continuously looking
 to strengthen the solvency. We want to come back into a position where we can return
 excess capital to shareholders as soon as possible. But with the solvency we have now
@@ -499,34 +455,22 @@ and therefore expected capital generation over time. So we have to balance these
 and optimize these things on an ongoing basis.
 With respect to dividends, I'll leave the word to Arild.
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 Yeah, well, there is a very clear dividend policy in Storebrand. Our Board confirmed the
 dividend policy. We have now solvency ratio that are in the middle of the range from 150
 to 180 to pay a normal dividend. So based on that and that of course guiding has been in
 the market for a long time. And we feel confident and the Board feel confident to be able
 to pay a dividend on the -- based on the result in 2020 in 2021.
 
-Q - Hakon Astrup
-
-{BIO 18861149 <GO>}
-
+Q - Hakon Astrup {BIO 18861149 <GO>}
 Okay. Thank you.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 I believe also that you mentioned the regulator, the regulator has been quite explicit on
 trying to stop dividends for 2019 to be paid in 2020. And as you know, the Board has
 recommended and the General Assembly has already accepted this for Storebrand.
 
-A - Kjetil Krokje
-
-{BIO 20060140 <GO>}
-
+A - Kjetil Krokje {BIO 20060140 <GO>}
 Page 9 of 18
 
 
@@ -538,9 +482,7 @@ Date: 2020-07-15
 And this is of course a general rulings for all life insurance companies -- insurance
 companies and banks in the Norwegian market and also in Europe.
 
-Q - Hakon Astrup
-
-{BIO 18861149 <GO>}
+Q - Hakon Astrup {BIO 18861149 <GO>}
 
 FINAL
 
@@ -550,10 +492,7 @@ Operator
 Your next question comes from the line of Blair Stewart calling from Bank of America. Blair,
 Please go ahead.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Thank you. My questions have mainly been answered really, just maybe two straight
 questions really, just on the credit side you talked I think largely your concluding comments
 about Norwegian credit and credit risk in the portfolio has changed. Have you seen any
@@ -571,31 +510,20 @@ And may be an awkward question at this time, but are you still -- do you still h
 inclination or a desire to repay that full year '19 dividend that you didn't pay, I think you
 previously said that you would like to make good to that payment, but how does that -how does that view stand at the moment given where we are today. Thank you.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 Okay. On the credit risk, we don't see any significant downgrades in the portfolio. And in
 the previous quarter we also showed some sensitivities to rating migration in the
 portfolio, which was probably lower than in many other -- for many other competitors. But
 as I said, no significant downgrades and no deterioration in the credit portfolio as we see
 it right now.
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 And the average trading all the portfolios are still AA minus for credit. When it comes --
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Thanks.
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 
 Page 10 of 18
 
@@ -617,22 +545,13 @@ if the markets really turns into a extremely good situation I think for us, then
 see growth in the interest rate levels at the end of the year that might open up an
 opportunity, but our plan A is to pay the dividend for 2020 in 2021.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Okay. Great, thanks very much. Enjoy your holidays.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 Thanks.
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 Thanks.
 
 Operator
@@ -642,10 +561,7 @@ Bloomberg Transcript
 The next question comes in from the line of Jan Erik Gjerland calling from ABG. Please go
 ahead.
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Yeah, good morning. Jan Erik Gjerland from ABG. You have said that you're managing your
 back book very well and you have continued to be able to buffer at this stage. And so how
 should we read this deferred capital contribution increase in Sweden, is that something
@@ -653,10 +569,7 @@ that should return if volatility adjustment go the other way around. And how sho
 review it in terms of the buffer levels or is that something you would like to keep on the
 book for rate any day. That's my first question.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 Jan Erik, when the return is insufficient in a quarter, we have to inject deferred capital
 contribution in the Swedish portfolios. Then the next quarter, if the return is sufficient to
 take that back, we take it back. So this is a mechanism in Sweden, which makes it possible
@@ -666,9 +579,7 @@ to the (inaudible) as it is called in Swedish is a mechanism that allows us to h
 long-term investment strategy. And we will and then we will get that back when if returns
 are more -- are back the next quarter.
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 
 Page 11 of 18
 
@@ -685,31 +596,20 @@ shown in the results going forward.
 
 FINAL
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 So that might come back as actually a profit sharing in the quarters to come as you have
 107 for some consolidation ratio, I could see?
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 Yes, we are just on the edge there on the level with 107. So it's very much dependent on
 the development now in the third quarter.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 And in general, we can say that we have roughly 70 basis points spread between the
 expected return of the assets and the expected return on the liabilities in the Swedish
 business.
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 
 Bloomberg Transcript
 
@@ -717,10 +617,7 @@ On the cost side was very possibility -- was it kind of sort of COVID-19 lack of
 of activity or in the industry sort of is a non-recurring saving in the quarter which is you
 think they can come back in the quarters ahead or is this the new level this 975?
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 Well, there are certain elements that are related to the COVID situation and lower activity
 in the market. So for example there has been lot much less travel and much less
 marketing in the quarter. That said, we have implemented cost programs over time in
@@ -729,18 +626,12 @@ make sure that the 2020 cost level is below the 2018 cost level. And these -- th
 measures will take effect throughout the year and we expect to continue to have a cost
 level which is therefore very much on the control in the coming quarters.
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Okay. Can you at least update us on the one pension account, is it coming from the 1st of
 January as the plan was or is it sort of coming during 2021? And obviously and update us
 on the one pension accounts in Norway?
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 In Storebrand, we are planning that for coming in the first quarter of 2021 and we are
 following our schedule and we'll be ready to meet that time frame. We know there is
 some discussion in the market around some delay, so it might be some delay, maybe
@@ -755,9 +646,7 @@ Company N ame: Storebrand ASA
 Company Ticker: STB N O Equity
 Date: 2020-07-15
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 
 FINAL
 
@@ -766,10 +655,7 @@ how you look at these transition rules versus non-transitional rules and on the 
 they're looking at the -- with or without or both when they look at the dividend proposal
 and what is the Board looking at?
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 I think we look at the full set of cost numbers here, but when you look at the total solvency
 number of 163, there is a lot of elements in there, it's volatility adjustment, it's transitional
 rules and this will vary from time-to-time. So we look at the total solvency number and the
@@ -777,16 +663,10 @@ development in that number and that is also what we of course discuss with our B
 and all the movements within it and we report all these numbers also of course to the
 regulator.
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Okay, thank you for your answers. Have a good summer.
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 Good summer.
 
 Bloomberg Transcript
@@ -795,20 +675,14 @@ Operator
 Your final question in the queue comes in from the line of Thomas Svendsen calling from
 Nordea Markets. Thomas, please go ahead.
 
-Q - Thomas Svendsen
-
-{BIO 6070863 <GO>}
-
+Q - Thomas Svendsen {BIO 6070863 <GO>}
 Yes, good morning, a question on the Norway Defined Benefit. The results there has
 been much lower the first two quarters in 2020 compared to what used to in 2019. I know
 it's logical, it's declining, but could you give some sort of guidance or do you see as a
 normal results there going forward maybe in relation to the 287 million you booked for
 the full-year 2019?
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 Yes, the Defined Benefit in Norway, we -- the large -- the last large client we had on
 Defined Benefit in Norway converted to defined contribution scheme on January 1st. So
 that's the main reason why premiums have fallen significantly and also AUM has fallen in
@@ -828,9 +702,7 @@ Company N ame: Storebrand ASA
 Company Ticker: STB N O Equity
 Date: 2020-07-15
 
-Q - Thomas Svendsen
-
-{BIO 6070863 <GO>}
+Q - Thomas Svendsen {BIO 6070863 <GO>}
 
 FINAL
 
@@ -840,10 +712,7 @@ into the reserves in Q2 and have you seen any trend shifts or how confident are 
 you will not come back in Q3 or Q4 with an other strengthening all the reserves given
 what you see right now?
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 We did our thorough run through of the portfolio in the first quarter. And of course what
 you see in the market and layoffs in the market that has really been reduced a lot during
 the second quarter. So the market turnaround when it comes to unemployment and so on
@@ -855,10 +724,7 @@ off and to get into disability situation. So there is nothing changed based on t
 have seen during the second quarter and we of course feel confident on the reservation
 we have in place.
 
-Q - Thomas Svendsen
-
-{BIO 6070863 <GO>}
-
+Q - Thomas Svendsen {BIO 6070863 <GO>}
 Okay, thank you.
 
 Bloomberg Transcript
@@ -867,19 +733,13 @@ Operator
 We do have some questions coming through. The next question comes in from the line of
 Vegard Toverud calling from Pareto Securities. Please go ahead.
 
-Q - Vegard Toverud
-
-{BIO 17129809 <GO>}
-
+Q - Vegard Toverud {BIO 17129809 <GO>}
 Hello. I also have some questions here on solvency. I wondered if you could give us some
 more details on the 6 percentage point impact from asset allocation. And how potentially
 you see that developing into the next quarter. That's the first. I have a couple of follow-up
 questions as well.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 Yeah. If you go into the -- in the appendix of the quarterly presentation, you can see that
 in the end of the first quarter, we had a quite strong increase in money market and cash,
 that was a result of the turbulence in the market, our sell down in equities and the need to
@@ -902,10 +762,7 @@ Date: 2020-07-15
 
 FINAL
 
-Q - Vegard Toverud
-
-{BIO 17129809 <GO>}
-
+Q - Vegard Toverud {BIO 17129809 <GO>}
 Okay, thank you very, very clear. And you have discussed the difference between the
 transitional arrangement and underlying solvency, you are looking at it, the Board has
 presented and discussing it and I believe if you guess previously as I say also has also
@@ -914,20 +771,14 @@ discussions have been had on the number of transitional arrangements, has there 
 any anchoring towards any specific numbers such as 100% or 135% [ph] or has there not
 been any such anchoring?
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 This is the discussion we have had in our Board and as you see from our capital
 framework, we have put forward normal dividends between 150 to 180. There is some
 reduction in the dividend down to 130 and that is the capital management we have put
 forward and that has not been discussed in detail with the regulator, but it's the guiding
 that has been there and is still the guiding we give for dividends.
 
-Q - Vegard Toverud
-
-{BIO 17129809 <GO>}
-
+Q - Vegard Toverud {BIO 17129809 <GO>}
 I understand that and I believe also that the number with the transition is the most
 important number here. But still as you told those yourself earlier that the number also
 without transitional arrangements are being discussed. When you are discussing it, are
@@ -936,10 +787,7 @@ arrangement as well?
 
 Bloomberg Transcript
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 No, but the only thing I have said is that when we discuss the level of our capitalization as
 we did actually when we look just five, six months back in time and discuss the level of
 180% to start doing share buybacks, of course, then you don't have to have a too large
@@ -947,18 +795,12 @@ discrepancy between the total solvency number and the one without transitional r
 that just comes with the Board's view of being overcapitalized, that's the only discussion I
 had around these two numbers.
 
-Q - Vegard Toverud
-
-{BIO 17129809 <GO>}
-
+Q - Vegard Toverud {BIO 17129809 <GO>}
 Okay, thank you very much. And then just lastly, could you give us some update on
 estimates now on what the solvency built will be going forward per annum preferably with
 or without business?
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 Well, if you give me the numbers of the market development, I can of course give you
 that. So, but you know what we have said is that 10% to 12% creation of solvency capital on
 annual basis, half of that approximately will be given into dividend, that is normalized
@@ -982,69 +824,44 @@ over time compared to what you see just now.
 
 FINAL
 
-Q - Vegard Toverud
-
-{BIO 17129809 <GO>}
-
+Q - Vegard Toverud {BIO 17129809 <GO>}
 And okay, so but to give you a number, if you are saying that you are building 10 and
 you're using five for normal dividend and you are using then maybe two to three to
 account for the lower impact from the transitional arrangements, that would mean that
 you're building 2 percentage points to 3 percentage points on solvency capital going
 forward per annum given that the market stayed the same.
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 I'm not sure I understood that transitional rule discussion both.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 Yeah, I think, no, I think got what you're trying to -- the calculation you were doing, Vegard,
 but I think -- I think I'm going to leave it up to you to make that projection as a part of your
 analysis as we haven't guided kind of specifically on that movement going forward.
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 
 Bloomberg Transcript
 
 And I think the most important is that --
 
-Q - Vegard Toverud
-
-{BIO 17129809 <GO>}
-
+Q - Vegard Toverud {BIO 17129809 <GO>}
 Thank you very much.
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 Okay.
 
-Q - Vegard Toverud
-
-{BIO 17129809 <GO>}
-
+Q - Vegard Toverud {BIO 17129809 <GO>}
 Have a nice summer.
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 Have a nice summer.
 
 Operator
 We have another question coming through from the line of Blair Stewart calling from Bank
 of America. Please go ahead.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
+Q - Blair Stewart {BIO 4191309 <GO>}
 
 Page 16 of 18
 
@@ -1069,10 +886,7 @@ that dividend was the right thing to do. I just wonder what circumstances would 
 be in place for it to be the right thing to do not to pay the full year '20 dividend. Thank
 you.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 If I start with the yield question, we were able to -- in the beginning of the COVID-19
 situation to find ill-liquid bonds where we could invest in good credit bonds at around 3%
 yield. We are not able to find those kind of investments anymore, but as we did a fair
@@ -1080,18 +894,13 @@ chunk of -- we front loaded our reinvestments in bonds at amortized cost in the 
 of this crisis in March and April at which time we were able to find bonds on average
 around 3% yield. So that's the answer to that.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
+Q - Blair Stewart {BIO 4191309 <GO>}
 
 Bloomberg Transcript
 
 Thanks.
 
-A - Odd Arild Gref stad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Gref stad {BIO 5483351 <GO>}
 When it comes to the COVID-19 situation, well, things seems to be in very good control in
 Norway these days. I think last time I looked at this, we have six or seven people
 altogether in hospital based on the pandemic. And of course we have again say plans to
@@ -1108,10 +917,7 @@ postponed the dividend -- they canceled the dividend. We don't expect that to ha
 for 2020. So when we see this solvency numbers in the middle of our guidings, we feel
 confident and the Board feel confident about dividend payments for 2020 into 2021.
 
-A - Lars Aasulv Loddesol
-
-{BIO 3969188 <GO>}
-
+A - Lars Aasulv Loddesol {BIO 3969188 <GO>}
 I think, Blair, if I understood you right, you said what kind of circumstance would happen for
 us to actually pay a dividend for 2019? And the 2019 dividend has gone. But if we were to
 Page 17 of 18
@@ -1130,19 +936,13 @@ should see the 2019 dividend has gone and focus being now on 2020 dividends and 
 getting back into returning capital or a level of solvency which will allow us to return excess
 capital to shareholders.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Okay, very clear. Thank you.
 
 Operator
 We have no further questions in the queue. (Operator Instructions)
 
-A - Daniel Sundahl
-
-{BIO 20548519 <GO>}
-
+A - Daniel Sundahl {BIO 20548519 <GO>}
 So, I don't believe there are any further questions. We have reached the end of this
 presentation. Thank you very much for listening in and I wish you all a very nice summer.
 Bye-bye.

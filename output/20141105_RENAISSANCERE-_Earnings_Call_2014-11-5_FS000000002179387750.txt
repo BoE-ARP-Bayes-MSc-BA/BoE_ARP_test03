@@ -33,10 +33,7 @@ Results Conference Call. All lines have been placed on mute to prevent any backg
 noise. After the speakers' remarks, there will be a question-and-answer session.
 Thank you. Peter Hill, you may begin your conference.
 
-Peter Hill
-
-{BIO 1828241 <GO>}
-
+Peter Hill {BIO 1828241 <GO>}
 Good morning and thank you for joining our third quarter 2014 financial results conference
 call. Yesterday, after the market closed, we issued our quarterly release. If you didn't get a
 copy, please call me at 212-521-4800 and we'll make sure to provide you with one.
@@ -116,10 +113,7 @@ deploy it at adequate rates of return. In that same vein, we will utilize ceded 
 optimize the return profile of our book of business.
 At this point, let me turn the call over to Jeff.
 
-Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+Jeffrey D. Kelly {BIO 1390834 <GO>}
 Thanks, Kevin, and good morning, everyone. I'll cover our financial results for the third
 quarter and year-to-date and then finish by giving you our top line forecast for 2015.
 
@@ -327,9 +321,7 @@ Operator
 Your first question comes from the line of Vinay Misquith with Evercore ISI. Your line is
 open.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
+Q - Vinay Misquith {BIO 6989856 <GO>}
 
 Bloomberg Transcript
 
@@ -350,10 +342,7 @@ the previous call as well, that lowered returns in the low cat scenario. But we 
 decisions we made across the full distribution of outcomes are the right decisions to
 maximize risk-adjusted returns.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 So do you still think that you can generate a double-digit ROE in a normalized cat year?
 
 A - Kevin J. O'Donnell
@@ -374,10 +363,7 @@ provide adequate risk-adjusted returns.
 
 FINAL
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. The second question was on the Specialty and Lloyd's businesses. Curious as to
 what combined ratios you're targeting in that. In the Specialty, I believe, you were thinking
 maybe low 80%s. I mean, is that still the case, given the softness in the market? And also
@@ -403,20 +389,14 @@ we're keenly focused on. We do recognize that one of the moving components that 
 reduced economics in the Specialty book is not so much the underlying book's moving,
 but the increase in ceding commissions. And we're carefully monitoring that.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. Thank you.
 
 Operator
 Your next question comes from line of Josh Shanker with Deutsche Bank. Your line is
 open.
 
-Q - Joshua D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua D. Shanker {BIO 5292022 <GO>}
 Yes. Thank you. I listened to your comments, Kevin, at the end about responding to your
 clients' needs. But given the long history of RenRe, what kind of talent does RenRe have
 in casualty that we should think that RenRe can write it better than other people?
@@ -445,10 +425,7 @@ that we are – the book is younger. The book is changing more than the cat book
 point in time with growth initiatives that we have. But it's one that I feel very confident will
 continue to outperform the industry.
 
-Q - Joshua D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua D. Shanker {BIO 5292022 <GO>}
 Can you give me a few details? I mean I would argue, given my limited knowledge, that
 the technology at RenRe is clearly superior in the cat space to many of your competitors.
 How do you get a technological edge in the casualty space?
@@ -468,20 +445,14 @@ of the partners who we think are the best casualty writers on the primary side. 
 different strategy that we're employing from a risk selection standpoint, but it's the same
 strategy from a capital allocation standpoint.
 
-Q - Joshua D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua D. Shanker {BIO 5292022 <GO>}
 And are there implications for your investment portfolio? You've always been very short.
 You've been able to take market risk where others haven't, given the nature of what has
 been a very, very short tailed book that's been – had a lot of liquidity requirements. If
 things grow the way you think they are going to grow, what is RenRe's investment
 portfolio going to look like in two or three years?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Josh, this is Jeff. So, I think, you've actually hit on the two components that are likely to
 change a bit. The first is, as the reserve book at least has a longer duration, I'd expect to
 see a generally longer duration in our investment portfolio over time. Without getting to
@@ -506,28 +477,16 @@ time a bit less – a couple of components in the investment portfolio that coul
 less liquid. But I wouldn't necessarily ascribe, at least at this point, any other investment
 components that would be terribly different than our current risk profile.
 
-Q - Joshua D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua D. Shanker {BIO 5292022 <GO>}
 Okay.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Increased credit risk or anything else.
 
-Q - Joshua D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua D. Shanker {BIO 5292022 <GO>}
 That makes sense. And good luck in the new year.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Thanks Josh.
 
 A - Kevin J. O'Donnell
@@ -539,10 +498,7 @@ Thanks Josh.
 Operator
 Your next question comes from the line of Josh Stirling with Sanford. Your line is open.
 
-Q - Josh C. Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh C. Stirling {BIO 17463087 <GO>}
 Hi. Good morning and thanks for fitting me in right behind Josh. So I was wondering if you
 could walk us through, I guess, maybe, Kevin or Jeff, how we should think about capital
 returns over the next two years. Big picture, is this something primarily you think will be
@@ -553,10 +509,7 @@ financial arbitrage or sort of accretive thing to do. Or you like being the size
 because you want to maintain flexibility and be able to respond after a storm and to keep
 the really high AA rating you have. Thank you.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Okay. Josh, this is Jeff. I'll start off and then let Kevin add in. I think there is a lot of
 hypotheticals in terms of how we think about returning capital over the next couple of
 years. And those would depend on the obvious things like cat loads and specific events as
@@ -596,10 +549,7 @@ integrated and collaborative way.
 
 Bloomberg Transcript
 
-Q - Josh C. Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh C. Stirling {BIO 17463087 <GO>}
 That's really helpful. Thank you. Kevin, I wonder if I might just follow-up. In your intro
 comments you mentioned, sort of, terms and conditions as an area to watch. I am
 wondering if you can give us a bit of an education about what, sort of, terms and
@@ -649,9 +599,7 @@ believe, going forward, we'll need to react more quickly, probably with less inf
 order to continue to execute against opportunities that jump into our market for whatever
 reason.
 
-Q - Josh C. Stirling
-
-{BIO 17463087 <GO>}
+Q - Josh C. Stirling {BIO 17463087 <GO>}
 
 Bloomberg Transcript
 
@@ -664,10 +612,7 @@ Operator
 Your next question comes from the line of Michael Nannizzi with Goldman Sachs. Your line
 is open.
 
-Q - Michael S. Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael S. Nannizzi {BIO 15198493 <GO>}
 I guess, Kevin, one thing I was trying to understand a little bit is thinking about conditions
 in the Lloyd's and specialty business, sort of, relative to the opportunities you see on the
 cat side. Because, clearly, on the cat side, you're shrinking because you feel like the risk
@@ -699,10 +644,7 @@ otherwise cat-dominated portfolio. So, it's kind of apples and oranges as to why
 seeing greater opportunity in specialty and seeing fewer opportunities in cat. Does that
 answer your question?
 
-Q - Michael S. Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael S. Nannizzi {BIO 15198493 <GO>}
 It does. I guess sort of thinking – I mean I realize, and appropriately you guys look at the
 world from a risk-adjusted return perspective and that makes a lot of sense. But looking at
 it from the outside, from a pure GAAP perspective, it would seem that the notional
@@ -727,20 +669,14 @@ manage returns on that basis. But it's kind of all of those three things working
 collaboration, trying to come up with what's the right mix on the gross portfolio.
 Obviously, on the net portfolio, we're doing some other things to manage that as well.
 
-Q - Michael S. Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael S. Nannizzi {BIO 15198493 <GO>}
 Got it. Great. Thanks. And then just one, if I could, for Jeff. You mentioned sort of
 guidance on premiums next year. Could you talk a little bit about how you think about that
 in terms of exposures or just impact from pricing? And should we think about cessions,
 the ceded levels, similarly to the way that we've seen 2014 develop, if you can? Thank you
 so much.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Well, I think I'll let Kevin talk about the mix of expected exposure changes and pricing. I'd
 say it's mostly consistent with changes in price that we're seeing. But on your other
 question, I think – I think I just forgot what your -
@@ -753,41 +689,26 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2014-11-05
 
-Q - Michael S. Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael S. Nannizzi {BIO 15198493 <GO>}
 I was saying like net versus – so, in terms of ceded premiums versus in 2015 and we
 talked about kind of managed cat down 10%, just trying to think about the other part of
 that that gets you to the net number.
 
 FINAL
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Yeah. Thanks, Mike.
 
-Q - Michael S. Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael S. Nannizzi {BIO 15198493 <GO>}
 Sure.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 We don't have budgets for ceded purchases. So there is some volatility in that, both on a
 quarterly basis and an annual basis. And it will just be a matter of how attractive we think
 ceded purchases are next year. So we don't really have any budget at all for them at this
 point.
 
-Q - Michael S. Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael S. Nannizzi {BIO 15198493 <GO>}
 Got it. Great. Thank you so much.
 
 A - Kevin J. O'Donnell
@@ -799,19 +720,13 @@ Great. Thanks.
 Operator
 Your next question comes from the line of Amit Kumar with Macquarie. Your line is open.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Thanks and good morning. Two quick follow-up questions. The first question relates to the
 discussion, I guess, in the opening remarks. You were talking about a higher level, I guess,
 of attritional losses. And I think what would be helpful is if you could break out those
 numbers, so that we could compute the normalized ROE.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Okay. Hang on just a sec. I had a couple of – okay. At Lloyd's, we had our losses, there
 were about $6 million – I think, as I said about $6 million in crop hail losses. And we had a
 few million dollars related to a couple of wind storm events during the quarter, which
@@ -820,9 +735,7 @@ increase in losses at Lloyd's. And specialty, the biggest singling group related
 was three aviation events, which all-in-all totaled a little over $10 million. And then we had
 some additional crop losses there as well, of about $3 million, I think. $3 million, yeah.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
+Q - Amit Kumar {BIO 19777341 <GO>}
 Page 14 of 24
 
 
@@ -861,10 +774,7 @@ market that we've executed into for a long time. So, I don't feel as if it's as 
 I'm sitting in this seat as potentially you're suggesting it is. It feels very organic and very
 much natural to what we've always done. Does that – any other -
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Yeah. That answers my question. Thank you for that clarification. Thanks and good luck for
 the future.
 
@@ -875,10 +785,7 @@ Operator
 Your next question comes from the line of Jay Cohen with Bank of America Merrill Lynch.
 Your line is open.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Yes. Thank you. A couple questions. I guess, first, in the specialty business, the acquisition
 expense ratio went up quite a bit. And you talked about the change of business mix and
 the higher ceding commissions. My question is if the business mix doesn't change, is that
@@ -904,19 +811,13 @@ business mix or in the ceding commission that I would highlight. Just simply wha
 of the book is XOL and what percent of the book is quota share is probably the more
 natural thing to look at?
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 So, not a bad number to use going forward all else being equal?
 
 A - Kevin J. O'Donnell
 That's probably a reasonable guess. Yes.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Okay. Second question. I guess on the cat book, so your guidance is for down 10% and
 again it does suggest discipline. By showing that discipline and, again, assuming your
 market conditions shall be getting a bit worse, do you think you can maintain expected
@@ -933,27 +834,18 @@ return that we're keeping on a net basis for both ourselves and our partners. So
 difficult question to answer, because there is a lot of levers that we have to pull between
 our gross book, our net book and then the options for how we construct the two.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Now that's fair. If I could sneak one just really quick numbers question. The amount of
 capital you have at Lloyd's?
 
 A - Kevin J. O'Donnell
 Yeah. Why don't we -
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Yeah. Why don't we come back to that one? Let's – give us just a minute to check on it.
 We'll come back to you.
 
-Q - Jay A. Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay A. Cohen {BIO 1498813 <GO>}
 Perfect. Thanks, Jeff.
 Page 16 of 24
 
@@ -969,19 +861,13 @@ open.
 
 FINAL
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Thanks. Good morning, everybody.
 
 A - Kevin J. O'Donnell
 Good morning.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 I was just wondering if we could get a little better breakdown of what's actually in the
 specialty book. I know you guys kind of note there is some casualty in there and some
 specialty in there. And, obviously, we know there has been some mortgage insurance
@@ -990,10 +876,7 @@ what's specialty and what's casualty in that segment?
 
 Bloomberg Transcript
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Well, I think, let me just start with perhaps where the change came kind of year-over-year.
 So in the specialty book, I would say probably most of the growth came in various casualty
 lines, so professional lines, casualty clash, things like that. In terms of where they have
@@ -1011,10 +894,7 @@ thing – we probably have a bigger percentage of quota share now than we did tw
 ago. And I'd anticipate that the quota share element of the book may continue to rise a
 little faster than the XOL.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 And then just the region of – where is the U.S. as a percentage of that book to? Just trying
 to figure out, I guess, for some sort of tax purposes as well.
 
@@ -1030,10 +910,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2014-11-05
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 The amount that you're writing on your U.S. platform.
 
 A - Kevin J. O'Donnell
@@ -1043,10 +920,7 @@ FINAL
 Yeah. Let me just – I'm not sure if that's a number that we've given out previously. But it's
 a new platform, I would put it in. It's still less than $50 million. It's about $40 million or so.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Great. And then just one bigger picture question. Again, we think about RenRe, we think
 of great ROEs, but, again, potentially volatile going anywhere from negative 5% to 25%
 ROEs. But now, I guess, with the business mix shift and obviously rates coming in, but also
@@ -1070,20 +944,14 @@ So I think, thinking into the future, if the world were in a different state and
 where they were in 2007, you would see a much bigger cat book. And we'd still have all
 the initiatives going on the specialty side. It would just be a smaller percentage.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Okay. Great. Thanks for the answers, guys.
 
 Operator
 Your next question comes from the line of Mark Dwelle with RBC Capital Markets. Your
 line is open.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Yeah. Good morning. I guess my question is actually somewhat similar to the last one, but
 oriented towards the Lloyd's book. I mean now that's about 25% of net premiums and
 continues to be the biggest growth driver. What are the main lines of business that you're
@@ -1102,10 +970,7 @@ update.
 
 FINAL
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 Yeah. I'll comment, again, on where we saw growth particularly in the third quarter. But I
 think this is pretty consistent with where it has occurred over the course of the year. So
 part of the growth – the largest part of the growth has been in various casualty lines, so
@@ -1131,31 +996,19 @@ So, in general, it looks reasonably similar to the other specialty that we're wr
 a small component of insurance in it and it's one in which we'll continue to seek some
 diversification there, because it provides an advantage for your funding at Lloyd's.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Thank you. That's a good update. And then one other question, just within the – the
 hedge portfolio took a loss during the quarter which isn't unprecedented, but it is unusual.
 Is there any more detail you could provide related to that? Maybe what type of strategies
 are or whether it's a particular portfolio or more than one?
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 You're talking about the private equity portfolio in particular?
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Correct. Yes.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 No. I don't think there is anything – I think the broader equity markets were pretty flat with
 some volatility in the quarter. I don't think there was anything in particular to point to with
 that.
@@ -1167,30 +1020,19 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2014-11-05
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 
 FINAL
 
 The returns in the book were just generally lower, flat to slightly down.
 
-Q - Mark A. Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark A. Dwelle {BIO 4211726 <GO>}
 Okay. That's all my questions. Thanks.
 
-A - Jeffrey D. Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey D. Kelly {BIO 1390834 <GO>}
 And just returning to a question, I think, Jay, asked about capital at Lloyd's. I think, as a
 general proxy, Jay, the number we'd probably point you to is about $370 million.
 
@@ -1199,10 +1041,7 @@ Your next question comes from the line of Kai Pan with Morgan Stanley. Your line
 
 Bloomberg Transcript
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you. Good morning. So, first question is on the expense ratio side. If you look at the
 property cat expense ratio drifting high from low 20%s to the mid-20%s, this is
 understandable given the premiums decline. So just wonder in this current environment,
@@ -1219,10 +1058,7 @@ our systems but we're also being very mindful as to kind of how and where we're
 spending money to make sure that it's managed appropriately, but there's not much
 more than that I would say at this point regarding expenses.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. It's great. Then, in your opening remark, you talk about your active return to both
 shareholders as well as third-party investors. That's kind of in contrast to as many of the
 peers actually growing their sidecar, third-party capital management business. You have
@@ -1256,10 +1092,7 @@ standalone returns are still appropriate for certain types of capital. I think t
 instances where the capital on a standalone basis is not suited for what we believe to be
 any capital. And that's where the difficulties will emerge over time.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. That's great. Lastly – thank you for reminding us that there are risks out there you
 hadn't had in nine years. But just wondering, given the sort of influx of return on capital,
 especially for the pension fund, the hedge funds, what's the prospects, even if we have
@@ -1272,10 +1105,7 @@ Bloomberg Transcript
 A - Kevin J. O'Donnell
 So I guess your question is, is there still cycles?
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Yes.
 
 A - Kevin J. O'Donnell
@@ -1300,10 +1130,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2014-11-05
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you so much and good luck.
 
 A - Kevin J. O'Donnell
@@ -1315,10 +1142,7 @@ I appreciate it. Thanks.
 Operator
 Your next question comes from the line of Ian Gutterman with Balyasny. Your line is open.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Hi. Thank you. Kevin, I guess one numbers question and then one question on the market.
 Just looking at your results this quarter and last quarter on an accident year basis, it's
 been about a high 60%s combined. And you mentioned obviously some attritionals. But
@@ -1336,10 +1160,7 @@ the book is going to look like. So I think you can go back over any period of ti
 come up with that mix and use that to forecast forward. It's not a number that we give
 guidance on.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Fair enough. I was trying to simplify. I was doing what you suggested and then I came to a
 simple answer and was hoping to confirm it, but that's okay. And then on the market, I was
 hoping you could expand a little bit on supply and demand and maybe if I can sort of see
@@ -1387,9 +1208,7 @@ cat bonds. But looking at the returns for cat bonds and how they've shifted down
 over time, I think there's a material shift in the economics there and it's one in which I'm
 sure investors are going to look at carefully upon new issuance.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 
 Bloomberg Transcript
 

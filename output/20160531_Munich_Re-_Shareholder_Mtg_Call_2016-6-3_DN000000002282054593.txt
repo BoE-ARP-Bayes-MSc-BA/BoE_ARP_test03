@@ -39,9 +39,7 @@ Today's conference is being recorded.
 At this time, I would like to turn the conference over to Mr. Christian Becker-Hussong.
 Please go ahead, sir.
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+Christian Becker-Hussong {BIO 19080254 <GO>}
 
 Page 1 of 37
 
@@ -62,10 +60,7 @@ After approximately, let's say around 40 minutes we will start with the Q&A and 
 close this call by approximately 5:00 PM at the latest.
 So Markus, please go ahead.
 
-Markus Rie
-
-{BIO 1835270 <GO>}
-
+Markus Rie {BIO 1835270 <GO>}
 Thank you very much. Good day. I will limit myself to 20 minutes, because I understand
 that the financial impact of this program is of the at most importance and that's why I'd
 like to leave the floor to Jurecka and Jorg Schneider by this point in time.
@@ -357,10 +352,7 @@ November. So you can expect the new strategy statement in this regard by the end
 transfer -- I will now transfer to Christoph Jurecka, who will tell you something more about
 the financials. Thank you.
 
-Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+Christoph Jurecka {BIO 17223019 <GO>}
 I'll take it from here, and give you a quick overview over the financial impact of our
 program. I'll start on page 24. And the headline of page 24 could be that our ambition is
 to grow above market starting from 2019. When we start on the left-hand side of the
@@ -555,10 +547,7 @@ So on balance, the ERGO Strategy Program is a big plus for ERGO itself and for t
 as a whole.
 And with that, I hand back to Christian for the Q&A.
 
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you. Nothing to add from my side. Happy to take the first question. Now just my
 usual housekeeping remark before we get started. Please limit the number of your
 questions to a maximum of two per person in order to give everybody a fair chance to
@@ -572,10 +561,7 @@ Bloomberg Transcript
 Thank you, sir. (Operator Instructions) Our first question comes from Sami Taipalus from
 Berenberg. Please go ahead, your line is open.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Hi, good afternoon, everyone. Thanks for taking my question. The first one, I've got two at
 the maximum [ph], the first one is on economic cap, I was a bit surprised to not see
 anything in the presentation or had for the broader discussion about what the impact of
@@ -589,10 +575,7 @@ organizational structures there, if there also something that you can do on the
 commission side here, I mean, it just seems to me that an awful lot of things have
 changed in the market, but the commission structures haven't changed very much yet.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yes. Christoph here. I'll take the first. Economic capital is, you're right that something we
 did not really cover in the presentation. Economic capital calculations are based on
 projections of future earnings, so, Solvency II for example is based on that. And if you see
@@ -612,10 +595,7 @@ the very often discussed life companies.
 
 FINAL
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Just if I look at your plans there, you're doing quite a lot to change in your business mix
 and you're also talking about some work on the in-force business. And if I just look at
 another company based in Munich, they've kind of linked those things to quite significant
@@ -623,10 +603,7 @@ improvements in -- reductions in the interest rate sensitivity or the capital ra
 reductions in the required capital. Is that something that we can expect from you guys as
 well or am I missing something, some other impact there?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 No, I wouldn't -- I mean, there will be -- as I said, there will be a positive impact from the
 program or the long-term improvement of economic earnings. And thereby improving the
 capital position of our companies. But the nature of the program we are proposing here is
@@ -634,24 +611,15 @@ more strategic one really to bring ERGO back in the shape and to improve the sit
 that we are really going forward are very strong player back in German international
 market.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Okay.
 
 Bloomberg Transcript
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Operational to them.
 
-A - Markus Rie
-
-{BIO 1835270 <GO>}
-
+A - Markus Rie {BIO 1835270 <GO>}
 Shall I take the commission question, yeah, Markus Rie here. What you observed, Sami is
 absolutely right. The environment for High Commission has changed, we see both
 regulatory pressure as there is pressure from the customer protection groups on that
@@ -689,10 +657,7 @@ new commission structure go into our base of agents, but medium term there will 
 lower average commission than there is now, but it will just take time. However, all of the
 necessary preparations will be in place by the beginning of 2017.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Okay, thank you.
 
 Operator
@@ -701,10 +666,7 @@ lines are open.
 
 Bloomberg Transcript
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Hi. Thank you very much. Just if I can ask on slide 27, please. If I just back out these
 restructuring or net profit impact of strategy, the underlying net income seems to not be
 moving much for 2017, for example, your 130, if you add back 110 to 240 [ph], 203 you
@@ -719,10 +681,7 @@ improvement in the reported combined ratio is much larger. If you could just com
 both these? If you like me to repeat question one on slide 27, I'm happy to repeat
 because I think the line was making a bit.
 
-A - Markus Rie
-
-{BIO 1835270 <GO>}
-
+A - Markus Rie {BIO 1835270 <GO>}
 Okay. I'll start with the first one. Yes, you're right. If you deduct the impact of the
 investments, the impact of the strategy, you'd come up with a rather stable earnings
 development that -- that's correct. I mean, first of all, I'll have to remind you that the
@@ -748,17 +707,12 @@ lifecycle reasons, that's also something which is included here. And those two r
 enough in order to -- even if you have some improvements which are also included in the
 basis, you still do not really move ahead and then stay at this stable level of around 250.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yeah, sorry. Can I just follow-up, so the -- the whole purpose of so much digital investing
 should have been to increase that isn't it, because it's a long-term and there's so much
 investing going on?
 
-A - Markus Rie
-
-{BIO 1835270 <GO>}
+A - Markus Rie {BIO 1835270 <GO>}
 
 Bloomberg Transcript
 
@@ -776,26 +730,17 @@ to where we stand today. So if you compare it with combined ratios, we are curre
 achieving or where we currently are at, and then deduct 4%. I think you end up with the
 level which is fairly in line which what we are showing here on page 28.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Can you just follow up on page 25? So I can just follow up, the 2015 combined ratio is 98,
 it goes to 92 in 2020?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah, but in 2015 we had to have a year which was also very much burdened by one-off.
 So these are -- let's say the more average level with average claims and that cut would be
 more around 96 today. And therefore, the 92 is something where we could get that with
 the cost measures.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Thank you.
 
 Page 14 of 37
@@ -812,10 +757,7 @@ line is open.
 
 FINAL
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Thank you. First on the -- you spoke about capital -- both CFOs spoke about capital,
 because you can give us solid figure and there was a question and you didn't answer it
 and I just wondered why. Could you give us the figure please, what is the capital allocated
@@ -853,10 +795,7 @@ measures but we are not on the safe side with regard to future interest rates. T
 go further down even more and that is the biggest question mark on it all at the moment.
 So we must be realistic about it.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Page 15 of 37
 
 
@@ -879,10 +818,7 @@ us to some extent. Therefore, it's difficult to quantify here.
 But as things stand at the moment, we are confident that we do not need any capital
 injection.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Understood [ph]. Thank you very much.
 
 A - Jorg Schneider
@@ -895,10 +831,7 @@ Bloomberg Transcript
 Your next question comes from William Hawkins from KBW. Please go ahead. Your line is
 open.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hello, thank you very much. First of all, I think it's risks occurring Munich [ph] question, but
 with regards to your 2020 earnings guidance, I'm trying to make sure I understand the
 numbers correctly on slide 25 to 27. Because, if I take the middle of your original guidance
@@ -933,10 +866,7 @@ balance sheet.
 
 FINAL
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 And this time, my question was about 2017. You are also, this is not going to disrupt 2017
 or '18 --
 
@@ -947,10 +877,7 @@ deal with it and that they are -- that you wouldn't have seen a lot of an impact
 result. On a like-for-like basis, each euro which is missing from ERGO is negative which is
 OP [ph].
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thanks [ph].
 
 A - Jorg Schneider
@@ -959,10 +886,7 @@ Bloomberg Transcript
 
 Christoph?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yes, I'll take your first question. I'm not sure, if I fully understood what kind of calculation
 you adjusted. But let me maybe explained in page 27 and what really shown there. And
 what you see there is the overall net profit impact of our program. And this includes
@@ -979,10 +903,7 @@ here. And also we have to assume some investments in the regulatory projects and
 in lifecycle topics, which we have just have to do. And they are also part of let's say, the
 base case underlying at the page 27.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you. So I think, I was misunderstanding. So just to be clear, the 279 cost savings for
 2020 is part of the 203 benefits from synergies. And the reason is --
 
@@ -994,39 +915,26 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2016-05-31
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 That's right.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 FINAL
 
 Because you've got to drill down the restructuring costs and other stuff, yeah.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 That's right.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you. Thanks.
 
 Operator
 Our next question comes from Kamran Hossain from RBC. Please go ahead. Your line is
 open.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 
 Bloomberg Transcript
 
@@ -1047,10 +955,7 @@ using opportunities we have to make it, let's say less of a burden to some exten
 have further options but they are not on the agenda at the moment. Does it answer your
 question, Cameron.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 And that's perfect. Thanks very much, Jorg.
 
 A - Jorg Schneider
@@ -1071,10 +976,7 @@ FINAL
 Our next question comes from Olivia Brindle from Bank of America. Please go ahead,
 your line is open.
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 I have two questions. First on just in terms of your thinking on the timeline and one of your
 slide says 500 million from 2021 at the latest, and what is your confidence level of mainly
 being able to achieve that a bit faster. I'm just thinking that it is, it's quite a long drawn out
@@ -1095,28 +997,19 @@ mentioned consumer protection pressure and we tackle them and we are confident t
 we can get good answers to it. And therefore, I would regard to plan as being absolutely
 achievable but it's just -- it's ambitious. Yeah, it's not unrealistic but ambitious. Okay, Olivia.
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 Yeah, thank you.
 
 Operator
 Our next question comes from --
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 And -- sorry, on the international?
 
 A - Jorg Schneider
 Olivia, would you please repeat your question on the international business?
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 Yeah, sorry. My question was just around the fact that market conditions are still pretty
 difficult in some of those market. So, wondering how you've thought about that within
 
@@ -1133,10 +1026,7 @@ conditions at least not getting worse?
 
 FINAL
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Of course, we are planning assumption behind the whole plan and I think, I mentioned
 before already that that we have some kind of a nice [ph] prognosis. So we -- as a best
 estimate take market conditions as they are. We do not factor in any deteriorations but
@@ -1147,10 +1037,7 @@ markets and maybe on top of that anyhow Mr. Rie's was pointing out already that 
 growth strategy will be reviewed in the second half of the year. So there is also the
 chance to look into the things again for us.
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 Okay, thank you.
 
 Operator
@@ -1160,10 +1047,7 @@ Bloomberg Transcript
 Our next question comes from Thomas Seidl from Bernstein. Please go ahead, your line is
 open.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yeah, thank you. Good afternoon. First question on Life, clearly you are not alone with the
 issue of running of German Life businesses. So my question is -- isn't that a chance or an
 idea that your combine forces and run it off together more efficiently like we have seen in
@@ -1177,10 +1061,7 @@ And I take the first one, Thomas. We are open to any idea at the moment, but tha
 sounds interesting but, I haven't seen any concrete plans on that. So, I can't say more at
 the moment. Christoph?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 The question was the split on Life and then how beneficial it could be for Life companies
 from a capital perspective. Yes, you're right. I mean, cost improvement and then in
 general, the improved result situation of our Life carriers clearly helps also from a capital
@@ -1199,35 +1080,25 @@ Date: 2016-05-31
 Life, but it will be substantial amount which will hit Life, so it will help but it won't be -- it's
 not the, primarily it's not the main driver.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
+Q - Thomas Seidl {BIO 17755912 <GO>}
 
 FINAL
 
 Okay. It's not the main driver, so what would be the main driver then?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 So the main driver for Life separation was Mr. Rie was referring to it was that -- it's much
 better from a management attention prospective, prioritization is much easier, we can
 concentrate of one off running off the book versus new business in a separate entity, so
 management can contemplate on the respective topic, that's the main reason why we are
 doing it.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 As I'm not talking about the cancellation, I was talking about a cost-cuts of the planning,
 are any of those cost-cuts accruing to the Life back book is it basically P&C and the Life
 new business benefiting from that.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
+A - Christoph Jurecka {BIO 17223019 <GO>}
 
 Bloomberg Transcript
 
@@ -1236,20 +1107,14 @@ benefit from it, but this -- benefit is not the main driver, we do it for operat
 But of course, there is a benefit also for the Life companies both on capital as well as on
 earnings.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay, thanks.
 
 Operator
 Our next question comes from Xinmei Wang from Morgan Stanley. Please go ahead, your
 line is open.
 
-Q - Xinmei Wang
-
-{BIO 17860767 <GO>}
-
+Q - Xinmei Wang {BIO 17860767 <GO>}
 Hi, good afternoon. My first question is on the net profit in 2020 by segments on slide 28.
 Could you talk about the shape of that from 2016 to 2020, so there in 2020 the majorities
 coming from P&C Germany, is that going to be the cases throughout the years? That's my
@@ -1257,10 +1122,7 @@ first question. My second is just a follow-up on a previous question, I not sure
 answered the one about potential sale or considering a potential sale of your Life back
 book, is that something you discussed as part of the strategy program? Thank you.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 For the first one, that's something which actually does not make too much sense to talk
 about, because the main driver for it -- for the split over the years will just be how quickly
 we've been in investing. And the quicker we invest, that the more broadly and less than
@@ -1285,10 +1147,7 @@ Yes, Xinmei, and it's also difficult because, the cost allocation is to some ext
 So there are some estimation ground here. On your second question about a potential
 sale, it is not in the agenda.
 
-Q - Xinmei Wang
-
-{BIO 17860767 <GO>}
-
+Q - Xinmei Wang {BIO 17860767 <GO>}
 Okay, thank you.
 
 A - Jorg Schneider
@@ -1303,16 +1162,10 @@ Bloomberg Transcript
 A - Jorg Schneider
 Andrew?
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hello, you there?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yes, yes.
 
 A - Jorg Schneider
@@ -1322,10 +1175,7 @@ Operator
 As it appears he has got away from the phone. We now have Thomas Fossard from
 HSBC. Please go ahead. Your line is open.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes, good afternoon. One remaining question on my side for Markus. And that could be
 really to the product side of the program today and on the life business. Regarding
 
@@ -1347,10 +1197,7 @@ would say strengths on third party asset management, and if potentially you are
 contemplating an acquisition in that (inaudible) strengthen you as a value proposition of
 your life product and support your ambitions. Thank you.
 
-A - Markus Rie
-
-{BIO 1835270 <GO>}
-
+A - Markus Rie {BIO 1835270 <GO>}
 Thank you very much for the question. I believe that for the purpose of this strategy, we
 do not need to consider an acquisition. Because realistically, MEAG is a very good asset
 management company and one of the key success fact was (inaudible) coming up with a
@@ -1363,18 +1210,13 @@ very important product provider and success contributor in that issue. So I beli
 cooperating with MEAG is very beneficial at it is. A further acquisition would not add any
 value in this context.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
+Q - Thomas Fossard {BIO 1941215 <GO>}
 
 Bloomberg Transcript
 
 Thanks for this. Very clear statement.
 
-A - Markus Rie
-
-{BIO 1835270 <GO>}
-
+A - Markus Rie {BIO 1835270 <GO>}
 Thank you.
 
 Operator
@@ -1406,10 +1248,7 @@ regarding this?
 
 FINAL
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 I'll take the first one on life. Basically, there are couple of positives we see. First of all, of
 course what you were also mentioning, the cost is very important. So the idea is to really
 contemplate the back book management and by doing so, to implement a more -- let's
@@ -1435,10 +1274,7 @@ Maybe an additional question on the back book, you mentioned new IT for the back
 I mean you are basically winding down this back book, and you have the IT in place to do
 that. Is it not more efficient to just leave the IT for the back book as it is and wind it down?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 No, it's really a question of -- on efficiency, but also I mean, systems, they have a life cycle
 anyhow. And then, if you look at the back book, I mean, duration of the back book here
 we're talking about decades. And if you look, for example, decades back from today, you
@@ -1494,19 +1330,13 @@ Operator
 Our next question comes from Andrew Ritchie from Autonomous. Please go ahead, your
 line is open.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi, there. Can you hear me this time?
 
 A - Jorg Schneider
 Yep, we can hear you.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Great. Excellent. Thanks for that, sorry about that. Two questions, one is, you described
 the restructuring costs, well you described as restructuring costs and investments or
 investments overall, I guess my concern is that, particularly for Digital, these aren't really
@@ -1530,10 +1360,7 @@ this reflecting -- there is a complex interaction between local GAAP and IFRS on
 [ph] addition, is that coming -- is that impacting IFRS profit more by that point or what's
 the main driver of the double-digit negative? Thanks.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Okay. First of all, I'm happy to both questions, Christoph here. The restructuring costs and
 the investments, yes, you are right, there -- I mean building up a Digital IT will lead to the
 fact that of course we have to pay for the Digital IT as long as you have it, or that there
@@ -1587,16 +1414,11 @@ this is a difference between fits in our and taken liability adequacy test, and 
 one is that we usually do not have the realized gains in the IFRS result for major part of
 the realizations because we just sell the bonds from one company to the other.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay, that is complex. But still I think the bottom line is -- there is a bit less scope to keep
 the IFRS profit as resilient as it has been, I think. Is it a fair, very quick summary.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
+A - Christoph Jurecka {BIO 17223019 <GO>}
 
 Bloomberg Transcript
 
@@ -1611,20 +1433,14 @@ be no major loss in local GAAP and IFRS itself resulting and those two mismatche
 having and lead to the effect that the IFRS result is (inaudible). But that's nothing to be
 worried about because it is just a counting mix I would call it.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Great. Okay. That's very helpful. Thanks very much.
 
 Operator
 Our next question comes from In-Yong Hwang from Goldman Sachs. Please go ahead,
 your line is open.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Well, thank you very much for taking my question. Just as two from me. Firstly, I think Jorg
 you mentioned on the MEAG AG and (inaudible). But with the investment cost of 1 billion,
 would that be a one effect, I felt like maybe it would be a slightly less than that on the
@@ -1653,26 +1469,18 @@ with a lot of problems they had 200 million. And therefore, for us, we can't qua
 precisely, but it's a sacrifice by Munich Re but the sacrifice which is a very good investment
 too.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 And the answer for the second question is very easy. Yes, it's included. So actually
 (Technical Difficulty) 10, include the cost savings as well.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Fair. Thanks very much.
 
 Operator
 Our next question comes from Vikram Gandhi from Societe Generale. Please go ahead,
 your line is open.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 
 Bloomberg Transcript
 
@@ -1681,16 +1489,10 @@ Hello, good afternoon. Can you hear me?
 A - Jorg Schneider
 Yes, we hear you well.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Yeah, okay. I've got two questions, the first one is, amount of the traditional life book is
 close to new business. Can you please share how much of the existing technical reserves
 would have run off by 2020. Let's say, taking the end of 2015 number as the starting
@@ -1715,10 +1517,7 @@ want to add something else?
 
 FINAL
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yes maybe it's important to mention that I mean, closing it for new business in sales does
 not mean there is no new business at all because, we have legal applications in our book
 to take new business in our books for existing policies. And so there will be still some new
@@ -1731,10 +1530,7 @@ On your -- on your second question. We haven't used a transitional life yet and 
 opened whether we could use them in future. It's an option, but it hasn't been decided to
 go that route. At the moment, we do not need them.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay, yes. Thank you.
 
 A - Jorg Schneider
@@ -1747,10 +1543,7 @@ Operator
 Our next question comes from Anasuya Iyer from Jefferies. Please go ahead, your line is
 open.
 
-Q - Anasuya Iyer
-
-{BIO 18981555 <GO>}
-
+Q - Anasuya Iyer {BIO 18981555 <GO>}
 Hi, thanks for taking my question. My first question is on international, just a clarification
 really. With the second half of 2016 when you revisited, can we expect any more costs
 there or is any cost related to that revisits already in the plan? And the second question I
@@ -1785,10 +1578,7 @@ feel much more confident that we can reach it, is it a risk -- at risk, yes, it 
 every entrepreneurial activity, it is at risk, but I think it's well founded, and there is upside
 and downside in a very balanced way at the moment.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 On the international, I mean, as you mentioned before, we did not really look into it, so
 that there is something we'll do in the second half of the year, except one thing, and this
 is expenses. And so expense reductions over the part of that program, and then of
@@ -1797,10 +1587,7 @@ program, I would like to cross -- at least for that part, it should already been
 now our figures. Of our other topics, I can't really help, I also don't know, but it's a little bit
 too early, we'll look in to it, but I wouldn't expect large figures here.
 
-Q - Anasuya Iyer
-
-{BIO 18981555 <GO>}
-
+Q - Anasuya Iyer {BIO 18981555 <GO>}
 Okay, thank you very much.
 
 Bloomberg Transcript
@@ -1809,10 +1596,7 @@ Operator
 Your next question comes from Jochen Schmitt from Metzler. Please go ahead, your line is
 open.
 
-Q - Jochen Schmitt
-
-{BIO 4227302 <GO>}
-
+Q - Jochen Schmitt {BIO 4227302 <GO>}
 Thank you very much. Good evening. Why are you creating an additional online carrier by
 2017 rather than optimizing your existing carriers to boost online distribution? I'm aware
 that different levels of services might require different pricing, but to me, this seems to
@@ -1820,10 +1604,7 @@ me that streamline the ERGO Group structure, nor does it give a clearer picture 
 your key target products or key target clients in my opinion? That's my question. Thank
 you.
 
-A - Markus Rie
-
-{BIO 1835270 <GO>}
-
+A - Markus Rie {BIO 1835270 <GO>}
 Thank you very much for that question. It gives me the opportunity to basically pronounce
 a contradicting view to what you've just said, because, I believe this it is of utmost
 importance that we differentiate the Pure Digital part of our offering from the integrated
@@ -1903,10 +1684,7 @@ experience, if it's done in a way that we suggest and not in the -- primarily, I
 intriguing way of saying, just leverage your existing platform because of the reasons I've
 just stated. I hope that convinced you at least to a certain degree.
 
-Q - Jochen Schmitt
-
-{BIO 4227302 <GO>}
-
+Q - Jochen Schmitt {BIO 4227302 <GO>}
 Well, I still have to think about it, but thanks for the answer.
 
 A - Jorg Schneider
@@ -1916,9 +1694,7 @@ Operator
 My next question comes from Frank Kopfinger from Deutsche Bank. Please go ahead,
 your line is open.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 
 Bloomberg Transcript
 
@@ -1944,10 +1720,7 @@ cannot exclude further depreciations subject to a deterioration of the market an
 deterioration of ERGO's performance. But isolately seen, this program is beneficial.
 Christoph?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Page 32 of 37
 
 
@@ -1967,10 +1740,7 @@ that. The portfolio in itself will be stable and the balance portfolio is someth
 maintain, but as I said that the cost will improve and therefore we are very positive that
 we can achieve that 92.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay. thanks.
 
 Operator
@@ -1979,10 +1749,7 @@ open.
 
 Bloomberg Transcript
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hey, thanks very much, I am very sorry to drive the call out, hopefully these are quick.
 Markus, this is a Herculean task you've got. Can you talk a bit about how you're going to
 be rewarded for succeeding. I appreciate it's a grubby subject, but is your performance
@@ -1997,10 +1764,7 @@ without knowing anything about this. I've told by other people that a company th
 completely rebuild its IT infrastructure is normally going to end up in quite challenged
 place. So, I assume that's pretty material execution risk? Thank you.
 
-A - Markus Rie
-
-{BIO 1835270 <GO>}
-
+A - Markus Rie {BIO 1835270 <GO>}
 Yeah, I'd be -- I'm very grateful for the question on the rewards. I have the same question
 (Technical Difficulty) no, no just kidding. What actually -- I have been currently working this
 out asking my colleagues from Munich Re and Nikolaus von Bomhard and Jorg Schneider
@@ -2048,10 +1812,7 @@ Bloomberg Transcript
 
 May I hand back to you with regard to the challenges of the program?
 
-A - Markus Rie
-
-{BIO 1835270 <GO>}
-
+A - Markus Rie {BIO 1835270 <GO>}
 Yes, thank you. And then again, you can rest assure that I'm self-motivated enough to
 make this happen. So that's another comment in this regard. Now, the risk and I
 appreciate you saying it's a Herculean task. I believe that is very well said. I still think it's
@@ -2120,16 +1881,10 @@ to mitigate this risks, and since I have already had the opportunity of complete
 transformation in programs like these, and I hope that's given this experience, I can
 calibrate this mindset in an appropriate session. [ph].
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you. Best of luck.
 
-A - Markus Rie
-
-{BIO 1835270 <GO>}
-
+A - Markus Rie {BIO 1835270 <GO>}
 Thank you.
 Page 35 of 37
 
@@ -2145,10 +1900,7 @@ line is open.
 
 FINAL
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Thank you very much for giving me the opportunity. Two questions, one why today
 because it was weird right. You kept saying beginning of June, but now you gave a date
 and then suddenly on Monday or likely which is on 1st of June. What happened that today
@@ -2176,10 +1928,7 @@ the -- according to the transitional rules. We did not draw that option and we a
 and confident that we do not have to, but we could. Therefore, short and mid-term, there
 is no major challenge from that side.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Brilliant. (inaudible). Thank you.
 
 A - Jorg Schneider
@@ -2189,9 +1938,7 @@ Operator
 As there are no further questions in the queue at this time, we will now hand our -- back
 to our speakers for any additional and closing remarks.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Page 36 of 37
 
 

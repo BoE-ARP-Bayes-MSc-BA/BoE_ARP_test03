@@ -36,10 +36,7 @@ Conference Call. Today's conference is being recorded. At this time, I would lik
 the conference over to Willem van den Berg, Head of Investor Relations. Please go
 ahead, sir.
 
-Willem van den Berg
-
-{BIO 15203834 <GO>}
-
+Willem van den Berg {BIO 15203834 <GO>}
 Thank you, Barbara. Good morning, everyone, and thank you for joining this conference
 call on Aegon's third quarter 2017 results. We will keep today's presentation short, leaving
 plenty of time to address all your questions. We would appreciate it if you take a moment
@@ -60,10 +57,7 @@ I'll now hand it over to Alex.
 
 FINAL
 
-Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Thank you, Willem, and good morning, everyone, and thank you, all, for your continued
 interest in Aegon, and of course also for joining us today for today's earning call. So, let
 me begin by providing you with an overview of this quarter's key developments.
@@ -293,10 +287,7 @@ provision in the Netherlands. Could you just clarify what has been the driver of
 change? I think you referred to excess prudency, but just wanted to know a bit more
 about the driver of the release? Thank you very much.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Good morning, Benoît. Let me take the first question and I'll pass it for the second and
 third one to Matt.
 Benoît, as you know, we've been very consistent saying that, our focus – our strategic
@@ -333,9 +324,7 @@ DC plans, but also would stop where we are – we were the first one to come int
 and we also are now market leading in providing that offer.
 Matt, you want to take the two other questions, please?
 
-A - Matthew J. Rider
-
-{BIO 20002664 <GO>}
+A - Matthew J. Rider {BIO 20002664 <GO>}
 
 Bloomberg Transcript
 
@@ -361,10 +350,7 @@ recently completed, so that is not yet been incorporated into that figure.
 Q - Benoît Pétrarque
 And on the release of the guarantees in the Netherlands?
 
-A - Matthew J. Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew J. Rider {BIO 20002664 <GO>}
 Yeah. So, that was – the number that we referred to related to – mainly it's an IFRS change
 or was in fact a small solvency position change in that one too, but this just relates mainly
 to mortality updates.
@@ -386,10 +372,7 @@ Please go ahead.
 
 FINAL
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Good morning, gentlemen. Just two questions, if I may. Firstly, going back actually
 probably to slide 10. Please, could you just decompose the fall of €0.7 billion in the SCR
 ideally obviously between the UK and the Netherlands?
@@ -400,10 +383,7 @@ particular, are there any changes in the decomposition of capital generation bet
 geographies? I think you've indicated the U.S. doesn't really change, so I presume nothing
 is really changing, okay.
 
-A - Matthew J. Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew J. Rider {BIO 20002664 <GO>}
 Maybe to talk about the SCR reduction. So, we had about €700 million reduction in SCR in
 the quarter. Part of it is related to just revised modeling of currency risk and related
 diversification at the group level that has no impact on capital generation. But also, I think,
@@ -413,23 +393,14 @@ haven sovereigns, and that's basically it.
 
 Bloomberg Transcript
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 And how much was that?
 
-A - Matthew J. Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew J. Rider {BIO 20002664 <GO>}
 I don't have the breakdown, but I'm sure that we can get it to you. As for the model
 changes – I'm sorry, the balance of the question?
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 You just said that that has a limited impact (23:19) The model changes for the quarter
 mainly related to – basically the impact comes to reserve increases. So, we would not
 expect that this would have any kind of an earnings impact in the short term, and in fact in
@@ -437,16 +408,10 @@ the longer term, it actually reduces what would have otherwise been a drag on ea
 So – but that's in the very long term. These are long duration contracts.
 Okay. So that's positive very further out?
 
-A - Matthew J. Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew J. Rider {BIO 20002664 <GO>}
 Yes.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Page 8 of 25
 
 
@@ -463,10 +428,7 @@ FINAL
 
 Thank you. Our next question today comes from Farooq Hanif from Credit Suisse.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi there. Thank you very much. Three questions, if I may. First one, do you have any other
 sort of modeling improvements that you think you can – that you'd like to put through in
 the Netherlands particularly? So I'm thinking sort of further refinement to the internal
@@ -483,10 +445,7 @@ earnings and capital generation? Thank you very much.
 
 Bloomberg Transcript
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Farooq, let me take your second question, and Matt can take the first one on the impact
 of model improvements on our Solvency II position in Netherlands and provide you with
 the investment yields. I think we've been clear, and I've just stated in one of the previous
@@ -529,10 +488,7 @@ So you see more of that happening because we also see that the skill means that 
 players that are smaller or mid-size will just not be able to play the game, so we see more
 opportunities in that area going forward. Matt?
 
-A - Matthew J. Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew J. Rider {BIO 20002664 <GO>}
 Maybe with respect to the modeling improvements, so we've just had what we call IMAB
 2 (27:40). So, this is major model improvements that have been submitted to DNB and
 have been approved by the College of Supervisors. I would expect that we will continue
@@ -545,20 +501,14 @@ With respect to your question on U.S. reinvestment yields, currently where new m
 yields are at about 4.05% for the quarter. And that is below our long-term expectation.
 But we would think that has a quite limited impact on near-term capital generation.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Thank you very much.
 
 Operator
 Thank you. Our next question comes from Nadine van der Meulen from Morgan Stanley.
 Please go ahead.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Yes. Good morning, and thank you for taking my questions. The first question is on the
 holding excess capital position. You've upswinged quite a significant dividend out of the
 U.S. in the third quarter. What should we expect for the full year or in Q4 in this light? Is it
@@ -581,10 +531,7 @@ profitability here on new business? Thank you.
 
 FINAL
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Let me maybe take you to questions two and three, and then Matt will take your first
 question on the movement of excess capital position to the holding. I think it's good to
 remind everybody in the context. As you know, we've announced at the end of 2014 that
@@ -638,10 +585,7 @@ So, Matt, do you want to take the first question?
 
 FINAL
 
-A - Matthew J. Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew J. Rider {BIO 20002664 <GO>}
 Yeah. On the excess cash on the holding, you've seen that at the end of the third quarter
 we're standing at about €900 million, which is slightly below our target area of €1 billion to
 €1.5 billion. Now, I'll tell you that that was corrected just a few days after the end of the
@@ -651,22 +595,14 @@ be at the top end of the range in part from additional dividends from the UK but
 from dividends that we would expect from the U.S. following the close of the BOLI/COLI
 transaction.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Sorry. Can you say it again? So, at the end of the year, you expect to be at the top of
 range including the special dividends from the UK?
 
-A - Matthew J. Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew J. Rider {BIO 20002664 <GO>}
 Yes.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 
 Bloomberg Transcript
 
@@ -675,10 +611,7 @@ Okay. Thank you very much, all. Thank you.
 Operator
 Thank you. Our next question comes from Mark Cathcart from Jefferies. Please go ahead.
 
-Q - Mark David Cathcart
-
-{BIO 19783252 <GO>}
-
+Q - Mark David Cathcart {BIO 19783252 <GO>}
 Yeah. Hi. Congratulations, Alex, on what I thought was a really good underlying set of
 numbers. And having followed the stock for many years, it's the most cheerful up-sell, I
 think, since the 1990s. I think things are really heading in the right direction. So, on that
@@ -690,10 +623,7 @@ end of this year and with nice capital generation repaired (34:45) across the gr
 do you think you're going to be most keen to put that capital to work, say, over the next
 12 to 24 months?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Mark, thank you for your very kind words. That is appreciated. You have followed us
 indeed for a long time, and I can tell you that I am also – and I had made it hopefully clear
 in my introduction speech – pleased to see that we have strong earnings, strong capital
@@ -735,18 +665,12 @@ priority, that is to return €2.1 billion to our shareholders over the three-ye
 have achieved a significant amount of that, but the capital that has been generated will be
 returned to shareholders for us to meet our target of €2.1 billion. Thank you.
 
-Q - Mark David Cathcart
-
-{BIO 19783252 <GO>}
-
+Q - Mark David Cathcart {BIO 19783252 <GO>}
 So – Yeah. Yeah. Okay. So you can't say geographic arenas where you may be looking to
 make fresh investment. You've mentioned about Asia being a real critical component of
 your earnings going forward.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Well, in all our countries, we continue to grow, and I hope you see, Mark, that with the
 sales we're showing is that we're not holding back on growing our business. Obviously,
 we want to do that in an efficient way. We want to make sure we make our returns. And
@@ -777,16 +701,10 @@ particular acquisition expenses, like such as commissions, will not be the case 
 there's no reason to believe that that will require a significant capital investment. It's a
 very different business model.
 
-Q - Mark David Cathcart
-
-{BIO 19783252 <GO>}
-
+Q - Mark David Cathcart {BIO 19783252 <GO>}
 Okay. Thanks, Alex. Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Thanks.
 
 Operator
@@ -794,10 +712,7 @@ Thank you. Our next question comes from Albert Ploegh from ING. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Yes. Good morning, all. Thank you for taking my questions. The first one is on the illiquid
 investment program in Holland. Can you update us what has been done in Q3 and what
 are the plans for the remainder of the year, and what type of assets being bought? And
@@ -812,10 +727,7 @@ disclosed two times a year, but given the model changes in the changes in the he
 let's say, rising interest rates or rising equity markets compared to the first half ? Thank
 you.
 
-A - Matthew J. Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew J. Rider {BIO 20002664 <GO>}
 On the first point, I think the illiquid strategy, I think it's a little bit slower than we had
 expected, several hundred million but no more than that. We would expect this to
 accelerate during the backend of this year and going into 2018. With respect to the SCR
@@ -842,18 +754,13 @@ FINAL
 With respect to the sensitivities on the macro hedging, I think we're just going to update
 that in due course at the end of the fourth quarter.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay. Thank you.
 
 Operator
 Thank you. Our next question comes from Bart Horsten from Kempen. Please go ahead.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
+Q - Bart Horsten {BIO 2390919 <GO>}
 
 Bloomberg Transcript
 
@@ -870,10 +777,7 @@ lapse at the Mercer so that we can see some net growth going forward?
 And my final question relates to your decision to stop publishing quarterly results. I was
 wondering what's the reasoning behind that. And well, that's the question. Thank you.
 
-A - Matthew J. Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew J. Rider {BIO 20002664 <GO>}
 With respect to the Solvency II position, yeah, the top end of the range is 200%. We're
 approaching that now. Technically, that puts us – if we get above that level, then it puts us
 into what we call the opportunity zone. Opportunity does not mean immediate
@@ -899,61 +803,38 @@ substantive information on a semiannual basis, not have to deal with such quarte
 fluctuations. And in the meantime, we can take the time that we will save to actually
 improve running the businesses. And I think that's an important thing going forward.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
+Q - Bart Horsten {BIO 2390919 <GO>}
 
 FINAL
 
 So you will also (44:51).
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 But it's for sure...
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Sorry.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 I just want to say it's for sure not the reasons that we don't enjoy having these calls. Matt,
 don't we?
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 But you're also not planning to give trading updates on high-level developments in term
 of group solvency or other items?
 
 Bloomberg Transcript
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 No. No.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 No. Okay. Thank you.
 
 Operator
 Thank you. Our next question comes from Arjan van Veen from UBS.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Thank you, gentlemen. Most of my questions have been answered. Just two follow-ups,
 firstly on cost savings. You highlighted you're halfway into that program, and you're
 confident in terms of achieving your target. I just wanted to just follow up in terms of how
@@ -976,10 +857,7 @@ deferred tax assets you may have on the balance sheet in the U.S. business. Than
 
 FINAL
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah. As I said, we are halfway what I think is a very ambitious cost reduction program,
 €170 million out of €350 million. We have also now – and we made good progress in
 defining and setting the plans for the remaining €180 million, of which of course a big part
@@ -990,19 +868,13 @@ So you'll see them coming through to earnings and that will support obviously no
 earnings, but also our targets in terms of return on equity.
 Now, on the...
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Is it fair to say that the amounts you've achieved today, they are not fully sort of flowing
 through? That's one of my questions.
 
 Bloomberg Transcript
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 It's fair to say that the amount – I think it's fair to say that the amount that we have seen
 today is probably for flowing through earnings for around half of it. I think that's fair
 assessment. And then the remaining, as I said, we expect a bigger part, clearly a bigger
@@ -1010,16 +882,10 @@ part to flow through earnings. We'll provide you, obviously, with more updates w
 come with plans and when we announce them also to the market, but as you can imagine,
 we got to deal with this first internally before we deal with that externally.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Yeah.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 In terms of taxes, unfortunately – I wish I could say more, and I also wish we would know
 more. It is a very fluid situation. Yes, there's been a headline proposal for a tax reduction
 in corporate tax rate, which. as I think we will all agree, is a positive. It's a positive for the
@@ -1044,19 +910,14 @@ Date: 2017-11-09
 sure that the way that it gets financed is not going to impact our industry. That's really
 where we are today.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
+Q - Arjan van Veen {BIO 5197778 <GO>}
 
 FINAL
 
 Is it possible to give us some indication where the effective tax rate is because just
 looking historically it does bounce around a bit from the U.S. business?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah. I think that's a good point. The effective tax rate effectively is 27%. So, what you see
 in many cases when taxes are coming down, and by the way, the same applies to the
 Netherlands, they take the headline number down, but they take away deductions. So,
@@ -1064,10 +925,7 @@ ultimately, it's very important to see what all the rules are and exactly how th
 applied to understand what the impact is because even from 35% to 27%, as you see,
 there is already quite a big gap because we are running now at 27% roughly.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Yeah. Fair point. Thank you, Alex.
 
 Operator
@@ -1075,10 +933,7 @@ Thank you. Our next question comes from Gordon Aitken from RBC. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Yeah. Thanks very much. Three questions, please. First, on the UK platform business. I
 mean these flows are good and the annuity assets are now in excess of £110 billion. But
 pension's earnings were just £8 million in the quarter. Is this the run rate or whether oneoff effect in that number?
@@ -1091,10 +946,7 @@ spread business and you've been talking about you move away from spread. And wha
 proportion of the Dutch reserves at the moment are spread or defined benefit? And
 could you offload that book and would you want to offload that book? Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah. On the platform, Gordon, yes, we are making, I think, really good progress with the
 platform in terms of getting close. Equally importantly, we're also making good progress
 of moving our Cofunds customers onto our platform. As you can imagine, that is kind of a
@@ -1128,30 +980,18 @@ long. That is in particular a positive impact for annuity business rather than i
 on business we have, because, as you know, we have actually disposed of our annuity
 business. By the way...
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 No, the question was about the Dutch market.
 
 Bloomberg Transcript
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Oh, the Dutch market, in the Netherlands?
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Yes.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 So, in the Netherlands, we've seen improvement. I think what we see is too early now to
 say there is a reversal of a trend. Yes, we have seen an improvement. We had apparently
 some colder winters. We had more flu than usual. I mean, this is the kind of explanations
@@ -1202,19 +1042,13 @@ decisions as to how they will manage the pension products and in particular how 
 do the drawdowns. That is really the sweet spot of our strategy here in the Netherlands,
 but again, as I said earlier, I hope you will be here in The Hague to hear from them.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 I mean just to follow up on that. I mean, you sold your spread business in the UK. I mean,
 there was buyers for that business and more than one. I mean, would you sell your spread
 business in the Dutch market? Is it because there's no buyers or is there another reason
 you like that business?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Well, I would say that in the UK, we were pleased to sell our annuity business, spread
 business. We were pleased also with the price we got for it. I would say there are buyers,
 but I think that the universe as buyers is probably smaller than everybody believes it is.
@@ -1235,15 +1069,10 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2017-11-09
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Great. Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 FINAL
 
@@ -1253,10 +1082,7 @@ Operator
 Thank you. Our next question today comes from Andy Hughes, Macquarie. Please go
 ahead.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Hi. Thanks very much. On the €2.1 billion by the end of 2018, I think that's more than €900
 million supposed to return to (56:56) shareholders. I'm just wondering, does that mean
 you're expecting €900 million to be upstreamed to the holding company between now
@@ -1274,10 +1100,7 @@ which should be recurring I guess, depending where some of the (57:45) markets g
 forward, is it fair to say that you are ahead of where you thought you would be on that
 target so far? Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 So, Andy, thanks for your question. The €2.1 billion is a commitment and a target we have
 set. We will take our dividend in – I would say, the final dividend in 2017 entering for (58:13)
 2018 to the level that is required to bring it to the €2.1 billion. I think it is very easy to
@@ -1316,10 +1139,7 @@ they will not only flow on earnings, but they will, of course, also flow into th
 generation. But I think it's now about delivering on 2018. And yes, I hope we can over
 deliver. Thank you.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Okay. Thanks so much.
 
 Operator
@@ -1328,10 +1148,7 @@ go ahead.
 
 Bloomberg Transcript
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Yes. Good morning, gentlemen. We just like to circle back to the tax reform in the U.S.,
 because you've mentioned an effective tax rate of 27%. But I think for your required
 capital, you're using a 35% tax rate. And I would say that also assuming the DTA write-offs
@@ -1348,10 +1165,7 @@ And how does all of these feed into your – you're close to your opportunity bu
 200%, is there any buffer you want to keep with regard to this potential capital distortion
 coming from the U.S.? Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 I think maybe the first point is a tax bill does not a law make (01:02:01). So, we are still
 early stages here with respect to even looking at what the proposed bill might be, how
 that is going to be treated. So, you mentioned quite a number of effective tax rates and
@@ -1391,19 +1205,13 @@ to, let's say, the structure of U.S. risk-based capital, then we would go back a
 would re-discuss what the appropriate effect on our own conversion would be. And I think
 that should be about it. Thanks.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Okay. Thank you for that commentary.
 
 Operator
 Thank you. Our final question today comes from Ashik Musaddi from JPMorgan.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Hi. Good morning, Alex. Good morning, Matt. Just couple of questions I have. One
 is, I mean, it looks like your solvency ratio is 195% on the top end of the range. So, would
 you say that the capital debate is now more or less over and if couple of quarters you can
@@ -1430,10 +1238,7 @@ color on these three questions would be great. Thank you.
 
 FINAL
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Ashik, I think that you say it rightly. The capital debate is over. With 190% in the
 Netherlands, the capital debate is certainly over and behind us. This was our objective in
 Q2. I think we wanted to make that very clear. Matt and I, to the regulator, to all our
@@ -1467,16 +1272,10 @@ only hedge our capital. And therefore, big parts are not hedged. It will also me
 there is a positive sensitivity to interest rates. So, let's hope for these interest rates to
 move up.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 That's very clear. Thanks a lot, Alex, and well done today.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Thank you. This was the last question. Thank you for, again, your interest in the company. I
 really hope to see you next time in our offices here in The Hague when we'll have the
 Page 24 of 25

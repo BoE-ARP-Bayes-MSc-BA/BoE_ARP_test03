@@ -28,10 +28,7 @@ Unidentified Participant, Analyst
 Wataru Otsuka, Analyst
 
 Presentation
-Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+Shuzo Sumi {BIO 3861639 <GO>}
 (interpreted) I would first of all like to give you the update on Tokio Marine Group's FY
 2012 business plan for about 30 minutes before I open the floor for the Q&A session.
 We already announced the full-year projections for FY 2012 on November 19 when we
@@ -430,10 +427,7 @@ Since we would like to receive questions from as many people as possible, we wou
 to ask you to limit your questions to up to two questions. Thank you for your
 understanding in advance. Now if you have any questions, please raise your hand.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 I am Muraki from Deutsche Securities. I would like to ask you two questions. First on auto
 losses and second concerning international reinsurance business.
 
@@ -455,10 +449,7 @@ harden over the mid; to long-term, but we're yet to see any sign that the issue 
 overcapacity is going to be resolved. What do you think would be a catalyst for a
 turnaround in the pricing trend?
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 Thank you. We have received two questions. Your first point is that our advantage in the
 loss ratio of the auto business may be under some change. What is our advantage in the
 first place and how do we see the situation?
@@ -476,9 +467,7 @@ Company N ame: Tokio M arine H oldings I nc
 Company Ticker: 8766 JP Equity
 Date: 2012-11-29
 
-A - Koji Iwai
-
-{BIO 16291834 <GO>}
+A - Koji Iwai {BIO 16291834 <GO>}
 
 FINAL
 
@@ -495,18 +484,12 @@ processing and many other areas and consider rate revisions. We will take approp
 actions to aim for 98%. These efforts and thinking have resulted in the improvement I
 believe. Did that answer your question?
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 Would you like to explain our advantage a bit more?
 
 Bloomberg Transcript
 
-A - Koji Iwai
-
-{BIO 16291834 <GO>}
-
+A - Koji Iwai {BIO 16291834 <GO>}
 Regarding our advantage, as we aim to improve the combined ratio to about 100%, we
 are expecting to improve the business expense ratio by about 0.8%. I believe our efforts
 in the enhancing efficiency and as mentioned earlier underwriting practice have led to the
@@ -525,10 +508,7 @@ as well. So we appreciate that the ratio is improving on year-on-year basis.
 I assume that each company has taken into account different elements in calculating
 combined ratios. We intend to continuously analyze the situation.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 Mr. Nagano, Executive Vice President of Tokio Marine Holdings, will take your second
 question.
 
@@ -540,9 +520,7 @@ Company N ame: Tokio M arine H oldings I nc
 Company Ticker: 8766 JP Equity
 Date: 2012-11-29
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 
 FINAL
 
@@ -605,16 +583,10 @@ and Thailand for instance, rates are rising. And it is said that both casualty a
 markets are hitting the bottom and will be gradually turned around, although the pace of
 the turnaround seems to be different from one market to another.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 Thank you.
 
-Q - Takanori Miyoshi
-
-{BIO 16985826 <GO>}
-
+Q - Takanori Miyoshi {BIO 16985826 <GO>}
 I am Miyoshi from Goldman Sachs Securities. My first question is concerning your business
 in North America. After reviewing the financial results of reinsurance subsidiary and direct
 insurance subsidiary, I understood Hurricane Sandy affected direct insurers more. What
@@ -634,18 +606,12 @@ reduce these equities by JPY300 billion in total to reduce assets whose risks ar
 from the perspective of enterprise risk management. How do you intend to reduce
 business-related equities? I would like to once again hear your thoughts on this.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 Thank you. For your first question concerning the impact of Sandy to the profit and loss of
 our direct insurer and responses and changes that we are contemplating, I will ask Mr.
 Nagano to make a response.
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
-
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 Concerning the impact of Sandy, the answer will be the same as my response to Mr.
 Muraki's questions. We believe that rates will probably go up gradually in the direct
 property market in the US.
@@ -669,10 +635,7 @@ how the markets will move.
 
 FINAL
 
-Q - Takanori Miyoshi
-
-{BIO 16985826 <GO>}
-
+Q - Takanori Miyoshi {BIO 16985826 <GO>}
 Concerning outward reinsurance of Philadelphia, I believe there is a trend in the US where
 direct insurers are retaining more risks but after this event, I hear that some insurers are
 trying to cede more risks to reinsurers. Does Philadelphia have to cede to reinsurers
@@ -744,18 +707,12 @@ Bloomberg Transcript
 My third question is concerning EV in your life business. It seems that MCEV is becoming
 the mainstream approach in Japan so what are you going to do?
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 Your first question is where the reduction of risk capital is coming from. Is it due to
 equities as well as reduction of investment risks? And whether we would continue to
 reduce these risks? Mr. Tamai, Executive Vice President, will address this question.
 
-A - Takaaki Tamai
-
-{BIO 15093748 <GO>}
-
+A - Takaaki Tamai {BIO 15093748 <GO>}
 Thank you. Let me respond to your question. I believe your question is coming from the
 bubble attached to the gray colored bar on the right hand side of page 26. It says
 reduction of asset management risks, so your question is what did we do specifically and
@@ -781,18 +738,12 @@ speaking as we rebuild bond portfolio, we would like to reduce risks.
 
 FINAL
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 Your second and third questions were what kind of products we sell at our life insurance
 company for what purpose and our view on MCEV? Mr. Kitazawa of Toki Marine & Nichido
 Life will take these questions.
 
-A - Toshif umi Kitazawa
-
-{BIO 16818079 <GO>}
-
+A - Toshif umi Kitazawa {BIO 16818079 <GO>}
 Thank you for your questions. On your first point, since our business grew quite strongly in
 terms of A&P during the first half of FY 2012, you have assumed that we have grown the
 sales of saving-oriented products.
@@ -856,10 +807,7 @@ out well. Any other questions?
 
 Bloomberg Transcript
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 I am Otsuka from Nomura Securities. I would like to ask two questions. First on Delphi and
 second on Tokio Marine & Nichido Life. On page 20, it looks that the combined ratio is
 expected to deteriorate on the full-year basis. Is this just a temporary increase or is there
@@ -877,10 +825,7 @@ P&C companies also seem to have aggressive plans for life insurance business but
 on the latest performance, is there a possibility that you revised your midterm target for
 the life insurance business?
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 Your first question is whether Delphi's combined ratio is deteriorating or not and if
 anything has turned better than initially expected in terms of synergies. Mr. Nagano will
 respond to your question.
@@ -893,9 +838,7 @@ Company N ame: Tokio M arine H oldings I nc
 Company Ticker: 8766 JP Equity
 Date: 2012-11-29
 
-A - Tsuyoshi Nagano
-
-{BIO 16141096 <GO>}
+A - Tsuyoshi Nagano {BIO 16141096 <GO>}
 
 FINAL
 
@@ -924,16 +867,10 @@ We have also identified many opportunities for cost synergies at various levels 
 reducing reinsurance costs by slightly increasing the amount of self-retention or joint
 procurement of goods. We are making steady progress.
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 So does your gut feeling tell you that it's better than you initially expected?
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 We thought we shouldn't be that optimistic from the very beginning. The actual progress
 so far has been in line with our plan. Now that we have identified many opportunities, it
 will be important for us to deliver results. I hope this answered your question.
@@ -942,10 +879,7 @@ life insurers also have quite aggressive plans but your question is whether Toki
 Nichido Life will redraw and revise upwardly the midterm plan. Mr. Kitazawa will respond to
 this question.
 
-A - Toshif umi Kitazawa
-
-{BIO 16818079 <GO>}
-
+A - Toshif umi Kitazawa {BIO 16818079 <GO>}
 Thank you. If you are a life insurance business, you have to acquire new business year
 after year particularly at a time like this when the interest rate is so low. There is a very
 strong demand for saving-oriented products. If you try, you can easily grow premium
@@ -975,10 +909,7 @@ of three years. Numbers grew in the first half but from the second half of this 
 for the next two or three years, we will make efforts to deliver JPY180 billion target so we
 are not planning to change this number at the moment. Did that answer your question?
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 So you are profit-focused but do you see profit in terms of EV growth or core profit?
 
 Bloomberg Transcript
@@ -988,16 +919,10 @@ We look at EV growth. In terms of contribution to EV growth, saving-oriented pro
 not contribute much to EV. This is why we would like to mainly sell protection-oriented
 products. I hope this answers your question.
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 Yes. Thank you.
 
-Q - Jun Shiota
-
-{BIO 4127431 <GO>}
-
+Q - Jun Shiota {BIO 4127431 <GO>}
 I am Shiota from Dawai Securities. Please allow me to ask two questions. First, I often see
 advertisement of E. Design Insurance recently. What is your view on this direct channel
 business and how do you see the future profitability?
@@ -1006,17 +931,11 @@ different from your previous explanation. Would you be more specific as to what 
 mean by flexible share repurchase, what makes you start buying back your shares? I
 would appreciate it if you could explain your thoughts on this once again, thank you.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 On the first question on E. Design, our thoughts on direct business and their profitability,
 Mr. Tamai, please.
 
-A - Takaaki Tamai
-
-{BIO 15093748 <GO>}
-
+A - Takaaki Tamai {BIO 15093748 <GO>}
 Page 18 of 24
 
 
@@ -1065,10 +984,7 @@ time for sure. So it is fair to say that the bottom line has been trending in li
 schedule and the growth has been exceeding the plan.
 I hope that answers your question.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 Your second question is concerning our policy of flexible share repurchase. What kind of
 criteria or trigger will make us repurchase our shares? I will ask Mr. Tamai to also address
 Page 19 of 24
@@ -1083,10 +999,7 @@ this question.
 
 FINAL
 
-A - Takaaki Tamai
-
-{BIO 15093748 <GO>}
-
+A - Takaaki Tamai {BIO 15093748 <GO>}
 Yes. Thank you. Our basic message is shown on page 27. The primary means of our
 shareholder return is dividend, which we intend to grow along with profit growth. The
 target payout ratio as shown on the slide and as you see on the next bullet point as it has
@@ -1114,10 +1027,7 @@ I know this answer isn't straightforward but let me repeat that our Group does r
 the importance of shareholder return without a doubt and this basic principle recognition
 will remain unchanged. Thank you. Any other question?
 
-Q - Futoshi Sasaki
-
-{BIO 17564798 <GO>}
-
+Q - Futoshi Sasaki {BIO 17564798 <GO>}
 I am Sasaki from MUFJ Morgan Stanley. Please enlighten me on two things. Following up
 on the previous question, what do you think is the adequate level of the ESR? I remember
 you gave us an example of Allianz before. May I understand that you are looking to
@@ -1144,10 +1054,7 @@ on this as well. These are my two questions.
 
 FINAL
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 Your first question was the level of ESR that we are looking to achieve and how I view Asia
 with some changes in foreign capital regulations.
 We introduced the recognition mechanism called ESR last time and we said that Allianz
@@ -1222,16 +1129,10 @@ later. We do not know when but we intend to monitor the situation and take appro
 actions in a timely manner.
 Does this answer your questions?
 
-Q - Futoshi Sasaki
-
-{BIO 17564798 <GO>}
-
+Q - Futoshi Sasaki {BIO 17564798 <GO>}
 Yes. Thank you.
 
-Q - Tatsuo Majima
-
-{BIO 15338044 <GO>}
-
+Q - Tatsuo Majima {BIO 15338044 <GO>}
 I am Majima from Tokai Tokyo Research Center. There were some riots in China the other
 day. Riots and strikes are not covered under the policy but they will be covered under the
 SRCC rider. So my first question is what was the extent of losses incurred in China?
@@ -1239,10 +1140,7 @@ And going forward, many strikes and riots are likely to happen in Asia or in Chi
 there will be a high risk for factories being destroyed. So the other question is how much
 exposure do you have to strikes and riots in Asia and China? These are my two questions.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 Your question is concerning damages caused by riots in China and their impact to our
 business. The other question is our exposure to strikes and civil commotion risks, which
 
@@ -1288,10 +1186,7 @@ riots this time is estimated to be a little under JPY500 million as of now. I ho
 answered your questions.
 Time is running short so may we take the final question?
 
-Q - Koichi Niwa
-
-{BIO 5032649 <GO>}
-
+Q - Koichi Niwa {BIO 5032649 <GO>}
 I am Niwa, from SMBC Nikko Securities. I would like to ask you about dividend and auto
 business. I am sorry to ask such a detailed question but regarding dividend on page 27,
 you are talking about average adjusted earnings excluding EV as a fund for dividend
@@ -1310,18 +1205,12 @@ Company N ame: Tokio M arine H oldings I nc
 Company Ticker: 8766 JP Equity
 Date: 2012-11-29
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 Mr. Tamai will address your first question on dividend.
 
 FINAL
 
-A - Takaaki Tamai
-
-{BIO 15093748 <GO>}
-
+A - Takaaki Tamai {BIO 15093748 <GO>}
 Thank you. Please refer to page 31 under the reference section. Due to time constraints, I
 did not explain this in detail, but on the far right of the top chart on page 31, we are
 indicating the projections for FY 2012.
@@ -1329,16 +1218,11 @@ If you look at the third line, it says the average adjusted earnings are project
 JPY90 billion excluding EV. Since we are planning to pay JPY55, as you can see in the
 second line from the bottom, payout ratio is estimated to be 47%.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 Mr. Iwai will respond to the second question concerning if policyholders are refraining from
 filing claims based on the new grade rating system.
 
-A - Koji Iwai
-
-{BIO 16291834 <GO>}
+A - Koji Iwai {BIO 16291834 <GO>}
 
 Bloomberg Transcript
 
@@ -1348,10 +1232,7 @@ the moment. We will continue to monitor carefully the effect of the new system a
 of claim cost and review rate tables and take other actions as necessary in order to
 achieve midterm plan.
 
-A - Shuzo Sumi
-
-{BIO 3861639 <GO>}
-
+A - Shuzo Sumi {BIO 3861639 <GO>}
 I hope it answered your questions. Since time has come, we would now like to close Tokio
 Marine Holdings RR meeting for the second half of FY 2012. Top management will be
 around for awhile, so please feel free to talk to them.

@@ -36,10 +36,7 @@ question, please kindly limit your number of questions to two questions.
 At this time, I would like to turn the call over to Mr. Ian Kelly, Head of Investor Relations.
 Please go ahead, sir.
 
-Ian Kelly
-
-{BIO 19976646 <GO>}
-
+Ian Kelly {BIO 19976646 <GO>}
 Good morning everybody and welcome to the SCOR Group 2019 third quarter results call.
 I please ask you to consider the disclaimer on Page 2 of the presentation, which indicates
 that the financial results for the third quarter 2019 included in the presentation are
@@ -55,10 +52,7 @@ Date: 2019-10-24
 
 FINAL
 
-Denis Kessler
-
-{BIO 1498477 <GO>}
-
+Denis Kessler {BIO 1498477 <GO>}
 Thank you, Ian, and good morning, everyone. The SCOR records a solid performance in
 the first nine months of 2019. On a year-to-date basis at the end of Q3 2019. SCOR is
 achieving the solvency target and outperforming the profitability target of its new
@@ -140,10 +134,7 @@ growth, strong profitability and robust solvency.
 I will now hand over to Mark for the detail of the third quarter financials. Mark, the floor is
 yours.
 
-Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+Mark Kociancic {BIO 17852409 <GO>}
 Thank you, Denis, and good morning, everyone. So let's begin on Slide 5, and I will walk
 you through the main financial highlights of the quarter. In the first nine months of 2019,
 SCOR underwrote just over EUR12 billion of gross written premiums, representing a 6.3%
@@ -196,10 +187,7 @@ seasonality in client and tax settlements as we noted last quarter. Overall, the
 liquidity of the Group is very strong and stood at EUR2.1 billion at September 30th.
 Let me now hand over to Jean-Paul who will present the results of SCOR Global P&C.
 
-Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+Jean-Paul Conoscente {BIO 20770277 <GO>}
 Thank you, Mark. The third quarter of 2019 has been challenging for the market and for
 SCOR Global P&C. This quarter growth is still fueled by a strong second half 2018
 renewals in the US as well as from the successful first half of the year 2019 renewals. On a
@@ -262,10 +250,7 @@ insurance market, and we expect also improvements in the reinsurance pricing in 
 the same.
 I'll now pass the floor on to Paolo for the Life.
 
-Paolo De Martin
-
-{BIO 15930577 <GO>}
-
+Paolo De Martin {BIO 15930577 <GO>}
 Thank you, Jean-Paul. Scor Global Life delivers a strong start to our Quantum Leap plan. In
 particular, we are successfully combining franchise development in Asia and strong
 profitability. We're deepening our impact and accelerating value creation, particularly in
@@ -309,10 +294,7 @@ mentioned in the beginning of my presentation, on these deals, we're now recordi
 similar level of profit on lower headline premiums.
 I will now hand it over to Francois for detail on our investment performance.
 
-Francois de Varenne
-
-{BIO 7447858 <GO>}
-
+Francois de Varenne {BIO 7447858 <GO>}
 Thank you, Paolo. SCOR's Total Investment portfolio reaches EUR28.5 billion at the end of
 September with an invested asset portfolio of EUR20.3 billion compared to EUR19.5 billion
 at the end of June. The Portfolio positioning reflects the current level of uncertainty and
@@ -345,10 +327,7 @@ FINAL
 
 With this, I will hand it over to Ian for the conclusion of this presentation.
 
-Ian Kelly
-
-{BIO 19976646 <GO>}
-
+Ian Kelly {BIO 19976646 <GO>}
 Thank you very much, Francois. On page 13, you will all find the forthcoming events
 scheduled for February next year, including the P&C January renewals call and the SCOR
 Group 2019 full year results presentation. Also you can see the upcoming conferences,
@@ -364,10 +343,7 @@ Bloomberg Transcript
 Thank you, Mr. Kelly. (Operator Instructions) Our first question today comes from Jonny
 Urwin from UBS. Please go ahead, your line is open.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi there, morning. Thanks for taking my questions. So one on the man-made, one on that
 cat, please. So on the man-made losses, so the normalized combined ratio is a bit
 elevated in Q3, so 97.5%. Can you quantify how much of that is driven by man-made,
@@ -376,10 +352,7 @@ Dorian, it looks like you pointing to about EUR6 billion sort of market share lo
 each. Is that a fair, or has the retro already kicked in which lowers your net loss and is
 there any retro protection for Q4? Thank you.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 On your first question, so the attritional loss ratio for this -- for year-to-date is about 2
 points higher than last year. On a quarterly basis, we have a normalized combined ratio
 slightly higher than our 96%. This has happened three times in the past and we still
@@ -399,30 +372,19 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2019-10-24
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 And that was two points higher in the quarter, right and not year-to-date?
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
+A - Mark Kociancic {BIO 17852409 <GO>}
 
 FINAL
 
 Two points higher in the quarter, yeah, at the year-end.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Yeah. Thank you.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Relative to the cat events, in terms of market loss, we -- I think we paid Dorian slightly
 lower than your number and same for Faxai. On both we have some retro that is playing
 for us. We have some proportional retro in Japan, which provide some relief and a limited
@@ -431,37 +393,26 @@ And then for your question regarding the rest of the year, we haven't effected o
 of loss retrocession, which remains intact and the proportional retro we have in place
 remains intact as well.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
+Q - Jonny Urwin {BIO 17445508 <GO>}
 
 Bloomberg Transcript
 
 Okay. Brilliant. Thank you.
 
-A - Laurent Rousseau
-
-{BIO 19524847 <GO>}
-
+A - Laurent Rousseau {BIO 19524847 <GO>}
 Jonny, just one -- just one word on -- it's Laurent on the man-made, while we've guided so
 far is that our man-made experience was pretty close to the cat budget. If you look at sort
 of 7%, if you look on the nine months 2019, we're not far off. Q3 was an (Multiple
 Speakers) but on nine months is closed.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Okay. Thanks very much, Jonny. Let's move to the next question.
 
 Operator
 Thank you. Our next question comes from Andrew Ritchie from Autonomous. Please go
 ahead, your line is open.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi, there. I wonder if you could just give us some color as to your exposure to some of the
 particularly pressured areas in the US casualty right now? I appreciate SCOR is a small
 player in the US casualty market, but you have grown that book from a small base fairly
@@ -487,10 +438,7 @@ purchasing of reinsurance for legacy books, closing down legacy books. Can you g
 some color on what has been decided? It sounds like you've moved on in thinking from
 the investor day. Thanks.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 Yes. I'll start with the question on US casualty and I'll let Laurent reply on the SBS and
 channel. On the US casualty, we have two portfolios. One is a treaty portfolio, the other
 one is SCOR Business Solution portfolio. The larger portfolio we have is on the treaty side.
@@ -513,10 +461,7 @@ additional price increases in 2020 both on the insurance side and the lowering o
 commissions on the reinsurance side.
 Laurent, do you want to take the insurance cat [ph] question.
 
-A - Laurent Rousseau
-
-{BIO 19524847 <GO>}
-
+A - Laurent Rousseau {BIO 19524847 <GO>}
 Sure. There are actually a few questions. So let me take them one by one. On SBS, so the
 large commercial lines insurance and fact [ph] book. Here there is an acceleration of the
 rate increases led by property, led by onshore energy and here the growth is very
@@ -549,23 +494,15 @@ or the binders. But all in all, I would say that the story is very similar to wh
 presented at the Investor Day, where we refocused channel on profitability and on
 another business, our specialty and where we can need it.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 And just one final comment on the attritional is, it's primarily driven by man-made losses
 and not by deterioration necessarily of the rest of the portfolio, especially in the US
 casualty part.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. Thank you.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
+A - Ian Kelly {BIO 19976646 <GO>}
 
 Bloomberg Transcript
 
@@ -575,10 +512,7 @@ Operator
 Our next question comes from Kamran Hossain from RBC. Please go ahead, your line is
 open.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi. Good morning. One question, probably with a couple of thoughts, when I look at, I
 guess, full-year consensus of EUR572 million, what you've achieved year-to-date was
 EUR401 million, (inaudible) a pretty strong Q4. Could you maybe talk a little bit in that
@@ -588,15 +522,10 @@ what impact this might have, If it is just and look like a normal quarter or to 
 worse. So just some thoughts on how we bridge the kind of EUR401 million to EUR572
 million for the full year. Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Mark.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
+A - Mark Kociancic {BIO 17852409 <GO>}
 
 Page 10 of 17
 
@@ -618,16 +547,10 @@ particular, and the nat-cat side is something that evolves without any warning. 
 we're on track to achieve our profitability expectations for the year and we'll see how we
 do relative to the market consensus.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 So and on the realized gain side, do you think we are done for the year?
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 So on the realized gains side, so as I told you, we have sold two buildings in Q3 on the
 real estate portfolio. Another building should be sold in Q4 with a positive contribution to
 the investment income. Keep in mind that with EUR164 million of unrealized gain on the
@@ -636,28 +559,20 @@ aim at selling mature assets, which mean when the value creation cycle has been
 completed and you should expect a positive contribution again in 2020 from the real
 estate portfolio, to both in Q4 and next year.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
+Q - Kamran Hossain {BIO 17666412 <GO>}
 
 Bloomberg Transcript
 
 Brilliant. Thanks very much.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Thanks, Kamran. Let us go to next question, please.
 
 Operator
 Thank you. Our next question comes from Vinit Malhotra from Mediobanca. Please go
 ahead, your line is open.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Good morning, sir. On my two questions, one is that the -- there were reserves
 released of EUR60 million. I think very similar to last year 3Q and then we obviously have
 another storm in Japan and potentially there could be some more in 4Q. Could you just
@@ -679,25 +594,17 @@ Date: 2019-10-24
 sorry, 2 points of worth -- mix in attrition was all man-made. That is the correct
 understanding or not? Thank you very much.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
+A - Denis Kessler {BIO 1498477 <GO>}
 
 FINAL
 
 Paolo, second question.
 
-A - Paolo De Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo De Martin {BIO 15930577 <GO>}
 Yes, on the attritional, the 2.1 points of additional attritional combined ratio is -- so it's the
 sum of the attritional loss ratio plus the commissions and this includes the impact of manmade losses, as well as Ogden, as well as the overall attritional performance of the book.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 Update to reserve releases in Q3 haven't been in anyway unusual. That's part of our longterm reserving strategy. You've seen similar reserve releases in situations like this in the
 past. We manage our reserve buffer on a long-term basis. So there is nothing particular
 about what we did in Q3. And now, when it comes to Q4, there is -- our reserving policy is
@@ -708,40 +615,25 @@ about the impact at this point.
 
 Bloomberg Transcript
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 On the management expense question. If you look at page 10, the management expense
 ratio went from 7.3 to 6.8 and the majority of the decrease has been just a scaling up of
 the portfolio. We haven't necessarily grown the management expenses very much, but
 we're riding bigger shares of existing treaties and therefore lowering our management
 expenses.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. And fee [ph] -- if I can quickly follow-up, the reserve strength would you say about
 unchanged as well as the reserve for the fees unchanged?
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Sorry, just to make sure I understood, did you ask about the reserve trend?
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 No. Strength. Sorry, the adequacy or more -- however, like (inaudible) just because there's
 been reserved (Multiple Speakers).
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Our policy is unchanged, we wouldn't have made the release if we didn't have the buffer.
 So there is no fundamental change to our reserve strengths compared to previous
 quarters.
@@ -753,34 +645,24 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2019-10-24
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Right. Thank you.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
+A - Mark Kociancic {BIO 17852409 <GO>}
 
 FINAL
 
 And again, and just as a reminder, this release is less than 0.5% of the total P&C reserve.
 So it's a very small percentage.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Thanks very much, Vinit. Let's go to the next question please.
 
 Operator
 Our next question comes from Michael Haid from Commerzbank. Please go ahead, your
 line is open.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
+Q - Michael Haid {BIO 1971310 <GO>}
 
 Bloomberg Transcript
 
@@ -794,10 +676,7 @@ Second question on the Solvency II ratio, apparently it fell from 215%, yes, in 
 at this stage. Are you considering any management action to protect this level or do you
 say, it just that it cannot fall any lower given the interest rate environment at the moment?
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 So, this is Jean-Paul. I'll start with the Japanese question. As you know, the Japanese
 market, the mentality of the companies there is to payback reinsurers over time. As a
 reminder after the 2011 earthquake losses we suffered in Japan, the payback for those
@@ -808,10 +687,7 @@ clients is not just to give payback on the specific programs that were impacted.
 the whole portfolio. This is what was achieved after the 2011 losses, and we expect a very
 similar trend to happen this renewal.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 If you, Jean-Paul or Frieder, on the solvency level?
 
 A - Knupling Frieder
@@ -838,16 +714,10 @@ forward. There is still buffer of further adverse market movements. But as I sai
 protection we have is the strong operating capital generation, which we've demonstrated
 over the past six months and which we planned also for Quantum Leap.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Okay. Thank you very much.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Thank you, Michael. Let us go to next question please.
 
 Operator
@@ -856,32 +726,20 @@ Societe Generale. Please go ahead, your line is open.
 
 Bloomberg Transcript
 
-Q - Avinash Goel
-
-{BIO 19750562 <GO>}
-
+Q - Avinash Goel {BIO 19750562 <GO>}
 Hi. This is Avinash from Socgen. I just have one question. What is a normalized capital
 generation for nine months given low Solvency II at 203%?
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Hello.
 
-Q - Avinash Goel
-
-{BIO 19750562 <GO>}
-
+Q - Avinash Goel {BIO 19750562 <GO>}
 Hello.
 
 A - Knupling Frieder
 Sorry, was the question what the normalized Solvency II capital...
 
-Q - Avinash Goel
-
-{BIO 19750562 <GO>}
-
+Q - Avinash Goel {BIO 19750562 <GO>}
 Capital generation, right.
 
 A - Knupling Frieder
@@ -907,16 +765,10 @@ But If you look at our past solvency disclosures and also the half year disclosu
 added for the first time in September this year. I think that gives you a good picture of
 what we are currently producing.
 
-Q - Avinash Goel
-
-{BIO 19750562 <GO>}
-
+Q - Avinash Goel {BIO 19750562 <GO>}
 Thank you.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Thanks Avinash. Let us go to the next question, please.
 
 Operator
@@ -925,10 +777,7 @@ your line is open.
 
 Bloomberg Transcript
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. Good morning, everyone. Two questions. First one would be just to come back on
 the man-made exposure. I think, it's now a couple of quarters that you've been facing
 higher elevated level of man-made, probably running at both your normalized level on a
@@ -944,10 +793,7 @@ extent, done. So you could -- could you tell us how you've been going through ma
 retrocession market, which has been a bit tighter over the past couple of months. And if
 there is a big change in terms of traction and in terms of pricing for you? Thank you.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 Okay. Going back to the first set of questions around man-made losses. So your
 statement is incorrect. We haven't seen an unusual level of man-made losses over the
 first half of the year. It's really been in the third quarter. And if you look at our normalized
@@ -988,10 +834,7 @@ a long-term mentality and not opportunistic. We feel we have a strong support an
 currently placing our retro and expect to be completed in the next couple of weeks on
 the main programs.
 
-A - Laurent Rousseau
-
-{BIO 19524847 <GO>}
-
+A - Laurent Rousseau {BIO 19524847 <GO>}
 Then a couple of points -- this is Laurent, that the Q3 and man-made is actually very close
 to the Q2 that we had last year. So it's not unheard off. It's on the -- it's a bit above the
 average that we have, but it's really not above. So and significantly, and as Jean-Paul said,
@@ -1001,26 +844,17 @@ other one is PA. So we have some casualty man-made, more than usual, but again, 
 pattern, no trend there. And there is a fourth claim man-made that is above EUR10 million
 for SBS in the quarter. And that's the space one.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay. Thank you. Just to come back on the retro, so, Jean-Paul, if I'd understood you well,
 actually no big chance to be expected either in terms of protection or cost of the firm.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 No. We've adapted our program slightly, because we were buying recovers and as I said,
 the supply in the marketplace has decreased from that product. So we did that with this
 structure slightly, but overall will be very similar to what we have today with more or less
 the same players.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Page 16 of 17
 
 
@@ -1031,18 +865,13 @@ Date: 2019-10-24
 
 Okay. Thank you.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 
 FINAL
 
 Thanks. Thank you very much.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Okay. And so that's the end of the questions. So thank you very much for attending this
 conference call. Please don't hesitate to give us a call should you require any further
 information. And just a quick reminder that is usual we have the sell side analyst
@@ -1050,10 +879,7 @@ roundtable held in our Paris, London and Zurich offices this evening as usual at
 UK time, 6:00 PM European time. So if you can attend that we'll see there. Otherwise,
 thank you very much and have a nice day.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Thank you all.
 
 Operator

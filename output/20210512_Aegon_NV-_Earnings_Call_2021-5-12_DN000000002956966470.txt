@@ -26,10 +26,7 @@ Good day, and welcome to the Aegon First Quarter 2021 results conference call. T
 conference is being recorded. At this time, I would like to turn the conference over to Jan
 Willem Weidema. Please go ahead, sir.
 
-Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+Jan Willem Weidema {BIO 15133400 <GO>}
 Thank you, operator. Good morning, everyone, and thank you for joining this conference
 call on Aegon's first quarter 2021 results. We would appreciate it if you could take a
 moment to review our disclaimer on forward-looking statements, which you can find at
@@ -37,10 +34,7 @@ the back of the presentation.
 With me today are Aegon's CEO, Lard Friese; and CFO, Matt Rider. Let me now hand over
 to Lard.
 
-Lard Friese
-
-{BIO 17008174 <GO>}
-
+Lard Friese {BIO 17008174 <GO>}
 Thank you, Jan Willem, and good morning everyone. We really appreciate that you are
 joining us on today's call as it is a busy day with many companies reporting results. So,
 thank you very much for being here.
@@ -188,10 +182,7 @@ Bloomberg Transcript
 
 And with this, I would like to hand over to Matt Rider. Matt, over to you.
 
-Matt Rider
-
-{BIO 20002664 <GO>}
-
+Matt Rider {BIO 20002664 <GO>}
 Thank you, Lard, and good morning everyone. On the next several pages, I will take you
 through the highlights of our first quarter 2021 results, our capital position and the recent
 progress we have made in managing our financial assets. Let me start with the financials.
@@ -411,10 +402,7 @@ commitment to reduce financial leverage by another EUR200 million before the end
 2021.
 With that, I pass it back to you, Lard, for the wrap-up.
 
-Lard Friese
-
-{BIO 17008174 <GO>}
-
+Lard Friese {BIO 17008174 <GO>}
 Thank you, Matt. I would like to -- you to take away from today's presentation that we
 have made early progress on our plans to transform Aegon. We have increased our
 operating result by 20% to EUR431 million. We are executing on our operational
@@ -453,10 +441,7 @@ Andrew Baker with Citi. Please go ahead sir, your line is open.
 
 Bloomberg Transcript
 
-Q - Andrew Baker
-
-{BIO 20402705 <GO>}
-
+Q - Andrew Baker {BIO 20402705 <GO>}
 Hi, thank you for taking my questions. Sorry, I've got two from me. Are you just able to
 provide a quick update on the outlook for both mortality and morbidity for the rest of the
 year? And then just on the CEE disposal, if it is a drawn-out [ph] close process, does this
@@ -464,10 +449,7 @@ have any implications on any of your usage of cash in your plans around that and
 specifically your debt reduction plans or even your 2023 dividend step change? Thank
 you.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 So, Matt, you -- can you take the update on mortality and morbidity? And on VIG, yeah, as
 you know, VIG is in the lead to obtain the required regulatory approvals to close the
 transaction in CEE and obviously we're supporting them with their efforts. They have run
@@ -475,10 +457,7 @@ into an issue in Hungary and they have -- they've told us that. They are in disc
 the Hungarian Government and they hope to resolve the situation positively -- expect
 actually to resolve the situation positively in the near future.
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 On new mortality and morbidity, just to give us a little bit of a baseline, so for the first
 quarter we had about EUR138 million of adverse mortality and that was offset by
 approximately 50%. We had 65 million better morbidity in the long-term care book. What
@@ -502,23 +481,15 @@ go ahead sir, your line is open.
 
 FINAL
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Hello, can you hear me? Good morning. I had two questions, one is the IBNR-and longterm care. I didn't understand -- it sounded like extra reserving but I'm not sure. And then
 the other thing, you said remittances from the US in Q2, and I just wondered if you could
 give us a figure. Thank you.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Matt, can you take both of them please?
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
+A - Matt Rider {BIO 20002664 <GO>}
 
 Bloomberg Transcript
 
@@ -532,20 +503,14 @@ But what we are guiding for, for 2021 is the same thing that we had talked about
 Capital Markets Day, which is somewhere between EUR600 million and EUR700 million
 for the full year.
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Thank you very much.
 
 Operator
 Thank you. And we take our next question from Colm Kelly with UBS. Please go ahead,
 your line is open.
 
-Q - Colm Kelly
-
-{BIO 19140684 <GO>}
-
+Q - Colm Kelly {BIO 19140684 <GO>}
 Yeah, and thanks very much. And just question on the capital generation, it was in line with
 expectations today and on track versus the 2021 guidance. But I suppose, given the
 strength of the progress on the operating plan, given higher reinvestment yield in 1Q, you
@@ -569,10 +534,7 @@ two questions. Thank you.
 
 FINAL
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 So on the first point on the capital generation, I would just remind you that capital
 generation is typically a little bit lower in the first quarter due to seasonality than it is in the
 rest of the year. But what we had seen was -- so we don't normalized for everything. So,
@@ -586,9 +548,7 @@ the new money yield from the fourth quarter given the rise in interest rates. Bu
 see, we are going to see capital generation go up as a consequence of the rising rates
 and that comes through I think in the presentation quite well. Thank you.
 
-Q - Colm Kelly
-
-{BIO 19140684 <GO>}
+Q - Colm Kelly {BIO 19140684 <GO>}
 
 Bloomberg Transcript
 
@@ -597,27 +557,18 @@ Okay, thanks. And maybe just one follow-up. I mean you've a very useful slide in
 impact within capital generation, do you have an estimate of what proportion you think
 has flowed through or has been already realized within capital generation?
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 Yes, I would say so. It was total addressable expenses down EUR203 million for the whole
 thing, that's on the fourth-quarter rolling average, I would say, perhaps 25% (inaudible).
 
-Q - Colm Kelly
-
-{BIO 19140684 <GO>}
-
+Q - Colm Kelly {BIO 19140684 <GO>}
 Okay, perfect. Thanks Matt.
 
 Operator
 Thank you. (Operator Instructions) We take our next question from Ashik Musaddi with J.P.
 Morgan. Please go ahead, your line (Technical Difficulty).
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thank you, Matt, and good morning Matt. Good morning, Lard. Just couple of questions;
 actually going back to the previous question again, when we think about capital
 generation for the year, I mean your guidance was EUR800 to EUR900 million, if I
@@ -647,9 +598,7 @@ economics of that? What is the drag in terms of capital -- or capital generation
 are all those embedded in the numbers in your planning or is there any additional positive
 or negative that we should be thinking in the future? Thank you.
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
+A - Matt Rider {BIO 20002664 <GO>}
 
 Bloomberg Transcript
 
@@ -697,10 +646,7 @@ that number that will come through our capital. So it's not so much a capital ge
 thing, you see it more reflected in the sensitivities of the RBC ratio to equity markets and
 interest rates. Let me leave it [ph].
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 I mean, just a quick follow-up on that. Actually it's a request. I mean it would be great if we
 can cover the interest rate risk in future in a session or something so that we understand
 where are the risks, what you are doing and what are their interest rate risks remaining in
@@ -709,30 +655,21 @@ are not able to see that in terms of number because sensitivity may not be the r
 of looking at economics. So, any help in the future on interest rate related exposure, risks,
 hedges et cetera, would help a lot. Just a good [ph] thought. Thank you.
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 That's an entirely fair request and we will come back when we do the second quarter
 results on our progress on implementing the dynamic program in the US and that will be
 part of it.
 
 Bloomberg Transcript
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thank you.
 
 Operator
 Thank you. And we take our next question from Fulin Liang with Morgan Stanley. Please go
 ahead, your line (Technical Difficulty).
 
-Q - Fulin Liang
-
-{BIO 21126177 <GO>}
-
+Q - Fulin Liang {BIO 21126177 <GO>}
 Okay, thank you. Good morning, and I've two questions. So first one is, actually coming
 back to that interest rate hedge, so you to the macro interest rate hedge. I think the -when you put on the hedge, the US 10-year was 1.5 roughly. And does that mean that -- I
 understand that as you essentially locked in that 1.65 for one-third of your VA book, but if I
@@ -760,10 +697,7 @@ Thank you.
 
 FINAL
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 So on the first point, there is a difference between the -- let's say, the statutory treatment
 of that interest rate macro hedge from that long-term rate assumption. That long-term
 rate assumption that we have, Fulin, is strictly related to IFRS. So the interest rate macro
@@ -785,10 +719,7 @@ expect to release that to the extent that we see additional entries into long-te
 facilities that are running above our long-term expectations. So, we would expect to
 release that as we come out of the P&L.
 
-Q - Fulin Liang
-
-{BIO 21126177 <GO>}
-
+Q - Fulin Liang {BIO 21126177 <GO>}
 Okay, thank you. (Ends Abruptly)
 
 This transcript may not be 100 percent accurate and may contain misspellings and other

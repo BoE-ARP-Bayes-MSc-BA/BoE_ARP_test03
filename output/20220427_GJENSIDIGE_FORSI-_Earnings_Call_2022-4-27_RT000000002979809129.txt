@@ -29,20 +29,14 @@ Today's conference is being recorded.
 At this time, I would like to turn the conference over to Ms.Mitra Hagen Negard, Head of
 IR. Please go ahead.
 
-Mitra Hagen Negard
-
-{BIO 3974076 <GO>}
-
+Mitra Hagen Negard {BIO 3974076 <GO>}
 Thank you. Good morning, everyone. And welcome to the ﬁrst quarter presentation of
 Gjensidige. My name is Mitra Negard and I'm Head of Investor Relations. As always, we
 will start with our CEO, Helge Leiro Baastad, who will give you the highlights of the
 quarter, followed by our CFO, Jostein Amdal, who will go into the numbers in further
 detail. And we have, of course, a lot of time for Q&A after that. Helge, please.
 
-Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+Helge Leiro Baastad {BIO 5865247 <GO>}
 Thank you, Mitra. Good morning and welcome everyone. The world has indeed changed
 with Russia's invasion of Ukraine, geopolitical uncertainty has risen to the highest level in
 decades. It's shocking and frightening to witness an unprovoked attack on a sovereign
@@ -197,10 +191,7 @@ our presence gradually as we gain more experience in this new ﬁeld.
 And with that, I will leave the word to Jostein to present the fourth quarter results in more
 detail.
 
-Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+Jostein Amdal {BIO 19939645 <GO>}
 Thank you, Helge, and good morning, everybody. I'll start on Page 8. We delivered a
 proﬁt before tax of NOK1,506 million in the ﬁrst quarter slightly below last year. Premium
 growth and the improved underlying frequency loss ratio and the lower cost ratio
@@ -363,10 +354,7 @@ currently standing at 56%. We'll continue to develop these digital services furt
 forward.
 I then hand over back to Helge.
 
-Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+Helge Leiro Baastad {BIO 5865247 <GO>}
 Thank you, Jostein. To sum up on Page 17, we are very pleased with the solid results we
 continue to deliver. We have set ambitious targets for the next four years, and we are
 conﬁdent to deliver on that. We will continue to focus on proﬁtable growth together with
@@ -397,10 +385,7 @@ Operator
 Thank you. (Operator Instructions) We will take our ﬁrst question from Blair Stewart from
 Bank of America. Your line is open. Please go ahead.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Thank you very much, and good morning, gents. I've got three questions, they're
 somewhat detail orientated, so nothing major. The ﬁrst one is just on Sweden with a new
 system that you're implementing. Can you talk a little bit about what impact that will have,
@@ -422,10 +407,7 @@ discounting impact would have been a bit more, a bit larger. So therefore the ne
 may be a bit smaller. So just any additional thoughts on the IFRS 17 impact? I appreciate
 it's still early days. Thanks very much.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 Good morning, Blair. Its Helge. The core system, as you know, the background for this
 present core system in Norway and also it's a sister system, we have had in Sweden and
 Denmark, it's like 27 years old or something like. So all the players in the Nordics have to
@@ -453,17 +435,11 @@ planning and I guess '23, '24 is the years for Sweden.
 
 FINAL
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 And sorry, I have to -- why do you say that short-term, the sales could be impacted
 negatively in Sweden?
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 No, I'm not saying we will beneﬁt from facing out the old system and the system in
 Denmark and No -- and Sweden, if you compare that to Norway, the cost per policy has
 been rather high. So we will see reduction in cost per policy short and long-term. And
@@ -472,18 +448,12 @@ much more agile system as I said, shorter time to market, ability to change pric
 continuously, take on board partners et cetera. That's a more long-term -- we will see
 long-term eﬀects. Short-term, we will see reduction in cost per policy.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Okay. Understood. So much messages. Thank you.
 
 Bloomberg Transcript
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 On the private equity question, you're absolutely right. It's in general a lag from one
 quarter, we need to get the reported net asset values from the underlying funds that we -the investment in the portfolio. When that will imply a negative drop in Q2, is a bit earlier
 to tell so far and we will not guide on that, because I mean these are not the overall
@@ -492,16 +462,10 @@ determine how this development goes. Some of the exposure here is, of course, oi
 services related, which some had quite a run during the ﬁrst quarter in the listed market.
 So this is a bit early to say.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Okay. Understood.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Thirdly, IFRS 17, yes, I mean, you're right. At the year end, we say that there would be a
 negative eﬀect on overall, the (inaudible) few major eﬀects on the insurance side, it's a
 discounting aﬀect the reserves. There's a new risk margin, and then there's mark-tomarket on the health and authority bonds, which are have a positive over value in the
@@ -518,35 +482,22 @@ Company Name: Gjensidige Forsikring ASA
 Company Ticker: GJF NO Equity
 Date: 2022-04-27
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Okay. Understood.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
+A - Jostein Amdal {BIO 19939645 <GO>}
 
 FINAL
 
 Yes.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 Are you ﬁnished, Jostein?
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Yes.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 
 Bloomberg Transcript
 
@@ -559,20 +510,14 @@ report on the 13 ﬁgures on cost ratio and also. So I was on the cost side, whe
 commented the new core system maybe some sales destruction in the implementation
 phase.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Okay. Yes, that's clear. Thank you.
 
 Operator
 We will take our next question from Tryfonas Spyrou from Berenberg. Your line is open.
 Please go ahead.
 
-Q - Tryfonas Spyrou
-
-{BIO 21705826 <GO>}
-
+Q - Tryfonas Spyrou {BIO 21705826 <GO>}
 Oh, hi. Good morning. I have one question. I was wondering, can perhaps comment on
 where do you see claims inﬂation across the diﬀerent parts of your book, for example,
 motor housing and obviously in diﬀerent sort of geography, so, Norway versus Denmark.
@@ -580,10 +525,7 @@ And I guess following up on from that, how do you see competition in these marke
 you still see competition being rational, when it comes to price increases? Or do you see
 players taking diﬀerent approaches? Thank you.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 Yes. We got the claims inﬂation. I would start to stress and comment once again, that this
 is simply a ordinary course of business for us. In ﬁrst quarter, we have not seen any
 inﬂation other than what we communicated one quarter ago. So claims inﬂation so far has
@@ -610,20 +552,14 @@ G factor in Norway and that's between 4% and 5%. The G factor in 2021 was just b
 5%. In Denmark, it's lower and in Sweden, it's lower but we have seen an inﬂation in -picked up both in Denmark and Sweden too. But as I said, these levels are somewhat
 lower than in Norway.
 
-Q - Tryfonas Spyrou
-
-{BIO 21705826 <GO>}
-
+Q - Tryfonas Spyrou {BIO 21705826 <GO>}
 And I guess on -- just a comment on that, are you sort of (Multiple Speakers) based on
 that sort of 12-month view of 7% to 9% in the quarterly percent, does that in line with the
 sort of -- yes.
 
 Bloomberg Transcript
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 We have demonstrated since 2018 that we have enormous pricing power. As you
 remember, we had this back on track related to motor insurance, we then operated with
 price increases for above 10%. What we are talking about now, it's that we have to and will
@@ -636,25 +572,16 @@ motor in the ﬁrst quarter when we priced in line with claims inﬂation is a n
 between volume and price increased growth. So we are really conﬁdent that we will
 handle this in a good manner.
 
-Q - Tryfonas Spyrou
-
-{BIO 21705826 <GO>}
-
+Q - Tryfonas Spyrou {BIO 21705826 <GO>}
 Very clear. Thank you.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 We do not see any special softening market trends within and its segment. It's highly
 competitive market, as you know and it has been for many years, but I think the market
 see this inﬂationary development and they have to increase prices to maintain their
 proﬁtability as we do.
 
-Q - Tryfonas Spyrou
-
-{BIO 21705826 <GO>}
-
+Q - Tryfonas Spyrou {BIO 21705826 <GO>}
 That's very clear. Thank you very much.
 
 Page 11 of 21
@@ -670,19 +597,14 @@ We will take our next question from Ulrik Zurcher. Your line is open. Please go 
 
 FINAL
 
-Q - Ulrik Ardal Zurcher
-
-{BIO 19208986 <GO>}
-
+Q - Ulrik Ardal Zurcher {BIO 19208986 <GO>}
 Thank you. Two questions. Firstly, I was just wondering if given the material inﬂation and
 supply chain issues that they accelerated in March now and that many corporates are repriced in January. You see any short-term risk to your claims ratio there?
 Second question, I agree that motor looks strong, but I was wondering, how you see the
 competition in private property in Norway and that's -- if it's a risk that even given your
 repricing that we might not see nominal premium growth for that product this year?
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
+A - Jostein Amdal {BIO 19939645 <GO>}
 
 Bloomberg Transcript
 
@@ -700,31 +622,19 @@ volume to more than contract. And this is -- it's highly unlikely, I will not go
 than that in guiding, but it's -- you should expect premium growth, normal premium
 growth going forward as well.
 
-Q - Ulrik Ardal Zurcher
-
-{BIO 19208986 <GO>}
-
+Q - Ulrik Ardal Zurcher {BIO 19208986 <GO>}
 Okay. Thank you.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 I think also -- I also think that our ﬁrst quarter currency adjusted 9.9% growth is a strong
 evidence that we have disability.
 
-Q - Ulrik Ardal Zurcher
-
-{BIO 19208986 <GO>}
-
+Q - Ulrik Ardal Zurcher {BIO 19208986 <GO>}
 Yes, but have any diﬀerent. Sorry, it was just a follow-up then on the property, because any
 diﬀerence between private property and corporate property on how much is the churn
 versus re-pricing?
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Well, and if you look at the Norwegian portfolio, the churn is actually on the -- in the
 segment as such we measured churn at the customer level. The journey is actually quite
 Page 12 of 21
@@ -750,10 +660,7 @@ this market. We probably see it more than the others because we have the -- bett
 the others because we have the other largest player but this is the same picture hitting
 everyone.
 
-Q - Ulrik Ardal Zurcher
-
-{BIO 19208986 <GO>}
-
+Q - Ulrik Ardal Zurcher {BIO 19208986 <GO>}
 Thank you.
 
 Operator
@@ -762,10 +669,7 @@ Please go ahead.
 
 Bloomberg Transcript
 
-Q - Hakon Astrup
-
-{BIO 18861149 <GO>}
-
+Q - Hakon Astrup {BIO 18861149 <GO>}
 Good morning. Thank you for taking the questions. Two questions from me. First, can you
 give some color on how the current inﬂationary environment is impacting your reserves
 (inaudible) look at how 1% high percentage points higher inﬂation over the next three
@@ -774,10 +678,7 @@ And the second question on the procurement, in this current environment, is it m
 diﬃcult for you now to renew agreements with suppliers? And are there any interesting
 changes in terms of terms et cetera?
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Yes. I'll start on the ﬁrst one on the reserve impact from inﬂation. The major part of the
 reserves are related to long tail lines of business and then it's the long-term assumptions
 about especially wage and inﬂation, because it's a person -- personally a new injury
@@ -789,10 +690,7 @@ property, motor, health all are less exposed to inﬂationary. They are generall
 within six months inﬂation doesn't quite that quickly. So it's -- there is some minor
 negative eﬀect there, but that's the -- well handled within the current preserving.
 
-Q - Hakon Astrup
-
-{BIO 18861149 <GO>}
-
+Q - Hakon Astrup {BIO 18861149 <GO>}
 Page 13 of 21
 
 
@@ -807,10 +705,7 @@ you give us some number sensitivity here just as far as to do the calculations o
 
 FINAL
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 I don't think, we'll go into that detail. It is numbers that we have done and used for
 measuring around with position but not haven't made public earlier. But if you take ﬁve
 years, and then a larger part of reserves is actually aﬀected. But as Helge mentioned, we
@@ -820,18 +715,12 @@ compensation products, for instance, which is I mean it's a long part -- large p
 reserves, actually, even further out there. So I won't give you on the numbers sorry, but of
 course there is a sensitivity.
 
-Q - Hakon Astrup
-
-{BIO 18861149 <GO>}
-
+Q - Hakon Astrup {BIO 18861149 <GO>}
 Thanks for the color.
 
 Bloomberg Transcript
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 Yes. We are -- we have a large claims organization with good agreements and we have
 continuous dialogue with our suppliers on changes in prices, but 90% of repairs in
 Norway and Denmark and managed through contracted suppliers and we had best
@@ -841,20 +730,14 @@ you come to the year-end, I guess they use more time now compared to one year ag
 and two years ago. But I do not have any reports to me that we have problems in that type
 of dialogue. So it's a ordinary business as well.
 
-Q - Hakon Astrup
-
-{BIO 18861149 <GO>}
-
+Q - Hakon Astrup {BIO 18861149 <GO>}
 Thank you so much.
 
 Operator
 We will take our next question from Jan Erik from ABG. Your line is open. Please go
 ahead.
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Thank you for taking my questions as well. I have two. Firstly, inﬂation question a little bit
 diﬀerent. This is so that you think there is unlimited price increases, you can get onto your
 clients and that they will actually accept it, since they have no place to hide, but what do
@@ -863,9 +746,7 @@ some other changes to this, so they can sort of -- so you will get the lower pri
 for going forward. Is that something -- is something you can think of here is, that's
 unthinkable so to speak.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 Page 14 of 21
 
 
@@ -889,47 +770,30 @@ are very conﬁdent that we have strong ability to pass through the claims inﬂ
 increases, but we are not talked about -- we haven't talked about unlimited. So that's a
 scenario we do not look into at the moment.
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Okay. Thank you. And you now have a new product in the housing or the re-selling stuﬀ
 you talked about. How should you think about that this is a premium that people pay
 before they sell their house to -- so you can -- they can do some more preparation on
 before they selling or how is the pricing premiums and claims on that kind of product
 with?
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 
 Bloomberg Transcript
 
 It's a service, and it's not the risk premium. So this is a service concept if you are talking
 about this, yes.
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Yes.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 Maksimer. I think --
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Maksimer.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 Yes. And I think, what we are [ph] into pilots, Jan Erik, is that the average cost for
 preparations before selling is between NOK25,000 and NOK30,000. So this is the service
 beside the insurance premiums that we oﬀer to our suppliers together with our suppliers
@@ -937,10 +801,7 @@ for our customers to prepare for selling. And doing this, we take more care of o
 customers. We solve bigger problems and we position of home seller insurance in a good
 way.
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Page 15 of 21
 
 
@@ -952,28 +813,20 @@ Date: 2022-04-27
 Okay. So it's not a -- if it's not a premiums actually, what is probably would cost them to
 do. So, it's --
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 
 FINAL
 
 It's not the premium. It's a service product
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Okay. Perfect. No, I understand it. Thank you. That's all my questions.
 
 Operator
 Our next question comes from Thomas Svendsen from SEB. Your line is open, please go
 ahead.
 
-Q - Thomas Svendsen
-
-{BIO 6070863 <GO>}
-
+Q - Thomas Svendsen {BIO 6070863 <GO>}
 Yes, good morning. A question to the large claims, if you look at the large claims, I look
 away from whether eﬀects. Is it possible to say anything about how much it's sort of as
 cyclical component, that these larger claims are increasing and the column is doing well.
@@ -982,20 +835,14 @@ claims in the next couple of years than what has seen in the last couple of year
 
 Bloomberg Transcript
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 We do not expect that, Thomas. I'm going to see that there is any kind of cyclicity in the -word absurd. I mean, in general, we do not make public, so the actual losses or the simple
 each and every loss, but if we did send out the press release related to the (inaudible)
 which is a building under construction that too far. We don't see anything speciﬁc about
 the (inaudible) that we've had in a non-vendor related, lots of stuﬀ we've had in the ﬁrst
 quarter. I would subtract these two pure randomness.
 
-Q - Thomas Svendsen
-
-{BIO 6070863 <GO>}
-
+Q - Thomas Svendsen {BIO 6070863 <GO>}
 I don't know the question to private Norway. Given that the households or your customers
 disposal income is reduced by electricity price, in general, increases interest rate,
 increases on mobile so sharp insurance premiums increases. Should we still expect that
@@ -1004,10 +851,7 @@ expect that the amount -- sort of the total amount of insurance to go down that 
 households are doing something, because their disposable income is sharply the great
 thing?
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Of the certain extent, at least in Scandinavia, these are basic products that you buy them
 and it's the house on the car that you have, and more or less everyone actually ensures
 that whether someone has a reaction to price increases, which is actually more coverage
@@ -1030,19 +874,14 @@ still increasing, same goes for the car sales, so they were quite slow in the �
 2022. So, as the underlying assets increase in volume, the insurance volumes should also
 increase.
 
-Q - Thomas Svendsen
-
-{BIO 6070863 <GO>}
-
+Q - Thomas Svendsen {BIO 6070863 <GO>}
 Okay. Thank you.
 
 Operator
 We will take our next question from Alexander Evans from Credit Suisse. Your line is open.
 Please go ahead.
 
-Q - Alexander Evans
-
-{BIO 19956412 <GO>}
+Q - Alexander Evans {BIO 19956412 <GO>}
 
 Bloomberg Transcript
 
@@ -1060,10 +899,7 @@ sort of lower new business growth, but also does that mean sort of higher attent
 more people probably stay with you. Just sort of want to understand that sort of dynamic?
 Thanks.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 Yes. I commented the Baltics and we have used time together also with an external
 partner and it's not dramatic measures actually, is quite well known measures, we are
 implementing in the Baltic organization. It's about pricing, re-pricing, risk selection, it's
@@ -1090,10 +926,7 @@ parallel, all kind of strategic opportunities will be evaluated.
 
 FINAL
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 The second question on the home seller insurance market, which was kind of open up
 with this new product from January 1 this year. I think we commented on the expected
 golden standard, which is kind of rough estimates, at over time this should develop
@@ -1117,20 +950,14 @@ the previous question here, the number of new cars is still actually increasing,
 number of cars just in Norway is increasing, which means our potential business volume is
 also increasing.
 
-Q - Alexander Evans
-
-{BIO 19956412 <GO>}
-
+Q - Alexander Evans {BIO 19956412 <GO>}
 Okay. Perfect. Thank you.
 
 Operator
 We will take our next question from Faizan Lakhani from HSBC. Your line is open. Please
 go ahead.
 
-Q - Faizan Lakhani
-
-{BIO 20034558 <GO>}
-
+Q - Faizan Lakhani {BIO 20034558 <GO>}
 Thank you for taking my question. I just had a follow-up question on Norway property.
 Your PASA [ph] (inaudible) said that they were able to put a NOK0.05 rate increases up in
 private property. I just want to understand, is the market able to put through 7% to 9%
@@ -1139,9 +966,7 @@ And the second question is on the private Norway segment as a whole, the underly
 loss ratio development was very favorable in the ﬁrst quarter. I just want to understand, is
 that a fair run rate for the rest of the year? Thank you.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
+A - Jostein Amdal {BIO 19939645 <GO>}
 Page 18 of 21
 
 
@@ -1158,23 +983,14 @@ demonstrated that over the increasing claims inﬂation period that we have behi
 we will manage that also going forward. This is clearly doable. It is because we have a
 very strong comparative position.
 
-Q - Faizan Lakhani
-
-{BIO 20034558 <GO>}
-
+Q - Faizan Lakhani {BIO 20034558 <GO>}
 Just wanted to understand, are the rest of the market able to put through that level of rate
 increase as well?
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 I don't think I'll talk about the rest of the market.
 
-A - Helge Leiro Baastad
-
-{BIO 5865247 <GO>}
-
+A - Helge Leiro Baastad {BIO 5865247 <GO>}
 Talking about the competitors, we don't do. Remember that we have also a very strong
 customer dividend model in our way and that's quite unique. And also we have to look
 into all kind of aspects when you are discussing, pricing power ability to drive through
@@ -1182,10 +998,7 @@ price increases, but we mainly focus on ourselves.
 
 Bloomberg Transcript
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Private Norway, I think we don't guide on kind of what will be the loss ratio or under IFRS 7
 [ph] to be going forward. But if you kind of look at the underlying frequency loss ratio,
 that is kind of nothing -- there is no kind of speciﬁc volatility or speciﬁc events that make it
@@ -1196,27 +1009,18 @@ anything about kind of what will be the run rate over the next few quarter, I wo
 there's nothing speciﬁc about this quarter that is kind of should hindrance from
 continuing.
 
-Q - Faizan Lakhani
-
-{BIO 20034558 <GO>}
-
+Q - Faizan Lakhani {BIO 20034558 <GO>}
 Perfect. Thank you very much.
 
 Operator
 We'll take our next question from Jan Erik from ABG. Your line is open. Please go ahead.
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Thank you. Just one follow-up on the run of gains. The level of 3.7% is, of course, in line
 with last quarter but lower than last year. Is this sort of in the prediction, we should expect
 that it should continue to lower into 2023?
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Page 19 of 21
 
 
@@ -1236,46 +1040,29 @@ historically, there has been positive run of gains, I mean, one to two percentag
 previous, but this is a -- this was history, our kind of guidance here is that we do not have
 any planned reserve releases going forward.
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 So if you look into the -- on Slide 27, you show it very nicely, so obviously on the NOK1
 billion you would just have had NOK34 million run of gains in this quarter.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
-
+A - Jostein Amdal {BIO 19939645 <GO>}
 Yes. That's great.
 
-Q - Jan Erik Gjerland
-
-{BIO 5346031 <GO>}
-
+Q - Jan Erik Gjerland {BIO 5346031 <GO>}
 Perfect. Thanks a lot.
 
-A - Jostein Amdal
-
-{BIO 19939645 <GO>}
+A - Jostein Amdal {BIO 19939645 <GO>}
 
 Bloomberg Transcript
 
 that.
 
-A - Mitra Hagen Negard
-
-{BIO 3974076 <GO>}
-
+A - Mitra Hagen Negard {BIO 3974076 <GO>}
 Operator, are there any further questions?
 
 Operator
 Its appears there are no further questions at this time. Thank you.
 
-A - Mitra Hagen Negard
-
-{BIO 3974076 <GO>}
-
+A - Mitra Hagen Negard {BIO 3974076 <GO>}
 All right. Thank you. Thank you for all your good questions everyone. We will be
 participating in a number of roadshow meetings and conferences this quarter too. We're
 happy that the majority will be in person this time after two years of almost fully digital

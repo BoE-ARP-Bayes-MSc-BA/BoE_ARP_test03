@@ -35,10 +35,7 @@ questions after the presentation. In order to give all participants a chance to 
 questions, we kindly ask you to limit the numbers of your questions to two.
 At this time, I would like to hand the call over to Mr. Ian Kelly. Please go ahead, sir.
 
-Ian Kelly
-
-{BIO 19976646 <GO>}
-
+Ian Kelly {BIO 19976646 <GO>}
 Good morning, everybody, and welcome to the SCOR Group 2017 first quarter results call.
 I please ask you as usual to consider the disclaimer on page 2 of the presentation, which
 indicates that the financial results for the first quarter of 2017 included in the presentation
@@ -62,10 +59,7 @@ FINAL
 And with this, I would like to give the floor to Mark Kociancic, Chief Financial Officer of the
 SCOR Group. Mark?
 
-Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+Mark Kociancic {BIO 17852409 <GO>}
 Thank you, Ian, and good morning everyone. I have a very simple message for you all
 today. At SCOR, we see blue skies, and the group is in excellent shape. SCOR delivers a
 strong start to the year and continues to pave the way through combining three key
@@ -145,10 +139,7 @@ for the dividend payment in early May.
 Let me now hand over the baton to Victor, who will give you more details on the P&C
 results.
 
-Victor Peignet
-
-{BIO 6287211 <GO>}
-
+Victor Peignet {BIO 6287211 <GO>}
 Good morning. We are pleased with the results of the quarter which are more than in line
 with the targets and the assumptions of Vision in Action. Picture that comes out of the two
 P&C slides that you have in the presentation is very much one of continuity and stability of
@@ -197,10 +188,7 @@ and pending the results of the June, July renewals, we believe that the growth r
 indicated in Vision in Action remains valid.
 On that, I'd pass on to Paolo for the Life results.
 
-Paolo de Martin
-
-{BIO 15930577 <GO>}
-
+Paolo de Martin {BIO 15930577 <GO>}
 Thank you, Victor. I'm pleased to report that SCOR Global Life had a very good start of
 the year with strong results, both with regard to premium growth and profitability of the
 business. The first quarter of 2017, we've recorded gross written premium of €2.2 billion,
@@ -274,9 +262,7 @@ Date: 2017-04-27
 
 With this, I will hand it over to Ian Kelly for the conclusion of this presentation.
 
-Ian Kelly
-
-{BIO 19976646 <GO>}
+Ian Kelly {BIO 19976646 <GO>}
 
 FINAL
 
@@ -289,9 +275,7 @@ Q&A
 Operator
 Thank you. We'll take our first question from . Your line is open. Please go ahead.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 
 Bloomberg Transcript
 
@@ -310,16 +294,10 @@ understand if this is somehow run rate for the coming quarters? And so, should w
 something like 3 points of solvency during the remaining of the year, solvency capital
 generation? Thanks very much.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Okay. Paolo, on the first question, technical margin at 7.2%
 
-A - Paolo de Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo de Martin {BIO 15930577 <GO>}
 Yeah. I think, you guys are used so nicely with this steady 7%. I mean, the 20 basis points
 of over €8 billion book of premiums is – it will be normal volatility of the quarter. This
 quarter, we had a particularly good performance of our in-force book. We had one-off
@@ -335,30 +313,19 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2017-04-27
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Victor on the inflation...
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 
 FINAL
 
 Yeah.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 ...expectations given the reserve release?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 First of all, the reserve release are taken out of the margin, above best estimate. That has
 got to be very clear. It's only a very, very marginal fraction of the total reserves, which
 were well in excess of €11 billion. And those €45 billion have been spread across, well, four
@@ -368,9 +335,7 @@ release. As far as for the inflationary pressures on claims, well, we are review
 situation on claims inflation every year. And, again, I mean, we are totally up to speed on
 that.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
+A - Mark Kociancic {BIO 17852409 <GO>}
 
 Bloomberg Transcript
 
@@ -394,10 +359,7 @@ equally spread out over the quarters. And also capital generation is a function 
 business mix in the respective quarters. So, there is some volatility, which is also caused
 by business mix and growth dynamics during the year.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Okay. Thank you very much.
 Page 7 of 15
 
@@ -407,10 +369,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2017-04-27
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Can I just everybody to stick to two questions each. We've got short time this morning,
 and we can deal with other questions subsequent to the call. Thanks.
 
@@ -419,10 +378,7 @@ FINAL
 Operator
 We'll move to our next question from Vinit Malhotra. Your line is open. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Good morning. So, my two questions. One is on the strong normalized combined
 ratio. Victor, would you say that there was anything very different, because this is obviously
 much lower, much better than what we were expecting and what is in the target range? Is
@@ -432,18 +388,12 @@ slightly weird, I apologize, from the U.S. proposals on tax. I mean, is there an
 estimate from what happens to solvency or DTAs or any such thought process from your
 side on this proposal? Thank you.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Victor, on the 94% normalized combined ratio.
 
 Bloomberg Transcript
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well we are in the third quarter of the Vision in Action plan. And as for the previous two
 quarters, we have said that, we have managed until now to continue much more on
 optimal dynamics, which was basically a combined ratio between 94% and 95%. And as
@@ -456,16 +406,10 @@ and what is important for us is that for the moment, we continue to be able to m
 the combined ratio around the 94%, 94.5%. And we are not yet in the metrics of Vision in
 Action, which we're more 95%, 96%.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Thank you.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 On the second question with respect to the U.S. proposals on income tax reduction. So,
 there's a wide range of tax rates that are being floated around, as potential lending
 points in the U.S. I'll just give you a general proposal as to how it might affect existing
@@ -484,9 +428,7 @@ estimate. I think it is a net positive for us though, because we have such an ex
 extensive operation in both the U.S. Life and U.S. P&C organization, so there would be a
 net positive benefit in the long-term with a lower income tax rate in the United States.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 FINAL
 
@@ -495,10 +437,7 @@ Thank you.
 Operator
 We'll move to our next question from Kamran Hossain. Your line is open, please go ahead.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi. Good morning, everyone. Three questions, the first one is, I guess, following the
 Ogden change (25:35) this quarter, can you maybe give an indication of what you expect
 to happen to prices, especially in the UK Non-Proportional Motor reinsurance market?
@@ -510,16 +449,10 @@ you indicated that would happen over the three-year plan period? Thank you.
 
 Bloomberg Transcript
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Victor?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 As far as the market reaction to Ogden, I think it's too early to really say. I think we knew
 technically what is the impact on pricing of excess of loss reinsurance due to Ogden rate
 change. We are waiting for, first, the consultation and the outcome of it. I think as the rest
@@ -535,10 +468,7 @@ is about a bit less than 35%; and long-tail is a bit above 20%. So, now, if we l
 24%. So, I mean, it's like a tanker, it doesn't move at a very high speed, but it is significant,
 yes, in terms of movement.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Thanks very much. I appreciate the color.
 Page 9 of 15
 
@@ -553,10 +483,7 @@ We'll move to our next question from Jonny Urwin. Your line is open. Please go a
 
 FINAL
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi. Good morning. Thanks for taking my question. Just two for me. So, firstly, just thinking
 ahead to June 1, July 1, renewals. I've read a bit in the sort of industry journals, that
 demand has been falling in the U.S., in particular, from primaries and also due to a bit of
@@ -565,15 +492,10 @@ there's been growing sort of criticism of broker practices, and commission level
 Lloyd's of London ,in particular in recent weeks as well. So ,just any, any comments from
 you guys there would be appreciated. That's all Thanks.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Victor, again.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 
 Bloomberg Transcript
 
@@ -585,20 +507,14 @@ the second regarding the levels of commissions and brokers, well I have read tho
 comments, but I think that everyone has got his own view about that. And personally, I'm
 not willing to comment on this.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 All right. Thank you.
 
 Operator
 Our next question comes from the line of Fossard, Thomas. Your line is open. Please go
 ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. Good morning, guys. Two questions. The first one would be for Victor, just to come
 back on the Ogden rate reserve strengthening. So, just to better understand, what was
 the starting point in terms of reserves you were holding on the UK Motor, just to put the
@@ -616,18 +532,12 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2017-04-27
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Victor?
 
 FINAL
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Let me give you some facts on Ogden and demonstrate how transparent we are. We
 estimate our market share of Proportional and Non-Proportional UK Motor at about 3.5%.
 We used to have a larger share on Proportional, but considering market conditions, we
@@ -650,19 +560,13 @@ very competitive, and we are also extremely focused on the technical profitabili
 we have to take views on certain contracts, which happen at 1/4, so we've got to see how
 the June, July renewals develop.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay. Thank you.
 
 Operator
 We'll move to our next question from William Hawkins. Your line is open. Please go ahead.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hi. Thank you. I think that you've just answered the half of my questions. I was to ask about
 Ogden, why this has affected the P&L, because I would have thought that such an event
 was covered by your bulk IBNR. But it sounds like in your answer to the previous question,
@@ -673,9 +577,7 @@ And then what you didn't answer from the previous question is what the reserves 
 before this charge was taken? That would be useful just to understand the scale of the
 impact to the portfolio affected. Thank you.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 Page 11 of 15
 
 
@@ -687,36 +589,22 @@ Date: 2017-04-27
 Right. I mean if it would have gone to 1%, we would have no impact. Secondly, the
 reserves were a bit north of €300 million before Ogden.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 FINAL
 
 Thank you.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 We are talking here of Motor Non-Proportional, right, so the €83 million.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 (34:37) The €83 million.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 (34:39)
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you.
 
 Operator
@@ -725,10 +613,7 @@ Bloomberg Transcript
 
 We'll move to our next question from Frank Kopfinger. Your line is open. Please go ahead.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Yes. Good morning, everybody. I have other two questions. My first question is on P&C.
 Victor, could you comment a little bit more on the reserve margin, how this develops after
 the reserve release? Do you see it on the same level, or how much did it affect the
@@ -738,10 +623,7 @@ might be realized gains from property being ahead on the cost of the year. Shoul
 expect the same magnitude than we had at the last year, or what should be the
 expectation in this end?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 We are talking of the magnitude of release, which is very comparable to the one we did
 last year, and when we faced the report on Fort McMurray fires. And as we commented at
 the end of the year, we had been able to replenish the margin by the end of the year. So,
@@ -749,10 +631,7 @@ I think, we are at this year, in the same configuration. We have a hit on the ma
 first quarter, which is not massive, and we are hoping that by the end of the year, we will
 have replenished the margin.
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 Page 12 of 15
 
 
@@ -774,18 +653,13 @@ magnitude is in line with the expectation for the full year that I gave in the p
 the Q4 result. So, still, an income yield between 2.1% and 2.3% and the contribution of
 realized gain that should be between 0.5% yield.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay. Thank you.
 
 Operator
 We'll take our next question from Vikram Gandhi. Your line is open. Please go ahead.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 
 Bloomberg Transcript
 
@@ -793,31 +667,19 @@ Hi, there. Just one question from me. Can you please shed some more light on the
 two large contracts that is mentioned on slide 9. The reduction in premium from €93
 million to €49 million, what's really driven that. That's all from my side? Thank you.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, I can't say much more about that. I can tell you that one contract has disappeared
 because of consolidation by the client. The other contract is a voluntary cancellation from
 our part, because the contract was not providing the expected profitability we were
 looking for. One is property...
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay. Thank you.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 ...the other one is Motor.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay. That's very helpful. Thank you.
 
 Operator
@@ -832,9 +694,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2017-04-27
 
-Q - Xin Mei Wang
-
-{BIO 16662657 <GO>}
+Q - Xin Mei Wang {BIO 16662657 <GO>}
 
 FINAL
 
@@ -852,10 +712,7 @@ range. It's a little bit too early to reduce the range today. I'd prefer to wait
 development of market environment for the full year. I confirm the 2.7%, 3.2%, which is the
 other part of Vision in Action expectation.
 
-Q - Xin Mei Wang
-
-{BIO 16662657 <GO>}
-
+Q - Xin Mei Wang {BIO 16662657 <GO>}
 All right. Okay. Thanks.
 
 Operator
@@ -865,10 +722,7 @@ Bloomberg Transcript
 It appears there are no further questions at this time. Mr. Ian Kelly, I'd like to turn the
 conference back to you for any additional or closing remarks.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Okay. Thanks very much for attending the conference and please don't hesitate to call us
 should you require any further information. So, thanks a lot, and have a nice day.
 

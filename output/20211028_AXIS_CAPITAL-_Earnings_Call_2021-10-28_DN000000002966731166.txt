@@ -27,10 +27,7 @@ is being recorded.
 I'd like to turn the conference over to Mr. Matt Rohrmann, Investor Relations. Please go
 ahead.
 
-Matt Rohrmann
-
-{BIO 15132648 <GO>}
-
+Matt Rohrmann {BIO 15132648 <GO>}
 Thank you, Nick. Good morning, ladies and gentlemen, I'm happy to welcome you to our
 conference call to discuss the financial results for AXIS Capital for the third quarter ended
 September 30, 2021. Our earnings press release and financial supplement were issued
@@ -61,9 +58,7 @@ presentation may contain non-GAAP financial measures, reconciliations are includ
 earnings press release and financial supplement.
 With that, I'll turn the call over to Albert.
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -133,10 +128,7 @@ our shareholders.
 I will now pass the floor to Pete, who will walk us through the third quarter financials. Then I
 will come back and discuss market trends and we will have our Q&A. Pete.
 
-Pete Vogt
-
-{BIO 17059745 <GO>}
-
+Pete Vogt {BIO 17059745 <GO>}
 Thank you, Albert, and good morning everyone. During the quarter, we generated net
 income available to common shareholders of $47 million and an annualized ROE of 3.9%,
 operating income was $1 million. Diluted book value per share decreased by $0.64 to
@@ -242,10 +234,7 @@ Overall, with continued improvement in most operating metrics and positive momen
 in our core underwriting book, this was a solid quarter for AXIS.
 And with that summary of our third quarter results. I'll turn the call back over to Albert.
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, Pete. Let's do a brief overview of market conditions and outlook and we'll then
 open the call for questions. Market conditions remained strong with rates ahead of loss
 cost trends and practically every line across our book. This represents the 16th
@@ -360,10 +349,7 @@ Operator
 Thank you. We'll now begin the question-and-answer session. (Operator Instructions) First
 question comes from Brian Meredith, UBS, please go ahead.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes, thank you. A couple of questions here for you all. The first one, just curious, the
 underlying loss ratio we have in the insurance segment. Is that a good run rate number,
 Page 7 of 14
@@ -378,27 +364,19 @@ was any current year development or anything on that number.
 
 FINAL
 
-A - Pete Vogt
-
-{BIO 17059745 <GO>}
-
+A - Pete Vogt {BIO 17059745 <GO>}
 Yeah, Brian, this is Pete. There was nothing unusual in that Brian. So I would say overall, it's
 a good run rate number. Again it's always a little bit of noise, just because of where we
 are in quarters, I look at the year-to-date numbers as a really good number right now
 going forward.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Got you. And then second question, you talked about that aggregate cover of the effect
 on PMLs. Pete, maybe you can describe it a little bit better for us, what impact will that
 have on mitigating cat losses here for -- for you all over the next -- I guess a couple of
 quarters.
 
-A - Pete Vogt
-
-{BIO 17059745 <GO>}
+A - Pete Vogt {BIO 17059745 <GO>}
 
 Bloomberg Transcript
 
@@ -412,32 +390,20 @@ What I would tell you is, when you do the modeling that cover really plays well 
 lower end of the curve, which is why you saw sort of a more of a benefit on the lower end
 of the curve than say in the 1 and 250 part of the curve.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 And when does a cover expire at year-end or when is it --
 
-A - Pete Vogt
-
-{BIO 17059745 <GO>}
-
+A - Pete Vogt {BIO 17059745 <GO>}
 No, actually, yeah, that's a good point too I'm sorry. That goes to May of 2022, so that
 covers all through the winter and the early spring.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. And then my last question, just curious, your stock still trades at a pretty attractive
 valuation here. I know we had the big cat losses in the quarter, but just looking at your
 capital position, looking at your leverage ratios, where are we with respect to your ability
 or desire willingness to repurchase your shares.
 
-A - Pete Vogt
-
-{BIO 17059745 <GO>}
-
+A - Pete Vogt {BIO 17059745 <GO>}
 Yes. So I mean I think right now, as you noted the stock does definitely trade an attractive
 valuation. We are coming out of wind period now. So we'll take a look at where the capital
 and as well as what we want to do for growth next year. As Albert mentioned, it is still very
@@ -451,10 +417,7 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2021-10-28
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Makes sense. Thanks.
 
 Operator
@@ -463,65 +426,41 @@ FINAL
 
 Thank you. Next question is from Derek Han, KBW. Please go ahead.
 
-Q - Derek Han
-
-{BIO 20338442 <GO>}
-
+Q - Derek Han {BIO 20338442 <GO>}
 Good morning, thanks for taking my question. I just had a question on the underlying
 margin improvement, you obviously had good underlying margin improvement in the
 quarter. Can you provide some color on how much is being driven by the casualty in the
 specialty lines, whether you've kind of lowered loss picks in those lines of business and or
 whether you have plan to do so.
 
-A - Pete Vogt
-
-{BIO 17059745 <GO>}
-
+A - Pete Vogt {BIO 17059745 <GO>}
 Actually, every single one of our lines showed improvement year-over-year. So I think it's a
 combination of pricing and changes in underwriting. So really every single line produced
 an improved underwriting result.
 
 Bloomberg Transcript
 
-Q - Derek Han
-
-{BIO 20338442 <GO>}
-
+Q - Derek Han {BIO 20338442 <GO>}
 Okay, that's helpful. And then I have another numbers question, you (inaudible) premium
 ratio about 61%, which is quite a drop sequentially in year-over-year. Is that just being
 driven by a few treaties or is low '60s or mid '60s something that's run ratable given that
 you're going to allocate more capital to the insurance side.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Derek, could you repeat the first part of question. You cut out there. Thanks.
 
-Q - Derek Han
-
-{BIO 20338442 <GO>}
-
+Q - Derek Han {BIO 20338442 <GO>}
 Sorry about that. Can you hear me okay?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yeah, (inaudible) come in better. Yeah.
 
-Q - Derek Han
-
-{BIO 20338442 <GO>}
-
+Q - Derek Han {BIO 20338442 <GO>}
 So your reinsurance net to gross written premium ratio is about 61% and that's a pretty
 steep drop off from both sequentially and year-over-year. I was just wondering if that's
 being driven by few treaties or if that's something that's more run ratable.
 
-A - Pete Vogt
-
-{BIO 17059745 <GO>}
-
+A - Pete Vogt {BIO 17059745 <GO>}
 Yeah, I would say right now that is something that's more run ratable. We increased our
 sessions on our property cat as we went into the second half of this year. So that showed
 
@@ -537,9 +476,7 @@ more in the third quarter and, as Albert noted, we are looking to reduce our net
 especially the property and the property cat. We've done that through more third-party
 capital partnerships and that's actually led to higher sessions.
 
-Q - Derek Han
-
-{BIO 20338442 <GO>}
+Q - Derek Han {BIO 20338442 <GO>}
 
 FINAL
 
@@ -549,10 +486,7 @@ Operator
 (Operator Instructions) Next question is from Elyse Greenspan Wells Fargo. Please go
 ahead.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi, thanks, good morning. My first question, the G&A ratio was pretty low this quarter
 relative to how you 13-1 right and I think you guys were talking about getting into mid-13
 next year, but I know that seasonally that can sometimes be lower in the back half of the
@@ -561,37 +495,25 @@ seasonality.
 
 Bloomberg Transcript
 
-A - Pete Vogt
-
-{BIO 17059745 <GO>}
-
+A - Pete Vogt {BIO 17059745 <GO>}
 The only thing that impacted in the quarter. Elyse was a little bit of noise, I would call a
 normalized G&A ratio for the quarter at 13.5. Again I do think that means as you know, it
 tends to be a little bit higher in the first half of the year. That will allow us to come in under
 14 for the year, had been indicating kind of low 14s, but will come in under 14 and I believe
 that means we will be in the 13th for next year also.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 And then what about the acquisition cost ratio, was that impacted by mix like that came in
 at 19.1 so good level of improvement. Couple of points year-over-year. Is there anything
 there or is that just kind of run rate.
 
-A - Pete Vogt
-
-{BIO 17059745 <GO>}
-
+A - Pete Vogt {BIO 17059745 <GO>}
 No, that actually is a pretty good run rate for the quarter at least. If you noted, I noted
 there it came back especially in insurance to around that 18 mark, because it was 17 in the
 second quarter due to some one-time Good Guys. For the third quarter, a pretty good run
 rate right now for our book is.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, and then Albert, in terms of your commentary in the reinsurance market. It sounds
 like there are some realistic pessimism just given alternative capital and how things might
 shake out at January 1. So I just want to make sure I'm understanding that correctly in your
@@ -612,10 +534,7 @@ what happens kind of set on the idea of continuing to just have lower cat exposu
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yes. Elyse, So I wasn't trying to put pessimism what I was trying to say is it's a wide range
 of possible outcomes, and certainly, in talking to people in conferences and elsewhere,
 we've heard a number of reinsurers, retro providers, ILS providers all communicating
@@ -639,34 +558,22 @@ AXIS Insurance reported an underwriting profit or that we would report an operat
 and a $50 billion cat quarter you would have been surprised of that, we like the trend
 we're delivering, and we're going to stay on that trend.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, that's helpful, thanks for the color.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you.
 
 Operator
 Thank you. Next we have a follow-up question from Brian Meredith of UBS, please go
 ahead.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes, thanks. Our (inaudible) I'm just curious, the current inflationary environment we're in,
 your CPI, as well as medical cost inflation and just looking for a tort inflation. How are you
 thinking about that and how is that factoring into how you're sitting loss picks right now.
 
-A - Pete Vogt
-
-{BIO 17059745 <GO>}
-
+A - Pete Vogt {BIO 17059745 <GO>}
 The straight line of us is that it's incorporated in our loss trends. So I think our loss trends
 right now are more elevated in the way we are looking to price and reserve. And I think it
 Page 11 of 14
@@ -692,10 +599,7 @@ One of the real risks and our industry is insufficient insured value compared to
 replacement value, and so it's important that as part of the underwriting process, you got
 a good estimate of what your insured values are.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Makes sense. Thank you.
 
 Operator
@@ -703,20 +607,14 @@ Thank you. Next question from Michael Phillips of Morgan Stanley. Please go ahea
 
 Bloomberg Transcript
 
-Q - Michael Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Michael Phillips {BIO 21023048 <GO>}
 Thanks, good morning. You talk a lot about building a better specialty insurance company
 in mitigating, getting out of the cat risk and volatility there I guess, and you also talked
 about recruiting. So I'm curious on the specialty that requires a lot of deep underwriting
 expertise at the underwriting level. Do you have the staff you need there, if not on the
 recruiting efforts where you get an upfront.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So the short answer is we've got a great team. We've got a strong staff and frankly our
 strong underwriters have been an important part of who we are for a long time, and I
 would say that I'm very proud of the culture at AXIS, but that is a great culture at recruiting
@@ -739,20 +637,14 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2021-10-28
 
-Q - Michael Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Michael Phillips {BIO 21023048 <GO>}
 Okay, thanks for that. And then maybe one question for Pete. Do you feel more
 comfortable in your reserve level today maybe because of what we went through with
 COVID, is there more of a cushion than otherwise would have been there.
 
 FINAL
 
-A - Pete Vogt
-
-{BIO 17059745 <GO>}
-
+A - Pete Vogt {BIO 17059745 <GO>}
 Mike, I guess what I'd say is, I'm very comfortable with our reserve levels today, especially
 since as we've actually increased some reserves in our prolines and liability area has been
 focused on those 16 to 18 years, and so we feel that we've really gotten good balance
@@ -772,20 +664,14 @@ Bloomberg Transcript
 So the underwriting actions we've taken where we've gotten out of some particular sublines of business actually make our current book much better and therefore I think are
 more younger reserves, much stronger than we had 16 to 18.
 
-Q - Michael Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Michael Phillips {BIO 21023048 <GO>}
 Okay, great, Pete, thanks for the call.
 
 Operator
 Thank you, this concludes our question-and-answer session. I'd like to turn the conference
 back over Mr. Albert Benchimol for closing remarks. Please go ahead.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you everybody for your time this morning. Appreciate the interaction again really
 pleased and we feel very optimistic about the future. Before I wrap up the call, I just want
 to thank all of my colleagues who are listening across access for the fantastic work that

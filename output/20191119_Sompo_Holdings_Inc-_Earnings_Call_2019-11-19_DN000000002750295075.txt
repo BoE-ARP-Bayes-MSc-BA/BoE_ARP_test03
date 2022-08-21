@@ -25,10 +25,7 @@ Bloomberg Transcript
 Unidentified Speaker
 Here is Nose of Sompo Holdings.
 
-Osamu Nose
-
-{BIO 4205216 <GO>}
-
+Osamu Nose {BIO 4205216 <GO>}
 Thank you very much for joining us today for the conference call of Sompo Holdings. I'd
 like to explain about the fiscal year 2019 first half results as well as the full-year forecast
 for the fiscal year. As to the management strategies for the later half of the current MTP,
@@ -222,17 +219,12 @@ Operator
 Thank you very much. Now we will move on to Q&A. First, from SMBC Nikko, Mr. Muraki,
 please.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 Thank you. My first question is about the fire insurance and additional reserves. How much
 is it? And also, as to the provisioning part, ordinary underwriting reserves for natural
 disasters is deducted from the adjusted profit. And why is that?
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
+A - Osamu Nose {BIO 4205216 <GO>}
 
 Bloomberg Transcript
 
@@ -245,20 +237,14 @@ the catastrophic loss reserve, as is the case for these results, there are regul
 reserves. So we have applied the same approach to it, namely, deduction from the
 adjusted profit.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 Thank you. My second question is about overseas business. Page 33, as to SI. So this time,
 loss ratio compared to the previous forecast is aggravated, while expense ratio has
 improved. Could you please elaborate on that? What is different from the forecast at the
 beginning of the year? And also, as to liability line, I think there are big losses.
 As to -- this increasing trend of the lawsuit cost is impacting the results of SI?
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 Muraki-san, thank you. As to your second question, it's about the overseas business,
 insurance business. Also aggravation of the loss ratio and also the improved expense
 ratio, how is it different from the original forecast? And also, your question is about the
@@ -281,16 +267,10 @@ crop insurance, results are aggravating, and that is also reflected. And all in 
 went up. And as to Sompo International, we have been reducing expenses and the fees
 and the commissions, and the net expense ratio are improving.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 Thank you. I'm sorry. Yes, please.
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 As to your second question, in other words, losses related to the liability line. The SI's
 large incidents and its impacts exist, and the liability loss aggravation is existent. And
 talking with Sompo International people in the US, for example, social inflation is one of
@@ -301,20 +281,14 @@ approach. Thank you.
 
 Bloomberg Transcript
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 Thank you. As to SI, additional question. You have released about Sompo International's
 CEO change from Nigel Frudd to Okumura-san. And from January 1, Sompo International
 is going to be a controlling company of all the overseas operation. Sompo International
 Overseas owner, John Charman, and Sompo International Holdings CEO. What is the job
 allocations between the two?
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 Thank you. Today, we have released that news about the personnel rotation. As you
 pointed out, as of January 1, SIH CEO, Nigel Frudd, will be replaced by Holdings CFO,
 namely Mr. Okumura. As our release mentioned, SIH is going to be the controlling
@@ -329,10 +303,7 @@ Mr. Okumura. But when it comes to SIH, which will cover all the overseas entitie
 Charman will continue to work on how to grow overseas business. And so he will think
 more about strategies. So that is how they are going to coordinate their work.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 Thank you very much.
 
 Page 6 of 15
@@ -349,10 +320,7 @@ Stanley Securities.
 
 FINAL
 
-Q - Natsumu Tsujino
-
-{BIO 2234779 <GO>}
-
+Q - Natsumu Tsujino {BIO 2234779 <GO>}
 Thank you. I'd like to think -- ask about the underwriting profit for domestic. And every
 time, I always hear about some of the -- you always exclude provisions for cat loss or
 provisions for reserve for price fluctuation. But then you saw JPY30 billion or more decline
@@ -373,10 +341,7 @@ Bloomberg Transcript
 But still, it is JPY16 billion. So, there must have been something that offset it -- that offset
 some of the declines that you saw. So can you explain to me the details?
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 Ms. Tsujino, thank you. So your question is, again, for the domestic business, the adjusted
 underwriting profit. If we exclude any, for example, provisioning and underwriting reserve
 for natural disasters or for a cat loss, what is the full year's impact and also some details
@@ -411,10 +376,7 @@ FINAL
 
 Thank you. Another question?
 
-Q - Natsumu Tsujino
-
-{BIO 2234779 <GO>}
-
+Q - Natsumu Tsujino {BIO 2234779 <GO>}
 So for SI, you mentioned about the changes in the top member. So, it is now going to be
 led by Mr. Okumura. So in SI, I'm sure you'll be thinking of managerial areas, administrative
 areas as well. But then, the North America portfolio, that Sompo Holdings would have is
@@ -423,9 +385,7 @@ have to look at the pricing and rate. But then, with the new top personnel comin
 Japan, do you think you would be able to now start looking into areas, even to the pricing,
 as you try to look into new ways to run SI?
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
+A - Osamu Nose {BIO 4205216 <GO>}
 
 Bloomberg Transcript
 
@@ -440,29 +400,20 @@ stronger framework. SIH is now going to be led by Mr. Okumura. But then, that do
 mean that we are going to be changing drastically what SI had been practicing. There still
 is going to be the collaboration that we've had from before.
 
-Q - Natsumu Tsujino
-
-{BIO 2234779 <GO>}
-
+Q - Natsumu Tsujino {BIO 2234779 <GO>}
 Thank you.
 
 Operator
 Thank you. Next, from Daiwa Securities, Mr. Watanabe, please.
 
-Q - Kazuki Watanabe
-
-{BIO 15948747 <GO>}
-
+Q - Kazuki Watanabe {BIO 15948747 <GO>}
 Here is Watanabe of Daiwa Securities. I have two questions. First, page 26, on the
 domestic natural disasters. On a primary basis, gross basis, how much the claims payment
 is expected? And what is the impact coming from Typhoon 19? And as to the nat cat -- the
 catastrophic loss reserve, are you going to have some extraordinary provisioning to it as
 was the case for the previous year?
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 Page 8 of 15
 
 
@@ -482,19 +433,14 @@ depends on the reinsurance structure of the coming year. So at this moment, we w
 look closely at the actual -- or the claims payment, and we will continue to discuss as to
 the potential additional provisioning.
 
-Q - Kazuki Watanabe
-
-{BIO 15948747 <GO>}
-
+Q - Kazuki Watanabe {BIO 15948747 <GO>}
 Next, my second question is page 33, about SI overseas business. Compared to the
 other previous forecast, gross premium is raised, while net premium is revised down. This
 means that the retention will go down. Why is that? And as to the sale -- the gains of the
 other securities did more than JPY20 billion. Could you please elaborate the breakdown
 of this number?
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
+A - Osamu Nose {BIO 4205216 <GO>}
 
 Bloomberg Transcript
 
@@ -534,9 +480,7 @@ can leave it as it is. But from this year, the SI, because of the IFRS applied, 
 the hidden gains is inflected in the other net income, and that should be adjusted for the
 adjusted profit.
 
-Q - Kazuki Watanabe
-
-{BIO 15948747 <GO>}
+Q - Kazuki Watanabe {BIO 15948747 <GO>}
 
 FINAL
 
@@ -546,9 +490,7 @@ Operator
 Thank you very much. Our next question comes from Mr. Otsuka from JPMorgan
 Securities.
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 
 Bloomberg Transcript
 
@@ -563,10 +505,7 @@ mega companies that did the underwriting, or it was other program -- insurance
 programs, and so -- like mutual aids, and so there was this difference there. Or how do
 you analyze the difference?
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 Thank you, Mr. Otsuka, for your question. So your question is about domestic natural
 disasters. I mentioned earlier about the impacts of Typhoon 19. I mentioned the gross
 incurred loss is JPY144.5 billion. And so if we compare this number to Typhoon 21 last year,
@@ -593,9 +532,7 @@ Company N ame: Sompo H oldings I nc
 Company Ticker: 8630 JP Equity
 Date: 2019-11-19
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 
 FINAL
 
@@ -611,9 +548,7 @@ try to go above the number that you have for last year, which means you must be 
 about something a little over JPY82 billion. So was there any change to, for example, the
 shareholder return policy?
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
+A - Osamu Nose {BIO 4205216 <GO>}
 
 Bloomberg Transcript
 
@@ -627,19 +562,13 @@ want to base ourselves to the previous JPY82 billion. This is the floor line. Th
 baseline regardless of the downward revision that we announced. That is what I wanted
 to express here.
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 In other words, at the beginning of this year, you said that your target rate for a total
 payout ratio will be 50% to 60%. And you changed this, I guess. But this adjusted profit
 itself has changed from your initial assumption. So people like us, we should now sort of
 change our mindset and focus first on the JPY82 billion. Is that what you're saying?
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 What we are just trying to say here is at least achieve JPY82 billion or more. And of
 course, there is still an upside possibility for full year's performance. And of course, there
 is still a chance that we will be offering more. But then, I'll remind you, this is just an interim
@@ -649,9 +578,7 @@ before we'd be able to determine the year-end payout.
 And so at the moment, we're saying that the baseline or the floor line is going to be
 JPY82 billion.
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 
 Page 11 of 15
 
@@ -667,19 +594,13 @@ any change to that word that you had?
 
 FINAL
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 That was what our CFO said. The total payout ratio, I guess this is something that may
 have caused unnecessary confusion here. But then as we try to think of the ultimate
 payout, we do pay attention to what the peers are doing. It's not about that payout ratio
 itself. We're not trying to change that -- the idea behind our total payout ratio.
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 Thank you very much.
 
 Operator
@@ -687,10 +608,7 @@ Thank you. Next, Mr. Sato from Mizuho Securities.
 
 Bloomberg Transcript
 
-Q - Koki Sato
-
-{BIO 19983862 <GO>}
-
+Q - Koki Sato {BIO 19983862 <GO>}
 Sato from Mizuho Securities. I have two questions. First, I'm sorry to stick to this point, the
 domestic natural disasters. And overseas modeling companies or insurance companies
 are having very conservative forecast probably because of the Typhoon 21 and the unit -the cost rise, which happened last year. Going forward, the gross incurred loss due to the
@@ -700,10 +618,7 @@ the threshold, do you think you will be just well covered?
 And as to overseas natural disasters, so you revised your plan. And is there any change in
 the assumption? And also, the Durham and the wildfires in California and how to reflect -how are you reflecting these disasters in the forecast?
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 Mr. Sato, thank you for your questions. Your first question was about domestic natural
 disasters. So the creep in the unit cost increase due to Typhoon 21, made you think that
 the same thing could happen to Typhon 19, then what happened -- what happens? And as
@@ -723,18 +638,12 @@ Company N ame: Sompo H oldings I nc
 Company Ticker: 8630 JP Equity
 Date: 2019-11-19
 
-Q - Koki Sato
-
-{BIO 19983862 <GO>}
-
+Q - Koki Sato {BIO 19983862 <GO>}
 Maybe in October?
 
 FINAL
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 So you're talking about wildfires this year, okay. Basically, Sompo International natural
 disasters, as we covered at the beginning of the presentation, we had some impact
 coming from last year, but when you smooth that out, it will be slightly over the original
@@ -745,39 +654,27 @@ Of course, we have exposure to wildfires, and I do not deny the possibility of h
 some report of aggravated risks there. But at this moment, that's not the case. It is not
 giving any big negative impact on Sompo International's results.
 
-Q - Koki Sato
-
-{BIO 19983862 <GO>}
-
+Q - Koki Sato {BIO 19983862 <GO>}
 Second question -- the second question, for my reference, could you please compare to
 the budget for the overseas natural disaster and that after the revision? And the loss
 creep impact, how much is it in the case of the overseas business?
 
 Bloomberg Transcript
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 Okay. So the comparison of the budget for the natural disasters this year and last year,
 JPY23 billion [ph] is the full year, and the current trend is lower than that trend. And the
 development from the past year exists and nat cat impact of this year combined
 together, about JPY2 billion or so negative impact on the results.
 
-Q - Koki Sato
-
-{BIO 19983862 <GO>}
-
+Q - Koki Sato {BIO 19983862 <GO>}
 Thank you.
 
 Operator
 Thank you very much. Next question comes from Mr. Majima from Tokai Tokyo Research
 Center.
 
-Q - Tatsuo Majima
-
-{BIO 15338044 <GO>}
-
+Q - Tatsuo Majima {BIO 15338044 <GO>}
 This is Majima. Thank you. My first question is about large incidents in Japan. So, I'm sure
 this has been experienced by other companies as well. But you have raised it as one last
 reason or the reason why your profit is declining. So, was there a large incident that only
@@ -801,10 +698,7 @@ that we would have to accept. Is this the way we're supposed to look at this?
 
 FINAL
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 Thank you, Mr. Majima. So, you raised two questions. Your first question was about the
 large incident loss that we had in Japan. Was it something that we were the only company
 engaged? Or were there -- was this something that we're engaged with others? And
@@ -824,32 +718,20 @@ some changes. But then, it's not that we have a difference in how we look at the
 or the direction forward. It's not that we have difference between Holdings and SI. It's just
 that SI would have a more agile hand in putting these strategies into practice.
 
-Q - Tatsuo Majima
-
-{BIO 15338044 <GO>}
-
+Q - Tatsuo Majima {BIO 15338044 <GO>}
 Thank you. Can I go back to the first question? So you may not be able to go into details,
 but is this something like a one-off event?
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 Yes. You are right.
 
-Q - Tatsuo Majima
-
-{BIO 15338044 <GO>}
-
+Q - Tatsuo Majima {BIO 15338044 <GO>}
 Thank you. Thank you very much.
 
 Operator
 So, the time is running up. The last question is from Mr. Sasaki of Merrill Lynch.
 
-Q - Futoshi Sasaki
-
-{BIO 17564798 <GO>}
-
+Q - Futoshi Sasaki {BIO 17564798 <GO>}
 Here is Sasaki, Merrill Lynch. I have just one question. So as to the underwriting the
 reserves or additional reserves for natural disasters, so you have provision with the small - amount, it's small, and you did not disclose it? Or this time, you have decided to add
 more the provision for natural disasters for some reason or other?
@@ -862,9 +744,7 @@ Company N ame: Sompo H oldings I nc
 Company Ticker: 8630 JP Equity
 Date: 2019-11-19
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
+A - Osamu Nose {BIO 4205216 <GO>}
 
 FINAL
 
@@ -873,37 +753,25 @@ reserves for natural disasters. The question is whether we have had that reserve
 We -- actually, we haven't. So this is the first time that we have that provisioning for the
 reserves for natural disasters.
 
-Q - Futoshi Sasaki
-
-{BIO 17564798 <GO>}
-
+Q - Futoshi Sasaki {BIO 17564798 <GO>}
 I'm looking at the bylaw here. So the earned premium and the fund for large natural
 disasters and you look at these two and the ratio between the two and you -- the
 provision for the natural disasters, so are you saying that the fund size is now larger than
 before? Thank you.
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 Getting to the rules, there are some elements there. As to natural disaster fund, there's a
 reinsurance structure giving impact. So, now we have a bigger reinsurance protection, so
 that fund is not really relevant. Rather, going back time -- and the loss ratio, excluding the
 extremely large natural disasters, is now working as a trigger for us to have provisioning.
 
-Q - Futoshi Sasaki
-
-{BIO 17564798 <GO>}
-
+Q - Futoshi Sasaki {BIO 17564798 <GO>}
 I'm sorry, so the big disasters last year were not triggered, but this year's is triggered. Is
 that what you're saying?
 
 Bloomberg Transcript
 
-A - Osamu Nose
-
-{BIO 4205216 <GO>}
-
+A - Osamu Nose {BIO 4205216 <GO>}
 Last year's disasters are too big to be included in the average, the loss calculation of the
 past years. This year's disasters, however, are included in the calculation. Thank you.
 

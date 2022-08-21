@@ -31,10 +31,7 @@ Welcome to the Aegon Third Quarter 2013 results conference call on November 7, 2
 (Operator Instructions) I will now hand the conference over to Mr. Alex Wynaendts. Please
 go ahead sir.
 
-Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+Alex Wynaendts {BIO 1821092 <GO>}
 Thank you. Good morning everyone. We appreciate that you've joined us today for this
 call on Aegon's Third Quarter results, and we're well aware that it's a busy day for you.
 With me today is Darryl Button, our CFO; and also present is Willem van den Berg, Head
@@ -186,10 +183,7 @@ approximately 530 FTEs in 2013.
 I will now turn it over to Darryl for more information on our earnings and financial position.
 Darryl?
 
-Darryl Button
-
-{BIO 7089946 <GO>}
-
+Darryl Button {BIO 7089946 <GO>}
 Thank you, Alex. Here on slide eight I would like to take a closer look at underlying
 earnings, which I am pleased to say rose by 7%, including one-time items of EUR27 million
 and favorable mortality of EUR15m.
@@ -311,9 +305,7 @@ Date: 2013-11-07
 
 Alex, back to you.
 
-Alex Wynaendts
-
-{BIO 1821092 <GO>}
+Alex Wynaendts {BIO 1821092 <GO>}
 
 FINAL
 
@@ -333,10 +325,7 @@ Operator
 
 Bloomberg Transcript
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Morning, gentlemen. It's Farquhar Murray from Autonomous Research. Two questions, if I
 may, all related to the cash flow figures on slide 12. Firstly, could you decompose the
 EUR112 million one-time items, just between the regulatory requirement change and the
@@ -348,10 +337,7 @@ figure of EUR291 million was a bit weak relative to recent quarters. I just wond
 whether -- what was driving that and whether there were any other one-time items that
 we should bear in mind within that figure. Thanks.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Hi Farquhar. It's Darryl. Yes, let me take your cash flow questions. Specifically there were a
 couple of things impacting the cash flows this quarter, some what I would call marketrelated and some non-market-related.
 On the non-market-related, I think that was maybe more your question -- it was really a
@@ -382,43 +368,28 @@ programs, that does create some tax friction in our statutory and regulatory acc
 that caused an impact this quarter as well. So quite a few number of smaller negative
 items that added up this quarter.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 And just to confirm, all those items you've mentioned there, though, are within the
 EUR203 million one-time impacts?
 
 Bloomberg Transcript
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes. And so those are all in there. And then of course what's not in there is just the impact
 of a weaker dollar. That has an impact on the overall cash flows as you measure them in
 euro. That's not inside the one-time items. And so that's what also impacted the number
 this quarter a little bit soft.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Okay. Brilliant. Thanks very much indeed.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes.
 
 Operator
 Farooq Hanif.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, everybody. Farooq from Citi. Thanks very much for taking my question. First question,
 could you just talk about some of the rationale for the change in approach in the UK Pillar
 1? And does this -- if it's likely to affect your previous forecast of when the UK could be
@@ -441,17 +412,11 @@ FINAL
 And lastly, any brief update you can give on timing of some kind of decision on Omnibus 2
 and Solvency 2, and what you think's going on there? Thank you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Farooq, thank you. Darryl will take the first question and I will cover the second and the
 third question.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Sure. Yes, Farooq, on the first question, UK Pillar 1, really it's evolving conversations with
 the PRA. We had been looking at a capital ratio on the -- excluding the with-profits funds
 on the with -- yes, excluding the with-profits fund in the past.
@@ -479,10 +444,7 @@ the UK do get much stronger as we get to the back end of 2014 and into 2015. And
 when we expect to receive some dividends from the UK. But we've had to accelerate the
 capital now to stay on that trajectory.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Thanks, Darryl. Yes, Farooq, on the VA dynamics, I would say it is the same story as the
 previous quarters. What you're seeing here is that the work we've been doing on
 expanding distribution: focusing on that segment of the market that we are -- we want to
@@ -532,18 +494,13 @@ discussions easier.
 So I will remain cautious. This is very political. But I do believe that we have never been as
 close as we've been to reach an agreement there.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thank you. Very informative, as usual. Thank you, very much.
 
 Operator
 David Andrich.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
+Q - David Andrich {BIO 15414075 <GO>}
 Page 10 of 26
 
 
@@ -564,27 +521,18 @@ and I was just wondering if maybe you could give a bit more granularity in terms
 split between new sales versus retention, and how we should expect to see that develop.
 Thank you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 David, I'll take your second question. Would you mind to repeat your first one? The line
 wasn't good.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David Andrich {BIO 15414075 <GO>}
 Sorry, apologies. I was just wondering about the FTE reductions in the US and the UK -- in
 particular, the consolidation of the shared service center, and what impact that might have
 on expenses going forward.
 
 Bloomberg Transcript
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes. Okay. Well, let me take the first question. As I did say in my introduction, we are
 seeing strong growth in the US. And what we're seeing as a result of that is that salesrelated expansion -- expenses are increasing. Especially in the areas of variable annuities
 and mutual funds, a lot of our expenses are variable and are related to sales there.
@@ -678,18 +626,13 @@ individual customers, very much focused on those customers that are part of our
 corporate pension plans now and that retire and that need the services and products
 which we have available.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David Andrich {BIO 15414075 <GO>}
 Great. Thank you, very much.
 
 Operator
 Albert Ploegh, ING.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
+Q - Albert Ploegh {BIO 3151309 <GO>}
 
 Bloomberg Transcript
 
@@ -710,16 +653,10 @@ And second question on the Dutch business is that one of your peers here has bas
 had an unfavorable ruling in a disability case. Are several -- are similar cases also pending
 with Aegon? Thank you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Darryl, would you take the second -- the first and the second question? I'll take the --.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes, I will. Really, on the accounting change, I think all I'll do is repeat what Alex said in his
 opening remarks, which is: the review is ongoing, and we will inform you as soon as we
 have something. I'd say nothing, Albert, has changed in any way from the messaging and
@@ -746,35 +683,23 @@ we've already signaled that we intend to do more deleveraging in 2014. So I thin
 look at that as a package, and we're still on track with that.
 Alex, on the --
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Thanks, Darryl.
 
 Bloomberg Transcript
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 On the Dutch business, Albert -- yes, on Koersplan, as you are aware, we have settled
 with the Stichting, the association which represent around 35,000 customers. We've also,
 I think, issued a press release, which was pretty clear in the sense that, yes, the
 association and Aegon were pleased with the way this was dealt with; and it stayed within
 the provision which we had shared with you earlier, the EUR25m. So that's where we are.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 I mean more with, let's say, the other cases -- other people that are not part of this
 settlement, whether you will do anything with them.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Well, what we have said when we settled this case is that obviously we would be looking
 at all the other policyholders, and we would want to make sure -- ensure that they have
 adequate levels of premiums, and we would review that. You can imagine, these are over
@@ -786,10 +711,7 @@ contract basis upon renewal. And we have not raised an en bloc increase in premi
 and therefore, it's a very different situation for Aegon, and that's why I don't expect any
 impact.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay. Very clear.
 Page 14 of 26
 
@@ -804,10 +726,7 @@ Benoit Petrarque.
 
 FINAL
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Yes. Good morning. It's Benoit Petrarque from Kepler Cheuvreux. Three questions. The
 first one is on the IGD ratio in The Netherlands, 245%. It's a very good level, obviously; but
 given that you -- your move to the swap curve, what can we expect in terms of new
@@ -822,18 +741,13 @@ Then last question is on the holding expenses. It's just EUR25 million this quar
 down a lot in the past two years. How much of the EUR25 million is recurring? Is that a
 good level to forecast 2014? Thanks.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alex Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
 Darryl, on the IGD and the holding expenses.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes, let me jump in with those two. In terms of the NL IGD ratio at 245%, you're right. I'll
 concur with you. It is at a good, strong level. We're happy with that.
 And in terms of volatility going forward, that's actually why we incurred quite a few
@@ -848,10 +762,7 @@ on the debt redemptions that we did last year, as well as cost reductions that w
 taking here at the holding as well.
 And Alex, I'll turn it back to you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Page 15 of 26
 
 
@@ -887,34 +798,22 @@ margins. Because we are not interested, as you know, in taking big tickets on ou
 we are not able to get the right margins. And with the number of providers diminishing, it
 is clear that margins will be better for a company like Aegon.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Just on the holding cost, so the EUR25 million per quarter, is that a good run rate for
 2014?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes, I think it's pretty close. Maybe a little bit, might be a little bit higher, but I think it's
 close. It represents the new cost base where we are right now and the debt redemptions
 that we've had.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Cool. Thank you, very much.
 
 Operator
 William Hawkins.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you, very much. Morning. It's William Hawkins at KBW. In the context of how the
 markets are moving and how you've just changed your assumptions, how are you feeling
 Page 16 of 26
@@ -935,10 +834,7 @@ when you recapture reinsurance, there can be an upfront profit; and then there's
 losses that follow afterwards. So can you explain the context and then future financials of
 that reinsurance recapture? Thank you.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes, William. I'll take those two questions. How we're feeling about the collar hedge:
 actually, really, the collar hedge itself is a macro hedge in addition to the macro hedge we
 had before. So we are actually going to step back and take a look at both hedges and
@@ -965,22 +861,13 @@ payment, and it was an economically neutral transaction, that means that that ef
 creates some headwinds spread over into the -- over the next 25 years, if you will. That's
 probably the best way to think about that gain that came through.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Over the next 25 years. So this is effectively some kind of YRT recapture, is it?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes, correct. Yes.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Page 17 of 26
 
 
@@ -997,10 +884,7 @@ FINAL
 
 William Elderkin.
 
-Q - William Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William Elderkin {BIO 3349136 <GO>}
 Thanks. Good morning, everybody. It's Will Elderkin from Goldman. A couple of questions
 on the UK business, please. First of all, in terms of all of the expense reductions you've
 put through this year in the UK operation, to what extent does the Third Quarter profit
@@ -1014,10 +898,7 @@ as you expect, and do you have any broader thoughts on the opportunity for you t
 
 Bloomberg Transcript
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes, in terms of expense reductions, as you know, it has to do with timing. Secondly, what
 you also have to look at, William, is what type of expense reductions they are. Is it
 maintenance expense or acquisition expenses? And I did here make the point that we
@@ -1049,26 +930,19 @@ Date: 2013-11-07
 
 In terms of the tax rate, Darryl?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
+A - Darryl Button {BIO 7089946 <GO>}
 
 FINAL
 
 I have a very short answer. I don't have a better number than the 20%. So I have no insight
 beyond that. So if it was me, I guess I'd use 20%.
 
-Q - William Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William Elderkin {BIO 3349136 <GO>}
 Thank you. May I ask one follow up I should have asked at the start? In terms of this
 broader debate about a 75 basis points charging cap on pensions in the UK, does that
 have any particular implications for the UK pension operation?
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alex Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
@@ -1085,19 +959,13 @@ extent is forward-looking only will that have an impact on the back book? Too ea
 but what we are now assuming that it's mostly going to be forward-looking and to be
 applied as such -- pensions, which is new business on the books.
 
-Q - William Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William Elderkin {BIO 3349136 <GO>}
 Okay. Great. Thank you, very much.
 
 Operator
 Maarten Altena.
 
-Q - Maarten Altena
-
-{BIO 15898902 <GO>}
-
+Q - Maarten Altena {BIO 15898902 <GO>}
 Yes. Good morning. It's Maarten Altena from Mediobanca speaking. Three questions from
 my side. The first is on the economic assumptions. You seem quite conservative with your
 10-year assumption instead of 5-year to now reach 4.25% for US treasury. However, in
@@ -1123,16 +991,10 @@ government guarantee? Thanks.
 
 FINAL
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Darryl, will you take the first question?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes, let me jump on the first one. You asked for a sensitivity on the -- I think if interest
 rates remain flat. Yes, first of all on your conservative comment, what this does do is it
 brings our IFRS assumptions almost on top of the forward curve. So for the first time, I
@@ -1152,10 +1014,7 @@ flattening out the long-term curve -- that was EUR200m. I don't have another or 
 sensitivity that I can give you at this time.
 Pension margins in the US, do you --?
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yes. Obviously, we are pleased with the pension margins, 26 basis points. That is above
 our target of 25 basis points. The combination of strong sales, but also continued
 efficiency improvements, and you will continue to see that. We are continuously looking at
@@ -1191,17 +1050,12 @@ focusing on keeping this -- these assets with us, which will effectively, as you
 strengthen the value chain and allow us to take a bigger part of the total value chain,
 particularly in the area where margins are higher.
 
-Q - Maarten Altena
-
-{BIO 15898902 <GO>}
-
+Q - Maarten Altena {BIO 15898902 <GO>}
 If I can comment on that one, would you be able to come up with a ratio which number of
 clients are retained now; and how that developed over the last, well, let's say 10 years;
 and where you expect it to go to?
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alex Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
@@ -1222,18 +1076,13 @@ basis points, very low. We should take into account -- obviously, with the envir
 being as good as we would like it to be, and that could trend very slowly up, but still well
 within our pricing assumptions.
 
-Q - Maarten Altena
-
-{BIO 15898902 <GO>}
-
+Q - Maarten Altena {BIO 15898902 <GO>}
 Okay. Perfect. Thanks so much.
 
 Operator
 Nick Holmes.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 
 Page 21 of 26
 
@@ -1252,16 +1101,10 @@ FINAL
 And secondly, can you give us a split of the EUR270 million between the three elements?
 Thanks.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Darryl?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes, Nick, I'll take that. How conservative are we now relative to the US peer group? The
 answer is very conservative. So we actually see some -- I see some statistics on that, so I
 can say that fairly confidently, that we're top quartile in terms of on that metric.
@@ -1271,19 +1114,13 @@ interest component; and about EUR70 million on the bond fund component.
 
 Bloomberg Transcript
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Right. And, yes, just coming back to the US -- so you feel that you are significantly --- well,
 you are more conservative. And therefore is this a source of debate within the US
 industry, that you are moving away from the peer group and consensus? Do you find
 other companies raising questions about what you may be doing?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 I don't know. I guess that's really -- I can't comment too much on the other companies, so
 I'll stay with ours. I would add a couple of other proof points to that, too. Sometimes you'll
 find just total separate account return assumptions. We do break ours between the equity
@@ -1298,10 +1135,7 @@ market, which gives us impacts; or it gives us, I would say, beneficial impacts 
 do things like hedge programs and capital market transactions. So I feel good about our
 position.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. That's great. Thank you, very much.
 Page 22 of 26
 
@@ -1311,10 +1145,7 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2013-11-07
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes.
 
 Operator
@@ -1323,10 +1154,7 @@ FINAL
 
 Francois Boissin.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Yes. Good morning everybody. This is Francois Boissin from Exane BNP Paribas. Two
 questions, please. The first one really is on the value of new business. Been increasing
 quite significantly year on year. Could you comment on how much will it be on order of
@@ -1339,10 +1167,7 @@ breakdown of your new investments would be quite useful. Thank you, very much.
 
 Bloomberg Transcript
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 On the value of new business, I think what we see here is the implementation execution
 of our strategy. We said very clearly as a strategy as a company, we want to sell the right
 products to the right customers at the right price. They have to create value for both
@@ -1361,10 +1186,7 @@ also means that therefore we believe that these levels are sustainable going for
 because we will continue and obtain our strategy.
 Darryl --
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 And sorry, just to follow up on that, do you think there is more to come, i.e. are you able
 to further increase margins or do you think that at some point in time you might see
 Page 23 of 26
@@ -1379,10 +1201,7 @@ pressure from competitors?
 
 FINAL
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 What you see is that margins this specific quarter have clearly have had a benefit from
 increased margins in variable annuity. Market conditions there have helped a bit, that's
 clear, because when rates go up and volatility goes down you get more room in pricing
@@ -1398,41 +1217,27 @@ expecting the same rate of increases. It will now very much depend on the volume
 sales.
 Darryl?
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
+Q - Francois Boissin {BIO 16045021 <GO>}
 
 Bloomberg Transcript
 
 Thank you.
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes, on the -- let me give you -- on the two big general accounts in the US our back-book
 yields are about 470 right now and new money yields going on in the books are
 somewhere in the 4.25 to 4.5 range.
 In The Netherlands back-book yield is 370. It's about a point lower. And new money yields
 going into The Netherlands is right on top of that, about 370.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Okay. And in terms of the breakdown, maybe in the US in terms of your new investments?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 It's high-grade corporate credit. It's also some long sovereign, long US treasuries, highgrade corporate credit, a little bit of structured assets as well. I would say the new money
 mix looks very similar to the in-force portfolio.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Okay. Thank you, very much.
 
 Page 24 of 26
@@ -1443,18 +1248,12 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2013-11-07
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes.
 
 FINAL
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 So I'd like to thank you for attending this conference call. Again I know it's a busy day.
 Thank you, very much. And I'd like to open the floor now to the press for any remaining
 questions you might have.
@@ -1471,10 +1270,7 @@ not to go ahead with 1.5 or the Central Bank? Thank you.
 
 Bloomberg Transcript
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Let me start with Solvency 2. As I just said in the call and as you know, I'm pretty closely
 involved in the whole process with the industry. I believe that we are at the point that we
 have never been closer to having the different parties that need to be involved and come
@@ -1489,10 +1285,7 @@ to an agreement to set this aside and to move forward.
 Darryl, you've been involved with Solvency 1 and the Dutch Central Bank, so would you like
 to comment?
 
-A - Darryl Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl Button {BIO 7089946 <GO>}
 Yes. Solvency 1.5 applies to our Dutch business only. It is a stop-gap measure, if you will,
 that here in The Netherlands are implementing while they are waiting for Solvency 2. It
 works off the Solvency 1 framework. It basically stress tests the Solvency 1 framework and
@@ -1516,20 +1309,14 @@ may have individual impacts. We are fairly confident we come out on the strong e
 local market so in terms of that recalibration process we've faired pretty well. So we're -that's leading behind the comments where we do not expect Solvency 1.5 to have a
 unique impact to Aegon.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Thank you, Maud.
 
 Operator
 (Operator Instructions) Thank you. I'd like to hand the call back to the host. There appear
 to be no further questions.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Many thanks to all of you that have attended and wish you a good day. Goodbye.
 
 Operator

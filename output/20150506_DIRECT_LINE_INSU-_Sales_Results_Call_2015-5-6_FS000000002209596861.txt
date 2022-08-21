@@ -26,10 +26,7 @@ followed by a question-and-answer session. I must advise you that this conferenc
 recorded today, Wednesday, the 6th of May, 2015. I will now like to hand the conference over to
 your first speaker today, Mr. Paul Geddes. Please go ahead, sir.
 
-Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+Paul Robert Geddes {BIO 2474781 <GO>}
 Thank you, and good morning, everyone. Welcome to our Q1 update. I'm aware it's a really busy
 morning for you. So, we are going to keep it quite brief today. In line with the approach back in Q3,
 there's no formal presentation. I'm going to take you through a brief update on business highlights
@@ -135,16 +132,10 @@ Operator
 Thank you. And our first question today come from the line of Andrew Crean from Autonomous.
 Please ask your question.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Hi, Andrew.
 
-Q - Andrew J. Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew J. Crean {BIO 16513202 <GO>}
 Hi. Good morning. Good morning, all. Just a quick question. When you guys talk about stable
 trading performance, that in my mind, I don't know whether I'm right or wrong, I mean sort of
 roughly flat profit. We don't get quarterly operating profits, but I mean, roughly speaking, on
@@ -152,44 +143,31 @@ average, they'd be about £125 million. If you're talking about flat profits, ye
 million difference in the weather claims, is that how we should read the situation or am I misreading
 it?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yeah. I mean trading is trading, so it's more a reference to kind of top line than profit. It's not a
 profit reporting quarter. In terms of the weather, John, do you want to talk about how we take the
 weather?
 
-A - John Reizenstein
-
-{BIO 6786139 <GO>}
+A - John Reizenstein {BIO 6786139 <GO>}
 
 
 
 Well, obviously, (09:08) said 94% to 96% core for the year excluding weather. And that will be
 chucked back (09:12) as we always are about that.
 
-Q - Andrew J. Crean
-
-{BIO 16513202 <GO>}
+Q - Andrew J. Crean {BIO 16513202 <GO>}
 
 FINAL
 
 Okay. Thank you.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Thank you.
 
 Operator
 The next question comes from the line of Greig Paterson from KBW. Please ask your question.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 Good morning, gentlemen. Paul, just can you just remind me, you've got a large partnership and
 deal in Home that is coming up for renewal and likely to be lost. If you could just remind us what
 the contribution to the gross written premiums and – versus the contribution to the profit is of that
@@ -201,146 +179,89 @@ And in terms of Solvency II, just interested to understand what parts of your mo
 debated with the PRA. I mean, is it the diversification of credit? Is it the matching adjustment? Is it –
 whatever. I'm just trying to understand what's going on there.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yeah. Thanks, Greig. So, yeah, at the last full year, we updated on Nationwide Building Society,
 which is under kind of retender, will go through that process. We have no news on that. We said at
 that time, 22% of our Home premiums but not 22% of our Home profit.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 Do you know – I mean, is it 10%, 15%, 20%? What portion of the profit?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 We're not going to say, but not 22%. Less than 22%.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 (10:40)
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yeah, it makes contribution to fixed costs, variable costs, but, Greig, we're not going to say any
 more about that.
 
-A - John Reizenstein
-
-{BIO 6786139 <GO>}
-
+A - John Reizenstein {BIO 6786139 <GO>}
 On Solvency II, Greig. I mean that we're in the process of validation. It's a long process with lots of
 aspects to it. I wouldn't want to draw any particular element. I can say that the matching adjustment
 is not something we're going for. But otherwise, we're just (11:04). We're not hit by any particular
 roadblocks, either in process or in challenge from the regulator.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 So, there's no particular parts of the model that is of interest, the run-off versus one year of VAR
 (11:19) or – I'm just trying to understand the transition from ICAS (11:24) to your Solvency II.
 
 
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 They're after industry issues still out there that hasn't been fully (11:30).
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 
 FINAL
 
 And what – could you just list those (11:31)?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 (11:32) one being emergence, which is what allowance you make for the risk to (11:39) as opposed
 to a year and a half. I mean, that's a sort of industry thing. And there are one or two others like
 that. But there's nothing specific we want to draw your attention to today.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 And the other two? For just our interest, what were the other two?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 (11:53) the one I mentioned. I mean, there are other industry issues out there that are – we could
 go – we could have a whole teaching on it, but they're not particularly specific to us.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 
 Bloomberg Transcript
 
 All right, Paul, no problem. Thank you.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Thanks, Greig.
 
 Operator
 The next question comes from the line of Fahad Changazi from Nomura. Please ask your question.
 
-Q - Fahad U. Changazi
-
-{BIO 15216120 <GO>}
-
+Q - Fahad U. Changazi {BIO 15216120 <GO>}
 Good morning.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Good morning.
 
-Q - Fahad U. Changazi
-
-{BIO 15216120 <GO>}
-
+Q - Fahad U. Changazi {BIO 15216120 <GO>}
 Just had a question on claim inflation. You previously said against that 3% to 5% going forward, and
 you would hope to do better than that given all the sort of changes you've made. First of all, is it
 3% to 5% which you're still expecting? And given you increased rate by 3.6%, can we assume that,
 going forward, you will at least match claims inflation for yourself ? Thanks.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yeah. I mean, 3% to 5% is our sense of long-term market claims inflation. And we reinvest to try
 and do better than that, and we think we've got some track record on that. And...
 
-A - John Reizenstein
-
-{BIO 6786139 <GO>}
-
+A - John Reizenstein {BIO 6786139 <GO>}
 Over the long term.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 
 
 
@@ -348,9 +269,7 @@ Over the long term. And we – without – yeah, we will – within the sort of 
 attempt to – we will seek to recover that claims inflation as we see it. And obviously, our trading
 choice is day-to-day.
 
-Q - Fahad U. Changazi
-
-{BIO 15216120 <GO>}
+Q - Fahad U. Changazi {BIO 15216120 <GO>}
 
 FINAL
 
@@ -359,15 +278,10 @@ Okay. That's fine. Thank you very much.
 Operator
 The next question comes from Ravi Tanna from Goldman Sachs. Please ask your question.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Hi, Ravi.
 
-Q - Ravi Tanna
-
-{BIO 16926941 <GO>}
+Q - Ravi Tanna {BIO 16926941 <GO>}
 
 Bloomberg Transcript
 
@@ -380,56 +294,35 @@ And the second question is on Rescue and other. Just keen to understand how much
 in premiums there is actually kind of underlying growth per se as opposed to the re-pricing of the
 travel book that you've mentioned in there, which may be one-off, I'm not sure.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yeah. So, listen, we're still pleased with the trends which we're seeing on large BI – small BI
 frequency, sorry. And again, we think we are – that's looking good versus the market comparatives.
 John?
 
-A - John Reizenstein
-
-{BIO 6786139 <GO>}
-
+A - John Reizenstein {BIO 6786139 <GO>}
 Yeah. I mean, there was a bit of an uptick in January. I mean, these things are a little bit volatile. But
 our uptick was less than the market, we think. That's what we have in the data, and since then,
 we've come down, we think the market's, more or less, steady. So, we think we are doing better
 preening (14:43) month in, month out.
 
-Q - Ravi Tanna
-
-{BIO 16926941 <GO>}
-
+Q - Ravi Tanna {BIO 16926941 <GO>}
 Great.
 
-A - John Reizenstein
-
-{BIO 6786139 <GO>}
-
+A - John Reizenstein {BIO 6786139 <GO>}
 On the (14:46)
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yeah. And on other ruffles (14:53), yeah, that's possibly what's driving it. The kind of annual price
 rise, which we put (14:59) on the travel book, which is kind of the nature of those deals that we
 have with our third parties, which is be able to price off of the (15:06) trends that we've seen.
 
-A - John Reizenstein
-
-{BIO 6786139 <GO>}
-
+A - John Reizenstein {BIO 6786139 <GO>}
 But don't expect huge impacts on profit on that because a lot of it goes back to them and it's a
 small profit business (15:16).
 
 
 
-Q - Ravi Tanna
-
-{BIO 16926941 <GO>}
-
+Q - Ravi Tanna {BIO 16926941 <GO>}
 Perfect. That's very clear. Thank you.
 
 Operator
@@ -438,21 +331,13 @@ FINAL
 
 The next question comes from the line of James Shuck from UBS. Please ask your question.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Good morning. It's James Shuck from UBS.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Hi, James.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
+Q - James A. Shuck {BIO 3680082 <GO>}
 
 Bloomberg Transcript
 
@@ -471,10 +356,7 @@ And then the third quick question was just on – I was interested in your next 
 customer systems, the plans for the first half of 2016. Could you just describe some of the bells
 and whistles that, that will enable people to do?
 
-A - John Reizenstein
-
-{BIO 6786139 <GO>}
-
+A - John Reizenstein {BIO 6786139 <GO>}
 Okay. I'll start off on cost, James, John here. Yeah, it's a good start to year with a 10% reduction in
 Q1. But it's not such a simple story going forward. Quarterly costs are lumpy and can be lumpy, and
 Q1 2014 was a high-cost first quarter, as you'll remember, some of you, partly due to market, but
@@ -486,10 +368,7 @@ absolute terms this year. That's our statement, that's our aim, our target, and 
 core guidance. We don't have any further specific cost target around that, but we'll carry on
 addressing our costs.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 And, I guess, on that, we deliberately didn't want a cost target for reasons we rehearsed, but this
 should be seen as a signal we don't need one to keep focusing on costs. Our Motor policy count,
 you stepped straight from us seeing decline in policy count straight to expecting growth. And I'm
@@ -513,10 +392,7 @@ experience, the next generation of pricing systems. So, we're building something
 to do that, which we think is the right solution. We will tell you more as we get towards launch,
 which will be kind of broadly this sort of time next year.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Are you able just to – I'm just interested in how you sort of interact with the customer. So, it's
 obviously that the system is allowing you to do certain things today, but the new systems that
 you're talking about that other people are doing as well. But just how is that customer journey sort
@@ -524,10 +400,7 @@ of set to change?
 
 Bloomberg Transcript
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yeah. I mean, I don't want to – a year after, I don't want to necessarily spill all the beans on exactly
 what it enables us to do. But we're building modern systems for a modern world where customers
 have expectations on how they want to deal in a completely multichannel way they want. Not to
@@ -539,35 +412,23 @@ further cost opportunities as we enable customers to do more things for themselv
 So, I want to be slightly – I don't want to give everything away, James, in terms of kind of what
 we're up to, but it's a serious piece of work and we are very excited about what we're building.
 
-A - John Reizenstein
-
-{BIO 6786139 <GO>}
-
+A - John Reizenstein {BIO 6786139 <GO>}
 And if you don't mind, of course, we will have the cost of running it and the cost of depreciating it
 as well. Sorry to be the boring (20:54).
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 All right. That's great. Thank you.
 
 Operator
 The next question comes from the line of Dhruv Gahlaut from HSBC. Please ask your question.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
-
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 Good morning. Just two questions on this amendment fees. Firstly, a clarification as in on Churchill,
 would you guys still be charging amendment fees? That's one. And secondly, the change you
 made on the Direct Line brand, how much profits were coming from that last year? If you could just
 quantify that. Thanks.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yeah. I mean, it's just on Direct Line, we are seeking to differentiate our brands. Clearly, depending
 on what we learn on Direct Line, we'll have to think about it for other brands. But right now, we are
 seeking to differentiate Direct Line and put it in some space. It's an investment, which I'm not going
@@ -578,33 +439,23 @@ to break out, but we think is justified for the benefit it gives to the brand, t
 things. So, we are pleased with its initial impact. We will obviously wait and see its longer-term
 impact.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 
 FINAL
 
 And how much was the profit last year from this on contribution revenue?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 We don't break that out. No, we don't break that out. It's a – as I say, the investment, we think, is
 worthwhile in the brand.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
-
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 Thanks.
 
 Operator
 The next question comes from the line of Ben Cohen from Canaccord. Please ask your question.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
+Q - Ben Cohen {BIO 1541726 <GO>}
 
 Bloomberg Transcript
 
@@ -613,10 +464,7 @@ areas, which is if you could tell a bit more about the competitive environment i
 Commercial. And specifically, in Commercial, have you seen kind of competitive conditions worsen
 in the quarter? Is it really a continuation of trends that you were seeing in 2014? Thank you.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yeah. Thank you. Listen, I'm not dressing up Home as a very competitive marketplace. The ABI
 data have prices going down about 2% year-on-year and, of course, there's underlying claims
 inflation in Home, as well as Motor, and probably not of the similar quantums, 84% or 85%. So, at a
@@ -630,10 +478,7 @@ So, we are pleased with our performance and we are pleased that we've been able 
 work hard through self-help to trade as well as we've traded there. And I'm pleased with our
 performance.
 
-A - John Reizenstein
-
-{BIO 6786139 <GO>}
-
+A - John Reizenstein {BIO 6786139 <GO>}
 Commercial market, I think, is a series of slightly discrete separate markets. We think that, for
 example, the van market is very competitive. It's kind of an out drop or an outreach of many of the
 dynamics in the UK Motor market, but not to say that we don't have ambitions to do better in it.
@@ -653,9 +498,7 @@ Direct Line's business is a unique asset. And we think, therefore, in that part 
 particularly the real small premium stuff, we think we've got some edges. So, whilst there may be a
 number of people chasing that market, we think we've got a kind of a right to succeed in it.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
+Q - Ben Cohen {BIO 1541726 <GO>}
 
 FINAL
 
@@ -664,10 +507,7 @@ Okay. Thank you very much.
 Operator
 Thank you. There are no further question at this time. Please continue.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Right, guys. Well, we said it would be short. We look forward to a fuller conversation at the half
 year. And you know where we are if you've got any follow-ups. But thank you very much for your
 time and your support. Thanks a lot, guys.

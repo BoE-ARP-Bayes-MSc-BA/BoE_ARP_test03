@@ -26,10 +26,7 @@ Bloomberg Transcript
 Vinit Malhotra, Banca di credito finanziario S.p.A., Research Division
 
 Presentation
-Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Thank you very much. Good morning, ladies and gentlemen. I'd like to welcome you to our
 conference call presenting our results for the first half of the year. This is the first results
 call in my role as CEO of Hanover Re. And I'm pleased to be able to present a good set
@@ -89,10 +86,7 @@ under management was 3.1% on an annualized basis.
 On that note, I'd like to hand over to Roland, our CFO, who will explain these figures in
 more detail.
 
-Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+Roland Helmut Vogel {BIO 16342285 <GO>}
 Good morning. Thank you, Jean-Jacques. Maybe one short remark before I start. For
 those interested in analyzing our reserve situation in more detail, we have published the
 P&C loss reserve triangles as of December 2018 on our website today.
@@ -269,9 +263,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2019-08-08
 
-Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
+Jean-Jacques Henchoz {BIO 17457677 <GO>}
 
 FINAL
 
@@ -344,10 +336,7 @@ Operator
 
 Bloomberg Transcript
 
-Q - Emanuele Musio
-
-{BIO 19781440 <GO>}
-
+Q - Emanuele Musio {BIO 19781440 <GO>}
 I have 2 questions. One is on P&C. So you had lost script from Jebi, you didn't use the
 buffer. And this is consistent with your policy. So could you maybe remind me under which
 circumstances you might decide to use a bit of that buffer? And also, this EUR 58 million
@@ -355,10 +344,7 @@ that you took in Q2 for Jebi, does it include some cushion that could potentiall
 your current buffer? And also on U.S. mortality, was there anything there that we should
 see? So any detail on this will be helpful.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 So maybe I take the P&C. As you mentioned -- rightly mentioned, the EUR 106 million from
 Jebi do not run against any budget. So they come on top of our reserving policies. I also
 did mention that the current Jebi level on the gross basis has been touching the whole
@@ -387,10 +373,7 @@ flattish. Then mortality?
 
 FINAL
 
-A - Klaus Wilhelm Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Wilhelm Miller {BIO 16886879 <GO>}
 Yes. Klaus Miller from the Life side. The U.S. mortality is currently moving in line with our
 expectations. That is for the Brock or the acquired ING business. The organic business
 right now it's (with us) since 2009, is doing much better than expected. We have not
@@ -408,9 +391,7 @@ decides to recapture. And this will probably be a wash between IFRS losses from 
 reserves and losses we have to be reimbursed at that point in time when we have won
 the arbitration. I hope that was the background of your question.
 
-Q - Emanuele Musio
-
-{BIO 19781440 <GO>}
+Q - Emanuele Musio {BIO 19781440 <GO>}
 
 Bloomberg Transcript
 
@@ -419,10 +400,7 @@ Yes.
 Operator
 The next question is from Kamran Hossain, RBC.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Two questions for me. The first one is just on the charge that you took in Life Re, you
 talked about U.K. mortality being an issue. Is there any offset from longevity? I know in the
 past, you've said you're not really willing to recognize this for potentially even kind of
@@ -433,10 +411,7 @@ drag, which you said was double-digit millions. You've got the Viridium number. 
 kind of any idea on how we should get to an underlying number there, it'd be really
 helpful.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 I think you mentioned. And we said that before, Kamran, that we did not adjust any
 assumptions on the annuity base -- on the annuity book. So there's no compensation for
 that. That book is running as expected. So there should be a little bit of a reserve in it. So
@@ -458,18 +433,12 @@ expect that people feel these expectations for the next year. We unfortunately w
 no other Viridium. But also here, the EBIT forecast should not be affected at any significant
 number based on what we know today.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 So just to summarize. And secondly, basically, you are -- if you take this course, you would
 net back the -- I guess the charges, you're roughly on track for the 100 in this quarter, the
 100 as in the 400 divided by 4.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 Yes.
 
 Operator
@@ -477,10 +446,7 @@ The next question is from Farooq Hanif, CrÃ©dit Suisse.
 
 Bloomberg Transcript
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 I was wondering, firstly, if you could talk a little bit more about the dynamics that are
 driving the really strong growth in U.S. financial solutions? So perhaps what's driving
 demand or what's driving margin in that area and what we can look forward to in terms of
@@ -489,10 +455,7 @@ impacted by Jebi when you show that profitability versus target. Would you move 
 into the target range without Jebi? And what more kind of improvement do you expect
 given the pricing conditions that you're seeing in the cat XL line?
 
-A - Klaus Wilhelm Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Wilhelm Miller {BIO 16886879 <GO>}
 Maybe I'll start -- so maybe I'll start with the U.S. and the increasing demand for financial
 solutions. Whenever you have changes in regulation. And you've seen (80 48) coming into
 play in the U.S., you have opportunities to optimize the capital structure of your company.
@@ -508,10 +471,7 @@ the opportunity to improve our clients' balance sheets and get it to a more econ
 balance sheet. Even Solvency II is not a real economic balance sheet. So this is basically
 what is behind the U.S. business decline.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Page 9 of 19
 
 
@@ -526,22 +486,16 @@ given what you just said?
 
 FINAL
 
-A - Klaus Wilhelm Miller
-
+A - Klaus Wilhelm Miller {BIO 16886879 <GO>}
 Definitely. I'm very convinced that our volume target here, what Jean-Jacques just
 commented on in the outlook, is probably not correct in the sense of bottom line. But it's
 correct in the sense of premium. He mentioned that a lot of this is not accounted for as
 premium. But there is a demand. And we see this as one of the main drivers for the life
 business in the future.
 
-A - Sven Althoff
-
 Bloomberg Transcript
 
-{BIO 16886879 <GO>}
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 I'm Sven Althoff. On your questions regarding the cat, starting with the profit expectations.
 You will have seen that we are guiding on the profitability side that we expect to make our
 cost of capital. And this is coming from a mix of some very strong underlying profitability
@@ -558,10 +512,7 @@ development, we and others are showing on Jebi has not been priced in at the 1st
 April, 2019 renewal. So we are expecting another significant increase in Japanese wind
 pricing come next April.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 And maybe I can add to your straightforward question, would we be in the profitable
 range without Jebi? Yes, definitely. We would be significantly below the maximum target
 of combined ratio.
@@ -569,10 +520,7 @@ of combined ratio.
 Operator
 The next question is from Sami Taipalus of Goldman Sachs.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Yes. So my first question is just on the solvency ratio. Is it possible to just provide a little bit
 of a walk maybe from the year-end. I guess, in particular, I'm a little bit surprised that
 there's not been any pressure from the significant growth that you've had in the business,
@@ -593,10 +541,7 @@ you could potentially revisit given the drop in interest rates since then?
 
 FINAL
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 I think that is for me. Again, I think we had the discussion before. We don't have the
 solvency details here with us. But the one thing I can tell you that, of course, driven by the
 growth and the increase in exposures, the SCR has been increasing. On the other hand,
@@ -624,10 +569,7 @@ we look at it. But no drastic changes anticipated.
 Operator
 The next question is from Andrew Ritchie, Autonomous.
 
-Q - Andrew James Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew James Ritchie {BIO 18731996 <GO>}
 Just a couple of points of clarification. Ogden, we actually now have an Ogden rate set.
 So I'm confused why you wouldn't release that buffer. How can you justify holding the
 buffer? I appreciate you said that the buffer went down a bit versus what it could have
@@ -640,10 +582,7 @@ finally, I think you said that low cat pricing went up at midyear. It didn't rea
 for you to increase your risk exposure to the U.S. cat. In other words, the risk-adjusted
 pricing increase wasn't quite enough. It's -- maybe just clarify.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Yes. So maybe, I'd take Ogden and then leave. Andrew, we -- you might remember that
 when this surprising decision was taken to go down to the minus 74, there was a drag of
 some EUR 300 million. And we mentioned, we take that out of the reserve redundancies
@@ -668,28 +607,19 @@ bit less than expected because we anticipated something in the plus range. On th
 hand, there is no additional reserving necessary. I think that is in line with what we said
 before.
 
-Q - Andrew James Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew James Ritchie {BIO 18731996 <GO>}
 But sorry, that would fully imply the redundancy overall has gone up since year-end '18. I
 appreciate it's gone up by maybe less than your hopes. But it is now a redundancy,
 whereas before it was case reserves?
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 In that regard, we should bear in mind that some of the minus 74 basis points had,
 especially in the Willis Towers Watson analysis by year-end already been anticipated or
 regarded as redundancies in their calculations.
 
 Bloomberg Transcript
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 Maybe on the U.S. side. I guess, in one of the former call, we mentioned that we'd expect
 recapture charge of about EUR 45 million for 2019. This is part of our forecast. And this is
 partly one company recapturing and an awful lot of others, which have already recaptured.
@@ -697,16 +627,10 @@ But did that on the anniversary day of the policies. So this is creeping in over
 months till a full year is over and then all these policies are recaptured. But this was part of
 the 2019 forecast anyhow. So this is completely in there. Then there is the...
 
-Q - Andrew James Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew James Ritchie {BIO 18731996 <GO>}
 So none of this happened to date, for the half year?
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 The creep in the recaptures on the anniversary date happen month-by-month. And we
 are finalizing currently the recapture with one of the clients, which leaves probably 4 which
 go into arbitration. And the point I made was that we have to account for these 4
@@ -732,10 +656,7 @@ have do the accounting this way.
 
 FINAL
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 Andrew, on the U.S. net cat side, when Jean-Jacques mentioned that we have not
 changed our risk appetite, he did not want to imply that we have not written any
 additional limits after the rate increases. So as to Florida, we have seen increases in the
@@ -750,18 +671,12 @@ California wildfire are still fit for purpose given this -- the increase in freq
 why the increases were more significant there and we wrote a little more. But again only a
 couple of tens of millions.
 
-Q - Andrew James Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew James Ritchie {BIO 18731996 <GO>}
 Great. So there was a question on Australia and whether it's truly one-off.
 
 Bloomberg Transcript
 
-A - Klaus Wilhelm Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Wilhelm Miller {BIO 16886879 <GO>}
 We have one-off in Australia, which is basically driven by the Royal Commission and the
 impact this investigation had on the total market. You probably have seen similar negative
 results with our competitors, plus a small correction of an accounting error from 2017.
@@ -769,10 +684,7 @@ results with our competitors, plus a small correction of an accounting error fro
 Operator
 The next question is from Vinit Malhotra with Mediobanca.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Just more -- a few clarifications, if you don't mind. So a few questions, please. Just with
 Jebi, I seem to remember the conversation in 1Q, where the suggestion was that the
 close to EUR 48 million or EUR 50 million taken was also sort of discretionary or that was
@@ -798,10 +710,7 @@ And yes, actually that's my last question.
 
 FINAL
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Yes. Vinit, Thank you. Obviously, we have to clarify a few things this time. You mentioned
 Jebi, I'm not fully sure if I understood everything. You mentioned that the EUR 58 million in
 the Q3 was a little bit surprising. It was for us. I think it was really the development of this
@@ -829,10 +738,7 @@ held, together with the technical results. So there is, from our point of view, 
 significant change in the business mix. It's just that, obviously, some of the larger contracts
 with that arrangements are no longer in existence.
 
-A - Klaus Wilhelm Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Wilhelm Miller {BIO 16886879 <GO>}
 One thing has changed, I would have to check that. But my strong guess is that this is still
 related to project cadence last year because we have restructured a lot of the U.S.
 business, not only between Ireland and Bermuda but also with some of our clients who's
@@ -862,10 +768,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Yes. Thank you for the question. I think from the reinvestment yield, I will give you, as
 always, the details as part of my presentation of the Investors Day in October. If I just look
 at the fixed income portfolio, we should assume that as compared to last year. And of
@@ -889,10 +792,7 @@ the year at all.
 Operator
 The next question is from Frank Kopfinger, Deutsche Bank.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 I have 2 questions. My first question is on your renewals outcome on the 20% premium
 increase. As most of your competitors also break down the price component in this, could
 you also give some sort of guidance at least on where you see yourself in terms of pricing
@@ -904,10 +804,7 @@ had been a similar contribution level. So the question is on whether you can bre
 little bit more or shed some light into the ordinary investment income, where it came from
 and what was sort of one-off and what is really ordinary here?
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Page 15 of 19
 
 
@@ -930,22 +827,14 @@ really nothing extraordinary, no changes. It's just driven by the volumes and th
 numbers go up even if the ROI goes slightly down still, which was not, to such an extent,
 the case. Then I would leave the renewal impact to you.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Just on this. So which otherwise would suggest that we could take ordinary investment
 income for the first half also as a run rate for the full year?
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 Yes.
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
+A - Sven Althoff {BIO 19104724 <GO>}
 
 Bloomberg Transcript
 
@@ -964,10 +853,7 @@ that we can report.
 Operator
 The next question is from Thomas Fossard, HSBC.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Two questions from my side. The first one will be on the operating cash flow Q2. So the
 821 it seems to be a big number, Q2 standalone. So just wanted to better understand
 what was driving this? And what was the full year expectations? And maybe to connect
@@ -996,10 +882,7 @@ momentum we are seeing currently in commercial lines? Any sense of why this is t
 case? And why we should not expect, I would say, further momentum in the coming
 quarters?
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 So if I start with the operating cash flow, Thomas, I have to admit I was a bit positively
 surprised as well. If you look at statistics, which we usually see here on -- also on the slide,
 the cash flow numbers per quarter have been volatile in the past as well. This might also
@@ -1016,18 +899,12 @@ then of course that is associated with premium within and reserves up for that p
 And that then also is reflected by the increase in cash flow and the increase in assets
 under own management.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 If I remember, well, actually, this cash flow is more driven by excess outflows business and
 proportional business. So would that imply that actually your growth on pure XL business
 has been stronger in Q2?
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 No. I don't think so. You're right. I think the effect -- the cash flow effect from the
 nonproportional business because you get your minimum and deposit premium at the
 beginning. And in a lot of the larger, also, financial reinsurance contracts, you get a half
@@ -1052,10 +929,7 @@ see the dilution compensated by volumes and not an additional effect on it.
 
 FINAL
 
-A - Sven Althoff
-
-{BIO 19104724 <GO>}
-
+A - Sven Althoff {BIO 19104724 <GO>}
 When it comes to the rate movements, you mentioned the figure of 6% for commercial
 insurance, which, to my knowledge, is a U.S. figure published by one of the major broking
 houses yesterday. It's in line with what we are observing. We are very much benefiting
@@ -1083,20 +957,14 @@ how the major losses will behave in the third and Fourth Quarter.
 Operator
 There are currently no further questions. (Operator Instructions) We've received a followup question from Vinit Malhotra, Mediobanca.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Just one quick follow-up. The U.K. life mortality assumption changed, as you mentioned.
 Please could you just comment a bit because I'm not -- so apologies, I'm not a U.K. life
 fan. But it seems that some of the U.K. life companies have been taking benefit from
 mortality improvements in recent few reporting periods, maybe a couple of years. Are
 you saying that trend is changing in your view? Or just any color would help.
 
-A - Roland Helmut Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Helmut Vogel {BIO 16342285 <GO>}
 No. The change, what we have done here, the reserve strengthening was for one
 outgoing retro deal. We had a major overhaul of our assumptions in 2017. And we
 changed all our modeling from some older simplified modeling to a more sophisticated
@@ -1121,10 +989,7 @@ FINAL
 Operator
 We haven't received any further questions. So I hand back to the speakers.
 
-A - Jean-Jacques Henchoz
-
-{BIO 17457677 <GO>}
-
+A - Jean-Jacques Henchoz {BIO 17457677 <GO>}
 Well thank you very much. So I'd just like to conclude. Thank you for the questions.
 Generally, as Roland mentioned, here we decided not to change the guidance. Obviously,
 for me personally, it was a little bit early, just after a few months, to review all the

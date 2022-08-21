@@ -30,10 +30,7 @@ statements based on the current projections and they entail risks as well as unc
 Actual results may differ from the current projections.
 With that, I will hand over to Mr. Wada.
 
-Kiyoshi Wada
-
-{BIO 19963983 <GO>}
-
+Kiyoshi Wada {BIO 19963983 <GO>}
 My name is Wada from the IR Group of Tokio Marine Holdings. I will explain the fiscal year
 2017 second quarter results and full-year projections of Tokio Marine Holdings, which was
 announced today. I would like to ask you to access our website. Then from the homepage
@@ -301,10 +298,7 @@ line until we come back.
 The first question will be from Mr. Muraki of Deutsche Securities. Please ask your question
 now.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 About the international business and about the share buyback, I have some questions for
 you. So starting with the international business, large losses. What is the budget for the
 large losses? Compared to the year beginning plan, you have reviewed it and how has it
@@ -408,19 +402,13 @@ management are the keys in managing the capital overall. And based on those idea
 have decided on the ¥100 billion to be spent for share buybacks. That concludes my
 answer.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 I understood very well. Thank you very much.
 
 Operator
 Next question is from Ms. Tsujino of JPMorgan. Please go ahead.
 
-Q - Natsumu Tsujino
-
-{BIO 2234779 <GO>}
-
+Q - Natsumu Tsujino {BIO 2234779 <GO>}
 Thank you for this opportunity. Well, first off, internationally, nat cat budget on a full-year
 basis. You're expecting ¥93 billion now on a full-year basis. Out of that, in the first half you
 already used [Technical Difficulty] (00:34:28-00:34:37) domestically in Japan, which looks
@@ -513,10 +501,7 @@ be ¥0.4 billion (00:40:26) negative this year, which is actually not part of my
 My question is, on a full-year basis, in order to achieve your guided adjusted underwriting
 profit.
 
-Q - Natsumu Tsujino
-
-{BIO 2234779 <GO>}
-
+Q - Natsumu Tsujino {BIO 2234779 <GO>}
 You have only achieved 87-plus billion yen in the first half as opposed to ¥195 billion on
 full-year basis. How challenging do you think achieving this full-year target is? How
 confident are you in achieving this number? And when you say, large-scale losses, per
@@ -553,18 +538,13 @@ year, due to some changes or movement of the loss ratio of the auto in the secon
 we think that the provisioning burden in the initial year of the contract is going to become
 smaller. So, that is another assumption that we have factored into our full-year projection.
 
-Q - Natsumu Tsujino
-
-{BIO 2234779 <GO>}
-
+Q - Natsumu Tsujino {BIO 2234779 <GO>}
 Understood. Thank you.
 
 Operator
 Next question will be from Mr. Watanabe of Daiwa. Please ask your question.
 
-Q - Kazuki Watanabe
-
-{BIO 15948747 <GO>}
+Q - Kazuki Watanabe {BIO 15948747 <GO>}
 
 Bloomberg Transcript
 
@@ -609,18 +589,13 @@ which happened in the first half, there was a contingency reserve for which we h
 make a net provision. So those are the two reasons why we made a downward revision to
 the plan.
 
-Q - Kazuki Watanabe
-
-{BIO 15948747 <GO>}
-
+Q - Kazuki Watanabe {BIO 15948747 <GO>}
 Thank you very much.
 
 Operator
 Next question is from Mr. Otsuka of Nomura Securities.
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 
 Bloomberg Transcript
 
@@ -667,10 +642,7 @@ answering previous question.
 
 FINAL
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 Just some simple clarifications related to my first question. Now currently, the ESR is 141%.
 Is it adequate or not adequate? Is this the point that you're planning to explain in more
 detail in the large meeting next week? And secondly, related to my second question on
@@ -696,19 +668,13 @@ current mid-term plan, we think that our underlying earnings capability have bee
 reinforced. So I know that this is somewhat a qualitative statement; however, this is our
 appreciation.
 
-Q - Wataru Otsuka
-
-{BIO 16340098 <GO>}
-
+Q - Wataru Otsuka {BIO 16340098 <GO>}
 Thank you.
 
 Operator
 Next question will be from Mr. Sato of Mizuho Securities.
 
-Q - Koki Sato
-
-{BIO 19983862 <GO>}
-
+Q - Koki Sato {BIO 19983862 <GO>}
 Thank you for the opportunity. My first question is that the – the natural catastropherelated information you have disclosed and your revised nat cat budget. On page 18,
 waterfall figure, for domestic P&C, ¥41 billion is here. And if I go back to page 33 – and I
 believe this is for the business unit profit basis, you have expanded the budget by ¥21
@@ -768,10 +734,7 @@ And what is the impact of the interest rate within this difference? We cannot di
 specific figure; however, I can say that most of this difference is coming from the changes
 in the macro economy, including interest rate hike in yen.
 
-Q - Koki Sato
-
-{BIO 19983862 <GO>}
-
+Q - Koki Sato {BIO 19983862 <GO>}
 Just one point to clarify about the life business. In 2016, I believe the actual figure for 2016
 was ¥20 billion plus due to change in the MCEV and I'm sure macro economy changed in
 the meantime. But basically, are we expecting decline in profit still?
@@ -787,9 +750,7 @@ Date: 2017-11-17
 A - Operator
 My name is Yamada from the life (00:56:13) company again. Decline in profit, meaning?
 
-Q - Koki Sato
-
-{BIO 19983862 <GO>}
+Q - Koki Sato {BIO 19983862 <GO>}
 
 FINAL
 
@@ -800,10 +761,7 @@ A - Operator
 In 2016, the increase in MCEV was ¥373 billion. And as of that, the difference coming from
 the MCEV change was ¥243 billion. And so, excluding that it was ¥150 billion of difference.
 
-Q - Koki Sato
-
-{BIO 19983862 <GO>}
-
+Q - Koki Sato {BIO 19983862 <GO>}
 I got it. Thank you.
 
 Operator
@@ -811,10 +769,7 @@ Next question is from Mr. Majima of Tokai Tokyo Research Center.
 
 Bloomberg Transcript
 
-Q - Tatsuo Majima
-
-{BIO 15338044 <GO>}
-
+Q - Tatsuo Majima {BIO 15338044 <GO>}
 This is Majima. I have one question to ask you, on page 18, which has been asked over
 and over already, but in the second half, nat cat assumptions. Now, you are I believe
 already starting to take down cat loss reserve. And I believe that that would essentially
@@ -863,10 +818,7 @@ until it reaches 50% in neutrality (01:00:24) the losses will always have to inc
 being able to take down the losses – take down the cat loss reserve, and that is where
 the difference is coming from.
 
-Q - Tatsuo Majima
-
-{BIO 15338044 <GO>}
-
+Q - Tatsuo Majima {BIO 15338044 <GO>}
 So, which particular line of business has not reached a loss ratio which allowed you to take
 down the reserves? I thought that across all different lines of business, you have reached
 the threshold lines, but...
@@ -881,10 +833,7 @@ actual loss ratio was still short of 50% threshold. And that is a reason why we 
 difference that you asked earlier.
 Next question is from Ms. Tsujino of JPMorgan.
 
-Q - Natsumu Tsujino
-
-{BIO 2234779 <GO>}
-
+Q - Natsumu Tsujino {BIO 2234779 <GO>}
 About the profit of the Tokio Marine & Nichido Life Insurance Company. The dividend
 payment for the policyholders, if we exclude the reserve for the policyholder dividend
 payment, in the first quarter it was ¥4 billion. This was very low. However, afterwards in the
@@ -922,10 +871,7 @@ reserve. That already appeared in the second quarter and that was factored into 
 this year. So it was not part of the plan for the beginning of the year, but now it is part of
 the plan.
 
-Q - Natsumu Tsujino
-
-{BIO 2234779 <GO>}
-
+Q - Natsumu Tsujino {BIO 2234779 <GO>}
 I got it. That explains it. I understand why second quarter number was low.
 
 Operator
@@ -933,10 +879,7 @@ There seems to be no questions. So Mr. Wada, over to you.
 
 Bloomberg Transcript
 
-A - Kiyoshi Wada
-
-{BIO 19963983 <GO>}
-
+A - Kiyoshi Wada {BIO 19963983 <GO>}
 Ladies and gentlemen, thank you very much for participating in Tokio Marine Holdings'
 fiscal year 2017 second quarter financial results conference call. If you have further
 questions or if you need further clarifications, please do not hesitate to call us. Thank you

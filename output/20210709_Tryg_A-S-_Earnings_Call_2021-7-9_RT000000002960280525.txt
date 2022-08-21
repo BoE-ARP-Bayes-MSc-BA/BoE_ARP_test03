@@ -23,19 +23,13 @@ Presentation
 
 Bloomberg Transcript
 
-Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Gianandrea Roberti {BIO 6786731 <GO>}
 Good morning everybody, my name is Gianandrea Roberti. I am Head of Investor
 Relations at Tryg. We published our Q2 results earlier on this morning, and I have here
 with me Morten Hubbe, our Group CEO; and Barbara Plucnar Jensen, Group CFO. Just
 with these few words over to you Morten.
 
-Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+Morten Hubbe {BIO 7481116 <GO>}
 Thank you Gian, and warm welcome also from my side. We start on Slide 3 with the
 highlights of the second quarter. Be aware in this quarter, of course, that most of the
 numbers are Tryg Classic and are only in a few selected investment lines you can see data
@@ -195,10 +189,7 @@ We're pleased that in Private Norway, that we have a continued increase in reten
 also on Commercial retention we see stability in Norway and an improvement of 0.2
 percentage points in Denmark. So, over to you, Barbara.
 
-Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+Barbara Plucnar Jensen {BIO 17487867 <GO>}
 Thank you very much, Morten. If you turn to Slide 15, you can see the development in the
 underlying claims ratio. For group, this improved by 80 basis points in the quarter, while it
 was unchanged for Private. Please note that the underlying claims ratio doesn't include
@@ -339,10 +330,7 @@ latest outlook.
 
 Bloomberg Transcript
 
-Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+Morten Hubbe {BIO 7481116 <GO>}
 Thank you. Barbara. And rounding oﬀ, Slide 28, we show the outlook, where Monday this
 week, 5th of July, we increased our guidance for the technical result for the year. So from
 previously guidance of DKK3.3 billion to DKK3.7 billion to a new guidance of DKK3.5
@@ -383,27 +371,19 @@ from Nordea. Please go ahead. Your line is open.
 
 FINAL
 
-Q - Jakob Brink
-
-{BIO 20303720 <GO>}
-
+Q - Jakob Brink {BIO 20303720 <GO>}
 Thank you very much and good morning from my side. First, question on solvency and
 the capital gain related to the sale of Codan Denmark, could you maybe start by telling us
 how should we look at this, i.e., the capital gains compared to the sales price please? So
 what is it booked in your accounts?
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 I think as a starting point, it's -- the sale of Codan doesn't change any of our numbers at
 this point in time that will be impacting the numbers once the deal is closed, Jakob, and
 at that point, we will give you further details in terms of exactly how it will impact. But for
 now, it doesn't change. You can say the numbers that we're looking at.
 
-Q - Jakob Brink
-
-{BIO 20303720 <GO>}
+Q - Jakob Brink {BIO 20303720 <GO>}
 
 Bloomberg Transcript
 
@@ -415,10 +395,7 @@ end of next year then DKK1 billion reduction in SCR that adds 20 percentage poin
 around DKK2 billion. So I'm just wondering how you get to the last DKK3 billion, I would
 have thought it was somewhat more. So that --
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 I think what you should remember Jakob is that we are saying approximately DKK5 billion
 for the share buyback because obviously when you do a trade and a transaction like what
 we have done with Codan, there is a number of outstanding items relating to opening
@@ -430,10 +407,7 @@ and those are the drivers that will be impacting the solvency. But I think, it's
 that there are still a number of outstanding items that we don't have visibility on that we
 will give you more details on, when we come closer to these items.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 As you can see, Jakob, that is completely fair question. It's also quite unusual to announce
 such a large buyback 10 months or whatever the number is in advance. And separating
 the legal entities in the Nordics is one thing that has not been ﬁnalized yet. There are also
@@ -449,9 +423,7 @@ Company Name: Tryg A/S
 Company Ticker: TRYG DC Equity
 Date: 2021-07-09
 
-Q - Jakob Brink
-
-{BIO 20303720 <GO>}
+Q - Jakob Brink {BIO 20303720 <GO>}
 
 FINAL
 
@@ -460,28 +432,19 @@ you prefer, I assume that you would still have 180% solvency ratio, but would yo
 prefer a slightly higher and then postpone some of the payout for the two following years
 in the forecast period or is it simply a matter of all those details?
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 I like your question, Jakob. I think we are very committed to returning capital to our
 investors, but as you also understand, there's a lot of complexity still involved in this. So I
 think you should revert, so you can say our position of the history and the track record we
 have of returning capital to our shareholders.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 I think, generally, Jakob, you should get the segue that it is the caution and a lot of
 moving parts rather than a desire to sit on capital.
 
 Bloomberg Transcript
 
-Q - Jakob Brink
-
-{BIO 20303720 <GO>}
-
+Q - Jakob Brink {BIO 20303720 <GO>}
 Of course. Thank you. Then the next question is a bit more on the detail side, but just
 looking at consensus estimates for investment income when things get normalized, i.e.,
 '23 and '24, it's around DKK400 million. But I would have thought that, let's say, that you
@@ -492,10 +455,7 @@ portfolio that gives only around DKK250 million. This is something that have cha
 would mean that we should not use total own funds as a proxy for the free portfolio, or is
 there something else I'm missing?
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 No. You should still look at the old principals applying. I think what I would say about
 investment result is obviously we don't get -- you can say, our hands on the investment
 assets until the time of demerger. And you can say, we need to adjust a little bit on the
@@ -505,10 +465,7 @@ portfolio we take over, which is in total around DKK24 billion of which DKK6 bil
 free portfolio that needs to be adjusted for it. So again, the principles totally agree to that,
 more details to come a little later, Jakob.
 
-Q - Jakob Brink
-
-{BIO 20303720 <GO>}
-
+Q - Jakob Brink {BIO 20303720 <GO>}
 Okay. And my last question -- thank you, is on other income and expenses in Tryg's
 standalone, if I calculate backwards from the table you gave us on one of the ﬁrst pages it
 was a DKK113 million negative this quarter, I know it's not a big deviation, but it's usually
@@ -524,9 +481,7 @@ Company Name: Tryg A/S
 Company Ticker: TRYG DC Equity
 Date: 2021-07-09
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 
 FINAL
 
@@ -535,16 +490,10 @@ existing loan and raised new capital and so forth. So you have some other things
 through that you wouldn't see in an ordinary quarter. So I would look back at the ordinary
 levels in future quarters.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 It's got a new level. We will reverse to the old level.
 
-Q - Jakob Brink
-
-{BIO 20303720 <GO>}
-
+Q - Jakob Brink {BIO 20303720 <GO>}
 Okay. Thanks a lot. That was all from my side.
 
 Operator
@@ -553,10 +502,7 @@ Please go ahead. Your line is open.
 
 Bloomberg Transcript
 
-Q - Asbjorn Mork
-
-{BIO 17028219 <GO>}
-
+Q - Asbjorn Mork {BIO 17028219 <GO>}
 Yes, hi. Good morning from my side as well. My ﬁrst question basically on the underlying
 claims ratio improving the 80 basis points in Q2, I'm fully aware of course, that the Alka
 synergies are somewhat higher this year than the previous years. But at the same time,
@@ -568,10 +514,7 @@ to some extent. And then of course, if not, if you're actually able to improve P
 forward, I guess we should look at the 80 basis points as the new 50 basis points that
 used to guide, or any comments around that would be highly valuable? Thanks.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Yeah, thank you, Asbjorn. You're right that Private has been unchanged. And we still
 believe that the areas where we will want to improve underlying the most. It's actually
 cooperate and to some extent commercial -- particularly, commercial Norway. And we see
@@ -598,19 +541,13 @@ slight positive in periods, but watch out that you don't just add that on top.
 
 FINAL
 
-Q - Asbjorn Mork
-
-{BIO 17028219 <GO>}
-
+Q - Asbjorn Mork {BIO 17028219 <GO>}
 But is it fair to assume that if Private goes from basically ﬂat to let's say, 20 basis points, 30
 basis points improvement over time. Admittedly, yes, Corporate and Commercial will not
 improve as much as they do right now, but wouldn't the net eﬀect then be largely neutral.
 Hence, your 80 basis points should be rather sustainable going forward?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Well, I don't think we have a plan that the current level should deteriorate. So I think your
 line of thinking that there is stability in that makes sense. And then over time, the
 composition will vary and honestly the number will not be ﬁxed per quarter either, but the
@@ -618,9 +555,7 @@ logic that over time will continue to do this underlying improvements make sense
 our logic as well. And then, of course, we're working hard to make sure that we stay at or
 ahead of the inﬂation curve, but that is the outlook we have and that is what we're doing.
 
-Q - Asbjorn Mork
-
-{BIO 17028219 <GO>}
+Q - Asbjorn Mork {BIO 17028219 <GO>}
 
 Bloomberg Transcript
 
@@ -630,10 +565,7 @@ the new customer inﬂow has around 30 basis points negative impact at the momen
 hence your underlying is on the existing custom basis is 30 basis points better than what
 we see here?
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 I think, if you look at the new customers and the 3%, that's basically what we look at in the
 ﬁrst couple of years in the customer journey with us or the customer lifetime value. So,
 again, if you look at the growth we have experienced, it sort of comes in various steps
@@ -649,10 +581,7 @@ have had an inﬂow of almost 7,000 customers in the Norwegian Private business.
 something where we're obviously you have to see it in a slightly longer perspective than
 just on a ﬁxed time with the impact that you highlight there.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 I think basically your calculation logic is right as per annum and then bear in mind that
 you can calculate the diﬀerence in the normal inﬂow/outﬂow if there's a net-net growth of
 zero customers that I think was your 30 basis point calculation. And of course, what you
@@ -671,19 +600,14 @@ you need to add a little bit for the net-net growth.
 
 FINAL
 
-Q - Asbjorn Mork
-
-{BIO 17028219 <GO>}
-
+Q - Asbjorn Mork {BIO 17028219 <GO>}
 All right. Fair enough. On Slide 16, you have this very detailed slide on claims inﬂation and
 how you monitor it. Could you give us a little bit more ﬂavor on you're saying all things
 equal, how has it on a group level? How has the inﬂation environment that we are in at the
 moment? How is that impacting your total claims ratio? All things equal if you don't
 change the pricing. So what kind of basis point eﬀect are we talking about?
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 
 Bloomberg Transcript
 
@@ -702,10 +626,7 @@ look at the duration of our insurances then you would also see that it is relati
 so by adjusting prices we will be able to take into account the potential inﬂation that is
 impacting certain areas.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 But it's fair to say also that we've left behind completely the logic of working with an
 overall inﬂation assumption. So now it is an extremely detailed bottom-up build, not only
 by country and by line of business, but by components within that line of business,
@@ -713,22 +634,14 @@ whether that is a ﬁxed compensation or it is salary compensation inﬂation or
 inﬂation, et cetera, et cetera. So it is becoming a very, very large hierarchy of data with a
 lot of variation from product to product.
 
-Q - Asbjorn Mork
-
-{BIO 17028219 <GO>}
-
+Q - Asbjorn Mork {BIO 17028219 <GO>}
 All right. Fair enough. So it seems like the risk at the moment seems isolate to 3%, 4% of
 your total claims, is that the ballpark?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Yes, that's --
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 Page 12 of 22
 
 
@@ -739,18 +652,12 @@ Date: 2021-07-09
 
 That's fair assumption.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 That's a wise summary.
 
 FINAL
 
-Q - Asbjorn Mork
-
-{BIO 17028219 <GO>}
-
+Q - Asbjorn Mork {BIO 17028219 <GO>}
 All right. Fair enough. And then on the Trygg-Hansa and Codan slide that you have. Just
 really one question on Norway. I guess, I'm looking Sweden, there's a lot of reasons why
 the combined ratio was slightly higher versus the ﬁrst half of last year and I don't know
@@ -759,9 +666,7 @@ improvement there, can you give us a little bit of ﬂavor there, is this sort o
 should expect from Codan Norway ahead is that DKK100 million in technical proﬁts or
 how should we look at that?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
+A - Morten Hubbe {BIO 7481116 <GO>}
 
 Bloomberg Transcript
 
@@ -785,10 +690,7 @@ not really there and that the combined ratio we see in the ﬁrst half and come 
 Norway is a little bit too ﬂattering to just we assume there's a new run-rate. So watch out, a
 little bit even though the numbers are small.
 
-Q - Asbjorn Mork
-
-{BIO 17028219 <GO>}
-
+Q - Asbjorn Mork {BIO 17028219 <GO>}
 All right. Very clear. My ﬁnal question on Slide number 12 on the insurance pricing in
 Norway, I'm just a bit surprised to see the house insurance pricing again ﬂat looking into
 the, I guess potential claims inﬂation we have already talked about. So should we expect
@@ -807,10 +709,7 @@ Date: 2021-07-09
 
 FINAL
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Yes. So the short answer is, yes. We do expect that to trend upwards. And the only reason
 why house in Norway is not trending upwards, is there's one rather large adjustment,
 actually a year ago in the house prices for one very, very large partner, the largest one we
@@ -821,23 +720,14 @@ areas of our portfolio in house Norway prices are going up. So it is really a la
 impact in the portfolio where all of the other customers are seeing increases and this
 partner will see increases as well. So your expectation for the future is correct.
 
-Q - Asbjorn Mork
-
-{BIO 17028219 <GO>}
-
+Q - Asbjorn Mork {BIO 17028219 <GO>}
 All right. I thought that was already in the base ﬁgures by now. But okay. Thanks. Thanks a
 lot.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 No, it takes 12 months. So it has a bit quite long impact.
 
-Q - Asbjorn Mork
-
-{BIO 17028219 <GO>}
-
+Q - Asbjorn Mork {BIO 17028219 <GO>}
 Sure. Okay. Thanks. Thanks.
 
 Bloomberg Transcript
@@ -846,18 +736,12 @@ Operator
 Thank you. The next question comes from the line of Per Gronborg from SEB. Please go
 ahead. Your line is open.
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
-
+Q - Per Gronborg {BIO 15910340 <GO>}
 Yes. Hello. Just a single question from me. Great, as we get some numbers on the
 acquired business. Can you elaborate a bit on the development in Sweden, like you able
 to do in Norway? I think the underlying numbers one-oﬀ large claims on cost?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Yes, we can do that. So I think it's positive to see if you start on the top-line that growth is
 3.3%. I think, if you look at the past ﬁve years the average has been closer to 2%, so 3.3%
 is closer to being the market growth. So I think that's one important area and we see that
@@ -880,78 +764,47 @@ Date: 2021-07-09
 strong underlying and then quite negative on weather and then I think fairly stable on
 large claims in general. So mainly weather playing a role.
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
+Q - Per Gronborg {BIO 15910340 <GO>}
 
 FINAL
 
 So weather has been pretty bad in the ﬁrst half in Sweden this year?
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 In some areas, yes.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Yes.
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
-
+Q - Per Gronborg {BIO 15910340 <GO>}
 That's overall?
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 In -- around Stockholm to be speciﬁc. They have had some what do you call that rainfalls
 and cloud ﬁrst. Yeah. I believe that was in the late spring.
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
+Q - Per Gronborg {BIO 15910340 <GO>}
 
 Bloomberg Transcript
 
 Late spring. Okay. Just one ﬁnal --
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 This is the summary for the six months and therefore not split into the quarters as normal,
 right? So that's why we're summarizing also the spring.
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
-
+Q - Per Gronborg {BIO 15910340 <GO>}
 What about the prior year gains in Sweden? Any impact from those, are they at
 unchanged level they were not last year?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Yeah. No, that --
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
-
+Q - Per Gronborg {BIO 15910340 <GO>}
 Yeah. Better much in Sweden. Forgot about that comment [ph]. Any changes to prior year
 gains in Sweden?
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 No, I think, Per, in all fairness we have had the access to the business for one month and
 next quarter, we will have a signiﬁcantly more insights, because there we have had the
 business in full, but I think we'll leave it at those more generic comments and as Morten
@@ -971,47 +824,32 @@ And then I think it's positive to see that also after being interacting with our
 colleagues in Sweden and Norway, we can see that there is a whole lot of areas that we
 will be working on together going forward.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Generally have -- we have -- we haven't seen big moving parts on prior year's gains or
 losses. I think the main volatile thought we've seen are these weather claims in the spring
 around Stockholm.
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
-
+Q - Per Gronborg {BIO 15910340 <GO>}
 Okay. That explains why the numbers are trending in the wrong direction. I'll be not that
 concerned about that. Just one ﬁnal question. Amortization of intangibles, it looks like you
 won't start amortizing that before you consolidate the data designed by line, is that
 correctly understood?
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 Correct. Remember that right now, we have them as we're taking them in by equity
 accounting, they are an associated investments, and not until demerger where we have a
 full consolidation line-by-line.
 
 Bloomberg Transcript
 
-Q - Per Gronborg
-
-{BIO 15910340 <GO>}
-
+Q - Per Gronborg {BIO 15910340 <GO>}
 Okay. Perfect. Thank you.
 
 Operator
 Thank you. Next question comes from the line of Will Hardcastle from UBS. Please go
 ahead. Your line is open.
 
-Q - Will Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - Will Hardcastle {BIO 16346311 <GO>}
 Good morning, everyone. Just following up on the claims inﬂation questions. I guess, can
 you provide us with a few more tangible examples by act [ph] of how you've achieved this
 signiﬁcantly lower average claims for the motor? And how much of that advantage you
@@ -1019,10 +857,7 @@ think is sustainable? And perhaps a follow-on to that is, do you think some of t
 players perhaps are ﬁnding this a bigger challenge and that's making you increasingly
 competitive, is that a fair comment?
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 Yes, I think that's absolutely a fair comment. I think we have been prioritizing this with our
 procurement team and our claims team for a number of years now. So we have built
 strong competences in the areas. It is something that requires that you are well equipped
@@ -1048,10 +883,7 @@ talked about today. It does have an impact and it does impact composition in ter
 results and so forth. But we will focus on and you can see ensuring that our business is as
 strong as possible and as much as possible in control in the area.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 We note as well that even some of our larger competitors has been trying and have been
 stealing a few of our staﬀ in this area, so I believe that's probably because they are good
 and our methodology is better than the industry. I think longer term we'll see that the tops
@@ -1060,10 +892,7 @@ the smaller players will struggle. And that is part of, I think the scale advant
 will allow the bigger players to perform in this area and make it more challenging to be
 competitive as a small player.
 
-Q - Will Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - Will Hardcastle {BIO 16346311 <GO>}
 Yeah. Very helpful. Thanks.
 
 Bloomberg Transcript
@@ -1072,10 +901,7 @@ Operator
 Thank you. The next question comes from the line of Martin Gregers Birk from Carnegie.
 Please go ahead. Your line is open.
 
-Q - Martin Gregers Birk
-
-{BIO 19920552 <GO>}
-
+Q - Martin Gregers Birk {BIO 19920552 <GO>}
 Thank you so much. Two questions of my side. The ﬁrst one on Norway, where I believe
 you book a check, the results of DKK388 million, I guess that's the highest technical
 results. I have -- I can remember at least what's happening there? And then coming back
@@ -1083,10 +909,7 @@ to your claims costs inﬂation slides. When we talk about price hikes, can you 
 elasticities on how much are you actually able to raise prices without seeing any notable
 churn?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Well, if we take the ﬁrst question, gross margin. I think that we've seen, I think if you put
 out the -- if you look at the data series in a longer time horizon clearly there is a bigger
 diﬀerence between the summer quarters in Norway and the winter quarters in Norway
@@ -1125,10 +948,7 @@ price increases necessary and we accept what are consequences we'll see on the t
 But of course, it is helpful that compared to the following suit particularly in Norway and
 starting to see the same in Denmark.
 
-Q - Martin Gregers Birk
-
-{BIO 19920552 <GO>}
-
+Q - Martin Gregers Birk {BIO 19920552 <GO>}
 Okay. Very clear. Thank you so much.
 
 Bloomberg Transcript
@@ -1137,10 +957,7 @@ Operator
 Thank you. The next question comes from the line of Youdish Chicooree from
 Autonomous. Please go ahead. Your line is open.
 
-Q - Youdish Chicooree
-
-{BIO 17430923 <GO>}
-
+Q - Youdish Chicooree {BIO 17430923 <GO>}
 Good morning, everyone. I have got three questions please. And the ﬁrst one, sorry to go
 back again on this just on claims inﬂation, you have -- clearly you have procurement
 agreements that protects you against the spike in claim inﬂation, but considering these
@@ -1154,10 +971,7 @@ results seems, I mean, they were down quite signiﬁcantly, year-on-year, and pa
 seems driven by run-oﬀ, so could you just give us some color on what's driving this,
 please?
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 Yes. I think, if we start with the claims inﬂation Youdish, I think when it comes to the
 tenures of the agreement, I think it's important to understand that this is not just
 Page 18 of 22
@@ -1181,27 +995,18 @@ that mutual -- you can say interest in having those agreements in place. It is a
 something where we don't foresee that there will be a sudden large spike related to the
 agreement when also renegotiating them.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 So I guess it's fair to Youdish, that don't expect sudden spikes, but we do ourselves
 expect that some of them will have increases and we have built those assumptions into
 the price increases we are doing and have been doing for a while. So I think we
 completely agree with your logic, but we don't expect big spikes.
 
-Q - Youdish Chicooree
-
-{BIO 17430923 <GO>}
-
+Q - Youdish Chicooree {BIO 17430923 <GO>}
 Got it. Thank you.
 
 Bloomberg Transcript
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 When it comes to the frequencies, I would say, related to COVID, what we have seen in
 the last quarter is very much building on the trends that we saw in the second quarter
 where you start seeing, you can say an increase in areas like health and dental insurance
@@ -1221,10 +1026,7 @@ in the quarter is around DKK32 million now. And I would expect that to gradually
 decrease further going forward unless we see sudden new third waves or whatever might
 happen over the course of the summer. Last question was around Sweden?
 
-Q - Youdish Chicooree
-
-{BIO 17430923 <GO>}
-
+Q - Youdish Chicooree {BIO 17430923 <GO>}
 Yes.
 Page 19 of 22
 
@@ -1234,9 +1036,7 @@ Company Name: Tryg A/S
 Company Ticker: TRYG DC Equity
 Date: 2021-07-09
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 
 FINAL
 
@@ -1245,20 +1045,14 @@ the run-oﬀ is related to the motor area, where you have seen a slightly diﬀe
 development, which has supported the business in this particular quarter. I think, when
 looking ahead, yes, I wouldn't sort of guide that this is a new level as such.
 
-Q - Youdish Chicooree
-
-{BIO 17430923 <GO>}
-
+Q - Youdish Chicooree {BIO 17430923 <GO>}
 All right. Okay. Thank you very much.
 
 Operator
 Thank you. The ﬁnal question comes from Mads Thinggaard from ABG. Please go ahead.
 Your line is open.
 
-Q - Mads Thinggaard
-
-{BIO 15369662 <GO>}
-
+Q - Mads Thinggaard {BIO 15369662 <GO>}
 Yeah. Thanks. I just have two, two small questions list. And the ﬁrst one is on the bonus
 and the premium discounts. Of course, I realize it's not a negative thing that it's growing
 from DKK150 million last year to DKK279 million in Q2 this year, but could you help up a
@@ -1267,10 +1061,7 @@ and Q4 or what should we expect here?
 
 Bloomberg Transcript
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 I think, as such we do guide on the bonus premiums. I think again, you should look at,
 where does it impact, probably the majority is related to the Private business, and again,
 we have seen a very strong performance somewhat also held in the ﬁrst quarter by
@@ -1278,10 +1069,7 @@ COVID-19, somewhat less in the second quarter, which is supporting the performan
 there, and how that will look in the coming quarters depends and you can say whether we
 will see any major impact again, but, yeah.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 In the current run-rate is a little bit higher than usual and the spillover is a little bit higher
 than usual, but it is generally a reﬂection of strong performance in Private as you put it,
 Barbara. So in periods where we deliver strong performance in Private, we will see an
@@ -1294,10 +1082,7 @@ challenging principal and that's why we try to give data on both before and afte
 can monitor, what is the actual growth that the machine is delivering and then what is after
 subtraction of what is essentially proﬁt sharing.
 
-Q - Mads Thinggaard
-
-{BIO 15369662 <GO>}
-
+Q - Mads Thinggaard {BIO 15369662 <GO>}
 Page 20 of 22
 
 
@@ -1314,10 +1099,7 @@ indication for next year. Do you have any thoughts about normal buybacks? I mean
 know you love your Rockefeller quote but I mean, could you, are you entirely against
 having a part of your normal distribution as buybacks, how do you see that?
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 I think, clearly our view is that a high level of returning capital to shareholders, it's
 extremely important for us and we see that, that is extremely important for our
 shareholders and for the value creation from the discipline of how we run the business. I
@@ -1329,10 +1111,7 @@ buybacks changes, then we will listen to our shareholders and the strategy willi
 change that, but as of now the signals we're getting from our shareholders is a very clear
 preference for particular.
 
-Q - Mads Thinggaard
-
-{BIO 15369662 <GO>}
-
+Q - Mads Thinggaard {BIO 15369662 <GO>}
 Okay. Thanks for that.
 
 Operator
@@ -1341,24 +1120,15 @@ Bloomberg Transcript
 
 Thank you. We have no further questions. So I will pass back for any closing comments.
 
-A - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+A - Gianandrea Roberti {BIO 6786731 <GO>}
 Yes, this is Gianandrea again, I will just thank you all for the very good question and as
 usual Peter and I remain around if you have more and we will wish you all a great summer
 at this point. Thank you.
 
-A - Morten Hubbe
-
-{BIO 7481116 <GO>}
-
+A - Morten Hubbe {BIO 7481116 <GO>}
 Thank you.
 
-A - Barbara Plucnar Jensen
-
-{BIO 17487867 <GO>}
-
+A - Barbara Plucnar Jensen {BIO 17487867 <GO>}
 Thank you.
 
 Operator

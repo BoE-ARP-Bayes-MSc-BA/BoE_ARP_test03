@@ -17,9 +17,7 @@ Natsumu Tsujino, Analyst
 Unidentified Participant, Analyst
 
 Presentation
-Kengo Sakurada
-
-{BIO 15149542 <GO>}
+Kengo Sakurada {BIO 15149542 <GO>}
 
 Bloomberg Transcript
 
@@ -414,10 +412,7 @@ A - Unidentified Speaker
 Now we would like to receive questions. If you wish to ask questions could you please
 give us your name and the company name, please? Please raise your hand.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 Muraki, Deutsche Securities. I have two questions. First of all, page 31 and page 32, this is
 about the effects of integration, the practical integration. In the past, as I watched the
 mergers of P&C businesses, after the merger the share declines. That's the tendency this
@@ -443,10 +438,7 @@ I think it's the same for the other companies to reduce -- a reduction of the st
 holding stocks would have more impact. But I don't think the impact will be larger. It's very
 negligible. I'd like to ask Mr. Tsuji about this, the consumption tax.
 
-A - Shinji Tsuji
-
-{BIO 16148256 <GO>}
-
+A - Shinji Tsuji {BIO 16148256 <GO>}
 As for consumption tax, according to the current midterm plan, it's 2015. And as for the
 impact, we assume about JPY35 billion. In terms of P&C business, we have benefits to be
 paid, for example, for repair of automobiles and also houses. And in terms of expenses,
@@ -476,17 +468,11 @@ the consumption tax, of course we have to pass it on to the final product. Proba
 interim earnings report would show the impact of the increase in consumption tax. And
 after that, we'd like to examine what we have to do.
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 JPY35 billion, that means 3 points' impact on the next fiscal year, plus 3% of the tax. And
 3% increase?
 
-A - Shinji Tsuji
-
-{BIO 16148256 <GO>}
-
+A - Shinji Tsuji {BIO 16148256 <GO>}
 We are thinking about FY '15 for the estimate. So next April, 3%. And October next year,
 2%. So actually about 4%, yes. In page 65 you have the rate increase and that is taking an
 effect. Even so, the combined ratio of the automobile industry, as in page 66, it's more
@@ -496,16 +482,10 @@ course, you have to use the premium rate to adjust the situation, yes.
 
 Bloomberg Transcript
 
-Q - Masao Muraki
-
-{BIO 3318668 <GO>}
-
+Q - Masao Muraki {BIO 3318668 <GO>}
 Thank you very much.
 
-Q - Natsumu Tsujino
-
-{BIO 2234779 <GO>}
-
+Q - Natsumu Tsujino {BIO 2234779 <GO>}
 Tsujino, JPMorgan. Regarding dividend, your current dividend is JPY60 per share. And for
 the JPY20 equivalent you're doing share buyback. And last fiscal year when you made that
 change, well, the market conditions and the industry conditions were something that you
@@ -640,10 +620,7 @@ can offer you at this point.
 
 FINAL
 
-Q - Jun Shiota
-
-{BIO 4127431 <GO>}
-
+Q - Jun Shiota {BIO 4127431 <GO>}
 Shiota, Daiwa Securities. I have two questions. The first one is about reduction of stocks.
 According to page 50, on the right side, the upper part, I'm not really sure how it goes on.
 The upper part is real thing. And you have actively sold in the previous year. And in FY '13,
@@ -727,10 +704,7 @@ associated. That was the question. To reduce strategically holding stocks, about
 the amount we can reduce the risk. For example, if we sell JPY200 billion, JPY100 billion
 would be the risk associated. And risk we can reduce.
 
-Q - Jun Shiota
-
-{BIO 4127431 <GO>}
-
+Q - Jun Shiota {BIO 4127431 <GO>}
 Thank you very much.
 
 Q - Unidentified Participant

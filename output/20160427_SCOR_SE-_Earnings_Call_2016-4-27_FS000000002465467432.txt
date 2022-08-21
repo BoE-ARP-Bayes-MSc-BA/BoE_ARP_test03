@@ -36,10 +36,7 @@ Conference Call. Today's call is being recorded. At this time, I would now like 
 call over to Mr. Bertrand Bougon, Head of Investor Relations & Rating Agencies. Please go
 ahead, sir.
 
-Bertrand Bougon
-
-{BIO 18934799 <GO>}
-
+Bertrand Bougon {BIO 18934799 <GO>}
 Good afternoon, everyone, and thank you for joining the SCOR Group Q1 2016 results
 conference call. Before starting this presentation, please consider our disclaimer on page
 2, which indicates that the presented Q1 2016 financial information is unaudited.
@@ -53,9 +50,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2016-04-27
 
-Denis Kessler
-
-{BIO 1498477 <GO>}
+Denis Kessler {BIO 1498477 <GO>}
 
 FINAL
 
@@ -170,10 +165,7 @@ FINAL
 Let me now hand it over to Mark, who will give you more details on the financial
 performance in Q1 2016. Mark, the floor is yours.
 
-Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+Mark Kociancic {BIO 17852409 <GO>}
 Thank you, Denis. Moving on to Slide 6, I will walk you through the key financial highlights
 of the first quarter of 2016. SCOR wrote approximately €3.3 billion of gross written
 premiums in the first quarter, representing a 5.1% increase over Q1 2015 at current
@@ -225,10 +217,7 @@ FINAL
 
 I will now turn it over to Victor to comment on the P&C results.
 
-Victor Peignet
-
-{BIO 6287211 <GO>}
-
+Victor Peignet {BIO 6287211 <GO>}
 Thank you, Mark, and good afternoon. We are on slide 10, and it shows that Q1 is an
 excellent start of the year for us. This quarter is again characterized by low level of nat cat
 loss activity. Besides this, the large manmade loss activity that we experienced than
@@ -286,9 +275,7 @@ The second reason is normalization of the relationship with the major Japanese i
 groups.
 I will now hand over to Paolo for the presentation of the Life division results.
 
-Paolo de Martin
-
-{BIO 15930577 <GO>}
+Paolo de Martin {BIO 15930577 <GO>}
 
 Bloomberg Transcript
 
@@ -402,10 +389,7 @@ With this, I will hand it over to Bertrand Bougon for the conclusion of this pre
 
 Bloomberg Transcript
 
-Bertrand Bougon
-
-{BIO 18934799 <GO>}
-
+Bertrand Bougon {BIO 18934799 <GO>}
 Thank you, François. On page 20, you will find the next scheduled events starting on July
 27 with the Q2 2016 results. And, of course, our Investor Day on September 7 as well as
 conferences which we are planning to attend over the remainder of 2016.
@@ -416,22 +400,13 @@ Operator
 We'll take the first question from Kamran Hossain from RBC. Please go ahead, your line is
 open. Kamran Hossain, your line is open. Please ensure the mute button is switched off.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi. Can you hear me?
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Yes, we can.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Page 8 of 25
 
 
@@ -450,16 +425,10 @@ And the second question is just on how you categorize nat cat claims in your com
 ratio calculation. Could you just maybe articulate what level of loss you need for
 something to be considered a nat cat claim rather than fully situational? Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 I think the question, Victor, on the first one, the renewables in Japan. That's number one.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 I think you will understand that we are not going to comment on specifics on our
 Japanese clients. I think that is not – that will not be correct. What we said last year is that
 we had lost the Mitsui business. What we say this year is that well the relationship has
@@ -472,20 +441,14 @@ And regarding nat cat, and the nat cat event is a nat cat event. There is no thr
 size given everything that we can do, the nat cat ratio. But for really events of below €3
 million which we can consider that. We can ignore.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Great. Fantastic. Thanks very much.
 
 Operator
 We now take the next question from William Hawkins from KBW. We now take the next
 question from William Hawkins from KBW.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hi. Thanks. Just for the operator, we get blanked out when you're announcing us. Two
 quick questions, yes, so you get a lot of questions on the investment return, I've just got a
 very simple one. Is there any seasonality in your investment income in the first quarter? It
@@ -514,10 +477,7 @@ underestimating the sensitivity to yields or there's some other negative that I'
 allowed for that makes a few percentage points. Could you maybe help me on that?
 Thanks.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 François?
 
 A - François de Varenne
@@ -527,18 +487,12 @@ funds. So, no specific comment on this in Q1. Just as a reminder, if you look at
 the appendix, you should compare the income of 2% in Q1 this year to 1.8% last year. So,
 it's (28:44) increasing. It's only for Q2.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thanks.
 
 Bloomberg Transcript
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 On the solvency ratio, so we estimate a decline by 9 percentage points. We are not
 disclosing a split between own funds and solvency capital requirement at this point. We
 may be doing this in the future. It is largely explained, as you said, by the decline in
@@ -550,26 +504,17 @@ during Q1, but we also reflect the (29:58) exposure of the portfolio, and we acc
 expected dividends on a quarterly basis, so in total it doesn't have a strong impact on the
 solvency ratio.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Forgive me. Even if you're not going to give me an exact number, just should I understand
 the decline mostly comes from available capital going down or required capital going up
 or (30:22)?
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 It's led between the two. The decline in interest rate leads to an increase in our capital
 requirement and a decrease in our own funds, so you can pretty much spit it between the
 two.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you. Thanks.
 
 Page 10 of 25
@@ -585,10 +530,7 @@ We now take the next question from Vinit Malhotra from Mediobanca.
 
 FINAL
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Hi. Can you hear me? Yes. Okay. I'll go ahead. First thing is on the P&C comments on
 Aviation. It just seems like the – at least the renewal data wasn't really lowest. If I look at
 last two years, say, renewal in January, for example, Aviation book used to €125 million
@@ -608,16 +550,10 @@ And in that same context, the dividend upstreamed were a little bit lower this y
 last year despite such strong growth. And this year was €100 million; last year was €125
 million. Is there any (32:42) into that? Thanks.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Thanks a lot. Maybe on Aviation, I don't know. Is Victor?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 In the Aviation side, it's, as you know, most of the primary policies renew in November.
 And what we had is with one particular of our major participation we had an over estimate
 of premium by the ceding company. And since we were at the same time asking them to
@@ -630,10 +566,7 @@ Regarding the 2.7%, yes, what we are saying is that this is an impact that – i
 we have, and this will normalize during the year. So what I said is that about 3% increase of
 the premium that we had planned for the entire year, we maintain it, yes.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Because, sorry, in the past it used to be a 5% premium growth, up until – because
 you had €6 billion targeted for 2016, which was sort of like and implied growth. That's why
 Page 11 of 25
@@ -646,33 +579,22 @@ Date: 2016-04-27
 
 I'm curious now. Hello? Hello? Okay. Sorry, I think I've cut myself off.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 
 FINAL
 
 It's my mic. It seems to be receiving (34:33). I think we said €6 billion. Well, we continue to
 do that. I think €6 billion was not exactly (34:31-34:42) But we don't change our (34:47).
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Sorry, in this mic confusion. €6 billion is still maintained, or should we expect to be a bit
 lower?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Yes. Well, we maintain it. I think it's maybe a bit short of that, but overall we have no
 reason (35:05).
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Okay. That's fine. Thank you very much.
 
 Operator
@@ -682,10 +604,7 @@ Bloomberg Transcript
 We'll now take the next question from In-Yong Hwang from Goldman Sachs. Please go
 ahead.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Hello. This is In-Yong Hwang from Goldman. I hope you can hear me. I've got two
 questions both the P&C Re side. Firstly on the U.S. growth, again, as of January, you seem
 to have grown quite strongly there. Obviously, it's a focus market for you guys. Could you
@@ -696,20 +615,14 @@ And secondly, I think Denis you mentioned emerging risk such as cyber at the sta
 call. Could you just remind us where you're standing there and where you see the
 opportunities from your side? Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Sorry, we forgot to answer the previous question on Life. Free surplus since we tried to
 answer all the questions.
 
 A - Frieder Knüpling
 Yes. I could take that.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Page 12 of 25
 
 
@@ -742,10 +655,7 @@ future than the Solvency I based free surplus metrics which are no longer in for
 
 Bloomberg Transcript
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 And sorry, can I follow-up if I'm still in the call? Can I follow-up, and will this change to
 Solvency II on the Life side on new business strain, will it start showing up in the group
 solvency as well, should we factor for that or I mean the group S II ratio?
@@ -760,16 +670,10 @@ traditionally saw under Solvency I will not exist anymore, at least not in the s
 we will see situations when new business actually increases solvency and free surplus
 rather than consumes capital.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Okay. Fair enough. Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Sorry. I didn't catch In-Young's questions. So sorry, could you repeat them? This is one of
 the gross written premium. Let's start by that and (39:49) Victor, can you answer the first
 question?
@@ -782,9 +686,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2016-04-27
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 
 FINAL
 
@@ -803,9 +705,7 @@ extremely careful to have the short tail, long tail mix by which, well, we can s
 overall target. So definitely our long tail intake is limited by how much short tail we can find
 in the market, including proportional, by the way that fits in with the target.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 
 Bloomberg Transcript
 
@@ -814,28 +714,16 @@ which Denis mentioned at the start of the call. Just wanted to get your sense on
 especially on cyber because some of your competitors seemed to be taking a slightly
 different approach regarding, yes. these emerging risk. Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Victor?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Slightly different in what sense?
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 In terms of how aggressively they want to be writing cyber contracts, for example.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Okay. Well, we ourselves are at the moment of the view that we do not have yet the level
 of technical knowledge and data by which, we can get aggressive on the market. We are
 actively learning, acquiring knowledge and I think we are progressing reasonably well.
@@ -856,9 +744,7 @@ Date: 2016-04-27
 sides, the buyers of insurance and the providers. So we are very active, but in a cautious
 way.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 
 FINAL
 
@@ -867,9 +753,7 @@ Okay, great. Thank you very much.
 Operator
 We'll now take the next question from Sami Taipalus from Berenberg.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
+Q - Sami Taipalus {BIO 17452234 <GO>}
 
 Bloomberg Transcript
 
@@ -887,16 +771,10 @@ kind of indicated in your comments that there was some structural reasons behind
 uptick and whether there are any items elsewhere in the combined ratio that offset that
 uptick. Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Thanks. Paolo, on longevity and the effects on margin.
 
-A - Paolo de Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo de Martin {BIO 15930577 <GO>}
 Yes. Right now, we're at around 7% of the group being longevity. The longevity business,
 by definition. has a lower margin. It's much more longer term. The risk in nature is very
 different. So we usually give some indication of the margin would be somewhere
@@ -909,10 +787,7 @@ this conversation will be actually in September when we present the new strategi
 as a group we decide that we still have the appetite to write as much longevity as we
 write more, and those decisions are in the process of being made really at this point.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Okay. Fair enough.
 Page 15 of 25
 
@@ -922,82 +797,52 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2016-04-27
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Thanks, Paolo. Victor, on the Q1 (45:39) ratio and the impact of cost.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
+Q - Sami Taipalus {BIO 17452234 <GO>}
 
 FINAL
 
 I can't actually hear anything.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Yes. Well, it seems to be (45:57). We said we will navigate between 6.5% and 7%. I think
 we are (46:04) of this trend. What is important for me is that we speak to the combined
 ratio, and, well, I mean, it may happen in a given quarter that we are a bit higher than the
 average at the end of the day. On a normalized basis, we are still where we want to be.
 So I think...
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Okay.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 No particular comment on this one.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
+Q - Sami Taipalus {BIO 17452234 <GO>}
 
 Bloomberg Transcript
 
 Okay. Would you say that there's a loss ratio offset to the higher expense ratio?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, what I'll say is that in this particular quarter, despite the fact that we are at the upper
 end of our range, well, our combined ratio on a normalized basis is still where it should be.
 So – yes.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Okay. All right.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 And that's what we are making sure will continue.
 
-Q - Sami Taipalus
-
-{BIO 17452234 <GO>}
-
+Q - Sami Taipalus {BIO 17452234 <GO>}
 Okay. Thank you.
 
 Operator
 So now we take the question from Andrew Ritchie from Autonomous. Please go ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Page 16 of 25
 
 
@@ -1019,15 +864,10 @@ What has to happen for you deploy that liquidity? You talked about wanting great
 on the outlook. I think we'd all like that but I'm not quite sure what you feel you're going to
 get and what you feel you need to see to deploy some of that liquidity. Thanks.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Paolo, on (48:12).
 
-A - Paolo de Martin
-
-{BIO 15930577 <GO>}
+A - Paolo de Martin {BIO 15930577 <GO>}
 
 Bloomberg Transcript
 
@@ -1039,27 +879,18 @@ the comment. But as I said, this is a regular exercise which we conduct every ye
 which we're possibly doing over the past. And mortality experience of the U.S. portfolio
 was very close to our best estimate assumptions, so no significant deviation.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 So, presumably there was a deviation in your old SCOR book hence the assumption
 change, but you've never referred to the U.S. mortality assumption change before.
 
-A - Paolo de Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo de Martin {BIO 15930577 <GO>}
 No. There was no specific negative experience on this book. These are long-term
 assumptions over I mean several decades and we want to make sure that our
 assumptions also in 10 years and 20 years down the road are consistent and are valid.
 And because – all of this is present value, you see the impact in the assumption changes
 but it was not triggered by specific experience variance in either book.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay.
 
 A - François de Varenne
@@ -1092,10 +923,7 @@ just for a few months the cash position. And as soon as we have more visibility 
 market, we also demonstrated in the past that we have the ability to reinvest directly
 (51:30). We are waiting still a little bit to have more comfort on the market today.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 So, have you increased liquidity since the end of Q1, or is it still standing around that level?
 
 A - François de Varenne
@@ -1103,10 +931,7 @@ No. No. It's relatively stable.
 
 Bloomberg Transcript
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 And the real estate realizations you made during the quarter, is that part of raising
 liquidity, or is that just a timing issue unrelated to that?
 
@@ -1127,9 +952,7 @@ So you should expect over the next quarter and year still a significant contribu
 related portfolio. That's the way we really manage this portfolio where we try to create
 value through the restructuring of assets.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Page 18 of 25
 
 
@@ -1148,33 +971,21 @@ A - François de Varenne
 Yes. Basically that's it because their investment rate is 80%. That's indicated in the slide
 times basis points and that's 20 basis points, again, if this is on a full-year basis.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. Thank you. Thanks.
 
 Operator
 We'll now take the next question from Olivia Brindle from Bank of America.
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 Hi there. Can you hear me before I start to say anything? Hello?
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Yes. We do.
 
 Bloomberg Transcript
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 Okay. So first question just, I guess, probing a bit on your cat book, so especially in light of
 the fact that you've gone from the 7% cat load to 6%, just trying to understand what
 you're doing around cat at the moment. So in the April disclosure, you sort of mentioned
@@ -1189,16 +1000,10 @@ number on that. I was just wondering exactly what lines you're talking about and
 be that doesn't include any offsets and increased ceding commissions. That would also
 be interesting to hear.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Thanks, Olivia. On the cat book, Victor?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 On the cat book, the reduction from 7% to 6% is basically due to the improvement of our
 risk position (55:37) program and not to a change in our underwriting policy on Cat. As far
 Page 19 of 25
@@ -1221,19 +1026,14 @@ talking about on which what you are mentioning is not effective totally. I mean,
 commission – there is no increase of commission compensating for the improvement of
 the price or at least new compensation is not complete.
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 And just sort of following up on that, if we were to look at overall across your P&C
 business what the proportion of cat has been and what it's trending to, I mean, should we
 assume that there is a bit more of that given that you've been growing in various places
 including the U.S., or would you say it's more stable and any business you pick up is rather
 opportunistic?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 
 Bloomberg Transcript
 
@@ -1243,34 +1043,19 @@ maybe today, something like that. No big change from the year before. I mean, th
 increases with the rest of the portfolio. I'm talking here of the pure cat premium which is
 non-proportional cat.
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 So, yes.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Olivia, you're satisfied or you want to ask more?
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 Yes. No, on that point, yes, just the second question on proportional business.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Which was? Pardon.
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 So, you talked about proportional lines benefiting from improved pricing in certain areas,
 and you had a 1% improvement I think on your book. So, just wondering exactly sort of
 where that's coming from and to what extent it's offset by increases in ceding premiums,
@@ -1284,32 +1069,22 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2016-04-27
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 I told you that this basically specific property in the U.S. There's cat exposure in it.
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
+Q - Olivia Brindle {BIO 17273762 <GO>}
 
 FINAL
 
 Okay. Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Next question?
 
 Operator
 We'll now take the next question from Frank Kopfinger from Deutsche Bank.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 
 Bloomberg Transcript
 
@@ -1328,10 +1103,7 @@ Q1 and could you elaborate a little bit on the drivers behind this margin improv
 Should technical margin improvement on the drivers and whether this should be the run
 rate going forward also?
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Thanks, Frank. François...
 
 A - François de Varenne
@@ -1344,9 +1116,7 @@ question or in my speech by the fact that we have 14% of cash in the portfolio t
 (01:01:15), but again, it grew up to (01:01:20) basis points of return to protect and to avoid
 the peak of volatility that we observed in the market during Q1.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
+A - Denis Kessler {BIO 1498477 <GO>}
 Page 21 of 25
 
 
@@ -1357,38 +1127,25 @@ Date: 2016-04-27
 
 On the life technical margin, , Paolo?
 
-A - Paolo de Martin
-
-{BIO 15930577 <GO>}
+A - Paolo de Martin {BIO 15930577 <GO>}
 
 FINAL
 
 Yes. The increase is largely growth-driven. So it's really focused on the margin rather than
 the absolute amount.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 The margin increased as far as quarter-on-quarter. So, were there any business mix
 drivers or...
 
-A - Paolo de Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo de Martin {BIO 15930577 <GO>}
 The margin is decreasing from 7.2% to 7% (01:01:59).
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Yes. If I strip out the interest from funds (01:02:03) so only look on this €86 million and
 take the margin?
 
-A - Paolo de Martin
-
-{BIO 15930577 <GO>}
+A - Paolo de Martin {BIO 15930577 <GO>}
 
 Bloomberg Transcript
 
@@ -1396,25 +1153,16 @@ You cannot really strip it out. We have a lot of business that the deposit moves
 the reserves. That's why we put the deposit, the interest on deposit in the technical
 margin calculation. So you cannot strip it out.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay. Fair point. Thanks.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Next question, please.
 
 Operator
 We'll now take the next question from Vikram Gandhi from Société Générale.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hi. Thank you. This is Vikram Gandhi from SocGen. I've got two questions. The first one,
 can you please share how much of the total P&C premiums emanates from China? And
 related to that, are you already experiencing cedents moving business from motor lines
@@ -1436,56 +1184,36 @@ Your first question? (01:03:28).
 
 FINAL
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, in China, first of all, we are not big writers of (01:03:35) quota share or motor quota
 share. So, we have not observed movements, but as we are not a player in that particular
 line, I cannot really comment on that.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 The book value per share, Mark?
 
-A - Mark Kociancic
-
-{BIO 17852409 <GO>}
-
+A - Mark Kociancic {BIO 17852409 <GO>}
 On your second question with the cash flow, so the minus €81 million, the lion's share of
 that movement is the purchase of treasury shares during the first quarter when the share
 price was struggling used primarily for the compensation of the shareholder plans that we
 have within the group.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 
 Bloomberg Transcript
 
 Okay. Thank you.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
-
+A - Denis Kessler {BIO 1498477 <GO>}
 Next question?
 
 Operator
 We'll now take the next question from Thomas Fossard from HSBC.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. Good afternoon. Two remaining questions for François. The first question would be
 on the cash position of the group, the 14%, 15% you're currently having. Is anything
 changed in terms of outlook and in terms of the state of financial market, we see cash
@@ -1524,10 +1252,7 @@ portfolio that you see on Slide 52 – or 51, that real estate portfolio, we own
 purposes which means it excludes the premises or the buildings we own as operating
 premises (01:07:44) which are classified under IFRS and all intangible asset.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay. That's clear. Thank you.
 
 Operator
@@ -1536,10 +1261,7 @@ Bloomberg Transcript
 
 We'll now take the next question from In-Yong Hwang from Goldman Sachs.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Hello. Thank you so much for letting me ask a follow-up question. I just have one very
 quick one on portfolio management in your P&C book. Obviously, that's helped you a lot
 in staving off the pricing pressure in the reinsurance market over the last few years. I was
@@ -1549,10 +1271,7 @@ January, renewals have decreased in the last couple of years. So I was just wond
 there's, yes, let you can (01:08:33) directly beyond that front, or if there's – if you still see
 opportunities where you can do that. Thank you.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, I hope we'll never reach the limit, but there must be one somewhere. If you look at
 Slide 11, I think the qualitatively what you see in the first of April renewal is what you were
 not seeing but what you start to see which is showing how we proceeded in the past,
@@ -1574,36 +1293,23 @@ practically, well, we cannot continue to support at the same level because of th
 competition on prices. So, the way we have added a second stage to the portfolio
 management.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 
 FINAL
 
 Okay. That's very clear. Thank you very much.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 And this second stage, you can only add it, in my opinion, if your franchise is dipping up or
 the client tolerated you having it.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Yes. Understood.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Okay.
 
-A - Denis Kessler
-
-{BIO 1498477 <GO>}
+A - Denis Kessler {BIO 1498477 <GO>}
 
 Bloomberg Transcript
 

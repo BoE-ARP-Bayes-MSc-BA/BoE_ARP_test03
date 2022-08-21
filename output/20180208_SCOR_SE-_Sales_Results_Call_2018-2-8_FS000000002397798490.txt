@@ -29,10 +29,7 @@ questions, we kindly ask you to limit the number of your questions to two.
 At this time, I would like to hand the call to Mr. Ian Kelly, Head of Investor Relations. Please
 go ahead, sir.
 
-Ian Kelly
-
-{BIO 19976646 <GO>}
-
+Ian Kelly {BIO 19976646 <GO>}
 Good morning, everybody, and welcome to the SCOR Global P&C January renewals call.
 I'm joined on the call by Victor Peignet, CEO of the SCOR Global P&C Division; Benjamin
 Gentsch, Deputy CEO of the division; and members of the SCOR Global P&C
@@ -51,9 +48,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2018-02-08
 
-Victor Peignet
-
-{BIO 6287211 <GO>}
+Victor Peignet {BIO 6287211 <GO>}
 
 FINAL
 
@@ -121,10 +116,7 @@ our ability to pursue a profitable growth and deliver best-in-class technical re
 latter, rendezvous in two weeks' time for our 2017 results call.
 Thank you for your attention. And I think now we are ready for the Q&A.
 
-Ian Kelly
-
-{BIO 19976646 <GO>}
-
+Ian Kelly {BIO 19976646 <GO>}
 Thank you, Victor. As the operator of the call said at the outset, please limit yourself to
 two questions each so that we give everybody a chance. You can come back onto the call
 to ask further questions afterwards if you wish. And as I mentioned at the start, we cannot
@@ -139,20 +131,14 @@ Operator
 Thank you, sir. We do have our first question from Jonny Urwin from UBS. Please go
 ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi, good morning. Thanks for taking my questions. So firstly, you've rotated the book a bit
 from proportional to non-proportional lines. I just wondered, have you also reallocated
 exposures from Northeast U.S. to Southeast to get a bit more rate? And secondly, given
 the high non-proportional exposures, will the loss budget rise for 2018 or has this been
 reinsured out? Thanks.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, first of all, the move from proportional to non-proportional is a function of how the
 market operates. And we have seen opportunities on non-proportional. We have seen
 also needs to do more management action on certain proportional. So there is a variation.
@@ -178,20 +164,14 @@ cap budget for this year.
 
 FINAL
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Great, thanks.
 
 Operator
 We will now take our next question from Vinit Malhotra from Mediobanca. Please go
 ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes, good morning. Thank you, Victor, and thank you, Benny. It's great renewals, I would
 say. The point I would make is that in the 2 percentage points of profitability that you
 mentioned on slide 3, how should we think of this going forward in the sense, a, maybe it
@@ -201,10 +181,7 @@ this 2%? Really, that's my main question today. Thank you.
 
 Bloomberg Transcript
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, as we say, we measure expected profitability with two basically performance
 indicators. One is the loss ratio plus commission ratio (00:09:46) which then plus our
 expenses translate directly into combined ratio. And the second is the return on riskadjusted capital that is allocated to underwrite the business and support the exposures.
@@ -241,18 +218,13 @@ combined ratio, part of it will translate in reserves and that's it. And, overal
 nice buffer to be able to affirm today that our net combined ratio will continue to trend,
 basically, while a bit lower than what we had assumed in Vision in Action.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 All right. Thank you very much.
 
 Operator
 We will now take our next question from William Hawkins from KBW. Please go ahead.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
@@ -269,10 +241,7 @@ occurred with regards to reinsurance falling through from Ogden in UK Motor. So,
 seem a bit more optimistic than some of your peers. So, could you just comment a little
 bit about where we are with regards to UK Motor reinsurance specifically? Thank you.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, our total volume of UK Motor, I believe, has moved up by about €20 million, a bit
 less than €20 million. So, from €30 million to €50 million, something like that. You put that
 in perspective of the €6 billion division and you understand that our UK Motor non-prop
@@ -323,19 +292,13 @@ philosophy we have is we come on board for good. So, if we come on board, we are
 confident that we are able to stay. And the re-entry point in certain businesses has got to
 be the right re-entry point and it was not by far, but it was not.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 That's very clear. Thank you very much.
 
 Operator
 We will now take our next question from Guilhem Horvath from Exane. Please go ahead.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Yes. Good morning. Thanks a lot for taking my questions. The first one is on the technical
 profitability improvement, it's two points. And the fact that you said, Victor, that some of it
 will go to combined ratio and the rest will go to reserves. Should we interpret the fact that
@@ -358,10 +321,7 @@ exposures? Thanks.
 
 FINAL
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, the main exposures on cat this year will be shifted from U.S. to Europe. There are
 two reasons for that. First of all, with the depreciation of the U.S. dollar against the euro,
 which is very significant, and secondly, the success we've had with a number of European
@@ -386,35 +346,20 @@ by the way, more comfort in the fact that, yes, this sort of range and the 95%-i
 depending on that combined ratio we'll adjustment, but I think we can be comfortable on
 the 95% indication, not target, assumption.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Anything on reserving change or nothing changed?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Oh, I think our reserving is – has always been the same. It stays the same, so no change in
 the reserving policy, it's a prudent reserving policy, but we've not changed it, no.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Okay. Thanks very much.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Same team is including actuaries (00:20:27) and same policy.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Okay. Good. Thanks.
 
 Operator
@@ -431,10 +376,7 @@ ahead.
 
 FINAL
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Yes. Good morning, everybody. I have two questions. I want to come back on this
 combined ratio question. I'm not cleared or for me it's not really cleared (00:20:51) you
 didn't change your combined ratio target. You show now 3% price improvement. You
@@ -446,9 +388,7 @@ And then secondly, given the 3% price increase, is it fair to say that overall a
 historical numbers into account, that you overall shifted the price point to a level of 2013?
 Is this how I could see it?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 
 Bloomberg Transcript
 
@@ -487,26 +427,18 @@ So it's – which is why I don't want to go down – further down than the 95%. 
 excellent, and 95% with the 200 basis points of improvement gives us that buffer to grow
 the business as soon as the casualty reaches the level, where it's (00:24:38).
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 
 FINAL
 
 Okay. Thanks. Very clear.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 This is all portfolio management. And I think that we've spent a lot of time and energy to
 equip ourselves with portfolio management tools, and our teams now are totally into that,
 which explains also how we are able to manage the lending of the renewals.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Thank you.
 
 Operator
@@ -514,10 +446,7 @@ We do have our next question from Thomas Fossard from HSBC. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. Good morning, Victor. It's Thomas Fossard from HSBC. So, two question on my side.
 First one is to better understand how the potential developments regarding the April 1
 and the July 1 renewal. Can you please indicate how much cat was – cat business was
@@ -530,10 +459,7 @@ losses, what you've seen in terms of declaration so far and how much you've been
 in terms of cash and how does that compare to, I would say, previous U.S. cat events of
 the same type? Thank you.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Okay. Good. Okay. On the cat business about half of the U.S. business renewed at 01/01,
 so we are left with half of the business to be renewed, in the course of the year, it's more
 May, June, July. Well, as you know, April is more driven by Japan and Australia to a certain
@@ -584,18 +510,12 @@ between one-third and half of the declared. So it's slow to get in cash to trans
 flows. But again, that's not surprising. That's the way those losses develop. But as you
 have seen in our Q4 results, well, we have very limited dilution on the overall.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay, thanks. Can I add one last question on the retrocession? Any significant change
 between traditional retro and non-traditional retro going into 2028? And what have been
 the drivers if any change? Thank you.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 (00:30:58) retro. Basically, the same panel plus one or two new entrants with whom we
 had been talking for the last two or three years. And, well, they decided to come onboard
 this year. So I would say the same panel, the same structure. Of course, variation in the
@@ -622,10 +542,7 @@ increase.
 
 FINAL
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay. Thank you, Victor.
 
 Operator
@@ -633,10 +550,7 @@ Ladies and gentlemen, this does conclude today's question-and-answer session. At
 time, I would like to hand the call back to our speakers for any additional or closing
 remarks. Thank you.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Thank you very much, everybody. Just a reminder that we're available to answer any
 additional questions if you would like to get in touch with the team. And that our next call
 will be on the 22nd of February for the 2017 full-year group results. So thank you very

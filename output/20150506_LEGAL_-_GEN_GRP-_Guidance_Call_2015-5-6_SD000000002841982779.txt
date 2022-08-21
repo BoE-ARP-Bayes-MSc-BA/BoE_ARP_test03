@@ -40,9 +40,7 @@ should disconnect now.
 I would now like to hand over to Mark Gregory, Group Chief Financial Officer, to begin
 today's presentation. Mark, please go ahead.
 
-Mark Gregory
-
-{BIO 15486337 <GO>}
+Mark Gregory {BIO 15486337 <GO>}
 
 Page 1 of 20
 
@@ -129,10 +127,7 @@ Questions And Answers
 Operator
 Andy Sinclair, Bank of America Merrill Lynch.
 
-Q - Andy Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andy Sinclair {BIO 17749036 <GO>}
 Just three questions, it that's okay. Firstly, can you tell us the level of regular premium flow
 that you're now seeing coming into workplace pensions on a quarterly basis, if you
 excluded any transfers. And of existing assets, just to get an idea of the underlying flow
@@ -154,10 +149,7 @@ cover by net cash generation by the end of the year? Thanks.
 
 FINAL
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Andy, thanks for those. I'll pick those up quickly, unless Mark can add a bit of color, if he
 wants to add, on the workplace.
 In terms of the flows, year on year we had GBP0.5 billion of inflows in the First Quarter this
@@ -191,10 +183,7 @@ come straight off the debt provisions. That boosts own funds. That's a key compo
 the Solvency II balance sheet. So it will have no impact on the dividend policy. Clearly, our
 dividend policy remains as we stated at year end, two months ago.
 
-Q - Andy Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andy Sinclair {BIO 17749036 <GO>}
 Very good. Thank you.
 
 Operator
@@ -210,19 +199,13 @@ Andrew Crean, Autonomous.
 
 FINAL
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Actually, can I follow up on that question on transitional? If you apply transitionals for one
 subsidiary, would you then be blocked from getting dividends up from that subsidiary to
 Group in the case where presumably you're trying to build capital in a subsidiary, rather
 than reduce it through dividends?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 So it's just one question, Andrew? Just to be absolutely clear on that point, I'll probably
 reiterate what I just gave to Andy on the previous questions; transitionals are clear cut in
 the way they work. They're absolutely clear, they come off technical revisions, i.e., they
@@ -231,24 +214,16 @@ And the Solvency II balance sheet surplus will be cut on the overall state of th
 balance sheet. So it's not about component parts, it's the total balance sheet. So we're
 not foreseeing any issues with any blockage of inflows up the Group.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 So no fungibility issues from your annuity company in terms of getting dividends up?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
+A - Mark Gregory {BIO 15486337 <GO>}
 
 Bloomberg Transcript
 
 Correct.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Okay. Thank you.
 
 Operator
@@ -277,18 +252,12 @@ through within the target to achieve breakeven on the workplace savings business
 
 FINAL
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Thanks, Greig. Kerrigan, if you're on the line, hope you still are, can you answer the
 question on bulk trend in individual annuities, what happened in First Quarter? And I'll
 come back and say a few words on the cost-cutting program.
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Absolutely. Thanks for the questions, Greig. Yes. In terms of new business release and the
 trend in margin, really not seeing any change in that trend. We continue to find what we
 think are attractive assets, attractively priced assets, to allow us to support that -obviously, we didn't (show) separately the new business margin. But the ongoing trend in
@@ -297,9 +266,7 @@ think are attractive assets, attractively priced assets, to allow us to support 
 Q - Greig Paterson
 So it's roughly unchanged?
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
+A - Kerrigan Procter {BIO 15093363 <GO>}
 
 Bloomberg Transcript
 
@@ -310,10 +277,7 @@ consistently throughout. So you'd probably expect something similar in terms of 
 Q - Greig Paterson
 Then, the individual annuities, why it jumped quarter on quarter.
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Yes, I think, probably, Q1 -- no new products in Q1; they came in Q2 with freedom of
 choice on April 6. So no new products in Q1. We just found ourselves a little bit more
 competitive while retaining our price discipline. So slightly up from where we were in Q4.
@@ -322,16 +286,10 @@ But I think the Q4/Q1 run rate is broadly what we're expecting, going forwards..
 Q - Greig Paterson
 You don't have cap drawdown in there do you?
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 No. We don't, no. No. That's just individual annuities.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Okay. And on the cost-cutting point, Greig, as you say, we did highlight we were targeting
 GBP80 million of absolute cost savings this year. Obviously, did also, at the same time,
 where we expected to spend roughly GBP40 million of restructuring costs to achieve it.
@@ -370,10 +328,7 @@ Bloomberg Transcript
 Operator
 Fahad Changazi, Nomura.
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
-
+Q - Fahad Changazi {BIO 15216120 <GO>}
 I'm sorry, I might have missed the answer to Greig's question on bulk annuities. Are we
 expecting bulk annuity premiums in full-year 2015 to be up on full-year 2014?
 And just two other questions. One on LGIM, it looks like the index funds are doing better
@@ -384,10 +339,7 @@ from 2014?
 The final question is on LGC. Could you just remind us, again, of your ambition for total
 assets in LGC. And any color on how much of that will be direct investments? Thanks.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Thanks, Fahad. Kerrigan, you just pick up the clarification point on the bulks outlook. Zink,
 can you pick up on index? And Paul, at the end, pick up the comment on our ambitions for
 our asset profile within LGC.
@@ -400,10 +352,7 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2015-05-06
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Great, Fahad, thanks for that. Really, my answer to Greig was more around the new
 business release and margin.
 
@@ -417,15 +366,10 @@ out there. So there's plenty of demand from the clients. And we'll just be selec
 which deals make sense for us in terms of our internal hurdle metric. So positive. But it's a
 lumpy business and we'll be selective.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Mark?
 
-A - Mark Zinkula
-
-{BIO 16142450 <GO>}
+A - Mark Zinkula {BIO 16142450 <GO>}
 
 Bloomberg Transcript
 
@@ -448,15 +392,10 @@ into property, as well. We're seeing a lot of switches, a higher level of switch
 other products, which not just retains assets. But, in most cases, also enhances our
 revenues.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Thanks, Mark. Paul?
 
-A - Paul Stanworth
-
-{BIO 15495409 <GO>}
+A - Paul Stanworth {BIO 15495409 <GO>}
 Page 8 of 20
 
 
@@ -483,10 +422,7 @@ Our focus is on, which Nigel reiterated, I think, in the last results, housing a
 regeneration; and also, we are looking at where there are opportunities in energy space
 and alternative finance.
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
-
+Q - Fahad Changazi {BIO 15216120 <GO>}
 Okay, that's great. Thank you.
 
 Bloomberg Transcript
@@ -494,10 +430,7 @@ Bloomberg Transcript
 Operator
 Ravi Tanna, Goldman Sachs.
 
-Q - Ravi Tanna
-
-{BIO 16926941 <GO>}
-
+Q - Ravi Tanna {BIO 16926941 <GO>}
 Just one question, please, on the impact of the pension freedoms on defined benefit
 pension schemes.
 A number of your peers. And also some of the actuarial consulting firms, were referring to
@@ -506,16 +439,10 @@ transfer into DC schemes so that they can ultimately cash in their pension pot. 
 wandering what your experience has been of this. Have you also seen an uptick? And do
 you expect it to be a material impact at all on your business? Thank you.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Thanks, Ravi. Kerrigan, do you want to comment on that?
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Yes, sure. It's certainly been a well discussed topic that deferred pensions could be
 approached to switch their pensions to DC and then cash them in when they get to 55. I
 think it's been more discussion rather than action.
@@ -541,10 +468,7 @@ deficit by transferring cash for deferred it would actually free up the market t
 more bulk transfers for pensioners. Probably, overall, it might be a positive if it does pick
 up. But no pick up I've seen yet.
 
-Q - Ravi Tanna
-
-{BIO 16926941 <GO>}
-
+Q - Ravi Tanna {BIO 16926941 <GO>}
 Brilliant. That's very clear, thank you.
 
 Operator
@@ -552,10 +476,7 @@ Anasuya Iyer, Jefferies.
 
 Bloomberg Transcript
 
-Q - Anasuya Iyer
-
-{BIO 18981555 <GO>}
-
+Q - Anasuya Iyer {BIO 18981555 <GO>}
 I just want to ask about -- come back to the US outlook question. When I think about your
 business in the UK, I think of it across the pension de-risking spectrum. So I think about
 index LDI plus bulk together. Should I think the same way in the US? Or should I think of it
@@ -565,16 +486,10 @@ My other question was, with US expansion, is there any Solvency II issue there? 
 of European players talk a lot about Solvency II equivalents for the US businesses; is there
 something there that I should think about for you as well? Thanks.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Zink, perhaps you could comment on the more general LDI index stuff in US.
 
-A - Mark Zinkula
-
-{BIO 16142450 <GO>}
-
+A - Mark Zinkula {BIO 16142450 <GO>}
 From a market perspective, you should certainly think about, (thematically,) the US is going
 through the same transition in its pension landscape as the UK.
 The DB plans are de-risking. And there's a shift from DB to DC. This is playing out in -- in
@@ -606,10 +521,7 @@ clearly, we see that as a growth market in the US as pension plans continue to m
 those that can afford it. And desire to do so, will ultimately pursue some kind of longevity
 risk offloading strategy.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 And on your second question around any impact of Solvency II on our US expansion, I think
 it's fair to say that a lot about pension currently is coming through LGIM as non-insurance
 business that is not impacted by Solvency II in any way.
@@ -622,19 +534,13 @@ to our model (factoring in) than it would do in the US to make much of a differe
 Solvency II balance sheet. I'm not saying it's completely immaterial. But I'm simply saying
 it's unlikely to be a big driver of our ambitions in the US.
 
-Q - Anasuya Iyer
-
-{BIO 18981555 <GO>}
-
+Q - Anasuya Iyer {BIO 18981555 <GO>}
 Okay. Thank you.
 
 Operator
 Abid Hussain, Societe Generale.
 
-Q - Abid Hussain
-
-{BIO 17127644 <GO>}
-
+Q - Abid Hussain {BIO 17127644 <GO>}
 Three questions from me, if I may. The first one on bulk annuities, on the surface, it
 appears you're focusing on the smaller cases, or certainly in Q1. Can you just talk about
 the competitive landscape at the small end, the mid end. And the large end in terms of
@@ -656,19 +562,14 @@ Date: 2015-05-06
 restrictions, if any, the regulator might apply, should you go down the transitional route?
 Thanks.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
+A - Mark Gregory {BIO 15486337 <GO>}
 
 FINAL
 
 Thanks, Abid. Kerrigan, if you pick up the bulks question; Mike, if you pick up the cofounds
 flow point; and I'll come back on the Solvency II impact.
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Great. Thanks, Abid. On bulks, I think what you can say about the bulk market it's anything
 but it's not homogenous. Even if you look at the GBP650 million, that's 15 contracts. But
 they weren't all equal size; there's two larger ones in that. So let's say in probably the
@@ -688,10 +589,7 @@ And medium's probably somewhere between the small and large. Slightly fewer
 competitors in the medium space. Again, the medium space is probably where the
 majority of the GBP650 million came from in Q1. So definitely some attractive deals for us.
 
-A - Mike Berry
-
-{BIO 2386667 <GO>}
-
+A - Mike Berry {BIO 2386667 <GO>}
 Perhaps now if I turn to cofunds, you're quite correct, the inflows into cofunds were a little
 lower in the First Quarter of 2015 than the First Quarter of 2014.
 You need to see the cofunds business as being two things; there's institutional flows and
@@ -700,10 +598,7 @@ upon the deals with particular customers. The First Quarter of last year, we had
 strong flows into our institutional business. So the reduction in net flows over the year
 represents a reduction in institutional inflow.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 (inaudible) your question on transitional, what impact it might have on particular products,
 just taking a step back, the transitionals work on a total balance-sheet basis. So you simply
 compare your total (technical) provisions under Solvency II compared to where you were
@@ -726,19 +621,13 @@ of that, the way the balance sheet will work in a Solvency II regime.
 
 FINAL
 
-Q - Abid Hussain
-
-{BIO 17127644 <GO>}
-
+Q - Abid Hussain {BIO 17127644 <GO>}
 Okay. Thanks. That's very helpful.
 
 Operator
 Gordon Aitken, RBC.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 I've got three questions on bulk annuities, please. First, in the UK, several schemes have
 bought buy-ins from you on a slice of their liabilities; that's been an increasing trend. I just
 wonder what proportion of these do you expect to be pretty much repeat buyers. And
@@ -757,18 +646,12 @@ assuming that you'd only look at post-retirement liabilities. I just wonder, is 
 small opportunity, or small potential market at the movement, given that lots of the
 schemes in Holland are still open? Thanks.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Okay. Thanks, Gordon. I think, Kerrigan, most of those are for you. Mark, you might want
 to just chip in on the LDI point in the US. But Kerrigan, could you just perhaps answer those
 three?
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Yes, fantastic. Mark, I will hand over to you for the comments on number of LDI mandates
 in the US for the top 100. But just in terms of UK buy-ins, I think it's a very, very good point.
 It's definitely part of our business model. Our bulk annuities new business team is split
@@ -793,10 +676,7 @@ FINAL
 In terms of the US, clearly, an interesting market for us. Mark, did you want to talk -- say
 something about the --
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Yes, I'll be really brief, because the answer is I don't know. Off the top of my head, we
 have -- at the top -- in terms of your question, the number of top 100 pension funds that
 are clients, I don't know that exact number. It would be a substantial number, though, for
@@ -813,10 +693,7 @@ that.
 
 Bloomberg Transcript
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Yes. And just finally, on the Dutch market, we are interested in entering as a reinsurer
 probably as much as a direct writer there.
 Definitely, some opportunities for us that we're following up. We have our longevity
@@ -825,25 +702,16 @@ there are deals to be done. But you're right to say that it feels like a smaller
 the UK. And the US, certainly. But we'd expect to see some action there. There's certainly
 some deals in the market pipeline and things that we're interested in.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Just on that last point, you would reinsure -- you'd be reinsuring the major Dutch insurance
 companies, who are writing this business?
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Well probably, that's the first option to provide capacity to the market in that way,
 although there are some ways in which you could enter as a reinsurer directly with pension
 schemes. But that's probably a bit further down the line.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Okay. Thanks very much.
 Page 14 of 20
 
@@ -858,10 +726,7 @@ Jon Hocking, Morgan Stanley.
 
 FINAL
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 I've got three questions, please; two on Solvency II. And one on bulks. On the Solvency II
 point around the transitionals, I think what you're saying seems to be different than the
 message we had from the Pru at full year. It may be sort of a new odds. But they seem to
@@ -875,9 +740,7 @@ Then, just finally, on bulks, just on the pipeline, I just wondered whether you'
 impact on the pipeline for the sort of funding pressure we've seen on DB schemes in the
 course of the recent reporting season from the corporates in the UK. Thank you.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
+A - Mark Gregory {BIO 15486337 <GO>}
 
 Bloomberg Transcript
 
@@ -890,28 +753,19 @@ the difference between the technical provisions under Solvency I and Solvency II
 the way the directive is set out, it's very clear-cut. And that's the way it's going to operate
 in practice.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Sorry, just to follow up on that, some of your competitors have talked about a sort of
 partial internal model basis. And effectively choosing entity by entity whether they use an
 internal model or a standard formula. I'm just surprised you're saying you're going to
 apply it to the entire business.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 (I intend to) do it on a regulatory entity basis. So we have various regulatory entities within
 L&G Group. And then it will also apply at Group level. But within that, we will have certain
 entities which will be done on standard formula, which are less important from our
 perspective. And some on an internal model basis. So I think we're saying the same thing.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Page 15 of 20
 
 
@@ -924,35 +778,22 @@ Okay. So you're not saying you're going to use the transitionals for the entire 
 balance sheet; it's going to be the transitionals for discreet entities, where it makes
 sense?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
+A - Mark Gregory {BIO 15486337 <GO>}
 
 FINAL
 
 Correct. But then (multiple speakers) --
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 So you're saying exactly the same as the Pru?
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Then, it aggregates up Group level. Yes. We're saying the same thing.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Okay, fine. Thank you.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
+A - Mark Gregory {BIO 15486337 <GO>}
 
 Bloomberg Transcript
 
@@ -965,22 +806,13 @@ in terms of your expectations, I think it could well be very, very late 2015, in
 easily be slipping into 2016, before we have the absolute clarity the market would like to
 have at this point.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Okay.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 And Kerrigan, on bulks?
 
-A - Kerrigan Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan Procter {BIO 15093363 <GO>}
 Yes, just the impact on funding pressures. In terms of the -- want to talk about the market
 pipeline out there. I mentioned the GBP10 billion figure of the kind of people who are
 looking for quotes to transact. Just to be clear, they might not all transact this year. But I
@@ -1006,18 +838,13 @@ FINAL
 They'll be looking actively at pension risk management. So they'll be definitely courted by
 our LGIM business. But (multiple speakers).
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Okay,very clear. Thank you very much.
 
 Operator
 Alan Devlin, Barclays.
 
-Q - Alan Devlin
-
-{BIO 5936254 <GO>}
+Q - Alan Devlin {BIO 5936254 <GO>}
 
 Bloomberg Transcript
 
@@ -1030,10 +857,7 @@ of the market there. But the premiums were up and sales were down. I wonder if y
 could give us some color about what's going on in that market and what the outlook is.
 Thanks.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Okay. Thanks, Alan. I'll pick up the first one on new business strain; and, Duncan, you can
 comment on the dynamics in the retail protection market right now.
 Clearly, at Q1 and Q3, Alan, we don't give the exact breakdown of by component part of
@@ -1056,9 +880,7 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2015-05-06
 
-A - Duncan Finch
-
-{BIO 18966514 <GO>}
+A - Duncan Finch {BIO 18966514 <GO>}
 
 FINAL
 
@@ -1073,10 +895,7 @@ In terms of full-year outlook, I'll just direct you to the outlook statement tha
 that talks about where we will be on the full year in terms of new business volumes and
 margin.
 
-Q - Alan Devlin
-
-{BIO 5936254 <GO>}
-
+Q - Alan Devlin {BIO 5936254 <GO>}
 Thanks.
 
 Operator
@@ -1084,10 +903,7 @@ Ashik Musaddi, JPMorgan.
 
 Bloomberg Transcript
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 A couple of questions. First of all, sorry if you have already answered this. But can you tell
 us what sort of transition arrangements are you using? Is it mainly on the discount rate? Is
 it mainly on the asset-risk charges? Some sort of color on that.
@@ -1101,10 +917,7 @@ Solvency II, i.e., are you pulling back on bulk annuities at the moment because 
 uncertainty on Solvency II? Or is there -- no, it is just a timing thing, rather than anything
 else? Thank you.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Okay. Thanks, Ashik. I'll probably pick up all those myself. (Don't forget), I feel a bit like a
 cracked record on the transitional point. I keep going back to transitionals are calculated
 based on total technical provisions by regulated entity compared Solvency II with Solvency
@@ -1136,9 +949,7 @@ coming down the track. And we're happily writing new business and recognizing th
 landscape with a capital regime post this year. So certainly no impact on Solvency II in
 terms of the amount of business we're writing in the bulk space.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 Bloomberg Transcript
 
@@ -1150,23 +961,14 @@ optionality because of the recent pension freedom. So would matching adjustment 
 apply on that? Sorry. But I got a bit confused on that. Any color on that would be really
 great. Thank you.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 I stick to my answer I gave earlier, Ashik. We still fully expect the matching adjustment to
 apply to both deferred and to pensions in payment on our annuity book.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay, that's very clear. Thank you.
 
-A - Mark Gregory
-
-{BIO 15486337 <GO>}
-
+A - Mark Gregory {BIO 15486337 <GO>}
 Okay, I think that's probably the last of the calls. I thank you all for your interest this
 morning. And we'll see you again shortly.
 

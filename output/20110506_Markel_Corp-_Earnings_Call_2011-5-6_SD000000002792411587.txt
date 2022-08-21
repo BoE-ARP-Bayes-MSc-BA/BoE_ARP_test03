@@ -29,10 +29,7 @@ recorded.
 It is now my pleasure to introduce your host, Tom Gayner, President of Markel
 Corporation. Thank you, sir, you may begin.
 
-Tom Gayner
-
-{BIO 1896932 <GO>}
-
+Tom Gayner {BIO 1896932 <GO>}
 Good morning. It's my pleasure to welcome you to the Markel Corporation's First Quarter
 conference call. Thank you, all for joining us. On today's call we will follow our normal line
 up, with Anne Waleski leading off with the financial results, followed by Mike Crowley and
@@ -61,10 +58,7 @@ FINAL
 
 With that I'll turn it over to Anne.
 
-Anne Waleski
-
-{BIO 16735457 <GO>}
-
+Anne Waleski {BIO 16735457 <GO>}
 Thank you, Tom. Good morning, everyone. I will follow the same format today as I have in
 past quarters. I will discuss our underwriting results followed by a brief discussion our
 investment results, and bring the 2 together with a discussion of our total results.
@@ -145,10 +139,7 @@ approximately $800 million at March 31, as compared to a little less than $900 m
 of December 31, 2010. The decrease is due in part to interest payments on debt.
 At this point, I will turn it over to Mike to further discuss operations.
 
-Mike Crowley
-
-{BIO 6836605 <GO>}
-
+Mike Crowley {BIO 6836605 <GO>}
 Thanks, Anne. Good morning. The First Quarter results for the North American operations
 were encouraging, especially admitted segment gross written premiums were up
 significantly, as Anne mentioned, compared to the same period last year. This was due in
@@ -239,10 +230,7 @@ Bloomberg Transcript
 
 I'll now turn the call over to Richie Whitt.
 
-Richie Whitt
-
-{BIO 7084125 <GO>}
-
+Richie Whitt {BIO 7084125 <GO>}
 Thanks, Mike. Good morning, everybody. Obviously, the headline news in our international
 operations for the First Quarter was the catastrophes in Australia, New Zealand, and
 Japan. Our international operations had losses from all 3 of these events, and we
@@ -300,10 +288,7 @@ these types of events is why companies buy our product. At Markel, we're proud o
 part that we play in helping people recover from these events.
 Thank you, and I now turn it over to Tom.
 
-Tom Gayner
-
-{BIO 1896932 <GO>}
-
+Tom Gayner {BIO 1896932 <GO>}
 Thank you, Richie. Pleased to report to you that we're off to a profitable start in 2011 in our
 investment and industrial operations, and I look forward to your questions. The strategic
 goals of the investment department are number 1, to protect and preserve the balance
@@ -406,10 +391,7 @@ Just in the 10-Q, and on the call this morning as well, you had mentioned, there
 higher personnel costs that contributed to the expense ratio. I was just curious if you
 would be able to provide any additional color around those costs, and I have one followup. Thank you.
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 The additional costs were largely around incentive compensation true-ups in the First
 Quarter. And we had budgeted for this current year about a 42% expense ratio. So just
 slightly higher than what we had budgeted.
@@ -422,10 +404,7 @@ outside of the Virginia area. And since we know your acquisition criteria, it wo
 interesting at least to me, to know how the opportunities at least initially pop up on your
 radar. Thank you.
 
-A - Tom Gayner
-
-{BIO 1896932 <GO>}
-
+A - Tom Gayner {BIO 1896932 <GO>}
 As you correctly noted, a lot of things we bought so far have been Richmond based.
 There were local connections where we happened to know the people, which is obviously
 key in gaining comfort that we're dealing with the people and the sort of businesses that
@@ -458,9 +437,7 @@ Operator
 Thank you. Our next question comes from Mark Hughes with SunTrust. Please state your
 question.
 
-Q - Mark Hughes
-
-{BIO 1506147 <GO>}
+Q - Mark Hughes {BIO 1506147 <GO>}
 
 Bloomberg Transcript
 
@@ -468,39 +445,24 @@ Thank you, very much. The contribution of Elliot in the quarter, you'd described
 are shifting from MGA to risk bearing. Is there an incremental revenue number associated
 with that?
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 Yes, Elliott Special Risks run about $100 million in gross written premium a year. So it's
 probably about $100 million. We obviously bought some reinsurance on that. In terms of
 net written premium, it would be a bit less. Annual run rate about $100 million.
 
-Q - Mark Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Hughes {BIO 1506147 <GO>}
 And the incremental contribution in the quarter since it was closed in 2009, with that
 transition, did you get an extra pick up associated with that transition in this quarter?
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 It's about a $21 million increase over First Quarter of last year.
 
-Q - Mark Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Hughes {BIO 1506147 <GO>}
 Okay. How are you looking at the workers' comp segment now? Seems like there's been
 some volatility in there among public players. You're describing doing quite well outside of
 California. What's your sense now on pricing, competition in that market?
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 Page 9 of 15
 
 
@@ -519,33 +481,21 @@ The workers' comp market is tough. We're confident that they have a strong
 understanding of the metrics in their business. And as we said in my comments, we're
 shifting away from California and feel good about the growth in non-California states.
 
-Q - Mark Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Hughes {BIO 1506147 <GO>}
 Pricing there, if we look year over year sequentially, anything you can share?
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 In terms of pricing? There may be some slight changes, not a lot of changes, the market's
 tough. As far as FirstComp, FirstComp is raising their prices.
 
-Q - Mark Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Hughes {BIO 1506147 <GO>}
 Okay. And then one final question. Richie, I think you had described a fluid market looking
 to see where the rates will settle. Any ranges you care to share? What's your judgment
 about what will happen with pricing there?
 
 Bloomberg Transcript
 
-A - Richie Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richie Whitt {BIO 7084125 <GO>}
 I wish I knew, Mark. If you point to individual risks, you can get 25% to 300%. It just
 depends. I don't think you can look at individual risk and say where the overall market is
 going. I think it is very fluid. Customers are still trying to say -- prices should be flat, maybe
@@ -556,20 +506,14 @@ So I think there's no question it's going higher. I think everybody probably has
 what they've seen this First Quarter, which is pretty ugly. And I think that will hopefully add
 fuel for them to go higher. Quite honestly, they need to.
 
-Q - Mark Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Hughes {BIO 1506147 <GO>}
 Thanks for that color.
 
 Operator
 Thank you. Our next question comes from Beth Malone with Wunderlich Securities. Please
 state your question.
 
-Q - Beth Malone
-
-{BIO 1497932 <GO>}
-
+Q - Beth Malone {BIO 1497932 <GO>}
 I have a couple questions. How big was the California market to FirstComp when you
 acquired it?
 
@@ -581,44 +525,29 @@ Company N ame: M arkel Corp
 Company Ticker: M K L US Equity
 Date: 2011-05-06
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 It was significant. I don't have the breakdown right in front of me. Suffice it to say we are,
 in our business plan for this year, have projected a significant shrinkage in our writings in
 California. It was significant for FirstComp.
 
 FINAL
 
-Q - Beth Malone
-
-{BIO 1497932 <GO>}
-
+Q - Beth Malone {BIO 1497932 <GO>}
 And you talked about new products in the admitted market. Are those organically grown
 from your existing underwriting force? Or did you acquire talent from someplace to
 develop these products?
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 Say that again, Beth. I'm sorry, I missed it.
 
-Q - Beth Malone
-
-{BIO 1497932 <GO>}
-
+Q - Beth Malone {BIO 1497932 <GO>}
 On the new products that you're offering in admitted, is that internal expertise that you
 are using to develop these products, or have you acquired groups of underwriters from
 elsewhere?
 
 Bloomberg Transcript
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 We've acquired groups of underwriters over the last 12 to 18 months. The products that I
 mentioned that we launched in the quarter, the admitted architecture and the engineers
 professional liability, we hired Glen Mangold last year to head that practice, replacing our
@@ -632,20 +561,14 @@ had an opening there for a while. We think he brings a lot of expertise there. G
 Mangold replaced our retiring Head of Architects and Engineers. So some of this is
 replacing a talent that's retiring, and some of it is coming from our existing talent.
 
-Q - Beth Malone
-
-{BIO 1497932 <GO>}
-
+Q - Beth Malone {BIO 1497932 <GO>}
 Okay. That's helpful. Thank you. And then on the expense level overall, you mentioned
 that you targeted around 42%, and you made some pretty significant investments in
 technology over the last few years. Should we anticipate that your expense ratios should
 start to move lower? Or does it require a better pricing environment for you to grow the
 top line in order to get that expense ratio to start moving lower.
 
-A - Richie Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richie Whitt {BIO 7084125 <GO>}
 I'll take that one. This is Richie, Beth. We're scheduling to finish up the big projects we've
 been taking on at the end of this year. Unless we get a real shift in the market here, I
 don't expect our expense ratio to change too much from what we're looking at today.
@@ -666,36 +589,24 @@ Those will drop off significantly next year, and that will obviously help us. Yo
 net written is up pretty significantly in the First Quarter, and obviously, that will start to earn
 through, and I think those things will start to help us as we get more towards 2012.
 
-Q - Beth Malone
-
-{BIO 1497932 <GO>}
-
+Q - Beth Malone {BIO 1497932 <GO>}
 Okay. And then on pricing in the access and surplus lines, I know that can be one of the
 toughest markets in a soft market. We're hearing some noise from a lot of your
 competitors or re-insurers that that may be starting to improve. What do you see?
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 I think the declines have certainly slowed in a lot of cases. Richie mentioned the property
 market, which is a different environment in itself, because of the catastrophes we've had. I
 would be remiss to say that we're seeing significant changes in pricing right now. It's still
 very competitive.
 
-Q - Beth Malone
-
-{BIO 1497932 <GO>}
-
+Q - Beth Malone {BIO 1497932 <GO>}
 What about the tornadoes in the Second Quarter? Do you think you'll have exposure to
 the April 27, April 28 events?
 
 Bloomberg Transcript
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 Absolutely, Beth. I don't think it's necessarily significant, but clearly we'll have exposure.
 And we're seeing claims come in. The nature of tornadoes is you can't really predict
 where they go, and they have erratic paths, and it really depends on where the properties
@@ -703,18 +614,12 @@ are that you insured, and what gets hit. I'm seeing anywhere, numbers, in terms 
 anywhere from $2 billion to $5 billion for that string of storms. And we'll pick up something
 on that clearly.
 
-Q - Beth Malone
-
-{BIO 1497932 <GO>}
-
+Q - Beth Malone {BIO 1497932 <GO>}
 And one last question, in Japan, the losses you incurred, I assume those were on a
 primary basis. And what was the nature? Was it marine exposure that you had? Or is that
 actual just property?
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 Our exposure primarily comes from 2 types of risk there. It would be a reinsurance of
 domestic Japanese companies. So we're reinsuring their property programs and provide
 catastrophe cover there. We provide that type of coverage. And then the other would be
@@ -732,15 +637,10 @@ Company N ame: M arkel Corp
 Company Ticker: M K L US Equity
 Date: 2011-05-06
 
-Q - Beth Malone
-
-{BIO 1497932 <GO>}
-
+Q - Beth Malone {BIO 1497932 <GO>}
 Thank you, very much for the answers.
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
+A - Mike Crowley {BIO 6836605 <GO>}
 
 FINAL
 
@@ -750,53 +650,35 @@ Operator
 Thank you. (Operator Instructions). Our next question comes from Doug Mewhirter with
 RBC Capital Markets. Please state your question.
 
-Q - Doug Mewhirter
-
-{BIO 7026139 <GO>}
-
+Q - Doug Mewhirter {BIO 7026139 <GO>}
 Hello. Good morning. Just had a couple questions. The first is the -- can you describe in
 the E&S sector, apart from the resolution of the one large E&O claim. Where is the
 approximate source of the other favorable development in the E&S segment, like
 accident years or lines?
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 Most of it is coming out of professional and products liability in the 2007 to 2009 accident
 years.
 
 Bloomberg Transcript
 
-Q - Doug Mewhirter
-
-{BIO 7026139 <GO>}
-
+Q - Doug Mewhirter {BIO 7026139 <GO>}
 Okay. Thanks for that. And also, I guess changing direction a bit. In your other lines, your
 other revenues and other costs, is there still a significant positive or negative contribution
 from any fee based business? Like any residual MGA type business you have, or is most
 of that transferred to the risk bearing subsidiaries?
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 Most of the fee business coming out of Elliott Special Risk has transitioned. Most of that is
 no longer in other. But we do still have some revenue and expenses being generated by
 the Aspen MGA operation.
 
-Q - Doug Mewhirter
-
-{BIO 7026139 <GO>}
-
+Q - Doug Mewhirter {BIO 7026139 <GO>}
 Thanks. And for my last question, could you repeat what your effective operating tax rate
 was for the quarter, and also what -- it seemed like there was a tax policy change. How
 you would expect it to even out over the year?
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 The effective tax rate was 14%, which compared to 31% in 2010. In my comments, the
 decline is in part due to anticipating lower pre-tax income, but the same amount
 comparable levels of tax-exempt income. Additionally, you are right, we do have a change
@@ -813,18 +695,13 @@ Date: 2011-05-06
 operations as a result of a change in our plans regarding the amount of earnings
 considered permanently reinvested in our foreign subs.
 
-Q - Doug Mewhirter
-
-{BIO 7026139 <GO>}
+Q - Doug Mewhirter {BIO 7026139 <GO>}
 
 FINAL
 
 I guess -- go ahead.
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 I was just going to say, Doug, basically what that means is, if you don't plan on repatriating
 those earnings to the US, you don't have to layer on top a US tax rate. That provides
 some benefit there. And the other thing I'd just say is, obviously, with the substantial
@@ -832,21 +709,13 @@ catastrophe losses in the First Quarter, we're now estimating lower pre-tax for 
 and that just makes the permanent difference on the tax exempts that much larger, so it
 tends to drive your effective rate down.
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne Waleski {BIO 16735457 <GO>}
 Right. And I would say our expectation for this year would be a mid-teens rate.
 
-Q - Doug Mewhirter
-
-{BIO 7026139 <GO>}
-
+Q - Doug Mewhirter {BIO 7026139 <GO>}
 Okay. Well, thanks. That's all my questions. Thanks for your answers.
 
-A - Anne Waleski
-
-{BIO 16735457 <GO>}
+A - Anne Waleski {BIO 16735457 <GO>}
 
 Bloomberg Transcript
 
@@ -856,10 +725,7 @@ Operator
 Ladies and gentlemen, there are no further requests for questions at this time. I'll turn the
 conference back to management for closing remarks. Thank you.
 
-A - Mike Crowley
-
-{BIO 6836605 <GO>}
-
+A - Mike Crowley {BIO 6836605 <GO>}
 Thank you, very much for joining us. I'll remind you that our shareholders meeting is on
 Monday, May 9 at 4.30 PM here in Richmond. If you happen to find yourself in town, stop
 by. Thanks so much, we'll talk to you soon.

@@ -33,18 +33,12 @@ for the Second Quarter 2014. For your information, this conference is being reco
 At this time, I would like to turn the call over to your host today, Mr. Oliver Schmidt, Head
 of Investor Relations. Please go ahead, sir.
 
-Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+Oliver Schmidt {BIO 2473131 <GO>}
 Thank you, Rhonda. Yeah, good afternoon from my side as well, and welcome to our
 conference call about the results of the second quarter 2014. For the sake of time, I hand
 directly over to Dieter, without further ado.
 
-Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+Dieter Wemmer {BIO 4755450 <GO>}
 Thank you much, Oliver, and good afternoon or good morning to everybody on the call.
 Before I dive into the financial of the quarter, let me start with our business highlights
 Page 1 of 30
@@ -437,10 +431,7 @@ Our outlook overall, the €10 billion plus or minus €500mn, we still think it
 keep it unchanged. However, we believe that we can reach the upper end of the range,
 which should not surprise you. And this is when I would stop here and hand over to Oliver.
 
-Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+Oliver Schmidt {BIO 2473131 <GO>}
 Okay. Now we're happy to take your questions.
 
 Q&A
@@ -462,10 +453,7 @@ liabilities. The duration seems to have gone up a reasonable amount in the quart
 over Q1. And I'm just wondering if there's any reasoning behind that or if there's any more
 detail you can give on that, that would be great. Thanks.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Okay. Thank you very much, Paul. I think the Life duration, that is a – I think this creates a
 question and answer, what's the duration, of course is dependent on the interest rate
 level. That means when interest rates are where they are and we have mainly – our long
@@ -509,10 +497,7 @@ ahead.
 
 Bloomberg Transcript
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Hi. Good afternoon. I've got three questions, please. I wondered if you could give a little
 bit of color on PIMCO. You seem to be very confident that the performance is improving. I
 wondered if you could give us some color in terms of how you're seeing flows with retail
@@ -528,10 +513,7 @@ think this is going to be something which is going to be a fundamental part of S
 or do you think there's a chance you're going to reverse this from your final Solvency II
 calculations? Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Okay. Jon, just a second. You were so fast at speaking, so I was writing down your
 questions that I'm not forgetting any. PIMCO actually is a – the biggest outflow number
 comes from retail and that is very visible when you look at our mix.
@@ -560,15 +542,10 @@ And actually, Allianz is the largest institutional investor in PIMCO with close 
 And I can tell you, our investment margin in the Life business would not look stable and
 good when they would do a bad job.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 (45:03).
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 Bloomberg Transcript
 
@@ -578,17 +555,11 @@ the PIMCO funds when it would be under pressure in the performance, and we have 
 play it here very much arm's length. And I can tell you, we are quite happy with the
 development.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 You're comfortable that it's not just the institutional clients are reacting a little slowly to
 the historic performance issues in the last few quarters?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Well, that I cannot exclude it, because I'm not speaking to every institutional investors. So –
 but I think in the end, it is about the true performance of an asset manager, and the
 institutional investors are usually much more rational when doing their investment
@@ -597,10 +568,7 @@ I think a retail customer is not the only one influencing the decision. There is
 advisor in between, and usually switching funds from one firm to another, it's for the
 advisor, usually a good job.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Okay. Thank you.
 
 Operator
@@ -613,9 +581,7 @@ Company N ame: Allianz SE
 Company Ticker: AL V GR Equity
 Date: 2014-08-08
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 FINAL
 
@@ -628,18 +594,13 @@ And on Solvency II, your question on the sovereign bonds, I assume that there is
 trend in the EU that sovereign risk would be included. So I think the whole overall
 judgment goes more in trend to include it and not to exclude it.
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Okay. It's very clear. Thank you very much.
 
 Operator
 Thank you. We'll take the next question from Farooq Hanif of Citigroup. Please go ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 Bloomberg Transcript
 
@@ -653,10 +614,7 @@ And related to that, can we therefore expect the actually realized gains in harv
 part of the operational results in Life could be something that we continue to see for a
 while in your numbers? Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Farooq, yes. I think a stable harvesting is certainly what we want to achieve and I can
 maybe give it in more detail on the P&C segment, because there the calculation is easier
 as we don't need to split it with the policy holder. We have roughly €6 billion at the
@@ -682,17 +640,11 @@ supporting our base investment income, which I think is also holding up nicely.
 
 FINAL
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Can I just interject very quickly on that? I mean are you assuming that this is going to use
 up economic capital, or was it economic capital-neutral in everything you're doing?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 We have allocated more economic capital over the last quarters. On the other hand also,
 our overall risk management has actually also freed up economic capital. For example,
 when you're lengthening your asset duration and you reduce your gap, then you free up
@@ -703,9 +655,7 @@ without using up capital. And your sovereign risk charge, no, I think on soverei
 what we have included in our calculation is going full distance. That means spreads,
 defaults, migration risk, all included like a corporate bonds.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 Bloomberg Transcript
 
@@ -714,10 +664,7 @@ Okay. Thank you very much.
 Operator
 Thank you. We will now move to Andrew Ritchie, Autonomous.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Hi there. Just one question, following up on the last question. I'm slightly confused on the
 new – on the reinvestment strategy in P&C. It sounds like you're encouraging us to think
 that you are going to continue with high levels of realized gains on bonds. Surely, that will
@@ -746,74 +693,47 @@ Fireman's Fund in the second half ? Thanks.
 
 FINAL
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Okay. Starting with P&C, I hope it was not too confusing, but actually, when you have a
 bond which still has a 3% coupon and that was a 10-year bond and it is now approaching
 the last two, three years, the total return you make in the last two years of a bond is, well,
 is 0.3%, 0.4% or something like this because the...
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Because of the pull to par?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah, but still, you are not earning anything anymore in the last two years. Therefore, it
 would be completely wrong to wait the last two years of a maturing bond. You better turn
 it around and reinvest it in a longer-term bond. That is pretty much because you are
 economically keeping the money for 40 basis points, 50 basis points in the last two years.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay.
 
 Bloomberg Transcript
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 So why would you do this? Because you can – that is when you go again seven years, eight
 years, you are still getting more than 40 basis points, 50 basis points. Sure, that is a total
 value and market value consideration. It is not the consideration only of running yield. But I
 think you should also see that in total, we can also, with the strategy, afford to create the
 realized gains because our running yield in P&C stayed pretty much up.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 What are you – you're reinvesting longer duration though than you have been.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah. Yeah, well, I think you have a bond which matures in 2016 and you sell it now
 because the last two years, you are earning – you have a decline in market value versus
 the coupon. So the net-net out of the two is 40 basis points. And instead of cashing in the
 40 basis points the last two years, you are now reinvested still at 2.5% or 3%. And that is
 the additional value you are creating by this activity.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. I might revert...
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Page 14 of 30
 
 
@@ -824,46 +744,29 @@ Date: 2014-08-08
 
 Are you doing something different with your own portfolio?
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 FINAL
 
 I mean you're reinvesting at lower rates. So...
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yes. But the total value you get out of both is still – if you add both sides of the equation,
 you get more than keeping it.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. I'll revert offline on this one.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah. Yeah. I think you need investment advice.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 I mean I guess I was interested what are you reinvesting in, in the P&C? I mean, obviously,
 you're not investing in German bunds at this point, or at least that's not (56:37)
 
 Bloomberg Transcript
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 No. German bunds are actually at the moment blacklisted not because we are (56:43)
 country but with 1% return for 10 years, we are absolutely not happy with the 1%. We are
 certainly more reinvesting into corporates than before. We are also – we have opened up
@@ -871,32 +774,20 @@ again a little bit our investment into Spanish government bonds, so which also h
 average, and that is I think the main change on the P&C side. And we have, over the last
 two years, increased slowly, but also supported by market, is equity allocation.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 So Italy. The word not yet – and maybe I need English training – instead was only referring
 to the fact when people are seeing, renewal rates are 7% down, that actually our accident
 year loss ratio is still improving. And I am not linking the severity and frequency
 improvement to the Italian economy. I think it is still our continued selection in the Asian
 channel. So certainly...
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 So it's structural, not a cyclical?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Page 15 of 30
 
 
@@ -917,24 +808,15 @@ And in the U.S., certainly U.S. reserves have to be reviewed very carefully ever
 when we would have today any indication for increased reserve needs then we would
 have booked it. If it is different in a few months, then we'll let you know.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 So – but you've increased, to be clear, the current accident year loss picks, is that right?
 You said I think...
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yes, we increased. I think the underwriting improvements which were planned were not
 achieved in this way and therefore, we took a more conservative step.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. Thank you.
 
 Bloomberg Transcript
@@ -943,10 +825,7 @@ Operator
 Thank you. We'll take the next question from Michael Huttner of JPMorgan. Please go
 ahead.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Fantastic. I hope you can hear me. I'm on my mobile. Two questions please. On the Russia
 and Brazil and the U.S., you said €100 million roughly is the reserve amount and I worked
 out – I'm really good at math here. So, I'm joking. That the total underwriting loss for those
@@ -970,9 +849,7 @@ Company N ame: Allianz SE
 Company Ticker: AL V GR Equity
 Date: 2014-08-08
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
+A - Dieter Wemmer {BIO 4755450 <GO>}
 
 FINAL
 
@@ -1000,20 +877,14 @@ beside Solvency II, we are also a systemic important company. There are also som
 capital requirements coming from this calculation. So we have to take a decision here at
 some point and see how we can work through it.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Brilliant, that's very helpful. And sorry, I wasn't trying to give you a hard time, they're the
 only bits (01:03:31). That's all. Thank you.
 
 Operator
 Thank you. We will now move to Thomas Seidl of Bernstein. Please go ahead.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Yeah. Thanks. Good afternoon. A number of questions here. On the P&C side, the rate
 changes have come down again this quarter. I think we are now at a level where this is
 below expected inflation. Is it fair to assume that the P&C segment hence has reached a
@@ -1037,10 +908,7 @@ should we expect some goodwill impairment, I think it's €220 million on Yapı 
 
 FINAL
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I'm happy to start with Yapı Kredi. I think we are far away from a goodwill impairment.
 Certainly, the Turkish P&C market was always very sensitive to underwriting profits and
 remember that over the long run, Allianz and Yapı Kredi were always a winner in this
@@ -1095,18 +963,13 @@ a lot of question around. But actually, what was more – the idea is that we ar
 managing our overall portfolio, and we are not shying away from the soft spots and share
 with you what we are going to do.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay. Thanks a lot, Dieter.
 
 Operator
 Thank you. We will now move to William Hawkins of KBW. Please go ahead.
 
-Q - William S. Hawkins
-
-{BIO 1822411 <GO>}
+Q - William S. Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
@@ -1121,10 +984,7 @@ plan?
 And then secondly, again, the aviation losses in the third quarter. Is there any figure or sort
 of range that you could give us for what those might mean for Allianz? Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yes. William, I'm happy to start this aviation loss of third quarter. This tragic situation in
 Eastern Ukraine where the plane was probably shot down, we are only covering half when
 it was a normal accident.
@@ -1135,16 +995,10 @@ course. I don't know, maybe between €20 million and €30 million. And actuall
 aviation losses we have a very, very tiny participation and that would not even make it to a
 mid-size loss.
 
-Q - William S. Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William S. Hawkins {BIO 1822411 <GO>}
 Great. Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 So Fireman's Fund, well, accelerated improvements and management action means to
 me to look at all levels and do whatever you can do. Therefore, expenses are not
 excluded.
@@ -1156,44 +1010,30 @@ Company N ame: Allianz SE
 Company Ticker: AL V GR Equity
 Date: 2014-08-08
 
-Q - William S. Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William S. Hawkins {BIO 1822411 <GO>}
 But just to be clear again. I mean you've answered this question – well, you've had this
 question a couple of times but this is now no longer an issue of just expenses. We are
 back in underwriting the reserve and problems as well.
 
 FINAL
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 The reserve – maybe I have not explained this well. The reserve increases were linked to
 two large losses. So it's not that an actuary looked at it, no. The lawyers settled two large
 losses and the lawyers did not look at the actuarial papers before. And therefore, we are
 now paying more than what we had in the case with us.
 
-Q - William S. Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William S. Hawkins {BIO 1822411 <GO>}
 Okay. So I think you – again, in comment to another question, you're not shifting to a view
 where there may be a systemic problem with the reserves in Fireman's Fund?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 No. I think we had a review in the second quarter of asbestoses and environmental, so
 that has been reviewed and also revised. That is P&L neutral because we are keeping a
 high asbestoses reserve at the center and that is an expected development in the U.S.
 And that part is therefore neutral for Fireman's Fund.
 
-Q - William S. Hawkins
-
-{BIO 1822411 <GO>}
+Q - William S. Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
@@ -1202,10 +1042,7 @@ That's great. Thank you.
 Operator
 Thank you. We will now move to Nick Holmes of Société Générale. Please go ahead.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hi, there. Thank you very much. Two questions. First, is with U.S. Life. Wondered, can you
 tell us more about the risks with the fixed-indexed annuity products, in particular how
 worried are you that you're putting on a lot of interest rate risk? Because I think that is the
@@ -1215,15 +1052,10 @@ And the second question, just looking at some P&C in the expense ratio, there's 
 bit of improvement in Q2. And I just wondered if you could remind us how much further
 improvement you think is possible? Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 The last question was improvement on what? Sorry.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 Page 20 of 30
 
 
@@ -1238,10 +1070,7 @@ expenses, is a general question.
 
 FINAL
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Well, I think the 30 basis points we probably carry through, through the rest of the year
 that were not one-offs. I did not mention that our net earned premium actually grew 3% in
 the second quarter versus 1% on the gross top line, and that is the reinsurance program,
@@ -1268,16 +1097,10 @@ the offsetting co-relation between our VA book and the fixed-indexed annuity boo
 allows us to be a little bit more efficient on the hedging. So therefore, we are not taking
 any interest rate risk with this business.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 On the...
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Only when the interest rates are higher, the pricing of the product on the day of sale is
 easier. When you have zero interest rate and it is hard to split zero percent between
 customer and shareholder, so that makes the pricing of course more difficult. And
@@ -1302,10 +1125,7 @@ the current product generation.
 
 FINAL
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Thank you for that. That's very interesting. Perhaps, I can slightly rephrase the question,
 which is with that fixed-indexed annuity book, what would your view of the impact of rising
 or falling rates, interest rates in America be?
@@ -1313,10 +1133,7 @@ I mean, would it be if rates do rise, would you see that as positive, presumably
 margins could expand? Whereas if rates were to fall, would you think that you are
 completely hedged forever on this book?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Hedged in the sense of the business in-force, yes. If we talk about future new sales
 volume, that has of course a sensitivity towards the interest rate market. Although, I think
 that this current index, which goes between S&P 500 and the Barclays Aggregate, I think
@@ -1336,25 +1153,16 @@ cash and we are investing the cash in a matched asset portfolio, and the hedging
 done for paying out this embedded equity option which gives a little upside for the
 customer but it is not changing risk profile for us as a shareholder.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Understood. And sorry, just one final question which is given the volumes you're writing,
 do you have a sort of limit on the volume that you see going forward because, I mean, if
 you continue to grow at this pace, you will turn into a U.S. life company?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Well, look. Prudential also gets all the volume from the U.S. and is still seen as an Asian life
 company. So I'm pretty happy to inherit the P/E of Pru.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 No, that's a very good answer. But is there a sort of limit that you've got or are you happy
 to just carry on growing at this sort of level?
 
@@ -1366,16 +1174,11 @@ Company N ame: Allianz SE
 Company Ticker: AL V GR Equity
 Date: 2014-08-08
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I think we carry on growing with this product. We have still a limit on our VA volume and we
 are not lifting our limit on the VA volume.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 
 FINAL
 
@@ -1384,10 +1187,7 @@ Okay. Thank you very much.
 Operator
 Thank you. Moving on to Atanasio Pantarrotas of Kepler.
 
-Q - Atanasio Pantarrotas
-
-{BIO 5933123 <GO>}
-
+Q - Atanasio Pantarrotas {BIO 5933123 <GO>}
 Yes. Thank you. Good afternoon to everybody. Three quick questions, I hope. First one on
 the reinvestment yields in P&C, you mentioned that there was 2.5% in the first half.
 However, I guess, now is a considerably lower given that the narrowing spread also, for
@@ -1403,24 +1203,15 @@ domestic government bond markets would be penalized?
 Final question on your acquisition on the Unipol portfolio, I know that it's a work-inprogress, but what is your target in term of combined ratio, at least your target range of
 combined ratio for the portfolio acquired? Thanks.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah. I think we will not disclose the target combined ratio for the Unipol acquisition. I think
 that would be – certainly, we have a business plan but actually, we are not disclosing
 business plans to this detailed level. Sorry, Atanasio, you have to understand this.
 
-Q - Atanasio Pantarrotas
-
-{BIO 5933123 <GO>}
-
+Q - Atanasio Pantarrotas {BIO 5933123 <GO>}
 Okay.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 The reinvestment yields today compared to the Q2 numbers, I think you probably have to
 expect that it is 10 basis points, 20 basis points lower. The sovereign risk topic, that is a
 widely discussed topic among all the European insurance groups as well as the regulator
@@ -1445,34 +1236,20 @@ sovereign bonds whether it will go to the 100% of the corporate bond or some mid
 ground that that could be – but I think that it's at the moment changing in so (01:25:30)
 time that it's almost not worthwhile to speculate.
 
-Q - Atanasio Pantarrotas
-
-{BIO 5933123 <GO>}
-
+Q - Atanasio Pantarrotas {BIO 5933123 <GO>}
 Okay. And your model is built according to make a capital charge also on the domestic
 bonds or only on the cross-border investments?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 In our own calculation, full distance.
 
-Q - Atanasio Pantarrotas
-
-{BIO 5933123 <GO>}
-
+Q - Atanasio Pantarrotas {BIO 5933123 <GO>}
 Okay. Many thanks.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 You should know our risk manager.
 
-Q - Atanasio Pantarrotas
-
-{BIO 5933123 <GO>}
+Q - Atanasio Pantarrotas {BIO 5933123 <GO>}
 
 Bloomberg Transcript
 
@@ -1481,10 +1258,7 @@ Thank you.
 Operator
 The next question comes from Andy Broadfield of Barclays. Please go ahead.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 Hi there. A couple of questions, please. I will come very briefly back to that Solvency II
 question. You mentioned – I think when you first introduced it into the model at the
 beginning of the year a comment, which referred to the fact that financial services should
@@ -1511,10 +1285,7 @@ Date: 2014-08-08
 
 FINAL
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I think I will – let me start with Germany and the delivery of the P&C result. It is true they
 are outperforming the targets and it is really a great success of the management team
 which is at the moment also very happy with what they have achieved. And they should be
@@ -1533,34 +1304,23 @@ industry and also between insurers and bankers is a must. And if regulators are 
 falling short of it or potentially are falling short of it, then we will certainly continue to
 highlight it at every opportunity.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 
 Bloomberg Transcript
 
 I'm a bit disappointed with your German answer. I might ask it again, I'm just hoping you
 might change your answer, which you...
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I enjoy the 91% combined ratio of the first half, and take it as booked and planted.
 
-Q - Andy D. Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy D. Broadfield {BIO 7273415 <GO>}
 All right. Okay. Well. Okay. Thank you.
 
 Operator
 Thank you. We will now move to Vinit Malhotra of Goldman Sachs. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Hi. Good afternoon. This is Vinit Malhotra. Just one very quick follow-up. You know, in India
 we talk so much about the U.S. EIA product. I just also noticed that there is a 50 bps
 compression in margin between 1Q and 2Q, is it just because of the falling, slight fall in
@@ -1587,10 +1347,7 @@ discussing about the rule changes in India? Because if the FDI rules and the mar
 rules are there, then it could be a reasonably sizeable decision to make. So I just wanted
 to follow up. Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 In India, I think we have – when the rules are really changing, then we have all options to
 take up also our higher share in the business. But I think that is also negotiation with our
 joint venture partner. And I think we would prefer, actually, also here to negotiate first with
@@ -1614,29 +1371,17 @@ points because the high sales volume was a positive. So therefore, the interest 
 impact is probably your 50 basis points as you have mentioned. And then 30 basis points
 is then the baseline impact, where 20 basis points is being reversed by the volume.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Good points. Yeah.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you. I just mentioned because the FIAs margin was 4.3% became 3.8% for just the
 FI. But that's fine. Thank you very much for clarification. Thank you.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah, yeah.
 Page 26 of 30
 
@@ -1646,10 +1391,7 @@ Company N ame: Allianz SE
 Company Ticker: AL V GR Equity
 Date: 2014-08-08
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you.
 
 Operator
@@ -1658,10 +1400,7 @@ FINAL
 
 Thank you. We will now go to Michael Huttner of JPMorgan. Please go ahead.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Lucky. Thank you. On the pricings, I just checked. So the pricing, going forward – you know
 that lovely table in the appendix – is down – sorry, it's up. And it is up 1.1%, I think, and it
 goes up 1.4% at the half-year – at the first quarter. Are we – from your comments, I'm
@@ -1673,10 +1412,7 @@ maybe be halved in the current quarter? Thank you.
 
 Bloomberg Transcript
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I think that of the three countries, certainly Brazil I think we will see an improvement
 month-over-month. Russia, I think we have probably taken the major part of the full-year
 loss. Maybe not yet all of it. That depends on how the day-to-day development is. But
@@ -1685,26 +1421,17 @@ Fireman's Fund, of course, depends pretty much on how the wind blows in the thir
 quarter. Therefore, I cannot say that the second quarter result is different from the first
 half year results.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 I understand.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 And surprising, look, I think inflation is in Europe at the moment not a topic. The ECB is
 even recommending that all German employers should double the salaries of the
 employees to get more inflation into the country. You'll see where inflation is dense in
 Europe. I personally think that is a desperate move of our central bankers when they are
 already coming with such proposals.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 I'll take the cash-only increase, but thank you. Thank you.
 
 Operator
@@ -1718,9 +1445,7 @@ Company N ame: Allianz SE
 Company Ticker: AL V GR Equity
 Date: 2014-08-08
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
+Q - Michael Haid {BIO 1971310 <GO>}
 
 FINAL
 
@@ -1731,10 +1456,7 @@ Second question, price effects in P&C Insurance. I would like to reconcile two s
 slide nine, negative price impact of minus 0.4% and slide 62 where you show a positive
 price impact of 1.1%. How is the delta explained?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 I think slide 62 is the strict price effect on renewals and not on the total. I think that price
 effects are probably not exactly calculated to the last decimal point, so there is
 something, some rounding differences between.
@@ -1751,30 +1473,18 @@ new business margin is a little bit falling short as the measurement in this res
 think we need, under the Solvency II world, more comprehensive measurements in the
 long run than new business margin.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 And if you had the choice of selling still a traditional Life product, and I know that Allianz
 label is very cost-efficient, let's put it that this way, and sell one Perspektive product. You
 would still go for the traditional product?
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 No. I think...
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 As a company.
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 As a company, we encourage for both sides, for the customer end as the non-traditional
 product. Because the capital consumed by the non-traditional product is substantially
 lower, which allows us to take more investment risk. So therefore, it is a great trait for
@@ -1798,27 +1508,18 @@ FINAL
 So it is a win-win situation, and I think the people who are still skeptical about the win-win
 situation, should spend more time with our product designers in Stuttgart.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Great. Thank you very much.
 
 Operator
 Thank you.
 
-A - Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+A - Oliver Schmidt {BIO 2473131 <GO>}
 Well, it's Friday afternoon. We can just close.
 
 Bloomberg Transcript
 
-A - Dieter Wemmer
-
-{BIO 4755450 <GO>}
-
+A - Dieter Wemmer {BIO 4755450 <GO>}
 Yeah. And some have already packed their suitcases and off to the airport as I heard
 shuffling in the background. So I wish you really a great summer vacation for the one of
 you who were not yet off. August is usually vacation time. And Bavaria is here close to Italy.
@@ -1827,10 +1528,7 @@ and hope to speak to you soon after the summer. And I know what I have to delive
 second half of the year. That is another good quarter in November. And then a good story
 on the capital management. Thank you.
 
-A - Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+A - Oliver Schmidt {BIO 2473131 <GO>}
 Thanks a lot. We say good-bye to everybody, wish you a nice weekend and talk to you
 soon. Bye.
 

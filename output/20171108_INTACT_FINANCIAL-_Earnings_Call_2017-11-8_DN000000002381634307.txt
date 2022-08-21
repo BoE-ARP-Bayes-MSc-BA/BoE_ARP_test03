@@ -38,10 +38,7 @@ remarks, there will be a question-and-answer session. (Operator Instructions)
 I would now like to turn the call over to Mr. Ken Anderson, Vice President of Investor
 Relations and Treasurer. Please go ahead, sir.
 
-Ken Anderson
-
-{BIO 19997596 <GO>}
-
+Ken Anderson {BIO 19997596 <GO>}
 Thank you, Kirsten. Good morning, everyone, and thank you for joining the call today. A
 link to our live webcast and published information for this call is posted on our website at
 Page 1 of 26
@@ -63,10 +60,7 @@ Darren Godfrey, SVP of Personal Lines; Alain Lessard, SVP of Commercial Lines; a
 Patrick Barbeau, SVP of Claims. We will begin with prepared remarks, followed by Q&A.
 With that, I will turn the call over to our CEO, Charles Brindamour.
 
-Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+Charles Brindamour {BIO 7012323 <GO>}
 Good morning, everyone, and thank you for joining us today. Yesterday evening we
 announced third-quarter net operating income of CAD1.61 per share, an increase of 59%
 on the back of stronger underwriting results. Our top line was up 1% driven by personal
@@ -213,10 +207,7 @@ FINAL
 
 And with that, I'll turn the call over to our CFO, Louis Marcotte.
 
-Louis Marcotte
-
-{BIO 18040440 <GO>}
-
+Louis Marcotte {BIO 18040440 <GO>}
 Thanks, Charles. Good morning, everyone.
 Third-quarter net operating income of CAD219 million was CAD82 million better than last
 year. Our results were driven by lower cat losses and strong underlying performances in
@@ -347,9 +338,7 @@ on delivering on our ﬁnancial objectives, growing operating earnings over time
 outperforming the industry on ROE.
 With that I'll return the call back to Ken.
 
-Ken Anderson
-
-{BIO 19997596 <GO>}
+Ken Anderson {BIO 19997596 <GO>}
 
 Page 7 of 26
 
@@ -370,33 +359,22 @@ Operator
 (Operator Instructions) And your ﬁrst question comes from Kai Pan with Morgan Stanley.
 Please go ahead, your line is open.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Good morning, Kai.
 
 Operator
 Kai Pan, your line is open. You may be on mute.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Hello, can you hear me?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 Bloomberg Transcript
 
 Good morning Kai. Yes, absolutely.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Yeah, I'm sorry, we were dealing with new phones here.
 So my ﬁrst question is on personal auto and on the higher physical damage. So, just can
 you give a little bit more detail about like when do you ﬁnd it out and what action you are
@@ -404,10 +382,7 @@ taking, and your ability to raise rates and what time -- like a timely fashion? 
 you comfort that you can improve the personal auto combined ratio to 95%-ish in the next
 12 months?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Thanks for your question, Kai. I think we've seen physical damage inﬂation for a few years.
 Our action plan anticipated to address those and I think in the past, say, nine months
 we've seen that trend pick up a bit. Therefore, the need to increase our action plan.
@@ -436,10 +411,7 @@ pipeline. And then we'll ask Darren to get into pricing and underwriting, and wh
 good about our ability to take the combined ratio in the mid 90%s.
 So, Patrick, why don't you give it a crack?
 
-A - Patrick Barbeau
-
-{BIO 18476397 <GO>}
-
+A - Patrick Barbeau {BIO 18476397 <GO>}
 Sure. As Charles mentioned, the cost pressure on physical damage that has accelerated
 recently is only on the severity side. We've seen the cost of parts and the complexity of
 repairing or replacing those parts go up, so also additional labor cost in the repairs. This
@@ -463,19 +435,14 @@ complex repairs, it's tougher to identify upfront if they will be repairable or 
 deemed total loss right away, and we see more storage and towing around costs that we
 can address.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 And I would say, Kai, overall, this is not a new observation. I would say that the breadth of
 the impact on stuﬀ like storage, towing, and rental days are certainly bigger than what we
 anticipated six to nine months ago. We've been on that trend for a while, but clearly need
 -- more needs to be done.
 Why don't we talk about pricing underwriting, what it means in practice, Darren?
 
-A - Darren Godfrey
-
-{BIO 19791482 <GO>}
+A - Darren Godfrey {BIO 19791482 <GO>}
 
 Page 9 of 26
 
@@ -513,18 +480,12 @@ will earn into 2018. What I should say, though, is that of those 4 points, 3 poi
 already in the bank today from rate increases that we've already taken in 2017. So, 75% of
 that improvement from -- purely from a rate standpoint is already in the bank today.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 By "in the bank" we don't mean earned today, but rather rolling in the system to be
 earned next year. So the risk of getting those 4 points is small, given that 3 is already in
 the bank.
 
-A - Darren Godfrey
-
-{BIO 19791482 <GO>}
-
+A - Darren Godfrey {BIO 19791482 <GO>}
 Thanks, Charles. And further to that, when we look at our non-rate actions -- so in other
 words, risk selection, underwriting, claims, et cetera -- together with our augmented
 claims action plan, as Patrick has described, when we look at that net of our expected
@@ -532,10 +493,7 @@ claims inﬂation, we're expecting to see a further 1 point of improvement in co
 ratio. So that gives us, essentially, a 500 basis point improvement. So, if we're starting
 from an upper 90%s position, that positions the portfolio quite well to achieve a mid90%s within the coming 12 months.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Great. Thanks so much for the details. My follow-up question is on the other three
 segments, which underlying results have been excellent. I just wonder how sustainable
 are those results going forward.
@@ -548,9 +506,7 @@ Company Name: Intact Financial Corp
 Company Ticker: IFC CN Equity
 Date: 2017-11-08
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 FINAL
 
@@ -574,10 +530,7 @@ of business going forward. So, Darren.
 
 Bloomberg Transcript
 
-A - Darren Godfrey
-
-{BIO 19791482 <GO>}
-
+A - Darren Godfrey {BIO 19791482 <GO>}
 Thanks, Charles. So, from a personal prop standpoint, we continue to see ﬁrm conditions
 in the marketplace pretty much coast to coast, reﬂecting the new reality of natural
 disasters that we see.
@@ -590,16 +543,10 @@ mid to upper single digits moving forward, from a personal prop standpoint.
 Obviously, we've made a number of our product changes within the last few years and
 that's creating that sustainability, as Charles alluded to, from a product standpoint.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Thanks, Darren. Alain?
 
-A - Alain Lessard
-
-{BIO 17592535 <GO>}
-
+A - Alain Lessard {BIO 17592535 <GO>}
 Well, when we mentioned in the commercial lines P&C, we are in a competitive market
 that remains competitive, and in such a market for us, it's very important to protect our
 margin, our underwriting margins. And currently, we -- despite the competitive market,
@@ -629,9 +576,7 @@ focused on trucking business where we have double-digit rate increase in 2017. A
 again, that has changed the mix of the portfolio and going to be continued to be earned
 in 2018. So, I think we're in a good path to operate that in the low 90%s.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 Bloomberg Transcript
 
@@ -673,10 +618,7 @@ open.
 
 FINAL
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 Yeah, thanks very much. Good morning.
 Question on the prior-year development. I think the guidance now is 2% to 4% of opening
 claims reserves. I think historically, Charles, you may have been talking this to be more of
@@ -691,10 +633,7 @@ development we're getting in commercial lines going forward?
 
 Bloomberg Transcript
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 No. I think that your question is pretty astute, actually, and you partly answered the
 question in asking it. I've been pretty consistent talking about 3% to 4%. We have
 outperformed that for many of the past few years. We could highlight a number of
@@ -715,10 +654,7 @@ favorably impacted by the diversiﬁcation beneﬁt that Louis has been talking 
 Therefore, I'm cautiously saying, hey Tom, just think about that line of business in the
 80%s as opposed to the 70%s, because of this one-time beneﬁt in that segment.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 Page 13 of 26
 
 
@@ -731,69 +667,44 @@ Okay. And maybe one follow-up. Do you know what the pools impact was on your
 combined ratio in the third quarter? And was it higher than normal? How should we be
 thinking about the impact of pools going forward?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 FINAL
 
 Yeah. Darren, can you take this one?
 
-A - Darren Godfrey
-
-{BIO 19791482 <GO>}
-
+A - Darren Godfrey {BIO 19791482 <GO>}
 Yeah. So, in the quarter itself, so Q3 of '17, there was an unfavorable pools impact of 0.4.
 When we look at Q3 of '16, it was 1.3 to favorable, so there's a delta of 1.7. But as I said
 before, we do tend to see that noise and bounce it around from quarter to quarter. And
 as I said before there, Tom, year-to-date it's 0.4 favorable over (multiple speakers).
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 And that's been -- that's for the entire business? Is that the impact on the entire business
 or just the personal auto business?
 
-A - Darren Godfrey
-
-{BIO 19791482 <GO>}
-
+A - Darren Godfrey {BIO 19791482 <GO>}
 My numbers there, Tom, were on personal auto.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 
 Bloomberg Transcript
 
 Okay.
 
-A - Darren Godfrey
-
-{BIO 19791482 <GO>}
-
+A - Darren Godfrey {BIO 19791482 <GO>}
 So, the 0.4 favorable, as we said, is consistent with the longer-term average.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 Okay. Thanks.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Thank you.
 
 Operator
 Our next question comes from the line of Paul Holden from CIBC. Your line is open.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 Thank you. Good morning. So, appreciate all the detailed answers on personal auto.
 Given the trend towards more complex components in cars, the proportion of cars with
 those complex components will only increase over time. So, I guess what I'm interested in
@@ -809,9 +720,7 @@ Date: 2017-11-08
 is how you view pricing and segmentation going forward versus just necessarily catching
 up with historical trend.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 FINAL
 
@@ -823,9 +732,7 @@ selecting properly to address this trend going forward, having, I think, address
 claims issues.
 So, Darren, maybe you want to share your thought process on that?
 
-A - Darren Godfrey
-
-{BIO 19791482 <GO>}
+A - Darren Godfrey {BIO 19791482 <GO>}
 
 Bloomberg Transcript
 
@@ -843,20 +750,14 @@ pencil maybe on those that are not so much driving that particular trend.
 So it really is around driving segmentation. Obviously, absolute rate level, yes. But driving
 segmentation to pursue a better quality of new business proﬁle moving forward.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 And really reﬁning how we classify those vehicles to a greater degree of granularity than
 what's been done in the past.
 I think claims can be an important lever as well, that same claims practice, so I'll let Patrick
 give you a bit of perspective on what can be done in claims to break that trend going
 forward.
 
-A - Patrick Barbeau
-
-{BIO 18476397 <GO>}
-
+A - Patrick Barbeau {BIO 18476397 <GO>}
 Yes, thank you. I mentioned earlier what's causing the trend, but in terms of how we can
 help reducing it in claims there are a few things we can do. And it's somewhat linked to
 what Darren was mentioning on the risk selection and segmentation parts, because this
@@ -885,10 +786,7 @@ Overall, by working closely with our networks, we see opportunities to reduce th
 times on both repairs and total loss, which have savings as well under rentals. So, those
 are few of the examples we are implementing at the moment in claims.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 Thank you.
 
 Operator
@@ -897,10 +795,7 @@ is open.
 
 Bloomberg Transcript
 
-Q - Geoﬀ Kwan
-
-{BIO 7413168 <GO>}
-
+Q - Geoﬀ Kwan {BIO 7413168 <GO>}
 Hi. Just back on the personal auto. I just want to make sure -- kind of summarizing, I
 guess, everything that you've been saying is, you've been pricing in for what you've seen
 from PD issues in the past, but maybe because, over time, more people are getting
@@ -908,10 +803,7 @@ vehicles that have more technology and it's maybe a bit of a learning experience
 that's really what's been driving the claims issue. And now you're just kind of reacting to it
 and adjusting accordingly for that. Is that appropriate or --?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Well, I don't think it's just the fact that the proﬁle of the car pool is changing. I think that
 when you start to observe a trend, there is a period where you wonder if you're seeing a
 trend. Then there is a period where you are actually thinking you have a trend and you
@@ -923,9 +815,7 @@ anticipated. And this is combined with the fact that over the past two years, wh
 happened, the car pool changed as well. Therefore, the importance of segmentation and
 adapting the claims work that we've been doing.
 
-Q - Geoﬀ Kwan
-
-{BIO 7413168 <GO>}
+Q - Geoﬀ Kwan {BIO 7413168 <GO>}
 Page 16 of 26
 
 
@@ -940,10 +830,7 @@ auto side, particularly as you get more into the ride-sharing and that part of t
 
 FINAL
 
-A - Alain Lessard
-
-{BIO 17592535 <GO>}
-
+A - Alain Lessard {BIO 17592535 <GO>}
 Well, we're not seeing the same kind of level of trend on the car, because the mix of our
 portfolio is a mix of trucks, heavy vehicles, and personal car, and the personal car part is
 relatively small compared to the rest of the other vehicles. So, we're applying the same
@@ -954,10 +841,7 @@ personal auto.
 Operator
 And our next question comes from the line of Brian Meredith from UBS. Your line is open.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Thank you. Good morning. A couple questions here for you.
 
 Bloomberg Transcript
@@ -967,10 +851,7 @@ now? Are they having -- taking similar actions and trying to push rate at this p
 they still kind of lagging behind you? And maybe some lost market share here going
 forward for you guys as you address these severity issues?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 So, I would say Brian, the picture for me has changed meaningfully in the past quarter in
 that regard. We are, though, a full year ahead of our peers with moves, depending on the
 jurisdictions, that are quite signiﬁcant, and in some jurisdictions we've been at it for two
@@ -979,10 +860,7 @@ guess.
 But I will let Darren talk about some of what we're seeing, both in rates, as well as what we
 call residual or substandard market.
 
-A - Darren Godfrey
-
-{BIO 19791482 <GO>}
-
+A - Darren Godfrey {BIO 19791482 <GO>}
 Yeah. So, if you look at the market, there's probably 20, 25 players that we're competing
 against every single day. If we look at recent activity, I would say even within the last three
 months or so, and what we're hearing about what is potentially coming into Q4, I would
@@ -1014,9 +892,7 @@ So, we are seeing momentum, Brian, but we're looking to see, moving forward, wha
 rest of the market's doing. But it's looking better positioned today than maybe where we
 were on our last earnings call.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 
 Bloomberg Transcript
 
@@ -1029,10 +905,7 @@ ratios. Do you have the ability, are you comfortable at this point, if there's a
 in the US, to grow some market share at this point or to take advantage of a ﬁrming
 pricing environment? Are you in a position you can do that at this point?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yeah, totally. So, your ﬁrst question is: What are the teams seeing in the US? As you know,
 the tone has changed meaningfully in the US commercial lines market. And in particular in
 property at this stage. We're seeing a change and our folks in the ﬁeld will attempt to take
@@ -1067,20 +940,14 @@ FINAL
 
 Our next question comes from the line of Meyer Shields from KBW. Your line is open.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Great, thank you. Good morning. If I can continue on the OneBeacon theme.
 You talked about raising the reserves on OneBeacon as part of the harmonization process.
 Does that also imply that before the impact of rate changes and the discontinued
 programs that we should anticipate a higher sort of underlying loss ratio for this business
 compared to what OneBeacon had reported?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 No, because the strengthening we've done to these reserves is done on the lines of
 business primarily that we're exiting, a big chunk of the strengthening is on the lines that
 we're exiting. So, when I look at the business in the past, excluding those two lines, and
@@ -1089,18 +956,12 @@ segments this year have pointed in that direction.
 
 Bloomberg Transcript
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, that's very helpful. And second, also on OneBeacon, should we expect more
 retention of its direct written premium because the overall base is bigger and more
 diverse?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Not clear to me. I think that in the lines of business which we're committed to we'll do
 everything we can to protect our portfolio. Hopefully, the market conditions will allow
 that.
@@ -1111,10 +972,7 @@ Maybe you're on mute, Did you mean --?
 Operator
 Pardon the interruption, the caller's line is no longer with us.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Oh, okay.
 
 Page 19 of 26
@@ -1149,27 +1007,18 @@ Bloomberg Transcript
 And our next question comes from Jaeme Gloyn from National Bank Financial. Your line is
 open.
 
-Q - Jaeme Gloyn
-
-{BIO 19737597 <GO>}
-
+Q - Jaeme Gloyn {BIO 19737597 <GO>}
 Yes, hello. Good morning. My ﬁrst question is related to the impacts of Harvey and Irma
 and maybe even potentially the wildﬁres in California. Is there any long-tail impacts from
 exposure in those states to those events in OneBeacon?
 
-A - Alain Lessard
-
-{BIO 17592535 <GO>}
-
+A - Alain Lessard {BIO 17592535 <GO>}
 I would say it's fairly limited. The place where they had the most exposure would be Texas
 and the type of damage is business interruption, but the expectation is not very long tail.
 And it's been picked up, been properly reserved up until closing, so the expectation is
 not any long tail.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 It is small, as we anticipated, and we feel very well reserved at this stage. And still subject
 to the reinsurance threshold of 20 million that's OneBeacon had originally, so I don't
 expect bad news from those elements at this stage.
@@ -1190,18 +1039,12 @@ context.
 
 FINAL
 
-Q - Jaeme Gloyn
-
-{BIO 19737597 <GO>}
-
+Q - Jaeme Gloyn {BIO 19737597 <GO>}
 Okay, great. And my next question is related to the capital structure and the debt-tocapital ratio currently at 24.7%. I understand the target is 20%. Can you refresh me on why
 20%? And is there something about the A rating that is absolutely critical in the longer
 term, rather than maybe even a BBB+ or something along those lines?
 
-A - Louis Marcotte
-
-{BIO 18040440 <GO>}
-
+A - Louis Marcotte {BIO 18040440 <GO>}
 So we established that some while back as the optimal level, because it was the lowest
 cost of capital to maintain an A-, BBB+ rating level and that's how it was established. So
 we (inaudible) there and we're comfortable where we are in terms of the rating structure,
@@ -1209,10 +1052,7 @@ and that comes with the 20% leverage ratio.
 
 Bloomberg Transcript
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 We've said that in case of acquisition we'd be very comfortable getting in the mid-20%s,
 but eventually we'll take it back to the 20%s. I mean, we have those big ﬁnancial
 objectives and then we have a certain risk appetite. And our thought process initially,
@@ -1227,20 +1067,14 @@ into account when you look at the overall capital structure of an organization. 
 usage of preferred share also leads us at the lower end of the debt -- pure debt to total
 cap ratio.
 
-Q - Jaeme Gloyn
-
-{BIO 19737597 <GO>}
-
+Q - Jaeme Gloyn {BIO 19737597 <GO>}
 Okay, thank you.
 
 Operator
 And our next question comes from the line of Meny Grauman from Cormark Securities.
 Your line is open.
 
-Q - Meny Grauman
-
-{BIO 15238080 <GO>}
-
+Q - Meny Grauman {BIO 15238080 <GO>}
 Hi. Good afternoon. I just had a question, clariﬁcation about the diversiﬁcation beneﬁts
 that you talked about, just in terms of how those beneﬁts or whether those beneﬁts can
 continue.
@@ -1260,28 +1094,20 @@ forward?
 
 FINAL
 
-A - Louis Marcotte
-
-{BIO 18040440 <GO>}
-
+A - Louis Marcotte {BIO 18040440 <GO>}
 Well, we've set up the module calculations, so these will be applied going forward in the
 same methodology, if you want. So, I wouldn't expect a material impact like we've had
 this quarter, but that number is maintained, as we had in the past, with our risk margin. So,
 it evolves over time, but it's not one where we completely change it. We have to apply the
 same approach on a going concern or going-forward basis.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yeah, I would say this comes with a range. This was the ﬁrst time really that we reﬂected
 diversiﬁcation in establishing our provision for adverse deviation. Our bias was to take the
 cautious to determine where that point was and very much in our historical reserving
 philosophy.
 
-Q - Meny Grauman
-
-{BIO 15238080 <GO>}
+Q - Meny Grauman {BIO 15238080 <GO>}
 
 Bloomberg Transcript
 
@@ -1291,31 +1117,19 @@ ratio, you talk about synergies as one area of improvement. I'm wondering, I'm n
 you've mentioned it before, but how much of that reduction speciﬁcally is tied to
 synergies? If you can quantify that.
 
-A - Louis Marcotte
-
-{BIO 18040440 <GO>}
-
+A - Louis Marcotte {BIO 18040440 <GO>}
 Sure. So I shared earlier the dollar amount of synergies we're aiming for at $25 million.
 Now what our improvement plan calls for is to -- which is a growth of [ph] about 2 points
 of combined ratio. But recall our entire plan with the three levers is aiming for 6 to 8
 points, which will go from the upper 90%s to the low 90%s.
 
-Q - Meny Grauman
-
-{BIO 15238080 <GO>}
-
+Q - Meny Grauman {BIO 15238080 <GO>}
 Thanks for that.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Two of which would be expense synergy, roughly. Pure expense, not claims. Just expense.
 
-A - Louis Marcotte
-
-{BIO 18040440 <GO>}
-
+A - Louis Marcotte {BIO 18040440 <GO>}
 Correct.
 
 Operator
@@ -1329,9 +1143,7 @@ Company Name: Intact Financial Corp
 Company Ticker: IFC CN Equity
 Date: 2017-11-08
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
+Q - Mario Mendonca {BIO 2450557 <GO>}
 
 FINAL
 
@@ -1346,10 +1158,7 @@ a lot more conﬁdent with telematics. It sort of trended down to almost zero no
 this be one of those occasions, short-lived that is, but one of those occasions where the
 written insured risks in personal auto sinks below zero?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Could be, yes. Yeah.
 I think, Mario, it's not just about rate. There is various digital experiences. We have a
 broad distribution strategy, but it could be below zero for a short period of time and we'd
@@ -1358,19 +1167,13 @@ point of view.
 
 Bloomberg Transcript
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 And then, just on telematics speciﬁcally, and I am certainly no expert in this. But, is it fair to
 say that telematics really hasn't lived up to all the hype? Speciﬁcally -- like, couldn't
 telematics have been somewhat helpful in giving you an earlier signal of what was
 happening?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 I think telematics -- I'll tell you, telematics has lived up to our expectations, quite frankly.
 First, the appetite for consumers to embrace telematics is higher than what we thought.
 Second, the loss ratio of customers who choose telematics after the discount is better
@@ -1393,10 +1196,7 @@ Company Name: Intact Financial Corp
 Company Ticker: IFC CN Equity
 Date: 2017-11-08
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 That's clear.
 
 FINAL
@@ -1405,10 +1205,7 @@ And then just ﬁnally, is there the political will to take another look at Onta
 regulatory perspective? Or do you believe that bullet's been ﬁred and it's all pricing from
 here?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 I think that the government has demonstrated, Mario, a lot of appetite since 2010 to
 improve the product, per se. And so, if I look backwards it's hard for me to question the
 will of the government, in Ontario. I wouldn't say the same thing in all jurisdictions, but
@@ -1430,20 +1227,14 @@ Operator
 And our next question comes from the line of Doug Young from Desjardins Capital
 Market. Your line is open.
 
-Q - Doug Young
-
-{BIO 5640851 <GO>}
-
+Q - Doug Young {BIO 5640851 <GO>}
 Good afternoon. On personal auto, there was CAD31 million negative prior reserve
 developments and curious how much of that related to the physical damage? How much
 related to the older ﬁle, more older ﬁles, so pre-2016, moving into the cat loss bucket?
 And it's the latter component that I'm more curious about, because that's a bump I think
 you had in Q2, and just trying to get a sense of where you stand with that issue.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yeah. So the bulk of the PYD is long-tail-natured claims and a non-negligible portion of
 that would indeed be cats. Cats, which have been trimmed, as far as I'm concerned, in the
 June 2016 reform, which we think are pretty good, at least based on what we observed so
@@ -1470,10 +1261,7 @@ increase in reserves in the quarter in long-tail lines automobile Insurance betw
 and case reserves, this is a number that is much bigger than that, which helps us with our
 conﬁdence of adequacy in that segment for these lines of business sitting here today.
 
-Q - Doug Young
-
-{BIO 5640851 <GO>}
-
+Q - Doug Young {BIO 5640851 <GO>}
 And so, Charles, just listening to you talk about this, I mean, we've seen some progressive
 deterioration in the personal auto prior-year reserve development over the last few
 quarters. I mean, as we go into 2018-19, do you think -- I mean, should we move back into
@@ -1481,9 +1269,7 @@ positive developments in personal auto?
 I mean, should we move back into positive developments in personal auto? I mean has
 this -- have these issues been dealt with, in your view?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 Bloomberg Transcript
 
@@ -1491,26 +1277,17 @@ Well, the reserves have gone up meaningfully. I think these issues have been dea
 And when I look progressively or prospectively, the reforms, in particular in Ontario, are
 meant to limit that sort of outcome to a greater extent, yes.
 
-Q - Doug Young
-
-{BIO 5640851 <GO>}
-
+Q - Doug Young {BIO 5640851 <GO>}
 Okay, great. Thank you.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Thanks, Doug.
 
 Operator
 And we now have reached the end of our Q&A. Time is over. I would like to turn the call
 back over to our presenters.
 
-A - Ken Anderson
-
-{BIO 19997596 <GO>}
-
+A - Ken Anderson {BIO 19997596 <GO>}
 Thank you all for joining us today. Following this call, a telephone replay will be available
 for one week and the webcast will be archived on our website for one year. A transcript
 will also be available on our website in the ﬁnancial reports and ﬁlings archive.

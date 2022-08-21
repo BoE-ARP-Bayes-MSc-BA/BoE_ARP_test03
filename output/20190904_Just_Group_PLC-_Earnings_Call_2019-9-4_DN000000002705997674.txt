@@ -22,10 +22,7 @@ Unidentified Participant
 Bloomberg Transcript
 
 Presentation
-David Richardson
-
-{BIO 18045016 <GO>}
-
+David Richardson {BIO 18045016 <GO>}
 Good morning, everybody, and welcome. And, I'm David Richardson, the interim CEO of
 Just Group plc, and I'd like to welcome all of you joining us here today, including those on
 the webcast. And I'd like to thank our host for this morning, Nomura.
@@ -619,10 +616,7 @@ front here. Obviously, a lot of new information today, there may well be a few q
 So if I could try and ask you to limit it to two questions. And the first one goes to Gordon.
 
 Questions And Answers
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Gordon Aitken from RBC. On the capital-light bulk new model, I mean you set things out,
 but I was just wondering when do you think you could do your first deal and if you'll also
 Page 12 of 22
@@ -646,26 +640,17 @@ CP7/19, but you didn't say -- set out any expected mortality gain. It's quite di
 maybe some of your larger peers who feel they don't need to flag the negative, but are
 very happy to flag the positive, and maybe what was the Board's thoughts there?
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 I missed the last bit of that question, Gordon. I think it's the microphone. But can you just --
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Well, you're very -- you set out all the negatives, you haven't set out, say, a positive, which
 might be a mortality release. But I mean your larger peers really did quite the opposite.
 They haven't set out the negatives, but have set out the positives.
 
 Bloomberg Transcript
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Okay. So, and what I'll do is I'll give you a little bit of an answer in each of those, and I'll
 invite Guy to come in on the no-NEG hedge as well as to why that does need to kind of
 wait for CP7/19.
@@ -724,10 +709,7 @@ And everyone's trying to work out how you allow for EVTs in your own funds and t
 transfer it through to SCR, which relates to our CP7/19 comment around SCRs. How do
 you adjust your internal model for all the changes that happened over the last few years.
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 And then your question around why are we giving, as it were, a forward estimate of the
 potential impact to CP7/19. And this is something we did debate, because as I said in my
 comments, it is our estimate, or more accurately what I'd describe it as it's the outcome
@@ -760,18 +742,13 @@ And I hope that by delivering this DB longevity reinsurance of GBP118 million, w
 than offsets the first step towards increasing the SCR, shows that those are credible
 actions.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Thanks.
 
 Q - Unidentified Participant
 (Technical Difficulty).
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
+A - David Richardson {BIO 18045016 <GO>}
 
 Bloomberg Transcript
 
@@ -810,9 +787,7 @@ Company N ame: Just Group PL C
 Company Ticker: JUST L N Equity
 Date: 2019-09-04
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
+Q - Oliver Steel {BIO 6068696 <GO>}
 
 FINAL
 
@@ -827,10 +802,7 @@ And I noticed that second half, there was a similar gap. So why is the premium a
 forward of the liability so much lower, because the new business strain on the higher
 figure is 5.7% but the new business strain on the lower figure is 6.8%?
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Okay. So on the first of those questions, yes [ph], and why is it not exactly the same as in
 the table? I can't, off the top of my head, think what might be in that other than maybe it
 might be some exceptional items. But that's a detail we can certainly get back to you on,
@@ -841,40 +813,22 @@ Bloomberg Transcript
 And the strain should be pretty mechanical. So the 5.7% times the new business
 premiums that we report in the RNS should get you to the GBP47 million.
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 (Technical Difficulty).
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Premium in the IFRS accounts?
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 (Technical Difficulty).
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 So rather than us wait -- so your --
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 (Technical Difficulty)
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Yeah, okay. Okay. So again, I think that's a detail we'll take offline. Maybe Guy might be
 able to work it out whilst we go onto the next question, but that's quite a detailed
 
@@ -890,10 +844,7 @@ question on the note. It's probably best to submit those offline. Alan?
 
 FINAL
 
-Q - Alan Devlin
-
-{BIO 5936254 <GO>}
-
+Q - Alan Devlin {BIO 5936254 <GO>}
 Thanks. Alan Devlin from Barclays. Two questions. First of all, on the -- I think you
 reiterated your sales guidance for sales to be in the H2 '18 run rate. Will the DB partnering
 scheme be additional sales above that or will you be replacing some of the existing DB
@@ -902,10 +853,7 @@ you've got a -- your last comment is no options excluded.
 Given you're writing business of mid-teens ROE, which is -- or IRR, which is well below your
 cost of equity, at what point do you think you'd take more radical actions? Thanks.
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Yeah. So in terms of DB volumes and will the partnering as it were, we certainly don't
 expect the partnering will cannibalize what we currently write at the moment because it's
 in a different target segment of the market. So it's focused on transactions over GBP250
@@ -952,10 +900,7 @@ not all going to go into liabilities, that's how you make a new business profit.
 second one is new business expenses. I haven't done a check if they would line up
 completely, but it feels roughly that it would.
 
-Q - Edina Rozinka
-
-{BIO 16575765 <GO>}
-
+Q - Edina Rozinka {BIO 16575765 <GO>}
 Edina Rozinka, Goldman Sachs. Can we just go back to your debt comment. Obviously,
 you mentioned that you are planning to repay and we know that your next call or bond
 which is coming up for call is the prime bond 9.5%. So just wondering if you have a
@@ -963,9 +908,7 @@ preference, given the Brexit, to get this refinanced sooner or later?
 Or you want to show the Q3 results with the progress which you outlined, and then
 perhaps come to the market on that?
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
+A - David Richardson {BIO 18045016 <GO>}
 
 Bloomberg Transcript
 
@@ -979,19 +922,13 @@ refinance with Brexit looming. So we'll take all those factors into the round as
 towards that stage. But -- and we've stated in our RNS, refinancing that bond is very much
 on our mind.
 
-Q - Nicholas Johnson
-
-{BIO 1774629 <GO>}
-
+Q - Nicholas Johnson {BIO 1774629 <GO>}
 Hi. Nick Johnson from Numis. On the reinsurance transactions that you've done, obviously
 they more than neutralize the GBP70 million capital charge in the pro forma number
 you've given. Could you say whether you see future reinsurance options being potentially
 greater or lesser than the GBP130 million that you flagged today? Thanks.
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Yes. So I don't say that's because some of our reinsurance partners are in the room, but
 reinsurance really is a wonderful tool because it can allow you to achieve a number of
 different outcomes and it allows you to take advantage of the different risk profiles and
@@ -1045,10 +982,7 @@ matching account. Could you just tell us what -- you've given us the IFRS headwi
 you give us what, in terms of EV per share, what the headwind is going to be for these
 post balance sheet things?
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 So on the requests note, we'll take those back. And I hope what you've seen today is a lot
 of additional disclosure and the focus of that has been very much on capital. And so
 hopefully that helps you understand what's going on in the business and with our number
@@ -1102,20 +1036,14 @@ parameters that matter. How they apply in stress matters. I'm not sure we'll hav
 of the story in September or October when they publish. I think we'll have a great insight,
 but I don't think we'll have the end of the insight.
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Thank you, Guy. And then your question I think, Greig, was along the lines of the DB
 reinsurance, how might it affect future metrics.
 
 Q - Greig Paterson
 (Technical Difficulty)
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 GBP48 million. GBP48 million. That's right. I think we've got time for one more. Andrew?
 
 Page 20 of 22
@@ -1126,9 +1054,7 @@ Company N ame: Just Group PL C
 Company Ticker: JUST L N Equity
 Date: 2019-09-04
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
+Q - Andrew Crean {BIO 16513202 <GO>}
 
 FINAL
 
@@ -1167,10 +1093,7 @@ And -- So look, thank you all very much for your time today. I take it from your
 questions that you're all very happy with our HUBs coming along and our underlying
 markets. But thank you, David, for joining us. And we're obviously available for any one-toone questions afterwards. But thank you for your time and support.
 
-A - David Richardson
-
-{BIO 18045016 <GO>}
-
+A - David Richardson {BIO 18045016 <GO>}
 Thank you.
 
 Page 21 of 22

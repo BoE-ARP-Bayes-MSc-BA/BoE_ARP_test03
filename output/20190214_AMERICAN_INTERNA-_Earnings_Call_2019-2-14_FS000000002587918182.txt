@@ -34,10 +34,7 @@ conference is being recorded.
 At this time I would like to turn the conference over to Ms. Liz Werner Head of Investor
 Relations. Please go ahead ma'am.
 
-Elizabeth A. Werner
-
-{BIO 1557593 <GO>}
-
+Elizabeth A. Werner {BIO 1557593 <GO>}
 Thank you, and good morning, everyone. Before we get started, I'd like to remind you
 that today's presentation may contain forward-looking statements which are based on
 management's current expectations and are subject to uncertainty and changes in
@@ -75,10 +72,7 @@ And with that I'd like to turn it over to Brian.
 
 Bloomberg Transcript
 
-Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+Brian Duperreault {BIO 1645891 <GO>}
 Good morning and thank you for joining us today. In addition to reviewing our 2018 fourth
 quarter and full year financial results I plan to spend a good part of my remarks reflecting
 on my first full year as CEO of AIG. Throughout 2018 we uncovered many issues and
@@ -254,10 +248,7 @@ at AIG, we have the right strategies in place and we will restore AIG as the lea
 insurance company in the world.
 I'll now turn the call over to Mark who will then be followed by Peter and Kevin.
 
-Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+Mark Donald Lyons {BIO 21746221 <GO>}
 Thank you, Brian, and good morning all. This morning I plan to go over the key financial
 impacts for the quarter as well as an actuarial discussion around prior year loss reserve
 
@@ -540,10 +531,7 @@ And with that, I'll turn the call over to Peter.
 
 FINAL
 
-Peter Zaffino
-
-{BIO 15942020 <GO>}
-
+Peter Zaffino {BIO 15942020 <GO>}
 Thank you, and good morning. Since Mark provided detailed financial information for
 General Insurance, I will expand on Brian's prepared remarks and highlight some of our
 more significant accomplishments in 2018. This will include insight on the progress we
@@ -728,10 +716,7 @@ Bloomberg Transcript
 
 With that I'll turn the call over to Kevin.
 
-Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+Kevin T. Hogan {BIO 4650423 <GO>}
 Thank you, Peter, and good morning everyone. As you can see on slide 12, Life and
 Retirement recorded full year adjusted ROE of 12.6%, consistent with our long-term
 expectations. The year-over-year change from the annual actuarial assumption update
@@ -878,9 +863,7 @@ most attractive opportunities as we reposition the portfolio and prepare to retu
 overall growth.
 Now, I would like to turn it back to Brian to open up to Q&A.
 
-Brian Duperreault
-
-{BIO 1645891 <GO>}
+Brian Duperreault {BIO 1645891 <GO>}
 
 Bloomberg Transcript
 
@@ -891,10 +874,7 @@ Q&A
 Operator
 Thank you. Our first question comes from Kai Pan with Morgan Stanley.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you and good morning. You guys have reaffirmed the guidance for 2019. I just want
 to make sure, like, including the underwriting probability in the first quarter 2019, from the
 98.8% underlying combined ratio, you need more than 3-point improvement, assuming a
@@ -902,17 +882,11 @@ to make sure, like, including the underwriting probability in the first quarter 
 bridge the gap, the 3-point improvement in one quarter. Is that mostly from expense
 savings or from the underlying loss ratio?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Well, I think it's going to come from a variety of sources. We thought you might ask this
 question. So Mark's going to answer, and Peter is probably on the supplement.
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 Yeah, we can tag team that. Hi, Kai.
 Page 17 of 33
 
@@ -922,18 +896,12 @@ Company N ame: American I nternational Group I nc
 Company Ticker: AI G US Equity
 Date: 2019-02-14
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Hi.
 
 FINAL
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 So let me address that in kind of two ways. A conceptual approach that you get it and a
 partial numerical approach. So, first off, if you look at how the book has changed and you
 look at some of the issues, all areas of the book have gotten a lot of focus. Now, North
@@ -997,15 +965,10 @@ just what we report, let's just say that's worth a point and there's no way it's
 But let's say it's a point, you're at 95.5%, so pick your CAT load, you want to pick four, you
 want pick three, you want to pick four and a half, we're there. So that's how I view it.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Peter, do you want to say anything about the expenses?
 
-A - Peter Zaffino
-
-{BIO 15942020 <GO>}
+A - Peter Zaffino {BIO 15942020 <GO>}
 
 Bloomberg Transcript
 
@@ -1026,10 +989,7 @@ that that will continue to not only sustain, but we're going to be focused on it
 the year. So, I think when you look at all those different components, you'd get to below
 100%.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 And I'm just – let me just add two things. One, Mark said, pick an AAL. The AALs, we
 haven't given you one, but one can assume they're not going up, they're down either –
 well, through a combination of efforts, reducing our gross and net risk, reducing
@@ -1054,19 +1014,13 @@ some stuff with larger per risk limit. So the volatility in the first quarter sh
 than the volatility by the end of the year. So, I mean, you got to just recognize that
 volatility thing is there. But I think Mark and Peter outlined why we've said entering 2019.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 That's very helpful. My follow up is on net invest income, the $13 billion annual run rate you
 guided to. What's the base assumption for market return in that $13 billion? I'm wondering
 what's the sensitivity around that. For example, this quarter market up 10%, how much is
 sort of better than that run rate you're going to realize in net investment income?
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 So I mean we're making assumptions consistent with what we made in the financial
 supplement last year. I mean to give you a sense of the volatility from a perspective of
 return on assets, I mean, we're managing $313 billion of assets. The volatility of net
@@ -1076,20 +1030,14 @@ volatility on assets.
 
 Bloomberg Transcript
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Like I said, that was Doug Dachille, our head of investments. Okay, next question – next
 questioner?
 
 Operator
 Thank you. And we'll take our next question from Josh Shanker with Deutsche Bank.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Good morning everyone. I fear all these questions are going to be about how to get to
 100%, but I'm going to also try and dovetail on Kai. In the quarter, we saw a big increase in
 the acquisition expense ratio offsetting the improvements you guys have made on the
@@ -1097,10 +1045,7 @@ GOE expenses. Going forward, where should we see the acquisitions since you're b
 more reinsurance and whatnot, that's taking up. Is that going to offset the improvements
 you're making on the operations in terms of people and proper allocation of expenses?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Well, I think let me start by saying, that increase in the acquisition expense was really
 related to Personal Insurance in particular, right? That book of business runs at a high
 combined ratio but 1% under a 100%. So it actually is added to the portfolio particularly
@@ -1122,19 +1067,13 @@ reason to believe we would get that down. And we will be working on the fact tha
 offset didn't happen because of the PCG loss ratio deterioration. So Peter, do you have
 anything you want to add anything to that?
 
-A - Peter Zaffino
-
-{BIO 15942020 <GO>}
-
+A - Peter Zaffino {BIO 15942020 <GO>}
 No, I think it's fair and we don't see acquisition expenses increasing in 2019. We just had,
 like you said, the ramp-up of shift in portfolio and then again having some tough
 comparables year-over-year and believe that will continue to focus on the GOE and don't
 expect to see expenses go up in acquisition.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Okay. And one related question, I guess, may be unrelated. You are not responsible for
 the decisions made by previous management team. But trying to understand what this
 go-big strategy meant. There was also a strategy called rapport, where they were trying
@@ -1147,10 +1086,7 @@ we can understand how it can improve.
 
 Bloomberg Transcript
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 You know, sometimes you can't explain things. I'm not sure I can. But let me try and
 answer this thing. So, look, I think there was a belief in the balance sheet – it starts with a
 belief in the balance sheet. And that's okay. We need a balance sheet. We need a balance
@@ -1167,10 +1103,7 @@ impossible. How much risk can you put into your reserve levels to try to recogni
 extreme volatility that might occur. So, look, I don't – all I know is, I wouldn't have done it
 and I know we're not doing it. That all I can say. Hope that helps.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Okay. Thanks, Brian, and good luck.
 
 Operator
@@ -1186,10 +1119,7 @@ We will take our next question from Elyse Greenspan with Wells Fargo.
 
 FINAL
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi. Good morning. My first question on so in response to Kai's question, Brian, I think you
 said that sometimes there are some volatility given some multi-year policies potentially in
 the first quarter. I just want to reaffirm that based on how you see your book running that
@@ -1199,10 +1129,7 @@ kind of current accident year adjustment that would have impacted the fourth qua
 chewing up earlier quarters? And can you let us know what Validus, if it was additive to
 margins in the fourth quarter?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Okay. Well, those are three different questions. You are good, Elyse. But anyway, let's me
 see if I can remember them all. Yes, I just put a little caveat at this volatility. But, yes, I'm
 reaffirming that we were entering 2019 expecting to make an underwriting profit including
@@ -1211,37 +1138,22 @@ were things that occurred in the fourth quarter. Mark, do you want to take that?
 
 Bloomberg Transcript
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 Yeah. I also applaud you, Elyse. That's like an SAT question, Part A through H. That was
 very good. So to the question about accident year 2018, were there any movements,
 there were some ups and downs, but the net was 30 basis points, basically $7 million for
 the whole year. So it's $20 million. So it's nothing to get excited about.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Yeah. And there was one other one, right?
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 Validus.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Validus.
 
-A - Peter Zaffino
-
-{BIO 15942020 <GO>}
-
+A - Peter Zaffino {BIO 15942020 <GO>}
 Hey, Elyse. This is Peter. It was – is it with or without CAT because if it's with CAT it was not
 accretive because the one – if you look at 2017, they are very good at how they buy
 reinsurance. But 2017, if you look at comparables was more active in the third quarter than
@@ -1257,33 +1169,22 @@ Company N ame: American I nternational Group I nc
 Company Ticker: AI G US Equity
 Date: 2019-02-14
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Right. Okay. Do you have a follow-up, series of questions, Elyse?
 
 FINAL
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Yeah, I mean, the one other thing that I think that stood out to me, Mark, maybe you can
 give a little bit more color. Peter, the International margins, I know you – maybe the yearover-year compare that they got better relative to the fourth quarter. They didn't get
 better relative to the third quarter. Did you guys see any one-off kind – were you guys on
 any large Property losses or something that might have impacted the numbers or was it
 seasonality that you're not necessarily comparing international Q4 to Q3?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Mark?
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 
 Bloomberg Transcript
 
@@ -1295,19 +1196,13 @@ to the full accident year of 2018 and the full accident year of 2017, they're ba
 images of each other. One was 65.2%, one was 65% even. So you're going to get pop, so
 sequentially I don't think it gives you any information content.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Okay. Next?
 
 Operator
 We'll take our next question from Yaron Kinar with Goldman Sachs.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Good morning, everybody. Mark, I thought your walk through mid-90s accident year
 combined ratio was very helpful. And I think I understand the math around the impact of
 rate improvement. But ultimately there must be some assumption around loss trends
@@ -1317,10 +1212,7 @@ you're assuming that the rate improvements are in excess of loss trends even in 
 where you're getting the rates clearly – those are lines that are also facing steeper loss
 trends?
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 Yeah, I think – yes, the answer is yes. But let me – I just want to emphasize something here
 and that is rate alone would not have improved this portfolio, okay, even if it was above
 the loss trend because the portfolio is a collection of risks you shouldn't be writing, you
@@ -1338,24 +1230,16 @@ thing to keep in mind. Anything else you want to ask, Yaron?
 
 FINAL
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Yes, I do. Actually, maybe shifting gears to the investment portfolio. So you guys have
 clearly spent a lot of time and effort to de-risk the liability portfolio, especially in general
 insurance. What are your thoughts around the investment portfolio today broadly and in
 General Insurance specifically?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Doug?
 
-A - Douglas Adam Dachille
-
-{BIO 6533554 <GO>}
+A - Douglas Adam Dachille {BIO 6533554 <GO>}
 
 Bloomberg Transcript
 
@@ -1380,22 +1264,13 @@ But the absolute holdings that we have and scale, we're very comfortable with. W
 continue to make ongoing re-balancings of how we allocate that risk bucket, but I think the
 size of it will continue on going forward.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Okay. Thank you.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Thank you.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Next question.
 
 Page 24 of 33
@@ -1411,10 +1286,7 @@ We'll take our next question from Erik Bass with Autonomous Research.
 
 FINAL
 
-Q - Erik James Bass
-
-{BIO 19920101 <GO>}
-
+Q - Erik James Bass {BIO 19920101 <GO>}
 Hi. Thank you. Two questions on Life and Retirement. First, can you talk about how much
 impact the markets had on DAC amortization in the fourth quarter? And then secondly,
 you've talked about expecting a couple basis points of core spread compression per
@@ -1422,9 +1294,7 @@ quarter. I think the decline was much greater this quarter due to higher crediti
 you mentioned some unusual items, but how should we think about the rate base level of
 this for 2019?
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 
 Bloomberg Transcript
 
@@ -1449,22 +1319,13 @@ markets were at the end of the year and where we believe interest rates are goin
 or where interest rates were we are still confident that that maximum negative spread
 compression of the 2 basis points to 2019.
 
-Q - Erik James Bass
-
-{BIO 19920101 <GO>}
-
+Q - Erik James Bass {BIO 19920101 <GO>}
 Thank you. That's helpful and then just -.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Thanks, Erik. Go ahead. Go ahead.
 
-Q - Erik James Bass
-
-{BIO 19920101 <GO>}
-
+Q - Erik James Bass {BIO 19920101 <GO>}
 Just want to clarify your guidance you talked about Life and Retirement earnings being flat
 in 2019. Just to be sure, that's off of the adjusted 2018 number you show in the
 Page 25 of 33
@@ -1477,32 +1338,21 @@ Date: 2019-02-14
 
 supplement? And then what are you assuming for the equity market return?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
+A - Brian Duperreault {BIO 1645891 <GO>}
 
 FINAL
 
 Kevin?
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Yes, that is correct. We are assuming that's comparable also on the ROE 2019 versus
 2018. In terms of equity markets we're assuming a modest improvement in the equity
 markets from where they were as of the end of year.
 
-Q - Erik James Bass
-
-{BIO 19920101 <GO>}
-
+Q - Erik James Bass {BIO 19920101 <GO>}
 Thank you.
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Okay.
 
 Operator
@@ -1510,10 +1360,7 @@ We'll take our next question from Andrew Kligerman with Credit Suisse.
 
 Bloomberg Transcript
 
-Q - Andrew Kligerman
-
-{BIO 1551668 <GO>}
-
+Q - Andrew Kligerman {BIO 1551668 <GO>}
 Hey, thank you for taking my question. First question goes to Mark. Last quarter on the call
 late November, you talked about how you had reviewed much of the book. And so no
 material red flags upon that material review. So Mark, I'm wondering I think you mentioned
@@ -1521,31 +1368,20 @@ a little earlier something about amortization. I'd like a little clarity on what
 subsequent to that November call? And what your confidence is with regard to prior year
 developments going into 2019?
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 Okay. So with respect to November, so when we look at for the fourth quarter effectively
 backwards, there's really no adjustments of note on anything prior reviewed. So as far as
 I'm concerned, those numbers are stable. We might see reallocations between couple
 lines. In the aggregate, nothing moved. So by end of November you're really talking about
 Goldman's December 5 conference, which I assume you're referring to, December 5...
 
-Q - Andrew Kligerman
-
-{BIO 1551668 <GO>}
-
+Q - Andrew Kligerman {BIO 1551668 <GO>}
 They didn't invite me.
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 Okay. Well, I am sure you...
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
+A - Brian Duperreault {BIO 1645891 <GO>}
 Page 26 of 33
 
 
@@ -1556,24 +1392,16 @@ Date: 2019-02-14
 
 You might have heard about it.
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 
 FINAL
 
 Yeah. You read a few things, sorry.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 It's an invitation...
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 But what's our responsibility as an insurer, it's setting reserves for all occurrences that
 have happened 12/31 and prior; and this was December 5. So you still had three weeks of
 losses to emerge. So at the time, everything was still in flight. But I'm not making any
@@ -1585,46 +1413,29 @@ pop. So once back to the reasonable range, we're comfortable with that. To your 
 about – well, I think that really was the net of your question is, how do we feel about
 things, how we've been for a whole cycle? I feel pretty good about it.
 
-Q - Andrew Kligerman
-
-{BIO 1551668 <GO>}
+Q - Andrew Kligerman {BIO 1551668 <GO>}
 
 Bloomberg Transcript
 
 On prior year development, yeah, that's what I mentioned...
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 Reserve adequacy.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Yeah.
 
-Q - Andrew Kligerman
-
-{BIO 1551668 <GO>}
-
+Q - Andrew Kligerman {BIO 1551668 <GO>}
 Yeah.
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 I mean, look, the confidence of the reserves starts with – let me say something. I mean
 confidence of the reserves starts with the confidence in the underwriting that's producing
 those reserves. So the more and more comfort we have about what we're doing as a
 company and the workaround, taken the volatility out to make the results more
 predictable, just adds to our confidence, okay.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 You want to ask something else, Andrew?
 Page 27 of 33
 
@@ -1636,10 +1447,7 @@ Date: 2019-02-14
 
 FINAL
 
-Q - Andrew Kligerman
-
-{BIO 1551668 <GO>}
-
+Q - Andrew Kligerman {BIO 1551668 <GO>}
 Yes, thank you. So I understand the business mix and the pricing increases. But what I'm
 not getting the math is, if I make an estimate of Validus and Glatfelter premium, I still see
 2019 over 2018 getting a premium increase. And even with the rate increases, which you
@@ -1650,15 +1458,10 @@ moving parts are that are going to get you this loss ratio improvement. So maybe
 could give me a little math on what's going away and what's coming in and still being able
 to maintain flat premium?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Peter?
 
-A - Peter Zaffino
-
-{BIO 15942020 <GO>}
+A - Peter Zaffino {BIO 15942020 <GO>}
 
 Bloomberg Transcript
 
@@ -1686,10 +1489,7 @@ So I know it's hard to do the math, but we believe that we have repositioned the
 with a better risk selection; and that will be reflected in the accident year loss ratios as we
 earn into 2019. Mark, do you want to add anything to that?
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 Yeah. Just the fact that I think what we said on last quarter's call that we don't need a hard
 market through this book. It comes back to the composition and what we're letting go if
 
@@ -1704,45 +1504,28 @@ Date: 2019-02-14
 we can't get rate structure that we want and what's coming in. And everybody focuses on
 price, I get it, because it's measurable and something you can compare.
 
-Q - Andrew Kligerman
-
-{BIO 1551668 <GO>}
+Q - Andrew Kligerman {BIO 1551668 <GO>}
 
 FINAL
 
 Yeah.
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 But the whole flow of business, the whole understanding of the CAT exposures, the
 whole structure prices last; and that's what we measure.
 
-Q - Andrew Kligerman
-
-{BIO 1551668 <GO>}
-
+Q - Andrew Kligerman {BIO 1551668 <GO>}
 And, Mark...
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Andrew, can I just – can I just give you an example. Andrew, let me just.
 
-Q - Andrew Kligerman
-
-{BIO 1551668 <GO>}
-
+Q - Andrew Kligerman {BIO 1551668 <GO>}
 Yeah, sure.
 
 Bloomberg Transcript
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 So you have a risk that comes in the door, right? And we've been writing it for some time,
 we've been attaching too low. So it's either a deductible or it's an excess placement.
 We've been attaching too low and we've been giving way too much limit at the top, okay?
@@ -1755,18 +1538,12 @@ first – let's just say risk selection was not peak. So you've got to trust us 
 telling you the premium got flat and we don't need a hard market to make this thing
 better as Mark said. Anything else you want to ask?
 
-Q - Andrew Kligerman
-
-{BIO 1551668 <GO>}
-
+Q - Andrew Kligerman {BIO 1551668 <GO>}
 I mean just very bluntly then, I mean, your strategy makes impeccable sense. Bluntly , it'd
 sound to me with these reinsurance issues and lower limits that at least 25% of your
 portfolio is turning over the good stuff in, the bad stuff out. Is that a good assessment?
 
-A - Mark Donald Lyons
-
-{BIO 21746221 <GO>}
-
+A - Mark Donald Lyons {BIO 21746221 <GO>}
 Some stuff is going, clearly. But we're not like getting wholesale out of the line of
 business. But what Brian said is key. You can stay. If we get a 100 risk, we could still stay on
 the 100 risk, but we – on a different size on the structure where the risk-reward trade-off
@@ -1782,32 +1559,22 @@ Date: 2019-02-14
 is better, 100% renewal retention on the account and the volume is down 33%, but it's a
 better loss ratio expectation. That's what you've got to internalize.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
+A - Brian Duperreault {BIO 1645891 <GO>}
 
 FINAL
 
 Exactly.
 
-Q - Andrew Kligerman
-
-{BIO 1551668 <GO>}
-
+Q - Andrew Kligerman {BIO 1551668 <GO>}
 Okay. Thank you.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Okay. Next question?
 
 Operator
 Our next question comes from Tom Gallagher with Evercore.
 
-Q - Thomas Gallagher
-
-{BIO 3311667 <GO>}
+Q - Thomas Gallagher {BIO 3311667 <GO>}
 
 Bloomberg Transcript
 
@@ -1822,10 +1589,7 @@ forward ROE. Does it mean near-term ROE is going to be more depressed, you're go
 to get more of a back-end loaded improvement, anyways pretty broad question there,
 but what are your thoughts?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Yes. So it is the process done. Well, as we described, Peter and I, that Tom Bolt's work
 with all our underwriters has been distributed. So we've set the tone of what we know to
 do, okay? So the strategy, yeah, I think the strategy is done. The implementation is being
@@ -1847,9 +1611,7 @@ Company N ame: American I nternational Group I nc
 Company Ticker: AI G US Equity
 Date: 2019-02-14
 
-Q - Thomas Gallagher
-
-{BIO 3311667 <GO>}
+Q - Thomas Gallagher {BIO 3311667 <GO>}
 
 FINAL
 
@@ -1859,10 +1621,7 @@ and I guess you're not giving specific guidance on that. Why not give specific g
 that? Because that's the one tangible thing we can point to to describe the actual
 earnings benefits from the risk reduction program?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Yeah. Well, first of all, the AAL is one measure, right? But it's not the only measure of risk,
 right? So you've got a lot of the risk kinds of measurements that you should deploy.
 Obviously, this AAL number is moving, it's moving, right? Obviously, it's moving for a lot of
@@ -1873,30 +1632,19 @@ number right now, getting better. So when we feel we've got a good number, I wou
 have any problem telling you what it is, so I'm not hung up about it. But I can tell you it's
 moving south. And it's not the only measure though.
 
-Q - Thomas Gallagher
-
-{BIO 3311667 <GO>}
-
+Q - Thomas Gallagher {BIO 3311667 <GO>}
 Got it. And...
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
+A - Brian Duperreault {BIO 1645891 <GO>}
 
 Bloomberg Transcript
 
 Yeah, yeah. So Mark wants to say something.
 
-Q - Thomas Gallagher
-
-{BIO 3311667 <GO>}
-
+Q - Thomas Gallagher {BIO 3311667 <GO>}
 Okay.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Tom, just one thing on your preface on that the AAL. AAL is explosive, the underlying risk
 associated with AAL, right. So it's just affecting your face. CAT occurs, earthquake occurs,
 front page of the journal, right, everybody can focus on it, that's why with CAT bounds
@@ -1907,16 +1655,10 @@ the past of the industry, that risk is simply deferred, but it's as big and real
 capital exposed as Property, but everybody gets a short shrift, but that's what you have to
 focus on and that's what Peter and his team has done.
 
-Q - Thomas Gallagher
-
-{BIO 3311667 <GO>}
-
+Q - Thomas Gallagher {BIO 3311667 <GO>}
 Okay. Thanks.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Okay. Next question. We're just about out of time. Let's take one more. Let's take Meyer.
 Meyer?
 Page 31 of 33
@@ -1930,41 +1672,27 @@ Date: 2019-02-14
 Operator
 We'll take our next question from Meyer Shields from KBW.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 FINAL
 
 Great. Okay. I am on. So one...
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 You are on, Meyer.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 I am great. So looking forward to 2020, if I can, is it fair to assume that the impact of
 multiyear P&C contracts and the expenses associated with 2019 Life and Retirement
 growth that both of those will be sources of improvement in 2020?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Well, certainly, the multiyear should have bled off by that, no question about that. I'll let
 like Kevin talk about the...
 
 Bloomberg Transcript
 
-A - Kevin T. Hogan
-
-{BIO 4650423 <GO>}
-
+A - Kevin T. Hogan {BIO 4650423 <GO>}
 Yeah, so, Meyer, on the expenses, I think, I mean, if you look year-over-year, right, 2018
 versus 2017, we had a reported increase in GOE of about $110 million. $40 million of which
 were one-time items in 2017 that helped 2017 and don't repeat. So, the expense increase
@@ -1977,23 +1705,14 @@ a part of that increase in GOE is related to new business. And so to the extent 
 business continues to grow then we're going to continue to see new business expenses
 associated with that growth.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay.
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Meyer, we'll take a follow-up if you have one and then I'm going to cut this off, so do you
 have anything else?
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Yeah, I do. Just looking within Casualty, is the mix of business between the four lines of
 business you report; Property, Special Risks, Liabilities, Financial Lines is that going to shift
 
@@ -2008,36 +1727,25 @@ Date: 2019-02-14
 dramatically when we take into account all of the things that have been done on gross
 and net writings?
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
+A - Brian Duperreault {BIO 1645891 <GO>}
 
 FINAL
 
 Yeah, Peter, do you want to do that?
 
-A - Peter Zaffino
-
-{BIO 15942020 <GO>}
-
+A - Peter Zaffino {BIO 15942020 <GO>}
 Yeah, thanks Meyer. Yeah, the portfolio will continue to shrink on a net premium earned
 basis because we just placed the 50% quota share of the first $25 million. And like
 property, we have been reducing the gross limits substantially, so that portfolio will
 continue to be recalibrated. And, again, you'll have the impact of the reinsurance in 2019
 and 2020.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Thanks.
 
 Bloomberg Transcript
 
-A - Brian Duperreault
-
-{BIO 1645891 <GO>}
-
+A - Brian Duperreault {BIO 1645891 <GO>}
 Okay. Let me just close here – thanks, Meyer. Let me just close here and first of all I want
 to thank you for participating on our extended call today and bearing with us. We had a lot
 that we wanted to talk about. I hope we gave you a good sense of the hard work we've

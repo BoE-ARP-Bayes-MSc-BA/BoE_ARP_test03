@@ -32,10 +32,7 @@ session.
 (Operator Instructions)
 Mr. Peter Hill, you may begin your presentation.
 
-Peter Hill
-
-{BIO 15385944 <GO>}
-
+Peter Hill {BIO 15385944 <GO>}
 Good morning, and thank you for joining our Second Quarter 2012 financial results
 conference call. Yesterday after the market closed we issued our quarterly release. If you
 didn't receive a copy, please call me at (212) 521-4800, and we'll make sure to provide
@@ -63,9 +60,7 @@ Neill Currie, Chief Executive Officer; Jeff Kelly, Executive Vice President and 
 Officer; and Kevin O'Donnell, Executive Vice President and Global Chief Underwriting
 Officer. I'd like to turn the call over to Neill. Neill?
 
-Neill Currie
-
-{BIO 6676681 <GO>}
+Neill Currie {BIO 6676681 <GO>}
 
 Bloomberg Transcript
 
@@ -220,10 +215,7 @@ Date: 2012-08-01
 
 FINAL
 
-Jeffrey Kelly
-
-{BIO 1390834 <GO>}
-
+Jeffrey Kelly {BIO 1390834 <GO>}
 Thanks Kevin and good morning everyone. I will cover our results for the Second Quarter
 and year-to-date, and then give you an update to our 2012 top line forecast. The Second
 Quarter was again a profitable one for RenaissanceRe, driven primarily by our relatively
@@ -372,10 +364,7 @@ maintaining our prior top line forecast for each of our segments. As a reminder,
 guidance is up 20% for managed CAT, up over 20% for specialty, and up 50% for Lloyd's.
 Thanks and with that I'll turn the call back to Neill.
 
-Neill Currie
-
-{BIO 6676681 <GO>}
-
+Neill Currie {BIO 6676681 <GO>}
 Okay thank you Jeff and Kevin. I will impart a little bit more information for the folks on the
 call. I broke our FRIPP principles or values, you may not know what those are, but they are
 Focus, Respect, Integrity, Precision and Passion. And I failed Number 4, I referred to Peter
@@ -397,18 +386,13 @@ FINAL
 (Operator Instructions)
 Mark Karmeski, Credit Suisse.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Hi. it's Mike Zaremski, thanks. In layman's terms, I'm hoping to clarify what exactly
 triggered the changes in reinstatement premiums and how that ties in with reserve
 changes? Was that triggered by downward loss estimates on 2011 CAT events, or was
 there a contract misinterpretation? If you could help with that.
 
-A - Jeffrey Kelly
-
-{BIO 1390834 <GO>}
+A - Jeffrey Kelly {BIO 1390834 <GO>}
 
 Bloomberg Transcript
 
@@ -462,17 +446,12 @@ And as soon as we have any new information or better estimates for those, they w
 reflected in that period. So it was mostly a function of the allocation among contracts,
 rather than a change in the overall loss for the events themselves.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Then to clarify, then was there adverse involvement on New Zealand? And positive
 development or lower development on Tohoku and the Thai events? Or was that noise
 related to the reinstatements?
 
-A - Jeffrey Kelly
-
-{BIO 1390834 <GO>}
+A - Jeffrey Kelly {BIO 1390834 <GO>}
 
 Bloomberg Transcript
 
@@ -480,35 +459,24 @@ No. There was a slight amount of favorable -- there was, I think, a little over 
 favorable development on the Tohoku quake. And I think it was just under $6 million
 adverse on the New Zealand quake.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay. Switching gears, would you be able to comment on the limits on your XOL US
 MPCI? I know some peers have said that the limits are fairly high relative to the premiums.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Hi, this as Neill, maybe I will take a crack at that. As Kevin indicated, some of that business
 is relatively low rate online business. So you have more exposure, they are higher layers.
 But put it in context, that is a $3 million premium item. We have over 100 $3 million or
 greater premium items on the reinsurance assumed book. So I wouldn't want to focus too
 much attention on this particular area.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay thank you. I will get back into the queue.
 
 Operator
 Sarah Dewitt, Barclays.
 
-Q - Sarah Dewitt
-
-{BIO 18946247 <GO>}
+Q - Sarah Dewitt {BIO 18946247 <GO>}
 Page 9 of 18
 
 
@@ -541,10 +509,7 @@ lot of that story that will be totaled over the next couple of months.
 
 Bloomberg Transcript
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Sarah, it's Neill. Add a couple things to what Kevin said. I think we will see how the financial
 crisis in Europe plays out. We saw over the last year, one very meaningful client decide to
 purchase more reinsurance because of the affect of their assets. So as a some people
@@ -553,23 +518,14 @@ which would create opportunities. And even though I said the RMS 11 was pretty w
 digested by the marketplace, there might be a few people that want to top up their
 programs. So those are other influences that may create opportunities.
 
-Q - Sarah Dewitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah Dewitt {BIO 18946247 <GO>}
 Okay. Could you be a bit more specific about what opportunities you are seeing in the
 US?
 
-A - Jeffrey Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey Kelly {BIO 1390834 <GO>}
 No ma'am.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Not to be trite, but we do see additional opportunity in there, may be people that want to
 top up their programs. Kevin, do you want to add anything?
 
@@ -589,19 +545,13 @@ Josh Shanker, Deutsche Bank.
 
 FINAL
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Good morning, everyone. Sorry to ask you more questions about the negative
 restatement, but would it be wrong to say that you had favorable development in areas
 of the business where you get a reinstatement premium, and you had unfavorable
 development areas of the business where you do not receive a reinstatement premium?
 
-A - Jeffrey Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey Kelly {BIO 1390834 <GO>}
 No I don't think it would be right to say that Josh. It is, specifically on the two events that I
 mentioned -- although the one event, the New Zealand quake from February of 2011
 actually had adverse development and negative reinstatement premiums. So if you had
@@ -617,10 +567,7 @@ For the Japan quake, we had favorable development there so you would expect to s
 negative reinstatement premiums there. But again, the reallocation of the IBNR to ACRs
 resulted in mostly, again, a mix effect there on the reinstatement premiums.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Josh, this is Neill, I cannot resist a way in. I think Jeff has done a very eloquent job
 explaining this. But picture this scenario. If some of these losses were in remote regions,
 say, New Zealand. Therefore a lot of the primary business is relatively low rate online,
@@ -631,10 +578,7 @@ differences in the rate online. Typically what would happen is you'd have one cl
 down and another client go up, roughly the same exposure limits, and we would not be
 talking about this.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 I think that is a good explanation. Given the new allocation in the reserves, a number of
 your competitors have started using some maybe called an RDE, which is a general pool
 for future losses. Are these losses that you have reallocated to? Are you comfortable that
@@ -659,10 +603,7 @@ level.
 
 FINAL
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Okay thank you. And I just wanted to say that I always appreciate the high-level of
 disclosure, especially on this, where your losses remain for those events. If you can do
 that in the future, it is always appreciated.
@@ -670,9 +611,7 @@ that in the future, it is always appreciated.
 Operator
 Josh Stirling, Sanford C. Bernstein
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
+Q - Josh Stirling {BIO 17463087 <GO>}
 
 Bloomberg Transcript
 
@@ -700,10 +639,7 @@ Tim Re III played a role in that ceded, but very much focused on the low end, th
 the ceded was a blend of things across the distribution as well as specific spots within the
 distribution.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Right. So to add to Kevin's comments, we would have written the business we put in Tim
 Re III ourselves. But by ceding that off to other investors, it, de facto, it gave us more
 vertical distribution in the Florida market than we had before. And I do think it is worth
@@ -719,10 +655,7 @@ Date: 2012-08-01
 
 FINAL
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 I will ask a follow-up. Given what you just said, this is almost a softball. But investors spend
 a lot of time talking about the impact of the capital markets, new capacity coming in,
 taking the edge off of pricing. Yet, you guys are big retro buyers, and I suspect that you
@@ -731,10 +664,7 @@ could comment on how you think the net-net, with perhaps lower peaks but more co
 parties with which to spread the risk, how we as shareholders should be thinking about
 the net benefit for RenRe? Thanks.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Well Josh, if there are any softballs being tossed, I get first crack. But I appreciate you
 raising -- it is quite true, sometimes people say -- Oh my goodness, there's competition
 out there. Well there is always competition out there, and we are in a very fortunate
@@ -758,19 +688,13 @@ and manage the basis risk that might exist between reinsurance and those collate
 products. So I see that yes there is a degree of competition is introduced, but it also
 creates an opportunity for us.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 Great thanks guys. Good luck this summer.
 
 Operator
 Michael Nannizzi, Goldman Sachs.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Thanks. Just a follow-up on that -- a different slice here, can you talk about these
 collateralized vehicles and where are you seeing the most competition to your own
 preferred slice of the market head to head? And how do you differentiate the capacity
@@ -799,9 +723,7 @@ and how we want to match that against our capital. We can start an Upsilon Re, w
 lots of different things to play in if we think there's a certain tranche of the market and
 that is providing attractive returns.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
+A - Neill Currie {BIO 6676681 <GO>}
 
 Bloomberg Transcript
 
@@ -814,10 +736,7 @@ cede business to somebody that may be there for the short term. So I think that 
 advantage to us by having multiple capital resources, and having a track record of being
 there for our clients for the long-term.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Thank you for those answers. Then one, on DaVinci, obviously the stake moved lower as
 you had some outside investors get involved. I'm guessing you sold a piece of your
 interest then didn't increase the size of the total size of DaVinci's capital base. How do
@@ -826,10 +745,7 @@ would like your stake to be, or where you would like it not to be outside of. Ho
 we think about that in whether or not you would choose to issue new paper or continue to
 sell down your own stake? Thanks.
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Good question. I won't answer it too specifically, but what we do is we have opportunities
 to introduce new partners into DaVinci, if we think they are good long-term partners, we
 will try to make room for them. And that is what happened in this case. So we would've
@@ -848,9 +764,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2012-08-01
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
+Q - Ian Gutterman {BIO 3106649 <GO>}
 
 FINAL
 
@@ -859,10 +773,7 @@ have one clarification left on it. The fact that as you allocate IBNR that there
 than you thought. Does that imply, then, there is still unused retro limit that could develop
 adversely the future?
 
-A - Jeffrey Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey Kelly {BIO 1390834 <GO>}
 Yes. This is Jeff. I think the answer to that is probably, but I think what we are saying here is
 that our assessment at this point is some of those contracts are not being hit, or not
 attaching related to the specific event. So I would not say that they have the potential to
@@ -870,18 +781,12 @@ develop adversely because of the way we allocated. As I did say, though, the one
 you should remember is that this allocation that we just made this quarter is based on
 what we know today. And we could learn more going forward that theoretically could -we could reallocate some of the loss to -- back to the retro accounts. But this is based -our allocation this time is based on what we know right now.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Okay, because that was what is getting at.
 
 Bloomberg Transcript
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Let me just add to that just briefly, to make sure there's not any misunderstanding.
 Because, once again Jeff did a good job, and he is technically correct is a good CFO
 should be. But when we take down reserves on an account, we're not going to take those
@@ -890,28 +795,19 @@ clients. That is what happens, we start off putting up the loss and then we get 
 information, as that information comes in, if we feel confident we can take that down then
 we will do it.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Okay. The reason I ask, you can probably guess, is one of the big New Zealand cedants,
 and I can't remember if you are on them or not, but they raised their estimates
 substantially again here. So I didn't know if that sort of thing would pose a risk if we saw
 that, or more of those?
 
-A - Jeffrey Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey Kelly {BIO 1390834 <GO>}
 The way our book is written, that -- those large adjustments by some of the big primary
 writers in these regions actually affect the retro as well. So we try to map it through the
 whole exposure set that we have, not just look at primary's up. And we look at it, if the
 primary's up, what impact is that likely to have on our retro writings as well.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Okay great. Then one other, and this, Jeff, might be a little complicated too, but I'm
 focused on Page 19 and 20 of the supplement where you do the reserve roll forwards.
 And I know I've asked this before, but I continue to be surprised at how little paid CAT
@@ -937,10 +833,7 @@ understand, is that something that can continue as that $700 million of losses w
 down? Or was this up front, and going forward gross will be net on your paids? It just
 surprised me how much of your gross pays were covered net this quarter.
 
-A - Jeffrey Kelly
-
-{BIO 1390834 <GO>}
-
+A - Jeffrey Kelly {BIO 1390834 <GO>}
 Well Ian, you are right. There was a lot of -- there were a lot of paid a losses combined
 with a lot of recoveries. And off the top of my head, I can't predict how those recoveries
 will flow through, except that I think if you look at the net recoverable on our balance
@@ -959,10 +852,7 @@ Quarter, which will trigger some payments for the excess of loss index based con
 Operator
 Vinay Misquith, Evercore.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Hi. The first question is on the investment income. You usually have a little bit of
 adjustment in that. Can you help me understand what that is for the fixed income
 securities, please?
@@ -971,10 +861,7 @@ A - Kevin O'Donnell
 Are you talking -- Vinay, are you talking about the fact that sometimes we have
 derivatives, mark to market, or realized gains and losses?
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Yes.
 
 A - Kevin O'Donnell
@@ -997,10 +884,7 @@ about $3 million of derivative losses. So on an -- it's basically absent the der
 and losses, which are primarily offset in unrealized gains and losses in the investment
 portfolio. That number was really pretty constant over the two quarters.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay that is fair. And what is the normal number that we should use for the derivative
 gains? Are they zero, or are they plus $1 million, minus $1 million? Just trying to get a sense
 of the run rate?
@@ -1030,10 +914,7 @@ want to think about how to look at that investment income number going forward. 
 the derivative income, or losses, really just offset in unrealized gains and losses on the
 investment securities.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay that's great. You guys have some great disclosure so it also would also be helpful if
 you just threw that line in somewhere so that could have a sense for the run rate. The
 second point, the second question was on Tim Re and Upsilon, curious about what your
@@ -1060,10 +941,7 @@ substantially, I think that we would exit some of that business and we would non
 Upsilon Re. If the market's about flat, I would anticipate that we would be very
 comfortable with the vehicle going forward.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 And if you could remind me, how much you kept net from both these vehicles, please,
 this year?
 
@@ -1078,10 +956,7 @@ At this time there no further questions.
 
 Bloomberg Transcript
 
-A - Neill Currie
-
-{BIO 6676681 <GO>}
-
+A - Neill Currie {BIO 6676681 <GO>}
 Terrific, good questions today. We'll look forward to speaking to everyone after hurricane
 season. Thank you very much.
 

@@ -27,19 +27,13 @@ Good day and welcome to the Muenchener Rueckver Q3 results 2020 Conference Call.
 Today's conference is being recorded. At this time, I would like to turn the conference
 over to Mr. Becker-Hussong. Please go ahead.
 
-Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Becker-Hussong {BIO 19080254 <GO>}
 Thank you, [ph] Sasco. Good morning, everyone. Thanks for joining us to Muenchener
 Rueckver Q3 2020 earnings call. I have the pleasure to be here in the room with
 Christoph Jurecka, our CFO and I will directly hand it over to him for his introductory
 remarks and then we can go into Q&A as always. Christoph, please.
 
-Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+Christoph Jurecka {BIO 17223019 <GO>}
 Thank you, Christian, and good morning from my side. The third quarter's financial
 development once again reflects good underlying performance in this very challenging
 times. As we've announced already further significant COVID-19-related losses as well as
@@ -156,10 +150,7 @@ of our strategy and new financial targets, which we will communicate at our Inve
 December. With that, I'm looking forward to answering your questions, and now I hand it
 back to Christian.
 
-Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Becker-Hussong {BIO 19080254 <GO>}
 Thank you, Christoph. We can then go right into Q&A, and as always, I would like to ask
 you to limit the number of your questions to a maximum of two per person. Please
 [ph]Sasco go ahead.
@@ -193,10 +184,7 @@ estimate in casualty? Thank you.
 
 Bloomberg Transcript
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah. Emmanuel. Thank you. First of all, outlook on rates, I think what we can say is that
 the environment continues to be very constructive for a number of reasons, including the
 elevated cat activity over the recent years, including also COVID-19 claims, including
@@ -233,10 +221,7 @@ Operator
 Thank you. We now move on to our next question from Vikram Gandhi from Societe
 Generale. Please go ahead.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 This is Vikram, Societe and thank you for taking my questions. First, is really on the
 quantification of exposures and claims. I remember that the first half results presentation,
 the Group has flagged that contingency claims was the biggest risk and we see that
@@ -252,10 +237,7 @@ please. Thank you.
 
 Bloomberg Transcript
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah, thank you Vikram. Yeah, first of all, contingency, how do we look at that? Obviously,
 we have an exposure which has been underwritten in the last couple of years, most of the
 policies are one-year policies, but there is exposure beyond that with some multi-year
@@ -276,9 +258,7 @@ events to be canceled or postponed or whatever happen to these events. So that's
 way we look at it. Exclusion of pandemic, your second question, pretty much across all
 lines of business.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Page 5 of 15
 
 
@@ -293,10 +273,7 @@ there for the future -- potential future claims is really my question.
 
 FINAL
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah. First of all, as I said, I mean there are some multi-year contracts, but also many of
 the majority is one-year contract, so the exposure will decrease over time. That's
 something where I can give you assurance already. But as I said also it's not gone in 2021,
@@ -311,41 +288,26 @@ more difficult to assess.
 So in that sense, I can only tell you, it will be shrinking over time the exposure, but as long
 as there is a second wave or potential third wave, we will continue to incur claims.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay. And the breakdown of EUR2.1 billion figure for the nine months?
 
 Bloomberg Transcript
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Well, as I mentioned already in the beginning, I cannot give you detailed figures, but the
 biggest number is contingency. The second biggest is property, which is BI and then other
 lines are smaller.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay, thank you.
 
-A - Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Becker-Hussong {BIO 19080254 <GO>}
 Thank you.
 
 Operator
 Thank you. Kamran Hossain from RBC has our next question. Please go ahead.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi, good morning. The first question is just on I guess total COVID reserves. I guess you
 kind of 85% IBNR in P&C. At this stage, is that kind of relatively easier points about -- kind
 of how few case reserves or how many kind of advice losses for this stage or is that
@@ -371,10 +333,7 @@ losses, I'm sure you have brought this number out, but if you assume that all ev
 canceled for this year, for 2020, that have not already been counted. What does the
 number look like? Is it smaller than Q3 or not? Thank you.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah. The first question, 85% IBNR supplies the normal. I think that's a very subjective
 question, so I can only -- I'll give you my personal thought and I cannot guarantee that
 there is not other people having other expectations and would be surprised by other
@@ -397,20 +356,14 @@ that's a twofold answer to your question. For this single year, I would expect l
 fourth quarter, but then there will be the need to set up reserves for 2021 already and
 there I would expect also a quite significant number.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 That's great, thanks very much.
 
 Operator
 Thank you. We now move on to Andrew Ritchie from Autonomous Research for our next
 question. Please go ahead.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi there, if I could change topics Christoph and take you back to your old job at ERGO,
 could you just give us a perspective on any impacts to earnings power and in particular,
 any sort of additional impact this year from increased said that are contributions at ERGO
@@ -433,10 +386,7 @@ albeit there aren't as many of those backing contingency as same property. So I'
 struggling to work out how resilient the AG profit should be this year relative to a sort of a
 heavy calendar year. Thanks.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah, Andrew, thank you for your questions. ERGO Life back book, first of all, I have to -- I
 think the headline would be that the life back book is profitable in the foreseeable future
 and largely immune to further distortions as we see from the low-interest rate phase. Why
@@ -469,10 +419,7 @@ Overall, I think it's too early to speak really about the year-end local GAAP re
 see anything holding us back from sticking to our capital management to achieve? No, not
 at all.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay, thanks.
 
 Operator
@@ -488,10 +435,7 @@ Date: 2020-11-05
 
 FINAL
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Hello, good morning to everyone. Two questions, both I think on ERGO, first of all the FX
 loss of around EUR100 million incurred, the majority of which is ERGO, can you explain
 where this FX loss has come from and the devaluation of the US dollar? And if I
@@ -500,9 +444,7 @@ lower interest rates? Second question, I did not see any figures regarding new b
 generation at ERGO Life in the third quarter? Can you tell us -- can you give us a little bit
 of sense of how new business generation even in the nine months, how it has worked?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
+A - Christoph Jurecka {BIO 17223019 <GO>}
 
 Bloomberg Transcript
 
@@ -524,16 +466,10 @@ in the United States. The point is that here I think the exposure management of 
 colleagues worked pretty well.
 The second question, was I think new business at ERGO.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Yes, Ergo Life and Health.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Ergo Life and Health specifically, ho sorry. I think overall what I can say is that we are happy
 with new business at ERGO. I would say it's across all lines of business, it's pretty stable
 compared to prior year despite COVID-19 and then there are certain ups and downs
@@ -560,9 +496,7 @@ FINAL
 We now move on to Vinit Malhotra from Mediobanca for our next question. Please go
 ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 Bloomberg Transcript
 
@@ -583,10 +517,7 @@ Australian positive comments was quite remarkable given we think some of your pe
 report how they were under pressure in Australia this quarter, if you could also comment
 that? Thank you.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah, Vinit. Thank you for the questions. First of all, realized gains, I think the general
 remark is we don't realize gains for increasing our earnings, so we only do that if there is a
 need to do so, either because we have to have to fund something on the liability side, so
@@ -618,19 +549,13 @@ we had a good quarter in Australia at this time.
 
 FINAL
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you.
 
 Operator
 Thank you. We move on to Thomas Fossard from HSBC. Please go ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes, good morning all. Two questions, the first one would be on Solvency II versus IFRS
 related to COVID-19 losses to the risk of restarted discussion of Q2, but could you refresh
 our mind on how your Solvency II ratio at Q3 is forward-looking in terms of taking into
@@ -643,10 +568,7 @@ And the second question would be related as well to the outlook for life and has
 offset from UK longevity, so could you help us to put some numbers behind, especially for
 2021 and how UK longevity could be an offset in the coming quarters. Thank you.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah. Okay. First, Solvency II versus IFRS, I start with life. On the life side, we did not set up
 an additional for Solvency II if you compared with IFRS, also looking into the future why
 didn't we do that, we have on top reserve which anyway easily covers potential
@@ -661,16 +583,10 @@ theoretically you would need to look a little bit more into the future because w
 highly confident that the reserve level we are having is in any case more than sufficient.
 Disability and mortality, wasn't that?
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yeah, longevity offset.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Page 11 of 15
 
 
@@ -691,19 +607,14 @@ downturn, higher unemployment rates, things like that, and then disability comes
 something we do not see yet, but obviously, that's a risk and that's why we wanted to
 mention that risk on our slide.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Thank you.
 
 Operator
 Thank you. We'll take another question from Ivan Bokhmat from Barclays. Please go
 ahead, your line is open.
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 
 Bloomberg Transcript
 
@@ -717,10 +628,7 @@ this run rate of EUR100 million of COVID provisions in the life and health book 
 the mortality experience. Is it therefore rational to expect it in the coming quarters until
 we have some form of resolution for the pandemic, either the vaccine or something else?
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Sure. So let's start with the second question. I think what we can see is that the
 development of our claims is pretty much following the reporting. You can also read in
 newspaper, it is very much focused on the US. So to some extent, of course, it's not
@@ -729,16 +637,10 @@ extrapolated in the future and then look at our claims numbers, I think you woul
 completely misled by doing that. Yeah, that's what I can say on mortality.
 Can you remind me of your first question, please?
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 It was on the frequency benefit in P&C.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah, so frequency (multiple speakers)
 Page 12 of 15
 
@@ -748,19 +650,13 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2020-11-05
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 Where do you see it -- in ERGO, where do you see it and in reinsurance, how do you
 account that?
 
 FINAL
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 In reinsurance, we don't see a lot, reason is that we have -- in many of our proportionately
 sliding scales, which means that the benefit of frequency -- the frequency of benefits we
 mean with the primary insurer. On ERGO side, we see some of these, but then you have
@@ -768,10 +664,7 @@ to look at them in the light of the COVID claims, ERGO also has -- so my overall
 commentary was COVID-19 insignificant at an ERGO level, which includes, on the onehand side COVID claims, on the other hand some offsetting benefits, also from the
 frequency side.
 
-Q - Ivan Bokhmat
-
-{BIO 15378004 <GO>}
-
+Q - Ivan Bokhmat {BIO 15378004 <GO>}
 Thank you.
 
 Operator
@@ -780,10 +673,7 @@ Please go ahead.
 
 Bloomberg Transcript
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hi, thank you for the opportunity. Just one from me, I'm much surprised that despite
 significant reserve buffers, the group never really utilizes them to smooth the P&L. I
 appreciate you don't want to really weaken, what is the essence of a strong balance
@@ -791,10 +681,7 @@ sheet, but I guess it would be a good messaging to the market, the management is
 willing to dampen the volatility were necessary. So perhaps a word on that topic would be
 helpful.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Well, I mean -- I think we could have a long debate about that. I mean is it good to
 maintain a strong balance sheet or is it better to do use it sometimes. I think either way
 you could be in favor of either of the two ways, so I mean -- I'm glad we agree that we
@@ -821,10 +708,7 @@ Research. Please go ahead.
 
 FINAL
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Either I'm connected to COVID, you would be glad to know or maybe distantly connected.
 There's been a lot of talk about increased cyber losses across the industry over 2020 and
 especially Q3 front losses in particular, given your sizable market position in cyber, it
@@ -832,10 +716,7 @@ doesn't appear to have affected your results, but can you give us any sense, so 
 you've observed that or whether it's called any issues in the profitability of your cyber
 book, that would be helpful. Thank you.
 
-A - Christoph Jurecka
-
-{BIO 17223019 <GO>}
-
+A - Christoph Jurecka {BIO 17223019 <GO>}
 Yeah. Well, thank you for the question. Yeah, I must say we hear that as well, but only in a
 sense, we hear it (inaudible) something, so we do not have any indication in our book of
 this development, neither on the primary side nor on the reinsurance side and you know
@@ -845,9 +726,7 @@ case should know it already if it would affect us. On the reinsurance side, ther
 potentially delays, so maybe there is something we don't see yet, but even if there was
 something, I think the profitability of our book overall would be fully intact.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
@@ -857,10 +736,7 @@ Operator
 Thank you. And that concludes today's question-and-answer session. I would now like to
 hand back over to Mr. Becker Hussong for any additional or closing remarks.
 
-A - Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Becker-Hussong {BIO 19080254 <GO>}
 Thank you very much. Nothing to add from my side. Thanks again for joining us. Happy to
 help with additional questions as always. Hope to see you or hear you at least all soon
 again at the latest at our Investor Day in early December, so very much looking forward to

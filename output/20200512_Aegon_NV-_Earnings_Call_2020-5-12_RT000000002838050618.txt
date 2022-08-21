@@ -28,10 +28,7 @@ Good day, and welcome to the Aegon Q1 2020 Results Conference Call. Today's
 conference is being recorded. At this time, I would like to turn the conference over to
 Mr.Weidema. Please go ahead, sir.
 
-Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+Jan Willem Weidema {BIO 15133400 <GO>}
 Thank you. Good morning everyone and thank you for joining this conference call
 regarding Aegon's first quarter 2020 update. We would appreciate it if you could take a
 moment to review our disclaimer on forward-looking statements, which you can find at
@@ -41,10 +38,7 @@ position for the first quarter of 2020. At the end of the presentation, we will 
 leave more than sufficient time for your questions.
 I now hand it over to Matt.
 
-Matt Rider
-
-{BIO 20002664 <GO>}
-
+Matt Rider {BIO 20002664 <GO>}
 Thanks Jan Willem and good morning everyone. Thank you all for your continued interest
 in Aegon and for joining us on today's call. Due to the unprecedented situation caused by
 Page 1 of 20
@@ -384,8 +378,7 @@ FINAL
 Thank you, sir. (Operator Instructions) We will now take our first question from Farooq
 Hanif from Credit Suisse. Please go ahead.
 
-Q - Farooq Hanif
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, there. Good morning, everybody. Just firstly, on the U.S. capital position. Clearly, it's
 recovered in April, but there are headwinds from potential downgrade, impairments, et
 cetera? At what level of capital position, would you be worried about being able to remit
@@ -397,14 +390,9 @@ subsidiaries? And would you consider -- I mean are you considering using that ex
 surplus capital to inject back into the subsidiaries? And then lastly, on sales impact. Could
 you give an early read on what's happening in 2Q? Thank you.
 
-A - Matt Rider
-
 Bloomberg Transcript
 
-{BIO 4780978 <GO>}
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 Thanks for your questions, Farooq. I would just -- so on the U.S. capital position, I would
 just remind you that according to our own capital management policy, as long as the U.S.
 RBC ratio would be above 350%, then it would be expected to remit its normal planned
@@ -448,19 +436,14 @@ management as well, have adapted their business models to more digital interacti
 with customers. But there are -- there's no way to avoid it. There are going to be negative
 impacts on sales, and it's mainly going to come from normally face-to-face type of sales.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Great. Thanks.
 
 Operator
 We will now take our next question from Robin van den Broek from Mediobanca Bank.
 Please go ahead.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
+Q - Robin van den Broek {BIO 17002948 <GO>}
 
 Bloomberg Transcript
 
@@ -487,10 +470,7 @@ basis points rather than 2% at the beginning of the year. And is there any knock
 from changing the long-term interest rate assumption for PDR testing within your
 framework? Sorry to ask that many questions by the way.
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 No. That's okay. We kept tracking them. So maybe -- so first of all, on the pro forma RBC
 ratio for the U.S., we did say that the U.S. RBC ratio at the end of April had improved
 somewhat given tightening credit spreads and the improved equity markets. So we think
@@ -549,10 +529,7 @@ sufficiency of about $250 million at the end of 2019. We're already pretty decen
 covered by those forward starting swaps, but on that level of detail, I'm going to have to
 get IR to get back.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Page 10 of 20
 
 
@@ -566,10 +543,7 @@ H1 social review?
 
 FINAL
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 No. We're just going to have to look -- we're just going to have to continue to work
 through our processes. What we've seen so far. And I think I've talked about this in other
 quarters. But for example, like the long-term care assumption seems to be tracking well
@@ -577,10 +551,7 @@ with respect to our expectations. We did -- you've noticed the poor mortality re
 we had in the U.S. for the first quarter. It was really isolated in the month of March. So it's -by the way, that wouldn't even be taken into account into our experience review. There's
 a bit of a lag. But we'll have to see how that one evolves over time.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -589,10 +560,7 @@ ahead.
 
 Bloomberg Transcript
 
-Q - Fulin Liang
-
-{BIO 21126177 <GO>}
-
+Q - Fulin Liang {BIO 21126177 <GO>}
 Hi. Thank you for taking my questions. I think my first question is about the U.S. RBC ratio
 because I did a calculation based on the sensitivity you provided. So I had expected about
 14 percentage points for due to interest rates and about 22% for due to equity and then
@@ -612,10 +580,7 @@ And lastly is about impairment. So in first quarter, your impairment is slightly
 which -- but given what you've seen in April, do you think actually this amount will go at a
 much higher? Thank you.
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 Okay. Fulin, thank you for your questions. It's nice to hear your voice after the Morgan
 Stanley conference. So it's probably an appropriate place to start because at that
 
@@ -699,10 +664,7 @@ there's not -- there's still not been so much -- again, so much credit migration
 defaults yet. But again, much too early to tell, this is going to take quite some time to play
 through the credit markets.
 
-Q - Fulin Liang
-
-{BIO 21126177 <GO>}
-
+Q - Fulin Liang {BIO 21126177 <GO>}
 Thank you very much.
 
 Operator
@@ -712,10 +674,7 @@ Bloomberg Transcript
 We will now take our next question from Nick Holmes from Societe Generale. Please go
 ahead.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hi guys. Thank you very much. Just a couple of questions. The first is with the variable
 annuity book, are you worried about an increase in the cost of hedging if markets remain
 volatile, which is probably quite likely? And secondly, with the RBC ratio, it's really the
@@ -723,10 +682,7 @@ same question. How vulnerable is that ratio to an increase in variable annuity h
 If markets do remain volatile, and we see a lot of the sort of movements that have, as you
 were explaining in your last question, actually caused unexpected losses to the ratio.
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 Thanks for your question, Nick. So just a reminder, this is a 1 quarter -- or first quarter
 trading update. So we haven't gone into a lot of the detail that we would normally do for a
 results release, so I don't have an update on expected hedging costs. What I can say
@@ -760,10 +716,7 @@ that's perfectly good. They performed extremely well in the first quarter and ha
 continued to do so as we've gone through the month of April. And frankly, that's in a very
 volatile environment. That was a terrific result.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Great. Just a very quick follow-up. I think a lot of your competitors are using just dynamic
 hedging rather than a macro hedge. Is that something that you would say is correct? I
 mean you're using both macro and dynamic. Is that unusual, would you say, in the
@@ -771,10 +724,7 @@ industry?
 
 Bloomberg Transcript
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 You -- there -- how do you want to say it, there are many ways to skin a cat, and you're
 trying to hedge basically the same risk. I mean really the macro hedge, and I think you
 know this well relates mainly to variable annuity exposure. People do it in dynamic
@@ -788,19 +738,13 @@ at doing that. But at this moment in time, I think I mentioned in my presentatio
 go to more linear instruments, so it will be more like a dynamic program that other
 companies might use. I hope that answers your question.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Yeah. Great. Thanks very much, Matt.
 
 Operator
 We will now take our next question from Albert Ploegh from ING. Please go ahead.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Yes. Good morning all and thank you for the questions. I've got three. Basically, the first
 one on the U.S. mortality. You alluded in the presentation, it was not very much linked to
 COVID-19 in the first quarter, so more seasonal and clearly bigger than normal. But can
@@ -829,9 +773,7 @@ clearly will be more complicated in the second quarter. Do you see any risk to c
 assumptions underlying sales volumes, if I recall correctly, that, that was an issue in the
 latter half of last year. Thank you.
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
+A - Matt Rider {BIO 20002664 <GO>}
 
 Bloomberg Transcript
 
@@ -885,10 +827,7 @@ update our expense assumptions in the first half of the year. But my expectation
 you would never -- yes, you would never base your long-term assumptions in a very
 strange environment, such as what we're in now.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Thank you, Matt.
 
 Operator
@@ -897,10 +836,7 @@ ahead.
 
 Bloomberg Transcript
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Hey. Good morning. Just three questions, if I may. Just the first question, you said that
 your RBC ratio has gone from -- to about 390% to 400%, but the group's solvency ratio
 has gone to about 190% to 200%. So is it fair to assume that the negative movement has
@@ -915,10 +851,7 @@ And the third question is in the Netherlands business, is the regulator stopping
 remitting from the Dutch entity to the holding company? Or can you still remit from the
 Dutch entity to the holding company? Thank you.
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 Yes. So maybe on the first one, Johnny, so you have it exactly right. So we would -- we see
 the improvement. So for April, we see that improvement in the U.S. RBC ratio, but EIOPA
 VA has come back now for the Netherlands. So, excuse me, so that one is, we would think
@@ -950,10 +883,7 @@ intergroup dividends, but other regulators could potentially have concerns about
 it's -- by the way, it's a pretty broad spectrum of approaches. It's a little bit -- I would say, a
 little bit unhelpful not to get a unified approach from EIOPA.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Okay. Thank you.
 
 Operator
@@ -963,10 +893,7 @@ Bloomberg Transcript
 We will now take our next question from David Motemaden from Evercore. Please go
 ahead.
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
-
+Q - David Motemaden {BIO 18818634 <GO>}
 Good morning. Matt, I had a few questions on the U.S. First, just some of your peers in the
 U.S. have provided some level of sensitivity to COVID deaths in the population, for
 example, if there are 100,000 COVID deaths in the U.S., what sort of impact that would
@@ -979,10 +906,7 @@ follow-up on the LTC book, where the competitor in Maine, it was, I guess, a fin
 exam that they went through. And I guess I'm just wondering when was the last time TLIC
 underwent a financial exam in Iowa. Thank you.
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 Okay. Thanks for your question. So on the potential impact of COVID-19 deaths, yes,
 we're doing some internal scenario testing on this one. But at this point, we're not giving
 any guidance to the market.
@@ -1007,24 +931,15 @@ It will have a beneficial impact on the, say, cash flow testing adequacy results
 unrelated to the sale of the pyramid. So this is one that will definitely -- this is one that will
 definitely go through. I don't have in front of me an impact on the ratio for this one.
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
-
+Q - David Motemaden {BIO 18818634 <GO>}
 Great. And if I could just follow-up on the financial exam in Iowa. So that's just started. Is
 there any sense for when that will conclude?
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
-
+A - Matt Rider {BIO 20002664 <GO>}
 These things take a while. I'm not -- I'm going to let IR come back to you, but it's going to
 be something like -- these are like year exams.
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
-
+Q - David Motemaden {BIO 18818634 <GO>}
 Yep, understood. Thank you.
 
 Bloomberg Transcript
@@ -1033,10 +948,7 @@ Operator
 We will now take our next question from Benoit Petrarque from Kepler Cheuvreux. Please
 go ahead.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Yes, good morning all. Two questions on my side. So the first one will be on the U.S.
 solvency ratio. I'm going to think a bit worse case there. But in an event, you will kind of
 get close or eat the 350% level. I was wondering how we have to think about remittances.
@@ -1052,9 +964,7 @@ just because of the kind of big elephant in the room, which is rating migration 
 taking place, by the way, early next year. So just wondering how you plan to take that into
 account in your capital planning? Thank you.
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
+A - Matt Rider {BIO 20002664 <GO>}
 Page 18 of 20
 
 
@@ -1098,26 +1008,18 @@ we entered into the crisis with the balance sheet. To begin with, we already had
 these capital management actions teed up like the TLIC/TPLIC merger. But yes, I would
 say it really is too early to -- it really is too early to tell.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Okay. Thank you very much.
 
 Operator
 We will now take our next question from Andrew Baker from Citi. Please go ahead.
 
-Q - Andrew Baker
-
-{BIO 3694545 <GO>}
-
+Q - Andrew Baker {BIO 3694545 <GO>}
 Hi guys. Thanks for taking my question. Just one quick one last from me. Has there been
 any impact on the TCS project migrations or timing or costs associated with that project?
 Have you seen any operational issues since the crisis has begun with TCS specifically?
 
-A - Matt Rider
-
-{BIO 20002664 <GO>}
+A - Matt Rider {BIO 20002664 <GO>}
 Page 19 of 20
 
 
@@ -1144,9 +1046,7 @@ Operator
 That concludes today's question-and-answer session. I'd like to turn the conference back
 to the host for any additional or closing remarks.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 
 Bloomberg Transcript
 

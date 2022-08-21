@@ -52,10 +52,7 @@ Date: 2015-02-11
 
 FINAL
 
-Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+Odd Arild Grefstad {BIO 5483351 <GO>}
 Thank you, Kjetil, and welcome, everyone, to the presentation. The results of Storebrand
 is strong, totaling NOK923 million for the quarter and NOK3.032 billion for the year. The
 results are aﬀected by some special items, which Lars will comment on in more detail. The
@@ -330,9 +327,7 @@ Operator
 [Operator Instruction] The ﬁrst question comes from Daniel Do-Thoi from JPMorgan.
 Please go ahead, your line is now open.
 
-Q - Daniel A. Do-Thoi
-
-{BIO 17019775 <GO>}
+Q - Daniel A. Do-Thoi {BIO 17019775 <GO>}
 
 Bloomberg Transcript
 
@@ -348,10 +343,7 @@ just wondering how we should think about the net impact going forward, i.e., are
 any other oﬀsetting measures or internal measures that you can take to reduce this gross
 20 percentage point impact for every 50 basis points? Thank you.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Thank you. Try to comment on this and also, of course, we'll use some of the rounding
 here (0:23:13). Starting with the solvency numbers; I think it's quite evenly on these four
 diﬀerent elements that I have spread out, that's up to around 20%. We have been able to
@@ -417,9 +409,7 @@ the guaranteed products and the capital build-up from the non-guaranteed product
 these are some of the measures that – and we will look at other things as well in terms of
 fully coordinating our models with the ﬁnal Solvency II requirements, et cetera.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Page 8 of 18
 
 
@@ -452,37 +442,25 @@ sensitivities will be registered also for the headline number.
 
 Bloomberg Transcript
 
-Q - Daniel A. Do-Thoi
-
-{BIO 17019775 <GO>}
-
+Q - Daniel A. Do-Thoi {BIO 17019775 <GO>}
 Okay. But just a follow up, I guess I was just wondering, if over the course of the quarter
 we see another 50 basis point decline in interest rates, I understand that the ratio with
 transitional rules would remain broadly unchanged, but the line (0:30:08) would come
 down by roughly that sensitivity, so 20 percentage points?
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Everything equal, it will come down with that sensitivity. But as we have shown this
 quarter, of course, we will perform a lot of measures also going forward that will – where
 we will try to mitigate such movement in the interest rates.
 
-Q - Daniel A. Do-Thoi
-
-{BIO 17019775 <GO>}
-
+Q - Daniel A. Do-Thoi {BIO 17019775 <GO>}
 Okay. Understood. All right. Thank you very much.
 
 Operator
 The next question comes from Matti Ahokas from the Danske Bank. Please go ahead. your
 line is now open.
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
-
+Q - Matti Ahokas {BIO 2037723 <GO>}
 Yes. Good afternoon. Three questions, if I may? Firstly, just technically, the paid-up
 policies with investment choice, they're now booked, I guess, under unit-linked Norway, is
 that correct? And then, there was an NOK4.2 billion increase in unit-linked Sweden on the
@@ -518,10 +496,7 @@ reinvestment.
 
 Bloomberg Transcript
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 It's also our portfolio that is declining, not increasing, so that is also an element,
 altogether with the total guarantees book of business. When it comes to the assumption,
 when it comes to return to build up this 4.2%, 4.1% return, it's very much based on heldto-maturity bond portfolio. That's typically 50% to 60% we assume out of this portfolio.
@@ -537,16 +512,10 @@ secure return that we have added on as expected return going forward.
 A - Lars Aasulv Løddesøl
 And it's based on current interest rates also going forward.
 
-A - Matti Ahokas
-
-{BIO 2037723 <GO>}
-
+A - Matti Ahokas {BIO 2037723 <GO>}
 Yes.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 So, Matti, basically looking at the actual yield in the diﬀerent portfolios and the bonds that
 amortized closely is stable. And stable portfolio is a duration of some six-and-a-half years.
 
@@ -563,25 +532,16 @@ level.
 
 FINAL
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
-
+Q - Matti Ahokas {BIO 2037723 <GO>}
 So, basically, the portfolio, currently, I remember, was it 4.8% was the – was the held-tomaturity portfolio running yield, and this is basically based on the redemption of that
 portfolio?
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Yes. Because it's based on the chart; based on both the redemption on that portfolio, it is
 also – it's also based on the issuance of new paid-up policies, which we reinvest at the
 current yield curve.
 
-Q - Matti Ahokas
-
-{BIO 2037723 <GO>}
-
+Q - Matti Ahokas {BIO 2037723 <GO>}
 Great. Thanks a lot.
 
 Operator
@@ -590,10 +550,7 @@ your line is now open.
 
 Bloomberg Transcript
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David T. Andrich {BIO 15414075 <GO>}
 Hi. Good afternoon. Thank you for taking my questions. I was just wondering, in terms of
 the internal measures you implemented to help keep Solvency II stable on a look-through
 basis, so without the transition rules quarter-over-quarter, I was just wondering how far
@@ -604,10 +561,7 @@ And then second of all, I was wondering, in terms of the higher incidence of dis
 the quarter, is that coming through mainly kind of on the DC side, or on the DB side, or
 pretty even between the two? Thank you.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 We have a toolbox of available tools to strength Solvency II. And there is – there are
 uncertainties still related to the ﬁnal outcome of how the rules will ﬁnally be set. And the
 eﬀect of – or how many tools to use in the toolbox depends on the interest rate level and
@@ -636,19 +590,14 @@ Swedish and Norwegian unit-linked portfolios. And it's not like it's a huge di�
 margins in this business are thin. So therefore, when you see an increase in disability, and,
 at the same time, we're strengthening some reserves, it does impact the quarterly results.
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David T. Andrich {BIO 15414075 <GO>}
 All right. Thank you very much.
 
 Operator
 The next question comes from Blair Stewart from Bank of America Merrill Lynch. Please go
 ahead. Your line is now open.
 
-Q - Blair T. Stewart
-
-{BIO 4191309 <GO>}
+Q - Blair T. Stewart {BIO 4191309 <GO>}
 
 Bloomberg Transcript
 
@@ -667,10 +616,7 @@ at 1.7 plus a normal risk premium. I guess plus some real estate, et cetera, are
 get the new money yield up above 2.5% to possibly 3% at the moment, or is that too high
 in this market? Thank you.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Okay. Let's start with the transfers. And yes, we have the target of NOK5 billion as we see
 it now. Around 3% of the assets that's been moved we need to top up with the long life
 resource. So that gives you the number, you saw NOK30 million and around NOK1 billion
@@ -715,10 +661,7 @@ Bloomberg Transcript
 And in terms of reinvestment hurdles (0:42:04), I can conﬁrm that between 2.5% and 3%
 is a reasonable reinvestment level at this stage.
 
-Q - Blair T. Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair T. Stewart {BIO 4191309 <GO>}
 Okay. Thank you. Just coming back on the paid-up book, would you still expect the net –
 net-net for the book to continue to increase over the next coming years? Because whilst
 you're transferring out, of course, there's further transfers in from the closure of active DB
@@ -731,10 +674,7 @@ there is a big uncertainty here relating to when transfers happened for deﬁned
 and also how fast people move in to paid-up policies with investment choice. So, it could
 be bigger and it could be smaller but I think that is the best guess for the three to ﬁveyear period. I don't know if any of you...
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 I also want to say that, that (0:43:22) taking into account (0:43:26) numbers. So, that is
 what we have put into our models. If we are to succeed with even a higher person into
 paid-up policies with investment choice or keep the assets longer in DB schemes that will
@@ -752,9 +692,7 @@ Date: 2015-02-11
 Yes. If you look in the supplementary information, you see that the balance of paid-up
 policies increased by NOK12 million last year from NOK80 million to NOK92 million...
 
-Q - Blair T. Stewart
-
-{BIO 4191309 <GO>}
+Q - Blair T. Stewart {BIO 4191309 <GO>}
 
 FINAL
 
@@ -764,10 +702,7 @@ A - Lars Aasulv Løddesøl
 ...that is probably as far as we can see, the largest increase in one year. But there will still
 be an increase in the next couple of years, but it will be decreasing in size.
 
-Q - Blair T. Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair T. Stewart {BIO 4191309 <GO>}
 Yes. Okay. Thank you.
 
 Operator
@@ -776,10 +711,7 @@ now open.
 
 Bloomberg Transcript
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Yes. Hello and thank you very much for taking my questions today. I just have two. The
 ﬁrst one is from this indirect charge where you used the risk result now rather than the
 equalization fund, and you have NOK98 million for this year. Is this a good number where
@@ -790,10 +722,7 @@ And the second question is on the solvency. Basically, if you could give us a ki
 idea of the measures we have taken, whether these have impacted the required capital
 side or the available capital side. Thank you very much.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Okay. I can start with the ﬁrst question about the risk equalization fund. For 2014, we spent
 NOK98 million (45:24) that in – we used as – which is the longevity reserves. And we
 expect that number to decrease going on. What you also can say is that when the contract
@@ -824,19 +753,14 @@ available capital and it reduces required capital. So, it's a balanced answer to
 question. I don't want to go into a lot of detail on that. It becomes extremely complicated
 to do on a phone call.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Okay. Understood. Thank you very much.
 
 Operator
 The next question comes from Gianandrea Roberti from Carnegie. Please go ahead. Your
 line is now open.
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 
 Bloomberg Transcript
 
@@ -856,10 +780,7 @@ the right assumption. In conversation that I had today, I don't know any more wh
 right assumption. Can you spend some more in trying to tell us how do you see this point,
 which, I guess, is quite important? Thanks a lot.
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Okay. Well, I think we have answered already on how we are building buﬀer capital. We
 are focusing on doing that every day, and that has been the main focus throughout fourth
 quarter. And have put emphasis on that rather than building short-term IFRS result. We
@@ -867,16 +788,10 @@ will continue to do that. I think both me and Lars has given you some examples o
 are working with, and we are very dedicated of doing that also going forward, even if the
 interest rates falls or rises as such. Okay, so...
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 That's not easy (0:49:32).
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Page 15 of 18
 
 
@@ -916,19 +831,13 @@ at that. And that will be forward-looking. It will be based on buﬀer capital s
 interest rates and everything. But the number that will measure us around is the headline
 solvency ratio of 148, as we speak.
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 Just one follow up on this, what happens if your solvency ratio excluding transitional rules
 fall to 90%, as an example, at the end of 2015, just to make the hypothesis here, right?
 How do you see that situation where one ratio it's well above what you are targeting and
 the other one is at 90%? How do we need to think about this?
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
-
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 Well, of course, a regulatory number is the headline number. That is what is put forward
 and that is what is needed and, henceforward, make sure that we have the right transition,
 16 years period into Solvency II. And that is what is really the regulatory framework that we
@@ -946,10 +855,7 @@ Company Name: Storebrand ASA
 Company Ticker: STB NO Equity
 Date: 2015-02-11
 
-Q - Gianandrea Roberti
-
-{BIO 6786731 <GO>}
-
+Q - Gianandrea Roberti {BIO 6786731 <GO>}
 Okay. Thanks a lot. I appreciate that.
 
 FINAL
@@ -958,10 +864,7 @@ Operator
 The last question for today comes from Daniel Do-Thoi from JPMorgan. Please go ahead.
 Your line is now open.
 
-Q - Daniel A. Do-Thoi
-
-{BIO 17019775 <GO>}
-
+Q - Daniel A. Do-Thoi {BIO 17019775 <GO>}
 Hi. Daniel Do-Thoi. Just a couple of follow-up questions. The ﬁrst one was on – I want to
 ask about the operating cost this quarter, which I guess on an underlying basis was quite
 a bit ahead of what you had been reporting in terms of a run rate year-to-date. Also, in the
@@ -1005,9 +908,7 @@ Company Name: Storebrand ASA
 Company Ticker: STB NO Equity
 Date: 2015-02-11
 
-A - Odd Arild Grefstad
-
-{BIO 5483351 <GO>}
+A - Odd Arild Grefstad {BIO 5483351 <GO>}
 
 FINAL
 
@@ -1018,10 +919,7 @@ Credit rating, we have our ﬁnancial targets. So, a A target is absolutely a pa
 targets. But that is also to be in a dividend position to pay dividends. So, I'm not sure that
 I can add anymore to that discussion at this point of time.
 
-Q - Daniel A. Do-Thoi
-
-{BIO 17019775 <GO>}
-
+Q - Daniel A. Do-Thoi {BIO 17019775 <GO>}
 Okay. Great. Thank you.
 
 Operator

@@ -49,9 +49,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2015-02-10
 
-Victor Peignet
-
-{BIO 6287211 <GO>}
+Victor Peignet {BIO 6287211 <GO>}
 
 FINAL
 
@@ -163,19 +161,14 @@ FINAL
 Ladies and gentlemen, we will move on to the question-and-answer session. We will now
 take our first question from Will Hardcastle. Please go ahead.
 
-Q - William F. Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William F. Hardcastle {BIO 16346311 <GO>}
 Good morning, guys. Could you give us an idea of whether – was there any particular area
 where you felt it was particularly competitive and you just chose to walk away from the
 business and you squeezed out, if there was one? And the second one is you mentioned
 the impact of the low interest rates. Could you give us an idea of where the new money
 yield is and the level of decline that has happened quarter-on-quarter? Thanks.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 
 Bloomberg Transcript
 
@@ -194,22 +187,13 @@ years now. So but I think you find that really in the presentation walking throu
 different sides and, in particular, this EMEA, you see that the situation on – is very different
 from one area to another.
 
-Q - William F. Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William F. Hardcastle {BIO 16346311 <GO>}
 Okay. Great.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 And your second question, I don't – I didn't really understand what you meant.
 
-Q - William F. Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William F. Hardcastle {BIO 16346311 <GO>}
 Sorry. What's the – obviously, you've talked about in the presentation the impact of the –
 on the return on allocated capital driven by the low interest rates environment and I was
 just really wondering what your reinvestment yields are at present.
@@ -222,80 +206,53 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2015-02-10
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 No, actually that doesn't really apply because we price at risk-free rate. But the risk-free
 rate as considered will be reduced which has an impact on the return on capital.
 
-Q - William F. Hardcastle
-
-{BIO 16346311 <GO>}
+Q - William F. Hardcastle {BIO 16346311 <GO>}
 
 FINAL
 
 Sure. And are you able to give us what that reinvestment rate is at the present?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 No, no. I'm not talking of reinvestment rate. I'm talking of risk-free rate. What – when we
 price a piece of business, the interest rate we use is the interest rate of government
 bonds of the country where the contract is really operating over the duration of that
 particular contract. We, of course, cap that in areas and countries where interest rate are
 too high but if you look at countries like France interest rate, now well nearly at zero.
 
-Q - William F. Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William F. Hardcastle {BIO 16346311 <GO>}
 Yeah. Sure. I absolutely appreciate that, Victor. Maybe it was just – it was more of a
 question, I guess, on the investment side.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 
 Bloomberg Transcript
 
 Well, if I take Eurozone for contract with 10-year duration, you would have an interest rate
 risk free of about 1%.
 
-Q - William F. Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William F. Hardcastle {BIO 16346311 <GO>}
 Sure. Okay. Thanks.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 If you would take U.S., it would be for 10 years 2.6%, but those are risk free rates, not
 reinvestment rates at all.
 
-A - Benjamin Gentsch
-
-{BIO 5633839 <GO>}
-
+A - Benjamin Gentsch {BIO 5633839 <GO>}
 Yes, Will, and to come back to reinvestment rate, you will have the answer during the full
 year call on January 5 – or March.
 
-Q - William F. Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William F. Hardcastle {BIO 16346311 <GO>}
 Okay. Okay.
 
 Operator
 Thank you. We'll now take our next question from Daniel Bischof from Helvea. Please go
 ahead.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Page 5 of 20
 
 
@@ -313,10 +270,7 @@ be maintained? And then the second one on M&A, given what you're seeing in the
 marketplace, with the consolidation going on, how necessary is additional scale for you
 and how is your appetite for large scale deals at this point in time?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 I think, the evolution on commission is twofold. I think what we have observed is, first, is
 shift from sliding scale to fixed commission that has been across most of the lines of
 business. And secondly, I mean, the increasing commission, the principle we apply, well, of
@@ -330,37 +284,26 @@ insurance as Lloyd's is, is for us, insurance. So, we are trending, and this is 
 observed over the past three quarters' results. We are trending towards 24% commission
 – between 23% and 24%, and moving towards 24%.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
+Q - Daniel Bischof {BIO 17407166 <GO>}
 
 Bloomberg Transcript
 
 And on M&A?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Regarding the scale, I think today, well, we have all the excess to business we need or we
 want, so I think there is absolutely no restriction whatsoever. The response from clients is
 positive to the way we approach business and with the way we've been dealing with
 them. So, I would think that, as we are today, we have the capabilities to operate, and
 basically, to address, well, most of the deals that are available in the market.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Thank you very much.
 
 Operator
 We'll now take our next question from William Hawkins from KBW. Please go ahead.
 
-Q - William Hawkins
-
-{BIO 17918548 <GO>}
-
+Q - William Hawkins {BIO 17918548 <GO>}
 Hello. First of all, Victor, one of SCOR's strategies has been to grow by taking a greater
 leadership role of the treaties you're involved in. Could you try and give us a quantitative
 indication of how that's developed this renewal season? So maybe, for example, the
@@ -383,19 +326,13 @@ Dynamics ROE targets, certainly at the very least with regards to timing. So, do
 you took down the ROE in this slide, could you just translate that into how we're seeing
 that in the Optimal Dynamics program? Thank you.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, I think on the leadership, we are roughly leading one-third of the premium volume
 we underwrite, this is increasing marginally. So we were around 32%, we are around 34%.
 So I think it's pretty – slightly increasing but overall quite stable in percentage of the
 premium. And your second question was?
 
-Q - William Hawkins
-
-{BIO 17918548 <GO>}
-
+Q - William Hawkins {BIO 17918548 <GO>}
 Well, I'm just interested in, if you could expand slightly on what you've said about the ROE
 because you've talked about the expected return on allocated capital being 1 percentage
 point lower. But I'm not sure that's exactly the same basis as you define the ROE target
@@ -405,10 +342,7 @@ target.
 
 Bloomberg Transcript
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Yeah. Actually, we operate – the governance of the company is to allocate capital to the
 two divisions, P&C and Life. And basically, well, we start, of course, with the 1,000-basispoint above risk-free rate. Then according to well, the capital allocation that is driven by
 the internal model, we define target return on allocated capital for the two divisions and
@@ -422,10 +356,7 @@ are now underwriting well basically just at the target rate we need to operate f
 group to produce what it needs to produce. So we don't – we have lost the buffer we had
 before.
 
-Q - William Hawkins
-
-{BIO 17918548 <GO>}
-
+Q - William Hawkins {BIO 17918548 <GO>}
 That's very clear. Thank you.
 
 Operator
@@ -440,9 +371,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2015-02-10
 
-Q - Thomas Jacquet
-
-{BIO 4110153 <GO>}
+Q - Thomas Jacquet {BIO 4110153 <GO>}
 
 FINAL
 
@@ -456,10 +385,7 @@ deterioration across the board? Is it going to continue, or do you fear that mos
 lines priced adequately will become non-attractive at all in the next renewals? Thank you.
 Hello? Hello?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Yeah, yeah. I was just trying to find the traffic lights. I have found them now. Well, regarding
 Credit & Surety, I mean, it's no different from U.S. Cat. I mean, we are not all equal in front
 of the signings by the client. So, I think, there is no magic here. I think, we had excellent
@@ -467,18 +393,13 @@ signings from clients, and, I mean, our growth with global insurers, as our grow
 prime credit and surety companies is coming from the fact that, yes. I mean, we have had
 favorable signings.
 
-Q - Thomas Jacquet
-
-{BIO 4110153 <GO>}
+Q - Thomas Jacquet {BIO 4110153 <GO>}
 
 Bloomberg Transcript
 
 Okay.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 On the traffic light, well, I think basically, we are in a softening market, and if you look at
 the treaty P&C traffic lights, while very attractive, is gradually disappearing, and you've got
 the concentration in the attractive and adequate. I mean, that's quite normal. I don't see
@@ -506,10 +427,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2015-02-10
 
-Q - Thomas Jacquet
-
-{BIO 4110153 <GO>}
-
+Q - Thomas Jacquet {BIO 4110153 <GO>}
 Okay. Thank you very much.
 
 FINAL
@@ -518,10 +436,7 @@ Operator
 Thank you. We'll now take our next question from Marcus Rivaldi from Morgan Stanley.
 Please go ahead.
 
-Q - Marcus P. Rivaldi
-
-{BIO 5739374 <GO>}
-
+Q - Marcus P. Rivaldi {BIO 5739374 <GO>}
 Good morning, everybody. Two questions from me. First of all, on again coming at
 Optimal Dynamics, the growth plans that you've embedded within that and that you
 confirmed at the last Investor Day, do you still think it's reasonable to be targeting a $6.2
@@ -537,10 +452,7 @@ that, that will be great. Thank you.
 
 Bloomberg Transcript
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, what I can say about the assumptions of growth is the one we have now for this year.
 I mean, we anticipate this year to close at €5.3 billion, I mean, 2015, €5.3 billion. This is
 based on interest rate at December 31, 2014. If the euro-dollar exchange rate moves,
@@ -548,30 +460,18 @@ then the projection will have to be readjusted. But as we are today, with that s
 exchange rates, well, we anticipate in 2015 at about €5.3 billion. So, there, of course, I
 mean, the assumption of the €6.2 billion in 2016, well, becomes questionable.
 
-Q - Marcus P. Rivaldi
-
-{BIO 5739374 <GO>}
-
+Q - Marcus P. Rivaldi {BIO 5739374 <GO>}
 Okay.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 That's the situation and these assumptions are really adjusted as the market evolves. And
 for the moment, we do not have positive evolution in the market. And again, profitability is
 for us the main driver, and if we have to sacrifice growth to maintain the profit, we will do.
 
-Q - Marcus P. Rivaldi
-
-{BIO 5739374 <GO>}
-
+Q - Marcus P. Rivaldi {BIO 5739374 <GO>}
 Okay.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Page 9 of 20
 
 
@@ -598,9 +498,7 @@ to tolerate last year and we did tolerate. And this is the reason why in the mar
 probably a bit more difficult than last year. Well, the teams reacted and managed the
 renewals in such a way that yes, I mean, the deterioration is lower than last year.
 
-Q - Marcus P. Rivaldi
-
-{BIO 5739374 <GO>}
+Q - Marcus P. Rivaldi {BIO 5739374 <GO>}
 
 Bloomberg Transcript
 
@@ -609,10 +507,7 @@ different this year actually at the cold phase (26:45) in terms of structuring o
 that would allow you to have – be in ultimate – a relatively better position this year in a
 tougher market than last year?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, it's just a question of the business mix that you renew, what you renew, what you
 don't renew and what you eliminate. And it is portfolio management is that. You will
 negotiate with clients, the business mix between the different contracts, and at the end of
@@ -630,10 +525,7 @@ means that we've been stricter this year in applying the rules as compared to la
 because we think we – overall, the portfolio doesn't give us as much leeway as it was
 giving us last year.
 
-Q - Marcus P. Rivaldi
-
-{BIO 5739374 <GO>}
-
+Q - Marcus P. Rivaldi {BIO 5739374 <GO>}
 Okay. Thank you very much.
 Page 10 of 20
 
@@ -643,15 +535,10 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2015-02-10
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 A question of margins to maneuver.
 
-Q - Marcus P. Rivaldi
-
-{BIO 5739374 <GO>}
+Q - Marcus P. Rivaldi {BIO 5739374 <GO>}
 
 FINAL
 
@@ -661,10 +548,7 @@ Operator
 Thank you. We'll now take our next question from Andrew Ritchie from Autonomous.
 Please go ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Hello. Hi there. Two questions. Victor, could you just clarify again on the proportional
 business? What you're saying is that any changes in commission you feel are offset either
 because they're sliding scale, therefore loss-dependent, or you're not feeling that they
@@ -680,10 +564,7 @@ deterioration you feel is offset by better retro terms, again, as it was last ye
 you're saying and maybe just a bit more flavor if there's any significant changes to your
 retro program? Thanks.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, let's start with the retro program. The retro program, the changes are by
 restructuring the aggregate coverage, increasing the number of aggregate coverage and
 having the aggregate coverage structured in such a way that the response to what I
@@ -720,52 +601,34 @@ make your business more profitable than it was previously, if the loss ratio of 
 company is improving, well, significantly, which happens with portfolio management. It's
 not always the case, but it can happen.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. And presumably the...
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Especially in emerging markets, where portfolio management and all the work we are
 doing with our clients to improve the underwriting can pay off in a much bigger way than it
 does in markets that are already very developed and quite saturated.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. And presumably, the seven point Cat loads shouldn't change for this underwriting
 year, not calendar year, the underwriting year you just renewed with the change in retro.
 It's simply a cost benefit. The overall net retention is similar.
 
 Bloomberg Transcript
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 I think the cost ratio of the natural catastrophe is reflecting this net cost I was talking
 about. So I would say we don't want to change the seven points, but we are more
 comfortable than last year with the seven points.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. Great. Thanks very much.
 
 Operator
 Thank you. We will now take our next question from Thomas Fossard from HSBC. Please
 go ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Hey. Yes. Good morning, Victor. I've got two or three questions. The first one is on the
 target of €5.3 billion premium for the full year 2015. Can you remind us what would be the
 USD premium exposed component of this €5.3 billion roughly speaking?
@@ -791,10 +654,7 @@ you're reporting a nice growth, 12% growth where we see the trends have been a b
 really mixed and rather disappointing compared to initial expectations. So, a bit more
 granularity will be helpful. Thank you.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Morning, Thomas. On the dollar – I would say dollar-pound, the dollar is about one-third,
 the pound, 10% to 15%. So, overall, if you mix dollar and pound, you are having about half
 of the total, as a rule of thumb, then you've got some currencies more or less connected,
@@ -803,10 +663,7 @@ Regarding Aviation, maybe Benjamin, you want to take this one?
 
 Bloomberg Transcript
 
-A - Benjamin Gentsch
-
-{BIO 5633839 <GO>}
-
+A - Benjamin Gentsch {BIO 5633839 <GO>}
 Yes, please. On Aviation, as you know, Thomas, most of the Aviation portfolio that has
 been renewed consists of the two large participations that we have in LRA and Global
 Aerospace. LRA specifically is changing that portfolio with our strong impact, our strong
@@ -823,10 +680,7 @@ still as adequately priced. And what you see here is the growth of 12% by and la
 reflects the business plan that those two underwriting agencies do have, LRA and Global
 Aerospace.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, regarding the terms and condition, well, can give you a few figures that illustrate.
 This year, for instance, we have a system within SCOR by which the accounts are being
 referred, if they do not comply with the underwriting guidelines. This year, the number of
@@ -875,27 +729,18 @@ portfolio today, if I look at how much of our P&L maximum loss exposure is on mu
 you are below 15% in the peak variance. So it is not – it has not been a major feature of
 renewal and it is not a major feature of our portfolio today.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay. And just to come back to the previous question on the seven points of combined
 ratio for Nat Cat. Obviously the fact that there is a slight deterioration in the terms and
 condition regarding the extension of hour clauses is not creating any specific threat to, I
 would say, or risk to the seven points of Cat budget basically.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 No. I don't think so and I'm more appreciative of the way we restructured our aggregate
 coverage. So I think the restructuration of our aggregate coverage is having a more
 positive impact than the slightly negative that may be associated with the hour clause.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay. Thank you.
 
 Operator
@@ -912,10 +757,7 @@ We will now take our next question from Kamran Hossain from RBC. Please go ahead
 
 FINAL
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi. Good morning. Two questions. First one, just on the 94% combined ratio assumption
 for this year. On that assumption, does it assume that the expense ratio comes down to
 6.5%, down from the kind of slightly above that that you reported at the Q3 results? And
@@ -923,10 +765,7 @@ the second question, just on the retrocession program, can you just give us a fl
 where the new capacity is coming from – or whether actually it's just coming from your
 existing sources? Thanks.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Okay. On the combined ratio, you may recall that over the previous quarter of this year,
 we commented on the fact that there was seasonality and that the cost ratio would be
 landing in the 6.5% sort of area. So, well, bear with us until a month from now and you
@@ -940,18 +779,12 @@ program. So, we have very few changes in the panels.
 
 Bloomberg Transcript
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Just to come back on the retrocession, how long do you think that retrocession pricing
 can continue to decline? Because obviously it seems to be – well, not follow – it's neither
 following or leading the reinsurance side, but how long do you think that will continue?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, I have no crystal balls, so I don't know. What I can tell you is we ourselves are
 extremely careful. And it is not just a question of price. It's a question of long term. I mean
 our retrocession is used to, well, protect our capital. It also provide us the peak capacities
@@ -962,10 +795,7 @@ all, longevity of the partnership. So, I think if you are not shopping around, I
 probably that I don't see a lot more reduction. If you are shopping around, well, there is
 an abundant new capacity available, so this is less predictable.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Thanks very much.
 
 Operator
@@ -982,10 +812,7 @@ ahead.
 
 FINAL
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Good morning. This is In-Yong from Goldman Sachs. So, two questions for me. So, you
 had quite a lot of benefit from increasing primary rates in the proportional side, and your
 non-proportional pricing was down 3.5%. And I was just wondering how the pricing would
@@ -997,9 +824,7 @@ your global clients initiative. You gave some business lines that still benefit 
 Property Cat in Asia and U.S. Cat, but just – it would be good to get a top-down view of
 what you see on a group-wide basis. Thank you.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 
 Bloomberg Transcript
 
@@ -1039,10 +864,7 @@ Thank you. We will now take our next question from Frank Kopfinger. Please go ah
 
 FINAL
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Good morning, everybody. I have two questions. My first question is on your canceled
 business, the $146 million that you show within the treaty business. Could you dig a little
 bit into the drivers behind this, so which lines were most affected or be it the geographies
@@ -1052,9 +874,7 @@ implies that you even more than compensated the weaker prices in this segment. A
 could you elaborate a little bit on what were the drivers there and also whether you're still
 satisfied with the price level there?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
+A - Victor Peignet {BIO 6287211 <GO>}
 
 Bloomberg Transcript
 
@@ -1067,17 +887,11 @@ We had also some issues with other contracts in Scandinavia, in Netherlands and 
 Arabic Gulf area. So, a mix of market, but concentrated geographically in Europe and
 Middle East. What was your second point?
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 On the growth in US Cat business because it obviously implies that you've more than
 concentrated to (50:26).
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, I think on the U.S. business, again, we re-underwrite the portfolio. I think there has
 been a good intake of large, large clients, I mean, whether they are large national insurers
 or global insurers, at the detriment of regional business where we had to arbitrate in front
@@ -1114,10 +928,7 @@ remain within your profitability or requirements. But I think the split between 
 see it moving in our portfolio, I do like it and I think that it shows that the teams are doing
 the right job with the clients.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay. Thanks.
 
 Operator
@@ -1126,10 +937,7 @@ go ahead.
 
 Bloomberg Transcript
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Just wanted to come back on the commission side. Earlier in your comments, Victor, you
 mentioned that the shift was from sliding scale to fixed scale. Is that a positive trend for
 you or I mean would you prefer to stay on sliding scale as obviously this is providing more
@@ -1142,10 +950,7 @@ okay on the cat side, I mean, motor, on motor proportional. So, could you give u
 more about potential additional competition you've been facing on the German market
 this year around? Thank you.
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, in Germany, I think that while we have added pretty stable sort of renewal, question
 mark is more on the industrial risk at the moment and the profitability of the industrial
 business, on the treaties of the German market.
@@ -1175,17 +980,11 @@ steady profits and has positive trends in the portfolio, for them there is a log
 remove the sliding scale and working towards fixed commission. And that's what we
 observed in a number of areas.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay. And just a final point on that. Is this a noticeable trend you've seen both on the
 property and casualty proportional?
 
-A - Victor Peignet
-
-{BIO 6287211 <GO>}
-
+A - Victor Peignet {BIO 6287211 <GO>}
 Well, I think it is certain – it is more seen on certain specialty lines than really – I don't think
 that was a feature of casualty ever, anyway. While certainly in property and Credit &
 Surety, was certainly an area where sliding scales had been introduced after the crisis and
@@ -1193,10 +992,7 @@ are being removed.
 
 Bloomberg Transcript
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay. Thank you.
 
 Operator
@@ -1204,10 +1000,7 @@ Thank you. As there is no further questions in the queue, this will conclude tod
 question-and-answer session. I would now like to turn the call back over to Bertrand
 Bougon for any additional comments.
 
-A - Bertrand Bougon
-
-{BIO 18934799 <GO>}
-
+A - Bertrand Bougon {BIO 18934799 <GO>}
 Thank you. I will conclude this call by inviting you to join the next event, the disclosure of
 our full-year 2014 account on March 5. Thank you, and have a nice day.
 

@@ -28,10 +28,7 @@ name is Chad and I'll be the coordinator for this conference. (Operator Instruct
 I would now like to hand over to Andrew Horton CEO to begin the call, please go ahead,
 Andrew.
 
-Andrew Horton
-
-{BIO 5697110 <GO>}
-
+Andrew Horton {BIO 5697110 <GO>}
 Thank you. Good morning everyone and welcome to our Half Year Results Presentation. If
 I move onto -- go to the disclaimer and move on to the first slide in the presentation, it's
 going to be the usual Beazley half year presentation in a slightly unusual format. Sally and I
@@ -144,10 +141,7 @@ ensuring we are trying to minimize and mitigate the impact of the recession on o
 of business.
 Right, I will now hand over to Sally who'll take you through the financials.
 
-Sally Lake
-
-{BIO 20925273 <GO>}
-
+Sally Lake {BIO 20925273 <GO>}
 Thank you, Andrew, good morning everyone. My name is Sally Lake and I'm the Beazley
 Finance Director. As Andrew mentioned, I'm going to be taking you through investments,
 reserving with a particular focus on our liability business and then finally capital before I
@@ -331,10 +325,7 @@ On that note, I will pause and pass over to Richard to say more about our proper
 
 FINAL
 
-Richard Montminy
-
-{BIO 21066233 <GO>}
-
+Richard Montminy {BIO 21066233 <GO>}
 Thank you, Sally. Good morning, everyone. Hopefully all are well. My name is Richard
 Montminy and I lead the property business across Beazley. Being that I've been at Beazley
 a fairly quick 14 months, I thought it might be helpful to provide just a quick overview of my
@@ -456,10 +447,7 @@ So with that I will pass it back to Andrew, and for the outlook.
 
 Bloomberg Transcript
 
-Andrew Horton
-
-{BIO 5697110 <GO>}
-
+Andrew Horton {BIO 5697110 <GO>}
 Thank you, Richard. I will have a go at the outlook. I got to say, the Beazley crystal ball is a
 bit cloudy than it normally is. It's quite difficult to determine what the outlook is going to
 be, and that's why the planning process at the moment. We know Adrian is leading a
@@ -530,10 +518,7 @@ Operator
 (Operator Instructions) So, our first question today comes from Kamran Hossain from
 RBC. Please go ahead.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi, Andre. Hi, Sally. I've got three questions. The first one is just on the capital surplus, and
 I guess, the reduction from $35 million to $22 million, so $35 million being at the time of
 the placing. Could you maybe give us an idea of how much of that is kind of prudent that
@@ -560,18 +545,12 @@ than that in the second quarter. I guess as we look to 2021 and perhaps beyond t
 really, is it a good bet to think that the things have to be better than the long-term
 average in the coming years on the combined ratio? Thank you.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Sally, do you want to pick up the first element, and I will pick up the second two.
 
 Bloomberg Transcript
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Yes, I'm just writing it down. Sorry. So, yes, good question on the capital. So, as you can
 see, we've increased both the ECR expectation. We've also increased Beckey [ph].
 Beckey is slightly less capital efficient, so -- and than the Lloyd's at this point and so what
@@ -585,10 +564,7 @@ going on there as well. But the main story, I think to focus on is the fact that
 deploying the capital that we raised because the market continues to be a really good
 place to grow in.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Okay. So let me pick up the ransomware, I mean I think we were one of the first
 companies to notice elevated ransomware. I find it always a bit frustrating that people
 don't even notice what's coming on the claims and I think having a very good integrated
@@ -614,10 +590,7 @@ Company N ame: Beaz ley PL C
 Company Ticker: BEZ L N Equity
 Date: 2020-07-23
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Good, and thanks very much.
 
 FINAL
@@ -626,10 +599,7 @@ Operator
 The next question we have today is from Andrew Ritchie from Autonomous. Please go
 ahead.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hello, hi there. Good to see everyone virtually. A couple of quick questions. So, first of all,
 just to clarify on the capital requirement, is all of the increased requirement, the projected
 requirements growth? Was there any reflection of, I think Lloyd's, the other day was
@@ -653,16 +623,10 @@ that property pricing is adequately reflecting the sort of trend you've seen in 
 caps? I'm talking on storm hail, not the peak stuff, the secondary stuff, which has caused
 quite a lot of noise. Are we anywhere a price adequacy on that aspect yet?
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Okay, Andrew. Thanks for those questions. You're going to kick off with the capital, Sally?
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Yes, I'll do the capital and reinsurance question. So on the capital, that's really good
 question, we have an internal model and we've reflected the things that Lloyd's are
 already talking about and their additional capital and their thinking around needing
@@ -686,31 +650,20 @@ in May.
 
 FINAL
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Just make sure, there is small load indicative [ph] of growth outside the ECR. You want to
 understand [ph] that.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 So, and one thing that just happened on the Beckey [ph] is calculated using a risk-based
 capital approach, and it has various components. One that I'm just referring to is that you
 have a additional load if your growth rate is above a certain number, which we are and so
 you do have an additional load in for that that's worth noting, yes.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 That's on the US RBC component.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
+A - Sally Lake {BIO 20925273 <GO>}
 
 Bloomberg Transcript
 
@@ -725,24 +678,15 @@ we've obviously estimated that to be kicking in around $10 million in terms of d
 because I think dollars are the simple -- dollars are simpler, but it's different to the clash,
 no deductible there.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 And that's on all liability lines, is it? What was the old specialty book?
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 That covers the majority of specialty lines and cyber and executive risk, it's doesn't cover
 everything, but it covers the majority and it definitely covers the things that we're more
 worried about in situations like this, for a good reason because we've all lived through it.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Andrew, I'm going to give you a sort of a relatively boring answer on the underlying
 current drivers, because we haven't seen anything. So there is nothing new in the
 underlying claims drivers excluding COVID-19. So there are no unusual trends, no different
@@ -759,33 +703,22 @@ Date: 2020-07-23
 And then I hand over to you, Richard, on the adequacy. I think you're asking about the
 adequacy of pricing for the non-cat part of property.
 
-A - Richard Montminy
-
-{BIO 21066233 <GO>}
+A - Richard Montminy {BIO 21066233 <GO>}
 
 FINAL
 
 I think -- Yes, Andrew, I think he was looking for the secondary cap pricing, if I understood
 the question right?
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Exactly.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Yes, sure.
 
 Bloomberg Transcript
 
-A - Richard Montminy
-
-{BIO 21066233 <GO>}
-
+A - Richard Montminy {BIO 21066233 <GO>}
 And it's a great question and definitely we are highly involved with it. We've enhanced our
 radar so the underwriters can pick-up on locations and accounts that, for example, of hail,
 that are exposed to hail and we price for it. So we do price down apparel specifics. The
@@ -797,18 +730,12 @@ the hail season, so to speak, if you want to call it that, we've actually been a
 significantly reduce hail losses that we've seen in the past through the use of deductibles
 in better terms. So it's a great question and we are on top of it from that regard.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 I just understand the industry, either as a whole, more committed to dealing with pricing
 this risk, which kind of wasn't -- didn't seem to be priced at all even a year ago or a couple
 years ago?
 
-A - Richard Montminy
-
-{BIO 21066233 <GO>}
-
+A - Richard Montminy {BIO 21066233 <GO>}
 I mean, you're probably right in that regard, I think having worked in other shops as well, I
 think it's been on everybody's radar screen to pick up things like hail because it became
 more and more of an issue. And like I said, I think people have been pricing forward for a
@@ -818,10 +745,7 @@ have gone to a different structure just to attack and take get rid of the small 
 losses i.e., through percentage deductibles kind of like what we do with windstorm and
 earthquake, et cetera.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay, great. Thanks, everyone. Thank you.
 
 Page 14 of 23
@@ -832,15 +756,10 @@ Company N ame: Beaz ley PL C
 Company Ticker: BEZ L N Equity
 Date: 2020-07-23
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Thanks, Andrew.
 
-A - Richard Montminy
-
-{BIO 21066233 <GO>}
+A - Richard Montminy {BIO 21066233 <GO>}
 
 FINAL
 
@@ -849,10 +768,7 @@ Welcome.
 Operator
 The next question is from Ben Cohen from Investec Bank. Please go ahead, Ben.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
-
+Q - Ben Cohen {BIO 1541726 <GO>}
 Hi, there. Thanks very much. I just had two questions please. If you can hear me. The first
 was on the COVID-19 casualty claims. So I just wonder if you could say more about what
 notifications you're actually getting? And does your outlook for sort of 100% combined
@@ -864,10 +780,7 @@ Thank you.
 
 Bloomberg Transcript
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Okay. So the COVID-19 casualty claims, I mean, we -- they're going to come through over
 a period of time, Ben, so we're not going to -- it's unlikely we're going to see lots of them
 happen all at once, and the time to settle casualty claims, as you know, takes quite some
@@ -888,10 +801,7 @@ offset by the recession prone lines where we are pulling back. And the top line 
 we are talking about, that being double-digit takes all those into account and we feel
 pretty comfortable when looking at those we can achieve that.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
-
+Q - Ben Cohen {BIO 1541726 <GO>}
 Okay, thank you very much.
 Page 15 of 23
 
@@ -906,10 +816,7 @@ The next question is from Andreas van Embden from Peel Hunt. Please go ahead.
 
 FINAL
 
-Q - Andreas van Embden
-
-{BIO 1795530 <GO>}
-
+Q - Andreas van Embden {BIO 1795530 <GO>}
 Hello, good morning and thank you. Just had three questions, please. First of all, on your
 investment portfolio, you mentioned you were taking on more risk again in the second
 quarter now so that your high yield exposures have sort of increased at $269 [ph] million. I
@@ -928,40 +835,26 @@ actions you're taking to support your client? Thank you.
 
 Bloomberg Transcript
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Sally will start that on [ph] high yield? So -- sorry go ahead.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Yes, go ahead, please.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 No, I wasn't sure exactly what we were looking at on the high yield front. So we're not
 seeing an increase in high yield because we've got downgrades of investment grade. So
 we definitely haven't seen that, if that was part of the question, Andreas, which I think it
 was.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 I think it's just one of the ways that we've chosen to increase our risk from where we were
 at Q1. So I wouldn't read anything specifically into that other than that hit. I know Stuart is
 definitely thinking very deeply about the level of liquidity and the risk that he's adding and
 so he is adding where he is able to change quite quickly. So I don't think there's anything
 significant to add to that.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
+A - Andrew Horton {BIO 5697110 <GO>}
 
 Page 16 of 23
 
@@ -984,16 +877,10 @@ down. So we feel, excluding that, we're increasing the loss picks on the more tr
 people call that specialty lines over the years and we will be maintaining that into 2020.
 But overall, it looks like it's coming down because the cyber proportion is larger.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Yes, so we -- our 2020 view at this point is consistent with the previous couple of years.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Yes. And the premium pause, I think we are thinking about taking an impairment
 assumption through a premium pause because if we're getting people longer terms to
 pay the premium, we will have to put an impairment assumption in. I think we've got one
@@ -1003,45 +890,25 @@ of -- what's the word, no redemption.
 
 Bloomberg Transcript
 
-A - Richard Montminy
-
-{BIO 21066233 <GO>}
-
+A - Richard Montminy {BIO 21066233 <GO>}
 Policies.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Default.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Stopping policies.
 
-A - Richard Montminy
-
-{BIO 21066233 <GO>}
-
+A - Richard Montminy {BIO 21066233 <GO>}
 Cancellations. [ph]
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Yes. Sorry, did you miss that or did you hear that?
 
-Q - Andreas van Embden
-
-{BIO 1795530 <GO>}
-
+Q - Andreas van Embden {BIO 1795530 <GO>}
 Thank you very much. Yeah, no I got it. Thank you very much.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
+A - Andrew Horton {BIO 5697110 <GO>}
 Page 17 of 23
 
 
@@ -1058,10 +925,7 @@ FINAL
 
 The next question is from Paris Hadjiantonis from Exane BNP Paribas. Please go ahead.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Yes, hi from my side as well. It's good to see you all, even if it's virtually. Three questions
 from my side. Firstly, I'm trying to understand better what the message is on liability
 reserving. So basically, what you're saying is that if you're right, you got the reserves right
@@ -1083,16 +947,10 @@ the rate on that line of business. So if you can just clarify that. And also I t
 you were saying something along the lines 15% growth. I am just want to make sure that
 you don't imply 15% growth for full year '20 because H1 was more or less flat. Thank you.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Richard, why don't you pick up on the property question, if that's okay.
 
-A - Richard Montminy
-
-{BIO 21066233 <GO>}
-
+A - Richard Montminy {BIO 21066233 <GO>}
 Yes. I mean, it's a good question. I mean, rate has been the driver. I think what kind of gets
 a little bit lost in the shuffle as we started off the year continuing to improve the portfolio.
 So the teams have been strictly focused on making sure that we retain the business we
@@ -1116,18 +974,13 @@ Date: 2020-07-23
 
 Does that help, I mean?
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 
 FINAL
 
 It does help. Thank you.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Okay. So, if I go in reverse order, are we paying more for reinsurance? I think we do
 benefit from having strategic reinsurance partners and a good track record, on the whole,
 we're not paying a lot more for our reinsurance. If we are impacting the reinsurance
@@ -1143,10 +996,7 @@ come through proportionately. Well Sally, I don't know, if you want to add anyth
 
 Bloomberg Transcript
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Yes, so again coming back to the fact that it's too early to see what the overall impact is
 going to be and the fact that we do a lot of underwriting action. If you look, the other
 thing that I would add is that if you look back at 2008, and again I'll say it again, this is not
@@ -1160,19 +1010,13 @@ reporting here are from years like 2017. So it takes time for that to come throu
 again currently we don't know how much that will be either, so we're going to have to wait
 a little bit longer for more clarity on that.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Thank you very much.
 
 Operator
 The next question is from Ming Zhu from Panmure. Please go ahead.
 
-Q - Ming Zhu
-
-{BIO 17001429 <GO>}
-
+Q - Ming Zhu {BIO 17001429 <GO>}
 Hi, good morning everyone. Just three questions please. Your investment return going
 forward, you've guided, and you've said your fixed asset currently yielding around 0.8%.
 
@@ -1196,10 +1040,7 @@ And my third question is on the lack of credit, the $225 million, which you're c
 is on liquidity. And if you were to meet, let's say, we have a normal second half, you were
 to meet all your target, and what's your plan around that, please? Thank you.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Okay. So looking at 2021, if I knew the answer, I would be very happy. It's too -- in my
 opinion, it's really too early to give much more than the fact that interest rates are pretty
 low at the moment. And I think the general expectation is that they will remain low for a
@@ -1209,10 +1050,7 @@ yield is 0.8%. Andrew, I don't know if you have anything to add?
 
 Bloomberg Transcript
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 I think if we were looking -- we're estimating 2021, and coming to the number, I've put
 0.8% into the fixed income and I put it an unusual [ph] 5% or 6% of the risk assets, which
 is what we try to achieve, if you did a weighted average of the 5% to 6% on 2015 and
@@ -1229,21 +1067,13 @@ momentum for a market that needed to turn and get rate increase. So it's quite h
 determine going forward what that would be underlying. I don't think we'd think of it like
 that.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 The middle -- there was a middle question.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 I think that was it.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
+A - Sally Lake {BIO 20925273 <GO>}
 Page 20 of 23
 
 
@@ -1254,24 +1084,16 @@ Date: 2020-07-23
 
 Have we covered everything there, Ming or have we missed one there?
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
+A - Andrew Horton {BIO 5697110 <GO>}
 
 FINAL
 
 The letter of credit.
 
-Q - Ming Zhu
-
-{BIO 17001429 <GO>}
-
+Q - Ming Zhu {BIO 17001429 <GO>}
 So it's letter of credit.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Okay. So, well, the great thing about our letter of credit is that it's a very flexible tool,
 which is why we like it, and so it really just depend on the experience over the next six
 months, but it's definitely something that I'm very keen to utilize as and when it's
@@ -1284,9 +1106,7 @@ or change the amount depending on what -- where we end up. So we'll keep looking
 as we go through the year. I think there is definitely something we are planning to use to
 some extent going forward.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
+A - Andrew Horton {BIO 5697110 <GO>}
 
 Bloomberg Transcript
 
@@ -1295,10 +1115,7 @@ Okay. Are there any more questions?
 Operator
 Yes, we have a question from Iain Pearce of Credit Suisse. Please go ahead, Iain.
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 Hi, everyone. Thanks for taking my questions. Just two quick ones from me. I'm just trying
 to understand some of the steps that have been taken outside of the sort of reinsurance
 things that you've talked about, to integrate some of the recessionary risks in the book,
@@ -1308,10 +1125,7 @@ wondering if you could talk to us a little bit about the volume versus pricing a
 see and if you started to see any headwinds in terms of volume in those lines because of
 sort of the impact of the wider economic environment. Thanks.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 So, there is obviously definitely issues on the aviation front, isn't there, with very few
 planes flying. So we've been in aviation for a number of years now, and we hope this is
 going to be the year of them growing quite considerably. So there's definitely an impact
@@ -1340,10 +1154,7 @@ benefited from that, which is good.
 I wasn't really -- I didn't really understand the first question about recessionary impact.
 Can you explain that again to me?
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 Just you're talking -- yes, sure, you're talking about some steps that have been taken to
 try and limit some of the claims impact and sort of recession improves the book from the
 claims side. I'm just wondering sort of what those steps are and if there is potentially any
@@ -1351,10 +1162,7 @@ knock-on effect on premiums?
 
 Bloomberg Transcript
 
-A - Richard Montminy
-
-{BIO 21066233 <GO>}
-
+A - Richard Montminy {BIO 21066233 <GO>}
 Okay. Yes. There's definitely a knock-on effect on premiums because the main action
 we're taking is not writing the business or putting a rate increase that we'll either cover it
 or potentially if the business will move away from us. So, yes, so we've taken a view that
@@ -1374,16 +1182,10 @@ the recession prone lines where claims will rise, and secondly, insureds that wa
 that much money on their insurance going forward, they are reduce their costs. So you've
 got a hard market going into a recession, which is an unusual situation to be.
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 Okay. That's perfect. Understood. Thank you.
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Okay. Thanks. Are we done with the questions?
 
 Page 22 of 23
@@ -1399,22 +1201,14 @@ We have no further questions.
 
 FINAL
 
-A - Andrew Horton
-
-{BIO 5697110 <GO>}
-
+A - Andrew Horton {BIO 5697110 <GO>}
 Brilliant. Well, thank you everybody for joining us today virtually. And hopefully at some
 point in the not too distant future we'll see you live, live live.
 
-A - Sally Lake
-
-{BIO 20925273 <GO>}
-
+A - Sally Lake {BIO 20925273 <GO>}
 Thank you. Have a good day everyone.
 
-A - Richard Montminy
-
-{BIO 21066233 <GO>}
+A - Richard Montminy {BIO 21066233 <GO>}
 
 Bloomberg Transcript
 

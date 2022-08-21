@@ -39,10 +39,7 @@ conference is being recorded. There will be a question-and-answer session at the
 (Operator Instructions) At this time, I would like to turn the conference over to Mr. Mark
 Wilson. Please go ahead, sir.
 
-Mark Wilson
-
-{BIO 7102576 <GO>}
-
+Mark Wilson {BIO 7102576 <GO>}
 Yes. Well. Good morning, everyone. Welcome and thanks for joining us on our Third
 Quarter call. I have a number of my senior team joining me today, of course including Pat
 Regan, our CFO as always. And the heads of our major business units.
@@ -219,10 +216,7 @@ FINAL
 
 (Operator Instructions) Jon Hocking, Morgan Stanley.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Good morning, everybody. I've got two questions please. On the life side, wonder if you
 can comment on are there still product areas where you are not happy with the returns
 and you are in the process of changing the product mix where you sign the products,
@@ -232,9 +226,7 @@ with the group liquidity buffer. So I seem to remember the two liquidity buffers
 AGH, one in AIL. Can you remind us what you previously said on the liquidity buffer? Thank
 you.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
+A - Mark Wilson {BIO 7102576 <GO>}
 
 Bloomberg Transcript
 
@@ -246,34 +238,22 @@ And okay, we've made some progress. But there is a lot of areas that we're still
 way off. For example in Italy, we're doing some good things but clearly Italy has been a
 drag on VNB this year. I don't know, David, would you want to comment on it?
 
-A - David McMillan
-
-{BIO 17298829 <GO>}
-
+A - David McMillan {BIO 17298829 <GO>}
 Yes. Good morning, Jin. I think if you look at both Italy and France I think the priority there
 is to -- we actually got reasonably good distribution in both of these markets. The priority
 strategically is to get both businesses selling the right product. In France, we've increased
 protection sales and VNB by 35% and in unit linked we've more than doubled the VNB.
 Italy needs to go on the same journey.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 So can I -- sorry, have you got the products in place that you want or is this something
 which can be rolled out over the course of the next 12, 13 months?
 
-A - David McMillan
-
-{BIO 17298829 <GO>}
-
+A - David McMillan {BIO 17298829 <GO>}
 We've got the products in place. It's a question of getting our distribution to sell the right
 products.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Okay.
 Page 5 of 26
 
@@ -283,34 +263,23 @@ Company N ame: Aviva PL C
 Company Ticker: AV/ L N Equity
 Date: 2013-11-07
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Okay, liquidity buffer, I'm not sure what we've disclosed before, you want to comment?
 
 FINAL
 
-A - David McMillan
-
-{BIO 17298829 <GO>}
-
+A - David McMillan {BIO 17298829 <GO>}
 Yes, I think you can -- well, assume, Jon, it definitely will be north of GBP1 billion that we
 will keep at AGH and probably a bit less than GBP1.5 billion on a kind of normalized basis.
 So somewhere between the two of those.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Okay, brilliant. Thank you.
 
 Operator
 Fahad Changazi, Nomura.
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
+Q - Fahad Changazi {BIO 15216120 <GO>}
 
 Bloomberg Transcript
 
@@ -323,10 +292,7 @@ And on the internal loan, could I just confirm that GBP5.1b, you have already hi
 that is going to decrease by GBP300 million in the next three years and this additional
 loan cash that is over and above that and I suppose I have to ask what substantial noncash measures actually mean. Thanks.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Sure, let's take those in turn. So on annuities, the important point to know that annuities is,
 we exited just about all of our bulk purchase annuity, the reason being they are just fine
 margin, too much capital fine margins and we couldn't get the return on equity on those.
@@ -369,49 +335,33 @@ frankly we've got a pretty good idea of the number we can reduce it down by and 
 am not going to be specific and so we took off each one which probably isn't as helpful as
 you want to be.
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
-
+Q - Fahad Changazi {BIO 15216120 <GO>}
 Okay. Thank you. Just on the Q1 2014 annuity outlook, any comments?
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
+A - Mark Wilson {BIO 7102576 <GO>}
 
 Bloomberg Transcript
 
 I'll pass it over to David Barral, sitting with me, what's your outlook.
 
-A - David Barral
-
-{BIO 17035123 <GO>}
-
+A - David Barral {BIO 17035123 <GO>}
 (multiple speakers) just say Q3 was particularly competitive on pricing so we maintained
 our pricing discipline. Those applications are already picking up again in Q4. So we -- the
 focus here is on maintaining the maximum value we can within the capital we're prepared
 to deploy at any one time. As Mark said, we can come in and out of that market as
 conditions allow.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Yes. We are a market leader in this market and, yes, we have a fair bit of pricing power
 being shown and -- but we will -- we are going to be (technical on this certainly).
 
-Q - Fahad Changazi
-
-{BIO 15216120 <GO>}
-
+Q - Fahad Changazi {BIO 15216120 <GO>}
 Okay. Thank you very much.
 
 Operator
 Blair Stewart, BofA Merrill Lynch.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
+Q - Blair Stewart {BIO 4191309 <GO>}
 
 Page 7 of 26
 
@@ -435,9 +385,7 @@ when do you expect to get agreement if that's what you need to get from the regu
 and at that stage would you be prepared to put further color on the extent of the
 substantial reduction you expect? Thank you.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
+A - Mark Wilson {BIO 7102576 <GO>}
 
 Bloomberg Transcript
 
@@ -454,19 +402,13 @@ The other VNB stuff, it is a bit seasonal as well. So I won't read too much into
 quarter. There is a seasonal decline that we have predicted in some but we came in in
 others. Any more comment on that David?
 
-A - David McMillan
-
-{BIO 17298829 <GO>}
-
+A - David McMillan {BIO 17298829 <GO>}
 I think -- so annuities is a (inaudible) player protection market, as you all know if we're
 down actually it's a very strong quarter for Group (inaudible). So from a mix point, you
 know that was a little mountain[ph] so that also added to the lower VNB but as mark said
 our focus is on value not topline.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Now your second question, Blair, on Italy, by the way, Italy I see as is our most complex
 business. You've got JVs that own other JVs with other partners, you've got sometimes
 we have management control and being (inaudible) some places we don't. We've got
@@ -495,10 +437,7 @@ FINAL
 Now will we get a dividend out of it this year? I doubt it. Will we get one next year? I think
 that's a pretty likely outcome. David, any more color?
 
-A - David McMillan
-
-{BIO 17298829 <GO>}
-
+A - David McMillan {BIO 17298829 <GO>}
 Yes, I think as Mark said, Blair, we've had particularly a number of our smaller distribution
 partners who have been a significant drag on our VNB result. We're in the process of
 addressing that. We've good progress with our bigger partners, particularly UniCredit, in
@@ -506,9 +445,7 @@ terms of reshaping some of the guaranteed products reducing the guarantees. So I
 there is a lot of improvement that we've made in the first and second half of this year that
 I am looking for those to enter into results next year.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
+A - Mark Wilson {BIO 7102576 <GO>}
 
 Bloomberg Transcript
 
@@ -522,33 +459,21 @@ wouldn't expect anything like that but we will update you as we make progress.
 I am comfortable we're making lot of progress but we are not -- not enough actually to
 give you any figures on what it (technical difficulty) to be. But we will as soon as we can.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 And is that just the UK regulator we're talking about here or do you have to go to the
 various European country regulators as well?
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 No. It's primarily the UK regulator. There might be some minor actions in that list a couple
 of dozen things that might need some other regulator stuff as well. But I wouldn't -- that's
 not really the issue. A lot of these internal actions frankly are under our own control. Some
 of them require regulatory approval and that sort of effect. And some of them are
 incredibly complex and take some time to execute.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Okay. Thank you very much.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Thank you.
 Page 9 of 26
 
@@ -563,10 +488,7 @@ Andy Hughes, BNP.
 
 FINAL
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Hi, thank you very much. It's Andy Hughes from Exane BNP Paribas. Three questions if I
 could, first two on the GI side. So obviously on the UK GI we had quite a few people leave
 the business over the past couple of months or so. The Q3 numbers look pretty resilient,
@@ -580,10 +502,7 @@ back book please? Thank you very much.
 
 Bloomberg Transcript
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Okay, Andy, thanks. So three questions. So the UK GI, the (technical difficulty) this morning
 we had quite a few comments from people saying that they expected worse results on
 the UK GI because a few people have left and because I changed the CEO and that often
@@ -600,10 +519,7 @@ they missed a beat. So that's what we got.
 You want to pass some comments on that Maurice? Maurice is sitting at the table with me
 today.
 
-A - Maurice Tulloch
-
-{BIO 17683736 <GO>}
-
+A - Maurice Tulloch {BIO 17683736 <GO>}
 Yes. Thanks, Mark. Good morning, Andy. I actually arrived in UK full time about two weeks
 ago. So, yes, obviously somewhat surprising we've lost four senior people. Coming from
 the Canadian market, I hadn't lost anyone on my senior team in the past five years but the
@@ -631,10 +547,7 @@ Following that, I had a further chance to review that which is done quarterly. W
 review those reserves annually. Periodically we have a peer review. Having reviewed it in
 detail now myself I have no concerns on our reserve position in Ireland.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 The other point with reserves just in Ireland of course, the core as you know in Ireland is
 poor at -- although it's improved, it's still poor. We have been pretty robust in our
 reserving, it's fair to say. So we are pretty comfortable with reserves.
@@ -656,28 +569,16 @@ full year we'll let you go through our new capital allocation process and I thin
 judge that as you wish.
 So your last question, Andy, was --
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 PPP charges.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 PPP charges, yes, David.
 
-A - David McMillan
-
-{BIO 17298829 <GO>}
-
+A - David McMillan {BIO 17298829 <GO>}
 Good morning, Andy.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Good morning.
 
 Page 11 of 26
@@ -690,10 +591,7 @@ Date: 2013-11-07
 
 FINAL
 
-A - David McMillan
-
-{BIO 17298829 <GO>}
-
+A - David McMillan {BIO 17298829 <GO>}
 I can't give you the precise average rate on the back book but it's less than 1%. We go in
 our own price cap as long as what was 2001 which was a maximum charge of 1%. So you
 go to the opposite it's going to go less than that. And in terms of impact, just anticipating
@@ -702,10 +600,7 @@ GBP4 billion with tuck-in points -- seven good pension assets and some GBP128 bi
 of the total life assets. So it's relatively small proportion of our assets in the context of life
 business in the Group.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 The whole debate and that is a big debate on caps, people are complaining about it in
 the market. I don't think it's an unhealthy debate. It is -- the charges have come down over
 time a lot and we're pretty competitive in that space as well. The order in moment stuff as
@@ -715,10 +610,7 @@ scheme is 0.5. So 50bps so just to be clear, that's where all the focus is -- ou
 50bps. Will the cap come up 50bps or 75bps or something, who knows. But just to be
 clear our average is actually 50bps on that already.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Thank you.
 
 Bloomberg Transcript
@@ -726,10 +618,7 @@ Bloomberg Transcript
 Operator
 Gordon Aitken, RBC.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Good morning, thank you, three questions, please. First on pensions, you mentioned that
 Group personal pensions have been strong and the growth is 11% for pensions. To what
 extent does that reflect commission deals which were signed or which were agreed preRDR?
@@ -739,15 +628,10 @@ quarter-on-quarter growth rate in retail annuities, please?
 And the final question is, can you just update us on net inflows and outflows as you did at
 the half year, please. Thanks.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 So pensions commission, David?
 
-A - David McMillan
-
-{BIO 17298829 <GO>}
+A - David McMillan {BIO 17298829 <GO>}
 
 Page 12 of 26
 
@@ -760,43 +644,29 @@ Date: 2013-11-07
 Well as the last of the key RDR pensions coming through, that's why you saw space in Q3,
 that's the answer to that one. Sorry, what was your second question?
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
+Q - Gordon Aitken {BIO 3846728 <GO>}
 
 FINAL
 
 Second question was on the bulks in a little bit of retail annuities.
 
-A - David McMillan
-
-{BIO 17298829 <GO>}
-
+A - David McMillan {BIO 17298829 <GO>}
 The bulks, individual was up 21% against previous quarter. So against last year. And
 individuals was actually very strong.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 So you assume from that that the key issue there is the bulks. So as I've said before our
 individuals have been very strong. Perhaps that's an area where we have maybe
 outperformed our expectations a little bit. And the third one, Pat.
 
-A - Patrick Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Regan {BIO 15131018 <GO>}
 Net flows, as you know, Gordon, we don't give net flows each quarter. What I would say is
 that the trends that we saw at the half year are the same trends that we're seeing at this
 point of the year.
 
 Bloomberg Transcript
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 What's been an interesting outcome, just as an aside. So RDR had a number of impacts.
 It's everyone and it's not just us frankly. Everyone is starting to see some trends of less
 outflows because as brokers don't get commission on it so there's less twisting in the
@@ -805,19 +675,13 @@ helpful long term. Now we need to see if that comes through in the data or not. 
 certainly what appears to be happening in the market at the moment. We'll see. Time will
 tell.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Okay. Thank you.
 
 Operator
 Abid Hussain, Societe Generale.
 
-Q - Abid Hussain
-
-{BIO 17127644 <GO>}
-
+Q - Abid Hussain {BIO 17127644 <GO>}
 Hi, morning, all. Just three questions if I can please. First on cost saves, your run rate
 indicates that you can achieve the GBP400 million cost save by the end of this year, i.e. a
 year earlier. Or if you put it another way, it looks like you will significantly exceed the
@@ -845,10 +709,7 @@ build up as you continue to generate decent cash flow and continue to dispose
 businesses? And assuming that the remittance ratio does hit the 80% down -- further
 down the line. Thanks.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Okay. Thanks. So a few questions. So the cost saves, I also have Nick Amin now, our cost
 enforcer amongst other titles that he has, with me today.
 
@@ -877,10 +738,7 @@ compares with Canada which is about 8. And so frankly it's too high and we've go
 way to go.
 Nick, anything else on costs that you want to --
 
-A - Nick Amin
-
-{BIO 16639598 <GO>}
-
+A - Nick Amin {BIO 16639598 <GO>}
 We're pretty much on track where we expected to be and we'll certainly hit the number in
 2014.
 
@@ -894,10 +752,7 @@ Date: 2013-11-07
 
 FINAL
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 And secondly, the remittance ratios. As you know last year it was 48. It's a bit hard to
 model for this, you guys to model where it's going to be. Our modeling is pretty good on
 this now and we know the actions they've taken country by country. I'm not going to give
@@ -914,10 +769,7 @@ okay, we've made some adequate progress. But I wouldn't want to overplay it. We 
 have a lot to do. Were there four questions? I think that's probably answered all your
 questions.
 
-Q - Abid Hussain
-
-{BIO 17127644 <GO>}
-
+Q - Abid Hussain {BIO 17127644 <GO>}
 Okay, hanks.
 
 Bloomberg Transcript
@@ -937,10 +789,7 @@ Third Quarter. I wonder if you could speak to that.
 And the third thing is I wonder if you could just update us on your plans for Indonesia
 acquiring distribution there or joining a partner?
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Okay. Thanks Greig. So one question about enhanced annuities. It's about the same as it
 was at the half year, it's a bit above a quarter. So that's pretty stable. That's a -- it's a nice
 part of our business and it's pretty stable. So it's a bit above a quarter.
@@ -958,29 +807,21 @@ comment?
 
 FINAL
 
-A - Patrick Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Regan {BIO 15131018 <GO>}
 Yes. We were -- I don't know if you remember, Greig. But we were just over 900 at the
 half and we're around 1.3 now. So we are basically at the numbers you just said of about
 400 for the quarter which is a tad lower, a little bit for the quarter, a little bit seasonally for
 the Third Quarter. But pretty (multiple speakers) Toronto. So the run rate is in line with
 what we saw both last year and in the first half of this year.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 I think -- what can I say. I think it would be accurate to use 1.8 in your modeling.
 
 Q - Greig Paterson
 My understanding of the 1.8 is that it is the underlying run rate executing (multiple
 speakers).
 
-A - Patrick Regan
-
-{BIO 15131018 <GO>}
+A - Patrick Regan {BIO 15131018 <GO>}
 
 Bloomberg Transcript
 
@@ -992,10 +833,7 @@ notable in terms of one-offs in this year's OCG.
 Q - Greig Paterson
 Right.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Indonesia is the third one, your third question. Now obviously I don't comment on
 speculation about it and I know there's been some speculation in the market on certain
 distribution arrangements in Indonesia. But you can see that our growth markets in Asia
@@ -1021,9 +859,7 @@ Date: 2013-11-07
 Q - Greig Paterson
 Okay. I can take it that you are speaking to some people would be my take from that.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
+A - Mark Wilson {BIO 7102576 <GO>}
 
 FINAL
 
@@ -1035,10 +871,7 @@ Thank you.
 Operator
 Andrew Crean, Autonomous.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Good morning, everyone. Two questions actually. The first one is on your operating cash
 generation, the GBP1.8 billion target. To what extent is this benefiting from operational
 variances or the acceleration of cash forward from future years so surplus relief
@@ -1051,20 +884,14 @@ going to come down materially through non-cash means. Actually it's a more gener
 question. What does that really mean as it happens for shareholders? How does it affect
 embedded value? How does it affect capital? How does it affect your view of dividend?
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Okay (inaudible) will take this.
 
 A - Unidentified Speaker
 In the First Quarter there's nothing of note, Andrew, on the experience variances or
 anything else in that bucket.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 But in terms of -- I think it was about just under GBP200 million in the first half. When
 you're looking at the GBP1.8 billion are you looking to do further surplus relief for
 insurance deals to advance cash recognition.
@@ -1087,9 +914,7 @@ Date: 2013-11-07
 certainly bespoke kind of things. But having said that there was very little of any of that in
 the Third Quarter.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
+Q - Andrew Crean {BIO 16513202 <GO>}
 
 FINAL
 
@@ -1099,15 +924,10 @@ GBP178 million and this negative variance of GBP196m?
 A - Unidentified Speaker
 No. They're not opposite sides of the coin. They're different items.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Okay. Thank you.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
+A - Mark Wilson {BIO 7102576 <GO>}
 
 Bloomberg Transcript
 
@@ -1128,22 +948,13 @@ that means.
 And we'll come back to you. And my objective is to take it off the table so you never ask
 me another question in analyst calls. And that's what we're aiming to do.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Will it have any impact on your dividend policy do you think?
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 I don't think it'll have any impact on the dividend policy no.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Thank you.
 
 Page 18 of 26
@@ -1159,10 +970,7 @@ Ashik Musaddi, JPMorgan.
 
 FINAL
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Hi, thanks a lot and good morning, everyone. Just one quick question. Just this morning in
 one of the other conference call we heard the comment that Solvency II has never looked
 better in terms of it being implemented in 2016. So can you give us your thoughts on that?
@@ -1171,10 +979,7 @@ annuities business? And how does it compare to the return of your bulk purchase 
 individual annuities, i.e. you've actively decided not to do bulk purchase? So what's the
 real difference in terms of returns? Can you give us some thoughts on that? Thanks.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Ashik. Good morning. I must confess I've never heard that that Solvency II has never
 looked better. It's (inaudible) -- it's fair to say we have been intimately involved in these
 debates both at a EU and a government level here. And it's fair to say at the beginning of
@@ -1221,10 +1026,7 @@ now. And I think in the current economic capital environment perspective Solvenc
 environment, returns on things like that will be stronger than in the pension space
 (multiple speakers) and will remain so.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 And one other things actually I could probably add is what appears to be clear is that
 there will be quite a long-term transition for the back book of all companies. And that
 makes I think a lot of sense and that helps I think everyone in the business to come to a
@@ -1233,16 +1035,10 @@ got to go through several rounds of discussion at the EU side and we will be act
 involved in it. But the only change from me on it really is I now do think it is highly likely to
 come in and it's highly likely to come in I think 2016.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 All good, thank you.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Thanks.
 
 Bloomberg Transcript
@@ -1250,10 +1046,7 @@ Bloomberg Transcript
 Operator
 Andy Hughes, BNP.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 It's Andy from Exane BNP again. A couple of quick questions if I could. One was a follow
 up on the UK GI business. I think you said that enhanced -- you made a comment about
 UK motor and the fact that volumes could increase quite dramatically. And if I'm thinking
@@ -1268,9 +1061,7 @@ And the second question was just a comment that Legal & General made about the r
 years, the sharp run off of the investment bonds. Do you see the same impact on the
 business and what does that mean for the kind of UK life earnings?
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
+A - Mark Wilson {BIO 7102576 <GO>}
 Page 20 of 26
 
 
@@ -1301,10 +1092,7 @@ respond, Mark.
 
 Bloomberg Transcript
 
-A - Maurice Tulloch
-
-{BIO 17683736 <GO>}
-
+A - Maurice Tulloch {BIO 17683736 <GO>}
 And I've never chased volume but thanks, Mark. Andy, a couple of points. Certainly this
 market is very soft right now. A lot of our competitors in my opinion have probably been a
 bit aggressive on this, the Jackson (inaudible) and we've seen that in their rates. We made
@@ -1321,10 +1109,7 @@ And in terms of length of time estimates you're probably looking at 12 to 18 mon
 think what that allows us to do is it allows us to accelerate our business. But not at the cost
 of choosing volume over value.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Okay. Thank you.
 
 Operator
@@ -1337,9 +1122,7 @@ Company N ame: Aviva PL C
 Company Ticker: AV/ L N Equity
 Date: 2013-11-07
 
-Q - Alan Devlin
-
-{BIO 5936254 <GO>}
+Q - Alan Devlin {BIO 5936254 <GO>}
 
 FINAL
 
@@ -1349,10 +1132,7 @@ Then a quick question on yield on investments. The investment yields are the wea
 since Q1 2012. Is that business -- are these investments in a bit of a limbo until your new
 CEO starts or are you taking actions there or what's going on the business? Thanks.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Morning Alan. Certainly to the regulators its internal leverage additionally. Just to be clear
 on my comments on external leverage, we've said we want to reduce it by a[ph] ratio
 over the medium term and we'll do that as we get some progress. And I said we'll bring it
@@ -1383,10 +1163,7 @@ Windsor, who's Head of Strategy and the M&A and he's the guy who's been doing th
 disposals. So doing the US and other things he's been pretty busy. Do you want pass a
 comment on this?
 
-A - Jason Windsor
-
-{BIO 17967688 <GO>}
-
+A - Jason Windsor {BIO 17967688 <GO>}
 On AI, obviously it's a business in transition. Euan will start in January and we expect him to
 be able to unlock significant potential. Within the performance this year we've seen sales
 remain roughly flat, slightly up 3% at the gross level over last year. And team down there
@@ -1403,10 +1180,7 @@ for our internal funds.
 
 FINAL
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 If you have a business like that, let's be really clear. If you have a business like with
 GBP250b, GBP260b[ph] and you only make GBP36 million in profit out of it, you and I are
 going to say that's totally unacceptable. We've got some great PMs; we've got some
@@ -1430,16 +1204,10 @@ right than the other way around. But I'm going to let Euan talk about that when 
 and he'll be able to announce that to you and the market. So it is very disappointing from
 a shareholder perspective and that one will take some time.
 
-Q - Alan Devlin
-
-{BIO 5936254 <GO>}
-
+Q - Alan Devlin {BIO 5936254 <GO>}
 Thanks.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 And I think we've got the last question now online.
 
 Operator
@@ -1467,18 +1235,12 @@ difference?
 
 FINAL
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 I must confess, Greig, I don't know what the presentation you're referring is as I wasn't
 here. But I've got someone who will know because he was in Canada and is now here and
 that's Maurice.
 
-A - Maurice Tulloch
-
-{BIO 17683736 <GO>}
-
+A - Maurice Tulloch {BIO 17683736 <GO>}
 Yes and thanks for the question. I think what was -- and I can't specifically recall the
 presentation. But certainly what we did in UK Motor four years ago was we brought over
 credit scoring. And it actually came over from the Canadian business and the term we
@@ -1497,10 +1259,7 @@ things I'm looking forward to doing. That sort of turnaround won't be immediate.
 about data; it's about people; it's about pounds[ph]. But that's certainly what we're going
 to look to build.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 For example, on the fraud, I was in Canada about a month ago and we saw a presentation
 on fraud modeling. And the systems we use are the same sort of systems Interpol uses in
 some of the data, just an aside. And we can predict frauds by groups. We're using
@@ -1539,15 +1298,10 @@ about technical pricing. Do you have what I call (inaudible) pricing or market p
 technology where you can fine tune your pricing on the price comparison websites or is
 that also an area of development going forward?
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Yes we do. Maurice you want to --
 
-A - Maurice Tulloch
-
-{BIO 17683736 <GO>}
+A - Maurice Tulloch {BIO 17683736 <GO>}
 
 Bloomberg Transcript
 
@@ -1557,10 +1311,7 @@ because you'll actually -- if the markets a straight line on a 45, you'll find y
 line, the weak point using economic capital is achieving your return. But you still need to
 have the basis and, yes, we do have it.
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Some of that is real time on the online systems and stuff. Again this isn't a point in time
 thing. It changes pretty much each week as we move. We also have a lot of this data on
 the life side by the way in a different way in the annuities. Why do we do well on annuities?
@@ -1575,10 +1326,7 @@ Q - Greig Paterson
 (inaudible) your enhanced data is only four years old. I mean your competitors' are 10 and
 20. Doesn't that leave you at a competitive disadvantage?
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 I don't know which industry competitors said that on the market. But that would be
 (multiple speakers).
 
@@ -1596,10 +1344,7 @@ beyond that.
 
 FINAL
 
-A - Mark Wilson
-
-{BIO 7102576 <GO>}
-
+A - Mark Wilson {BIO 7102576 <GO>}
 Our data on annuities. So you keep a lot of data on people when you -- on annuities on
 life insurance that sort of thing as well obviously. What we have seen on that is we have
 seen a large increase in it as it's become let's say a fashion in the market. It's become a

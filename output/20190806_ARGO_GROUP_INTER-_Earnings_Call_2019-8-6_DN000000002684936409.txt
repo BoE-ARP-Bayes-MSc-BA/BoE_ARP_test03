@@ -30,10 +30,7 @@ today's event is being recorded.
 At this time, I would like to turn the conference over to Brett Shirreffs, Interim Head of
 Investor Relations. You may begin.
 
-Brett Shirreffs
-
-{BIO 15817618 <GO>}
-
+Brett Shirreffs {BIO 15817618 <GO>}
 Thank you, and good morning. Welcome to Argo Group's conference call for the second
 quarter of 2019. After the market closed last night, we issued a press release on our
 earnings, which is available on the Investor section of our website at
@@ -63,10 +60,7 @@ detailed discussion of such risks and uncertainties, please see Argo Group's fil
 the SEC.
 I will now turn the call over to Mark Watson, Chief Executive Officer of Argo group.
 
-Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+Mark E. Watson {BIO 20610831 <GO>}
 Thank you, Brett, and hello, everyone. I would also like to add that Axel Schmidt, our Head
 of Underwriting will be with us for the Q&A as well.
 
@@ -301,10 +295,7 @@ and updating you on our continued progress going forward.
 And I'll now turn the call over to, Mark Rose, to talk about our investment portfolio in more
 detail. Mark?
 
-Mark H. Rose
-
-{BIO 1557365 <GO>}
-
+Mark H. Rose {BIO 1557365 <GO>}
 Thanks, Mark, and good morning. Turning to investments, the second quarter total return
 was up 2% or approximately $100 million. It was a strong continuation of the first quarter
 rally, bringing our first half 2019 total return to 5.2%, up nearly $250 million. This compares
@@ -349,10 +340,7 @@ Bloomberg Transcript
 
 With that, I will turn the call over to Jay Bullock, our CFO.
 
-Jay S. Bullock
-
-{BIO 3644311 <GO>}
-
+Jay S. Bullock {BIO 3644311 <GO>}
 Thanks, Mark, and good morning, everyone. I'll focus my comments today on some key
 highlights and explanations to the financials we reported last night, and we'll take your
 questions. Commenting first on the top line, Gross premium growth was strong in both
@@ -465,10 +453,7 @@ Operator
 We will now begin the question-and-answer session. (Operator Instructions) Today's first
 question comes from Greg Peters of Raymond James. Please proceed.
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
-
+Q - Greg Peters {BIO 3111497 <GO>}
 Good morning. I was going to focus on two questions: one, around the expense ratio, and
 then longer term target of your 10% return on equity. On your expense ratio, it looked like
 it moved a little bit against you in US and I think you called out in the international
@@ -477,10 +462,7 @@ down year-over-year. So maybe you could provide some additional color about -- a
 that? And then give us some ideas of the levers you have to pull going forward to get it
 lower?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Sure, Greg. Well, let me answer that. I'll start with the answer to that question, and I'll let
 Kevin jump in on the US. But one of the things that we know that there was a one-time
 Page 9 of 19
@@ -495,30 +477,20 @@ benefit in the last year's quarter in the expense ratio in the US. Those numbers
 pretty comparable year-over-year. I don't know. Kevin, if you want to add anything else on
 the US side.
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 
 FINAL
 
 No, slight mix shift and --
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 That's right, yeah.
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 The thing you mentioned earlier about last year, we had benefit from a seeding [ph]
 commission that went through.
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
+A - Mark E. Watson {BIO 20610831 <GO>}
 
 Bloomberg Transcript
 
@@ -532,31 +504,19 @@ where both benefiting from a very strong rate environment. So I understand that 
 the connection between the two, but I would say that the growth and expense ratio are
 kind of working with different drivers at the moment and should come into the line -come in the line as the rest of this year and next year plays out.
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
-
+Q - Greg Peters {BIO 3111497 <GO>}
 So the timing of -- this is more of a 2020 impact, versus 2019 because of the run off,
 correct?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Yeah. (inaudible) yes.
 
-A - Mark H. Rose
-
-{BIO 1557365 <GO>}
-
+A - Mark H. Rose {BIO 1557365 <GO>}
 Well, and also just as we're getting more -- this is Mark, as we're getting more rate across
 the board now, it's just -- it's going to take a few more months for that to translate into
 earned premium or revenue, which then impacts the financial statement.
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
-
+Q - Greg Peters {BIO 3111497 <GO>}
 Okay. I have -- I can't help myself on the reserve adjustment in the international. You called
 out the Bermuda casualty business, where it hit your attachment points. Did you then
 Page 10 of 19
@@ -571,10 +531,7 @@ book that to a full case reserve on that, or can you walk us through the mechani
 
 FINAL
 
-A - Mark H. Rose
-
-{BIO 1557365 <GO>}
-
+A - Mark H. Rose {BIO 1557365 <GO>}
 This is Mark. There were a couple of claims that in the original -- in the initial reports that
 we received, we didn't think they would hit our layer, and information came up during the
 quarter that led us to conclude otherwise. And what's happened is -- this -- we had the -- I
@@ -586,9 +543,7 @@ that when you look at this portfolio, over the course of time, the margins on av
 generated pretty significant double digit returns even with the loss -- the changes we
 made to our loss reserves in the second quarter of this year.
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
+Q - Greg Peters {BIO 3111497 <GO>}
 
 Bloomberg Transcript
 
@@ -600,10 +555,7 @@ because of what happened in the international operations. And should we -- you h
 10% for operating. Is that -- is this a 2020 target, or can you give us some sort of
 timeframe on where we'll see this step up and improvement?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Okay. Well, let's -- so I'll start and then I'll let Jay jump in. But the other thing that I look
 back to Bermuda insurance for a minute. I also made the point in our remarks earlier that
 this line of business is volatile as well as our property cat business. And so there are times
@@ -618,10 +570,7 @@ value creation, which includes the contribution from the investment portfolio. I
 jump in. But I think we've got a pretty clear line of sight for 2020, based upon what we
 see today.
 
-A - Jay S. Bullock
-
-{BIO 3644311 <GO>}
-
+A - Jay S. Bullock {BIO 3644311 <GO>}
 Yeah. Greg, I just would go back to some of the things that we put out and published
 earlier this year. We talked about how did we get to 10% risk free rate plus 700 basis
 points. I would note that as of yesterday, the risk free rate was 1.75. But we often try to
@@ -644,39 +593,25 @@ us. And the combined ratio of 93% was depending upon getting the expenses down t
 around 36%. So the expense ratio. So I would agree with Mark that we've got a pretty
 clear line of sight to be hitting that on a quarterly basis in 2020.
 
-A - Mark H. Rose
-
-{BIO 1557365 <GO>}
-
+A - Mark H. Rose {BIO 1557365 <GO>}
 Absent volatility.
 
-A - Jay S. Bullock
-
-{BIO 3644311 <GO>}
-
+A - Jay S. Bullock {BIO 3644311 <GO>}
 Absent volatility.
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
-
+Q - Greg Peters {BIO 3111497 <GO>}
 Okay. Thank you for those answers. I just a final cleanup question. Given the volatility in the
 marketplace, in the stock markets specifically and interest rates, I'm wondering if we'll see
 some sort of step back in investment income in the third quarter if this holds out for the
 balance of the quarter?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
+A - Mark E. Watson {BIO 20610831 <GO>}
 
 Bloomberg Transcript
 
 Mark?
 
-A - Mark H. Rose
-
-{BIO 1557365 <GO>}
-
+A - Mark H. Rose {BIO 1557365 <GO>}
 Yeah, Greg, you're trying to predict the day trading password right there, I mean. a week - in the last 10 days, we saw a significant drop in treasury rates globally and now we're
 starting -- in the last three days, we're seeing the spreads on corporate bonds, widen out
 materially so that could be a positive as we roll into new single A and triple B rated paper
@@ -684,10 +619,7 @@ to pick up some yield because spreads have moved enough. But it's so unpredictab
 right now. So I would take a conservative view that it's going to be more challenging than
 the last four quarters today. But it's something to watch.
 
-A - Jay S. Bullock
-
-{BIO 3644311 <GO>}
-
+A - Jay S. Bullock {BIO 3644311 <GO>}
 Yeah. And the other thing that I would add, Greg this Jay again, is there is a difference in
 the environment today. And that is at the very short-end of the curve. It's not zero. And it
 was a couple of years ago. And so that very short-end of the curve, whether it's three,
@@ -695,10 +627,7 @@ nine or a 1.5 or two years, has an impact on us as well. So it depends on what h
 that, is really what drives the outlook -- immediate outlook, and outlook for the next eight
 quarters.
 
-Q - Greg Peters
-
-{BIO 3111497 <GO>}
-
+Q - Greg Peters {BIO 3111497 <GO>}
 Great. Thank you for your answers.
 
 Page 12 of 19
@@ -712,40 +641,26 @@ Date: 2019-08-06
 Operator
 Our next question comes from Christopher Campbell of KBW. Please proceed.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
+Q - Christopher Campbell {BIO 20262752 <GO>}
 
 FINAL
 
 Hi, all. Good morning, and congrats on the quarter.
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Thank you.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
-
+Q - Christopher Campbell {BIO 20262752 <GO>}
 I guess the first question is, I think you mentioned Mark in your in the opening script about
 loss rates being up 9.3%. What do you see in the US?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Well, actually, I'll let Kevin handle that. And I also like, actually, to talk a little bit more about
 what that is at Lloyd's. But Kevin, go first.
 
 Bloomberg Transcript
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yeah. Hi, Christopher. Across the US, we're seeing mid single digit rate increases. But
 specifically in a few areas, we're seeing solid double digits, and those would be in the
 access casualty, property, and professional liability areas, with some of our transportation
@@ -753,10 +668,7 @@ related businesses being closer to double digits as well. So across the board, w
 seeing upward trend and it's improved in the second quarter markedly over the first
 quarter.
 
-A - Axel Schmidt
-
-{BIO 19499069 <GO>}
-
+A - Axel Schmidt {BIO 19499069 <GO>}
 It's Axel Schmidt here. With regards to Lloyd's or Syndicate 1200 you're seeing the most
 rate increases of property being off book. Yesterday, it's about 23%, 24%, on top of what
 we had achieved going back to post Harvey or Maria in 2017. And on top what we
@@ -768,10 +680,7 @@ regards to our management liability, it follows what Kevin described would be se
 best. It's not that much yet, but we are also achieving double digit rate increases and less
 of liability in all our Syndicate 1200 book.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
-
+Q - Christopher Campbell {BIO 20262752 <GO>}
 Great.Thanks for that color. I appreciate it. And that's just a question on -- dovetailing on
 one of Greg's questions about one of the activists proposals was to like exit the
 international segment. I guess, just how should we think about that as investors? If we
@@ -790,10 +699,7 @@ And what would be the benefits and costs in terms of like thinking about that?
 
 FINAL
 
-A - Mark H. Rose
-
-{BIO 1557365 <GO>}
-
+A - Mark H. Rose {BIO 1557365 <GO>}
 I think that when we look at our organization today, it looks very similar to most of our US
 peers who also have significant operations in London for sure, and to a lesser extent,
 perhaps Bermuda or other parts of the world. When I look at our business today, by line of
@@ -805,9 +711,7 @@ calls over the last couple of years, we've spent as much time talking about reme
 shutting down lines of business in the US as we have in international. So that's how we
 think about it. actually. Axel,do you want to add anything?
 
-A - Axel Schmidt
-
-{BIO 19499069 <GO>}
+A - Axel Schmidt {BIO 19499069 <GO>}
 
 Bloomberg Transcript
 
@@ -819,34 +723,22 @@ give our underwriting disparities. And that's going to be profitable, including 
 in the international. So therefore, the projected returns, I think, are in line with
 expectations.
 
-A - Mark H. Rose
-
-{BIO 1557365 <GO>}
-
+A - Mark H. Rose {BIO 1557365 <GO>}
 The other thing that I would add, Chris, is where we operate has different cost structures.
 And in parts of the world where we see the transaction costs going up, either because of
 the platform on or commission expense? We're taking a hard look at how much exposure
 we really want to that platform.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
-
+Q - Christopher Campbell {BIO 20262752 <GO>}
 Got it. And then what are the ROEs by each of the segments currently and then where do
 you think they can be?
 
-A - Mark H. Rose
-
-{BIO 1557365 <GO>}
-
+A - Mark H. Rose {BIO 1557365 <GO>}
 So I'm just going to say that our goal is a double digit ROE for all the businesses that
 we're in. The majority of them are performing at that now, and that's what we're focused
 on.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
-
+Q - Christopher Campbell {BIO 20262752 <GO>}
 Got it. And then Rochie [ph] also had some other ideas to improve ROEs, like they said,
 like a run-off sale, corporate restructuring, investment expenses. I guess, what are your
 thoughts on potentially adopting some of those ideas as well?
@@ -859,9 +751,7 @@ Company N ame: Argo Group I nternational H oldings L td
 Company Ticker: ARGO US Equity
 Date: 2019-08-06
 
-A - Mark H. Rose
-
-{BIO 1557365 <GO>}
+A - Mark H. Rose {BIO 1557365 <GO>}
 
 FINAL
 
@@ -870,17 +760,11 @@ at a sale of the runoff book for, oh, gosh. Well, we've been looking at it off a
 years. And that we had entered into to a review of that at the end of last year. And I'll just
 say that those discussions are ongoing.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
-
+Q - Christopher Campbell {BIO 20262752 <GO>}
 Got it. And then just one last one on the shares to fall back a little bit since, they hit their
 highs. So how are you guys thinking about repurchases?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Well, look, if you look at how we think about shareholder repatriation, or the repatriation
 of capital in general, over the last eight years, our gap equity has gone from, I think, a $1.5
 billion to $1.9 billion and we've given back through either dividends or share repurchases
@@ -896,17 +780,11 @@ investment portfolio, and the third is how effectively we manage capital to the 
 we believe that we have excess capital, that we don't need for our core underwriting
 business with our share price down. I think we have to keep thinking about that.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
-
+Q - Christopher Campbell {BIO 20262752 <GO>}
 Yeah. I just want to make sure of it. Yeah. There was no change in the philosophy, just
 because you guys haven't bought back in the last two quarters.
 
-A - Mark H. Rose
-
-{BIO 1557365 <GO>}
-
+A - Mark H. Rose {BIO 1557365 <GO>}
 No. But I know, well, there's no change in the philosophy of how we think about capital. But
 I would say that given that our share price is trading above book, that we have we have
 suggested, I think previously, that perhaps increasing or use of dividends as a way to
@@ -914,16 +792,10 @@ repatriate capital might be more effective to our shareholders than a share buyb
 don't mean to exclude that, Chris, but rather to say there is a range of things that we can
 do when we're still open to looking at all of them.
 
-Q - Christopher Campbell
-
-{BIO 20262752 <GO>}
-
+Q - Christopher Campbell {BIO 20262752 <GO>}
 Okay. Great. Well, thanks for all the answers. Best of luck in the third quarter.
 
-A - Mark H. Rose
-
-{BIO 1557365 <GO>}
-
+A - Mark H. Rose {BIO 1557365 <GO>}
 Thank you.
 
 Operator
@@ -940,42 +812,27 @@ proceed.
 
 FINAL
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Hi, good morning. Looking at the professional liability book, it looks like it drove a lot of
 the growth in the US, maybe not quite half, growth was 35%. I know you had mentioned
 rate increases. There were in the double digits. How far into the double digits are we
 talking there? And can you maybe discuss what you're seeing in that in that market? And
 why there is --
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Yes.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 That opportunity?
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Yes. Let me start, and then I'll let Kevin jump in. It's not just about rate increase. It's about
 how we face the market, and how we structure our products today, and what our
 expectations are in the future. Kevin?
 
 Bloomberg Transcript
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yeah, it's really been driven by the management professional liability book and there's
 some market conditions that are different where, a year ago people were offering $50
 million limits. They're down to $10 million now, which is opening up a lot of opportunities
@@ -983,10 +840,7 @@ that didn't exist before to participate on programs. A lot of digital work we've
 allowing us to respond quicker and the -- in management professional liability, the price
 increases have been strong -- very strong double digits, especially in this quarter.
 
-A - Mark H. Rose
-
-{BIO 1557365 <GO>}
-
+A - Mark H. Rose {BIO 1557365 <GO>}
 Yeah. And to just go back to Argo Digital for a minute. We -- I think we said -- I think we
 talked about this on our -- on the last quarter, that we now have built a predictive analytic
 tool that's really helping us figure out; one, which risk to write or not write at all; second,
@@ -995,10 +849,7 @@ that. So I think we have much more underwriting precision today than we did a ye
 And that giving us a lot more comfort as these market opportunities that Kevin just
 mentioned come up.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Got it. Okay. That makes sense. I mean, are the rate increases, are you seeing
 competitors facing loss pressures there, you're not really seeing that. I mean, you're able
 to sort of through technology, have better risk selection there, but you're not seeing any
@@ -1012,9 +863,7 @@ Company N ame: Argo Group I nternational H oldings L td
 Company Ticker: ARGO US Equity
 Date: 2019-08-06
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 
 FINAL
 
@@ -1023,18 +872,12 @@ that there's a pullback on limit sizes being put out by all carriers, the increa
 increases in retentions which are happening across the board and management
 professional liability.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Okay. And could you discuss growth in the E&S books, specifically what you're seeing
 there just given pullbacks by AIG, by Lloyd's, what's growth levels there in the profitability
 of that book?
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Sure. It's Kevin, again answering. What we've seen is pretty much continuation of what we
 have seen in the past. It's still over 10% in terms of the increase in submission activity, but
 our appetites are very clearly defined. So if it fits the boxes we've had, we're happy to
@@ -1043,9 +886,7 @@ competing on all of that, but we've seen a continual growth in the flow of submi
 activity and a slight improvement of the quality that's allowed us to continue to grow and
 grow in that area.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 
 Bloomberg Transcript
 
@@ -1054,26 +895,17 @@ Okay. Thank you.
 Operator
 The next question comes from Bob Farnam of Boenning & Scattergood. Please proceed.
 
-Q - Bob Farnam
-
-{BIO 15005467 <GO>}
-
+Q - Bob Farnam {BIO 15005467 <GO>}
 Hi, thanks. Good morning. I had a quick question on the current year, large losses. I know
 Jay you mentioned about the energy piece, but I want to know if there's any commonality
 in the large property losses, kind of what was behind those?
 
-A - Jay S. Bullock
-
-{BIO 3644311 <GO>}
-
+A - Jay S. Bullock {BIO 3644311 <GO>}
 Well, what has happened particularly this regards to our Lloyd's business was issues that
 the international loss pick those actual. We have taken immediate actions, but that was
 the only common denominator.
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 Yeah, there were some large losses, this great large property losses that happened at
 the European business. There wasn't -- there didn't seem to be a commonality there
 other than, we were on the wrong risks. The largest loss accounting for more than half of
@@ -1088,32 +920,20 @@ Company N ame: Argo Group I nternational H oldings L td
 Company Ticker: ARGO US Equity
 Date: 2019-08-06
 
-Q - Bob Farnam
-
-{BIO 15005467 <GO>}
-
+Q - Bob Farnam {BIO 15005467 <GO>}
 Is this something -- I mean, large losses like that, is that's something that happens every
 quarter, just having to be -- had maybe more than couple that was notable enough that
 they had to kind of disclose that or just like?
 
 FINAL
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yeah.
 
-Q - Bob Farnam
-
-{BIO 15005467 <GO>}
-
+Q - Bob Farnam {BIO 15005467 <GO>}
 Okay.
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 It was a spike in frequency Bob, and I've had this conversation internally a lot because you
 think about you have these large losses and how many are you going to have in a year?
 And the answer is 1.2. Well, you never have one point, you have zero, or you have three.
@@ -1121,9 +941,7 @@ So this was a time when we had four. And so when it happen -- when it hits in a 
 like that, there's no IBNR from a prior quarter, you're not going to go borrow IBNR from a
 future quarter. It's just bad stuff happened in that particular quarter.
 
-Q - Bob Farnam
-
-{BIO 15005467 <GO>}
+Q - Bob Farnam {BIO 15005467 <GO>}
 
 Bloomberg Transcript
 
@@ -1133,10 +951,7 @@ Operator
 This concludes our question-and-answer session. At this time. I would like to turn the
 conference back over to Mark Watson for any closing remarks.
 
-A - Mark E. Watson
-
-{BIO 20610831 <GO>}
-
+A - Mark E. Watson {BIO 20610831 <GO>}
 I'd like to thank everyone for joining us on the call today. There's been a lot of activity
 during the quarter, and I think we're off to a good start for the third quarter. We'll see
 what happens with the capital markets. And I look forward to speaking to everyone in

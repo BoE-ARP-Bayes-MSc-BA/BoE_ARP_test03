@@ -38,10 +38,7 @@ is being recorded.
 I would now like to turn the conference over to Tom Gayner, Co-Chief Executive Officer.
 Please go ahead.
 
-Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+Thomas S. Gayner {BIO 1896932 <GO>}
 Thank you, Priyanka. Good morning and welcome to the 2016 second quarter conference
 call for the Markel Corporation. We've got some good short-term news from the first half
 
@@ -83,10 +80,7 @@ details on our overall financial metrics and insurance operations. Then I'll ret
 you on our investment activity and Markel Ventures. Following that we will do our best to
 answer your questions. With that, Anne?
 
-Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+Anne G. Waleski {BIO 16735457 <GO>}
 Thank you, Tom, and good morning, everyone. Like Tom, I'm happy to report that our
 financial performance for the first half of 2016 continues to be strong across our
 underwriting, investment and Markel Ventures operations.
@@ -233,10 +227,7 @@ With that, I will turn it over to Mike to talk about our U.S. Insurance segment.
 
 Bloomberg Transcript
 
-F. Michael Crowley
-
-{BIO 7345383 <GO>}
-
+F. Michael Crowley {BIO 7345383 <GO>}
 Thanks, Anne. Good morning everyone. As we described in previous calls, the U.S.
 Insurance segment comprises all direct business written on our U.S. Insurance companies
 and includes all of the underwriting results of our wholesale, specialty and global divisions.
@@ -307,10 +298,7 @@ vehicle for mutual success, and we are making every effort to be in front of our
 every opportunity.
 I'll now turn the call over to Richie.
 
-Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+Richard R. Whitt {BIO 7084125 <GO>}
 Thanks, Mike. Good morning, everybody. Today, I'll focus my comments on the
 underwriting results for the year, for both International and the Reinsurance segments.
 First, let's start with the International insurance segment, which includes business written
@@ -416,10 +404,7 @@ some of you may have seen Markel CATCo recently reported a 1% reduction in NAV
 related to reserves for the Canadian wildfires.
 With that, I'll turn it over to Tom. Thank you.
 
-Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+Thomas S. Gayner {BIO 1896932 <GO>}
 Thanks Richie. As I stated at the beginning there are three main engines at Markel that
 build financial value: our insurance operations, our investment activities, and Markel
 Ventures. Fortunately and pleasantly, all three engines powered positive results during the
@@ -501,17 +486,12 @@ Operator
 We will now begin the question-and-answer session. The first question comes from Mark
 Hughes with SunTrust. Please go ahead.
 
-Q - Mark Douglas Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Douglas Hughes {BIO 1506147 <GO>}
 Hi. Thank you very much. You talked about the higher claims frequency in med mal. Was
 that a shift in underwriting focus, you might have undertaken a couple of years ago or
 were are you seeing a change in frequency with clients you had for some period of time?
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
+A - Anne G. Waleski {BIO 16735457 <GO>}
 
 Bloomberg Transcript
 
@@ -519,36 +499,21 @@ The book – the development in the book has really been specific to particular 
 elements of that book. So it isn't really a change in our underwriting as much as it has
 been a change in the underlying risk profile, something we've written for a while.
 
-Q - Mark Douglas Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Douglas Hughes {BIO 1506147 <GO>}
 Right. So, increased frequency on kind of the existing book of business is how you would
 size it?
 
-A - Anne G. Waleski
-
-{BIO 16735457 <GO>}
-
+A - Anne G. Waleski {BIO 16735457 <GO>}
 That's right.
 
-A - F. Michael Crowley
-
-{BIO 7345383 <GO>}
-
+A - F. Michael Crowley {BIO 7345383 <GO>}
 Yeah.
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 And we've taken our underwriting expertise and taken actions to correct that book. So we
 are moving forward with those actions.
 
-Q - Mark Douglas Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Douglas Hughes {BIO 1506147 <GO>}
 And then workers' compensation seems like you are getting good growth, good
 favorable development, some discussion of increased competition there. How do you
 view that now that still you think going to be a growth line for you?
@@ -560,9 +525,7 @@ Company N ame: M arkel Corp
 Company Ticker: M K L US Equity
 Date: 2016-08-03
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 
 FINAL
 
@@ -575,18 +538,12 @@ And the underwriting philosophy where we are reclassifying the accounts have all
 into the plan that Matt Parker and Chet Riccuci (31:05) executed to grow that business. So
 we don't see or foresee any significant change going forward in the near future.
 
-Q - Mark Douglas Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Douglas Hughes {BIO 1506147 <GO>}
 And then the Markel Ventures or the other revenue lines, you've had some meaningful
 seasonality, the step up in Q3. It is that – any reason to think that seasonality is going to
 change as we go forward?
 
-A - F. Michael Crowley
-
-{BIO 7345383 <GO>}
-
+A - F. Michael Crowley {BIO 7345383 <GO>}
 Well you are making a prediction about Q3 that we would love to see play out actually. But
 no, just kidding. Q2, we have cyclical businesses especially in the transportation side. So
 that business is still pretty good. That really isn't seasonal in nature. It's the function of the
@@ -594,36 +551,24 @@ economic cycle and so far so good.
 
 Bloomberg Transcript
 
-Q - Mark Douglas Hughes
-
-{BIO 1506147 <GO>}
-
+Q - Mark Douglas Hughes {BIO 1506147 <GO>}
 Thank you.
 
 Operator
 The next question comes from Mark Dwelle with RBC Capital Markets. Please go ahead.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Yeah, good morning. Just a couple of questions. Richie you had talked about some
 software write-off costs in the international segment. I was just hoping you could quantify
 that a little bit, either in terms of number of combined ratio points or absolute dollars?
 
-A - Richard R. Whitt
-
-{BIO 7084125 <GO>}
-
+A - Richard R. Whitt {BIO 7084125 <GO>}
 Mark, it was about $8 million and what it related to is it was some initiatives we were
 undertaking for our retail business in some of our European – our European branch offices.
 Some of that will probably still be useful to us but the prudent thing to do was to write-off
 the $8 million of that software.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Okay. No, that's helpful. I know you guys normally are pretty proactive on taking those
 charges when necessary. Also, I guess this is in the reinsurance division, you mentioned in
 
@@ -640,10 +585,7 @@ something different? Just kind of curious on that?
 
 FINAL
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Yes, we are not doing the GSEs; we are doing the private mortgage companies. We're
 not as – we just don't think the GSE business is as attractive. Obviously those companies
 went through a tough time during the financial turmoil and they're trying to rebuild their
@@ -652,53 +594,33 @@ Part of their plan has been an element of reinsurance. Just about each one of th
 added reinsurance as an element of trying to rebuild their capital bases. And we've seen
 that as an attractive opportunity.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Okay. And I guess lastly just building on one of questions just asked on the workers comp,
 do you do much business in Florida related to workers comp?
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 We do some. Yes. We even got people headquartered in Florida that is domiciled down
 there. Yes, we do.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
+Q - Mark Dwelle {BIO 4211726 <GO>}
 
 Bloomberg Transcript
 
 Okay.
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 It's not a humongous percentage of our book, but it's – but we do, do business in Florida.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Yes, we've heard kind of conflicting reports about what the impact of some of the recent
 judicial rulings are there and I was just curious if that was an exposure that you had at this
 point or maybe something you are just investing in -?
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Well I think we're writing – I'd have to go back and check, but I think we're writing in 34
 states or 38 states now. So I think you can look at it from that perspective.
 
-Q - Mark Dwelle
-
-{BIO 4211726 <GO>}
-
+Q - Mark Dwelle {BIO 4211726 <GO>}
 Okay. Thanks. That's all my questions.
 
 Operator
@@ -712,33 +634,23 @@ Company N ame: M arkel Corp
 Company Ticker: M K L US Equity
 Date: 2016-08-03
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Hi, good morning, everyone.
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 
 FINAL
 
 Good morning.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Question regarding Markel Ventures and just looking at the margins there, and I know last
 year there was that contingent liability adjustment for Cottrell. But even after adjusting it
 looks like EBITDA margins, net profit margins are up quite a bit there. Is that seasonality or
 is that a shift in mix from deals? I mean is Cottrell driving a higher margin or what's going
 on there?
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 
 Bloomberg Transcript
 
@@ -752,33 +664,21 @@ history of that, but long-term, when we think about Markel and when we think abo
 conditions and tough economic conditions, they produce very attractive returns on capital.
 And that's what matters to us.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Okay. And on share buybacks, it looks like 15 million shares around there were bought
 back during the quarter. Looking back over the past couple of years, it seems like you've
 had a preference to be buying when the stock is trading at below 1.5 times book. It's
 moved above that. Is there – am I thinking about that right, or is there change in
 philosophy there at all?
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Well, first, let me correct the number. 15 million shares would leave us with negative
 shares out there. That would be a happy surprise, but I can...
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Right, right, right.
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Share repurchasing has been relatively modest here over the years. Our preference is
 you know, in rank order, if we can fund organic growth from our insurance or our Markel
 Page 13 of 15
@@ -800,10 +700,7 @@ some of those other alternatives come up. So we've been modest share repurchaser
 over the years. I think that will continue to be the case as long as we find good productive
 ways to use capital.
 
-A - F. Michael Crowley
-
-{BIO 7345383 <GO>}
-
+A - F. Michael Crowley {BIO 7345383 <GO>}
 Yeah. I might just add to that. If you went back and look at our share repurchases over the
 past two years, you'd probably see us purchase a little bit every second quarter. One of
 things we like to do as part of our long-term incentive packages for our senior leaders is
@@ -811,10 +708,7 @@ restricted stock and as soon as we know what that number is we usually go out an
 buyback a roughly equivalent number of shares because we don't want to dilute the share
 count.
 
-Q - Jeff Schmitt
-
-{BIO 19747235 <GO>}
-
+Q - Jeff Schmitt {BIO 19747235 <GO>}
 Got it. Got it. Okay. Thank you.
 
 Bloomberg Transcript
@@ -824,10 +718,7 @@ We have no further questions at this time. This concludes our question-and-answe
 session. I would like to turn the conference back over to Tom Gayner for any closing
 remarks.
 
-A - Thomas S. Gayner
-
-{BIO 1896932 <GO>}
-
+A - Thomas S. Gayner {BIO 1896932 <GO>}
 Thank you very much for joining us. We look forward to speaking with you soon. Thanks.
 Bye-bye.
 

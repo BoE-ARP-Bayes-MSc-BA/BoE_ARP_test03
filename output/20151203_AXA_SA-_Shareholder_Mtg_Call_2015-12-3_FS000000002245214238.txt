@@ -26,10 +26,7 @@ Bloomberg Transcript
 William H. Elderkin
 
 MANAGEMENT DISCUSSION SECTION
-Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Andrew Wallace-Barnett {BIO 18671460 <GO>}
 So good evening, everybody, and welcome to AXA's 2015 Investor Day. Welcome to
 those on the phone, welcome to those on the webcast, and of course, welcome to those
 here in the room. After the presentation, we will have as per usual a session of Q&A and
@@ -58,10 +55,7 @@ And without any further ado, I hand over to Denis.
 
 FINAL
 
-Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Thanks, Andrew, and good afternoon ladies and gentlemen. I will do just introduction and
 the conclusion of this presentation. Andrew is right. We started our internal modeling at
 AXA back in 2000. We had organized a competition between consultants at that time,
@@ -141,10 +135,7 @@ Chief Risk Oﬃcer, who is now going to take over before Gérald talks to you ab
 expect to manage our capital going forward.
 Thank you very much.
 
-Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+Alban de Mailly Nesle {BIO 20387796 <GO>}
 Thank you, Denis. So, good evening ladies and gentlemen. I am happy to be with you
 tonight to be able to share our numbers after so many years of hard work. So what I'll do
 today, I'll take you through some technical details of our model, well the building blocks
@@ -499,9 +490,7 @@ the holding company, and this is why we are conﬁdent in our ability to increas
 payout ratio from 40% to 50%, to 45% to 55%.
 I now hand over to Denis.
 
-Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
+Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 
 Bloomberg Transcript
 
@@ -522,10 +511,7 @@ With that, I'd like to thank you very much for your attention and now hand over 
 back to you for questions-and-answers. First one in the back?
 
 Q&A
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 (40:57) consumes 32% in the ratio. But normally, when I think 1 in 200, it's normally 10
 times worse than the 1 in 20. And so, it's obviously not in your case in your model. And so
 somehow, I guess, as you go from 1 in 20 to 1 in 200, actually becomes more resilient
@@ -534,9 +520,7 @@ at in this 1-in-20 shock? And obviously, if the hedging kicks in at 1 in 200, is
 between one and 20 and one and 200 that I should be thinking about in terms of
 pressure? Thank you.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 Page 10 of 30
 
 
@@ -553,10 +537,7 @@ is a distribution of losses. We look at to 0.5% probability or 5% probability. A
 that 0.5% probability which cost us 100 points, and the 5% will cost us 32%, but you
 cannot infer from the probability that the shock will be proportional.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi there. Thank you. Farooq Hanif from Citigroup. I don't understand your cash ﬂow
 because we're getting mixed signals from other companies. So, surely, when you write
 new business market consistently, if you're pricing that way, you should be creating value.
@@ -575,10 +556,7 @@ constraint in your business – is it the U.S.? And last point is, yeah, why do 
 300% CAL? I mean, is that equivalent to what you would say as an economic capital
 equivalent level, or is it that a regulator told you to move to 300%? Thank you.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Gérald, do you want to take the questions?
 
 A - Gérald Harlin
@@ -592,10 +570,7 @@ means that these countries have a tougher regulatory constraints and framework, 
 means that in the end, on average, we are quite comfortable saying that it will be 75% to
 85%. That's the main reason.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Do you want to take the question on new business strain and the Life business?
 
 A - Gérald Harlin
@@ -613,9 +588,7 @@ Date: 2015-12-03
 to? It's purely cash. So that means that you have to pay your commissions. And the fact
 that you have to pay your commissions makes that you have a cash strain...
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 
 FINAL
 
@@ -625,19 +598,13 @@ A - Gérald Harlin
 Plus internal acquisition expenses, agree, which means that you have a cash strain which
 is, I would say, the same whatever the framework. So it's purely cash. It's in and out.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 The local GAAP is not changing.
 
 A - Gérald Harlin
 No, no, no.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 It has nothing to do with local GAAP.
 
 Bloomberg Transcript
@@ -648,10 +615,7 @@ it's exactly the same. Just take a look at our EEV framework, it's exactly the s
 what we call generally the strain. So that's why it's a – I hope I answer your question, but
 it's really something which is quite the same taking the detail on countries.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 I would add one point which is that on the new business required capital, it's really a
 function of your mix of business. So if your mix of business is quite proﬁtable which is our
 case, then you have – you don't have any additional new business need in addition to
@@ -659,16 +623,10 @@ what VIF you create. If you have a diﬀerent mix of business which has a lot of
 general account business, then you could still have a new business required capital on
 top of the VIF. Is that clear?
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 The 300%?
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 I see, yes, but – so, the 300%, yes, we have heard diﬀerent ﬁgures coming from diﬀerent
 competitors, but what you don't know and what we don't know is what has been required
 by the respective supervisors in terms of add-ons. So we can tell you that 300% for us is
@@ -689,10 +647,7 @@ groups. But that may be handled in a diﬀerent way. Nick in the second row? Mic
 
 FINAL
 
-Q - Nick Holmes
-
-{BIO 21515144 <GO>}
-
+Q - Nick Holmes {BIO 21515144 <GO>}
 Hi. It's Nick Holmes at SocGén. Sorry. I apologize for my creaky voice. First, two questions.
 First is on the dividend, the new payout ratio, 45% to 55%, previously with 40% to 50%,
 you started at the bottom and have worked your way up. And the question is, can we
@@ -710,10 +665,7 @@ share your thoughts with us on that? Thank you.
 
 Bloomberg Transcript
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Okay. Thanks, Nick. On the ﬁrst question, I'm afraid I will not give more guidance. If we
 deﬁne a range of 45% to 55%, this is to leave us the ﬂexibility to be any place between
 45% and 55%, and I would not give more guidance, and you would be surprised if I were
@@ -745,32 +697,20 @@ Company Name: AXA SA
 Company Ticker: CS FP Equity
 Date: 2015-12-03
 
-Q - Nick Holmes
-
-{BIO 21515144 <GO>}
-
+Q - Nick Holmes {BIO 21515144 <GO>}
 Can I – may I – just a very, very quick follow-up on the subject of Unit-Linked. In France, if
 you look back far enough to the early 2000s, I think it was as much – Unit-Linked was as
 much as 40% for new business. Do you think Solvency II could drive a return to that?
 
 FINAL
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 You're talking about the industry ﬁgure for...
 
-Q - Nick Holmes
-
-{BIO 21515144 <GO>}
-
+Q - Nick Holmes {BIO 21515144 <GO>}
 I'm talking about industry, yes, not your own.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 So this would allow me to make a comment on the Danish compromise. You know that, I
 mean, the Danish compromise allows that the banks to double count their insurance
 capital, and it is clear that this has – this means that there was less concern on the banks in
@@ -783,10 +723,7 @@ Back?
 
 Bloomberg Transcript
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Thanks. It's James Shuck from UBS. I have three questions, please. The ﬁrst one is on the
 corporate credit spread sensitivity. On slide 15, you show that for a stable Volatility
 Adjuster, there's a 13-point impact on the Solvency II ratio, whereas over the page, it's only
@@ -804,10 +741,7 @@ you see yourselves narrowing that range? That's my second question.
 And the third question is just quite a simple one, really. Could you give me a
 reconciliation between the basic own funds and the eligible own funds, please?
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Alban, do you want to start with the ﬁrst question?
 
 Page 14 of 30
@@ -820,10 +754,7 @@ Date: 2015-12-03
 
 FINAL
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 Yes. So on credit spread, you're right in assuming that we used a dynamic Volatility
 Adjuster. But that's an SCR issue, not an AFR issue. The dynamic Volatility Adjuster is used
 in the SCR. And you will have seen in the slides that what really matters in the corporate
@@ -837,24 +768,15 @@ corporate default, right? That's not in the market risk. That's in our default r
 number that we show on slide 13, the €4 billion, mainly relates to corporate default much
 more than to receivables and so on. So that's the amount that we would have.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 And you have a third question?
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Well, the second question was for the ﬁrst part or the second part, was the range of...
 
 Bloomberg Transcript
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Oh, sorry. On the range, look, we have a ratio which, as we say, is very resilient. But, I
 mean, we remember the situation at the end of Q1. You see that we – the ratio dropped by
 10 points, and it was a – I mean, it was a big issue for the analysts. And we want to tell you
@@ -867,16 +789,10 @@ see the beneﬁt of moving to a narrower range which would lead to major strateg
 decisions. We don't believe it's the right thing. So the reason why we've put a large range
 is because we want to manage the business on a long-term basis because this is a longterm business, and not on short-term ﬂuctuations.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 And then just on the basic own funds and the eligible own funds?
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 I think you're referring to the diﬀerence between – well, the diﬀerence would be
 operational risk generally on this. That's for the standard formula. Well, I'm mistaken with
 something. I'm not sure I understand your question.
@@ -889,9 +805,7 @@ Company Name: AXA SA
 Company Ticker: CS FP Equity
 Date: 2015-12-03
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
+Q - James A. Shuck {BIO 3680082 <GO>}
 
 FINAL
 
@@ -900,36 +814,21 @@ and the market value of the liabilities, you would have the basic owned funds an
 there's restrictions over the amount of the basic own funds to get you to your actual
 eligible owned funds under the Solvency II framework. Perhaps you can follow-up later.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 Yeah. I'm not sure I get your point.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Okay. Thank you.
 
-Q - Oliver G. Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver G. Steel {BIO 6068696 <GO>}
 Since I've got a mic.
 
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 (58:18)
 
 Bloomberg Transcript
 
-Q - Oliver G. Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver G. Steel {BIO 6068696 <GO>}
 Okay, sorry. It's Oliver Steel at Deutsche Bank. Two questions. You talked about increasing
 your equity Tier 1, at least I think that was the understanding relative to the debt in that
 Tier 1. Can you just gives us some sort of guidance as to over what period and how far you
@@ -938,10 +837,7 @@ free capital generation going forward?
 And then, secondly, Alban talked about the regime being stable from here. Is that right or
 what changes could you expect from here on?
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Gérald, do you want to take the ﬁrst one?
 
 A - Gérald Harlin
@@ -967,23 +863,16 @@ under stress scenario is not so resilient. So I believe that it gives you an ide
 and the pace at which we could recover. And presently we have as mentioned in the
 appendix, we have €9 billion of Tier 1.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 
 FINAL
 
 Do you want me to take the second question?
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Yes.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 
 Bloomberg Transcript
 
@@ -999,17 +888,11 @@ change the UFR because we need stability in Solvency II. That's, for me, the one
 could change, and I will not mention the ICS and insurance capital standards that might
 come in so many years.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 The other topic that could change is the sovereign risk charge in the standard model, but
 as you have seen, we are already taking it into account in the internal model.
 
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 Thank you very much. I didn't quite understand, and I'm on slide 27, you talked about the
 local excess capital. And I just wondered if you could just say again what you meant
 because I didn't understand if it's already excess or it's going to be excess or it's going to
@@ -1037,9 +920,7 @@ I'll start with the excess capital. It's on page 27. Let's put it this way, as y
 Solvency I world, we were quite highly reliant – we relied on the unrealized capital gains.
 And you know that the unrealized...
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 
 FINAL
 
@@ -1064,40 +945,26 @@ complicated, again, relative to countries like Japan or to countries like Switze
 because the framework is diﬀerent, but it doesn't mean that we won't do eﬀorts in order
 to reduce and to optimize capital in these countries.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 On the dividend payout range, I don't think I can tell you more than what is on slide 25.
 Basically, we say that's between 170% and 230%, we are conﬁdent that we can pay our
 dividend between 45% and 55% of adjusted earnings. It means that outside this range,
 we might have to change the payout ratio either upwards or downwards.
 
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 And within the 170% to 230%, given the history of maintaining at least the same dividend,
 is there kind of implicit commitment maintaining the dividend or is that completely
 ﬂexible depending on the earnings?
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 I mean, obviously, all companies tend to have a policy where you try to smooth the pace
 of growth of the dividend. I will not tell you anything more. That's a rational thing to do
 and that's what all boards will eventually propose to their shareholders.
 
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 On deals?
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Page 18 of 30
 
 
@@ -1115,10 +982,7 @@ disposals. That doesn't mean that we say that we won't continue to make disposal
 on balance, we would expect the balance to be slightly positive instead of having been
 negative or having more acquisitions than disposals going forward.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Thank you. Hi. It's Ralph Hebgen from KBW. Just two things. One, going back to slide 28.
 I'm not entirely sure I understand why under the Solvency II framework, the new business
 required capital goes down and so I would value perhaps some comments on the
@@ -1127,10 +991,7 @@ we had a very stable framework of reporting cash within the MCEV framework. Coul
 give us some comments how you plan to perhaps report on cash in the future under the
 Solvency II framework?
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Gérald, do you want to take the two questions?
 
 Bloomberg Transcript
@@ -1147,10 +1008,7 @@ we are doing, as mentioned before, more Unit-Linked and more Protection means th
 have future proﬁt and we're beneﬁting from this situation. So that's exactly what we want –
 that I wanted to mention here and to present here. Your second question was about cash.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Yes. Cash in the – how we would report cash ﬂows in the future?
 
 A - Gérald Harlin
@@ -1160,10 +1018,7 @@ will not be fundamentally diﬀerent from the one of EEV, clearly highlighting t
 how much cash, will be the same, except that on a capital requirement, we will adjust it.
 But you will have a strong – we will keep a strong cash ﬂow eﬀort.
 
-A - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+A - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 Blair?
 
 Page 19 of 30
@@ -1174,9 +1029,7 @@ Company Name: AXA SA
 Company Ticker: CS FP Equity
 Date: 2015-12-03
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
+Q - Blair Stewart {BIO 4191309 <GO>}
 
 FINAL
 
@@ -1202,10 +1055,7 @@ small modiﬁcation, and we will have opportunity to discuss it on the right tim
 
 Bloomberg Transcript
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Yeah. I think that's clear. Just two very quick follow-ups and I have very quick additional
 questions. You've given some indication in the past of the impact of using U.S. equivalents
 in solvency point terms. Is that something that you're prepared to share now or is that
@@ -1220,16 +1070,10 @@ points, so it's still the case. About the volatility adjuster, the answer is no.
 it will be required within roughly, if I'm right, it should be in mid-2017. Before, the answer
 is not.
 
-A - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+A - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 There was a question in the ﬁrst row (01:12:33)
 
-Q - Andrew J. Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew J. Crean {BIO 16513202 <GO>}
 Good evening. It's Andrew Crean, Autonomous. Could you – three things. Firstly, what is
 the beneﬁt of the internal model relative to the standard formula in terms of your
 
@@ -1271,25 +1115,16 @@ entity and that's what we will do. So that means that we will, as much – so lo
 signiﬁcant excess capacities that over time could be up-streamed, then that's why the 75%
 to 85% is something that we can conﬁrm and where we switch we are quite comfortable.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 And this is – so, you should interpret that as meaning on an ongoing basis and not as
 something that would result from, as you say, pushing a lot of money upfront in year one
 and two and then not having the ability to push as much in the later years.
 
-Q - Andrew J. Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew J. Crean {BIO 16513202 <GO>}
 I suggest you could, in the ﬁrst few years, actually push out more than 85% as some of this
 one-oﬀ excess capital get moved up.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Maybe, but on the other hand, we have some internal debt that we would unwind.
 
 A - Gérald Harlin
@@ -1304,9 +1139,7 @@ Company Name: AXA SA
 Company Ticker: CS FP Equity
 Date: 2015-12-03
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 
 FINAL
 
@@ -1317,10 +1150,7 @@ why equity risk comes ﬁrst, though we have limited exposure on our balance she
 should remember that our Unit-Linked business has some equity exposure, and we might
 lose future proﬁts from our Unit-Linked business if equities decrease.
 
-Q - William H. Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William H. Elderkin {BIO 3349136 <GO>}
 Thanks. It's William Elderkin from Goldman, two questions. First of all, the guidance
 you've given in terms of the Solvency II capital structure on slide 26, does that supersede
 or show should we think about that in the context of the IFRS balance sheet target
@@ -1343,16 +1173,10 @@ some parts of the Tier 1 debt that could be replaced by other categories and tha
 it, no need to pay for a spread which is quite important. We will keep the present range in
 term of debt while reinforcing our capital structure.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 Just the other question on the cash ﬂows in terms of (01:18:43).
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 The cash ﬂow was from the in-force.
 
 A - Gérald Harlin
@@ -1377,10 +1201,7 @@ everything equal, should be more or less the same.
 
 FINAL
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi there. Farooq Hanif from Citi. So it seems to me from what you're saying that it's more
 attractive to buy stuﬀ in Europe because you've got a market value frame, which is looking
 similar to what you had before. You have a big diversiﬁcation beneﬁt. I'm just wondering
@@ -1390,10 +1211,7 @@ because I know you've got credit derivatives on the balance sheet. I know they'r
 necessarily that hedged, but can you talk about any convexity that gets more negative
 beyond 75 bps if we get a really, really big shock? Thank you.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 So, on the M&A strategy, we are not going to change our M&A strategy in any signiﬁcant
 way. We will continue with the strategy that we have had in the last 4.5 years, focused on
 P&C and protection, focused on high growth markets, and you should see a continuation
@@ -1406,30 +1224,18 @@ A - Gérald Harlin
 No, apparently I don't see any convexity. That means that there is convexity when there is
 a kind of option. So that's the case for interest rates but not for spreads.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Alban.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 Yeah. If anything, we do have some protections on corporate spreads widening. So that
 would protect us against slightly, but against a signiﬁcant shock. So I don't think there is
 convexity in that.
 
-A - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+A - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 A question in the back.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Thank you. It's Andy from Macquarie again. A couple of questions. The ﬁrst one is on slide
 12. I couldn't ﬁnd any adjustment for fungibility that you talked about. Is it right to assume
 there isn't really any deduction to fungible or there no fungibility problems assumed in
@@ -1451,10 +1257,7 @@ quite positive when the volatility adjuster increases. So are kind of regulators
 you assuming the credit from the volatility adjuster, even though you own a portfolio of
 mainly government bonds? Thank you.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 So on fungibility, there is a haircut of £500 million, and that haircut is the recognition that
 the minority shareholders' funds cannot cover other entity's losses, and that mainly comes
 from our AXA MPS minority shareholders. And that's all. There's no other haircut in terms
@@ -1463,15 +1266,10 @@ bonds and corporate bonds. And all the industry has to use the VA that comes fro
 reference portfolio whatever they have on the asset side. And given that we have a
 diﬀerent mix than the...
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Which is more conservative.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 
 Bloomberg Transcript
 
@@ -1481,31 +1279,19 @@ widening. That's why you have that nine points sensitivity for 50 bps whereas it
 zero for the corporate bonds spread.
 Did that answer your question?
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 (01:23:40) there's no question about – everyone's happy with you (01:23:46) using that in
 your SCR. How big is the beneﬁt out of interest?
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 Okay. So, on the AFR, we use it like the rest of the industry; on the SCR, the ﬁrst part of the
 model that was approved by the supervisors, so everybody – if you refer to the
 supervisors that looked at our model, everybody is happy with that. Yes.
 
-A - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+A - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 Question in the front.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Thanks. James Shuck from UBS again. Just a couple of quick follow-ups, please. You
 mentioned the government bonds are risk charged. Could you just outline what your
 approach is there, or are you just treating them like normal corporate bonds based on the
@@ -1528,20 +1314,14 @@ the moment when we look at your MCEV disclosure we can see how the required capi
 runs oﬀ as we move through one year. So my question is really what happens to that level
 of required capital release in the near-term as you transition to a Solvency II environment.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 So on the ﬁrst one, which is the government bond risk charge. So like for all the other risk,
 we look at path volatility, but here we look at path volatility country-by-country. So we
 would eﬀectively have diﬀerent capital charge for a Spanish government bond or a
 Belgium one or French one, based on the volatility that you've seen over the past years
 and notably in 2011-2012.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Yes. The euro ﬁnancial crisis has had signiﬁcant inﬂuence on the – of the capital charge for
 Solvency (01:25:40). Second question, Gérald.
 
@@ -1557,29 +1337,17 @@ used in our EV report, but again, wait for the – we will present it with the 2
 and we will present a new format and we will (01:26:30) to release this at the time, but
 don't expect big diﬀerences on that side.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Just to follow-up very quickly on that. So, for Italy, for example, if you took the sov work,
 can you actually tell me what your capital charges are for Italian sovereigns?
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 I don't think we want to go into the details of our various capital charges for various risks.
 
-A - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+A - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 Question in the ﬁrst row?
 
-Q - Andrew J. Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew J. Crean {BIO 16513202 <GO>}
 It's Andrew Crean again. One thing I don't understand is when you – the most important
 slide according to you is this one about the resilience and the least resilient situation was
 2008-2009 ﬁnancial crisis which hit you by 48 points. Now, that essentially was a credit
@@ -1593,49 +1361,32 @@ Company Name: AXA SA
 Company Ticker: CS FP Equity
 Date: 2015-12-03
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 So it was not only credit crisis because at the same time, you had equities going down,
 you had interest rates going down, you had credit spreads widening and...
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 
 FINAL
 
 And volatility.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 ...volatility signiﬁcantly increasing. So you had all those asset classes going the wrong way.
 And obviously, when – I showed you the shocks to individual ones, but naturally when
 they are severe and they are combined, the total combination of those shocks is more
 than a single sum.
 
-Q - Andrew J. Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew J. Crean {BIO 16513202 <GO>}
 Perhaps it might be interesting now for us to have a feel for what's going on there within
 the 48 points.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Michael (01:28:08), in the second row? If you can you pass the mic?
 
 Bloomberg Transcript
 
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 Again, a stupid question because I don't understand what the Tier 1 discussion and I'm a
 bit lost. You say you want to reduce it or improve the quality but not change the debt
 ratios. Can you just give an example of what you intend to do, just so I understand? That's
@@ -1650,18 +1401,13 @@ that means that the fact that we have capital generation of 11 points minus even
 makes that you have an accretion of your solvency. And I believe that you have the answer
 to your question. I'm clear or not?
 
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 Not the last point.
 
 A - Gérald Harlin
 No but the last point is a fact that...
 
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 Page 26 of 30
 
 
@@ -1681,16 +1427,10 @@ are accretive and that you have, let's say, a few points that increase your solv
 makes – while, over time, while keeping the same solvency ratio, you end up with a
 structure which is stronger and cheaper.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Any further questions? Yes (01:30:07)?
 
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 Just – how have you treated your own pension funds within the – sorry, pension fund
 within the solvency, on what basis? Is it the accounting IAS basis or the funded basis or
 what? And the second question, I was just going to ask – or just for numbers purposes,
@@ -1699,47 +1439,29 @@ and the others?
 
 Bloomberg Transcript
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 So on the ﬁrst one, we use for owned staﬀ pension funds on the AFR which we have on
 IFRS balance sheet, there's no diﬀerence. But in terms of capital required for our pension
 funds, we use the same model as for the rest of our activities. So there is a capital
 requirement for our pension funds which is the same way.
 
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 It's in excess of the amount under IAS basis?
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 For the AFR, what Alban just explained, we take the IFRS basis. It's deducted – we don't
 change the existing deduction but for the SCR we include a chart which is based on the
 structure of the liabilities.
 
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 Are all companies doing that? Do you know if everyone is doing that same basis?
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 No. I'm not sure I know, but it was something shared obviously by our collegiate
 supervisors where all almost all European supervisors represented. So, I would think that
 our competitors should do the same but I can't assure you that.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Page 27 of 30
 
 
@@ -1750,36 +1472,21 @@ Date: 2015-12-03
 
 Your second question was?
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 Was the breakdown of the capital requirements for...
 
 FINAL
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Yeah.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 So, I have to come back to you on that one.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Okay. Blair?
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Just coming back on the Tier 1 debt instruments that you have. At the moment, my
 recollection is ﬁrstly they're very long dated, and secondly they're very cheap, certainly
 cheaper than equity. Why would you want to replace this with equity or am I missing
@@ -1794,16 +1501,10 @@ scenarios, it wouldn't be extremely resistant. So that's all these reasons combi
 that we decide to do this. Look, today – under today's conditions, replacing, let's say, Tier
 2 debt or senior debt is much cheaper.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Any further question? Michael (01:33:27), again?
 
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 Very slight puzzled. So, you're distinguished between Solvency I strain of new business
 and the Solvency II is €0.5 billion beneﬁt which is lovely. And you've been running your
 company on this for a while. So presumably, what you're telling us today you've been
@@ -1826,9 +1527,7 @@ Date: 2015-12-03
 
 requirements. No, it's real. It's real.
 
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 
 FINAL
 
@@ -1838,10 +1537,7 @@ shareholders here (01:34:37) for 2015, is that right? Or is it 2016 that it come
 A - Gérald Harlin
 It comes into force in 2016.
 
-Q - Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Q - Andrew Wallace-Barnett {BIO 18671460 <GO>}
 It comes into force in 2016. Sorry. I beg your pardon. Thank you.
 (01:34:55) Société Générale Credit Research. Sorry, one more question about your capital
 structure. You were talking about replacing Tier 1 hybrid with Tier 2. But do I understand
@@ -1861,10 +1557,7 @@ a given. So we will beneﬁt it for 10 years. So we'll keep it. And you remember
 we decided that one year ago, we decided to prolong the sum of this debt in order to
 fully beneﬁt from it. So this is something that we will keep.
 
-A - Denis Pierre Marie Duverne
-
-{BIO 1521138 <GO>}
-
+A - Denis Pierre Marie Duverne {BIO 1521138 <GO>}
 Okay. Do we have questions from – on the – no? Okay. So I believe that we have
 exhausted your questions. Thank you very much for your attention. Thank you very much
 for coming for this investor day and I wish you a very pleasant end of the day. Thank you.

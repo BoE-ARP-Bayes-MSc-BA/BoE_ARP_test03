@@ -22,10 +22,7 @@ MANAGEMENT DISCUSSION SECTION
 
 Bloomberg Transcript
 
-John D. Neal
-
-{BIO 20988613 <GO>}
-
+John D. Neal {BIO 20988613 <GO>}
 It's always a queue, isn't it, when the music is turned off. Welcome everybody to QBE's
 Half Year Results Announcement this morning. I'm joined today by Pat Regan, our Group
 CFO. And between the two of us, we'll take you through a brief presentation and then
@@ -262,9 +259,7 @@ Date: 2014-08-19
 
 So, if I may, I'll hand over to Pat Regan.
 
-Patrick Charles Regan
-
-{BIO 15131018 <GO>}
+Patrick Charles Regan {BIO 15131018 <GO>}
 
 FINAL
 
@@ -537,10 +532,7 @@ With that, I will hand back to John.
 
 Bloomberg Transcript
 
-John D. Neal
-
-{BIO 20988613 <GO>}
-
+John D. Neal {BIO 20988613 <GO>}
 Thanks, Pat. Just a couple of slides to finish for me before we hand over to questions, so
 just looking at our outlook for 2014, we are now forecasting gross written premium in the
 range of $16.6 billion to $17.0 billion, which is about $400 million down on where we
@@ -656,18 +648,12 @@ permit.
 So with that, I was going to handover to questions.
 
 Q&A
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 Thanks, Daniel Toohey from Morgan Stanley. Just a question on the proposed asset sales.
 Can you give us some comfort around, I guess, the due diligence you've done on the sale
 prospects and, I guess, the comfort around the $1.5 billion cash number you talked about?
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 The agency sales, we have appointed advisors on both Australia and on North America. I
 think our view of that – our informed view of that is that I mean the cash flow businesses
 they're attractive to both trade buyers and I expect a lot of interest from trade buyers
@@ -688,37 +674,25 @@ the clear market precedent on that is helpful in terms of assessing that.
 
 FINAL
 
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 And the European Central and Eastern European assets? I mean they've been on the
 agenda for a little while.
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 It's quite – I mean the actual asset value held there is quite nominal. We are actually in
 discussions with two parties to conclude the sale of Central and Eastern Europe. Two of
 the businesses have gone already, Bulgaria and Romania. So we're just tiding up the other
 four, so we would expect that to complete in Q3. It makes no difference to the kind of
 numbers on the capital part.
 
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 Just on the moving to the high yields, can you confirm – with the move to capture high
 yields, is that capture within your technical pricing? So as you move up the risk curve do
 you assume a higher yield in your technical pricing?
 
 Bloomberg Transcript
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Well, there's a complex question. I think I'm not sure that's probably all that smart. I mean,
 there is element of that you probably should capture in terms of the asset liability
 matching. So I think if you went to technical pricing so we'll probably tell you that actually
@@ -727,27 +701,18 @@ duration that matches your liabilities, I think in terms of going into a higher 
 risk assets, I'm not sure that is something you would be factoring into technical pricing, but
 I've got an underwriter next to me, so I should probably...
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 Yeah, I think we tend to drive the pricing as much of the combined operating ratios, the
 return on allocated capital, so we're as focused on getting the moving components of the
 claims line right, nutritional large risk and cat as we are on getting the return on allocated
 capital. So – and I think measures we're talking about, well I'd say beneficial overall to the
 insurance profit margin are not really going to step-change i.e. reduce pricing in our view.
 
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 Okay. Just a final question on the insurance risk charge has increased by some $225
 million, yet your net earned premiums come up 5%, so what's driving that?
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 There's been an interesting discussion that we've been having with both regulators and
 rating agencies, which takes us into the complex world of the assessment of whole
 portfolio, particularly relevant for us being a global business. So it's a question of how
@@ -766,16 +731,10 @@ moving factor of the half year.
 
 FINAL
 
-Q - Daniel P. Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel P. Toohey {BIO 16751863 <GO>}
 Okay. Thank you.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Thanks. Kieren Chidgey, Deutsche Bank. I have got three questions. First one, just
 following up on the shift to higher allocation for risk assets over time, I am just hoping you
 could help – put a couple of numbers around, so you said, you are around 5% at the end
@@ -788,10 +747,7 @@ be thinking about? And over what timeframe you are looking to execute?
 
 Bloomberg Transcript
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 Yes. So, I mean the short answer on the first bit is yes. The 15% applies to the whole
 portfolio. Having said that, I think you do naturally take a different approach to asset
 allocation for assets backing liabilities and assets in your shareholder portfolio. So
@@ -805,17 +761,11 @@ report, we started to kind of move a little bit into it – a little bit emergin
 into a little bit emerging market equities, a little bit of high yields. So, it starts to give you a
 flavor and then you can do the math of the amount of our risk free.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Okay. And in addition to that, so you talked about the fixed interest portfolio, broadening
 that out, you are talking about increasing the allocation to lower grade credit within that?
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 I think – I mean off the three things I mentioned I think that's going to be the least
 impactful. Because I think, as you extend out duration and you move the risk assets up
 towards 15%, you need to be very measured in terms of what – and actually quite good, if
@@ -834,28 +784,19 @@ impactful of the three things I mentioned.
 
 FINAL
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Okay. And two other questions, just on the proposed sale of the – partial sale of the
 Australian agency and full sale of the U.S. agency businesses; can you provide some sort
 of figures around what those businesses have been contributing in this result?
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 I think we're probably not going to give you specifics on that. I think the way to do the
 math, if you follow what I said on the incremental kind of capital been about over $1.5
 billion, a little less than the third of that coming from the agency sales. And therefore you
 can do the math as well that would give you proceeds and divide by a reasonable multiple
 and that probably gives you a place to start on that.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I can to give you some of the parts, I mean the – as I said earlier on the value for us is
 really in the underwriting. I think we've driven the right results out of the underwriting
 those agency businesses that will keep the loss of income for us on the distribution
@@ -864,20 +805,14 @@ line. So I think if you look at it in the round, it really is de minimis.
 
 Bloomberg Transcript
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Okay. And final question just John on the expense program, all the targets have been
 reaffirmed to the $250 million, but when you initially roll that out the end point that would
 take us to is the 30.5% expense ratio with the significant reduction in your NEP. Are you
 still targeting the 30.5%? Or do you think that's now out of the window sort of the $250
 million is sort of the number we should be thinking about?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 No, I mean, I think the short answer is against the current levels gross written premium,
 net earned premium, yes I think it is. The ratio can't hit 30.5% at current levels. If you get
 beyond the sort of near term one to two years, we are still targeting our combined
@@ -888,10 +823,7 @@ underway now. So I'll talk a bit more about those as we go through the next six 
 So, yes, medium term target is still to get that ratio 30% or better; short term I think we
 can take more cost out than we have indicated.
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Thanks.
 
 Page 16 of 26
@@ -902,9 +834,7 @@ Company N ame: QBE I nsurance Group L td
 Company Ticker: QBE AU Equity
 Date: 2014-08-19
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 
 FINAL
 
@@ -913,10 +843,7 @@ the annual report, you said that having sort of set original guidance of 10% for
 you said you expected 2% improvement over the subsequent two to three years in the
 combined ratio. Can you just say where you are on that? Please.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yes, I think, Nigel, answering the question now, it's hard to be definitive of 2015, I would
 like to see how the next six months play out more in terms of market conditions. As I am
 saying I think we can take cost out, but that's some of that maybe offset if we think
@@ -925,9 +852,7 @@ value of cost will come out in line with what we've said, but whether that actua
 through absolutely in a 1% improvement in the ratio through 2015 very much depends on
 where market conditions allow us to push the top line.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 
 Bloomberg Transcript
 
@@ -940,10 +865,7 @@ give you us sort of more comfort as to why you really think that business is goi
 money moving forward? I mean, I know you've given one or two reasons in the pack but, it
 doesn't really answer the competitive situation that business finds itself in?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yes, I think a bizarre irony or the scrutiny you put yourself under when you contemplate
 whether you're going to sell or keep a business, probably makes you even more forensic
 in terms of the analysis you undertake of that business. And I think the conclusion we've
@@ -959,10 +881,7 @@ and that all to create ironically an opportunity to grow rather than an opportun
 So if you add that all together it's for those reasons that we've determined is to a keep it
 rather than a business to sell.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 Okay, and maybe just one further question on the U.S. business, I mean if you look at the
 guidance you set at the full year compared to what you're setting now, there is a number
 of areas that have been trimmed by the $100 million reinsurance something crop for
@@ -980,10 +899,7 @@ benefit from those initiatives that you are taking to reposition?
 
 FINAL
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I think, yeah, it's a good question. I think we've got a number of areas to focus on through
 the second half. And I think in income terms the only area to keep an eye on which we
 forecast through is to lenders-placed insurer, where we have assumed that income will fall
@@ -996,26 +912,17 @@ saying earlier on that can be wrong, I think we have got a bit more work to do t
 2014 and 2015 to get some further improvement come through both on the claims line
 and on the cost line in North America.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 Thank you.
 
 Bloomberg Transcript
 
-Q - Jan van der Schalk
-
-{BIO 4168372 <GO>}
-
+Q - Jan van der Schalk {BIO 4168372 <GO>}
 Good morning, Jan van Schalk, CLSA. A few questions, on the medical malpractice
 reinsurance, is there an upper limit on it, and if there is what is it? And what's the buffer
 between what you have actually reinsured in that limit?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Jan the reinsurance is unlimited. So I think we have been careful in the words that we have
 chosen. So, I think finality is a big word to use in the modern world, but the reinsurance is
 unlimited. As far as the buffer is concerned, obviously the – in our view and the way in
@@ -1024,23 +931,15 @@ are attached to that business and therefore the commutation cost or reinsurance 
 better description of those reserves roughly equates to the combined value of the central
 estimate and the risk margins that attach.
 
-Q - Jan van der Schalk
-
-{BIO 4168372 <GO>}
-
+Q - Jan van der Schalk {BIO 4168372 <GO>}
 All right. Slight follow-up then, the counterparty credit of the reinsurer?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 So, what we've done is, is a combination of one of the world's AA rated reinsurers and
 there are only two as you know and the medium reinsurers. So, first layers in with one of
 the AA reinsurers and then it's the medium and above.
 
-Q - Jan van der Schalk
-
-{BIO 4168372 <GO>}
+Q - Jan van der Schalk {BIO 4168372 <GO>}
 Page 18 of 26
 
 
@@ -1055,10 +954,7 @@ us some sense of what those might be, and where you see them coming from?
 
 FINAL
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 I'll try not to be too specific, I think. Yeah, I mean you could probably draw the list of your
 sales to be honest. If you think about where – I mean the reason we did this one was it's
 had more volatility to-date, as John's said, is the fact that there is a full unlimited
@@ -1068,10 +964,7 @@ because, as we get look at the lumpier books of business. So there are one or tw
 maybe smaller number than that, but kind of fairly obviously fit to bill, with that specifically
 naming that.
 
-Q - Jan van der Schalk
-
-{BIO 4168372 <GO>}
-
+Q - Jan van der Schalk {BIO 4168372 <GO>}
 All right. That's a partial thank you, I guess. John you talked about a $200 million saving on
 your reinsurance program on a risk adjusted basis and really didn't mention it very much. I
 guess two things, could you give us an idea what that is? And also don't fully understand
@@ -1079,10 +972,7 @@ what you mean by saving on a risk adjusted basis.
 
 Bloomberg Transcript
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 It's a combination of two factors. So there is a pure saving in terms of cost, which is
 roughly half the number and the half of the number is the decisions we've taken on the
 underwriting account. So, where we've essentially taken a view to reduce exposure both
@@ -1091,30 +981,18 @@ writing the same account in 2014, we were in 2013; our reinsurance cost would be
 million lower. The cash amount is about half of that figure because of the exposure we've
 taken off the books.
 
-Q - Jan van der Schalk
-
-{BIO 4168372 <GO>}
-
+Q - Jan van der Schalk {BIO 4168372 <GO>}
 So would that – so could you characterize that more as dealing with the volatility around
 your earnings rather than the upper end?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 A bit of both. There is certainly some volatility, yes. I think it's improving, the underwriting
 would be half of it and the other half is ready to sharpening up the program.
 
-Q - Jan van der Schalk
-
-{BIO 4168372 <GO>}
-
+Q - Jan van der Schalk {BIO 4168372 <GO>}
 Sorry, I am hogging the mic, but the useful things that Equator Re does?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Equator does a number of different things for us. I think from a capital perspective it
 avoids the duplicate cost of capital when you're operating globally, so it's a smart way of
 
@@ -1136,16 +1014,10 @@ reinsurance treaties are brought with the group in mind and then Equator really 
 subject to appropriate transfer pricing mechanisms, the buy down facilities, so the
 division's going to operate the retention levels that they would prefer.
 
-Q - Jan van der Schalk
-
-{BIO 4168372 <GO>}
-
+Q - Jan van der Schalk {BIO 4168372 <GO>}
 Last question. When you are underwriting, what is the hurdle rate that you aim to exceed?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 In terms of return on allocated capital. It varies, is the short answer to that question. I think
 it's personal view. I think it's a dangerous thing to put a number out there for every
 portfolio because you just have to accept that some businesses are at different points in
@@ -1157,25 +1029,16 @@ basis.
 
 Bloomberg Transcript
 
-Q - Jan van der Schalk
-
-{BIO 4168372 <GO>}
-
+Q - Jan van der Schalk {BIO 4168372 <GO>}
 Thank you.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 Thanks. Brett Le Mesurier from BBY. A couple of questions. Firstly, you've commented that
 there is an oversupply of capacity in the European market and the competition is
 increasing as the year goes on. What does that mean for next year presumably we are
 looking at being a tough environment to actually grow premiums at all?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yeah. I think I said when I stood up there. I mean, the one thing I don't mind is market
 conditions to be honest with you. I think what I'm keen to demonstrate to our
 shareholders is that we can get a business to perform even in more challenging market
@@ -1202,17 +1065,11 @@ So that will mean, we'll just be quite on some ambition we have to grow reinsura
 maybe for two or three years. But otherwise I don't think we feel that top line's under any
 further pressure in Europe.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 It would also mean that the 6% insurance margin that you are tracking out for this year will
 be hard to improve next year?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Hard to improve, Europe is the third cap of the rank on our cost transformation program.
 First to go was Australia, where the exercise is pretty much completed. If you wanted a
 sort of a rough split, North America is about halfway through and Europe is at the
@@ -1220,41 +1077,27 @@ beginning of that journey about a quarter the way through. So I think we can tak
 expense out of their acquisition cost lines. So we can get some improvement in that
 margin through 2015 in half year.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 
 Bloomberg Transcript
 
 Would it be fair to say in relation to Australia, New Zealand about half of the insurance
 profit comes from the LMI business?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I can't remember of top of my head if that figure is correct. You might help me Pat.
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 It's certainly a big chunk for – I mean that business as you can see the stat results for last
 year were very strong for this year that have been at least as strong if not a little bit
 better. So yeah, it makes a very large proportion of the – I think it's a little less than half,
 isn't it? Yeah, it's a little less than a half. Less than a half of it.
 
-Q - Brett Le Mesurier
-
-{BIO 5909278 <GO>}
-
+Q - Brett Le Mesurier {BIO 5909278 <GO>}
 And on the reinsurance for the malpractice, right in thinking that the risk margins are not
 going to come back to you, they will go to the reinsurer?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Correct. The value that the reinsurance is being affected, I mean, from our point of view
 to relate to one of the other questions, it's a delicate balance of determining whether you
 want to reinsure reserves or keep them, there's nothing wrong with long tail reserves. I
@@ -1275,17 +1118,11 @@ that is the value of which the reinsurance is being affected, hence it's been P&
 
 FINAL
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 I think actually we've got a question from James from UBS on the telephone. Your line is
 now open.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 Good morning, guys. Just a couple of questions. First one LMI. It's not clear to me why you
 have planned to list this business next year. So if I just reflect back on the submission that
 you made to the Murray Inquiry that was questioning the viability of LMI as a product in
@@ -1294,28 +1131,19 @@ has. And it really isn't one that can grow independently of what the banking cli
 perhaps you could just go into a little bit more detail why you're intending to list it and
 what those growth ambitions are in the business?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I'll let Pat deal with the listing points and I will pick on the growth.
 
 Bloomberg Transcript
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 Well I think, we pretty much talked about in the kind of comments already, James, so
 that's – it's a business performance strongly, has very strong results, we expect that to
 continue for the foreseeable future, but it's more capital consummative by its nature and
 certainly more, as John said earlier, more than your kind of typical P&C business. So we
 think it will – the business will benefit from its own access to third party capital.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I think, James, from within the business there are obviously competing pressures for
 capital and we have been restrictive in the pure capital we've allocated to that business.
 So in the short term, we have actually purchased reinsurance to support their growth
@@ -1324,10 +1152,7 @@ for it. So the growth has been there for the past two years and we think it's ce
 sustainable at the levels of their ambitions through the next two years. So that's the
 growth equation.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 Thank you and just a quick one on the agencies. The numbers that you've spoken about
 and broadly indicated Pat, are those net of any potential goodwill write-downs that might
 be required for those agencies or do you believe that's an indication on sale prices or JV
@@ -1344,10 +1169,7 @@ Date: 2014-08-19
 
 FINAL
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 The number I was talking to you earlier were kind of cash numbers and I think when I was
 walking through the PCA calculation, obviously that doesn't give any value to goodwill. So
 all of those numbers will be gross of goodwill, there would for both businesses be
@@ -1356,17 +1178,12 @@ bought them and similarly for the U.S. I think kind of in very, very broad terms
 are going to be approximately equivalent. So in other words, we'll overall going to
 support the goodwill attached to them.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 Okay and one quick one, final one on your analysis of the underlying margins. There is that
 bucket of other which is hopefully footnoted as other with no explanation. So perhaps you
 could just explain what that is or is it just the too hard to solve bucket?
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 
 Bloomberg Transcript
 
@@ -1383,16 +1200,10 @@ forward, you should factor in probably at a group level something like the half 
 probably, a little under half a point of higher unwinded discount going forward. So that's
 really the other one we wanted to bring out in there.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 Thank you.
 
-Q - Siddharth Parameswaran
-
-{BIO 15037291 <GO>}
-
+Q - Siddharth Parameswaran {BIO 15037291 <GO>}
 Hi, John and Pat. It's Siddharth from JPMorgan. If I could just ask a couple of questions.
 One is just on the large loss allowance, John, you are very clear that you don't believe
 that should be touched. But if your expectations pan out for the second half as your
@@ -1401,10 +1212,7 @@ time when most of you peers are saying we've had a light catastrophe activity ex
 2011. Could you just give us comfort whether you are going to look at this at any point in
 time and why you have comfort of that number?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yeah. It's a good question, Sid. I think on the large losses, I think what's giving me
 encouragement is the frequency of large loss has actually been dropping through the
 second half of last year and through the first half of this year. What's been unusual
@@ -1425,35 +1233,23 @@ So the underlying trend for large losses in my view is coming down, I think as y
 do buy an aggregate protection around those large losses as well. So we do have an
 ultimate lock-in on them.
 
-Q - Siddharth Parameswaran
-
-{BIO 15037291 <GO>}
-
+Q - Siddharth Parameswaran {BIO 15037291 <GO>}
 There is no – I mean, you aren't going to review that at any point in time?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 I think indirectly we've reviewed it through the underwriting decisions that we've made
 both in North America and Europe. And I think that's why the large loss frequency is
 actually dropping. I think we made the smarter performance decisions which will show
 through in my view to reduce cost rather than increased cost of large loss.
 
-Q - Siddharth Parameswaran
-
-{BIO 15037291 <GO>}
-
+Q - Siddharth Parameswaran {BIO 15037291 <GO>}
 Okay. Fair enough. Just my second question is just on the claims inflation environment
 versus what's occurring on premium rates, if you could just give us your thoughts on how
 the 1% compares with what you are seeing overall across your book on inflation?
 
 Bloomberg Transcript
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yeah. I mean excepting Argentina, if I can, just for a moment which obviously adds a
 degree of complexity to the answer. There is nothing generally that's giving any sort of
 signs of superimposed claims inflation, we're seeing some specific instances, for example
@@ -1461,31 +1257,20 @@ whether its mesothelioma or deafness claims in the U.K. pretty widely reported a
 certainly out striping normal rates of inflation. I would say if anything that more generally
 the claims environment is pretty benign and typically 2% to 3%.
 
-Q - Siddharth Parameswaran
-
-{BIO 15037291 <GO>}
-
+Q - Siddharth Parameswaran {BIO 15037291 <GO>}
 So as in regarding basically premiums rates are still not covering inflation?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Yeah, if prices maintain at a sort of flat or 1% level then yes, you are at/or just slightly
 below claims inflation.
 
-Q - Siddharth Parameswaran
-
-{BIO 15037291 <GO>}
-
+Q - Siddharth Parameswaran {BIO 15037291 <GO>}
 Okay. Very clear. Just my question is just on Latin America which obviously took a large
 reserve increase, are you confident that the market will allow you to price this business at
 levels that will allow you to move back to profitability? You did mention I think that your
 reserves are well above peers so is the market moving to take a similar view to you?
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
+A - John D. Neal {BIO 20988613 <GO>}
 Page 24 of 26
 
 
@@ -1507,10 +1292,7 @@ so it's risk selections that's driving what business we do right. So pricing in 
 it is moving up, but we are certainly the most expensive insurer for workers' comp in
 Argentina.
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 I mean the only other thing to that is what we talked about, you do have a different shape
 of result in that businesses than you do in kind of the other businesses in the world, where
 the average length of that book is probably five years, maybe a bit longer than that,
@@ -1525,23 +1307,14 @@ got a much higher amount of investment income, both because of the risk free rat
 you like the local rates and the length of the book. So the net of all of that is still kind of a –
 as we talked about 30% return on capital, just with a very different shape to it.
 
-Q - Siddharth Parameswaran
-
-{BIO 15037291 <GO>}
-
+Q - Siddharth Parameswaran {BIO 15037291 <GO>}
 Okay. Thank you.
 
-A - John D. Neal
-
-{BIO 20988613 <GO>}
-
+A - John D. Neal {BIO 20988613 <GO>}
 Okay. I think we might have time for one more question, if there are any. Okay. If not, well,
 I'll wrap it up there. Thank you very much everyone. Thanks for coming on today.
 
-A - Patrick Charles Regan
-
-{BIO 15131018 <GO>}
-
+A - Patrick Charles Regan {BIO 15131018 <GO>}
 Thank you.
 
 This transcript may not be 100 percent accurate and may contain misspellings and other

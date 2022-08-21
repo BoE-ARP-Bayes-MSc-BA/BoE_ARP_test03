@@ -12,10 +12,7 @@ Mark Lyons , American International Group
 Philip Stefano, Deutsche Bank
 
 Presentation
-Philip Stef ano
-
-{BIO 22473935 <GO>}
-
+Philip Stef ano {BIO 22473935 <GO>}
 Great. Thanks, everyone, for joining our virtual fireside chat with AIG at the Deutsche Bank
 Global Financial Conference.
 
@@ -36,10 +33,7 @@ There's a box to the left of the slide that you see or you can also e-mail me at
 Phil.Stefano@DB.com, whichever is easier for you. But first, Mark, I believe that you have a
 few minutes of prepared remarks, so I will turn it over to you to start us.
 
-Mark Lyons
-
-{BIO 6494178 <GO>}
-
+Mark Lyons {BIO 6494178 <GO>}
 Great. Thank you, Phil, and I appreciate the invite very much. It's always good to get out in
 front of analysts and investors and this is a great FDA compliant opportunity. So again,
 thank you.
@@ -118,10 +112,7 @@ event and with those intro comments, Phil, I'm happy to kick it back to you and 
 chat.
 
 Questions And Answers
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
-
+A - Philip Stef ano {BIO 22473935 <GO>}
 Great. Great. Thanks, Mark. And so one of the questions that we get, especially now that
 the first quarter earnings is behind us, is trying to parse between the different layers of
 COVID reserving that people have put out there.
@@ -133,10 +124,7 @@ reported so far.
 
 Bloomberg Transcript
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Okay. Okay. That's a fair question. So I guess there's a lot of subparts there, so let me go
 through and hit some of them. I think -- I think Peter kind of marched through it, but what
 we posted, which was $272 million on a net basis, was really a composed of travel
@@ -178,19 +166,14 @@ So if there is an event cancellation in September, that's clearly not reflected 
 was neither postponed or canceled as of time of the statement date. So hopefully that
 clarified it.
 
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
-
+A - Philip Stef ano {BIO 22473935 <GO>}
 Yes. No. It does and one of the things that I've been trying to think about is just given the
 uniqueness of this event and you have a reserving process that you've put in place, to
 what extent is the reserving process fluid, do you need to start from ground up every
 quarter or how should we think about what the reserving evolution for COVID could look
 like as we move forward?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
+A - Mark Lyons {BIO 6494178 <GO>}
 
 Bloomberg Transcript
 
@@ -205,16 +188,10 @@ usually the estimates come out as a function of market share, very top-down and 
 the quarters pass, that kind of gets kicked to the curb and it's the actual emergence that
 dominates and it'll be the same thing here in concept.
 
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
-
+A - Philip Stef ano {BIO 22473935 <GO>}
 Okay. And we had a --
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 So I think if part of [ph] your question, Phil, was do we have to start from scratch, I'd say
 it's similar to any other reserve group. So you leverage what you had last time and you
 look at how things have changed and depending upon what you have, if it's a frequency
@@ -229,9 +206,7 @@ Company N ame: American I nternational Group I nc
 Company Ticker: AI G US Equity
 Date: 2020-05-27
 
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
+A - Philip Stef ano {BIO 22473935 <GO>}
 
 FINAL
 
@@ -243,10 +218,7 @@ What leads this to be a capital event? How does the evolution of losses change t
 from being an earnings event we should be comfortable with to a capital event, this may
 be a bit -- a bit more of a headwind?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Well, as I said, our view is that it is -- with our view of how we've looked at it, it's still an
 earnings event even with -- I mean -- I mean, I got to back up a bit because as you know,
 we and others have withdrew guidance because there's only limited visibility. I mean, I
@@ -264,32 +236,20 @@ approaches. You really have to pick a set of dynamics and kind of let that run t
 would have to be far worse than we've assumed in our -- in our kind of revised view
 forward, limited visibility view forward for this to become a capital event for AIG.
 
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
-
+A - Philip Stef ano {BIO 22473935 <GO>}
 Got it. And you had mentioned that the guidance was withdrawn. At least for the general
 insurance, the combined ratio improvement expectation was reiterated. To what extent
 should we contemplate the potential accident year or attritional losses coming through
 from COVID and serving as a headwind to that improvement target?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 I view that as marginal really at this point. I think there's the possibility of some upward
 drift and we're talking actually here ex-CAT, Phil, I assume?
 
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
-
+A - Philip Stef ano {BIO 22473935 <GO>}
 Right. Yes.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 So yes. Or I assume 2020 ex-CAT [ph]. So yes, there could be some movement, but in
 AIG's case, because of the kinds of lines affected, it could be driven by our changing mix. I
 mean, when you have your travel business -- I mean, you know what's going on with travel.
@@ -313,19 +273,13 @@ the book can actually weight and change your loss ratio overall. Even though eve
 business' lost ratio may not have changed appreciably, the weighting may cause some
 upward pressure.
 
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
-
+A - Philip Stef ano {BIO 22473935 <GO>}
 Got it. And when we think about the the P&C commercial lines, I think in the past you had
 talked about using a machete to help sculpt the business and maybe you're down to a
 scalpel at this point. I mean, can you remind us where in the surgery you are with the
 changes that you're making?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Well, I think if I talk about one that's still a little bigger than a scalpel would have been the
 Syndicate 2019 on the high net worth business. So that's a -- it's really a strong performer.
 
@@ -349,9 +303,7 @@ So it will still be written -- the PCG brand will continue, for example, but it 
 written through AIG through Talbot. So we think it's an elegant spread solution that
 benefits everyone.
 
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
+A - Philip Stef ano {BIO 22473935 <GO>}
 
 Page 6 of 11
 
@@ -371,10 +323,7 @@ your earnings calls. As we contemplate the structure of the reinsurance program,
 should we think about the potential response? At least it feels like the question's geared
 towards COVID claims on the property versus the casualty side.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Well, we tend to talk about the property more. Happy to do that again, but I think the
 enhancements -- first off, it's complicated. I could be here for three hours quite frankly,
 but if I think of the per risk and the CAT, there have been, I think, substantially beneficial
@@ -400,16 +349,10 @@ market tighten that and there's generally going to be -- I think as a general ru
 have strong follow-the-fortune conditions or follow-the-settlement conditions if there are
 settlements involved. So that would be my summary, Phil.
 
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
-
+A - Philip Stef ano {BIO 22473935 <GO>}
 Okay. And --
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Oh, on the property side -- on the casualty side -- sorry. On the casualty side, again, the
 gross underwriting changes have to drive what you do and I think Peter talked about it last
 year.
@@ -439,9 +382,7 @@ the whole thing up to $100 million.
 So a massively different tail management, number one and number two, it changes your
 net mix of business which is also favorable to us. So that's how I'd summarize that, Phil.
 
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
+A - Philip Stef ano {BIO 22473935 <GO>}
 
 Bloomberg Transcript
 
@@ -451,10 +392,7 @@ hardness or the firming in reinsurance is a bit of a new phenomenon in the indus
 it feel like the pricing momentum of reinsurance versus primary, are they materially
 divergent at this point?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Well, some of the things that we see -- because remember, we have Validus now, right?
 So we're writing reinsurance assumed [ph], not just dealing with markets on a seeded
 basis and it's probably worth noting that the amount that Validus rewrites is more than
@@ -466,10 +404,7 @@ we we still had a 7% spend reduction compared to the prior year, but the rates h
 rates have gone up, so the reinsurance market that seemed to lag the primary market
 and the retro market, they were in the middle, that seems to have been corrected.
 
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
-
+A - Philip Stef ano {BIO 22473935 <GO>}
 Got it. Thank you. When we think about -- I guess looking back to the first quarter earnings
 call, there was -- there was a comment that was made and we had a couple questions
 come in about the exposure to property and the affirmation of coverage for
@@ -490,10 +425,7 @@ more clarity in that comment and how we should be thinking about it.
 
 FINAL
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Well, I think -- I think the intent of that was -- to kind of give some relativity, the
 combination of how often it's offered I guess is a good way of putting it and the sub
 limits, which are tiny compared.
@@ -519,18 +451,12 @@ So I would summarize that it's less than 1% of the total limits outstanding, the
 dropped by $200 billion over the course of a year and that's what puts us in such a great
 position now.
 
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
-
+A - Philip Stef ano {BIO 22473935 <GO>}
 Understood. Understood. And thinking about Fortitude Re, look, post the sale of
 Fortitude, are there any parts of AIG that still seem non-core? Or alternatively, is there any
 area that you see a need to grow inorganically following the sale of Fortitude?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Well, Fortitude dominates, but isn't exclusively what legacy is. There's still some pieces
 that are probably not worth talking about, but Fortitude still dominates that. So yes, that's
 considered non-core and that helps the life and retirement be comfortable in saying they
@@ -562,19 +488,13 @@ we coast on, what should we cut back or what should we drop kick?
 That's an ongoing -- but that's pruning, right? That's not saying core or non-core. So I think
 with the exception of legacy, we don't have things that I would really classify as non-core.
 
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
-
+A - Philip Stef ano {BIO 22473935 <GO>}
 Got it. And when you think about the broader AIG portfolio, does it feel like there are
 things that are missing that would be easier to solve inorganically than organically?
 
 Bloomberg Transcript
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Well, if we didn't have Validus yet, right? I'd say we need a reinsurer, we'd need Lloyd's
 presence and we need business that we don't heavily crop [ph] and we got all that
 associated with it.
@@ -589,10 +509,7 @@ So whether it's London or England or the U.S. or Australia and some of the other
 you had some level of knowledge of how the legal system would work, which is critically
 important in insurance. So it all goes into the mix.
 
-A - Philip Stef ano
-
-{BIO 22473935 <GO>}
-
+A - Philip Stef ano {BIO 22473935 <GO>}
 Okay. And so switching gears a bit, when we have conversations with investors about AIG
 200 --
 

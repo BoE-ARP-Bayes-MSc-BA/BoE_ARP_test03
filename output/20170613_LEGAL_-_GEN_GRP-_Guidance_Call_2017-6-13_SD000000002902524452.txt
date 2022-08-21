@@ -27,10 +27,7 @@ Bloomberg Transcript
 Unidentified Participant, Analyst
 
 Presentation
-Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+Stuart Jeffrey Davies {BIO 20023574 <GO>}
 Good morning, everyone. Welcome to our Capital Markets Event focused on our
 management of our credit portfolio in stress scenarios. This builds on discussions with
 many of you and following a request at the full year presentation.
@@ -112,10 +109,7 @@ management of our asset portfolio backing those annuity liability.
 And with that, I'd like to hand over to Kerrigan who will take you through the management
 of the credit portfolio and the impact of the stress scenarios.
 
-Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+Kerrigan William Procter {BIO 15093363 <GO>}
 Great. Thank you, Jeff. Good morning. Welcome to everybody.
 
 Bloomberg Transcript
@@ -305,10 +299,7 @@ sheet and shows both the prudence of our reserves and the strength of our capita
 position.
 With that, I'll hand over to Simon.
 
-Simon Gadd
-
-{BIO 17956222 <GO>}
-
+Simon Gadd {BIO 17956222 <GO>}
 Thank you, Kerrigan. Good morning, everyone.
 Page 6 of 24
 
@@ -427,9 +418,7 @@ Date: 2017-06-13
 
 With that, I'll hand back to Jeff.
 
-Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
+Stuart Jeffrey Davies {BIO 20023574 <GO>}
 
 FINAL
 
@@ -446,10 +435,7 @@ Questions And Answers
 
 Bloomberg Transcript
 
-Q - Andrew Hughes
-
-{BIO 1540569 <GO>}
-
+Q - Andrew Hughes {BIO 1540569 <GO>}
 Andy Hughes from Macquarie. So I kind of -- just want to kind of focus on IFRS. Is that
 largely because of transitionals or is that why you kind of focused the presentation on
 IFRS? Because I guess I'm more interested in Solvency II. In particular, the kind of
@@ -466,10 +452,7 @@ basis points. Is it an average cost portfolio where the stresses are in the busi
 Because I'm not sure this kind of gives me the kind of level of detail that would help me
 feel comfortable in a stress from the asset side.
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 Okay. I'm sure Kerrigan and Simon both have views on that one. But I mean, in terms of
 question around focus, we give but equal focus, certainly, on the IFRS and the Solvency II,
 showing both the impact on release of reserves and the in ins and then the impact on the
@@ -477,10 +460,7 @@ Solvency ratio and the quantum of capital that's left, the GBP 4 billion. Yes. W
 there would be some more questions on the detail of the sums, too. And we're
 comfortable taking that way. Kerrigan?
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 So I think, just coming back to the point. And a follow-up on Jeff's point, (always a plate) of
 questions -- the main questions that we were asked after the previous sessions around
 Page 9 of 24
@@ -507,10 +487,7 @@ next time to delve into that in the future.
 
 Bloomberg Transcript
 
-A - Simon Gadd
-
-{BIO 17956222 <GO>}
-
+A - Simon Gadd {BIO 17956222 <GO>}
 Can I maybe just add -- just to make sure we clarify the principles of the Solvency II
 balance sheet. So you're talking about the allowance that we have for default risk on the
 base balance sheet, which is the owned funds versus the component of that balance
@@ -527,10 +504,7 @@ within our base balance sheet, which is to say that's supposed to be driven by t
 estimate view of what we think is going to happen. And in the case of Solvency II, it's to
 some extent described by the rules.
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 It's Andy Sinclair from BofA Merrill Lynch. Just 2 questions, please. Firstly, just can you tell
 us just a bit more about how you would actually expect to be reacting if you did get to a
 serious default cycle? Amongst other questions, if you did see defaults as the provision
@@ -542,10 +516,7 @@ maintain mandates? How often do you tend to rotate within the portfolio? Is that
 only when defaults are seeming likely? Or would you tend to rotate it if you saw the
 likelihood of downgrades and higher investment-grade ratings?
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 Sure, thanks. I'll start off from the first one. And then these guys actually lived through it.
 So they will add a little bit to the first one. I think Kerrigan, in particular, know what we
 physically did, whereas opposed to setting the balance sheet. And yes, Kerrigan is very
@@ -573,10 +544,7 @@ prudence over where our best estimate is on an ongoing basis. So we wouldn't
 necessarily feel that we needed to reestablish at that point in time. I think then in terms of
 other management actions or things we did, as you say, you lived through it.
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 Well Simon lived through it, definitely. At the time, he was running LGR annuities at the
 time. Well I'll kick off. And I'm sure you can complement from both lines. Probably, Andy, if I
 come back to your second point, which somewhat describes what actions we have taken
@@ -627,10 +595,7 @@ give you a bit of a flavor for what we're doing.
 
 FINAL
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 (inaudible) I'm Greig Paterson, KBW. Looking at Slides 27 and 28, which is your 2001, 2002
 scenario, 3 questions. The one is just -- it's a question, if my understanding is correct here.
 We've got 260 of defaults and the annual reduction in the release is 46. Your duration on
@@ -646,19 +611,14 @@ defaults between now and then? Because it's not a minuscule amount of defaults t
 talk about, it must have been in the billions or a few billion at this point. I just want to try
 and get a feel for the actual true costs of your credit exposure.
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 
 Bloomberg Transcript
 
 Sorry. Just to come back on the second point, you mentioned risk margin, we are talking
 there about the IFRS balance sheet.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 No. I appreciate that. So what I was saying is, I do appreciate what this is an IFRS and I -the PV, it should be around GBP 750 million. I'm just taking the default times the annual
 reduction in the release times the duration of 12 years, which is 12 or 13. So it gives you
 GBP 750 million. That's the PV on the IFRS costs. The rest will go down through a variance
@@ -668,17 +628,11 @@ increase in the risk margin associated with downgrades and that 3% looks very li
 2001. Then the third one is, in terms of economic costs, what's been the cumulative
 default costs since 2008 -- since the credit crisis?
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 I think poor Kerrigan, they are all for Kerrigan. And I think explaining the GBP 46 million
 answers the first question. And I think the 3%, we understand.
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 Yes. So let me just -- so just to embellish some of the things I said there in the charts, just
 to make sure it's not -- if it's clear. So GBP 260 million and the other certain (inaudible)
 analysis went to get that figure so that's a straight off the default reserve absorption
@@ -709,20 +663,14 @@ duration. So that's broadly right, I think, they agree.
 On the risk margin, that didn't come in to our IFRS. It's not a feature of our IFRS balance
 sheet in any way.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 (inaudible) take that GBP 750 million. GBP 750 million is the IFRS hit. To me, the economic
 cost is 2%, 3%. And it's because of the risk margin, which is the market's interpretation of
 the existing cost of showing a high risk (inaudible)?
 
 Bloomberg Transcript
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 Well what I think, that somewhat comes down to the robustness of the Solvency II balance
 sheet and what you would do. And we're very comfortable with GBP 4 billion of surplus
 and 150% solvency coverage ratio. So that impact there, that Solvency II impacts
@@ -733,18 +681,12 @@ question is, would we do anything different with that 150%? Would we do somethin
 different that would cost us something economically on top of that? Which that -- we're
 suggesting we're comfortable with that 150%.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 Then last one is, let's keep on the IFRS (inaudible). What's the cumulative negative
 variances associated with downgrades from 2008 to '09? It will be in the billions, I
 assume.
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 Well you will have seen -- I'm just trying to figure that through. I mean you will have seen
 the actual defaults and you will have seen the outturn over the years of PBT and (offprofit) hence investment variance, which will incorporate all the actions that we've taken
 over the years to get to where we are now, which is an A; rated portfolio that we're very
@@ -761,9 +703,7 @@ Company N ame: L egal & General Group PL C
 Company Ticker: L GEN L N Equity
 Date: 2017-06-13
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 
 FINAL
 
@@ -772,10 +712,7 @@ actually in the downgrades. And so to me that's misleading in the sense that you
 managed your book well. But it has that significant defaults over the period and you can
 see it in the negative variances coming through. I mean. And actually...
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 Again. So just on that, there is figures that Nigel and I have spoken about around that. So
 we talked about -- for an example, last year, we were making a lot of money. You saw that
 in our results, fantastic record year. We therefore used some of that to increase the -- or
@@ -790,10 +727,7 @@ we've been able to achieve.
 
 Bloomberg Transcript
 
-Q - Oliver George Nigel Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver George Nigel Steel {BIO 6068696 <GO>}
 Oliver Steel, Deutsche Bank. So 3 questions. First of all, just going to 2001, '02 scenario
 and the 150% solvency ratio. I appreciate it's 24-months all crammed together. But
 presumably, this is just based on the credit side of the sensitivities. It doesn't include
@@ -808,24 +742,16 @@ slides. But exactly how much goes above the line and below the line in the IFRS 
 where do you count all of that release in your Solvency II roll forward? Does it come
 through as organic capital creation? Or is it market variance?
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 So the last one's quite easy. The release of the reserve wouldn't be -- appear at all in the
 Solvency II. So it would just be, you would see whatever market movements (were the)
 market movements. And we would obviously be breaking that out at the time because
 that's just a pure IFRS reserve. I know Kerrigan looked at the different...
 
-Q - Oliver George Nigel Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver George Nigel Steel {BIO 6068696 <GO>}
 So I thought that you said that, that was a similar reserve in the Solvency II (inaudible).
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 
 Page 14 of 24
 
@@ -845,9 +771,7 @@ lot has happened in the balance sheet, (meaning) you have the sensitivities on t
 where we look at them. But yes, the management actions, we do have a long list on
 those.
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 
 Bloomberg Transcript
 
@@ -869,10 +793,7 @@ skill sets, particularly in managing that better. So that's the sort of first or
 action over that period will be across the portfolio management that you're looking to
 apply.
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 Yes. Maybe just to add particularly on -- in that stress. You can see there's quite a lot of
 names that get downgraded to some investment grade and actually even down to sort of
 single B and CCC type levels. Solvency II treats those very painfully. So you take both the
@@ -904,8 +825,7 @@ excellent capability in managing credit portfolio. So just curious.
 
 FINAL
 
-A - Stuart Jeffrey Davies
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 Just on the last one, I'm pretty sure Simon will want to talk about the first one. The -- on
 the rerisking, I think we took quite a lot around, wanted to improve and increase the
 proportion of direct investments, last-time mortgages, et cetera, back in the portfolio that
@@ -917,14 +837,9 @@ So yes, that direction of travel is to increase that proportion. And you may or 
 that rerisking. But certainly we think that gives a better risk-adjusted yield for the portfolio
 and optimizes between IFRS and Solvency II overall.
 
-A - Simon Gadd
-
 Bloomberg Transcript
 
-{BIO 20023574 <GO>}
-
-{BIO 17956222 <GO>}
-
+A - Simon Gadd {BIO 17956222 <GO>}
 Yes. So you're right to say there have been much worse times in history than 2001, '02 for
 spreads. The worst time in history was 2008, '09. So in our capital modeling, we assume
 that we had a combination of 2008, '09 for spreads, combined with 2001, '02 for
@@ -940,19 +855,13 @@ of stocks where the spread was artificially inflated and we took our time, waite
 to normalize before we took any action. So yes, it's a combination of 2008, '09 and 2001,
 '02 that makes up our capital.
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 And I think that's important around the prudence on the IFRS and the plus more than GBP
 4 billion that we're saying in those scenarios around Solvency II that it allows us to take our
 time. We're not foresellers and we're able to capitalize on new business opportunities,
 which is also what we did after 2008, 2009.
 
-Q - Andrew John Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew John Crean {BIO 16513202 <GO>}
 It's Andrew Crean, for Autonomous. A couple of questions. Firstly, can you tell us on an
 IFRS basis, what your normal default assumption is on credit -- on your sort of A-star credit
 portfolio. And what the equivalent would be on your direct investment? What I'm trying to
@@ -971,10 +880,7 @@ Date: 2017-06-13
 
 FINAL
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 Sure. Okay. I mean, on the first one, I know we've previously quoted a sort of a 19 bps, 20
 bps across the portfolio as the sort of best estimate within what was the embedded
 value assumption at the time. I'm not sure we've ever broken that out. I'm just checking. I
@@ -983,67 +889,38 @@ types. So we -- I wouldn't have that at my fingertips in terms of what the assum
 I know what underlies what we put in the solvency II in the IFRS. But that's slightly different
 for those assumptions.
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 I mean that implicit number, the 19, 20 clearly varies by credit rating of the asset.
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 Yes, completely, yes.
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 Or it depends on the mix of assets in the direct investment portfolio versus the mix of
 assets in the trading portfolio.
 
-Q - Andrew John Crean
-
-{BIO 16513202 <GO>}
+Q - Andrew John Crean {BIO 16513202 <GO>}
 
 Bloomberg Transcript
 
 IFRS versus the assumption would be higher than the (inaudible) assumption?
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 Yes.
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 Yes, yes. That's the 50 ...
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 55.
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 The 55 basis points.
 
-Q - Andrew John Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew John Crean {BIO 16513202 <GO>}
 You talk about that. But again, across the whole portfolio? Then, yes, in terms of volumes?
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 Yes. Just to finish that point. So below the line, i.e. the about GBP 100 million-ish that -which is the expected defaults. And then above the line, call it GBP 150 million-ish, in the
 prudent release and the net release. So that's kind of the impact of the full reserve in
 Page 17 of 24
@@ -1071,18 +948,12 @@ there. Typically in the banking market be 40% compared to -- loss (inaudible) 40
 compared to 60% would be typical. But so we'll be looking at something that or better as
 a senior secured-type asset on the direct investment side.
 
-Q - Andrew John Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew John Crean {BIO 16513202 <GO>}
 The yield?
 
 Bloomberg Transcript
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 So the yields, we look at, like I say, is be careful for competition reasons. But I mean, bear
 in mind, if you have a senior secured asset, compared to a senior unsecured asset and
 you're getting the same yield, you certainly take the secured because we are not worried
@@ -1105,10 +976,7 @@ There is plenty of pipeline out there. But and we've all talked many times about
 lumpy. But we're very comfortable with the deals we've written to get to the roughly GBP
 1.4 billion so far this year compared with last year.
 
-Q - David Bracewell
-
-{BIO 16394801 <GO>}
-
+Q - David Bracewell {BIO 16394801 <GO>}
 It's David Bracewell here from Redburn. Just one question. And it's on the on the
 nontraded portfolio in a kind of a default to a downgrade scenario. Just wondering how -what process you go through in terms of rating that kind of -- the asset portfolio there in
 terms of -- because, clearly, in a traded portfolio, it's clear what's happening there in
@@ -1126,19 +994,14 @@ et cetera, et cetera? How that works? And what kind of flexibility you might hav
 
 FINAL
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 Yes. I mean Simon can -- at the risk of repeating (but certainly), that was some of the area
 where it's fully independent, the process, that is fully reviewed. We obviously did that post
 the Brexit vote last year where there was discussion around property, et cetera. And the
 linkage to that. So those are constantly reviewed on an ongoing basis. I think, yes, Simon
 will be happy to talk about that.
 
-A - Simon Gadd
-
-{BIO 17956222 <GO>}
+A - Simon Gadd {BIO 17956222 <GO>}
 
 Bloomberg Transcript
 
@@ -1155,10 +1018,7 @@ yes, a very active management process. It's fair to say we haven't gotten many a
 that situation. So we haven't had to do that very often at this stage. Kerrigan, you can pick
 up the lifetime mortgages.
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 Yes, of the lifetime mortgages, a similar process. So we have the portfolio of lifetime
 mortgage loans to make the match adjustment efficient, we structure them in a special
 purpose vehicles and issue notes out of that vehicle those are rated -- predominantly
@@ -1168,20 +1028,14 @@ through the same internal rating process. We took a lot of advice externally fro
 to rate those and the same internal rating team put those ratings on through the same
 independent process.
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 Interestingly, that's one of the management actions where you have, okay, the economic
 risk hasn't changed. But we could put more assets into the one of those SPVs to maintain
 a better Solvency II position, because we could maintain the ratings on the note that
 we've created internally. So that does give us, again, extra flexibility. None of that is
 reflected, obviously. Alan?
 
-Q - Alan Devlin
-
-{BIO 5936254 <GO>}
-
+Q - Alan Devlin {BIO 5936254 <GO>}
 Alan Devlin from Barclays. A couple of questions. Just a follow-up on the direct
 investments. As you do increase the proportion of your investments in direct investments,
 how does that change the stresses? Is there any meaningful change or is it all rounding?
@@ -1200,10 +1054,7 @@ comes in your (inaudible)?
 
 FINAL
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 So yes. So in terms of the DI, I mean really for the 2001, 2002 scenario, all we did really
 was take the credit ratings distribution of the entire portfolio, including the direct
 investment. And Moody's transition matrix from 2001, 2002 multiply them together and
@@ -1211,15 +1062,10 @@ just applied that to the ratings of the portfolio. Look to the downgrades and ap
 40% recovery to that. So it was very naÃ¯ve test just to make it a completely -- here (sure
 to) test assume we have no skill whatsoever, this is just what would have happened.
 
-Q - Alan Devlin
-
-{BIO 5936254 <GO>}
-
+Q - Alan Devlin {BIO 5936254 <GO>}
 (inaudible)
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 
 Bloomberg Transcript
 
@@ -1236,10 +1082,7 @@ U.K. So I think they've been arguing there for dampening down the downgrade stre
 well. But we didn't allow for any of that in the portfolio. Clearly, as the DI portfolio
 develops and grows then we would argue that there is a additional robustness there.
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 And yes. Sorry in 2008, '09, there were names that you might have wanted to trade out
 of. But you couldn't. But the fact we would never -- we're never forced to trade out was a
 key advantage for us. So we didn't have to sort of participate in fire sales of assets
@@ -1251,9 +1094,7 @@ to hold onto those names. So yes, that flexibility we have got as to when we tra
 advantage.
 Just a couple more questions.
 
-Q - Colm Kelly
-
-{BIO 19140684 <GO>}
+Q - Colm Kelly {BIO 19140684 <GO>}
 Page 20 of 24
 
 
@@ -1279,10 +1120,7 @@ withdrawn, not just downgraded.
 
 Bloomberg Transcript
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 Yes. So on the flexibility point, around the matching adjustment, I mean you saw from the
 charts how closely matched we are on physical assets ties up with swaps to make it right
 really tight across the curve. As long as we're holding those assets and the cash flows can
@@ -1303,16 +1141,10 @@ assets. Nothing else needed to change in that mandate, because it's exactly what
 should be doing for a downgrading defaults (aware) type of mandates. So it hasn't felt
 like it has constrained us at all.
 
-Q - Colm Kelly
-
-{BIO 19140684 <GO>}
-
+Q - Colm Kelly {BIO 19140684 <GO>}
 Maybe to follow up on the withdrawn question?
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 Apologies, apologies. Sorry, sorry about that. So we just literally took the Moody's
 transition matrix from 2001, 2002, multiplied them together and applied that as the stress
 on the overall ratings portfolio. So to the extent any withdrawn ratings don't apply there,
@@ -1320,10 +1152,7 @@ they won't apply in this scenario. So it was just that straight. It's a really t
 test so that you could all re-create that yourselves if you so wished. And it's exactly that, 2
 very visible transition matrices applied to the ratings distribution.
 
-Q - Andrew Hughes
-
-{BIO 1540569 <GO>}
-
+Q - Andrew Hughes {BIO 1540569 <GO>}
 Page 21 of 24
 
 
@@ -1346,10 +1175,7 @@ the target range, which you worked, it would also go up, if you didn't take any
 management actions. So how do I know that 150% in that scenario is enough money to
 pay a dividend? And yes. So...
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 Just on the first, on the observation, we didn't say any individual equity releases are AAA
 rated. All we said is, if you restructure it and put enough security in there, you can create
 notes within a structure that can be rated AAA, because there's lots and lots of
@@ -1360,18 +1186,13 @@ our internal model, been through thorough review by the regulator. And they're o
 comfortable with how that flows into our matching adjustment portfolio, how we've
 modeled that in all the different stochastic scenarios.
 
-Q - Andrew Hughes
-
-{BIO 1540569 <GO>}
+Q - Andrew Hughes {BIO 1540569 <GO>}
 
 Bloomberg Transcript
 
 So the downgrade will not have changed the ratings?
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 Not the ratings within an SPV like that. I mean, we would look at what's the performance
 from an equity release portfolio on the back of a ratings downgrade. But it shouldn't have
 an impact. It'll only be HPI modeling and everything else that flows into it, it doesn't impact
@@ -1402,19 +1223,14 @@ Date: 2017-06-13
 could withstand the same type of event again after a 1 in 200 is a pretty large amount. I
 also don't think...
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 
 FINAL
 
 I think you're right. We talked about a GBP 12.5 billion over GBP 8.3 billion-ish to get to the
 150%. But that GBP 4 billion plus of capital is -- will really come from that really substantial...
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 And having taken no management actions. Maybe anyone else? One more?
 
 Q - Unidentified Participant
@@ -1426,10 +1242,7 @@ how would your credit rating -- your financial strength rating behave in -- unde
 
 Bloomberg Transcript
 
-A - Stuart Jeffrey Davies
-
-{BIO 20023574 <GO>}
-
+A - Stuart Jeffrey Davies {BIO 20023574 <GO>}
 It's a good question. You probably have to ask them they model (modes) in that scenario.
 But I mean, obviously, we went through the 2008, 2009. And withstood that very well. I
 mean, I think as a starting point, whilst there isn't a direct correlation between Solvency II
@@ -1443,10 +1256,7 @@ Thank you very much for coming along today. And thanks again for your inputs alo
 way. Hopefully we've answered some of your questions -- many of your questions. And
 we're happy to follow up, because I know there's a lot of information there. Thanks a lot.
 
-A - Kerrigan William Procter
-
-{BIO 15093363 <GO>}
-
+A - Kerrigan William Procter {BIO 15093363 <GO>}
 Thank you very much.
 
 This transcript may not be 100 percent accurate and may contain misspellings and other

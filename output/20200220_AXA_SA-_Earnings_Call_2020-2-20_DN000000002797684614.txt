@@ -30,10 +30,7 @@ Unidentiﬁed Participant
 William Hawkins, Analyst
 
 Presentation
-Andrew Wallace-Barnett
-
-{BIO 18671460 <GO>}
-
+Andrew Wallace-Barnett {BIO 18671460 <GO>}
 Good afternoon. Welcome everybody here in London for AXA's Full year '19 Earnings
 Presentation. Welcome to those of you in London, who just come through the rain.
 Welcome to those of you who are dry and not just walked through the rain, who are with
@@ -59,10 +56,7 @@ And without any further ado, Thomas, I hand over to you.
 
 FINAL
 
-Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+Thomas Buberl {BIO 16182457 <GO>}
 Thank you, Andrew, and good afternoon to all of you. Very glad to see you here in
 London. When we look at the highlights of the results, they follow the rule 5, 5, 7 -- 5, 5, 5,
 7. 5% growth on the top line and across the board, 5% underlying earnings per share,
@@ -174,10 +168,7 @@ because today's your ﬁrst day as CEO, but you have been on board for quite a f
 already, preparing yourself for this new challenge. And if you could stand in that box to
 talk to us quickly.
 
-Scott Gunter
-
-{BIO 20129741 <GO>}
-
+Scott Gunter {BIO 20129741 <GO>}
 Yes. Thank you, Thomas, and I'm very excited to be part of the AXA Group. As Thomas
 mentioned, I've been on board for a couple of weeks and sort of studying it from afar, and
 I'm very excited. When you look at the AXA XL organization, we have a tremendous
@@ -225,10 +216,7 @@ interested. Today, it goes up 25% last year, 25% this year. Also, it hits our nu
 now we're interested. So we're going to work on the margin, grow the business and deal
 with volatility.
 
-Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+Thomas Buberl {BIO 16182457 <GO>}
 Thank you very much, Scott. So you heard from Scott, no change in strategy, acceleration
 of the existing strategy in order to get to higher proﬁtability. The forecast for this year is
 1.2 billion, and you've got the equation how to get there. People have asked me, well,
@@ -315,10 +303,7 @@ anymore. So I'm very pleased with where we are.
 And I'll now hand over to Etienne, who will lead us through the details of the ﬁnancials.
 Thank you
 
-Etienne Bouas-Laurent
-
-{BIO 16523089 <GO>}
-
+Etienne Bouas-Laurent {BIO 16523089 <GO>}
 Thank you, Thomas, and good afternoon to all of you. I'm very pleased to be here and to
 present this very solid set of numbers. I'm going to start with the presentation of the
 earnings by geography of business line of, sorry, business units. The second presentation
@@ -660,10 +645,7 @@ including margin calls.
 This is the end of my presentation. I hand it over back to Thomas, and thank you for your
 attention.
 
-Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+Thomas Buberl {BIO 16182457 <GO>}
 Thank you very much, Etienne. And now we have the opportunity -- or you have the
 opportunity to go into Q&A, and we are ﬁrst deal with the Q&A in the room. And then
 later on, go to the digital Q&A. Let's start with Jon.
@@ -671,10 +653,7 @@ later on, go to the digital Q&A. Let's start with Jon.
 Bloomberg Transcript
 
 Questions And Answers
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Good afternoon, everybody. It's Jon Hocking for Morgan Stanley. I've got three questions,
 please. Firstly, overall XL, I'm afraid. So ﬁrstly, looking at the casualty reserves. So I think in
 the narrative, the Company results, you're talking about litigation ﬁnancing, ﬁnancial lines,
@@ -693,9 +672,7 @@ reserve buﬀer at XL. So is the message eﬀectively that you've got suﬃcient
 reserve buﬀer at a Group level that we shouldn't be too concerned about, the sort of solo
 XL silo? Thank you.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
+A - Thomas Buberl {BIO 16182457 <GO>}
 Page 13 of 32
 
 
@@ -709,10 +686,7 @@ question, and then Etienne, you'll go for the third question.
 
 FINAL
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 So good afternoon. So the ﬁrst question was on the quality of the reserves and what we
 factor in. So when we review the reserves, obviously, we look at diﬀerent things, and to
 name only one or two. One is, obviously, the cost of litigations in the US. Only 2% of the
@@ -743,16 +717,10 @@ more in the US on large corporates. It is much safer, much sounder when you look
 you've seen despite the reduction in US launch, that overall, we have grown the volumes
 on selected segments.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Thank you, Alban. Third question, Etienne, on the EUR1.2 billion.
 
-A - Etienne Bouas-Laurent
-
-{BIO 16523089 <GO>}
-
+A - Etienne Bouas-Laurent {BIO 16523089 <GO>}
 Yeah, on the EUR1.2 billion, we have absolutely not reﬂected any release of provision of
 any kind. So the P-GAAP was set in place originally to face with the development of prior
 year claims up to the end of '18. So this -- we consider that it will -- there will be -- the PGAAP will neutralize the possible adverse elements from these years.
@@ -780,15 +748,10 @@ believe in this EUR1.2 billion? Because we have all the elements, which mechanic
 expect that in the normalized year, it will happen. And as a CFO, I feel very comfortable
 with this target.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Nick?
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 
 Bloomberg Transcript
 
@@ -803,18 +766,12 @@ And then secondly, a rather simpler question, I hope, is how conﬁdent are you 
 internal model will be approved in, I think, you're saying, Q4, which is an acceleration, is it
 not? No, Alban, you're saying no.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 We've always said end of 2020. So if it is in September, it's an acceleration. Good. two
 questions. I think, again, for Alban. On the reserves, how comfortable are we on the
 EUR600 million or the EUR800 million, and then the question around the internal model.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 So on the EUR600 million. As Etienne said, when we bought the Company 18 months
 ago, we had identiﬁed a number of potential risk or potential issues, that led us to the
 booking of the P-GAAP reserve. And now we're saying, okay, we have more certainty on
@@ -846,10 +803,7 @@ model. The formal application is in June. But by then, we will ﬁnalize the dis
 you know that you submit six months before the approval. So we will submit in June in
 order to have XL in internal model in December, as planned.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 And, Nick, just to add to that, on the casualty piece. I mean, when you look at the whole
 market, if your prices are increasing by over 40%, if your exposure is signiﬁcantly reduced
 and if some competitors, which was the case are even exiting the market, you have an
@@ -859,10 +813,7 @@ James, maybe you can just hand the mic, it's easier to.
 
 Bloomberg Transcript
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 James Shuck from Citi. So three from my side. I just want to go back to Slide A 30, if I can.
 So the margin over best estimate. And I'm just initially thinking of the diﬀerence between
 the EUR5.2 billion and the EUR6 billion. Can you just explain to me what drove -- so
@@ -897,18 +848,12 @@ But just like some guidance over how to think about that payout ratio, please?
 
 FINAL
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Very good. I suggest Alban, Etienne, on the ﬁrst question around the margin of best
 estimate. And then linked to the question, P-GAAP, 3% of XL reserves. Are you bringing it
 to the Group adequacy level? And then I will talk about the other two questions.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 So on your ﬁrst question, to the same extent, we review the XL reserves very regularly. We
 review the whole Group reserves very regularly. And we assess what is our best estimate
 liability for Solvency II purposes. It so happens that over the last year, the diﬀerence
@@ -927,10 +872,7 @@ instance, Etienne said that this year, we had positive project developments comi
 Ogden. So it can pop up in one entity and not one -- not in another. And we're not
 planning to have a proportionate allocation in all our entities.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 So on the two other questions. Number one is the question around the EUR1.2 billion in
 2020, is it post synergies still an attractive deal. Again, let's go back to the rationale of the
 deal at that time. The rationale was, how do we reduce our exposure and ﬁnancial risk
@@ -989,30 +931,19 @@ The ﬁrst question is, how do we get to an attractive dividend growth and the r
 ﬁgure is the payout ratio. And I guess, what you're saying, between 50% and 60%, we are
 still at the lower end, and there is a big room for ﬂexibility.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Could I just clarify one point there? Just, I mean, one way of hitting that is to shrink
 earnings, I suppose, let's hope you don't go that way. But if you want to --
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 I wasn't thinking about it this way.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 But if you want to -- I mean, if you're going to raise the target range, I mean, are you
 categorically ruling out a rebasing of the dividend to the midpoint of the range at some
 stage and then grow in line with underlying earnings?
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
+A - Thomas Buberl {BIO 16182457 <GO>}
 
 Page 18 of 32
 
@@ -1036,9 +967,7 @@ And so we said, in order to take account of this and to make sure that we have t
 determine what is attractive dividend growth and the payout ratio is the resulting ﬁgure.
 Let's move -- sorry, I can't see who it is because the light is very diﬃcult.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
@@ -1058,17 +987,11 @@ wrong, was that when you did the XL deal, you talked about cash at hand of EUR3.
 billion being spent. If we just subtract the EUR1.9 billion from that, are we saying that
 you've got another EUR1.6 billion to go? Or is the number bigger or smaller, Alban?
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Those were your two questions. So thanks, Will. First one is for Alban. Is the capital release
 from the further protection. Second one for Etienne, where is the stock on the cash.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 So I'm afraid, I have to be a bit technical for a second, so bear with me. The -- when you
 reduce the -- the way our internal model is built, there is a beneﬁt of diversiﬁcation. And
 when you look at the investment risk, there is little diversiﬁcation from one country to
@@ -1093,36 +1016,21 @@ were to do a 50% quota share of my whole book in P&C, yes, you would see it. But
 reducing the cat nat from EUR500 million at 20 years to EUR400 million, you would
 hardly see it in the capital required.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Farooq, I think, yeah. Sorry.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 So the second question was --
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Sorry, sorry, sorry, sorry. Yeah, the stock. I'm sorry. Too fast.
 
-A - Etienne Bouas-Laurent
-
-{BIO 16523089 <GO>}
-
+A - Etienne Bouas-Laurent {BIO 16523089 <GO>}
 Yeah. So around EUR2 billion.
 
 Bloomberg Transcript
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, Farooq Hanif from Credit Suisse. Firstly, on the walk to get to EUR1.2 billion. When I
 look at the EUR600 million uplift, I think to myself, you talked about EUR400 million pretax synergies. You had EUR200 million of excess large losses last year. Pricing drive the
 top line, but also margin expansion, presumably. So what's the negative factor in that
@@ -1142,10 +1050,7 @@ built given your payout ratio, given your earnings. So I'm just kind of wonderin
 level do you -- would you like to have at the holding, what -- why are you showing this
 number, in essence? Thank you.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 So I suggest, Etienne, you take the ﬁrst question, why EUR0.6 billion were the negative
 factors. Then the question on reducing property are quickly answered. And then Etienne,
 Page 20 of 32
@@ -1184,10 +1089,7 @@ reduction that we mentioned is linked to the reinsurance nat cat area, and that'
 rationale.
 Etienne, question number one and three.
 
-A - Etienne Bouas-Laurent
-
-{BIO 16523089 <GO>}
-
+A - Etienne Bouas-Laurent {BIO 16523089 <GO>}
 So we start -- the question will refer to EUR0.6 billion. The EUR0.6 billion reﬂects mainly
 the pricing eﬀect, net of the possible claims inﬂation. That's it. So when you start from the
 EUR0.5 billion, of course, you have EUR0.2 billion deviation in large losses. We have not
@@ -1228,10 +1130,7 @@ understand. There is no hidden message. And we will not put as a headline the le
 cash in the holding in the front page, never. It's just to give you a hint of where we are and
 how we manage the cash.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Just a quick comment, rather than a question. It seems to me that you've lost the cost
 synergies although it's a general revenue and cost synergies because they weren't quite
 there in 2019. We didn't really talk about them in 2020 they were going to come, but now
@@ -1239,10 +1138,7 @@ it seems to be gone. So yes...
 
 Bloomberg Transcript
 
-A - Etienne Bouas-Laurent
-
-{BIO 16523089 <GO>}
-
+A - Etienne Bouas-Laurent {BIO 16523089 <GO>}
 No cost synergies starting in '18 continued in '19. I must confess that in terms of cost, we
 had some -- a slightly positive element, non-recurring for next year, but the synergies will
 continue to play in 2020. But if you look at -- if you compare that with the impact of
@@ -1250,16 +1146,10 @@ pricing, it's much lower. But don't forget that it was already in the '18 and '1
 when thinking about '20, you cannot take the EUR250 million total announced because
 part of them were already in the previous numbers.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Let's just move. Sorry, I can't see because --
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Hi, thank you. Ashik Musaddi from JP Morgan. Sorry to go back on that EUR600 million
 number again, I mean if that is net of price -- net of the claims inﬂation. I mean was that
 already expected when you gave the EUR1.4 billion number because pricing more or less
@@ -1286,32 +1176,20 @@ number would be? What sort of proﬁt XL would print? Thank you.
 
 FINAL
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 So, Etienne, it's best if you take those three questions. I think for the third question, we
 should maybe have a look at one of the slides B-39 or whatever it was, 59, I can't
 remember.
 
-A - Etienne Bouas-Laurent
-
-{BIO 16523089 <GO>}
-
+A - Etienne Bouas-Laurent {BIO 16523089 <GO>}
 52.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 52. Sorry. Exactly. Etienne?
 
 Bloomberg Transcript
 
-A - Etienne Bouas-Laurent
-
-{BIO 16523089 <GO>}
-
+A - Etienne Bouas-Laurent {BIO 16523089 <GO>}
 So I must say that back to '18 when the target of EUR1.4 billion was set, a lot of things were
 diﬀerent. So we expected certainly lower level of large losses, and we expected social
 inﬂation but not by the magnitude and the speed of increase we are facing now. So -- and
@@ -1327,16 +1205,10 @@ today we continue to produce some positive -- incremental positive results, but 
 want to quantify at all, the -- and it's -- we don't expect to minus for '21. We expect
 mechanically a plus, but we don't want to quantify it today.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Let's have a look at the last question, which is around, is volatility actually going down?
 
-A - Etienne Bouas-Laurent
-
-{BIO 16523089 <GO>}
-
+A - Etienne Bouas-Laurent {BIO 16523089 <GO>}
 So the horizontal line is the best estimate in terms of CAT charge forecast today. So if you
 were to draw the line more on the left-hand side would come with one out of two years
 with everything at EUR800 million. So when you look at what happened in '19 you see that
@@ -1361,16 +1233,10 @@ where it's the most eﬀective, especially if you look at the euro numbers. So w
 back at '18 and '19, we would have saved in '19 $100 million in '18 $200 million.
 So there is a real impact at the XL level.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 That's quite clear. Thank you.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Let's move over to this side, so far right.
 
 Q - Unidentiﬁed Participant
@@ -1389,16 +1255,10 @@ wondered what will nudge you -- at what stage, will you decide or we'll do the m
 or we'll do the minimum and what will inﬂuence that decision?
 And the last question, is that France which seems to be the star of the show today is the -how sustainable is that EUR1.7 billion, what can we expect this year?
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Etienne, three questions for you.
 
-A - Etienne Bouas-Laurent
-
-{BIO 16523089 <GO>}
-
+A - Etienne Bouas-Laurent {BIO 16523089 <GO>}
 Thank you. Maybe you missed the contribution of AXA Equitable Holdings, if I understand
 your question well. So you will have positives from asset management, even if it goes up,
 it will not be very signiﬁcant in absolute numbers, but the contribution of AXA Equitable
@@ -1423,17 +1283,11 @@ Bloomberg Transcript
 
 FINAL
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 And your third question, it was for Jacques. AXA France is EUR1.7 billion sustainable, I
 think that was the question.
 
-A - Jacques de Peretti
-
-{BIO 18970697 <GO>}
-
+A - Jacques de Peretti {BIO 18970697 <GO>}
 Thank you very much for the question. Concerning AXA France, we have very, very solid
 engine that is growing each year at the same level. So it's not new that we are performing.
 So the question is are we going to perform into the long-term? Deﬁnitely yes. If you look
@@ -1504,17 +1358,11 @@ So, thanks to our track record, thanks to our expertise, thanks to the strong li
 with AXA Invest Manager in France, we are very, very conﬁdent in the capacity we have to
 grow the underlying earnings in the coming years.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Thank you, Jacques. Michael, you must be convinced now. So. Let's just move forward,
 yeah.
 
-Q - Colm Kelly
-
-{BIO 19140684 <GO>}
-
+Q - Colm Kelly {BIO 19140684 <GO>}
 Thank you. Colm Kelly, UBS. Most of my questions have been asked and answered, but I
 have a few remaining. In AXA XL to what extent have the changes announced today
 impacted on the diversiﬁcation beneﬁt you expect to achieve with the merger of the
@@ -1550,10 +1398,7 @@ And when I look at the next plan. How does that give me conﬁdence in the progr
 dividend strategy within that plan, if the cash ﬂows themselves are not exhibiting growth?
 Thank you.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 So before Alban is answering the ﬁrst two questions, let us remind ourselves that we are
 here to discuss the full-year results 2019 and not the plan 2021 to something. So when we
 are ready to discuss the plan we should go back to the question around cash ﬂow, I don't
@@ -1564,10 +1409,7 @@ question on the capital synergies. What is our conﬁdence?
 
 Bloomberg Transcript
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 So the -- your question on the change in business mix and its impact on the model, it's a
 bit the same question as the one earlier on the release of capital or the absence thereof.
 It's not signiﬁcant enough, that change, to impact the amount of capital that we need to
@@ -1578,10 +1420,7 @@ discussions are still being held. We have not come to a conclusion yet and I wou
 nothing leads me to believe that the 5 to 10 points is -- wouldn't be achieved, but I don't
 want to put pressure on the ACPR by saying this. And so that will come in the next month.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Good. Let's move on. Let's go ahead. Sorry, I -- yeah, the cash, one, I think I just to
 checked with Etienne. We'll come back to that when we talk about the plan because for
 the existing period, we have seen EUR28 billion to EUR32 billion. We are at EUR25 billion
@@ -1589,10 +1428,7 @@ there should be no reason to believe that we are not achieving the range that th
 targeted for Ambition 2020 and what everything else that concerns afterwards, let's deal
 with it when we talk about the afterwards.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Thank you. Thomas Fossard from HSBC. Two questions left on XL, so if you come back to
 this one. The ﬁrst question would be regarding the claims inﬂation you're seeing coming
 Page 27 of 32
@@ -1619,19 +1455,13 @@ think that these type of granularity we're still missing. And also on the premiu
 reinsurance side, where you've got more than of EUR3.5 billion what is the volatility of the
 business which is behind? Thank you.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Good. Thank you very much. Etienne, Alban, do you want to talk about the ﬁrst question.
 Who takes it, Alban?
 
 Bloomberg Transcript
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
-
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 So, on the claims inﬂation. I think the main message that we want to give is we do believe
 that we are ahead of the trend i.e., that the price increases are greater than the claims
 inﬂation that we're seeing. That's a very strong message. But then when you look at the
@@ -1648,19 +1478,13 @@ underwriting measures that we have taken on umbrella, but same on others, but
 obviously not all of them are aﬀected the same way by claims inﬂation. And, therefore, our
 price increases need to be selective but signiﬁcant.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Thanks you, Alban. Scott, maybe it is an opportunity for you to talk a little bit about XL and
 by business line. And I think it would also be important to shed a bit of light on the social
 inﬂation is not a general problem everywhere it's very focused on some parts like rail, like
 commercial auto. If you talk a little bit about that so we get more into perspective?
 
-A - Scott Gunter
-
-{BIO 20129741 <GO>}
-
+A - Scott Gunter {BIO 20129741 <GO>}
 Yes. And in the casualty number, you see that is a basket, as Alban says, that is a basket of
 goods. There is motor in there. Our work comp book we have United States is in there.
 Page 28 of 32
@@ -1682,31 +1506,19 @@ money from bigger companies. You can see it in the settlements and you can see i
 court cases. So it is not a universal number across the entire portfolio that says everything
 goes up, but it is still all going up. It just goes up at diﬀerent levels.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Let's move on.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 All right. Kamran Hossain from RBC. On results being going, I guess we haven't hit
 coronavirus. Yes, so let me just ask about that.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 It took a long time.
 
 Bloomberg Transcript
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 In terms of I guess being prepared for, I think we can probably ignore the claims
 environment due to coronavirus, but if you look at SARS post that happening back in the
 early 2000s, there was a huge spike up in kind of Health sales following that. How
@@ -1720,10 +1532,7 @@ that your Cats -- your kind of average Nat Cat number should probably come down
 because I know one in 5-year basis it comes down quite a lot. So is the 4% Nat Cat
 number for AXA XL is still the right one going forward? Thank you.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Good, thank you very much. I'll do the coronavirus one. And then Etienne, if you could do
 the other ones on the EUR0.6 billion and the margin improvement and the question
 around does the Cat exposure come down. So on the coronavirus, look the short term is
@@ -1760,10 +1569,7 @@ Etienne, on the other two questions.
 
 Bloomberg Transcript
 
-A - Etienne Bouas-Laurent
-
-{BIO 16523089 <GO>}
-
+A - Etienne Bouas-Laurent {BIO 16523089 <GO>}
 So EUR0.6 billion -- the famous now EUR0.6 billion XL. What I can tell you -- can reiterate
 in the EUR0.5 billion starting point, we have minus EUR0.2 billion of casualty deviation.
 We didn't touch this because we think there is a lag between the pricing -- some lag
@@ -1780,28 +1586,17 @@ that the average the average load of Cat Nat net has come back from the sort of 
 to a 4% minus which is mechanical mathematically. However, in our forecast, we are very
 near to -- still to the 4%. The main beneﬁt is -- comes from, the volatility.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 So last question. And Andrew Crean, you've got the mic. So I can't prevent you from
 asking that question.Go ahead.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Three questions, One -- only one on XL.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 That's a record.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
+Q - Andrew Crean {BIO 16513202 <GO>}
 Page 30 of 32
 
 
@@ -1826,9 +1621,7 @@ probably now down at about 1%. What is the outlook for investment margins? Do yo
 intend to keep cash in crediting rates to maintain your margin? Or do you look to the fact
 that the policyholders are getting rather a bad deal?
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
+A - Thomas Buberl {BIO 16182457 <GO>}
 
 Bloomberg Transcript
 
@@ -1839,10 +1632,7 @@ take the question on the reinvestment rate and also may be linked to the questio
 crediting rate and if you need some help from Jacques because that is very much linked
 to France, we can happily do that. Etienne?
 
-A - Etienne Bouas-Laurent
-
-{BIO 16523089 <GO>}
-
+A - Etienne Bouas-Laurent {BIO 16523089 <GO>}
 So the P-GAAP identiﬁed a certain number of risks at the end of 2018, most of them being
 related to casualty. But, of course, they are basically unallocated. The EUR0.6 billion this
 year are focused on the liability lines on the casualty lines because those are the ones
@@ -1856,15 +1646,10 @@ have some variations related to speciﬁc country situations, which are I would 
 operating free cash ﬂow themselves, which is a proxy, have to increase by the same level
 of pattern than the dividend and the and the earnings per share.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
-
+A - Thomas Buberl {BIO 16182457 <GO>}
 Alban, on the reinvestment rate.
 
-A - Alban de Mailly Nesle
-
-{BIO 20387796 <GO>}
+A - Alban de Mailly Nesle {BIO 20387796 <GO>}
 
 Page 31 of 32
 
@@ -1889,9 +1674,7 @@ both keep margin similar or close to what we have today and still give a very de
 return to our policyholders, notably when you compare with the negative interest rates
 that you would have today on the market.
 
-A - Thomas Buberl
-
-{BIO 16182457 <GO>}
+A - Thomas Buberl {BIO 16182457 <GO>}
 
 Bloomberg Transcript
 

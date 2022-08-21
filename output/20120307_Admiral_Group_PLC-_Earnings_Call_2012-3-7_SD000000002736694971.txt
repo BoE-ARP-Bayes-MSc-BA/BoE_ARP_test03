@@ -25,10 +25,7 @@ Bloomberg Transcript
 Unidentiﬁed Participant, Analyst
 
 Presentation
-Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+Henry Engelhardt {BIO 3022947 <GO>}
 Good morning, everybody. Welcome to Admiral Group's 2011 full-year results
 presentation, our eighth such presentation since going public in September 2004. I'll give
 a brief overview of our results; then Kevin will dive into some detail; David's going to talk
@@ -114,10 +111,7 @@ FINAL
 
 And now I'd like to turn it over to Kevin, so he can do the rest of his slides. Thank you.
 
-Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+Kevin Chidwick {BIO 15100612 <GO>}
 Thanks, Henry; nice slide. Good morning, everybody. I'm going to run through some
 Group numbers and start with this slide, which I think is quite familiar to you all, which is
 the components of our proﬁt. As Henry said, our proﬁts are up 13%, GBP299 million, and
@@ -272,10 +266,7 @@ FINAL
 The dividend will be paid on June 1.
 And that's it from me. Thank you, very much. I'll hand you over to David.
 
-David Stevens
-
-{BIO 6807391 <GO>}
-
+David Stevens {BIO 6807391 <GO>}
 Thank you, Kevin. Good morning. I'm going to do three slides on the UK market as a
 whole and then roll onto talking about Admiral's performance in 2011, in particular.
 You'll be familiar with most of the slides on the UK market, certainly with this one, which is
@@ -573,9 +564,7 @@ Company Name: Admiral Group PLC
 Company Ticker: ADM LN Equity
 Date: 2012-03-07
 
-Henry Engelhardt
-
-{BIO 3022947 <GO>}
+Henry Engelhardt {BIO 3022947 <GO>}
 
 FINAL
 
@@ -693,10 +682,7 @@ what you think the market's going to put through and what you plan to put throug
 terms of base rate so we can have some kind of context to ﬂex it if things start changing
 over the year.
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 In terms of the underwriting year ultimates, could we pick that up afterwards?
 
 Bloomberg Transcript
@@ -710,16 +696,10 @@ number and the value of bigger bodily injury claims.
 Q - Greig Paterson
 (inaudible question).
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 Yes.
 
-Q - Andy Broadﬁeld
-
-{BIO 7273415 <GO>}
-
+Q - Andy Broadﬁeld {BIO 7273415 <GO>}
 Andy Broadﬁeld, Barclays Capital. Just one quick question, actually. It's around your
 reserving approach. I think after two or three years, where you've said you've deliberately
 reduced the reserving buﬀers because of the improved proﬁt commission terms to try
@@ -741,10 +721,7 @@ wobble in Q3?
 
 FINAL
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 I think the straight question is, yes, we've increased the buﬀer a bit at the end of the year.
 And you can see that in the book numbers, and when you do the calculations of the
 model you'll work it out through.
@@ -752,18 +729,12 @@ So in terms of going forward, we've always said we look to maintain a consistent
 over the medium term and sometimes it'll oscillate around. But, certainly, at the end of the
 2011 number it felt appropriate to move it up a bit, so that's what we've done.
 
-Q - Andy Broadﬁeld
-
-{BIO 7273415 <GO>}
-
+Q - Andy Broadﬁeld {BIO 7273415 <GO>}
 So that's a sustained forward-looking position now? Or are we -- sorry, it's a bit quiet isn't
 it? Is that a sustained -- we're now there? Or is this just we want to wait and see how this
 develops and then we'll return to where we said we were going to be two years ago?
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Well, I think, as I say, we'll look to maintain a consistent level in the medium term. So it
 might move around a bit period by period so I wouldn't want to give you a forecast of
 June 2012, but this is a base to move forward from, I suppose, if you take that as a guide.
@@ -773,10 +744,7 @@ Bloomberg Transcript
 Operator
 (Operator Instructions)
 
-Q - Andy Broadﬁeld
-
-{BIO 7273415 <GO>}
-
+Q - Andy Broadﬁeld {BIO 7273415 <GO>}
 On the pricing for 2012, market ﬂat, are you going to be -- you were 10 points higher, I
 think you were saying, in 2011, would you think that would be a narrower diﬀerential? It
 seems that growth of 5% to 10% looks quite ambitious if you're going to be 10 points
@@ -784,19 +752,13 @@ ahead of the market given that price comparison is quite sensitive, so how do yo
 the volume growth with the view that you're still going to be raising prices faster than the
 market?
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 Right, well, I would say that the volume growth also largely comes from the continued
 shift in distribution towards price comparison, where we're strong. And we're certainly not
 going to stand up here today and tell you what our price increases or decreases are going
 to be during the year.
 
-Q - Andy Broadﬁeld
-
-{BIO 7273415 <GO>}
-
+Q - Andy Broadﬁeld {BIO 7273415 <GO>}
 Sure. But it'll be ahead of the market, the implication[ph] of what --
 
 Page 15 of 28
@@ -807,55 +769,37 @@ Company Name: Admiral Group PLC
 Company Ticker: ADM LN Equity
 Date: 2012-03-07
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 We'll tell you in a year.
 
 FINAL
 
-Q - Andy Broadﬁeld
-
-{BIO 7273415 <GO>}
-
+Q - Andy Broadﬁeld {BIO 7273415 <GO>}
 And on the claims trend, you said that Q4 was better than Q3 in the press release. What's
 happened in early Q1, broadly? Have you seen a mean reversion story, whereby that blip
 in Q2 and Q3 has disappeared? Or are we still stabilizing at a higher level, compared with
 where you were before?
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 We're not going to comment on quarter 1 at this point because it's just too much of a rod
 for our own back. If we say something and then March, which is, after all, 33% of quarter 1,
 behaves in a certain way it just could be potentially misleading. So we're not going to
 comment month by month.
 
-Q - Andy Broadﬁeld
-
-{BIO 7273415 <GO>}
-
+Q - Andy Broadﬁeld {BIO 7273415 <GO>}
 And lastly, in Spain you've got a new brand, I think Globalty, alongside Balumba, what's
 the rationale behind that? And do you plan to have, perhaps, a multi-brand approach in
 other overseas markets?
 
 Bloomberg Transcript
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 Yes, in Spain, the business being attracted by Balumba is largely younger and more
 Internet based, and probably a lot of that is down to the name. So we're looking at other
 names, not just Globalty, we're looking at other names too to introduce that would attract
 a diﬀerent segment of that market.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Andy Hughes, Exane BNP Paribas. There's three questions, but there might be a couple of
 bits in each one. The ﬁrst bit is related to the growth, and I guess it's the same question
 really. What does the 5% to 10% equate to in terms of price comparison growth? Is there a
@@ -887,16 +831,10 @@ you seem to be saying it's a function of the growth that we've had in the past c
 years. Could you just clarify which one is correct, and what I'm getting wrong there? Thank
 you.
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 David, do you want to -- I think you can tackle most of those.
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 Well, let me see. I'll do some of them, but I'm not sure I captured them all. No, we didn't
 reduce rates in 5% in Jan.
 5% to 10%, how does that compare with price comparison growth? Price comparison
@@ -912,39 +850,24 @@ price changes. It's only two months in and we're in constant process, as implied
 20 or 30 changes, of making changes so to actually speculate as to how that goes for the
 year as a whole would be premature. But it will be a factor on the top line.
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Q3 claims and new business versus existing business. I think it was where does the claims
 inﬂation come from, or claims problem?
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Where was the large bodily injury claims come from, because I think you said --?
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Was it new business stuﬀ, or was it the old book[ph]?
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 Well, more than 60% of the earned premium it relates to new business. New business has
 always had a tendency to have a higher bodily injury propensity and so the biggest issue
 was around new business in terms of 2011. We have had bodily and big bodily injury
 claims in relation to renewal, so there's also a bodily injury experience on renewal so it's
 not unique to new business.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Page 17 of 28
 
 
@@ -961,25 +884,16 @@ reason why, in the very hypothetical situation where you had a very high combine
 say, in 2012, there should be any reason you should be exposed to the downside risk on
 that business?
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 That's correct.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Second question --
 
 Q - Unidentiﬁed Participant
 (inaudible).
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 Sorry?
 
 Q - Unidentiﬁed Participant
@@ -987,40 +901,26 @@ But isn't there a loss --?
 
 Bloomberg Transcript
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 Not on the main contractor.
 
 Q - Unidentiﬁed Participant
 Admittedly, after 130 balance sheet take another 20[ph] on the quota shares.
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 No, the co-insurance deal has -- is inﬁnite. The quota shares have combined ratios of,
 tops, the order you're talking about.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Second question, last time we met you were talking about an in-house legal department,
 possible set up of. Obviously, we've had a few months further down the road now and I
 was wondering whether you'd had any further thoughts on that.
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 We're considering our options. The legislation hasn't been written yet, fully explained for
 what will happen with referral fees, so we're standing by to see what gets written.
 
-Q - Colin Simpson
-
-{BIO 15894636 <GO>}
+Q - Colin Simpson {BIO 15894636 <GO>}
 Page 18 of 28
 
 
@@ -1038,10 +938,7 @@ FINAL
 Also, related to that, I wasn't sure whether your review of the reserves extended to the
 increased propensity to award PPOs, and maybe a PPO IBNR, whether that's required.
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 The Direct Line number is an interesting number. I think you want to be careful making
 comparisons because I think it's potentially inﬂuenced by your rate of growth over time
 and so it's not necessarily directly comparable number between Direct Line and every
@@ -1065,19 +962,13 @@ launching telematic products into the UK car insurance market. I know you have a
 in that market, I was just wondering where you see the growth in that market, and how
 much you've seen this year, I guess.
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 The installment income was always there, it was just separated from the rest and,
 therefore, as you sort of assumed, it wasn't there at all, so we have moved it in so that it's
 more clear. But it's not new income; it just was in a diﬀerent pot.
 And the telematics?
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 Yes, we've run a couple of tests, and the more recent test in the second half of 2011 was a
 rather bigger one, to try and understand the right way forward on telematics. It's
 interesting, but it is, as we've often said, a high expense option. And it's also not 100%
@@ -1093,9 +984,7 @@ Company Name: Admiral Group PLC
 Company Ticker: ADM LN Equity
 Date: 2012-03-07
 
-Q - Tony Silverman
-
-{BIO 2162363 <GO>}
+Q - Tony Silverman {BIO 2162363 <GO>}
 
 FINAL
 
@@ -1110,25 +999,16 @@ The second question was the GBP41 million increase mentioned on slide 26 for tot
 premiums in the International. I wonder what -- how much of that is the US? Or if it's there,
 I missed it, but if you could let us know how much that is.
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 Sorry, the second question is?
 
-Q - Tony Silverman
-
-{BIO 2162363 <GO>}
-
+Q - Tony Silverman {BIO 2162363 <GO>}
 How much of the GBP41 million increase in total premiums for International was from the
 US?
 
 Bloomberg Transcript
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 Well, we're not delineating ﬁgures for the operations. The US, though, I would say, was a
 modest proportion of that. It was not the dominating factor there.
 The PC number, you can't give an exact number because some of the deals, 1 point at
@@ -1137,23 +1017,14 @@ single number that you can just sap in 1 point equals x. And, unfortunately, by 
 terms, I can't reveal the terms in the agreement either, so you can't see those numbers,
 sorry.
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 If it is helpful, there is a note on page 54 of this pack, not the presentation pack, but the
 accounts pack.
 
-Q - Tony Silverman
-
-{BIO 2162363 <GO>}
-
+Q - Tony Silverman {BIO 2162363 <GO>}
 Yes, that's just been pointed out to me. That is helpful, thank you.
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Which has the sensitivity in it year by year, which -- if that helps you.
 
 Q - Unidentiﬁed Participant
@@ -1179,10 +1050,7 @@ which was attributable to 2010? You said that you had to reassess a number of th
 claims, is that -- can you go into that issue in a bit more detail and give us some comfort
 that, that won't happen again for 2011?
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 Okay, let me start at the end, with the 2010 point. The most obvious way of answering is to
 say that the experience in quarter 3, where we saw some large bodily injury cases
 emerging on 2010 accident year claims, moved the ultimate loss ratio for that year by 3
@@ -1228,10 +1096,7 @@ FINAL
 To actually unpick exactly what happened in quarter 3 is really diﬃcult; it's a combination
 of these types of factor.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Andy Hughes, Exane BNP Paribas. I realize before I only asked two questions, so I'm
 coming back with a third one. So, just clarifying on the question I asked before about the
 average premium coming down, is there any guidance you can give? Is your average
@@ -1252,10 +1117,7 @@ you know, I ﬂagged something to do with the Association of Personal Injury Law
 who've been told the review's coming up pretty shortly for the Ogden discount rate, just
 trying to get your view on that and the impact, please. Thank you.
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 I think on the average premium point, it's a question of degree. You asked the question
 how diﬀerent we are. If you take the FSA returns for 2010, and compare the average
 earned premium for 2010 -- no, sorry, treasury returns, which doesn't cover the whole
@@ -1267,10 +1129,7 @@ And when I say that it's moving in a precautionary move towards lower bodily inj
 intensity, I'm not saying that now we're Saga; I'm saying that, that gap is likely to narrow
 but it's still going to be very, very substantial.
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 The Ogden tables?
 
 Page 22 of 28
@@ -1281,9 +1140,7 @@ Company Name: Admiral Group PLC
 Company Ticker: ADM LN Equity
 Date: 2012-03-07
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
+A - David Stevens {BIO 6807391 <GO>}
 
 FINAL
 
@@ -1302,18 +1159,12 @@ away if you take the 2.5% down to 0.5%. It does have a material impact on the pr
 people pay. So that creates a lot of, I think, political pressure on that not happening.
 Having said that, we do have a substantial pot there, were it to happen.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Ogden 8[ph]?
 
 Bloomberg Transcript
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 If you look at the level of inﬂation on big claims, it averages 7%, 8%, 9% a year, and has
 done for years. And so you get a signiﬁcantly higher rate of inﬂation on big claims than
 you do the underlying level of inﬂation in the market. And one of the reasons for that is
@@ -1325,10 +1176,7 @@ impact, but that's the world you live in with big bodily injury claims. I don't 
 limited for step change; it's just part of that overall underlying level of 4%, 5%, 6% real
 inﬂation on these claims.
 
-Q - Marcus Barnard
-
-{BIO 2103471 <GO>}
-
+Q - Marcus Barnard {BIO 2103471 <GO>}
 Marcus Barnard, Oriel Securities. I've got three questions, please. Firstly, on the reserve
 releases, I note that most of your reserve releases -- or most of the increase in your reserve
 releases came from the 2005-2006 years. That was a signiﬁcant contribution to the GBP10
@@ -1358,10 +1206,7 @@ end of 2010. I note your gross claims reserves have gone up by about 70%/80%. Ca
 just tell me what the ﬁgure is for the UK in aggregate and for Gibraltar separately for the
 end of 2011? Thank you.
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Thanks, Marcus. I'll take that one. I don't know the exact number for negative IBNR so I'll
 take that one oﬄine, Marcus, and I'll come back to you with that ﬁgure. But it is the case,
 as we said, earlier on, that we have booked the loss ratios a little bit higher at the end of
@@ -1390,10 +1235,7 @@ want to better understand the robustness of your business model. What needs to h
 for reinsurers to walk away from your business? If you can talk more in detail about it,
 please. Thank you.
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 Well, fundamentally, we have to go -- we'd probably have to get very close to a combined
 ratio in the UK of 100 for the reinsurers to be in doubt. I think the reinsurers look at our
 business as a bit of a banker because they get a ﬁxed amount, the non-Munich Re deals,
@@ -1428,10 +1270,7 @@ please?
 
 Bloomberg Transcript
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 Well, clearly, if we were 100% of the market then the market average would be -- we
 would be market average. So in some sense, yes, we're always as we grow going to move
 towards market average because we're the biggest -- bigger and bigger part of the
@@ -1452,10 +1291,7 @@ And secondly, when you refer to a market share of 11% that looks to me to be bas
 vehicle count across both the commercial and the personal book. What is your market
 share of the private motor market, based on premium?
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 Well, market share on vehicle count is 11%. I said earlier that our average premium in 2010
 was 25% to 30% higher than the market so, by implication, our market share on a value
 basis would be 11% times 1.25 to 1.3.
@@ -1472,10 +1308,7 @@ But that's on the total market, not just the private?
 
 FINAL
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 No, no, that is private market because I'm comparing average -- well, I'm working on the
 basis of, like, roughly, a 26/27 million private vehicle market. So we're at just under 3
 million, so we're around 11% of that market. Now, if you have a diﬀerent view of what the
@@ -1487,9 +1320,7 @@ various people quoting it in diﬀerent contexts, what size the claim, and what 
 stuﬀ like that so we're not going to get into conservations around volumes of certain types
 of claims at certain periods. So, I'm not going to answer, basically.
 
-Q - Andy Broadﬁeld
-
-{BIO 7273415 <GO>}
+Q - Andy Broadﬁeld {BIO 7273415 <GO>}
 
 Bloomberg Transcript
 
@@ -1502,10 +1333,7 @@ investment strategy, given you potentially have genuinely long-tern payment peri
 deal with, do you outsource it? Do you start investing in long-term assets? How should we
 think about that?
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 It's something that we've been doing a lot of work on. The handling of PPOs has been
 something that we could do on a very ad hoc basis when you've got fewer than 10 of
 them.
@@ -1541,19 +1369,13 @@ Q - Greig Paterson
 Greig Paterson. Your comments about you're reviewing Italy, does that mean you're
 thinking about exiting? And just wondering if you just want to talk about that a bit.
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 No, we're considering our options. That's all I'll say at this time.
 
 Q - Greig Paterson
 Is that because you're disappointed with the progress you've made?
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 It would be strange if we were really pleased with the progress that we, but we (inaudible)
 options, yes .
 
@@ -1562,30 +1384,21 @@ Bloomberg Transcript
 Q - Greig Paterson
 It's a serious question. Are you --?
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 Yes, and serious answer. But we're considering our options, but that's all I'm going to say
 at this time.
 
 Q - Unidentiﬁed Participant
 In relation to the price comparison site?
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 No, Italy just clear answer[ph]. Sorry, we're just talking about (inaudible) as to the price
 comparison business. That's it.
 
 Q - Greig Paterson
 (inaudible).
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 That's it. Great. Exhausted. Thank you, very much. Have a nice day.
 
 Page 27 of 28

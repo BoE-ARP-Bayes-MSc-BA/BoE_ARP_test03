@@ -37,9 +37,7 @@ Today's call is being recorded.
 At this time I would like to hand over to Mr. Olivier Armengaud.
 Please go ahead, sir.
 
-Olivier Armengaud
-
-{BIO 20892984 <GO>}
+Olivier Armengaud {BIO 20892984 <GO>}
 
 Page 1 of 45
 
@@ -75,10 +73,7 @@ to solicitate and implement your feedback.
 With this, it is now my pleasure to introduce the Chief Executive Officer of SCOR, Laurent
 Rousseau.
 
-Laurent Rousseau
-
-{BIO 5131107 <GO>}
-
+Laurent Rousseau {BIO 5131107 <GO>}
 Thank you, Olivier. Welcome, everyone.
 Today is an important day for us. And for me personally, I am truly grateful for your time,
 and I really look forward to the engagement we'll have in the future. As I had announced
@@ -213,17 +208,12 @@ Mongo. Thank you very much for your attention.
 
 FINAL
 
-Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+Olivier Armengaud {BIO 20892984 <GO>}
 Thank you so much, Laurent. I would like now to introduce Ian Kelly, CFO of SCOR. He will
 come back on the recent Life in-force transaction and how we've used capital
 management allocation. Ian, over to you.
 
-Ian Kelly
-
-{BIO 19976646 <GO>}
+Ian Kelly {BIO 19976646 <GO>}
 
 Bloomberg Transcript
 
@@ -385,19 +375,14 @@ In summary, the strong financial position of the group, supported by the success
 life transaction and our disciplined capital management, lead us to being able to present
 strong financials going forward. Thank you very much.
 
-Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+Olivier Armengaud {BIO 20892984 <GO>}
 Thank you very much, Ian. And now let's move on to the business side, starting with Life.
 For this third presentation, I would like to introduce Frieder Knupling and Brona Magee,
 the CEO and Deputy CEO of SCOR Global Life. They will talk to you about how they are
 delivering upon Quantum Leap despite the COVID-19 pandemic and how they are
 building the life -- the future of life insurance. Brona, Frieder, the floor is yours.
 
-Frieder Knupling
-
-{BIO 17247809 <GO>}
+Frieder Knupling {BIO 17247809 <GO>}
 
 Bloomberg Transcript
 
@@ -465,10 +450,7 @@ improve outcomes, and we know people are more conscious of their own health. All
 those things are giving us much comfort that, in the long term, COVID will be more
 positive than negative when it comes to mortality. And with this, I will hand over to Brona.
 
-Brona Magee
-
-{BIO 19493460 <GO>}
-
+Brona Magee {BIO 19493460 <GO>}
 Thank you, Frieder. And can I just say also that it's very nice to be here with Frieder today,
 although it would obviously be even nicer if we could see you all in person. I want to start
 by talking about the impact of COVID on our industry because we do see COVID and the
@@ -564,10 +546,7 @@ Now back to you, Frieder.
 
 Bloomberg Transcript
 
-Frieder Knupling
-
-{BIO 17247809 <GO>}
-
+Frieder Knupling {BIO 17247809 <GO>}
 Thank you, Brona. In the U.S., but also in other parts of the world, we do continue our
 strategy to optimize our Inforce portfolio. We have strong Inforce management in place,
 and we are constantly monitoring and analyzing how the book is doing. We did obviously
@@ -608,19 +587,14 @@ people here at SCOR Global Life, and I'm very excited about working with them wi
 clients and partners to build the future of life insurance.
 So with that, I'll pass it back over to you, Olivier.
 
-Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+Olivier Armengaud {BIO 20892984 <GO>}
 (foreign language) Frieder, thank you very much. We would like to invite Jean-Paul
 Conoscente and Romain Launay, the CEO and Deputy CEO of SCOR Global P&C. They
 will describe, in particular, how they are accelerating in the P&C hardening market. And
 just a quick reminder, we'll have our first Q&A session at the end of Jean-Paul and
 Romain's presentation. Jean-Paul, over to you.
 
-Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
+Jean-Paul Conoscente {BIO 20770277 <GO>}
 
 Bloomberg Transcript
 
@@ -746,10 +720,7 @@ clear intention to reduce the volatility of our results going forward.
 I will now pass on to Romain who will drive you through the way we plan to accelerate our
 profitable growth journey in the current market environment. Romain, over to you.
 
-Romain Launay
-
-{BIO 18747770 <GO>}
-
+Romain Launay {BIO 18747770 <GO>}
 Thank you, Jean-Paul. If we turn to Slide 75 and start with the reinsurance market, we see
 the environment is probably the most attractive market in a decade. With the pricing
 improvements achieved in 2021, we currently write 3D reinsurance business on average 2
@@ -796,10 +767,7 @@ against frequency.
 I will now pass it on to Jean-Paul, who will discuss the perspectives for 2022 and as well as
 the strategic outlook for the longer term.
 
-Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+Jean-Paul Conoscente {BIO 20770277 <GO>}
 Thank you, Romain. Seizing attractive market conditions, as explained previously, we
 project our growth -- we projected growth of our gross written premium between 15%
 and 18% in 2022 at a constant rate of exchange. With improved economic return and a net
@@ -849,10 +817,7 @@ operations. We'll come back to you with more details during 2022 when outlining 
 new strategic plan.
 This concludes our presentation, and now I hand it back to you, Olivier.
 
-Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+Olivier Armengaud {BIO 20892984 <GO>}
 Thank you for this update on P&C. We now move to the first Q&A session. I now invite -Jean-Paul and Romain, you can stay on stage, Laurent, Ian, Frieder and Brona for this first
 Panel. And operator, let's take the first question, please.
 
@@ -861,10 +826,7 @@ Operator
 (Operator Instructions) And we will take our first question from Andrew Ritchie of
 Autonomous.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 First question for Ian. I just wanted to go through a bit more of the mathematics on, I think,
 it's Slide 36, when you walk through the evolution of the solvency ratio. I guess the first
 question is, from the comment -- from your commentary and also Laurent's comments, it
@@ -888,10 +850,7 @@ has been done historically, allowing for the fact there's a bit less Life and al
 sort of, standard dividend return, I'm still struggling to get the overall solvency ratio to full.
 So I'm not sure what I'm missing in that. Those are my questions.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Thanks very much, Andrew, for the questions. So firstly, on the buffer, I think -- or the -how you described the solvency and that we're prepared to hold above the optimal
 range at present. As we described, we're in a period of unprecedented volatility. And yes,
 the solvency is above the optimal range.
@@ -918,16 +877,10 @@ So I think there will be a gradual transition to the optimal range. I mean, we w
 within the strategic plan as well, of course. But the strength of the balance sheet at the
 moment is -- given the environment, this is a very positive thing for us.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Can I ask, are we supposed to treat the boxes as mathematically equivalent? Or is that -how illustrative is illustrative?
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Page 17 of 45
 
 
@@ -938,9 +891,7 @@ Date: 2021-09-08
 
 It's illustrative. They're not precise in scale, to be clear.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 
 FINAL
 
@@ -948,10 +899,7 @@ I'm sorry, those external shocks, you said are known. So that is the known impac
 remaining COVID-19 losses, as you know them today, plus the nat cat as you know it
 today?
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 What I'm referring there -- referring to there, Andrew, is that we know that we have these
 shocks. The quantum is yet to be known. The uncertainty around the Delta variant, for
 example, which we heard about during the live presentation, there's significant
@@ -960,10 +908,7 @@ recent storms. We know we're still in the cat season. So these are not quantifie
 known at this stage, but we know we have some significant external shocks and there
 could be future shocks.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you very much, Andrew. We'll move to the next question, please.
 
 Operator
@@ -972,10 +917,7 @@ Bloomberg Transcript
 
 Our next question comes from Vikram Gandhi of Societe Generale.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 It's Vik from Societe. Just got 2 questions. First is related to the dividend policy where I'm
 a bit confused, I'm not sure what the message really is. Should we infer that the group is
 committed to its progressive dividend policy, i.e., EUR 1.8 per share is the base? Or are
@@ -987,10 +929,7 @@ risks, I see that the latter is actually a bit down year-over-year. So I appreci
 diversification across those tail risks or peak risks. But still, what I observe is a bit puzzling.
 So any comments there would be very helpful.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 So firstly, on the dividend policy, we state that we will have -- or define a cash dividend
 that's commensurate with the earnings of the group, and that we maintain the flexibility in
 terms of the capital return to shareholders in terms of the tools that we use. So we have a
@@ -1010,18 +949,13 @@ to see where we come out. And the Board will consider the 2021 results. They wil
 consider the capital level of the group and any other issues in terms of the environment
 and at that point next year.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 
 FINAL
 
 Okay. Understood.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 This is Jean-Paul. I'll try to answer the second question. When comparing the PMLs
 between 2021 and '20, do you see the increase, it's resulting from an arbitrage we
 decided following the renewal of the 2021 metro cession program, where the actual
@@ -1030,10 +964,7 @@ conditions, to retain additional risk compared to 2020. So as a result, the 1 an
 net AP increased between '20 and '21, but it was more a factor of more retention than
 necessarily growth.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Yes. Jean, if I can just come back on that. I mean, I understand that to do with the change
 in retro policy and more retention. But in any case, with more net retention that should
 have led to an increase in the SCR consumption, isn't that right? I mean, that's really my
@@ -1041,27 +972,18 @@ question.
 
 Bloomberg Transcript
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 I think Vik, when we get to the second Q&A session, Fabian will be able to talk to the SCR
 a little more and some of the impacts there. So we won't forget the question, and we'll
 allow Fabian to talk to that shortly. Okay?
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you. Vikram. We'll take the next question, please.
 
 Operator
 Our next question comes from James Shuck of Citi.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Yes. So Slide 36, again, for me, please, if I can. And I'm circling back on Andrew's question
 really because the EOF generation that you're showing, I mean, you've guided in the past
 for kind of EUR 800 million, EUR 900 million of own funds generation. And that was a little
@@ -1096,9 +1018,7 @@ the past, you're diversifying all of that growth away partly due to financial ri
 diversifying away. So can you just outline what you're assuming in terms of diversification
 and in terms of capital strain on the P&C re-growth, please?
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
+A - Ian Kelly {BIO 19976646 <GO>}
 
 Bloomberg Transcript
 
@@ -1118,20 +1038,14 @@ context of the growth, the external shock environment, the pandemic. And given t
 picture, consider the capital return to the shareholders as we progress through time. It's
 too early to say at this point that we would just cover over that gap.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Yes. Just a follow-up -- sorry, Ian, I didn't need to interrupt you. But just a follow up on that
 before we move on to the capital strain point. I'm just keen to know that, I mean, there is
 obviously a gap between what Solvency II tells your optimal ranges and what your credit
 rating agencies are telling you. Do you think that, over the next 2 to 3 years, if you need to
 execute on share buybacks, you need to monetize the Inforce again in order to do that?
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Page 20 of 45
 
 
@@ -1159,9 +1073,7 @@ go through the decisions around capital return, look at all of our constraints. 
 process that we follow. We manage the group to ensure that we secure our solvency and
 we secure our ratings. So that's a critical part of the equation.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 
 Bloomberg Transcript
 
@@ -1169,27 +1081,18 @@ And perhaps, James, on your question, is an in-force monetization needed to do s
 buyback? No. I mean we could do more in-force monetization, but I don't see a direct link.
 We look at these 2 topics individually and separately and they're not directly linked.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Yes. Absolutely. On the second half of your question, again, James, I think what would do
 is allow Fabian in the second Q&A session to pick up upon the specifics around the SCR
 that you raised.
 
-A - Paolo De Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo De Martin {BIO 15930577 <GO>}
 Thank you, James. We'll take the next question, please.
 
 Operator
 Our next question comes from Will Hardcastle of UBS.
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 Just firstly, a quick clarification rather than the 2 questions. The first one is dividends. Just
 do clarify that the EUR 1.80 is still the base? Or should we ignore that now as the new
 strategy is said to be set [ph]. It's just a clarification from an earlier question.
@@ -1212,10 +1115,7 @@ trying to get a grip on that.
 
 FINAL
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Will, thank you very much for the question. So on the first point, in respect of the dividend,
 we don't have a base that we communicate. It's, as I've said before, commensurate with
 the earnings of the group. You can see the -- I know the -- you pick out our dividend
@@ -1225,10 +1125,7 @@ we stand, and we've still got some way to go. So it's premature to talk about th
 dividend position.
 But there's no predefined floor [ph], in answer to the question.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 With regards to the cat budget, we -- what we try to do, as I said, is more forward-looking
 budgeting. So we take into account the history, and we take this, both on a historical basis
 as well as on a modeling basis to have a longer perspective. And we try to incorporate as
@@ -1237,36 +1134,24 @@ result of those 3 analysis lead to the 8%.
 
 Bloomberg Transcript
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Coming back to the question in respect of the EUR 600 million run rate on the Life
 technical result and the earnings. This is solely IFRS basis and the -- I think the accretion
 that we reflect there is a lift in IFRS only. The -- there's no impact on Solvency II. As the -we already have accounted for the future profits and then any of the discussions that
 have taken place out of that.
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 That's great. Just coming back on the cat budget, if I may. Were you able to give us an
 idea of, perhaps, what the cat budget would have changed to, had you not been looking
 to undertake retro changes as well in the full year? Is it possible or not? .
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 I could tell you they have been higher, but the balance is -- how much higher is a bit
 difficult because it's, sort of, circular. If we're not able to do what we plan to do on the
 retrocession side, we probably would taper back down the growth on the cat line. So
 overall, we're trying to manage all constraints to land around the 8%.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 We'll take our next question, please.
 
 Page 22 of 45
@@ -1282,10 +1167,7 @@ Our next question comes from Vinit Malhotra of Mediobanca.
 
 FINAL
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 I'm not sure if I have to ask 1 or 2 questions, I'll try with 2 and if you think it's too much, tell
 me. The main one -- apart from Slide 36 for me as well, but the main one is the P&C
 growth where a few topics are converging. One is that the 2H '21 seems to be a very low
@@ -1308,10 +1190,7 @@ out, how is it that there is no change of all to that particular building [ph]? 
 emergence of future profits, but that should already be in the cash flow that you got? Just
 a quick clarification would be great.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 I'll try to answer the first question. On the P&C side, the growth, as we tried to detail, is
 coming -- going to come from 2 main areas. The first one is specialty insurance. As you
 know, we have a fairly small footprint in specialty insurance and the opportunities available
@@ -1345,10 +1224,7 @@ inflation, which remains very rampant in the U.S. And we also see the effects of
 change affecting dramatically property risk in the U.S. So in the U.S., our growth is more
 cautious.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Vinit, on the question in respect of the run rate of the Life technical margin and the
 consistency with the EUR 600 million, we do see profitable business. And without any
 other adjustment, if you like, under IFRS, we see a reduction in the base net technical
@@ -1362,10 +1238,7 @@ business.
 
 Bloomberg Transcript
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Can I just please ask, it's not all about the P&C side. So what I meant to also explore was
 the second half of '21, it seems to be a wrong very timid growth rate, 2%, 3% implied in
 your EUR 7.5 billion number. Is there -- because I remember last year to it [ph] also, sort
@@ -1373,10 +1246,7 @@ of, more negative 1% or 2%, and we already have a low base. Is there some one-of
 there? Or is it just that you're going to have a few more quarters of slow growth and then
 a pickup next year?
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 Well, what we see is for first half and as well as we start gathering the numbers for Q3,
 we see that the growth has been impacted by the rate of exchange between the dollar
 and the euro. This is basically a shift in the growth of U.S. dollar denominated premium of
@@ -1387,10 +1257,7 @@ effect of the exchange rate. But we still -- for the whole year, we still have t
 we saw in Q1 and Q2 between the euro and the dollar. And that's explained, sort of, the
 lower-than-expected growth at constant exchanges that we're projecting.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 We'll take our next question, please.
 
 Operator
@@ -1407,10 +1274,7 @@ Our next question comes from Thomas Fossard of HSBC.
 
 FINAL
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Just a clarification on the new technical margin guidance in line with the 2.8%, 2.4%
 indicated for 2022. Just to clarify that there is no specific one-off in 2022 and that
 guidance is the current one for the subsequent years as well. The second question would
@@ -1427,10 +1291,7 @@ with maybe a little additional investment to be made?
 
 Bloomberg Transcript
 
-A - Frieder Knupling
-
-{BIO 17247809 <GO>}
-
+A - Frieder Knupling {BIO 17247809 <GO>}
 Thomas, Frieder speaking. Thank you for the question. I'll start and then hand over to
 Brona. On the question on the technical results and margin guidance, the simple answer
 is, no. There's nothing -- there's no one-off included in this. This is what we consider a true
@@ -1438,10 +1299,7 @@ run rate for next year that exclude potential COVID losses as we indicate on the
 there's no particular one-off positive impact included in it. And Brona, I'll leave the other
 questions to you.
 
-A - Brona Magee
-
-{BIO 19493460 <GO>}
-
+A - Brona Magee {BIO 19493460 <GO>}
 Yes. Thanks, Frieder. Yes. On the Life strategy, just to be very clear, there is no change in
 strategy from the Life side. The Quantum Leap strategy was based on creating value and
 impact and that very much continues to be the strategy. So we do see our Protection
@@ -1467,9 +1325,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2021-09-08
 
-A - Frieder Knupling
-
-{BIO 17247809 <GO>}
+A - Frieder Knupling {BIO 17247809 <GO>}
 
 FINAL
 
@@ -1488,10 +1344,7 @@ And our last question comes from Andrew Ritchie of Autonomous.
 
 Bloomberg Transcript
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 It's a follow-up. I just -- so Jean-Paul, on the non-Life business, I thought the last 2 years,
 you were attempting to reduce sort of frequency exposure by moving up layers in
 particular. I'm getting the impression that you feel that maybe hasn't worked. And now -well, first of all, there's a change of cap budget, but you also -- I think the implication from
@@ -1508,10 +1361,7 @@ you talked about a liquidity event in digital ventures in 1Q '22. Is that a liqu
 where you are assuming you will withdraw cash or you'll realize cash? Or what exactly do
 you mean?
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 Thank you, Andrew. So on the first question, you're right that we started taking action in
 2020 on reducing the volatility of results to small to medium-sized losses. I think -- and we
 took decisive actions in Japan and the U.S. already as well as starting already to shift our
@@ -1553,20 +1403,14 @@ at least.
 
 Bloomberg Transcript
 
-A - Laurent Rousseau
-
-{BIO 5131107 <GO>}
-
+A - Laurent Rousseau {BIO 5131107 <GO>}
 Thank you, Andrew, and thank you, all. So that concludes the first Q&A session. We'll now
 take a 10-minute break and will return for SCOR Global Investments presentation at 2:50
 Paris time. Thank you very much.
 (Break)
 +++presentation
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you very much. So let's make a start. In the second part of the Investor Day, we'll
 cover 4 important topics for SCOR: investments, technology, sustainability and risk
 management. As a reminder, the second Q&A session will be opened after the
@@ -1575,10 +1419,7 @@ de Varenne, Head of Investments and Transformation. In his first presentation, F
 going to explain particular how he is actively continuing to diversify into accretive value
 creation assets. Francois, over to you.
 
-A - Francois de Varenne
-
-{BIO 7447858 <GO>}
-
+A - Francois de Varenne {BIO 7447858 <GO>}
 Thank you very much, Olivier. Good afternoon, everybody. I will be very quick this
 afternoon and just spend time on the 5 key messages of my presentation on
 investments, leaving any points you may have afterwards for the Q&A session. My first
@@ -1674,17 +1515,11 @@ rest assured that with the support of the entire Group leadership, my team and m
 we are fully mobilized to make the most of our investment portfolio. And with this, I come
 to the end of my presentation on investments. Thank you very much for your attention.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you very much, Francois, but you can stay on stage for your second presentation on
 technological ambition and transformation. Francois?
 
-A - Francois de Varenne
-
-{BIO 7447858 <GO>}
-
+A - Francois de Varenne {BIO 7447858 <GO>}
 Thank you, Olivier. Having taken on technology as a new area of leadership very recently, I
 will use the format as in my previous presentation, spending time on 4 key messages.
 Most of you, I guess, are convinced already -- know that our tech ambition in Quantum
@@ -1768,18 +1603,13 @@ may have afterwards in the Q&A session. Thank you very much for your attention.
 
 FINAL
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you very much, Francois. Let's move on to our next presentation, a very important
 one for us, sustainability. And for the first time, we have dedicated a full section during our
 Investor Day to this topic. So I'm pleased to welcome Claire Le Gall-Robinson, our Chief
 Sustainability Officer. Over to you, Claire.
 
-A - Claire Le Gall-Robinson
-
-{BIO 18275429 <GO>}
+A - Claire Le Gall-Robinson {BIO 18275429 <GO>}
 
 Bloomberg Transcript
 
@@ -1915,10 +1745,7 @@ increasingly recognized by nonfinancial rating agencies. In 2021, again, several
 of the group have been upgraded by these agencies.
 Thank you very much.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you very much, Claire. For our final presentation, I would like to introduce a new
 member, Fabian Uffer. Fabian is our new Chief Risk Officer, and he will take us through the
 group CRM framework and how it is supporting capital deployment. Fabian, over to you.
@@ -2002,9 +1829,7 @@ With that, I'd like to thank you for your attention, and I hand over back to Oli
 start the second Q&A session. Thank you, Olivier.
 +++qanda
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
+A - Olivier Armengaud {BIO 20892984 <GO>}
 
 Bloomberg Transcript
 
@@ -2044,9 +1869,7 @@ Date: 2021-09-08
 that we had from the first session. If not, please come back and I'll try to be more precise.
 Thanks a lot.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
+A - Olivier Armengaud {BIO 20892984 <GO>}
 
 FINAL
 
@@ -2055,10 +1878,7 @@ Thank you, Fabian. Operator, let's take the first question, please.
 Operator
 (Operator Instructions) And we will take our first question from Thomas Fossard of HSBC.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Again, two questions. The first one would be addressed to Francois regarding the
 investments. Just was wondering how much capital you managed to attract from the
 group to support the slight re-risking of the assets? And I would say, for clarity's sake, are
@@ -2074,10 +1894,7 @@ significantly on the specialty lines, energy and other segments, where potential
 mentioned in conflict with your ESG guidelines. So could you clarify what you intend to do
 on the underwriting side of things?
 
-A - Francois de Varenne
-
-{BIO 7447858 <GO>}
-
+A - Francois de Varenne {BIO 7447858 <GO>}
 So maybe -- thank you, Thomas. I will -- I think I will share the answer of your first question
 since it's a little bit broader than just investment. On investment, maybe Fabian will
 complement. As you saw in the slide Fabian presented a few minutes ago, when you
@@ -2089,10 +1906,7 @@ has ultimately a marginal impact on the solvency ratio, maybe 1 or 2 points. But
 diversification benefit, it really diminishes the effect on the solvency ratio.
 For the -- Ian, maybe for the allocation of the capital due to the recent Life transaction.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Yes. On the recent Life transaction, I mean, we described the -- quite directly the increase
 in solvency capital that's available. And that's a boost of 27% in the solvency ratio as we
 described earlier on. We get, in terms of hard capital, a bump in that we receive around
@@ -2140,10 +1954,7 @@ that's something we want to reduce progressively in the future. So that's not --
 benchmark is not yet the risk appetite of the peers, and we want to compete in the same
 category.
 
-A - Laurent Rousseau
-
-{BIO 5131107 <GO>}
-
+A - Laurent Rousseau {BIO 5131107 <GO>}
 Thomas, in terms of specialty insurance and ESG, I think our approach is a combination of
 various things. First, we have a number of exclusions that we apply and that we've
 strengthened progressively over the years. So as you know, we don't do tobacco which,
@@ -2179,10 +1990,7 @@ in many regions in the world. And this is very -- this is something that we like
 because it's very technical offshore projects, and we think we do have the expertise to
 underwrite such risks. And so it's going to create a significant profitable business for us.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Thomas. Thank you. We'll take the next question, please.
 
 Operator
@@ -2190,10 +1998,7 @@ Our next question comes from William Hardcastle of UBS.
 
 Bloomberg Transcript
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 The first one is on the investment re-risking. Francois, earlier on in the year, it certainly
 seemed like you were expecting rate increases to come through. I guess with the action
 now that you're re-risking, do you giving up an opportunity here? Or have your personal
@@ -2203,10 +2008,7 @@ related to solvency. Is there any update you can provide on hurricane flood -- s
 European floods and hurricane either? Any color on this Ida that may have triggered you
 today or not?
 
-A - Francois de Varenne
-
-{BIO 7447858 <GO>}
-
+A - Francois de Varenne {BIO 7447858 <GO>}
 So on the -- on your questions on the investment portfolio. So that's that in Q1, we sold a
 significant amount of U.S. corporate bonds, roughly EUR 1 billion, with a conviction that the
 reflation trade dynamic was prevailing in the market. This dynamic as we see before the
@@ -2241,16 +2043,11 @@ want to be disciplined on the LM side. We had closed the duration gap since 2017
 duration gap was widened a little bit in Q1 and Q2. The intention is really to close it again
 and to maintain a disciplined strategy.
 
-A - Laurent Rousseau
-
-{BIO 5131107 <GO>}
-
+A - Laurent Rousseau {BIO 5131107 <GO>}
 On Ida, European floods and the retro placements, Jean-Paul is going to answer your
 question.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 
 Bloomberg Transcript
 
@@ -2277,10 +2074,7 @@ type of protections we want to place. So -- and that's currently where we are to
 next week will be the launch of the virtual Monte Carlo meetings where we have several
 of those meetings with the retrocessioners.
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 Page 39 of 45
 
 
@@ -2295,19 +2089,13 @@ side of things?
 
 FINAL
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 I think on the U.S. losses, our market share tends to be 1% or below is what we've seen in
 past events. On the European floods, we tend to be -- have a larger market share, but
 there -- it's again, it's a bit too early for us to say. But given the size of the market loss, we
 estimate, it will be a 3-digit loss this quarter.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you. We'll take our next question, please.
 
 Operator
@@ -2316,10 +2104,7 @@ And we will take our next question from Vinit Malhotra of Mediobanca.
 
 Bloomberg Transcript
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Just very quick one, please. 2 for -- in the risk side and 1 for Francois. Just start with the risk
 one, this slide, which shows -- was 135, which shows the reduction in interest rate
 sensitivity. I was, to be honest, a bit surprised that the magnitude of this reduction, I mean,
@@ -2340,10 +2125,7 @@ same level that was targeted in mid-Feb just after the corporate bond action. An
 thought this was more a range before the re-risking action. So I was just wondering
 whether we should have expected this to go up once re-risking is in place.
 
-A - Laurent Rousseau
-
-{BIO 5131107 <GO>}
-
+A - Laurent Rousseau {BIO 5131107 <GO>}
 Thank you, Vinit. Just can I clarify. On your first question, did I hear well, that's on this
 interest rate sensitivity going down in the risk presentation?
 Page 40 of 45
@@ -2354,15 +2136,10 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2021-09-08
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. It's Slide 135 that my questions refers to.
 
-A - Laurent Rousseau
-
-{BIO 5131107 <GO>}
+A - Laurent Rousseau {BIO 5131107 <GO>}
 
 FINAL
 
@@ -2403,10 +2180,7 @@ and I think we have proven that in the last few years. That cost, I think, is si
 understand, and also, the order is pretty stable over time. I hope this explains a bit the
 mechanics of this and gives you the insights you need.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 And there is no positive one-off in these numbers. That's what I'm looking for really.
 
 Page 41 of 45
@@ -2420,9 +2194,7 @@ Date: 2021-09-08
 A - Fabian Uffer
 No.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 FINAL
 
@@ -2431,10 +2203,7 @@ There's nothing that is abnormally positive.
 A - Fabian Uffer
 No. I think this is a very usual half year. No one-offs in there.
 
-A - Francois de Varenne
-
-{BIO 7447858 <GO>}
-
+A - Francois de Varenne {BIO 7447858 <GO>}
 On your question on the return on invested assets for next year. So the EUR 1.8 billion,
 EUR 2.3 billion range, which is the same, the one I communicated for 2021 earlier this year.
 So it's new. I try now to communicate in September instead of end of February next year.
@@ -2484,18 +2253,13 @@ on the slide, through the reclassification in P&L every quarter which means we w
 little bit the J curve at the beginning. But quickly -- we will recognize more quickly or
 quicker than before the performance of those funds, which is, again, a good news for us.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Vinit. I think we have time for 1 last question.
 
 Operator
 Our last question comes from Thomas Fossard of HSBC.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
+Q - Thomas Fossard {BIO 1941215 <GO>}
 
 Bloomberg Transcript
 
@@ -2512,10 +2276,7 @@ and message but looks to be relatively conservative. So I know that you're incre
 cat budget as well. But I mean, all in all, I mean, any sense of how confident you are and
 how low you could be?
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 Thank you, Thomas. I think there might be some slight conservatism in the guidance. I
 think our preference is to over deliver rather than the contrary. We do see expected
 profitability, as Romain pointed out, improving by about 2 points for the business we
@@ -2537,9 +2298,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2021-09-08
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
+A - Olivier Armengaud {BIO 20892984 <GO>}
 
 FINAL
 
@@ -2548,10 +2307,7 @@ would be happy to answer any further questions you may have. So please don't hes
 to give us a call. I will now like to hand back to Laurent to close the day for us. So back to
 you, Laurent.
 
-A - Laurent Rousseau
-
-{BIO 5131107 <GO>}
-
+A - Laurent Rousseau {BIO 5131107 <GO>}
 Thank you very much, Olivier. Thank you for all your questions. When I look back on all the
 questions we've been having over the years, it's quite pleasing to see a good spread of
 questions, clear focus on capital allocation, deployment return, a good spread of
@@ -2578,10 +2334,7 @@ Q&A. We very much look forward to seeing you on the road in the coming days and
 weeks during the planned roadshows and investor conferences. Thank you very much,
 and I hand over to Olivier.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Laurent. So that concludes our 2021 Investor Day. Thank you very much. Have a
 good afternoon.
 

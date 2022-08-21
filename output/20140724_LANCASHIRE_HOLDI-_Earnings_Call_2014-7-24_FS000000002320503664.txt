@@ -30,10 +30,7 @@ individual lines. And afterwards, we'll have a question-and-answer session. Just
 you, the call is being recorded.
 I'll now hand over to our host, Alex Maloney.
 
-Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+Alexander Maloney {BIO 16314494 <GO>}
 Hi. Good morning, ladies and gentlemen. Today, we have on the call, Elaine Whelan, our
 CFO; Paul Gregory, our CUO; we have Darren Redhead, CEO of Kinesis; Peter Scales,
 CEO of Cathedral and Denise O'Donoghue, who is our Chief Investment Officer.
@@ -81,10 +78,7 @@ But good companies will adjust to the future, and our history shows we have no f
 adapting, but we will stick to our core principle of underwriting comes first.
 And now, I pass over to Paul Gregory.
 
-Paul Gregory
-
-{BIO 16314515 <GO>}
-
+Paul Gregory {BIO 16314515 <GO>}
 Thanks, Alex. As Alex has already alluded to, there's almost an unprecedented level of
 competition in nearly all our business lines at present. Traditional reinsurance and
 retrocessional capacity is being displayed by alternative capital and trying to find a way
@@ -207,10 +201,7 @@ I'll now hand over to Elaine.
 
 FINAL
 
-Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+Elaine Whelan {BIO 17002364 <GO>}
 Thanks, Paul. Hi, everyone. Our results are in the website as usual. We produced an RoE
 for the quarter of 2.4% with 0.7% of that coming from Cathedral. Acquisition adjustments
 reduced RoE by 0.1% again this quarter. Before acquisition adjustments, Cathedral has
@@ -320,9 +311,7 @@ Operator
 Thank you. . Okay. Our first question comes from Maciej of Morgan Stanley. Go ahead,
 your line is open.
 
-Q - Maciej K. Wasilewicz
-
-{BIO 16462204 <GO>}
+Q - Maciej K. Wasilewicz {BIO 16462204 <GO>}
 
 Bloomberg Transcript
 
@@ -342,17 +331,11 @@ inherent risk of aviation losses hasn't actually changed, do you think you actua
 dislocation in that market to pay back the recent losses or not? If you can comment on
 those two, please?
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 Okay, Maciej. Paul Gregory will answer the satellite losses, and then Peter Scales is best
 positioned for the aviation question.
 
-A - Paul Gregory
-
-{BIO 16314515 <GO>}
-
+A - Paul Gregory {BIO 16314515 <GO>}
 Maciej, hi. You're right, we have only been writing satellite line of business relatively
 recently, about two years now. We do – when we started writing the clause, we did tend
 to expect one launch loss a year, and in fact, that's exactly how it's played out. We're
@@ -373,10 +356,7 @@ comfortable with where we are.
 
 FINAL
 
-A - Peter David Scales
-
-{BIO 2108933 <GO>}
-
+A - Peter David Scales {BIO 2108933 <GO>}
 The aviation market, you may have seen some of its tailwind as well. It comes in several
 parts, a slightly more complex issues. The backdrop is the airline market, which is a
 substantial portfolio, about 250% of capacity. Well, the risk inherently has been very
@@ -433,10 +413,7 @@ some passing thought by the management. But I think it probably, relatively is a
 quarter question when you'll see people have to make some decisions, and you'll get
 some clarity by the yearend, and we've been through a major renewal cycle (20:58).
 
-Q - Maciej K. Wasilewicz
-
-{BIO 16462204 <GO>}
-
+Q - Maciej K. Wasilewicz {BIO 16462204 <GO>}
 Thanks a lot.
 
 Operator
@@ -464,10 +441,7 @@ something like 1.3 times book. I just wanted to make sure, is that still the cas
 that's the case, what sort of – what book value you're actually using to judge that against?
 Thanks.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 Okay. Tom, I will start with the reinsurance question, we'll move on to Elaine for the hedge
 fund. Just for clarity, we are not going to dabble anymore in the investment portfolio. We'll
 actually have a real strategy and capital aligned with those. So on the reinsurance front,
@@ -504,10 +478,7 @@ time to be buying more reinsurance cover and bringing your exposures down.
 
 Bloomberg Transcript
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 I'm not sure why I always get the (24:23) and in terms of – let me start with the cash
 return. We do have – honestly, there's awards (24:31) that we need deal with, and we also
 have an equity stock trading shares. So -- and I think if our share prices are around (24:38)
@@ -529,10 +500,7 @@ Operator
 Okay. Our next question comes from Olivia Brindle of Deutsche Bank. Go ahead, ma'am.
 Your line is open.
 
-Q - Olivia S. Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia S. Brindle {BIO 17273762 <GO>}
 Page 10 of 19
 
 
@@ -559,10 +527,7 @@ extrapolating on that front. Thank you.
 
 Bloomberg Transcript
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Okay, sure. You're talking about the lumpy quarters. We do get lumpy quarters, it's the
 nature of our business and 39% is probably a little bit higher than average (26:43) losses
 on that. And I think if you look at the year-to-date ratio, it's 34%, and that might even be a
@@ -587,10 +552,7 @@ before. We pick up all the costs for the vehicle and charge back at appropriate 
 cover that. So you will see higher (28:17) coming through from that for this offset and more
 than offset by (28:18).
 
-Q - Olivia S. Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia S. Brindle {BIO 17273762 <GO>}
 Okay. So just to clarify on two of those things, so 34% accident year is probably where you
 are, run rate, more or less at this point in the cycle? And then just on that experts
 
@@ -605,27 +567,20 @@ Date: 2014-07-24
 pressure point, so the – if we adjust property to the one-offs from compensation, that's
 the kind of run rate we should be looking at, correct?
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
+A - Elaine Whelan {BIO 17002364 <GO>}
 
 FINAL
 
 Yeah, yeah. I think so.
 
-Q - Olivia S. Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia S. Brindle {BIO 17273762 <GO>}
 Okay. Thank you.
 
 Operator
 Okay. Our next question comes from Ben Cohen of Canaccord. Go ahead, sir. Your line is
 open.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
+Q - Ben Cohen {BIO 1541726 <GO>}
 
 Bloomberg Transcript
 
@@ -637,10 +592,7 @@ approved the business plan for the new lines. I just wonder if you have any earl
 terms of their view towards your capital requirement going into 2015, when -- now that
 the business will be better vetted down together. Thank you.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 Right. Ben, I'll just make a general statement and then I'll hand over to Pete. We are
 always open to business for new underwriting things. It's hard to find top quality people,
 which is why we were so delighted to get the aviation war guys. So we're always open to
@@ -657,10 +609,7 @@ because Atrium is an entity 30:53. So we benefited from M&A and we expect to see
 more of that in the market.
 So I'll hand over to Pete now.
 
-A - Peter David Scales
-
-{BIO 2108933 <GO>}
-
+A - Peter David Scales {BIO 2108933 <GO>}
 Where we're at the new teams coming to pieces, there's (31:06) the aviation war piece,
 which we spoken about to get in a positive manner. We also have a second team who are
 Page 12 of 19
@@ -712,10 +661,7 @@ on where the markets is. But at least we are in a position where we have the mar
 the books are very clean, it's getting back to the market, and we have now (34:08)
 position.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
-
+Q - Ben Cohen {BIO 1541726 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -733,29 +679,18 @@ Your line is open.
 
 FINAL
 
-Q - Joanna T. Parsons
-
-{BIO 1558226 <GO>}
-
+Q - Joanna T. Parsons {BIO 1558226 <GO>}
 Thank you. Actually, most of my questions have also been asked. But perhaps, I could just
 touch a little bit on the energy loss deteriorations that you've had in the previous quarter,
 just what's causing those? Is it a trend that we should expect to see on a regular basis?
 
-A - Paul Gregory
-
-{BIO 16314515 <GO>}
-
+A - Paul Gregory {BIO 16314515 <GO>}
 Hi, Joanna. It's Paul here.
 
-Q - Joanna T. Parsons
-
-{BIO 1558226 <GO>}
-
+Q - Joanna T. Parsons {BIO 1558226 <GO>}
 Hi.
 
-A - Paul Gregory
-
-{BIO 16314515 <GO>}
+A - Paul Gregory {BIO 16314515 <GO>}
 
 Bloomberg Transcript
 
@@ -767,28 +702,19 @@ insurance, and the claims that we see can take a little while to manifest someti
 whilst it's disappointing to get one, it is the nature of what we do. We haven't had a huge
 amount in our history. We just had a couple in a row.
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Yeah. And I think I would answer that. It was quite a bit of moving a range within (35:32)
 years ago, and overall, for the quarter, is still favorable. And overall, these are balances
 and remains good, remains strong.
 
-Q - Joanna T. Parsons
-
-{BIO 1558226 <GO>}
-
+Q - Joanna T. Parsons {BIO 1558226 <GO>}
 Okay. Thank you.
 
 Operator
 Okay. Our next question comes from Chris Hitchings of KBW. Go ahead. Sir, your line is
 open.
 
-Q - Chris D. Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris D. Hitchings {BIO 2034501 <GO>}
 Thanks very much. Chris Hitchings here. A couple of things, a couple of questions. One, it
 may be that I'm just stupid or to old not to give up, but the -- can you just tell me how
 much of the cost of Mr. Brindle's departure fell through the PML account and how much
@@ -812,69 +738,39 @@ ought to have in forecast for the third quarter event so far, the acquisition on
 us some help orders of magnitude. I 'm finding it rather confusing at the moment. Thanks
 very much.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 Right. Chris, Elaine will do one and three, and I'll do two. Let's start.
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Sure. Actually, (37:01) it's probably easier to just explain the numbers in that period. And
 just our (37:07) cost of $1.8 million is there.
 
-Q - Chris D. Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris D. Hitchings {BIO 2034501 <GO>}
 Yup.
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 (37:12) statement charge and that goes into other operating expenses.
 
 Bloomberg Transcript
 
-Q - Chris D. Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris D. Hitchings {BIO 2034501 <GO>}
 Yup.
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 The RSS cost of $8.2 million and the dividend equivalents that relate to them are $1.6
 million. They both go through shareholders equity.
 
-Q - Chris D. Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris D. Hitchings {BIO 2034501 <GO>}
 So $8.2 million and $1.6 million are both shareholders equity?
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Yes. And the 1.8 (37:27) is income statement. And there goes the numbers combined in
 (37:31) for the quarter.
 
-Q - Chris D. Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris D. Hitchings {BIO 2034501 <GO>}
 Yeah. Okay.
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 The last number that's in there is essentially the (37:06) charge, an acceleration of IFRS-2
 charges. So although it goes to the income statement and the equity comp line is there, it
 Page 15 of 19
@@ -887,46 +783,29 @@ Date: 2014-07-24
 
 goes to the other side, it goes to their shareholders equity. So it's utterly neutral.
 
-Q - Chris D. Hitchings
-
-{BIO 2034501 <GO>}
+Q - Chris D. Hitchings {BIO 2034501 <GO>}
 
 FINAL
 
 Fine. Sorry, but there is debit to profit loss account?
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Yes, yes.
 
-Q - Chris D. Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris D. Hitchings {BIO 2034501 <GO>}
 And a credit, too. No – so there really was -- so what's the actual negative impact on the
 PML account? It's 1.8 (38:02) plus this accounting charge?
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 It is. The negative in the PML is 5.3, the negative RoE is around (38:08).
 
-Q - Chris D. Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris D. Hitchings {BIO 2034501 <GO>}
 Okay. That's fine. Thanks very much indeed. Okay. And the 3Q cats or competition Mr.
 Brindle?
 
 Bloomberg Transcript
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 Yeah. Yes, sure, Chris. (38:23) on a sense, this contract fee, we cannot do anything
 between now and the end of the year. Technically, he should start his new company on
 the 2nd of January. I think that may happen, it may not. I would be surprised in this market,
@@ -939,16 +818,10 @@ another personnel to compete with. And very relaxed about that, and I'm very rel
 about the key people we have. Yeah, he could definitely start the 2nd of January to win
 this market.
 
-Q - Chris D. Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris D. Hitchings {BIO 2034501 <GO>}
 Okay. And the 3Q cats?
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 (39:25) this reinsurance program will look (37:35).
 
 Operator
@@ -964,26 +837,18 @@ Date: 2014-07-24
 Sorry. I'm just going to mute your line, Chris, whilst the answer's being given. There's a bit
 of background noise that's cutting away (39:46).
 
-Q - Chris D. Hitchings
-
-{BIO 2034501 <GO>}
+Q - Chris D. Hitchings {BIO 2034501 <GO>}
 
 FINAL
 
 Sure. Thanks.
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Yes. I guess just to repeat that, the short story is we're not (39:51) at this stage.
 
 Bloomberg Transcript
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 I think we can help just a little bit. If you are worried about the big airplanes, Chris, both
 the Malaysian airlines already meant the same thing, liability. One on the second, maybe.
 (40:08) a third, who knows. We don't know about that. The – both the numbers were so
@@ -1000,34 +865,22 @@ to go and have a look right now to see which (41:14). So we'll come back to you 
 but again, none of this is, as Elaine says, is anything to really worry about. And it's probably
 manageable in the conversations we have.
 
-Q - Chris D. Hitchings
-
-{BIO 2034501 <GO>}
-
+Q - Chris D. Hitchings {BIO 2034501 <GO>}
 Thank you.
 
 Operator
 Okay. So far, we have one further question. That's from Will Castle (sic) [Hardcastle]
 (41:43) of the Bank of America. Go ahead, sir. Your line is open.
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 Hey there, guys. Will Hardcastle. Just a quick one. Could you just mention again what you
 said today on the finance cost, the deferred tax (41:56)?
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Sorry, Will. I find it really hard to hear you there. Could you say that again for us, please?
 Maybe speak up (42:03).
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 Page 17 of 19
 
 
@@ -1041,60 +894,39 @@ please? I – my phone broke up at that point.
 
 FINAL
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Yeah. On the finance cost, our debt and (42:15) running at low cost are going to be about
 $4 million subject to interest rates, obviously. But it's $4 million each quarter. So that
 (42:24) ongoing cost.
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 Yup.
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 And the rest of it is mark-to-mark on the interest rates swaps that we have in the line
 because they're subordinated debt. So you get some volatility off of that. But again,
 underlying trend is (42:37).
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 Okay. And you mentioned something on the deferred tax. Obviously, you got no tax gain.
 Can you say it was the next year or last year – next quarter or the last quarter you said it's
 happened?
 
 Bloomberg Transcript
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 That's right. The deferred tax liability that relates to the intangible assets has a finite life
 that we amortize out. That was done by the end of next quarter so – and it should make
 our tax numbers look a bit more sensible.
 
-Q - William Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - William Hardcastle {BIO 16346311 <GO>}
 That's great. Thanks.
 
 Operator
 Okay. Okay. So there's no further questions coming through, I'll hand back to our speakers
 for the closing comments.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 Okay. Thank you. Good questions and we'll see you next quarter.
 
 Operator

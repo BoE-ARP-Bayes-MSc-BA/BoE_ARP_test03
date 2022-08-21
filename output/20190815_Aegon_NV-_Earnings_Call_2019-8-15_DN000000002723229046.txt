@@ -34,10 +34,7 @@ Ladies and gentlemen, good day and welcome to the Aegon First Half Year 2019 Res
 Conference Call. Today's conference is being recorded. At this time, I would like to turn
 the conference over to Jan Willem Weidema, CO, Aegon. Please go ahead.
 
-Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+Jan Willem Weidema {BIO 15133400 <GO>}
 Thank you.0 Good morning, everyone, and thank you for joining this conference call on
 Aegon's first half 2019 results. We would appreciate if you could take a moment to review
 our disclaimer on forward-looking statements, which you can find in the back of the
@@ -57,9 +54,7 @@ Date: 2019-08-15
 
 I will now hand it over to Alex.
 
-Alex Wynaendts
-
-{BIO 1821092 <GO>}
+Alex Wynaendts {BIO 1821092 <GO>}
 
 FINAL
 
@@ -276,9 +271,7 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2019-08-15
 
-Matthew Rider
-
-{BIO 20002664 <GO>}
+Matthew Rider {BIO 20002664 <GO>}
 
 FINAL
 
@@ -527,10 +520,7 @@ Operator
 Thank you. (Operator Instructions) We'll take our first question from the line of Farooq
 Hanif from Credit Suisse. Your line is open. Please go ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, there. Hi, good morning everybody. Can you talk about what actions you can take in
 the Netherlands, from your own actions rather than depending on the market to put
 yourself well back into the target range? So I'm thinking around mortgage repricing,
@@ -540,10 +530,7 @@ equities? Is this something that affects you or everybody in the Netherlands? An
 you talked about optimization in the Netherlands or taking actions to accelerate the
 release of required capital. Can you talk about what you mean there? Thank you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Hi, Farooq. Alex here, good morning. I think that Matt very clearly laid out the impacts on
 our Solvency II from a number of items of which most are uneconomical. I'm not
 suggesting a deteriorating economies rather it's the model and the abnormalities in the
@@ -578,10 +565,7 @@ around the back book and we will explore them aggressively.
 
 Bloomberg Transcript
 
-A - Matthew Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew Rider {BIO 20002664 <GO>}
 Maybe I'd take the illiquid asset point. So as I mentioned in the presentation, the change
 to the required capital for illiquid investments resulted in about an 8 percentage point
 decrease in the Dutch solvency ratio. This happened as a consequence of direction from
@@ -597,20 +581,14 @@ this year, it will cause us to go back and have a look at basically the trade-of
 required capital and excess spread, but again we are in constant discussion with the
 Dutch Central Bank on the treatment of these new asset classes.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay, thank you.
 
 Operator
 We'll take our next question from the line of Albert Ploegh from ING Bank. Your line is
 open. Please go ahead.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Yes, good morning all. Yeah, for the bit of follow-up question on the previous ones. First
 of all, on the, -- I hear what you say on the mortgage spreads being an economically, -that they impact on the solvency ratio. But basically I think Q3 so far, of course, spread
 effects has actually only started to widen further. So can you give maybe a little bit feeling
@@ -636,9 +614,7 @@ less at the same level. So no drag on earnings from that. Yeah, obviously that h
 widened, but can you maybe give a bit of a heads up where we stand today. That will be
 helpful. Thank you.
 
-A - Matthew Rider
-
-{BIO 20002664 <GO>}
+A - Matthew Rider {BIO 20002664 <GO>}
 
 Bloomberg Transcript
 
@@ -656,20 +632,14 @@ still going to be able to meet that target. Talking about the back book and the 
 yields in the US, I think for the first half of the year, we had new money yields sitting at
 4.09% and the back book yield was at 4.65% and I think that covers those questions.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay. Thank you.
 
 Operator
 (Operator Instructions) We'll take our next question from the line of Robin van den Broek
 from Mediobanca. Please go ahead.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Yes, good morning everybody. First of all, on your Dutch Solvency II ratio above 155% you
 indicate that you feel comfortable to remit capital to the group. Just wondering if you
 could talk about, do you afar benefit within that ratio, seems to me that on the back of the
@@ -708,10 +678,7 @@ Thank you.
 
 Bloomberg Transcript
 
-A - Matthew Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew Rider {BIO 20002664 <GO>}
 Okay. On the Dutch Solvency II ratio, the idea is -- the bottom end of the target range
 155%, as long as we can get over that one, then we will feel comfortable paying a
 dividend. I think as you well know, the UFR continues to be a drag, both in terms of our
@@ -756,10 +723,7 @@ business strain. So right now, if we don't grow the business, yes, normalized ca
 generation will -- we will easily hit our target. But I'd rather invest for the future, invest in
 new business, and then that will generate capital going forward in years to come.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Yeah, thank you for that.
 
 Operator
@@ -768,10 +732,7 @@ open. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Yes, good morning. I've got three questions please. First is, just to come back on the
 longevity reinsurance. Is there currently a lot of appetite in the market to absorb large
 parts of -- or significant portions of longevity risk because we've only seen quite small
@@ -783,10 +744,7 @@ long-term care book which is particularly sensitive to rates and then very small
 Retirement Services, outflows are slowing down and so I wonder if you could already
 expect a return to inflows as of the second half. Thank you.
 
-A - Matthew Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew Rider {BIO 20002664 <GO>}
 So on the longevity reinsurance, yes, we have indications from several reinsurance
 companies that there is capacity to handle a reasonable transaction. I think with respect to
 the SCR related to longevity, I would just refer you to the FSCR. The information is
@@ -810,10 +768,7 @@ Date: 2019-08-15
 
 FINAL
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Yeah, on the Retirement Services and the gross deposits. So we had very significant gross
 deposits with EUR65 billion. But, what is more encouraging is to see that our written sales
 and that means the contracts that we have closed on our retirement, and they take
@@ -832,10 +787,7 @@ Now, I will certainly say that on retirement, it is a lumpy business. So inflows
 don't always match in terms of timing, but the positive is to see that written sales have
 started to increase significantly.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Okay, thank you.
 
 Bloomberg Transcript
@@ -844,10 +796,7 @@ Operator
 We will take our next question from the line of Nick Holmes from Societe Generale. Your
 line is open. Please go ahead.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Oh. Hi, there. Thanks very much. Just a couple of quick questions on the US. So the first
 one, I know this fixed annuity sales grew by 75%. My question is, why do you think now is a
 good time to sell these when bond yields are obviously falling and also, is the interest
@@ -855,10 +804,7 @@ rate guarantee on these products re-settable so that you can reset for lower rat
 then secondly, I'm surprised that US Life sales were down 12%. I would have thought this is
 a key product for you. Wondered if you could give us a bit more color. Thank you.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Nick, good morning. The fixed annuities are indexed fixed annuities. So it's not the
 traditional fixed annuities of which you know we've effectively put in run-off and that's why
 the sales, by the way, from a relatively low level have increased very significantly. And
@@ -879,9 +825,7 @@ are becoming more and more commoditized and also, where the price -- the pressur
 important. So we need to balance the sales versus productivity -- profitability of the
 product in particular with low interest rates.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 
 FINAL
 
@@ -891,9 +835,7 @@ Operator
 Thank you. We'll take our next line -- from the line of Johnny Vo from Goldman Sachs. Your
 line is open. Please go ahead.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
+Q - Johnny Vo {BIO 5509843 <GO>}
 
 Bloomberg Transcript
 
@@ -914,10 +856,7 @@ remittances from the European business, which appears a bit one-off, you've obvi
 got one-off from the UK and the US was actually -- the remittance from the US was quite
 low. So, can you explain that as well? Thank you.
 
-A - Matthew Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew Rider {BIO 20002664 <GO>}
 So on the first one, I mean, the issue that we're having in Dutch Solvency is the disconnect
 between the portfolio -- the asset portfolio and as you rightfully say, largely overweight on
 mortgages relative to what's going on with the EIOPA VA. The way to solve that mismatch
@@ -958,10 +897,7 @@ simply timing issue. So we have a budget for planned remittances from the US and
 feel very confident that they are going to be able to meet their budget for the overall
 year.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Okay, thank you.
 
 Bloomberg Transcript
@@ -970,10 +906,7 @@ Operator
 We'll take our next question from the line of David Motemaden from Evercore. Your line is
 open. Please go ahead.
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
-
+Q - David Motemaden {BIO 18818634 <GO>}
 Hi. Just a question for Matt, on [Audio Gap] if rates are around this level when you guys
 do your statutory cash flow testing, I guess, do you have any sense for the size, if there
 will be a charge at the end of the year on a stat basis and how big that may be? And then
@@ -985,10 +918,7 @@ have now moved below 4% on their 10 year assumption. Just wondering what sort of
 sensitivity there is to IFRS book value, if you were to lower your assumption by 50 basis
 points. Thank you.
 
-A - Matthew Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew Rider {BIO 20002664 <GO>}
 Sure. So first of all, on the cash flow testing. I think the best way to answer the question is
 to refer you to the capital sensitivities on interest rates. And that takes into account all that
 we know including, where we would think year-end cash flow testing would end up. So I
@@ -1022,10 +952,7 @@ Your line is open. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Patrick Lemmens
-
-{BIO 2551607 <GO>}
-
+Q - Patrick Lemmens {BIO 2551607 <GO>}
 Yes, hello, good morning. I would like to start with the observation, which is, well, if
 mortgage spreads are going up that much in the Netherlands, it must also be banks who
 are facing ever tougher interest conditions and need to get higher mortgage spreads to
@@ -1036,10 +963,7 @@ capital and also what would be the timeframe to do this and probably also given 
 the changing future leadership, could that be done also before March next year or would
 you want to wait with those kind of strategic decisions?
 
-A - Matthew Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew Rider {BIO 20002664 <GO>}
 So, may be on your observation, yeah, I think you're entirely right that banks are certainly
 looking for yield here and in a low interest rate environment. So you can imagine that they
 wouldn't be so anxious to reduce consumer pricing. And in fact, I mean we're issuing quite
@@ -1071,10 +995,7 @@ ahead.
 
 FINAL
 
-Q - Fulin Liang
-
-{BIO 21126177 <GO>}
-
+Q - Fulin Liang {BIO 21126177 <GO>}
 Hello. Thank you. Just a couple of quick questions on the new business. If I look at your
 new business, if I measure your efficiency of how you efficiently use the capital, the new
 business strain to generate new business and then if I look at that, in the first half of 2019,
@@ -1095,10 +1016,7 @@ just wonder, the franchise-wise and also I understood that the customer base of 
 two kind of banks are very different and what's the plan and why you're doing this, I just
 wonder? Thank you.
 
-A - Matthew Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew Rider {BIO 20002664 <GO>}
 Let me take your points here. So on the first one, the -- let's say, the efficiency ratio that
 you're looking at is, I would say, a little bit of a distorted view. So I'm assuming that you're
 looking at new business strain compared to MCVNB. And in that context, it's a little bit of
@@ -1140,9 +1058,7 @@ taken along this journey. They own slightly more than 14% of our common shares, 
 need to be taken, -- they need to be taken along and -- but I think the most important
 point is that we would not sit on our hands and wait to take action.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alex Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
@@ -1163,10 +1079,7 @@ Operator
 We'll take our last question from the line of Ashik Musaddi from JPMorgan. Your line is
 open. Please go ahead.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah, hi, good morning, Alex. Good morning, Matt. Just couple of questions. I mean, yeah,
 I mean this private equity thing is pretty interesting, I mean people have paid some crazy
 multiples for businesses, not crazy over, I mean it's a logical multiple. But it's clearly the
@@ -1195,10 +1108,7 @@ the dividends, the remittance from US? Thank you.
 
 FINAL
 
-A - Matthew Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew Rider {BIO 20002664 <GO>}
 Okay. So on the first one, I mean, as we've talked about private equity entering into the
 Dutch market does create some interesting opportunities. You can think of a variety of
 structures to unlock capital and all I can say is that we would look at all options. Now
@@ -1225,10 +1135,7 @@ year and I would think growing from there.
 Operator
 We have no further questions. Please go ahead for any additional closing remarks.
 
-A - Alex Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alex Wynaendts {BIO 1821092 <GO>}
 Thank you, everybody, and I wish you a good day. And wish you also a good rest of the
 summer and see you all soon. Thank you. Bye-bye.
 

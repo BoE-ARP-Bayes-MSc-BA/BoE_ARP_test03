@@ -161,10 +161,7 @@ opportunities be it organic growth opportunities or acquisitions. Please be assu
 act rationally and that we assess all opportunities based on strict financial and non-financial criteria.
 And with that, I will now hand over to Delfin Rueda. Delfin.
 
-Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Thank you, Lard. Good morning, everyone. NN Group reported an operating result of the ongoing
 business of €321 million for the second quarter of 2016. And for the first six months of 2016, the
 operating result came to €626 million. I will go into the main drivers of the operating result when I
@@ -345,10 +342,7 @@ Operator
 Thank you, Mr. Friese. Ladies and gentlemen, we'll start the question-and-answer session now. Go
 ahead please. The first question comes from Ashik Musaddi from JPMorgan. Please go ahead sir.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Hi. Good morning, Lard. Good morning, Delfin and then Doug as well. Just a couple of questions.
 First of all on UFR. So, on UFR, we can see that your sensitivities haven't changed for 3.2% for 100
 basis point decline. What's driving that? And just linked to that, can you give us some sense about
@@ -363,10 +357,7 @@ spread tightening benefit? Any sense on that would be really great. Thank you.
 A - Eilard Friese
 Yeah. Thank you, Ashik. I'll ask Doug to take these two questions. Thank you.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 Hi. Yes. Thank you, Ashik, for the questions. I think on the sensitivities to the UFR, I think there's a
 couple of things. I think with rates coming down, it can make it a bit more sensitive. At the same
 
@@ -382,43 +373,25 @@ level. We also think of the UFR as one element of Solvency II and not just – w
 3.2% because of the attention it gets. But we're careful to put too much focus on only one point of
 Solvency II changing.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. I mean, instead of giving any specific number, can you give us any sense? Is it linear on the
 higher end or the lower end, i.e., the impact increases or is it not?
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 It would increase a bit.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 It would increase. It would be some convexity in that.
 
 Bloomberg Transcript
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. Thanks.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 And then the second, I think your point is something that certainly has our attention that as
 sovereign spreads, especially as the higher-rated sovereign bonds like our German and Dutch and
 French holdings have really increased in value due to spreads becoming even more negative. Of
@@ -434,18 +407,13 @@ assuming we can manage our interest rate risk. There are a few other tools avail
 looking into. But clearly, your point is correct that if this can reverse and it may well do so, but there
 are actions we can take along the way.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 That's very good. Thank you.
 
 Operator
 Your next question comes from Gordon Aitken from RBC. Please go ahead, sir.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
+Q - Gordon Aitken {BIO 3846728 <GO>}
 
 
 
@@ -484,10 +452,7 @@ through full DC, hybrid DC, whether it's PPI institutions, et cetera. So, in tha
 well placed to manage this transition in this market. Now, with that, can I hand over to you on the
 SCR, Doug?
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 Yes. I think – thank you, Gordon. I think on the SCR, I think I refer a bit to page 20, slide 20 of the
 presentation that Delfin went through. I mean, it's certainly true that we do have some reductions
 in our SCR every quarter, and so every year that come from our – especially our individual life book
@@ -500,10 +465,7 @@ including in Japan.
 So, I think this will move around a bit. But I think in general, those are the items that will move and I
 think it will not be entirely consistent every quarter.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -514,10 +476,7 @@ The next question comes from Farquhar Murray from Autonomous. Please go ahead si
 
 FINAL
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Morning, gentlemen. Just two questions, if I may. Firstly, just looking at capital generation on slide
 19. If I crudely take the €300 million operating return and then adjust for Asset Management in
 Japan, one-off, then we seem to be looking at about €190 million in the quarter. Now, is that a
@@ -535,10 +494,7 @@ Thank you, Farquhar. Delfin, can you please take this?
 
 Bloomberg Transcript
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Thank you very much, Farquhar. So, indeed, I mean, we have given you the movement analysis and
 showing the key drivers of our Solvency II ratio over the quarter and have pointed out some of the
 more material items. The reality is that the operating return under Solvency II is going to fluctuate
@@ -559,18 +515,13 @@ And your second question on the accruals on qualifying debt, well, I think, yes,
 approximately €20 million in the quarter. And that is something that we'll continue, unless there is
 any change on our debt structure.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Okay. Thanks so much.
 
 Operator
 Next question comes from William Hawkins from KBW. Please go ahead, sir.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 
 
@@ -588,10 +539,7 @@ the bank result? Thank you.
 A - Eilard Friese
 Yeah. So, Delfin, can you take those questions please?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. Thank you, William. Public dividends, not much change. So around €50 million also this quarter.
 In terms of the result of NN Bank, I mean, in the quarter, as highlighted in the press release, we
 saw a significant growth in the balance sheet, both mortgages and savings. In addition to that,
@@ -599,9 +547,7 @@ there was a decrease in addition to the loan loss provision. And that is driven 
 and also the recovery in housing market. As a consequence for NN Bank, we believe that that
 current situation and trend is to be maintained.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
@@ -611,10 +557,7 @@ Operator
 The next question comes from Ms. Nadine van der Meulen from Morgan Stanley. Please go ahead,
 ma'am.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Good morning, gentlemen. Thank you for taking my questions. I realize that you were reluctant to
 give a normalized level of the operational capital generation. It is interesting to see that the
 second quarter, if you take off the one-offs, as you indicated on the slides, the resulting level is
@@ -632,10 +575,7 @@ probably unchanged with what you've guided previously? Thank you.
 A - Eilard Friese
 Yeah. Nadine, thank you for your question. So, Delfin, can you take these?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. Thank you, Nadine. So, in terms of where to expect the release of capital – sorry, I think I did
 not have my microphone on. So, I'll just start again. Thank you, Nadine. So, in terms of where do we
 
@@ -644,30 +584,20 @@ not have my microphone on. So, I'll just start again. Thank you, Nadine. So, in 
 expect to see reductions in the solvency capital requirement which I think was your question, this is
 driven by...
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 
 FINAL
 
 Sorry. Sorry to interrupt. But it's not the reduction in the solvency capital requirement, but it's the
 excess capital over the solvency capital requirement.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Okay.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Yes.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 
 Bloomberg Transcript
 
@@ -685,38 +615,27 @@ the end of 2019. And I would say that approximately €500 million of capital is
 from that portfolio. And the pattern of NN Life, again, we think that it's going to progress gradually.
 And it's difficult to say on a particular manner, but it might be around €50 million per year.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 And so just following up from that, for example, the Japan Closed Block VA, the €500 million that
 you indicate, I assume a good chunk of that is the release of the SCR as you mentioned, which is
 already included in the operational capital generation number as on slide 19, (45:58). And the rest
 of it is not and will go through – well, will fill the gap basically between the number that you show
 and the guidance that you're giving with regards to cash being equal to net operating result.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 To make it clear, the €500 million is obviously the release of both the capital requirement and the
 surplus capital associated with this business. So, when you look at the evolution of the free cash
 flow, you will have – in this particular case for Japan Closed Block VA will be part of release in the
 Solvency capital requirement in part of release of the surplus capital supporting that business.
 That's correct.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Thank you.
 
 Operator
 The next question comes from Matthias De Wit from KBC Securities. Please go ahead, sir.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
+Q - Matthias De Wit {BIO 15856815 <GO>}
 
 
 
@@ -734,19 +653,14 @@ say, a 10-year period of – or is there anything you could say on that, please?
 A - Eilard Friese
 Doug will take the point on the UFR, and then thereafter, I think Delfin on the fees and premiumbased revenues for NN Life. Thanks, Matthias. One moment.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 Yeah, I think as you noted, we don't really quote our Solvency II ratio adjusting for any one
 particular element like this. So, we will, I think, stick to that guidance because there's too many
 parts of Solvency II that come together to make the entire ratio. In terms of the question about
 amortization pattern, I think we can say a bit more on that. A good, I would say, a vast majority will
 run off over the 10-year – in about 10 years.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
+Q - Matthias De Wit {BIO 15856815 <GO>}
 
 Bloomberg Transcript
 
@@ -755,19 +669,13 @@ Okay.
 A - Eilard Friese
 So, Delfin, on the Life fees and premium-based revenues.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes, Matthias. I think that there is, as you know, some seasonality on the first quarter because there
 is the renewals of the pension business coming through. But if you look to the year-to-date
 development, still, I think we are around €20 million down in relationship to last year. So, renewals
 might also shift a bit from the first quarter to the second quarter. So, that trend is there.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Okay. Thank you.
 
 Operator
@@ -797,10 +705,7 @@ FINAL
 Yeah. So, first – so, thank you very much, Benoît. Maybe it's good to hand over to Doug for your
 first question. I will take the second question thereafter.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 Yeah. I think on the investment margin, I think consistent with what we've said for a long time, and
 we still remain with quite a prudent investment book with a significant amount of government
 bonds and especially high quality. And then over time, we are looking for the opportunities to
@@ -835,10 +740,7 @@ Okay. Thank you very much.
 Operator
 The next question comes from Bart Horsten from Kempen & Co. Please go ahead, sir.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Yes. Good morning. Bart Horsten, Kempen & Co. I have a few questions on cash and capital. You
 remitted €532 million in the second quarter, which is quite high. Have you considered to leave part
 of the cash in the operating companies because you didn't need it to shore up your cash at the
@@ -857,10 +759,7 @@ FINAL
 
 Yes. So, please, Delfin. Yeah.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. Thank you, Bart. We explained in the past our philosophy for capital management based on
 three pillars. One of the pillar, which we think is also important in order to maintain also internal
 discipline on the usage of capital is that the operating units have to be operating at, what we call,
@@ -874,9 +773,7 @@ others that have offsetting impact. And in terms of the sensitivity today, UFR t
 have not disclosed it explicitly within the sensitivity. But I think that if you were to take half that
 amount, it won't be that far off.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
+Q - Bart Horsten {BIO 2390919 <GO>}
 
 Bloomberg Transcript
 
@@ -885,20 +782,14 @@ Okay. Thank you.
 Operator
 The next question comes from Steven Haywood from HSBC. Please go ahead, sir.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Good morning. Hello. In terms of what happened with your NN Re division in Ireland, could you give
 us a bit more detail here? And could you indicate what sort of amount of capital repatriation may
 be possible from this entity? And then also, for the NN Bank, I don't know if this was asked earlier, I
 apologize, but could you explain to us why the number of customers is increasing so rapidly and
 how NN Bank is doing and why is it doing so well here? Many thanks.
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 Yes. So, let me take the question. Thanks, Steven, on the Bank and then I will ask Delfin to give
 some more comments on the Ireland venture. So, NN Bank is focused very much in the Dutch
 market on providing mortgages and saving solutions for customers. And this very much an
@@ -934,10 +825,7 @@ which we don't think is material. And in addition to that, that will free up the
 into NN Re and this is the capital repatriation that we will bring to the holding company. Once the
 transaction has been signed, we will communicate the precise impacts.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Thanks very much.
 
 Operator
@@ -945,10 +833,7 @@ The next question comes from Robin van den Broek from Mediobanca. Please go ahea
 
 Bloomberg Transcript
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 I'm sorry to come back to this. But clearly there's a relationship between re-risking in your SCR and
 what that should contribute to Eligible Own Fund generation. I think I missed the answer to what
 happened to the UFR drag in Q2. But based on swap movements in Q1 versus Q2, I would expect
@@ -959,10 +844,7 @@ generation going forward? That's basically the question.
 A - Eilard Friese
 Yeah, so I'll ask Doug to comment on that. Thank you very much, Robin.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 Yeah. Actually, I believe I missed answering this question earlier in terms of the SCR. I think as we
 mentioned – I mentioned on the slide 20 and also I mentioned as we move from truly – some of
 our government bond position toward riskier assets, that will increase the SCR. I think the reason
@@ -978,16 +860,12 @@ of spread risk as well because they're a bit shorter duration. And then we swapp
 longer-dated swaps. So from a Solvency II perspective and spread risk, it's not adding substantially
 more capital.
 
-Q - Robin van den Broek
+Q - Robin van den Broek {BIO 17002948 <GO>}
 So can you – sorry.
-
-{BIO 17002948 <GO>}
 
 
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
+A - Doug Caldwell {BIO 17900909 <GO>}
 
 FINAL
 
@@ -996,17 +874,11 @@ spread on our assets, that would increase capital generation. But then again, th
 time and not all happen at one time and again will be dependent on what we actually do going
 forward, which is dependent on financial markets and the attractiveness and availability of assets.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 But given what we've seen in Q1 basically, that UFR drag increased that March; it was pretty difficult
 to offset that by re-risking in Q2. That should be easier going forward. Is it a correct conclusion or -
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 So I think maybe, Robin, I can jump in here. There are many elements affecting the capital
 generation in a particular quarter. The UFR drag is one of them. As I mentioned, it's the release of
 the risk margin but also all the movements in the valuation, the new value of the balance sheet. So
@@ -1015,10 +887,7 @@ not change per se. But it will change the expected return from those assets. So 
 in re-risking have a positive effect in the capital generation. And it will increase or have an impact,
 as it has been explained by Doug, in the solvency capital requirement as well.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Okay, thank you.
 
 Bloomberg Transcript
@@ -1041,10 +910,7 @@ Q - Operator
 Okay, thank you.
 The next question comes from Ron Heijdenrijk from ABN AMRO. Please go ahead, sir.
 
-Q - Ron Heijdenrijk
-
-{BIO 3653338 <GO>}
-
+Q - Ron Heijdenrijk {BIO 3653338 <GO>}
 Good morning, gentlemen. Thank you for taking my question. Most have been answered already.
 Two small ones remaining. In the bank, can you confirm that the only assets that you're putting on
 your balance sheet are mortgages or are you investing your savings in other assets as well?
@@ -1069,10 +935,7 @@ months of the year, which was then basically subsiding in the months thereafter 
 result over the first half of the year for that book. So there is some volatility as a result of that. The
 other piece, Delfin on the bank.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 Yes, Ron, your first question on is mortgages the only asset, very much so. So it's that they need to
 maintain some liquidity. This is a very simple retail bank, as you know, focused on providing
 mortgages and savings for the time being. In relationship to the addition to the loan loss provision
@@ -1082,10 +945,7 @@ think that this is extraordinarily high or anything to adjust for that tax (01:0
 
 Bloomberg Transcript
 
-Q - Ron Heijdenrijk
-
-{BIO 3653338 <GO>}
-
+Q - Ron Heijdenrijk {BIO 3653338 <GO>}
 Thank you for those answers. So is it fair then to conclude that the current profitability of the bank
 is sustainable going forward and actually going to grow in line with your book growth? And then to
 come back on the Disability, how much of the reassignment (01:08:17) of your elevated claims in
@@ -1108,10 +968,7 @@ this that we are very active and that we are helping customers to get back to wo
 can. And we help them with that. But again, it very much – it's dependent on the nature of the
 disability or the illness. Yeah.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 And in terms of the result of NN Bank going forward. Indeed, I think that NN Bank has been growing
 from being a very small bank into becoming much more mature. And therefore, we will see these
 economies of scale as it grows depending on how the interest margin will stay over time. As it
@@ -1125,9 +982,7 @@ together with a contribution to our resolution fund, it provides something aroun
 per annum. So when you look at the cost base in 2015, that was not included. And it hasn't started
 – been reflected in our profit and loss account as from the start of this year.
 
-Q - Ron Heijdenrijk
-
-{BIO 3653338 <GO>}
+Q - Ron Heijdenrijk {BIO 3653338 <GO>}
 
 FINAL
 
@@ -1136,10 +991,7 @@ Thank you. Very clear.
 Operator
 The next question comes from Ashik Musaddi from JPMorgan. Please go ahead, sir.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 All right. Thank you. And just a couple of follow-up questions. I'm not sure if I heard it correctly. I
 think Doug mentioned that the majority of the UFR will amortize over next 10 years. Is that right?
 Sounds a bit low to me given that – your duration of the book is around, say, 17 in pensions in the
@@ -1155,10 +1007,7 @@ Bloomberg Transcript
 
 Yeah. So thanks, Ashik. Doug.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 Yeah, thank you. Yeah, I think did speak the way I meant to in terms of the most majority of the UFR
 drag or benefit is from (01:12:14). We'll amortize over the next 10 years. It will not be 100%, but let
 me explain why I say that. Basically, it has to do with the only cash flows impacted by the UFR are
@@ -1170,16 +1019,10 @@ basis, we would not have that much impact in 10 years from the remaining impact 
 in Life. There will be some there, but it will be much, much reduced from what we have now. That's
 why we say they amortize over 10 years.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay, that's clear. Thank you.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 Why are we hedging the cash flows? Well, I think we've been doing this for a long time, also
 believing that low interest rates were a risk for a long time, also using economic capital and a lot of
 different risk management tools for many years. We believe it's the way to manage.
@@ -1195,39 +1038,24 @@ our general focus on managing interest rate risk and if we do, we will say somet
 
 
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. So just to clarify, at least at the moment, you're not looking to change that strategy because
 the sense I'm hearing from everyone is the rates could continue to remain low. It may not go down,
 but it may continue to remain low. I just want to confirm that here.
 
 FINAL
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 I can confirm that we have not changed our interest rate hedging strategy.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 And if I can find the person who can tell me how far interest rates are going to go negative, I would
 appreciate that. But they've already – it's very hard to say what happens.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay, that's good. Thank you, Doug.
 
 Operator
@@ -1266,9 +1094,7 @@ And then on the bank earnings and your questions on net interest margin, et cete
 
 
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 
 FINAL
 
@@ -1296,19 +1122,13 @@ Bloomberg Transcript
 
 The next question comes from Robin van den Broek from Mediobanca. Please go ahead, sir.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Yes. Good morning, again. Ashik already asked the question, but I want to follow up on the UFR
 amortization period of 10 years. I understand what you're doing. But can you maybe explain how
 regulation prescribes you to amortize the UFR because there seems to be a certain amount of
 subjectivity in it? So, Doug, I guess this question is for you.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 I think Lard agrees, I'll take the call – I'll take the question. Yeah. I think I want to – yeah, I can answer
 this, and I think I want to clarify one point that may be underlying also some of the question of
 Ashik. But I think there is no particular – the regulation is simply on how you set the curve. So,
@@ -1326,37 +1146,25 @@ we always say we have a UFR benefit – I mean, a UFR drag, and we also have a b
 risk margin. The risk margin takes more time to run off. It runs off more slowly than the UFR and I
 think it's good to understand also the difference between the two.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 And how long does it take for the risk margin to amortize? Is it probably...
 
 
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 Longer than – I don't have an exact calculation to give you in comparison. But it's just much more –
 it's more slowing (01:20:40). Okay. That's tied almost completely – it's mostly tied – well, materially,
 it's mostly tied to our longevity risk in the Pension business in the Netherlands.
 
 FINAL
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Okay. Thanks.
 
 Operator
 The next question comes from Bart Horsten from Kempen & Co. Please go ahead, sir.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Yeah. Thank you. One final question, if I may. On the first page of your press release, you spent
 almost half a paragraph on Poland, and you said that you are following it closely. And I was
 wondering how you look at it right now and would you also consider exiting Poland if the situation
@@ -1378,10 +1186,7 @@ those changes are not yet precise, and the consequence is therefore not yet clea
 wait for this new legislation to go through various rounds of consultations, and we expect that to
 be finalized for 2016.
 
-Q - Bart Horsten
-
-{BIO 2390919 <GO>}
-
+Q - Bart Horsten {BIO 2390919 <GO>}
 Okay. Thank you.
 
 Operator
@@ -1393,10 +1198,7 @@ look at the last quarter-on-quarter, your deposit growth is higher than your mor
 what was the evolution quarter-on-quarter? And are there any measures still left outside, let's say,
 volume growth that could you help sustain or even grow your interest margin?
 
-A - Delfin Rueda Arroyo
-
-{BIO 7032761 <GO>}
-
+A - Delfin Rueda Arroyo {BIO 7032761 <GO>}
 I think – I mean, we can take this question offline to go into the detail. The only thing I would say
 now is that in addition to the interest margin, we should not forget that NN Bank is an originator of
 mortgages, also for the insurance companies and also for our Asset Management as some of our

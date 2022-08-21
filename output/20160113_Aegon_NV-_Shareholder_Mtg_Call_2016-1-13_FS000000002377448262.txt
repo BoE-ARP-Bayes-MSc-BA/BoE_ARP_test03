@@ -24,10 +24,7 @@ William Hawkins , Analyst
 Bloomberg Transcript
 
 MANAGEMENT DISCUSSION SECTION
-Willem van den Berg
-
-{BIO 15203834 <GO>}
-
+Willem van den Berg {BIO 15203834 <GO>}
 All right. Good morning, everyone. On behalf of the entire Aegon team, I would like to
 welcome you to Aegon's Analyst Investor Conference. We will start with two
 presentations, first, our CEO, Alex Wynaendts, who will provide you with an update of our
@@ -37,10 +34,7 @@ Q&A session after their presentations and we will provide you with breakout sess
 where you can meet the other management as well and discuss the business prospects.
 With this, I would like to hand it over to Alex.
 
-Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Thank you, Willem, and good morning to everyone here and thank you for taking the time
 to join us here in London. It's always good to see so many familiar faces, even some faces
 from far away. Also I'd like to thank all the others that are listening, following us online,
@@ -520,10 +514,7 @@ customers, our business partners, and of course also for our shareholders.
 So I'd like to thank you here and thank you again for your interest in our company. And is
 now pleasure to ask Darryl to join me and provide his presentation. Thank you very much.
 
-Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+Darryl D. Button {BIO 7089946 <GO>}
 Thank you, Alex, and good morning, everyone. During my presentation, I will first take you
 through Aegon Solvency II position and our target capital ratios. Following this, I will show
 you how our capital framework and free cash flow generation under Solvency II translates
@@ -822,35 +813,24 @@ Thank you, all, for your interest. Both Alex and I are now happy to take your qu
 We've got lots of hands. I assume there's mics going around, Willem, is that right? Yeah.
 
 Q&A
-Q - Willem van den Berg
-
-{BIO 15203834 <GO>}
-
+Q - Willem van den Berg {BIO 15203834 <GO>}
 Good morning. In the U.S., the capital position at the third quarter, the excess capital, I
 think about the AA S&P requirement, dropped to €600 million. Can you give an update on
 where we are now there? And secondly, would you mind giving an update on where you
 are on the potential litigation issues in the Netherlands?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
 Do you want to take the first?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yeah, on the capital position, the short answer is we're – not much changed, actually, from
 the third quarter on our S&P AA excess capital. We're about where we were where we
 ended the third quarter.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 And on litigation in Netherlands, I don't think there's anything new to mention compared
 to what we've been seeing in recent quarters. I think it's important to remind you here
 that we at Aegon are taking significant measures already for many, many years in trying to
@@ -859,10 +839,7 @@ more comfortable today than we felt some time ago. But still there is an environ
 where litigation is still possible but there's nothing new which we should be mentioning
 here today. Farooq?
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi there. Thanks very much. Farooq Hanif from Citigroup. Can you talk about interest rate
 hedging or protection against high yields in the U.S., because clearly there's a massive
 impact on implied RBC ratio from what you're showing in the sensitivities for with the 100
@@ -883,10 +860,7 @@ that?
 
 FINAL
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 I think first on interest rates, so as I showed you the little bit of a mismatch in our capital
 position, I think that's nothing new, we've been talking about that for a while, it's why
 we're running RBC ratios quite frankly towards the high end of the range, given the low
@@ -898,26 +872,17 @@ interest rate. So, we'll take some RBC ratio determent, if you will, if we get a
 interest rates in U.S., but then our operating free cash flows and our cash generation
 going forward will get better as a result.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 (56:28)
 
 Bloomberg Transcript
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 No. because we continue to run towards the high end – that's why we're running towards
 the high end of RBC ratios. We're a long way from any kind of dividend constraint in the
 U.S. so I continue to see the cash flow is very fungible out of the U.S.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 So, I think it's a good question. I'd like to spend a bit more time, Farooq. I think the main
 change that I've tried to highlight in my presentation is that, in the past, we used to be a
 product manufacturer, effectively having distribution, doing the sales and service with the
@@ -967,10 +932,7 @@ Bloomberg Transcript
 
 Nick?
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Nick Holmes of Soc Gen. Two questions on Solvency II please. The first one is, 160% is a
 lot higher than the 140% at the bottom of your range. And I wondered if you could tell us
 what the main items were that lead to 160% rather than being 140%? I'm thinking was it
@@ -985,10 +947,7 @@ somewhat lower ratio? And also I guess does the Dutch regulator, I know it's kin
 their job to opine on other companies and other jurisdictions it's more the rating
 agencies, but any thoughts on what the Dutch regulator thinks as well? Thank you.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Yeah. Okay. That's a – there was a lot in there Nick. I mean, let me try, two part question.
 So the answer is, why did we finish in where we came? We did – I've been trying to give
 guidance throughout the year of kind of how our conversations were progressing, and
@@ -1040,10 +999,7 @@ aren't there. There was no transitional benefits in our Dutch numbers whatsoever
 that's a very solid, high quality capital number and cash flows are going to be driven by
 the solo entities and that's what I think still continues to be the primary driver.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 I might add that in discussions with the regulator, our regulator, regulators well aware of
 differences emerging. It's very difficult to compare one company with another company,
 even within the same country and even more compare one country – company in a
@@ -1067,10 +1023,7 @@ what we're seeing right now, something our Dutch regulator is well aware of and 
 committed also to us, at our request, to be more clear and more transparent when talking
 to market participants like you.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Hi. Farquhar Murray, Autonomous Research. Just two questions if I may. Firstly, I mean the
 share buybacks are clear signal of confidence around the capital position. I mean, my
 question is, is that being driven by the 160% itself or is there any kind of building in of kind
@@ -1079,9 +1032,7 @@ And then secondly just on the Dutch Solvency II ratio of 150%, that's the top en
 kind of targets that you're talking towards. I'm just wondering, given that, what's the
 rationale for not up streaming actually in 2015?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
@@ -1093,10 +1044,7 @@ buyback of €400 million. It's really about making sure that the commitments we
 they get delivered, even if there's been a little delay because of the implementation of
 Solvency II.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 I think the answer to your second question, Farquhar, is easy. The answer is we are. So
 these – I have shown you the ratios, our estimates for end of the year 2015. We'll now
 complete our actual calculations and model runs on those. We will submit those into the
@@ -1106,10 +1054,7 @@ gave you the sensitivity that we have around that. And based on those actual yea
 performance year.
 So I think we're headed for exactly what you said.
 
-Q - Jan Willem Knoll
-
-{BIO 18247722 <GO>}
-
+Q - Jan Willem Knoll {BIO 18247722 <GO>}
 Yes. Good morning. Jan Willem Knoll, ABN AMRO. On the payout ratio, if you assume a
 free cash flow of €1.2 billion by 2018, your 50% payout ratio assumes roughly €600 million
 of capital retention by then. My question is, is the 50% payout ratio, operational free cash
@@ -1117,9 +1062,7 @@ flow (1:06:40), is that ambitious enough? And the second question will be on the
 expansion in the U.S. Can we get an update as to the (01:06:50) developments there?
 Thanks.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Page 20 of 25
 
 
@@ -1141,10 +1084,7 @@ commitment to return capital to shareholders because we believe today not only t
 have made a commitment on the share buyback, but today this is the best way we can
 deploy our capital, especially, in view of our share price development.
 
-Q - Jan Willem Knoll
-
-{BIO 18247722 <GO>}
-
+Q - Jan Willem Knoll {BIO 18247722 <GO>}
 What I do, Alex, I assume a growth in the operational free cash flow by 2018, so I assume
 roughly you can do, let's say €1.5 billion by 2018, minus your holding cost of let's say €300
 million means €1.2 billion of holdco free cash flow so to speak. So, by 2018, actually 50%
@@ -1153,18 +1093,13 @@ I understand if you take the 2016, 2017, 2018 period cumulative, I understand yo
 disclosures or your plans. But by 2018, I think the payout ratio looks quite modest to me,
 assuming growth.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 
 I'll do it. You want to say something?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Well, all I would say is that, that's a fair point. Two things I would say, when you consider
 the share buyback that we're also delivering on in the three-year period, we get to a 70%
 payout of real deployable capital. I think the other part that you need to pay attention to, I
@@ -1189,30 +1124,19 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2016-01-13
 
-Q - Willem van den Berg
-
-{BIO 15203834 <GO>}
-
+Q - Willem van den Berg {BIO 15203834 <GO>}
 (01:09:31).
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
+A - Darryl D. Button {BIO 7089946 <GO>}
 
 FINAL
 
 Well, it's a big room and...
 
-Q - Willem van den Berg
-
-{BIO 15203834 <GO>}
-
+Q - Willem van den Berg {BIO 15203834 <GO>}
 (01:09:36).
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah. I think what we – we want to say on the energy, you have a break out with Mark and
 Michiel later, we said, we've been doing a lot of work looking at our portfolio, they have
 the details; you have that in your appendix of on our portfolio. We believe there is only
@@ -1227,10 +1151,7 @@ And so I encourage you to – in the breakout, look at the appendix and Michiel 
 you through exactly which pieces of that portfolio could be potentially more at risk if oil
 prices stay very low.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Hi, Andy Hughes from Macquarie. A couple of quick questions, if I could, the first one is
 about the DTAs. Are they in the Solvency II ratio and how does that work 100 in 200 stress
 because presumably 100 in 200 (01:10:38) stress you have a lot of deferred tax assets,
@@ -1242,10 +1163,7 @@ kind of cash capital generation you're going to have or is it going to fly aroun
 conditions? So, in the case of the UK, if you sell lots of business from the platform and
 generate lots of VIF, are you going to have lots of operational cash come through, right?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 So, on the first question, the deferred tax assets coming from the U.S., the short answer,
 that's where it's coming from and that's where it's being reported. The DTA and how the
 DTA is captured in our Solvency II reporting, that's all captured in the sensitivities that
@@ -1271,22 +1189,14 @@ fee-based businesses that create a VIF and that goes into your own fund's calcul
 and there's not much SCR that's associated with pure fee business. So that can contribute
 to capital generation. We would capture that generally through an MCB MB calculation.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Thank you.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thanks. I'm William Hawkins from KBW. On the base case you presented, what should
 your Solvency II ratio be at the end of 2018?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
+A - Darryl D. Button {BIO 7089946 <GO>}
 
 Bloomberg Transcript
 
@@ -1300,22 +1210,13 @@ that we put there. So if we don't do anything with that capital and keep it, the
 accrete. If we go ahead and deploy the entire €3 billion, we start and end around the
 same level.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 One more?
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 We got one in the back.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Matthias de Wit KBC Securities. I got two small questions. The first one is on Solvency II,
 just wondered under Tier 2 buckets, how much room you still have there and what you
 plan to do with it, because there are seniors outstanding and I think it would make sense
@@ -1334,24 +1235,16 @@ Date: 2016-01-13
 
 approval for the full €400 million?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 FINAL
 
 Yes.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 And on when you would fully execute the program? Thank you.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Well, I'll take the first on the Tier 2. The short answer is yeah, we have flagged €1.9 billion
 of seniors, but which you get no capital credit for. The only senior to Tier 2 trade that I'm
 signaling at this point is the €500 million maturity we have coming up in 2017. There aren't
@@ -1369,10 +1262,7 @@ immediately till we see some of these instruments start to form and see the pric
 market.
 So outside of the one I flagged, I wouldn't look for us to do much more than that.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yeah, on the share buyback, I believe we've been very clear that we have approval and
 support for the full €400 million and it's just more a practical way of dealing – addressing
 it. We do €200 million now this quarter and then we'll do it later. We have to take also into
@@ -1380,23 +1270,14 @@ account blackout period, so that's part of the technicality. So €400 million i
 approved.
 And I think, I hope, we started this morning, by the way. Early.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 It's definitely this week, I think we were going to try and do some today and we're kicking
 off the first €200 million program on Friday. Thank you.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 You intend to finish it entirely in 2016, the €400 million?
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
-
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 Yes.
 Page 24 of 25
 
@@ -1406,32 +1287,22 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2016-01-13
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 Absolutely.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
+Q - Matthias de Wit {BIO 15856815 <GO>}
 
 FINAL
 
 Okay. Thank you.
 
-A - Darryl D. Button
-
-{BIO 7089946 <GO>}
-
+A - Darryl D. Button {BIO 7089946 <GO>}
 I think we were – we didn't do the longevity part of your question, but we'll just refer that
 into the Dutch breakout session, Rutger and Marco can cover that question for you. And I
 think we're getting – we're out of time. So we can – we'll pick up the investors questions in
 our breakouts. Thank you.
 
-A - Alexander Rijn Wynaendts
-
-{BIO 1821092 <GO>}
+A - Alexander Rijn Wynaendts {BIO 1821092 <GO>}
 
 Bloomberg Transcript
 

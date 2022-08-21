@@ -33,10 +33,7 @@ Conference Call. Please note that today's conference call is being recorded.
 At this time, I would like to turn the conference over to Christian Mumenthaler, Group
 CEO. Please go ahead.
 
-Christian Mumenthaler
-
-{BIO 6479864 <GO>}
-
+Christian Mumenthaler {BIO 6479864 <GO>}
 Thank you very much and good morning, good afternoon, everyone wherever you are. I
 hope you're safe and healthy. I'm here in the room together with the Group CFO, John
 Dacey and the Group Chief Underwriting Officer, Thierry Leger as well as Thomas Bohun
@@ -195,10 +192,7 @@ Operator
 The first question comes from the line of from Andrew Ritchie with Autonomous. Please
 go ahead.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi there. Thanks for the opportunity, could I just get a bit more detail on your decision to
 cut back on the aggregate business. Is this, I guess this is business you were happy to
 write last year. So I'm just curious to understand what your view of risk has done over the
@@ -219,8 +213,7 @@ Date: 2021-02-19
 
 FINAL
 
-A - Christian Mumenthaler
-
+A - Christian Mumenthaler {BIO 6479864 <GO>}
 Thank you, Andrew. Thierry, if you could start with the question on the aggregate. Maybe
 I'll start because it is a bit of a long history, just three days is the time of Thierry as Chief
 Underwriting Officer. So overall, the net capital has performed extremely well over the last
@@ -244,14 +237,9 @@ but there were a few bad ones in Australia or so, where we stuck out and that's 
 something we want to do in the future. So it's a mixture of considerations. I don't know,
 Thierry, you want to add something new to that.
 
-A - Thierry Leger
-
 Bloomberg Transcript
 
-{BIO 6479864 <GO>}
-
-{BIO 16674977 <GO>}
-
+A - Thierry Leger {BIO 16674977 <GO>}
 Just a few words, so -- first of all, as Christian said, it's the frequency is a lot about
 secondary patterns. It's a lot about unmodeled risks and we obviously prefer modeled
 risks to unmodeled risks, as you will understand and the aggregates had the tenancy over
@@ -265,16 +253,10 @@ the aggregates away again from the money where they are. Unfortunately, at this
 renewal, we have seen an attempt from clients to go the other way. It is obviously a
 desire because they have seen them working pretty well to go even closer to the money.
 
-A - Christian Mumenthaler
-
-{BIO 6479864 <GO>}
-
+A - Christian Mumenthaler {BIO 6479864 <GO>}
 And John, on the SST
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 So thanks, Andrew. And I'll be careful about keeping my prepared remarks as short as
 possible in the future if they're going to have questions here. But let me give you a try.
 We've got a series of parameters in the SST calculation that we routinely evaluate and
@@ -311,10 +293,7 @@ The next question comes from the line of James Shuck with Citi. Please go ahead.
 
 Bloomberg Transcript
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Hi, thank you good morning, good afternoon everybody. So two questions from me. John,
 again on your prepared comments you talked about deploying capital in the business. I
 think through the January yields, we haven't really seen that and the Nat Cat exposure has
@@ -334,10 +313,7 @@ potential, you got growth in the underlying business. So really, I'm looking for
 number at the group level of 3.0, how should we expect that to trend over the next two
 to three years please? Thank you.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 James. Let me try and answer in the order you have asked. With respect to deploying
 capital, I think one of the things we didn't want to leave is any confusion about the actions
 Page 6 of 19
@@ -411,10 +387,7 @@ FINAL
 
 The next question comes from the line of Kamran Hossain with RBC. Please go ahead.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi everyone, couple of questions from me. The first one is on dividend, I guess in a very
 difficult year for the industry, the good news is, you've paid the dividend again. What
 scenarios would stop you paying it because it feels we've kind of pretty much stress
@@ -431,10 +404,7 @@ John, would you like to take the first question on dividends.
 
 Bloomberg Transcript
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Sure, on dividend, we've shown and I think there is even a size that Christian referenced
 earlier today, our capital management framework and the maintenance of this dividend is
 an important piece of what we think is appropriate. It comes second after the first one
@@ -453,10 +423,7 @@ not going to be a year of share buybacks.
 We'll continue to build capital, we looked to remain one of the best capitalized insurance
 groups in the world and that dividend at the moment looks pretty secure to me.
 
-A - Christian Mumenthaler
-
-{BIO 6479864 <GO>}
-
+A - Christian Mumenthaler {BIO 6479864 <GO>}
 Maybe, I'll take the one, the difficult one on pandemic losses, Kamran. My feeling talking
 to peers is that we -- the more immediate peers, we have a very similar view at this stage.
 
@@ -498,10 +465,7 @@ The next question comes from the line of (inaudible) retrieve his question. We t
 next question, which comes from the line of Iain Pearce with Credit Suisse please go
 ahead.
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 Hi and thanks for taking my questions. My first one, I guess, was sort of following on from
 the point you just made on capital. I'm just wondering if you could discuss the economic
 framework and the capital framework around the new solvency guidance. Should we not
@@ -514,10 +478,7 @@ the pull back in those areas? Thanks.
 A - Thomas Bohun
 John, would you like to take the first question.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Sure, so let me -- the range we put in, we replace what we thought was inappropriate
 utilization of a point estimate originally, which was I think misunderstood or
 
@@ -557,10 +518,7 @@ Bloomberg Transcript
 
 Thierry, on casualty.
 
-A - Thierry Leger
-
-{BIO 16674977 <GO>}
-
+A - Thierry Leger {BIO 16674977 <GO>}
 On casualty, so when we looked back at the last few years and what actually has driven
 the reserve strengthening, we have realized that the social inflation that is not a new
 phenomenon has increased to particular strategies of the plaintiff bars that we've
@@ -596,10 +554,7 @@ Operator
 The next question comes from the line of Vinit Malhotra with Mediobanca. Please go
 ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes, good afternoon, thank you. Just the first question is on slide 12 today please, the
 USD4 billion, which was up for renewal for casualty against which there is 17% fall. So, I just
 noted, this number is significantly different from what was renewed last year, the same
@@ -619,10 +574,7 @@ Bloomberg Transcript
 A - Thomas Bohun
 Question on casualty, Thierry.
 
-A - Thierry Leger
-
-{BIO 16674977 <GO>}
-
+A - Thierry Leger {BIO 16674977 <GO>}
 I'm happy to take this one. So, it's well observed we need reduction from the USD5.2
 billion to USD4 billion as a starting point and the main -- the main drivers of this are what
 you mentioned multi-year deals that we did not need to renew. So, they didn't come up
@@ -634,10 +586,7 @@ both of these effects have actually reduced the renewable and casualty premium.
 A - Thomas Bohun
 And the second question, John, on corporate Solutions reserves.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 So, you're right, corporate solutions did release a prior year reserve in the fourth quarter,
 it's probably about half of the total that they've done for the year. This was a judgment
 made at the end of the year when they actually had the four months, what I will say or four
@@ -682,10 +631,7 @@ exposures reductions that you've already taken and then presumably that has this
 explosive growth assumption going forward. So, if you can give any sort of quantification
 for that and expectations for the remainder of the year, that would be helpful. Thank you.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Sure. Well, I think I've got both of these. On the first one, you're right, at Investor Day, we
 gave you some detail about the alternative capital partners, the team and the actions
 they are taking and the retro programs that they expanded in 2020 and continuing to
@@ -726,9 +672,7 @@ Operator
 The next question comes from the line of Ashik Musaddi with JP Morgan. Please go
 ahead.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 Bloomberg Transcript
 
@@ -750,10 +694,7 @@ for example, cancellation of Olympics et cetera. Yeah, that would be great. Than
 A - Thomas Bohun
 Thierry, would you like to take the first, Nat Cat budget.
 
-A - Thierry Leger
-
-{BIO 16674977 <GO>}
-
+A - Thierry Leger {BIO 16674977 <GO>}
 Yeah, so climate change is a big topic, as you rightly said but Christian mentioned it
 already. So we've looked into this in detail. We found that, as Christian said, that
 urbanization, so more people moving to areas exposed to climate risks. That's actually
@@ -778,10 +719,7 @@ that we expect will surprise us on the negative side, even more so in going forw
 
 FINAL
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Maybe also from my side as a clarification. So, the way -- we were close to the climate
 science and all the scientists in the world and the consensus at this stage is that climate
 change is visible in the secondary perils not yet proven in the very big ones but the way it
@@ -792,9 +730,7 @@ climate change because it's a certainty, it is not a risk. What we take is just 
 volatility and the middle point of that is just moving up with updates of our model. So this
 is how it's captured in the models.
 
-A - Christian Mumenthaler
-
-{BIO 6479864 <GO>}
+A - Christian Mumenthaler {BIO 6479864 <GO>}
 
 Bloomberg Transcript
 
@@ -848,10 +784,7 @@ Thank you Ashik. We could have the next question please.
 Operator
 The next question comes from the line of Thomas Fossard with HSBC. Please go ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes, good afternoon, two remaining questions. The first one would be on mortality, so
 you're providing an unchanged sensitivity, but I was wondering if there were any offsetting
 positives that could play into the year or into H1 in order to offset a higher potential
@@ -864,10 +797,7 @@ Bloomberg Transcript
 
 Thierry, would you like to take the question on mortality.
 
-A - Thierry Leger
-
-{BIO 16674977 <GO>}
-
+A - Thierry Leger {BIO 16674977 <GO>}
 Happy to do so. Hi, Thomas. So the offsetting we've communicated on this already a little
 bit. So we have the longevity line of business with some offset, that's also one of the
 reasons why we write longevity and we have seen that offset. The other line of business
@@ -875,10 +805,7 @@ where we have seen better than expected results was in medical. So, as you all k
 simply being less people going for surgery and that had quite an impact on those lines of
 business. Other than that, there were no particular offsets observable in our portfolio.
 
-A - Christian Mumenthaler
-
-{BIO 6479864 <GO>}
-
+A - Christian Mumenthaler {BIO 6479864 <GO>}
 (inaudible) thinks about whether as we progress, the people would have died anyway and
 therefore we going to have to and that's a big question we are debating internally. As you
 can imagine, unless there is strong evidence for that, there is reluctance to recognize that.
@@ -888,9 +815,7 @@ also quite a bit of people who have died who had many, many years to live otherw
 I don't think we see at this moment, a big upside in that sense in the portfolio. Some, yes,
 but we are cautious and it's very little is included in the EVM.
 
-A - Thierry Leger
-
-{BIO 16674977 <GO>}
+A - Thierry Leger {BIO 16674977 <GO>}
 
 Page 15 of 19
 
@@ -906,10 +831,7 @@ negative or positive impact because they can go both ways and so far we are neut
 
 FINAL
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 And maybe Thomas with respect to the IBNRs, I'm not sure that we're releasing by line of
 business, but I can give you a little more detail by business unit. So, we won't be surprised
 that the lowest level of IBNR is around our Life & Health Re business where 75% of the
@@ -920,10 +842,7 @@ Re, IBNRs for the reserves, the $1.9 billion of reserves we have is at 80% and a
 it's safe to say that the event cancellation probably is below that and the other lines and
 business interruption are likely above that.
 
-A - Christian Mumenthaler
-
-{BIO 6479864 <GO>}
-
+A - Christian Mumenthaler {BIO 6479864 <GO>}
 Thomas, and on slide 5 we have -- you see that at least visually on VI that it's a very
 significant amount.
 
@@ -936,10 +855,7 @@ Operator
 The next question comes from the line of Michael Haid with Commerzbank. Please go
 ahead.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Thank you very much. Good afternoon to everyone first question on asset management,
 apparently you have hedges in place, some hedges on credit risk, which you put on in the
 fourth quarter and then you have also some hedges on your PIA[ph] portfolio. The credit
@@ -953,10 +869,7 @@ a normal position?
 A - Thomas Bohun
 The first question to John.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Sure. So, Michael, yes, we have had some hedges in place vis-a-vis the credit portfolio.
 Again as I mentioned at year-end, the uncertainty around some political situations in major
 
@@ -987,9 +900,7 @@ Christian said, has done a very good job on the integration of ReAssure and we'r
 A - Thomas Bohun
 Thierry, the second question.
 
-A - Thierry Leger
-
-{BIO 16674977 <GO>}
+A - Thierry Leger {BIO 16674977 <GO>}
 
 Bloomberg Transcript
 
@@ -1008,10 +919,7 @@ Operator
 The last question for today comes from the line of Paris Hadjiantonis with Exane BNP
 Paribas. Please go ahead.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Yes, hi everyone from my side. I hope you're doing well. So two questions remaining. Just
 going back to BI where a lot of the uncertainty around, the risk in cost of COVID COVID-19
 lies, you have on that almost USD400 million of reserves here in Q4, so I'm just trying to
@@ -1039,10 +947,7 @@ FINAL
 
 First question to John.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Yes, Paris. Thank you, you're exactly right. We did increase some significance the BI covers
 both in corporate solutions and in P&C Re in the fourth quarter. Two main reasons for that,
 one was the court decisions in Australia, especially, but also the reaffirmation is in the UK,
@@ -1059,10 +964,7 @@ Second question to Thierry.
 
 Bloomberg Transcript
 
-A - Thierry Leger
-
-{BIO 16674977 <GO>}
-
+A - Thierry Leger {BIO 16674977 <GO>}
 Yeah. To the second question, I'd love to know the answer and be able to see the future
 today. So, your question two is there more to come in pruning on the aggregates and on
 the casualty side, it's obviously difficult as we actually really focused on the quality of the

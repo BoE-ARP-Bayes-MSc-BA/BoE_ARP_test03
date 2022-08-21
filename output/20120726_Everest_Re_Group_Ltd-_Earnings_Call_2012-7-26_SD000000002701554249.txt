@@ -28,10 +28,7 @@ Good day, everyone. Welcome to the Everest Re Group Limited Second Quarter 2012
 earnings release call. Today's conference is being recorded. And at this time for opening
 remarks and introductions, I would like to turn the conference over to Beth Farrell.
 
-Beth Farrell
-
-{BIO 19732216 <GO>}
-
+Beth Farrell {BIO 19732216 <GO>}
 Good morning. Welcome to Everest Re Group Second Quarter 2012 earnings conference
 call. On the call with me today are Joe Taranto, the Company's Chairman and Chief
 Executive Officer; Dom Addesso, our President; and Craig Howie, our Chief Financial
@@ -52,9 +49,7 @@ Company N ame: Everest Re Group L td
 Company Ticker: RE US Equity
 Date: 2012-07-26
 
-Joe Taranto
-
-{BIO 1495653 <GO>}
+Joe Taranto {BIO 1495653 <GO>}
 
 FINAL
 
@@ -84,10 +79,7 @@ this year and next, and thrilled to have such a high quality individual, Dom Add
 our Company for many years thereafter. I like our team, our portfolio, and our plan. Our
 Company has never been stronger, our future has never been brighter. Dom?
 
-Dom Addesso
-
-{BIO 1428096 <GO>}
-
+Dom Addesso {BIO 1428096 <GO>}
 Thank you, Joe. Good morning. As Joe indicated, we have had an excellent quarter
 overall. The year so far is playing out generally as expected, with the attritional combined
 ratio improving by 1 point compared to the first six months of 2011. Rate increases and
@@ -178,10 +170,7 @@ clients are interested in doing business with. With these changes, I'm confident
 can effectively execute on the right transactions and in the right way.
 I will now ask Craig to take us through the further details on the financials.
 
-Craig Howie
-
-{BIO 17579923 <GO>}
-
+Craig Howie {BIO 17579923 <GO>}
 Thank you, Dom. Good morning, everyone. We are pleased to report that Everest had
 another very strong quarter, with after-tax operating income of $223 million, or $4.25 per
 diluted common share. In comparing these results to last year, consideration must be
@@ -340,10 +329,7 @@ FINAL
 
 Thank you, and now I turn it back to Beth for Q&A.
 
-Beth Farrell
-
-{BIO 19732216 <GO>}
-
+Beth Farrell {BIO 19732216 <GO>}
 Lisa, we are ready to take questions.
 
 Questions And Answers
@@ -353,44 +339,26 @@ Amit Kumar, Macquarie.
 
 Bloomberg Transcript
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Thanks, and congrats on a very strong quarter. I had a few clarification-type questions on
 the crop insurance book. The color was very helpful, which you gave in the opening
 remarks. First of all, can you refresh us -- what is the crop distribution in the heartland
 book? It's not corn, it's not predominant just based on where it is, but can you refresh us
 on what is the distribution?
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 You mean the distribution by crop?
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Yes.
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 It's normal distribution -- corn and soybean are the main products.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 And do you have the percentages?
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 Give me a second, Amit. The information I have in front of me will not let me give you a
 precise answer, so I'll have to follow up on that question.
 
@@ -402,42 +370,26 @@ Company N ame: Everest Re Group L td
 Company Ticker: RE US Equity
 Date: 2012-07-26
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 I know you mentioned the stop loss coverage -- would this be similar to what the industry
 standard is in terms of where it attaches? Can you give us any other color on that?
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
+A - Dom Addesso {BIO 1428096 <GO>}
 
 FINAL
 
 It attaches at a 110, I think it's 95% of -- we have a 5% participation --
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 I'm sorry, say that again?
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 30 points the limit, 95 at 30% excess of 110.
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 It's similar in structure to what most companies purchase.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
+Q - Amit Kumar {BIO 15025799 <GO>}
 
 Bloomberg Transcript
 
@@ -447,27 +399,18 @@ $1 billion versus right now at $700 million. I'm curious, how should we think ab
 load discussion? I know we have discussed a number in the past, but as the book
 changes, how do you think about the cat load internally?
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 That has not changed significantly. As we mentioned, there have been no major shifts in
 our peak zones, and we have pushed out some additional aggregate into some non-peak
 zones. But that's not changing materially our annual expected load.
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 And a lot of the change comes from rate increases.
 
 Operator
 Josh Shanker, Deutsche Bank.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 I want to walk through the Florida quota share arrangement a little bit. I wanted to know
 what impact there was on the expense ratio to loss ratio in terms of give back of
 premiums that might be one-time in nature. Did the program dissolve, or does it go to a
@@ -484,10 +427,7 @@ Date: 2012-07-26
 
 FINAL
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 I will start with the latter part of that question, with regard to what happened; and then I
 will turn it over to Craig to take you through some of the numbers. Basically, we would
 have supported the deal that was in place with us last year, but a competitor offered
@@ -497,10 +437,7 @@ our capital into Florida XOL deals, which we think offer better returns. So that
 and short of it in terms of that specific deal, but Craig will give you the particulars,
 numbers wise.
 
-A - Craig Howie
-
-{BIO 17579923 <GO>}
-
+A - Craig Howie {BIO 17579923 <GO>}
 Josh, one of the things -- we don't typically discuss any one transaction on a call like this.
 However, what I can tell you is, what we did was, we portfolioed out the unearned
 premium. That unearned premium was $194 million. We have to reverse the
@@ -509,43 +446,29 @@ associated with that unearned premium. But this was a one-time transaction and a
 quarter, but there were a number of other adjustments and impacts in that combined
 ratio as well.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
+Q - Josh Shanker {BIO 5292022 <GO>}
 
 Bloomberg Transcript
 
 Okay, no problem. But arguably, we could be comfortable saying that the expense ratio in
 US reinsurance is inflated in 2Q?
 
-A - Craig Howie
-
-{BIO 17579923 <GO>}
-
+A - Craig Howie {BIO 17579923 <GO>}
 Correct.
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 (multiple speakers) Inflation on the expense ratio -- that is on a worldwide basis. There is a
 blip in the quarter that drove up the expense ratio that should go away.
 
 Operator
 Greg Locraft, Morgan Stanley.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Good morning, and congrats on the quarter. I wanted to get your appetite for buybacks at
 today's levels, given that the valuation hasn't moved much year-to-date, because you've
 had so much book value growth.
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 Our appetite remains strong. We think it's one the best ways to use the profits, the
 earnings that we are making. Now, we are moving into hurricane season and we will be a
 
@@ -560,28 +483,20 @@ Date: 2012-07-26
 bit more cautious in this quarter than perhaps otherwise. But we intend to continue to buy
 nonetheless.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
+Q - Greg Locraf t {BIO 4221265 <GO>}
 
 FINAL
 
 Okay, and if you could remind me -- historically, have you ever bought in the wind season,
 and would that strategy change?
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 Again, we have bought less than we have in other quarters, but at this point we have a lot
 of excess capital, profits are good, we like the portfolio, and the only hesitation is the fact
 that it is hurricane season. But we like the price and it's really one of the ways of
 continuing to move the football down the field. We like buying our stock at these levels.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Shifting gears back to crop -- it's actually pretty amazing. You are not the only carrier, but
 the industry is sitting, staring at what seems would be the largest loss in crop in history;
 and yet, you guys are booking at 95 and will obviously, therefore, make money in the line
@@ -591,10 +506,7 @@ industry loss ever is not going to result in you losing money in that particular
 
 Bloomberg Transcript
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 It is still very early to be predicting what the outcome is, but also recognizing that the
 limited amount of premium that was earned in the Second Quarter from crop; the fact
 that we booked a very small underwriting gain, which I think is consistent with what many
@@ -609,19 +521,14 @@ Ultimately, as I said, even as the year plays out on the insurance side, our ann
 premium for crop is $150 million. Of that, $135 million is MPCI-related. The remainder is
 crop hail.
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 That really means that this is 3% of our worldwide premium and it has a stop loss on it. As
 Dom noted, only 25% of the business now is in the states that are performing quite
 poorly. Having said that, as Dom noted, it remains to play out. It certainly could get worse
 and we could lose money on this. We will see. But in the grand scheme of things, it's not a
 real big deal for us.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Page 10 of 17
 
 
@@ -636,27 +543,18 @@ forward on the top line and the bottom-line -- how we should handle that?
 
 FINAL
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 I don't think there are any adverse issues in terms of margins, or profits, or attritionals
 going forward. Premiums may be down a bit -- they were down this quarter -- and we
 won't have that treaty on an ongoing basis, but our focus is on margins and profits and
 attritional; and we don't see any issues on that front.
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 In fact, margins should be going up -- again, as I indicated, moving more of our cat PML
 from proportional to excess. We are benefiting, not only on the attritional loss ratio, but
 also on the commission ratio.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 The profitability is strong, but what you are saying, though, is there will be top line
 pressure that plays through for the next three quarters. We have taken one quarter of the
 decline and it should continue, but profits are up because of all the reasons you have
@@ -664,18 +562,12 @@ stated.
 
 Bloomberg Transcript
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 Offsetting that, is, if you think about the rate increases we've had not only in Florida but
 around the globe, a lot of that rate increase is offsetting to a very large degree this one
 particular transaction.
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 You don't have one quarter in this quarter, you have the whole unearned premium
 reserve portfolioed out. Everything that was put in the books has been written but has not
 earned at this point has been reversed. So this is a very unusual quarter in that regard.
@@ -683,10 +575,7 @@ earned at this point has been reversed. So this is a very unusual quarter in tha
 Operator
 Cliff Gallant, KBW.
 
-Q - Cliff Gallant
-
-{BIO 1854853 <GO>}
-
+Q - Cliff Gallant {BIO 1854853 <GO>}
 Good quarter.
 On the switch from quota share to XOL -- is that simply a reflection of current market
 terms? Or is it something more intrinsic about the business that you prefer in XOL? And
@@ -702,9 +591,7 @@ Company N ame: Everest Re Group L td
 Company Ticker: RE US Equity
 Date: 2012-07-26
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
+A - Joe Taranto {BIO 1495653 <GO>}
 
 FINAL
 
@@ -719,10 +606,7 @@ and we want only the best deals to go into that aggregate. And what shakes out o
 shakes out of that. As it turns out, given the trends, that's more and more XOL as
 opposed to pro rata.
 
-A - Craig Howie
-
-{BIO 17579923 <GO>}
-
+A - Craig Howie {BIO 17579923 <GO>}
 From an investment standpoint, Cliff, I don't see a dramatic change in our portfolio here.
 First of all, there has been a lot of changes in the portfolio over the past couple of years,
 but right now it's very conservative. It's a diversified portfolio, it's very high credit quality.
@@ -733,10 +617,7 @@ to get to the bottom line ROE.
 
 Bloomberg Transcript
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 Let me also give you a statistic that might help keep this in perspective relative to the pro
 rata versus excess. It's not as if, as Joe indicated, that we have stopped writing pro rata;
 it's just reducing the proportion. In terms of a proportion of pro rata to excess business, in
@@ -749,18 +630,12 @@ is falling off a cliff here, either.
 Operator
 Ian Gutterman, Adage Capital.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Could you clarify again for me on the universal contract -- I think you said $194 million of
 unearned premium? Over what time period, if you had kept the contract -- over what time
 period would that have earned out? By the end of the year, does it go into next year?
 
-A - Craig Howie
-
-{BIO 17579923 <GO>}
-
+A - Craig Howie {BIO 17579923 <GO>}
 That would have been one year and you are correct, the number was $194 million that
 was portfolioed out of unearned premium.
 
@@ -772,78 +647,49 @@ Company N ame: Everest Re Group L td
 Company Ticker: RE US Equity
 Date: 2012-07-26
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Basically that is Q3 of this year through Q2 of next year, that it would have earned out?
 
-A - Craig Howie
-
-{BIO 17579923 <GO>}
+A - Craig Howie {BIO 17579923 <GO>}
 
 FINAL
 
 Correct.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Given the portfolio changes you made in cat -- I don't know if you can give us a Floridaonly PML? Or talk about how you've structured the portfolio into XOL? Are you exposed
 more to the Florida-only and nationals? Are you playing high layers, low layers? Some sort
 of sense of what types of events or companies you might be exposed to?
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 Our portfolio hasn't changed much in that regard, frankly, and it's pretty well ventilated.
 We support both regional, local, and national clients. It's a wide array of a client list.
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 And no meaningful change to the PML.
 
 Bloomberg Transcript
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Even though I would have thought -- quota share, obviously, implies that you play at dollar
 one, where XOL means you play higher. It would seem you would be less exposed to
 lower events this year at a minimum. Is that right?
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 Slightly, that is true. But there are cat covers that do attach low. And then, of course, you
 can deploy more limit up high, but it has similar PML.
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 And our design was to not increase the PML, so we worked backwards from that.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 As you were trying to reallocate onto XOL-type programs, some of your competitors
 have discussed it being difficult to stay on programs that they liked in the past because of
 these non-traditional competitors coming in. I'm just wondering how much of a concern
 was that as you were repositioning? Or are you playing on contracts that doesn't tend to
 attract that kind of capital?
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 There's always competition in our business, there always will be. It comes in from the
 normal competitors and, yes, you do see it come in, in unconventional ways here and
 there, be it sidecars or other things. Yes, there was a little bit more of that recently. Having
@@ -868,23 +714,15 @@ wants to come in if it is a reasonable market and, frankly, will go away if it i
 together -- I don't think it changed the world all that much, and we were happy with what
 we achieved.
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 You also have increased demand coming out of model drift, as well as companies seeking
 to buy more protection. Those are some offsetting factors to what you described.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Do you have any emerging thoughts as far as willingness to engage with some of these
 new forms of capital?
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
+A - Joe Taranto {BIO 1495653 <GO>}
 
 Bloomberg Transcript
 
@@ -894,10 +732,7 @@ for us, we could engage. We are open-minded about it.
 Operator
 Michael Nannizzi, Goldman Sachs.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 One question I had -- you mentioned capital deployment before and you mentioned the
 non-renewal of this Florida contract. Thinking about capital deployment through wind
 season -- is the fact that you have less exposure now, would appear to wind season -allow you to get more comfortable with deployment through wind season?
@@ -905,10 +740,7 @@ Joe, you mentioned up front that you are deploying capital relative to the capit
 generating. My question would be, why stop there? Why not deploy more if you have
 enough capital and you feel comfortable that there is enough there to continue?
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 I think we will be buying back. In terms of going even more aggressively, let's put
 everything into perspective. Craig noted we bought back 23% of the stock in recent years.
 Frankly, we have added to that, that we plan on continuing to buy in a meaningful way.
@@ -933,22 +765,13 @@ was down. I think we have said we've kept the PML the same, but we didn't say th
 have taken them down. Our exposure, if you will, looking from a PML point of view to
 hurricane is still approximately the same in peak zones.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Even after adjusting for the non-renewal of that one large contract?
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 Yes, because we redeployed that capital to do some other excess of loss contracts.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay, and one follow-up on the home and crop stuff -- I assume that the reason that your
 losses, even in a worst-case scenario are limited or relatively bracketable, is because of
 the reinsurance program that you have? Is that all private market reinsurance? Some of
@@ -956,39 +779,24 @@ that back to the government?
 
 Bloomberg Transcript
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 What I was referring to is the stop loss program, and Craig referenced it as well in his
 opening comments. That is private reinsurance. That's not (concessions) to the federal
 government.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Is there a quota share as well, or is it purely just a stop loss?
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 Stop loss. (multiple speakers) We do have quota share with XOL.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 The growth -- and it looks like a lot of premium growth came out of international
 reinsurance -- and I just want to understand, where are you focusing your attention, and
 do you expect that, that will continue to be the engine for premium growth for the
 remainder of the year?
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 On the international side, what you are seeing -- some of that is rate increase coming out
 of Australia, coming out of Japan. A little bit continuing in Latin America. But we have been
 very strong on the international front for years. Again, I think much of what you are seeing
@@ -1006,73 +814,43 @@ Vinay Misquith, Evercore Partners.
 
 FINAL
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 First question is on the crop insurance. You mentioned that you are writing at a 95
 combined ratio. What is your loss ratio for the business that you are looking at right now?
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 I think the combined is the 95. The way we book it, it's 95 combined.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 So the loss ratio would be similar to the combined ratio, correct?
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 You have got the commission piece in there. We will get you that number in a second.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 The reason I ask is, the stop loss is at a 110 loss ratio, so I was just wanted to find out the
 apples to apples.
 
 Bloomberg Transcript
 
-A - Dom Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dom Addesso {BIO 1428096 <GO>}
 The stop loss ratio works off of the entire combined. Excluding our internal expenses,
 which are small. The loss ratio is 75%.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 All right, but looking at this apples to apples, it's 110% loss ratio versus say 90% to 95%
 that you are booking at right now, correct? That's the potential upside of loss that you
 might have?
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 Well 95 could go up another 15 points before the stop loss would begin.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 The second question was on rate increases. You have had very strong rate increases and
 that's flattening out right now. Where do you see rate increases going out next year,
 should we have a benign cat season?
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 I think they are going to level off if you have little to no cats. If they stay where they are at,
 I think they would be leveling off at a very reasonable place where there will still be some
 
@@ -1094,10 +872,7 @@ FINAL
 There are no further questions. I'd like to turn the conference back over to Mr. Joseph
 Taranto for any additional or closing remarks.
 
-A - Joe Taranto
-
-{BIO 1495653 <GO>}
-
+A - Joe Taranto {BIO 1495653 <GO>}
 I will make one comment. We didn't talk much about the casualty market, and Dom
 certainly noted that, whereas we are seeing rate increases there and it is getting more
 promising, it's still not exciting enough for us to make some bigger bets there. I would

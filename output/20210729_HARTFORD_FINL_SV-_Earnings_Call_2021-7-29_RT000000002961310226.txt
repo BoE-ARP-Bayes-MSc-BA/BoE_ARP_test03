@@ -28,10 +28,7 @@ name is Harry, and I'll be coordinating your call today. (Operator Instructions)
 I'll now hand over to your host Ms.Susan Spivak, Senior Vice President, Investor Relations
 to begin. Ms.Susan Spivak, please go ahead.
 
-Susan Spivak
-
-{BIO 1514699 <GO>}
-
+Susan Spivak {BIO 1514699 <GO>}
 Thank you, Harry. Good morning, and thanks for joining us today for our call and webcast
 on second quarter 2021 earnings. Last night, we've reported results and posted all of the
 earnings related materials on our website. For the call today, our speakers are Chris Swift,
@@ -63,9 +60,7 @@ rebroadcast in any form without the Hartford's prior written consent. Replays of
 webcast and an official transcript will be available on the Hartford's website for one year.
 I'll now turn it over to Chris.
 
-Christopher J. Swif t
-
-{BIO 3683719 <GO>}
+Christopher J. Swif t {BIO 3683719 <GO>}
 
 Bloomberg Transcript
 
@@ -200,9 +195,7 @@ prudent capital management. I am optimistic and confident we will continue to de
 our financial objectives and enhance value for all stakeholders.
 Now, I'll turn it over to Beth.
 
-Beth Costello
-
-{BIO 15349374 <GO>}
+Beth Costello {BIO 15349374 <GO>}
 
 Page 4 of 18
 
@@ -333,9 +326,7 @@ very strong results for second quarter which puts us well on our way to achievin
 financial goals we shared with you in April.
 I will now turn the call over to Doug.
 
-Doug Elliot
-
-{BIO 3700927 <GO>}
+Doug Elliot {BIO 3700927 <GO>}
 
 Bloomberg Transcript
 
@@ -457,10 +448,7 @@ products, improved risk selection and outstanding execution. I'm thrilled with o
 continued progress and look forward to updating you in 90 days.
 Let me now turn the call back over to Susan.
 
-Susan Spivak
-
-{BIO 1514699 <GO>}
-
+Susan Spivak {BIO 1514699 <GO>}
 Thanks, Doug. Operator, we'll take questions now.
 
 Questions And Answers
@@ -478,24 +466,16 @@ Date: 2021-07-29
 Thank you, Susan. Our first question comes from Greg Peters from Raymond James.
 Greg, your line will be open now, if you would like to ask your question.
 
-Q - Gregory Peters
-
-{BIO 3111497 <GO>}
+Q - Gregory Peters {BIO 3111497 <GO>}
 
 FINAL
 
 Can everyone hear me?
 
-A - Christopher J. Swif t
-
-{BIO 3683719 <GO>}
-
+A - Christopher J. Swif t {BIO 3683719 <GO>}
 Yes, we can, Greg. Welcome. Greg. Can you hear us?
 
-Q - Gregory Peters
-
-{BIO 3111497 <GO>}
-
+Q - Gregory Peters {BIO 3111497 <GO>}
 Yeah, I can hear you. Sorry about that. I don't know what was going on. Good morning. The
 first question is the outlook for growth in commercial lines. You provided a lot of detail
 around pricing and retention and the new business successes you've had and the
@@ -504,10 +484,7 @@ strong second quarter and a positive outlook with those comments.
 
 Bloomberg Transcript
 
-A - Christopher J. Swif t
-
-{BIO 3683719 <GO>}
-
+A - Christopher J. Swif t {BIO 3683719 <GO>}
 Yeah. I think the context of that Greg was in relation to GDP. So, I was speaking that GDP is
 running, what, 8%, 9%, probably 9% here and that I do expect some moderation and I'll
 call it the macro numbers. But as Doug said in his comments, and I'll let him also comment
@@ -516,10 +493,7 @@ written premium growth over the outlook period through 2022. So, we're not backi
 from that and in fact, we're probably even a little bit more bullish as we sit here today
 than we were 90 days ago. But Doug, what would you add?
 
-A - Doug Elliot
-
-{BIO 3700927 <GO>}
-
+A - Doug Elliot {BIO 3700927 <GO>}
 I would just add, Greg that when you look at small and I'll do small and middle separate,
 we had nice PYD[ph] growth in the small segments, so 2.5 to 3 3 points of PYD growth
 quarter-to-quarter, we've been on a positive pricing trend for a couple of months. What
@@ -534,9 +508,7 @@ And so, I'm bullish about where we're headed going forward, I just would point o
 we had a -- compared to second quarter 2020 that probably won't repeat itself in Q3 and
 Q4.
 
-Q - Gregory Peters
-
-{BIO 3111497 <GO>}
+Q - Gregory Peters {BIO 3111497 <GO>}
 
 Page 10 of 18
 
@@ -556,10 +528,7 @@ What are you seeing a sequential deterioration in some of these buckets as you m
 through the quarter so that when we get to the third quarter, we might see some
 continual erosion as a result of some of the factors I mentioned?
 
-A - Doug Elliot
-
-{BIO 3700927 <GO>}
-
+A - Doug Elliot {BIO 3700927 <GO>}
 So, specifically to personalize what I've shared in my comments and I can elaborate a little
 bit more here is that our auto book is seeing increased miles driven but not yet at preCOVID, pre-pandemic levels, right? So, we're still slightly better than we were in 2019. As
 we look through the COVID period, we are conscious of repair costs, we're conscious of
@@ -576,28 +545,19 @@ expectations, we expect some of those trends will be with us into the third quar
 quarter. But I think that given our trends, our expectations here haven't changed materially
 and we're on top of our selections. And I think we're in good shape as we move into Q3.
 
-Q - Gregory Peters
-
-{BIO 3111497 <GO>}
-
+Q - Gregory Peters {BIO 3111497 <GO>}
 This is a follow-up on that, Doug. When we talk about homeowners a lot of the premium
 levels are set off of replacement cost. Is this --did the inflationary pressures are causing
 you to go back and reset what the replacement costs are for your existing in-force or
 maybe you can walk me through how you approach that?
 
-A - Doug Elliot
-
-{BIO 3700927 <GO>}
-
+A - Doug Elliot {BIO 3700927 <GO>}
 Yes, we have an estimator that deals with replacement costs. And we now, on a state-bystate basis, are going back resetting that, filling that into our pricing going forward. So, the
 book does work 60, 90 days in advance but we have been working on those discussions
 since earlier part of the summer and these spikes are not going to go away. So, yes, we
 are moving insured to value adjustments across our homeowners' basic policies.
 
-Q - Gregory Peters
-
-{BIO 3111497 <GO>}
-
+Q - Gregory Peters {BIO 3111497 <GO>}
 Got it. Thank you for the answers.
 
 Operator
@@ -613,9 +573,7 @@ Company N ame: H artford Financial Services Group I nc/The
 Company Ticker: H I G US Equity
 Date: 2021-07-29
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
+Q - David Motemaden {BIO 18818634 <GO>}
 
 FINAL
 
@@ -626,20 +584,14 @@ you sort of walk through why -- obviously, still impressive margin improvement, 
 decelerated? And how you're feeling about reaching the 2 points of underlying loss ratio
 improvement target for 2021?
 
-A - Doug Elliot
-
-{BIO 3700927 <GO>}
-
+A - Doug Elliot {BIO 3700927 <GO>}
 Yeah. So, it's a consistent favorable direction moves on loss ratio. I did mention a couple
 of areas where we had volatility and property. So, if you think about small commercial and
 international global especially, a little bit in the quarter volatility that was working against
 that improvement. But yes, I'm still confident in the long-term trend and feel like our
 (inaudible) are all over our reserve picks.
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
-
+Q - David Motemaden {BIO 18818634 <GO>}
 Got it. Okay, that's helpful. And then maybe just a follow-up question on personal lines.
 So, good to see some of the initiatives here. I'm just kind of looking at the PYD growth
 and I don't think we've seen PYD growth in the last five or six years. I guess I'm wondering
@@ -649,10 +601,7 @@ some of the growth initiatives don't translate to higher growth?
 
 Bloomberg Transcript
 
-A - Doug Elliot
-
-{BIO 3700927 <GO>}
-
+A - Doug Elliot {BIO 3700927 <GO>}
 Yeah. So, why don't I start and then Chris and Beth however you want to come over the
 top. I'll start by saying that we had concluded several years back that we had to go
 through a major upgrade of our contemporary product, right. So, that is now just dropping
@@ -669,10 +618,7 @@ design that. Again, the early reaction and results are positive. So, long way to
 think this leads us to attract profitable growth. We've shared those expectations and I sit
 here today and don't feel any different about a long-term path. Beth or Chris?
 
-A - Christopher J. Swif t
-
-{BIO 3683719 <GO>}
-
+A - Christopher J. Swif t {BIO 3683719 <GO>}
 Yeah. I think you summarized it well. David, I think strategically, we're giving ourselves at
 least a couple of years after we're fully rolled out in all 50 states to really make an
 assessment. Can we compete with our differentiated product offerings? Our hypothesis
@@ -694,20 +640,14 @@ to market. So, I think it's an investment work we're making. Obviously, that's w
 what we did, but I think the -- post '22 when we're really more proactive, Doug, in all 50
 states would be the ultimate time period to watch our PYD count start to grow.
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
-
+Q - David Motemaden {BIO 18818634 <GO>}
 Great. Thanks for the color. I appreciate it.
 
 Operator
 Our next question comes from Gary Ransom from Dowling & Partners. Gary, your line will
 be open now if you'd like to proceed with your question.
 
-Q - Gary Ransom
-
-{BIO 3446828 <GO>}
-
+Q - Gary Ransom {BIO 3446828 <GO>}
 Yes, good morning. Regarding the gap between rate and loss trend, I wanted to ask not
 so much about the size of the gap, but where we are in the cycle of that gap? And looking
 at small middle specialty separately, how many years do you think we're into the period
@@ -715,10 +655,7 @@ where rates has been ahead of loss trend? I realize it might be a better answer.
 
 Bloomberg Transcript
 
-A - Doug Elliot
-
-{BIO 3700927 <GO>}
-
+A - Doug Elliot {BIO 3700927 <GO>}
 Good morning, Gary. I actually do think about the answer by segment. And I think that
 small commercial pricing curve is very different, at least it is different in our book of
 business. We've had an extended period of outstanding return. So the rate need has not
@@ -753,10 +690,7 @@ after that work as we move through the latter half of 2021.
 
 FINAL
 
-A - Christopher J. Swif t
-
-{BIO 3683719 <GO>}
-
+A - Christopher J. Swif t {BIO 3683719 <GO>}
 Gary, you of all people know given your views and writings, the impacted prickling casualty
 lines of social inflation is real. So, as we've talked internally, we need to continue to push
 for more rate, just knowing that the long-term trends have not been in our favor whether
@@ -764,10 +698,7 @@ it be in courts or whether it be in financial lines, whether it be in other casu
 exposures. And then you can't forget the (Technical Difficulty) 10-years at one point
 (Technical Difficulty)
 
-Q - Gary Ransom
-
-{BIO 3446828 <GO>}
-
+Q - Gary Ransom {BIO 3446828 <GO>}
 (Technical Difficulty) Ask a question on a different topic in group, where you showed the
 excess mortality. And if I put back the -- the excess mortality that you said developed from
 Q1, I can revise the trend to about $125 million roughly in Q1 as access excess going to $88
@@ -777,10 +708,7 @@ there? Your decline -- you're not really seeing that as much decline there?
 
 Bloomberg Transcript
 
-A - Christopher J. Swif t
-
-{BIO 3683719 <GO>}
-
+A - Christopher J. Swif t {BIO 3683719 <GO>}
 Yeah. In the dollars, I would say you're right. I mean if you look at it from dollars, but if you
 are tracking that, which I know you are like we are, I mean the drop is significant. It's -from its peak, I calculated down close to seeing 75%. What I said in my commentary, Gary,
 is at severity is up. So, if you look at the number of death claims, the average amounts
@@ -793,10 +721,7 @@ when the younger folks mortalities increased significantly, working-age, they te
 (Technical Difficulty) feel a lessening impact of excess mortality in the second half of the
 year.
 
-A - Beth Costello
-
-{BIO 15349374 <GO>}
-
+A - Beth Costello {BIO 15349374 <GO>}
 The only thing I'd add to that to, Gary, if you're looking at COVID deaths, just remind you
 that when we talk about excess mortality, it's all in excess, it's not just deaths that have a
 cause of debt that says COVID. And so when we look through our numbers, part of the
@@ -815,30 +740,21 @@ Company N ame: H artford Financial Services Group I nc/The
 Company Ticker: H I G US Equity
 Date: 2021-07-29
 
-A - Christopher J. Swif t
-
-{BIO 3683719 <GO>}
-
+A - Christopher J. Swif t {BIO 3683719 <GO>}
 That's a great point, Beth. Thank you for the clarification. The theory could be, Gary, that
 we just had less flu deaths than we know seasonally sort of expected in the numbers, but
 clearly, there was a first quarter benefit for all other excess mortality outside of COVID.
 
 FINAL
 
-Q - Gary Ransom
-
-{BIO 3446828 <GO>}
-
+Q - Gary Ransom {BIO 3446828 <GO>}
 Thank you very much for those answers.
 
 Operator
 Our next question comes from Elyse Greenspan from Wells Fargo. Elyse, your line will be
 open now if you'd like to proceed with your question.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Thanks. Good morning. My first question, I want to go back, Chris, to some of your
 opening comments. You mentioned recent elevated inflation data, but that you also got
 your loss ratio assumptions were sufficient against this, but then you guys did mention
@@ -849,23 +765,14 @@ profitability.
 
 Bloomberg Transcript
 
-A - Christopher J. Swif t
-
-{BIO 3683719 <GO>}
-
+A - Christopher J. Swif t {BIO 3683719 <GO>}
 Yes. (Technical Difficulty) issue in terms of value replacement what it will cost to repair
 facilities, buildings, etc. with what we're feeling through the cost of goods sold.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 (Technical Difficulty) Everything is still in line with your expectations?
 
-A - Doug Elliot
-
-{BIO 3700927 <GO>}
-
+A - Doug Elliot {BIO 3700927 <GO>}
 As we think it's been well-chronicled auto (Technical Difficulty) we've had better frequency
 patterns that has -- have offset some of these severity dynamics. But we are very tuned in
 to what the inflation curve is going to look like on labor and material for all of our lines and
@@ -873,10 +780,7 @@ think we're in a good spot, but we're -- can't sit here today, and say we know e
 the fourth quarter will drop here. It's going to take us several quarters to figure that out as
 data comes in.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. Thanks. And then my second question. You guys are running ahead of pace relative
 to the buyback plan you outlined for this year and some of the dividend figures you've
 provided from the subspace I think are a little bit higher than you had expected. So, is
@@ -891,9 +795,7 @@ Company N ame: H artford Financial Services Group I nc/The
 Company Ticker: H I G US Equity
 Date: 2021-07-29
 
-A - Christopher J. Swif t
-
-{BIO 3683719 <GO>}
+A - Christopher J. Swif t {BIO 3683719 <GO>}
 
 FINAL
 
@@ -904,10 +806,7 @@ the right action to manage our excess capital. And from any one quarter or any o
 period of time, there could be acceleration or deceleration depending on what we're
 seeing happening in the marketplace. But Beth, what would you say?
 
-A - Beth Costello
-
-{BIO 15349374 <GO>}
-
+A - Beth Costello {BIO 15349374 <GO>}
 Yes. I think you characterized that well, I think on the dividends on, Elyse. The range we
 tightened primarily as it relates to P&C, so we had said that we expected $900 million to
 $1 billion -- $1.1 billion and now we're at a $1 billion to $1.1 billion, so trending on the high
@@ -916,10 +815,7 @@ said when we announced the increase in the program in April that we weren't inte
 do it radically over the period and I think that the actions we've taken have shown that, so
 that's all I would add.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, thanks for the color.
 
 Operator
@@ -929,10 +825,7 @@ Bloomberg Transcript
 Our next question comes from Brian Meredith from UBS. Brian, your line will be open if
 you'd like to pursue your question now.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yeah. Thank you. Couple of them here. First, just want to get a little bit on workers comp,
 Chris and Doug. Doug, I know you've mentioned that you're looking at a loss cost filing
 here for 2022, and kind of as a key determinant to what pricing look out for workers
@@ -940,10 +833,7 @@ comp. Any early indications what those are going to look like? (inaudible) sayin
 respect to that what can we expect potentially here for workers comp pricing going
 forward?
 
-A - Doug Elliot
-
-{BIO 3700927 <GO>}
-
+A - Doug Elliot {BIO 3700927 <GO>}
 Brian, it is extremely early, but the next 30 days we jump into that season. So, I think,
 maybe one, maybe two states have hit in the last couple of days, but I don't have them
 pulled apart yet. But I do know over the next 30 to 60 days, most of the states will drop.
@@ -954,9 +844,7 @@ reporting actions, but we'll learn more through the MCCI data. And as you know, 
 they handle the bureau lost cost for 47 states. So that is a very big component of this
 country's workers comp system.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 Page 16 of 18
 
 
@@ -975,10 +863,7 @@ statement? Or are we kind of think about things a little bit different way, wher
 really see some nice big growth in new businesses as we continue to see economic
 growth?
 
-A - Doug Elliot
-
-{BIO 3700927 <GO>}
-
+A - Doug Elliot {BIO 3700927 <GO>}
 Well, economic growth is a good thing for our business. And I would say, that is probably
 partially true. I think it's true by sector. So, our pricing algorithms and our underwriting
 decision points do look at geography, they look at class, they look at sectors of class. So,
@@ -989,9 +874,7 @@ because we saw some of that in the second quarter, which is why we adjusted our 
 premium going forward, but I don't feel like the real labor unlock has occurred yet and I
 think that will provide a further spring in the second half of the year.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 
 Bloomberg Transcript
 
@@ -1001,10 +884,7 @@ product sets and the class of business that our two business leaders can -- you 
 partner on. So, that's been part of the designs just capture more of small business needs
 whether it be standard or the U.S. market.
 
-A - Doug Elliot
-
-{BIO 3700927 <GO>}
-
+A - Doug Elliot {BIO 3700927 <GO>}
 Absolutely. It's been a growing capability both obviously, in our wholesale sector and
 global specialty, but also our small commercial business has a core strategy around
 working with wholesalers in that E&S space. I would also add, Brian, to your question,
@@ -1012,19 +892,13 @@ leadership and the people that run these businesses, so not all new startups are
 that we've known, we've ensured another places, so, the startup number can be a little
 misleading. And in general, we look at economic formation as a positive for our business.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Thank you.
 
 Operator
 That was our last question for today, so I'll hand back to Susan to conclude.
 
-A - Susan Spivak
-
-{BIO 1514699 <GO>}
-
+A - Susan Spivak {BIO 1514699 <GO>}
 Thank you, Harry. We appreciate you all joining us this morning. Please don't hesitate to
 contact us if you have any follow-up questions. Thank you.
 Page 17 of 18

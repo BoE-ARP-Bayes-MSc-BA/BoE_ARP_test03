@@ -36,10 +36,7 @@ being recorded on October 20, 2020.
 At this time, I would like to turn the conference over to Ms. Abbe Goldstein, Senior Vice
 President of Investor Relations. Ms. Goldstein, you may begin.
 
-Abbe Goldstein
-
-{BIO 20602454 <GO>}
-
+Abbe Goldstein {BIO 20602454 <GO>}
 Thank you. Good morning and welcome to Travelers' discussion of our third quarter 2020
 results. We released our press release, financial supplement and webcast presentation
 earlier this morning. All of these materials can be found on our website at travelers.com
@@ -74,10 +71,7 @@ And now, I'd like to turn the call over to Alan Schnitzer
 
 Bloomberg Transcript
 
-Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you, Abbe. Good morning, everyone, and thank you for joining us today. We are
 very pleased to report third quarter core income of $798 million or $3.12 per diluted share
 and core return on equity of 13.5%. Our bottom line results this quarter reflects strong
@@ -199,10 +193,7 @@ talented workforce, we're confident that we're well positioned to capitalize on
 opportunities as the economy continues to reopen.
 And with that, I'll turn the call over to Dan.
 
-Dan Frey
-
-{BIO 20727678 <GO>}
-
+Dan Frey {BIO 20727678 <GO>}
 Thank you, Alan. Our core income for the third quarter was $798 million, generating core
 ROE of 13.5%, both up significantly from core income of $378 million and core ROE of
 6.5% that we reported in the prior-year quarter. These increases resulted primarily from
@@ -347,10 +338,7 @@ Now, I'll turn the call over to Greg for a discussion of Business Insurance.
 
 Bloomberg Transcript
 
-Gregory C. Toczydlowski
-
-{BIO 16615940 <GO>}
-
+Gregory C. Toczydlowski {BIO 16615940 <GO>}
 Thanks, Dan. Business Insurance produced $365 million of segment income for the
 quarter, a significant increase over the prior-year quarter with prior-year development,
 underlying underwriting income and net investment income, all contributing to the yearover-year increase. The underlying combined ratio of 94% improved by almost 2 points
@@ -405,10 +393,7 @@ With that, I'll turn the call over to Tom.
 
 Bloomberg Transcript
 
-Thomas M. Kunkel
-
-{BIO 16615934 <GO>}
-
+Thomas M. Kunkel {BIO 16615934 <GO>}
 Thanks, Greg. Bond & Specialty delivered solid returns and growth in the quarter, despite
 the ongoing headwinds of COVID-19. Segment income was $115 million, a $24 million
 decrease from the prior-year quarter as the benefit of higher volumes was more than
@@ -451,10 +436,7 @@ be pleased with our strong execution and feel confident about our ability to nav
 through this challenging environment and continue to deliver strong returns over time.
 And now, I'll turn it over to Michael to discuss Personal Insurance.
 
-Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+Michael F. Klein {BIO 19674145 <GO>}
 Thanks, Tom, and good morning, everyone. In Personal Insurance this quarter, we are very
 pleased with our continued execution in the marketplace as we delivered excellent
 profitability and grew net written premiums by 8% achieving record levels of domestic
@@ -556,10 +538,7 @@ We are very pleased with our performance so far this year, and I'm proud of our 
 efforts to continue to deliver results, while investing in the business for the future.
 Now I'll turn the call back over to Abbe.
 
-Abbe Goldstein
-
-{BIO 20602454 <GO>}
-
+Abbe Goldstein {BIO 20602454 <GO>}
 Thank you very much. Operator, we're ready to start Q&A.
 
 Questions And Answers
@@ -569,10 +548,7 @@ Zaremski from Credit Suisse. Your line is open.
 
 Bloomberg Transcript
 
-Q - Michael Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Hey, good morning. Thanks. First question, if we can talk about some of the reserve
 changes during the quarter. Thanks for the commentary, I believe, Greg when you were
 talking about business -- the BI segment, you didn't mention any additions to general
@@ -580,10 +556,7 @@ liability and I believe that had been -- you'd been adding to that for in prior 
 you confirm if that's was indeed the case and maybe just overall to Alan or Greg if you
 guys can talk about whether your view has changed at all on overall lost expense trend?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. Good morning, Mike, it's Alan. Let me start with loss trend and then maybe I'll turn it
 over to Dan to talk about prior-year development. So in the quarter, putting aside for a
 second the direct COVID losses, in the quarter generally what we saw was favorable loss
@@ -595,10 +568,7 @@ cautious about that. But we didn't see anything in the quarter that surprised us
 us to think that that loss trends were deteriorating. And Dan why don't you comment on
 PYD.
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Sure, Mike. So just to go through Business Insurance PYD just for a second, quick recap of
 the summary. So it ended up being about $220 million unfavorable all-in, that's driven by
 about $295 million as we said on asbestos. Then there was favorability from BI's portion
@@ -621,8 +591,7 @@ that we issued more than 20 years ago. And then we didn't mention the other line
 because there was really very modest activity in the other lines some pluses and some
 minuses that basically net to zero.
 
-Q - Michael Zaremski
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Okay, that's helpful. My last question is, I guess in regard to the overall competitive
 environments. Alan in your prepared remarks you talked about expect continued
 momentum in the marketplace. I mean, I guess, I think what we're trying to get
@@ -635,14 +604,9 @@ maybe just some more color Alan, do you guys -- when you say continued momentum,
 you expect pricing to continue moving higher or are these levels kind of good enough for
 you guys to start kind of chipping away at offsetting some of the investment pressure?
 
-A - Alan D. Schnitzer
-
 Bloomberg Transcript
 
-{BIO 20606248 <GO>}
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. Of course, Mike it's related to added loss trend so we're definitely making progress
 at these levels and we're not going to give pricing outlook. But we do choose our words
 pretty carefully and I'll tell you that, the fact of the matter is that, for us and for the
@@ -654,26 +618,17 @@ have some capacity issues in some lines as there are some markets that are pulli
 on capacity. So we think this broader environmental -- all of these broader environmental
 trends will continue to provide positive momentum in the marketplace.
 
-Q - Michael Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Michael Zaremski {BIO 20606248 <GO>}
 Thank you.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
 Operator
 Our next question comes from the line of Ryan Tunis from Autonomous Research. Your
 line is open.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Hey, thanks. Good morning. I guess my first question is, it sounds like the COVID benefits
 you're enjoying are frequency-based, mostly short tail lines. So I should take that to mean
 Page 12 of 25
@@ -690,25 +645,16 @@ average loss trend? Correct.
 
 FINAL
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Yeah, Ryan, it's Dan. That's right. So we are -- as we've said, I think last quarter and this
 quarter trying to be cautious in our assessment of the net impact of COVID. There is
 some benefit in the shorter tail lines, but we're trying to be pretty cautious in terms of
 how much that we recognize in the current accident year.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 And in terms of the casualty coverages, as you mentioned. Yes, that's correct.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Right. And I totally understand. I'm just trying to get some perspective on -- clearly, we
 don't know what frequency is going to be, there could be delays in reported claims et
 cetera, but just from your seat looking at the type of claim activity, it's come in through the
@@ -717,19 +663,13 @@ that I guess we're not at this point seeing in results yet?
 
 Bloomberg Transcript
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. We're reluctant to put a number on that. I think we're not going to do it Ryan, but -and frequency it does develop but it develops certainly a lot more quickly than severity is,
 I mean you know if the phone rings or the phone doesn't ring. But I think we're going to
 leave it as we've recognized some of it because there was enough of it that we could not
 recognize some of it, but we've been pretty cautious in the assessment.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Got it. And then the other follow-up I had I guess probably for Dan is, thinking about just
 the aggregate treaty. I guess it kind of worked this year, but it also kind of didn't because
 we're going into the fourth quarter and we've gone through the top. How are you thinking
@@ -737,17 +677,11 @@ about the strategy about reinsuring cats, I guess, heading into '21? Are you thi
 doing more aggregate cover or maybe going lower? Is that something that we should
 expect potentially be a catalyst for next year?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Hey, Ryan. Before Dan answer that question, I'll just insert that I think the treaty actually
 worked just fine, it was the weather that didn't work so well. But, Dan, why don't you take.
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Ryan, I think we'll do as we would do for reinsurance in any -- going into any year, we'll
 make an assessment of price versus risk and then decide what and how much we're
 going to buy. I think I'd say in summary, we're glad that we've had that treaty for the last
@@ -770,10 +704,7 @@ that we're a gross lines underwriter. And we said a couple of years ago, it felt
 was a little more uncertainty in the weather environment, and so we wanted to have that
 treaty and we're glad we had it and we'll see how that plays out going into next year.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 And the other thing I would add to that Ryan is, and Dan is exactly right, we bought that
 because we were -- wanted to acknowledge the incremental uncertainty that we felt after
 some wildfire losses, I guess in '17 and '18. But as I mentioned in my prepared remarks,
@@ -781,16 +712,10 @@ we've taken pretty substantial steps to try to get that risk reward in balance. 
 also factor into our view of the value of that reinsurance treaty and the terms we can get
 it on next year.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Thanks.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
 Bloomberg Transcript
@@ -798,25 +723,16 @@ Bloomberg Transcript
 Operator
 Our next question comes from the line of Brian Meredith from UBS. Your line is open.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes, thanks. My first one I guess is maybe some commentary about workers' comp, I
 mean I think that given where interest rates are at some point we should start to see that
 line, see some positive rate momentum because that's an important component. But
 what are you seeing kind of what are your thoughts on that line right now?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Greg, do you want to take that?
 
-A - Gregory C. Toczydlowski
-
-{BIO 16615940 <GO>}
-
+A - Gregory C. Toczydlowski {BIO 16615940 <GO>}
 Yeah, you bet. Good Morning, Brian. First, we like our longstanding competitive and
 economic advantages that we've got out of that line and that's why we're the largest
 writer in it in the U.S. and ensure there is a little bit of pricing reductions going through that
@@ -840,17 +756,11 @@ comp. So we continue to feel good about the portfolio and the future of that lin
 
 FINAL
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 And maybe with that improvement in select, was that due to comp maybe getting a little
 less competitive, the rate in select?
 
-A - Gregory C. Toczydlowski
-
-{BIO 16615940 <GO>}
-
+A - Gregory C. Toczydlowski {BIO 16615940 <GO>}
 Well, all both select and middle market are clearly going to follow the linear trend of the
 bureau's loss cost recommendations. And so, in the select business where it's more of a
 flow business, where you file that rate structure, you feel it more there than you would in
@@ -858,56 +768,34 @@ middle market where you have experienced margin discretionary pricing and you lo
 the individual exposure rather than file at a state level. So a little more sensitive to the
 reductions in select than you would see in middle market.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. And then just one quick follow-up for Dan. The aggregate cover this quarter, is it
 possible to break out how much of that benefit is kind of non-cat weather versus cat
 losses?
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
+A - Dan Frey {BIO 20727678 <GO>}
 
 Bloomberg Transcript
 
 Yeah, Brian, I gave it actually in my prepared remarks. So...
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 I'm sorry, I missed it.
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 It's quite all right. We said, so $280 million was the total recovery, $233 million went to cat
 and $47 million went to underline.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 And that's largely in the personal lines?
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 The split is a little different between the two. The cash split is about 50-50 PI/BI, the noncat split goes more like 70-30 PI/BI.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Very helpful. Thank you.
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
+A - Dan Frey {BIO 20727678 <GO>}
 Page 15 of 25
 
 
@@ -925,10 +813,7 @@ FINAL
 Our next question comes from the line of Elyse Greenspan from Wells Fargo. Your line is
 open.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi, thank you. Good morning. My first question is also on the aggregate cover. So given
 that you guys have exhausted that cover and this is a comment that is specific to Business
 Insurance. How can we think about the improvement within the underlying loss ratio that
@@ -936,10 +821,7 @@ you could see there in the fourth quarter? I guess we could expect some kind of
 headwind from non-cat weather, just given the absence of the aggregate or how should
 we think about the fourth quarter?
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Elyse, it's Dan. The aggregate -- so as I just said in response to Brian's question, not a big
 deal to the underlying for Business Insurance in the third quarter. So it got about 30% of
 the $47 million that was non-cat. So you could think about that for BI as not being more
@@ -947,35 +829,23 @@ than 20 or 30 basis points in terms of its impact on the quarter.
 
 Bloomberg Transcript
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. So if we adjust BI for that and then also for like the COVID benefit that you guys
 pointed out earlier, is that a good type of kind of run rate to think about for some margin
 improvement that we could see in the fourth quarter?
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Well, I don't think I'd expect the COVID impact to cease as of September 30th. Certainly
 the cat recovery, the treaty recovery is all contained in the third quarter, and you could
 take that out for sure. I'm not sure anybody knows what exactly the impact of COVID is
 going to be in the fourth quarter.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Or what weather volatility is going to look like. And I think we're going to get away
 generally from trying to forecast margins. But happy to take some modeling questions
 offline, if that's suppose Elyse, so we can.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Yeah. And then my second question was on the expense ratio. Dan, I think you said that
 30% was kind of a good run rate, but as we're thinking and like maybe this is less
 guidance, but I think you guys did guide with at least that. As you're getting a good
@@ -995,10 +865,7 @@ making internally?
 
 FINAL
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 I think those are the considerations, Elyse, that will go into what it ends up being. I do
 think, to the degree that we can get some bottom-line growth, we would -- could be in a
 position to continue to see some leverage on the expense ratio. But as we've said, a
@@ -1009,16 +876,10 @@ buck down the road or let some of that come through the bottom line. All I was r
 trying to communicate was that, we don't -- we're not seeking a dramatic change in the
 expense ratio from where we are right now.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, that's helpful. Thanks for the color.
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Thanks, Elyse.
 
 Operator
@@ -1028,19 +889,13 @@ Bloomberg Transcript
 And our next question comes from the line of Josh Shanker from Bank of America. Your
 line is open.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Yeah, good morning everybody. Two unrelated questions. The first one is about surety
 and can you talk a little bit about the premium volume looked pretty reasonable in the
 Bond & Specialty business, what are we seeing in terms of COVID economy for
 construction starts and whatnot?
 
-A - Thomas M. Kunkel
-
-{BIO 16615934 <GO>}
-
+A - Thomas M. Kunkel {BIO 16615934 <GO>}
 Yeah, this is Tom. Josh, good morning. When you think about surety, if you break it up to
 the non-construction and the construction side, our regular non-construction surety is
 holding up quite nicely. But with all of the decline in tax receipts and the difficulties that
@@ -1049,10 +904,7 @@ driving the drop-off in surety written premium. And so we will have to wait and 
 the Federal Government does with any stimulus that might involve construction because
 certainly states and other entities have shovel ready projects.
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Is there implication for things that have already begun construction, is there a risk that we
 start seeing issues with surety claims because they're not able to be finished?
 
@@ -1066,10 +918,7 @@ Date: 2020-10-20
 
 FINAL
 
-A - Thomas M. Kunkel
-
-{BIO 16615934 <GO>}
-
+A - Thomas M. Kunkel {BIO 16615934 <GO>}
 There are two different issues. As far as the project stopping and unless they were
 ordered to stop by Government authority, I wouldn't expect to see a project that is
 ongoing, stopping. And then as far as the slower economy causing additional defaults,
@@ -1079,28 +928,19 @@ pursuing work and shrinking the size of their company when times are lean. So we
 lot of pride in our contractors and really manage that portfolio. And we think different
 sureties will perform differently throughout this.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Josh what I'd just add to that is we're underwriting that commercial surety -- the
 construction surety book today the same way we did in financial crisis, and it performed
 pretty well through that. So we can't give any assurances, who knows, but we feel pretty
 good about our underwriting practices and the people who are making the decisions to
 put business on the books.
 
-A - Thomas M. Kunkel
-
-{BIO 16615934 <GO>}
-
+A - Thomas M. Kunkel {BIO 16615934 <GO>}
 Yes.
 
 Bloomberg Transcript
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 And then sort of a philosophical question, if we go back in time maybe 10 years, I don't
 know, when you came up with the Travelers definition for catastrophes, and of course, it
 varies from the PCS definition. It seems as time goes on the risk associated with non-cat
@@ -1109,10 +949,7 @@ between your definition and the PCS definition still useful or we got onto a poi
 the reasons for that difference are starting to create a certain volatility in results that we
 wouldn't otherwise hope to see?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah, Josh. We think about that a lot, so I appreciate the question and maybe someday
 offline we'd love to get your thoughts on it. I mean, our view is, from an economic
 perspective, the losses are going to be what they're going to be whether they get
@@ -1136,15 +973,10 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2020-10-20
 
-Q - Joshua Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Joshua Shanker {BIO 5292022 <GO>}
 Thank you.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 
 FINAL
 
@@ -1154,10 +986,7 @@ Operator
 And our next question comes from the line of Paul Newsome from Piper Sandler. Your line
 is open.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 Hey, good morning. Thanks for the call and answers. I was hoping you could home in on
 the competitive environment of the auto insurance business in particular. It -- seeing in the
 market different things from rate environment obviously you're doing what you're doing,
@@ -1167,18 +996,13 @@ environment moves up with what you're doing in the home insurance business where
 you're clearly growing and -- my sense is the home insurance businesses is pretty much
 an outright hard market, so a different situation? So those are the two questions.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 
 Bloomberg Transcript
 
 Michael?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Thanks, Paul. It's Michael Klein. So on the competition in auto, certainly, we are seeing
 market rate drop and I think it's fair to call it an intensifying competitive environment. That
 said, for the most part, notwithstanding some of that headline numbers you see from
@@ -1214,30 +1038,19 @@ property market in Personal Insurance, as we've described it, our objective is t
 property while improving profitability and that's the path we've been on and will continue
 to be on.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 I guess what I was trying to ask was, is there -- how much is the length between the
 willingness to grow in the home versus the auto?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 I would say, we look at it as a portfolio. Our strategy is to be a portfolio provider and work
 with our partners to provide total account solutions to customers. And so we are actively
 seeking to grow both lines and again at target returns.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 Great, thank you. Appreciate it.
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
+A - Michael F. Klein {BIO 19674145 <GO>}
 
 Bloomberg Transcript
 
@@ -1247,20 +1060,14 @@ Operator
 Our next question comes from the line of David Motemaden from Evercore ISI. Your line is
 open.
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
-
+Q - David Motemaden {BIO 18818634 <GO>}
 Hi. Thanks and good morning. Just had a question just on NII and the impact it has on ROE
 for the firm and so the NII guide of $420 million to $430 million after-tax per quarter. I
 guess do you think that you can get enough margin expansion to offset the NII drag to
 keep ROE stable in this environment? And is there enough pricing and margin expansion
 underneath where you can actually improve ROEs in this interest rate environment?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. Well, we think the answer to that is yes. And if you look at written rate versus loss
 trend, margins are improving from here. And we're not going to give guidance, so I'm not
 going to predict whether we will or whether we won't, but I mean certainly interest rates
@@ -1268,10 +1075,7 @@ and investment income are an input into our pricing model. And so there is certa
 direct link between the investment return we're getting on the product and the price
 we're charging for it.
 
-Q - David Motemaden
-
-{BIO 18818634 <GO>}
-
+Q - David Motemaden {BIO 18818634 <GO>}
 Page 20 of 25
 
 
@@ -1288,10 +1092,7 @@ wondering if you could elaborate a bit on what gives you confidence that you're 
 rate in excess of trend. Just given the uncertainty around the loss environment, quotes
 being closed and just generally the unpredictability of losses in the current environment?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. So just to be clear, we look at rate versus loss trend on a written basis and that's the
 rate number you see in production statistics and we've shared before our view of loss
 trend, that one point was sort of the earned impact of rate and earned loss trend, so two
@@ -1312,36 +1113,25 @@ Bloomberg Transcript
 Our next question comes from the line of Yaron Kinar from Goldman Sachs. Your line is
 open.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Hi. Good morning, everybody. First question around workers' comp, so clearly or I'm
 assuming there is a frequency benefit from non-COVID claims. On the other hand, I would
 think that frequency benefit could ultimately result in some severity increase further down
 the road. Is that a fair way of thinking about it? And if so how are you think of the lost
 specs with that build dynamic?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 It's certainly a possibility and we contemplate that. So yes there is some favorability in
 non-COVID related frequency, but we do contemplate when we think about longer-term
 trends and when we think about the profitability of the product that there could be down
 the road some increased severity due to really delayed access to healthcare. So we do
 contemplate that. It's a possibility.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay. And is that reflected in the (inaudible) or is that something that you'll be thinking
 about as you move into 2021 and then beyond?
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
+A - Dan Frey {BIO 20727678 <GO>}
 
 Page 21 of 25
 
@@ -1357,45 +1147,30 @@ consider that as we think about the product on a go-forward basis.
 
 FINAL
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Got it. And then Alan I know you and the firm have been vocal about social inflation trends
 particularly in commercial auto the last couple of years, with quotes being shut down now
 certain reopened, like are you seeing any change in the trend or is it too difficult to tell just
 given all the corporate related noise today?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah, I guess what I can share is we didn't see anything that caused us to believe that
 there was any deterioration in those trends. And what we saw was, again as I said a few
 times, favorable. We think the extent to which it's favorable is a temporary phenomenon.
 So I guess that's why I didn't answer the question. Nothing in the quarter that caused us to
 think it was deteriorated.
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Yeah. At the same time, we certainly don't think that social inflation is going away. And so
 our long-term expectation is that the sort of elevated levels of losses that we've seen
 related to social inflation probably persist.
 
 Bloomberg Transcript
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Got it. Thank you for the answers.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
 Operator
@@ -1406,10 +1181,7 @@ Hi, good morning. So first, I just had a question on pricing in the workers' com
 Obviously, it's been declining. Are you seeing any signs of stability in that or any -- what
 are your views on where that's headed?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah, I think I'll Jimmy I'd repeat what we said last quarter, which is when we look at our
 data we look at the data coming out of the rating bureaus. We would think that we are
 somewhere near an inflection point, whether it's now or in the coming quarters, not really
@@ -1433,10 +1205,7 @@ it seems like the reinsurance prices are obviously going up at decent amount, wh
 any sort of initial indications of your views on sort of price versus risk given what's going
 on in the reinsurance markets versus last year?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. I mean, we certainly expect reinsurance pricing to go up. That's one of the factors
 that's driving our pricing and the pricing generally in the primary market going up and we
 think that's going to persist. But I guess the thing I would add is that relates to us is, we
@@ -1453,10 +1222,7 @@ whether to start buying back stock again?
 
 Bloomberg Transcript
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 I think, Jimmy, still overall economic uncertainty, right. So even as we sit here today, what's
 the depth and the duration is going to be of economic downturn, is there going to be a
 second dip in the economy, how quickly are COVID cases going to be brought under
@@ -1469,19 +1235,14 @@ buybacks.
 Q - Jamminder Bhullar
 Okay. Thanks.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
 Operator
 And we have time for one further question. Our final question today will come from the
 line of Meyer Shields from KBW. Your line is open.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 Page 23 of 25
 
@@ -1498,27 +1259,18 @@ of similar approach taken to reserve reviews in the quarter?
 
 FINAL
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Meyer, it's Dan. I'm not sure I quite understand the question. So the reserves will be a
 result of the loss picks that we made in the current accident year during the quarter.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Right, so when you are -- so if I understand correctly there is an overall conservatism
 because of the fact that things are developing differently as we work our way through the
 COVID and the economic ramifications, and I'm wondering whether that conservatism had
 sort of an unusual impact on the selections you made with regard to reviewing prior
 period reserves as well?
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Yeah, I wouldn't think so. I think the comment that Alan just made a few minutes ago
 around the impact of courts being closed and settlements being down, we see some
 disruption in the data, but we're not taking that as a favorability in the development
@@ -1526,40 +1278,25 @@ patterns that we're sitting on a long-term basis.
 
 Bloomberg Transcript
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, that's helpful. Second follow-up if I can really quickly, just how should we think about
 the impact on return on equity or on indicated pricing if corporate tax rates go up?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. Taxes are an input in the income statement like any other expense. So it flows
 through our -- flows through the models.
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Yeah. So that would be one of the many things that gets factored into our pricing.
 Obviously, it wouldn't just impact us, it would impact the economy more broadly. And as
 Alan said a bunch of times, I think if we feel like we've got a level playing field with our
 experience in our risk selection expertise, we'll do just fine. But for sure it'll be an input
 into what the pricing environment is to be going forward.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, fantastic. Thank you so much.
 
-A - Dan Frey
-
-{BIO 20727678 <GO>}
-
+A - Dan Frey {BIO 20727678 <GO>}
 Thanks, Meyer.
 
 Page 24 of 25
@@ -1575,10 +1312,7 @@ I would now like to turn the call back to Abbe Goldstein for closing remarks.
 
 FINAL
 
-A - Abbe Goldstein
-
-{BIO 20602454 <GO>}
-
+A - Abbe Goldstein {BIO 20602454 <GO>}
 Thank you all very much for joining us this morning. And as always if you have any followup, please feel free to reach out to Investor Relations. Hope everybody has a good day.
 Thanks.
 

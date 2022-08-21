@@ -29,10 +29,7 @@ Conference Call. All participants will be in a listen-only mode. After today's p
 there will be an opportunity to ask questions. Please note this event is being recorded.
 I would now like to turn the conference over to Linda Ventresca. Please go ahead.
 
-Linda Ventresca
-
-{BIO 5930519 <GO>}
-
+Linda Ventresca {BIO 5930519 <GO>}
 Thank you, Emily, and good morning, ladies and gentlemen. I'm happy to welcome you to
 our conference call to discuss the financial results for AXIS Capital for the fourth quarter
 and year ended December 31, 2015. Our earnings press release and financial supplement
@@ -82,10 +79,7 @@ please refer to our press release and financial supplement which can be found on
 website.
 With that, I'd like to turn the call over to Albert.
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, Linda, and good morning, ladies and gentlemen. Thank you for joining us
 today. Last night, AXIS reported fourth quarter operating income of $120 million, or $1.23
 per diluted share, and annualized operating ROE for the quarter of 9.2%. For the full year,
@@ -183,10 +177,7 @@ our financial performance. Joe?
 
 Bloomberg Transcript
 
-Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+Joseph C. Henry {BIO 13390626 <GO>}
 Thank you, Albert, and good morning, everyone. During the quarter, we generated good
 results which included operating income of $120 million and an annualized operating ROE
 of 9.2%. Our net income for the quarter was $135 million compared to $164 million in Q4
@@ -400,10 +391,7 @@ And with that, I'll turn the call back over to Albert.
 
 Bloomberg Transcript
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, Joe. Before opening up the call to questions, I'll provide an update on market
 pricing, our January 1 reinsurance renewal and a progress report on our 4 point profit
 enhancement plans. As with the rest of the market, we experienced continued pricing
@@ -606,10 +594,7 @@ Operator
 Thank you. We will now begin the question-and-answer session. Our first question is from
 Mike Nannizzi of Goldman Sachs. Please go ahead.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Thanks so much. I guess one question, Albert, just looking at the results and kind of trying
 to parse the points, maybe starting with reinsurance. Joe gave some reasons as to the
 change year-over-year. But it sounds like those are changes that are likely going to
@@ -622,10 +607,7 @@ around this level?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Well, reinsurance is a cyclical business, and so I think we've seen periods where the
 industry delivered high combined ratios and very low combined ratios, and there is no
 question that currently, we're following three years of price declines. I am not of the view
@@ -661,33 +643,23 @@ Date: 2016-02-03
 floor of what we can tolerate in many lines, and if we don't see changes, we'll simply write
 less of it.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 
 FINAL
 
 Got it...
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Mike, it's Joe... go ahead. Why don't you ask your question first, and then I will come back.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Sure. So, it sounds like just absent a change in the market, I mean, in terms of you
 changing, everyone changing, tolerance for lack of profitability goes down, absent a
 change in the market, there isn't something one-timey, there isn't something about this
 quarter, you know, that we should think that this is not indicative of where this business is
 currently running. Is that fair?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -698,16 +670,10 @@ structuring and frankly differentiating ourselves and demonstrating to our partn
 clients and our partners that we are adding value, and that we need to be adequately
 compensated for that value.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 But I'm sorry – yeah. Go ahead, Joe.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Yeah. Let me just jump in here. So, there is about a point in our reinsurance segment
 combined ratio related to loss sensitive features. This is hard for you to see, but basically
 because we release reserves from prior years, and you know that we've had $75 million
@@ -717,10 +683,7 @@ of our credit and our motor reinsurance agreements. So I would say, there is som
 unusual, if you will, acquisition cost impacts due to the release of prior year reserves due
 to these loss sensitive features. So I just want to point that out.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. Got it. And sorry, just to follow-up there. If you're reducing exposure to property
 cat, which even with deteriorating pricing is still probably on a notional basis among sort of
 the more profitable business, and you're replacing with long tail casualty business, that's
@@ -735,9 +698,7 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2016-02-03
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 FINAL
 
@@ -753,45 +714,30 @@ the view that when we look at the reduced volatility, the enhanced diversificati
 from a return on risk perspective, from a return on capital perspective, our book of
 business today is better than it was in 2012.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. And then just one last one on the expense ratio in insurance. Joe, what was the
 impact of that tax item and – just trying to get an idea of sort of what the normalized
 profitability looked like in 4Q? Thanks.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Yeah. It was $8 million for the group, $7 million to insurance and $1 million to reinsurance.
 
 Bloomberg Transcript
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. Great. Thank you.
 
 Operator
 Our next question is from Amit Kumar of Macquarie. Please go ahead.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Thanks and good morning. Just maybe a quick follow-up to Michael's question on the
 discussion of losses. So, if I understand this correctly that the losses, the attritional and
 mid-sized losses in both segments, that was more a function of changes in business mix,
 external events, and hence no corrective actions are needed specifically in the AXIS book.
 Did I understand that correctly or I missed the point there?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I think that are really two different issues, if you would, and in fact one of the benefits of
 being at AXIS is we have both insurance and reinsurance, so we have the ability to hop
 back and forth. I think with regard to insurance, and we should look at the two issues.
@@ -851,10 +797,7 @@ through the way we approach our portfolios. And we know where we want to be, we
 know what we're doing, and we're very comfortable that we do not – that we're going to
 be an island of stability in an industry that is really going severe dislocation.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Got it. That's helpful. Maybe the next question is for Joe. In terms of the reserve release
 in the reinsurance segment, I think you talked about methodology. And can you just
 expand on that or maybe give more color on the lines or time periods where those
@@ -867,9 +810,7 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2016-02-03
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
+A - Joseph C. Henry {BIO 13390626 <GO>}
 
 FINAL
 
@@ -879,25 +820,16 @@ and almost across all accident years. Clearly, the emphasis is on the earlier ye
 we've just seen very positive development both on all lines of business and virtually all
 accident years.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Got it.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 And I think you mentioned that, I think you know the longer tail are pre-2010 type of
 releases. And to the extent that we released any reserves in the years post-2010, they've
 essentially been associated to the shorter tail lines where we've now seen enough
 maturity.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Got it. And then just final question on the buyback. Obviously, you talked about returning
 100% of earnings and you have a meaningful buyback. How should we think about sort of
 the timing of that buyback? Is that more front end loaded for 2016? Any thoughts on that
@@ -905,40 +837,26 @@ or is it more sort of following the past patterns? How should we think about tha
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yeah. No. It would not be front end loaded, Amit. As you know, we look at this on a
 quarter-by-quarter basis, we're committed to returning our operating earnings and more
 than our operating earnings, if again, we do not identify anything that make sense from a
 bolt-on type acquisition or frankly opportunities in the business itself.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Got it. Thanks.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Just to add to that, we have been subsequent to the expiration of the ASR buying back
 shares through a 10b5-1. So we are in the market.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Got it. Okay. Thanks. Thanks for the answers.
 
 Operator
 Our next question is from Cliff Gallant of Nomura. Please go ahead.
 
-Q - Cliff H. Gallant
-
-{BIO 1854853 <GO>}
+Q - Cliff H. Gallant {BIO 1854853 <GO>}
 Page 16 of 27
 
 
@@ -956,10 +874,7 @@ ago, it appears that on the – it's like a Southeast hurricane or for a Califor
 that, particularly on the high end of the one in 250 event, that the exposure is up, it looks
 like it's up about 15%. Could you talk why that is?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Sure. I think the simplest way to say is we got to look at gross in that. I think what you find
 is that when you compare this to 1/1/2015, you will find that they are still down, and so in
 fact on a gross basis we are writing less. The very simple fact is that we had a level of
@@ -976,18 +891,12 @@ will act on it.
 
 Bloomberg Transcript
 
-Q - Cliff H. Gallant
-
-{BIO 1854853 <GO>}
-
+Q - Cliff H. Gallant {BIO 1854853 <GO>}
 Okay. Thank you. Actually as a follow-up, you mentioned growth in your cyber line of
 insurance, and I was curious as to, if you could talk a little bit about what exactly is being
 covered in that? Is that more sort of, what you call it, a data breached type of protection?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 We have different kinds of protection that we provide and they are really meant to meet
 the needs of our target clients. Most of our book of business is aimed at small-to-mid
 market accounts who are looking to respond to data breaches and address any kind of
@@ -996,16 +905,10 @@ third-party liability in the event of those, that tends to be more in our – in
 account crowd. But the AXIS PRO division which offers our cyber policy is essentially a
 small-to-mid market account division.
 
-Q - Cliff H. Gallant
-
-{BIO 1854853 <GO>}
-
+Q - Cliff H. Gallant {BIO 1854853 <GO>}
 Okay. Thank you, Albert.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you.
 
 Operator
@@ -1021,19 +924,13 @@ Our next question is from Kai Pan of Morgan Stanley. Please go ahead.
 
 FINAL
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Good morning. Thank you. First question on your sort of the outlook for the margin
 improvement, 4 basis points to 5 basis points – about 100 basis points through 2017. I just
 want to clarify that margin is based on the underlying margin of the ex-cat and the reserve
 releases. Is that right?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yeah. It certainly is ex-cat and reserve releases. I think that at the end of the day, we
 believe that – we believed when we made that statement and there were significant
 actions that we could do to improve the underlying profitability of the book. And as I
@@ -1052,18 +949,12 @@ loss ratio is steadier and lower and we want to make sure that our exposure to t
 volatile cat lines and volatile cat risks are appropriate for our portfolio and add an
 appropriate level of volatility not an excessive level of volatility.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 That's great. You also mentioned that the target is excluding any pricing pressure. I just
 wonder given that we'll continue to see on the pricing side, do you see part of that
 improvement will be offset by continued pricing pressure?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Well, I think it is. And the reason we differentiated it is we didn't want to talk about pricing
 improvements that could be helped simply by the markets or areas that we don't have full
 control over, which is the pricing. What we can do is determine what risks we write. What
@@ -1076,9 +967,7 @@ and trend continues to be adverse, it would offset some of that benefit. But we 
 have the opportunity to have our own improvement based on what we do, no matter
 what happens in the market.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
+Q - Kai Pan {BIO 18669701 <GO>}
 Page 18 of 27
 
 
@@ -1093,10 +982,7 @@ as well as your underwriting exposure to the energy sector?
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Well, we do have a large presence in the energy area. We write all forms of energy,
 whether it's onshore or offshore or renewable energy. As you know it is an industry that
 has significant properties at risk and we've been a leading participant in that line of
@@ -1119,38 +1005,23 @@ recognized and differentiated expertise in energy line, upstream and downstream 
 think we will continue to be a leader in that area. The next question is with regard to
 investments and Joe, you may want to talk about that.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Yeah. Kai, it's not material. Our investment team actually has been de-emphasizing
 energy as a class in the investment portfolio for a while. At the end of the year it's about
 $250 million.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 That's in like alternative investments or in like in bond portfolio?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 No, it's more in the bond portfolio.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay, great. And lastly if I may on to follow-up on the buyback, it looks like authorization
 remaining $734 million is much bigger than your earnings for the past few years and I just
 wonder is that upper limits or is that, you plan to fully execute on that?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I find the authorization is really an administrative issue because our board is very
 responsive and shares our commitment to good capital stewardship, so we increased the
 
@@ -1169,30 +1040,19 @@ buy back stock, when we need more authorization, we will get it.
 
 FINAL
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you so much for all the answers.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 You're welcome.
 
 Operator
 Our next question is from Meyer Shields of KBW. Please go ahead.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 Bloomberg Transcript
 
@@ -1200,10 +1060,7 @@ Thanks, good morning. Albert, I guess as an underwriting question. Is it just co
 that the same year that energy crisis and projects plummeted, you saw an increase in this
 type (01:00:21) losses?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 It is in my mind a total coincidence, I mean we could go back and take a look at some of
 the events that have happened and they are truly fortuitous and we feel comfortable that
 they are not a reflection of the underlying economics. I will bring up that. In energy, we
@@ -1219,10 +1076,7 @@ you that I have personally seen a number of cases where we've non-renewed large
 accounts, where we started to have concerns that maintenance and CapEx was being
 reduced.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, thank you, that's very helpful. When you talk about moving to smaller casualtyfocused accounts, does that require a material change in distribution strategy, in other
 words, do you have to write (01:01:58)?
 Page 20 of 27
@@ -1235,10 +1089,7 @@ Date: 2016-02-03
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 That's an excellent question. And in fact, we do have access to multiple sources of
 premium, and here I'm speaking on our insurance side. It's true that if you look at the retail
 operations of the large top three they of course do a lot of large accounts, but even the
@@ -1262,10 +1113,7 @@ market and in our E&S division, we do a fair number of small accounts too.
 
 Bloomberg Transcript
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Meyer, it's Joe, I'll just add two things to that. We have re-engineered certain of our
 operations, you mentioned – Albert just mentioned AXIS Pro. Some of the things we've
 done there have increased productivity of our underwriters by 30%, and in addition to
@@ -1273,25 +1121,16 @@ that we've made some significant IT investments which will enable us to handle s
 and mid-sized accounts more effectively as well. So, I think we're well positioned from an
 underwriting standpoint and well positioned from an operational standpoint to handle it.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thanks Joe.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. That's very thorough (64:37). Thank you very much.
 
 Operator
 Our next question is from Brian Meredith of UBS. Please go ahead.
 
-Q - Brian Robert Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Robert Meredith {BIO 3108204 <GO>}
 Thanks. A couple questions here for you, Albert, just curious, if I look back over the last
 couple of years since you announced your target of 400 basis points, the rate pressure
 
@@ -1308,20 +1147,14 @@ fair assumption?
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yeah, I'd say there's about a couple of points, I'd say a tad under a couple of points todate, but again when I look at our book, I think that we're probably in line with the rest of
 the industry. I don't believe that there is anything unique in what we're doing. I think what
 we have again is the fact that we now have a running start and real momentum in digging
 into our portfolio and looking for ways to optimize it even in the declining rate
 environment.
 
-Q - Brian Robert Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Robert Meredith {BIO 3108204 <GO>}
 Got you, got you, good. And then the next question, I'm just curious. If I look at your
 reinsurance division, you talked about reducing your cat exposure there, is there some
 way that we can kind of quantity that as we look at kind of projecting out a cat load, or
@@ -1329,10 +1162,7 @@ something we can think about?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Well obviously, I think we give you a – you know we do disclose though the property and
 cat writings and so you can always put in a target ratio against those numbers. What I will
 say is that when I look at our historical average cat loss over the last 15 years, you know
@@ -1345,18 +1175,12 @@ we've said all along, we are very happy to have industry average volatility, I t
 business we're in and we should do that, but we will make sure that we do not have
 excessive volatility versus the industry.
 
-Q - Brian Robert Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Robert Meredith {BIO 3108204 <GO>}
 Okay great. And then last quick question here, I'm just curious, the mid-sized loss activity
 that you experienced this year, is there anything you can do from a reinsurance
 perspective to mitigate that or do you think it's just not worth it, doing it?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Look, we could certainly have had, we can certainly, ex post facto, create a reinsurance
 program that would have provided cover for that, but the issue that I would make to you
 is that we do not believe that that is an economically good idea. Because as I've
@@ -1386,10 +1210,7 @@ continuing to stay at a high level, we will revisit that, but for the moment we 
 position that this is just a very unusual frequency of losses and we're obviously monitoring
 to see if it goes back to a normal level or not.
 
-Q - Brian Robert Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Robert Meredith {BIO 3108204 <GO>}
 Got you. Thank you. And then last question just quickly, as you move more into some of
 the more casualty lines and the mix shifts that way longer tail, what are your thoughts on
 interest rates and how are you kind of thinking of the kind of return on capital for those
@@ -1397,10 +1218,7 @@ lines versus the property lines?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Certainly, I think we face the same issues that everybody else does, which is that low
 interest rates have not been beneficial to the insurance industry and we certainly would
 like to see that improve. I think that some of the casualty pricing has responded by – since
@@ -1414,26 +1232,17 @@ some very good returns. The ROEs on casualty frankly are among some of the best 
 we have in our book. So that is not preventing us from writing good casualty business
 today.
 
-Q - Brian Robert Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Robert Meredith {BIO 3108204 <GO>}
 Great. Thank you.
 
 Operator
 Our next question is from Vinay Misquith of Sterne Agee. Please go ahead.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Hi. Thank you. So first is on the reinsurance business. The accident year combined ratio excat's 99% for the fourth quarter. We shouldn't be looking at that as a run rate for the
 future, correct. Shouldn't we be looking at it more on a full year basis?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I think you should look at it from a portfolio basis and you should look at it again on an
 annual basis because reinsurance by definition tends to be a little bit more volatile, and as
 Page 23 of 27
@@ -1458,18 +1267,13 @@ business is such that it would assume trends that are worse than we are seeing i
 industry today. And if we're doing our job right, I believe that it's more likely than not that
 these loss ratios that we're putting up will prove very resilient.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay, that's helpful. The second question was on share repurchases, my sense was, this
 year you guys had about $300 million if I'm correct? And that seems to be sort of in line
 with earnings and you received the breakup fee. I'm just curious why there was more
 share repurchases not done this year?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
+A - Joseph C. Henry {BIO 13390626 <GO>}
 
 Bloomberg Transcript
 
@@ -1480,18 +1284,12 @@ we basically were negotiating against ourselves. I'll just say, just give you an
 bought back about 328,000 shares since the ASR has expired just in the last couple of
 weeks.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure. Now you know but the fact that you guys got about $280 million more last year than
 your earnings, shouldn't we be expecting that that sort of gets returned back to
 shareholders too?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I think we – look, I'll go back to the statement I made earlier. If you look back over the last
 five years we've always given back 110% including via the breakup fee. Again we are active
 in the market. There is a limit to what we can do on a daily basis. We have to maintain an
@@ -1502,10 +1300,7 @@ the termination of the ASR and we're already in the market. There is a limit to 
 we can buyback without affecting the price of the shares, and as Joe said, you know
 competing against ourselves.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 So, fair enough, thank you.
 
 Page 24 of 27
@@ -1522,19 +1317,13 @@ Byrnes of Janney.
 
 FINAL
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Great
 
 Operator
 Please go ahead.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Great. Thanks for squeezing me in here. Just had some questions on the reinsurance
 book going back to that, again from remixing the underwriting this year, it was kind of a 3
 point headwind to the underlying combined ratio. Is the remixing done, again I am just
@@ -1543,10 +1332,7 @@ be the same similar type level?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I don't think so, I mean look, we start with the statement that every renewal is an
 opportunity to create the best portfolio that we can. And I think, we have to let our
 underwriters build the best portfolio that they can at every point in time but the truth is we
@@ -1561,19 +1347,13 @@ satisfied with the mix of business that we have. And so, I am not looking to pro
 reduce that the mix of cat in our portfolio but we do have to respond appropriately to
 conditions in the market.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Okay, great. Thank you. And I just have – one last one from me, the weather derivative
 book seems to adding a level of volatility to your earnings. I am just wondering if that is – if
 you're comfortable with that level of volatility and maybe just get your thoughts on that
 obviously, it was a very warm winter so far.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I think one of the issues with that is that yes, because it's a book that just have a lot of
 derivatives than the mark-to-markets and those – these things do add volatility.
 
@@ -1611,30 +1391,18 @@ strong franchise in that area.
 
 Bloomberg Transcript
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Ryan, its Joe. The only thing I'll add is that this is commensurate with our share of the
 market. So, not unusual. The market is experiencing a pretty big loss in this area and this is
 commensurate with our market share.
 
-Q - Ryan Byrnes
-
-{BIO 16902592 <GO>}
-
+Q - Ryan Byrnes {BIO 16902592 <GO>}
 Okay, thanks. Thanks, guys.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Okay.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you everybody and I really appreciate your interest in the questions and for that
 reason, I'm sorry that we extended beyond our usual hour. Obviously, if you have any
 additional questions please feel free to reach us through Linda and if so, thank you and

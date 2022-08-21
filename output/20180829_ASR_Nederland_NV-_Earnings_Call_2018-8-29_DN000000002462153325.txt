@@ -28,10 +28,7 @@ Good day, and welcome to the Investor Call Interim Results ASR H1 2018 Conferenc
 Today's conference is being recorded. At this time, I would like to turn the conference
 over to Michel Hulters. Please go ahead sir.
 
-Michel Hulters
-
-{BIO 19111905 <GO>}
-
+Michel Hulters {BIO 19111905 <GO>}
 Thank you, Operator. Good morning, ladies and gentlemen, welcome to the ASR
 conference call on our ﬁrst half year result. On the call with me today are Jos Baeten our
 CEO, Chris Figee the CFO. And Jos will kick-oﬀ as customary with an overview, the
@@ -42,10 +39,7 @@ that's convenient for you the disclaimer that we have in the back of the present
 any forward-looking statements and the disclaimer.
 So, having said that, Jos, the ﬂoor is yours.
 
-Jos Baeten
-
-{BIO 2036695 <GO>}
-
+Jos Baeten {BIO 2036695 <GO>}
 Thanks, Michel and good morning everyone. Good to have you all here. Thank you for
 joining us on this call. Ladies and gentlemen, as you have seen from our this morning
 Page 1 of 24
@@ -252,10 +246,7 @@ at a Capital Markets Day in October this year.
 Having said this, I would like to hand over to Chris for further details on our capital and
 solvency. Chris the ﬂoor is yours.
 
-Chris Figee
-
-{BIO 18815839 <GO>}
-
+Chris Figee {BIO 18815839 <GO>}
 Very good. Thank you very much Jos. Ladies and gentlemen please turn to page 10 where
 we start to talk about our solvency. Firstly, apologies for my voice. Fortunately, our
 solvency is better than my voice, still better than the other way around. But my voice
@@ -444,9 +435,7 @@ Company Name: ASR Nederland NV
 Company Ticker: ASRNL NA Equity
 Date: 2018-08-29
 
-Jos Baeten
-
-{BIO 2036695 <GO>}
+Jos Baeten {BIO 2036695 <GO>}
 
 FINAL
 
@@ -470,10 +459,7 @@ Bloomberg Transcript
 Thank you. (Operator Instructions) We can now take our ﬁrst question from Cor Kluis from
 ABN Bank. Please go ahead.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Good morning. Cor Kluis, ABN AMRO, I have a couple of questions. First of all, about the
 (inaudible) Solvency II. Could you elaborate a little bit more on the category markets and
 operational developments, which is minus 53 million, and that includes of course the UFR
@@ -486,10 +472,7 @@ the macro-environment. And the last question is about the bank and asset manager
 which had quite strong results in the ﬁrst half. Is this kind of a run-rate or was there
 something one-oﬀ in -- that's all my questions.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Great, good Cor. Chris here. Thanks for your questions. I'll take them all for one by one.
 On the book, on market development, indeed it was minus 53. I mean, key driver of
 course was the UFR decline. Had it not been for the UFR decline, this thing would have
@@ -570,49 +553,31 @@ point of solvency, which is where we wanted, actually we'd like it to go further
 I wouldn't double the number, I would be careful just to take, full year is twice half year.
 But we'll continue to see some growth in the asset management earnings.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Okay. Helpful. And the 12% return coming back on your re-risking, you said around 20
 million or something in extra proﬁt stream pre-tax.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 No, it's 75 million of required capital right, so that if you think about the current solvency is
 194 which means 75 million required capital is about up to 5% of ratio impact. So again
 that 12% on the required capital is more like 10 million to 15 million.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Okay. Okay. Useful.
 
 Bloomberg Transcript
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 It is also a numerator and denominator eﬀect. If you spend 5% on the denominator, the
 total ratio you need to multiply by the ratio itself. So 5% is after the multiplication eﬀect.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Okay. Very clear. Thank you.
 
 Operator
 Thank you. Next question comes from Albert Ploegh from ING. Please go ahead.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Yes, good morning. Thank you for taking my questions. I have basically three. One is on
 the Life earnings, which it really were quite strong. In your opening remarks, you already
 mentioned and also couple of time not to double for the full year. I recognize the impact
@@ -640,10 +605,7 @@ Competitor for yours disclosed that you made quite some upfront investment costs
 already for the implementation. Yeah, is there anything in the results of ASR already and
 what are your thoughts on the potential impact of IFRS 17? Thank you.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Thank you, Albert. I'll take the ﬁrst two. Chris will answer the last one. On the Life
 earnings, yes, it's right that we said you shouldn't double it, and your assumption that if
 you take out the dividends and could you double it then, the answer is, yes. So, the
@@ -659,10 +621,7 @@ market share, but not at the price of getting sloppy on how we look at risk.
 
 Bloomberg Transcript
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Okay, Albert on your question on IFRS 9, IFRS 17, to be honest Albert, the mood in this
 Group is very cheerful this morning. But now as you're mentioning IFRS 9, and 17 it's
 darkening a bit, you know, we're repeating our (inaudible). In the ﬁrst half year we spent
@@ -671,16 +630,10 @@ set this on 3 million, I think the second half we'll spend probably at least ano
 probably more 5 million in the second half of the year. We'll try to keep our costs as low
 as possible, be as constrained as possible, that's kind of the realistic perspective on this.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay. And any thoughts on, let's say, actual implications of IFRS 17 or 9?
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Again, many. Early days, I think we'll spend some time on this in our Capital Markets Day
 in October. Perhaps not then to the full extent because if we're all trying to read tea leaves
 here (Technical Diﬃculty) IFRS 9, IFRS 17 we postponed one year over two years. I mean,
@@ -701,9 +654,7 @@ Date: 2018-08-29
 color on what it means, but it depends also a bit on what we get and what we learn on the
 timing from paper [ph].
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
+Q - Albert Ploegh {BIO 3151309 <GO>}
 
 FINAL
 
@@ -712,10 +663,7 @@ Okay, thank you. Thank you very much.
 Operator
 Next question comes from Matthias De Wit from Kempen. Please go ahead.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Hi, good morning and thank you for taking the questions. The ﬁrst one is on the Life
 business. You referred to the decline due to the acceleration of lapses linked to the
 mortgage prepayments. Just wonder if you could expand a bit on this. So, what are, for
@@ -732,10 +680,7 @@ organic growth in the premiums to tweak pricing and volume, and is there anythin
 can say in general on the pricing environment you're currently observing in the non-life
 business? Thanks.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 All right. Matthias, on Life, the unexpected lapses, and the unexpected lapses were up.
 We said to ourselves, we think the book growth -- when we IPO-ed our business, we said
 our book will decline in terms of premiums, in terms of policies by about 9 to 10 -- 9 point
@@ -797,26 +742,18 @@ estimate side than in the cost element. So, and then when it comes to unit cost 
 estimates, we feel comfortable in that area. Hope that answers your -- it's a lengthy
 answer, but it gives you some color on the lapse development.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Yeah. (Multiple Speakers) yeah, sorry, can I just very brieﬂy follow up regarding, I know,
 correctly, you were assuming rising unit cost assumptions for both funeral, individual Life,
 and group Life, is that still the case or?
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Yeah up to a certain -- not eternally up to -- there some reason. So you can't -- in 2014 you
 deﬁned all the cost on one policy. So there's gradual increase up to a certain point
 mitigated by long-term some varialization. But our cost assumptions in our best estimate, I
 would not see them as very aggressive in light of the book development.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
+A - Jos Baeten {BIO 2036695 <GO>}
 
 Page 14 of 24
 
@@ -846,10 +783,7 @@ Netherlands is only a December a product where people can -- can make a new choi
 for their insurance company. So general pricing conditions still favorable in terms of
 better margins going forward.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Okay, very clear. Thanks a lot.
 
 Bloomberg Transcript
@@ -858,10 +792,7 @@ Operator
 (Operator Instructions) Next question is from Farooq Hanif from Credit Suisse. Please go
 ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi there guys, thank you very much. Could you comment again on your plans for internal
 model. I know it's a pain to do it. And you've talked about in the past, but it seems to me
 that, as you think about growing inorganically and given EIOPA et cetera, et cetera, it
@@ -871,10 +802,7 @@ you gave on slide 15, do they also work on a kind of rating agency framework, wh
 look at ﬁnancial leverage and interest coverage ratio. So do you think you could raise that
 much debt and remain within tolerable levels? Thank you.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Okay, hey Farooq it's Chris. On the internal model, couple of perspectives. As -- if you
 look at our solvency level today, standard formula, there is no immediate need or
 immediate beneﬁt to go to an internal model. As you will say, we could report a higher
@@ -924,19 +852,13 @@ acquisition, make an investment, you know, put the money to work, it could make 
 So I think, at today's rate and today's balance sheet there is no constraints from either our
 own balance sheet or rating agency perspective.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Can I just come back on one thing, sorry, this is actually a third question. But just on the
 great development that you've had in bank and asset management and all of the feebased businesses. What is your ability to grow further inorganically there. I mean, it seem
 the payback from what you've been doing has been great. So is that something that you
 are -- is constantly on the radar as well still?
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 So Farooq maybe one more comment on your -- on the pieces on debt. It's not that we're
 just now about to got to massively do debt ﬁnance acquisitions, but we have the
 headroom to do it. It would also dependent on what you're actually doing with it. If you
@@ -969,10 +891,7 @@ portfolio, warehousing then turning into a fund. Thinking more about those buy a
 type of initiatives rather than pursuing a big standalone asset manger at current
 valuations.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thank you very much. Thank you.
 
 Operator
@@ -980,10 +899,7 @@ Next question comes from Robin van den Broek from Mediobanca. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Yes. Good morning, everybody. Thank you for taking my questions. Sorry to going back
 on the bank asset management and distribution services. But last year you seemed to
 show quite a bit of seasonality on H2 versus H1. So I appreciate the comment you made
@@ -1002,9 +918,7 @@ elaborate on that a little bit that would be very, very handy. Thank you.
 With operationally, I mean, basically integrating the asset, is it a binding constraint that
 you can only do one or can you do more at the same time basically.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
+A - Chris Figee {BIO 18815839 <GO>}
 
 Page 17 of 24
 
@@ -1028,9 +942,7 @@ being assigned. So you have always this seasonality when money comes in. So ther
 be growth in the asset management fees, it's just not something you double because it
 depends on actually how the pattern of new inﬂows actually evolves.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
+A - Jos Baeten {BIO 2036695 <GO>}
 
 Bloomberg Transcript
 
@@ -1046,10 +958,7 @@ in the P&C business, that's more through the year a consistent picture both our 
 more in disability and there it is more loaded in ﬁrst quarter and last quarter.
 That to the seasonality on distribution. Chris, on the economic UFR?
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Well, the economic -- the setting and determination of the economic UFR is actually quite
 an elaborate process. It's not that there two guys in a room (inaudible) let's take a number.
 We look at the actual returns we make on the investment portfolio and then we run an
@@ -1064,10 +973,7 @@ results are done, when the strategic asset allocation review has been done. That
 is underway and implementing and that's when we do the annual economic UFR
 reassessment. So it's an annual thing done around March-April.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 And on your last question, the M&A ﬂexibility from a more operational point of view, I
 think Chris already elaborated a little bit on the room to maneuver that we do have
 Page 18 of 24
@@ -1103,19 +1009,13 @@ from mid next year.
 
 Bloomberg Transcript
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Okay, that's very helpful. Maybe Chris one follow-up on the economic UFR. I mean, I
 guess it's some sort of game between stock and ﬂow, but is there any implication
 connected to the fact that you've raised it on how you look at M&A as well or is it
 irrelevant?
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 No, it's not linked to M&A, it's more -- it gives you more feeling our -- well, in essence, it
 gives you some feeling on our capital capacity right. If the UFR move from 2.2 to 2.4 from
 our perspective, we believe that if you compare that number 154 to say 120, there is a
@@ -1129,10 +1029,7 @@ not that mean, it's that comes ﬁrst and how we spend it comes later, it's not 
 spending plan comes ﬁrst and then (inaudible) how we're going to make up UFR that ﬁts
 this plan. That's not the way we work.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 That's very clear. Thanks.
 Page 19 of 24
 
@@ -1147,10 +1044,7 @@ Next question comes from Andrew Baker from Citi. Please go ahead.
 
 FINAL
 
-Q - Andrew Baker
-
-{BIO 20402705 <GO>}
-
+Q - Andrew Baker {BIO 20402705 <GO>}
 Hi, thank you for taking my questions. Just two questions please. First is on the individual
 Life systems. I know you converted two in this period to the software as a service platform.
 Can you just remind me how many are left in the queue and what the approximate timing
@@ -1163,10 +1057,7 @@ impacts to your ratio at this point? Thank you.
 
 Bloomberg Transcript
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 On the individual Life systems, the software as a service system, Andrew, is a system which
 we don't own. So we only pay the variable cost per policy. There are two in the queue
 currently, one of that is a portfolio of our own and the other one is the Generali portfolio.
@@ -1176,10 +1067,7 @@ that would be a next jump in lowering the cost in our Life business. But that's 
 in our targets to lower the cost according to the less -- the decrease of the portfolio. So
 that's already in the plan, those lower costs.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Yeah, on the EIOPA review of the standard formula, Andrew. If you go through the entire
 report, which I hope you do not do, but if you were to do it, (Technical Diﬃculty) we could
 be aﬀected or it could impact us, which is the capital charge for rate risk, which is
@@ -1218,10 +1106,7 @@ substantiated. So, depending on how far you want to stretch yourself in that ﬁ
 neutral to possibly a small positive given the fact that the tightening of our interest rate
 hedge. And if you reduce (Technical Diﬃculty) small rate shock.
 
-Q - Andrew Baker
-
-{BIO 20402705 <GO>}
-
+Q - Andrew Baker {BIO 20402705 <GO>}
 Very clear. Thank you.
 
 Operator
@@ -1229,10 +1114,7 @@ Last question comes from Ashik Musaddi from JPMorgan. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Hi, good morning, Baeten and Chris. I have three questions, if I may. So ﬁrst of all, I mean,
 if I read the press release and your presentation, it looks like you're talking about rerisking your assets versus full year '17. But then if I look at one of the slides, which is where
 you had shown the market move -- the SCR movement, slide number 26. So that says that
@@ -1254,10 +1136,7 @@ Solvency II capital generation dropped by 7% year-on-year whereas your IFRS earn
 was only down 1%. And in past two years as well that similar trend has been visible 2017
 versus 2015. So, any thoughts on these three questions would be very helpful. Thanks.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 Yeah, Ashik, it's Chris, I think you referred to page 26, in these you can see our market risk
 down by 63. That market risk reduction actually is a result of various moving parts. In the
 ﬁrst half year, real-estate risk was up a tiny bit, equities is virtually stable in a portfolio,
@@ -1285,10 +1164,7 @@ So in the ﬁrst half, market risk X rates went up tiny bit. It was net negative
 rate risk charge. And (Technical Diﬃculty) will go up again. But that will be of a classical
 (inaudible) credit equity and some on mortgages.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Sorry, just a follow-up on that, I mean, sorry, just a follow up on that, you're mentioning
 that you're shortening the duration of credit and you are taking hedges on interest rate.
 So how does that stack up with your duration matching or cash ﬂow matching year-onyear. Is that not getting changed because it's, I mean, I think, last year as well, you
@@ -1297,10 +1173,7 @@ on shortening your duration, does that match with your cash ﬂow proﬁle or du
 
 Bloomberg Transcript
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 No, because we also have a signiﬁcant derivatives program. So, the interest rate
 management is a function of corporate bond, swaps and swaption. So it's a mix of the
 thing that works. So we've tightened the interest rate risk on a total holistic basis in that
@@ -1310,16 +1183,10 @@ swap at swaptions portfolio that is still the rounding to make sure the total in
 risk is where it is. But we felt at this point, in the ﬁrst half year, that was more basically,
 slightly less duration credit plus more elongated swaps than the other way around.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
-
+A - Chris Figee {BIO 18815839 <GO>}
 And on the UFR, you've slightly misunderstood me. Our apologies for that. I think the
 solvency of UFR of 2.4 is 154 right. That is it's not UFR of zero, but UFR of 2.4 is 154. Our
 VA eﬀect is around 10, where one point of VA is one point solvency eﬀect. So if you were
@@ -1339,9 +1206,7 @@ Date: 2018-08-29
 there would be mechanical consequences for tiering, I get to 113. So and with the UFR of
 2.4, is 154%.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 FINAL
 
@@ -1350,15 +1215,10 @@ Yeah. Got it. That's clear. Thank you.
 Operator
 That concludes the question --
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 And the third question on IFRS.
 
-A - Chris Figee
-
-{BIO 18815839 <GO>}
+A - Chris Figee {BIO 18815839 <GO>}
 
 Bloomberg Transcript
 
@@ -1372,20 +1232,14 @@ When it comes to headline IFRS numbers, I think therefore we move more in sync, 
 you see slightly less capital gains than we had last year and a good contribution to the
 Generali social plan cost just on the reorganization of Generali.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. That's very clear. Thank you.
 
 Operator
 Thank you. That concludes today's questions. I will now turn back to the host for any
 additional or closing remarks.
 
-A - Jos Baeten
-
-{BIO 2036695 <GO>}
-
+A - Jos Baeten {BIO 2036695 <GO>}
 Well, thank you. Hopefully this call was helpful to answer all your questions. We were
 happy to do so. We look forward to meet you all at our Capital Markets Day at the 7th of
 October. And in the meantime, we continue to deliver on our medium term targets and

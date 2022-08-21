@@ -14,9 +14,7 @@ Other Participants
 Joshua Shanker
 
 Presentation
-Joshua Shanker
-
-{BIO 21718992 <GO>}
+Joshua Shanker {BIO 21718992 <GO>}
 
 Bloomberg Transcript
 
@@ -40,10 +38,7 @@ We're going to try and I guess do this in a little bit of alphabetical order I g
 don't you begin tell us a little about what you're doing in AIG. And then, we'll go out to
 each of you and then I'll start asking some questions.
 
-Tracie Grella
-
-{BIO 19460769 <GO>}
-
+Tracie Grella {BIO 19460769 <GO>}
 Okay. Thank you, Josh. Thank you for having me here today. I'm Tracie Grella, I'm the
 Global Head of Cyber Risk at AIG. And in my role, I'm responsible for managing cyber
 Page 1 of 15
@@ -72,18 +67,12 @@ So, we've been writing cyber insurance for over 20 years. We're a leading carrie
 transition and we are playing an instrumental role in insurance industry as in helping
 improve the security of our organization.
 
-Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Joshua Shanker {BIO 21718992 <GO>}
 Thank you. Phil, tell us a little about what you're doing at Corvus?
 
 Bloomberg Transcript
 
-Philip Edmundson
-
-{BIO 18065064 <GO>}
-
+Philip Edmundson {BIO 18065064 <GO>}
 Hey. Thanks, Josh. It's pleasure to be here with you and the other panelists. I'm the CEO
 and Founder of Corvus Insurance. We're InsurTech company that broadly uses new types
 of data to predict and prevent commercial insurance claims and to deliver value to our
@@ -100,10 +89,7 @@ policyholders know what they can do to prevent vulnerabilities from being exploi
 because we understand the same view of their organizations that the cybercriminals hold.
 So love this conversation, great panelists. Thanks for inviting me.
 
-Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Joshua Shanker {BIO 21718992 <GO>}
 And Josh, tell us about Elpha Secure and what you're doing in the market?
 
 Josh MacDonald
@@ -133,9 +119,7 @@ needs. So think of Elpha really as progressive snapshot for auto, but we're also
 seatbelts, airbags and breaks in the car.
 
 Questions And Answers
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
+Q - Joshua Shanker {BIO 21718992 <GO>}
 
 Bloomberg Transcript
 
@@ -149,10 +133,7 @@ municipalities and small businesses who might not be even aware that they need i
 now? Can you sort of scale the market, Tracie, for us to give us a sense of what we're
 talking about here?
 
-A - Tracie Grella
-
-{BIO 19460769 <GO>}
-
+A - Tracie Grella {BIO 19460769 <GO>}
 Yes. So there are lots of estimates about the size of the market. It's a little difficult to
 determine the actual size because of the way cyber exposure is embedded in multiple
 products. So it's not consistently captured from sources and from all industries across all
@@ -182,10 +163,7 @@ a robust and vibrant market.
 
 FINAL
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 Now, I'm just keep going through questions, although somebody feels like something's
 open-ended wants just type in, you can interrupt me, the more information we get the
 better. Can we talk a little about structuring, I guess? So some risks are small and a
@@ -200,10 +178,7 @@ what's going on?
 
 Bloomberg Transcript
 
-A - Philip Edmundson
-
-{BIO 18065064 <GO>}
-
+A - Philip Edmundson {BIO 18065064 <GO>}
 Josh, I'll give that a try and then I'll connect that to your first question as well, because I
 think this is more interesting color there. But you're right. Organizations are buying more
 insurance and frequently they need to use multiple insurers. Many insurers are reducing
@@ -243,20 +218,14 @@ horizontal towers of placements.
 
 FINAL
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 And for the smaller companies, I guess there's more risk flexion institutions that I want to
 know is, one is when there are large losses, is everybody on them? And the extent to
 which the market, I guess how big is the market -- is the market bigger for these large
 conglomerates and large corporations buying cyber or is it bigger for the many, many,
 many smaller entities who're buying little bits of protection each? I guess --
 
-A - Tracie Grella
-
-{BIO 19460769 <GO>}
-
+A - Tracie Grella {BIO 19460769 <GO>}
 Yes, all carriers have -- there's a number of different underwriting processes, we even
 mentioned some of the things that we were doing as we opened up. And so carriers have
 different appetite right now and are targeting different types of business, whether it's
@@ -275,10 +244,7 @@ strategy is to only place in high excess placements. So yes, there to peg back w
 said, there are plenty of large losses where half of like the major carriers are probably not
 even on the loss.
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 And in terms of market right now, I guess, this is to Josh. I wonder if some of that is that
 stage of the markets in right now, at a stage where most players or some players are
 looking just to breakeven and learn about the debt that's necessary to become a great
@@ -320,9 +286,7 @@ inform their underwriting and pricing moving forward and de-risk their book as m
 possible. So I think that the view that you proposed has considerably more merit moving
 forward than it did historically.
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
+Q - Joshua Shanker {BIO 21718992 <GO>}
 
 Bloomberg Transcript
 
@@ -338,10 +302,7 @@ escaping the perception. Tracie, to your estimation, is there something that I s
 of as a cyber cat event where the industry sort of understands that this the major risk
 looming out there and is paying the price for that outcome?
 
-A - Tracie Grella
-
-{BIO 19460769 <GO>}
-
+A - Tracie Grella {BIO 19460769 <GO>}
 The big concern for cyber insurers is systemic risk and that's what we've been focused on
 from the beginning of measuring the threat. So a lot of work goes into accumulation
 modeling and scenario development around the type of catastrophic event that we can
@@ -384,9 +345,7 @@ critical. If you're behind the firewall and you can see what their actual patchi
 then we can actually underwrite to that better and we'll have a more exact underwriting
 science than there what currently exists.
 
-A - Philip Edmundson
-
-{BIO 18065064 <GO>}
+A - Philip Edmundson {BIO 18065064 <GO>}
 
 Bloomberg Transcript
 
@@ -404,10 +363,7 @@ and more tools, the tools we use and I think that Josh and Tracie use are able t
 risk at the individual account level so that we can put together portfolios that are able to
 be at least partially securitized in risk transfer.
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 So I guess the answers sure are getting to my next question a little bit. If you look at this
 as a 20-year sort of line of business that was truly in its invitation 20 years ago, what were
 the initial data and variables that the industry was relying on -- early on in the process,
@@ -429,10 +385,7 @@ Date: 2021-06-30
 
 FINAL
 
-A - Philip Edmundson
-
-{BIO 18065064 <GO>}
-
+A - Philip Edmundson {BIO 18065064 <GO>}
 The insurance industry over the course of my career, I have seen several new products
 emerge and get broad acceptance. And this is obviously one of those. The cyber risk
 started by as an outgrowth of professional liability of companies like AIG to Lloyd's of
@@ -459,10 +412,7 @@ initially the industry overpriced risk. Now, the cybercriminals have taken the u
 and we'll have to find a new equilibrium here in the coming years. I don't think it's going to
 be months, it's going to be years before it settles.
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 And then to understand the claim side of the equation. So I mean, in the past decade or
 so, some of the -- or maybe five years, some of the more -- some of the more notable
 events have been the Equifax data hack, the Kohl's data hack, the Colonial Pipeline hack.
@@ -506,10 +456,7 @@ ransomware. So that's really the evolution that we've seen from one threat vecto
 being or one threat being massive PII aggregation, which we still see to sort of the
 unknowns that we are facing with ransomware right now.
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 And is it -- is the rise in ransomware an outgrowth of crypto? Like, again, can ransomware
 exist without crypto?
 
@@ -526,19 +473,13 @@ cybersecurity for companies that are doing business on the internet, that would 
 lot of ransomware claims on its own. So there's a lot of different factors that go into it. But
 crypto certainly does play its part.
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 I'm going to pause for a second, because we have some questions from the audience. I
 have more questions, but I'll ask some of theirs. Can you make some comments about
 cyber reinsurance? Seems like that's much harder to price. Do you guys have any thoughts
 about the reinsurance markets for the audience? Anyone can answer.
 
-A - Tracie Grella
-
-{BIO 19460769 <GO>}
-
+A - Tracie Grella {BIO 19460769 <GO>}
 I can't comment about the pricing of the reinsurance market, but the reinsurance market
 is certainly an important piece of the market for cyber. Many carriers are using reinsurance.
 And again, to use that, there's systemic risk exposure. So we're spreading the risk out,
@@ -566,19 +507,13 @@ aggregation. So capacity is starting to become tight and will probably be tight 
 to come. A lot of large primary carriers do rely heavily on quota share reinsurance. And so
 that pressure supply, I think, will really start to increase and continue for quite some time.
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 And the second question is while prices are up due to claims currently, have terms and
 conditions changed as well? Is -- can insurers buy the product they want? Is it available on
 the market? Or is -- or you can't even get, at this point, the amount of protection or the
 product you're looking for?
 
-A - Philip Edmundson
-
-{BIO 18065064 <GO>}
-
+A - Philip Edmundson {BIO 18065064 <GO>}
 Well, there are certainly exceptions, and there has been some tightening on terms, but
 not as broadly as there has been on pricing. So certainly, what not everyone realizes, I
 think, is that there's a lot of levers inside a cyber insurance policy. It's much more complex
@@ -589,10 +524,7 @@ may see some restrictions. But broad coverage is still available.
 
 Bloomberg Transcript
 
-A - Tracie Grella
-
-{BIO 19460769 <GO>}
-
+A - Tracie Grella {BIO 19460769 <GO>}
 And a lot of the restrictions that are being introduced in the market are really incentive to
 help organizations improve their security. So you might see restrictions. But if a company
 can improve their security, we're giving guidance out, these types of controls that need to
@@ -603,10 +535,7 @@ For those that can't or aren't investing now or something we hear a lot that thi
 but it does take time and it will be over the next couple of months, the next year, there
 will be restrictions on cover.
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 So when I think about ransomware, it triggers my head as an insurance guy that it
 somewhat relates to the old kidnap and ransom policies. And there was part of that which
 was the payment and protection for the buyer to pay those claims and get back their
@@ -626,9 +555,7 @@ Company N ame: American I nternational Group I nc
 Company Ticker: AI G US Equity
 Date: 2021-06-30
 
-A - Tracie Grella
-
-{BIO 19460769 <GO>}
+A - Tracie Grella {BIO 19460769 <GO>}
 
 FINAL
 
@@ -643,9 +570,7 @@ certainly working with the insurers through this matter and helping to give a si
 to recover in a most cost-effective way. But definitely a number of experts have to come
 and be involved in this type of negotiation and discussion.
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
+Q - Joshua Shanker {BIO 21718992 <GO>}
 
 Bloomberg Transcript
 
@@ -662,10 +587,7 @@ Will the hackers get more sophisticated at the same pace that cyber hygiene is
 improving? And so we're going to be at this equilibrium in -- for the foreseeable future?
 Phil, I guess I'll go with you on that question.
 
-A - Philip Edmundson
-
-{BIO 18065064 <GO>}
-
+A - Philip Edmundson {BIO 18065064 <GO>}
 Josh, that is a great question. And I think you got to the most difficult part at the end
 there, is, will the cyber hackers, the cyber criminals continue to grow in sophistication? Will
 they be able to continue to hide under the protection of certain governments or in other
@@ -713,10 +635,7 @@ improvement across the board, I think, will make a significant impact.
 
 Bloomberg Transcript
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 I guess something that Phil said does tell about a relationship between cyber hackers and
 state sponsorship. To what extent are there going to be successful cyber hackers without
 the protection and funding of a state sponsored, a state as a bad actor being a funder, a
@@ -728,19 +647,13 @@ much. But what's the linkage? We're going to go talk about terrorism a little bi
 going to talk about flying a little bit. It can go anywhere. So you guys can take wherever
 you want.
 
-A - Philip Edmundson
-
-{BIO 18065064 <GO>}
-
+A - Philip Edmundson {BIO 18065064 <GO>}
 Yes. Josh, we rely on the reports from the FBI and the law enforcement agencies to
 answer that question. And that certainly points out the fact that in many cases, if not statesponsored, there are state defenders of these attacks. But honestly, most of the events
 that we respond to, the party on the other side may have a code name, but they are
 otherwise pretty opaque and are mostly successful in staying that way.
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 So after September 11, 2001, the insurance industry had gummed up, because nobody
 wanted to -- no one really know how to price, really want to take the risk of a terrorist
 event becoming a property cat destruction for a lot of small -- risks large and small. And
@@ -764,10 +677,7 @@ we right now? And what do we have to contemplate? What fears should the governme
 be assuaging with protection for the private market? Phil looks like he's ready to answer.
 So I'm just going to give to him. Anyone can answer.
 
-A - Philip Edmundson
-
-{BIO 18065064 <GO>}
-
+A - Philip Edmundson {BIO 18065064 <GO>}
 Yes, it's a great question, Josh. So my understanding is TRIA does not preclude cyber
 events from its definition of terrorism. However, the definition of what is an active
 terrorism has not been put to the test under TRIA. And there's a lot of different scenarios
@@ -777,9 +687,7 @@ sponsors, defenders or colleagues. So it is -- I think, what would be most helpf
 commercial insurance industry is clarity from the treasury department around when TRIA
 might respond to a large cyber event rather than the need for new legislation.
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
+Q - Joshua Shanker {BIO 21718992 <GO>}
 
 Bloomberg Transcript
 
@@ -802,10 +710,7 @@ several other state actors that would have no problem targeting those entities. 
 think any insurance carrier would be prudent to place their pricing based on that loose
 agreement if even was an agreement as opposed to a directive.
 
-A - Tracie Grella
-
-{BIO 19460769 <GO>}
-
+A - Tracie Grella {BIO 19460769 <GO>}
 If something changes, I mean, we always look at our portfolio based on different
 segments, where attacks are coming from, who their accounts and what the potential loss
 could be. So that would all -- we would address that. But you have to see that change, and
@@ -819,18 +724,12 @@ Company N ame: American I nternational Group I nc
 Company Ticker: AI G US Equity
 Date: 2021-06-30
 
-A - Philip Edmundson
-
-{BIO 18065064 <GO>}
-
+A - Philip Edmundson {BIO 18065064 <GO>}
 Agreed.
 
 FINAL
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 So there's one question coming through here. And in a lot of different types of policies,
 acts of war are excluded. And if there is a cyber claim that was paid, and that later is
 determined to be the act of a foreign government who was actually the instigator of that
@@ -838,10 +737,7 @@ attack, is that claim -- a claim that could be subrogated or could be -- to the 
 or whatnot? Is attack by a form of government a payable event? Or is that somehow
 excluded in how the business is underwritten today?
 
-A - Tracie Grella
-
-{BIO 19460769 <GO>}
-
+A - Tracie Grella {BIO 19460769 <GO>}
 Typically, under any cyber insurance policy, there's not an exclusion for actors. So the actor
 who conducts the -- whether the actor supports that in itself is not an exclusion. So you do
 need to look at both war exclusion and other exclusions in the policy. And in the cyber
@@ -856,10 +752,7 @@ more robust and not written with cyber attacks in mind. So those who are concern
 about having a cyber attack that might result in a property damage or some type of bodily
 injury, they are going to have a more strict war exclusion in those policies typically.
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 Well, thank you all for your time today. We are at the end of the session. I do appreciate
 you all joining. And if anyone has any questions for any of the participants, you can e-mail
 me those questions, and I can certainly pass them on to you. But it's certainly been
@@ -869,16 +762,10 @@ of you. And we'll continue the dialogue and learn more from each other as time g
 A - Josh MacDonald
 Thanks for having us. (Multiple Speakers)
 
-A - Philip Edmundson
-
-{BIO 18065064 <GO>}
-
+A - Philip Edmundson {BIO 18065064 <GO>}
 Thanks.
 
-Q - Joshua Shanker
-
-{BIO 21718992 <GO>}
-
+Q - Joshua Shanker {BIO 21718992 <GO>}
 And let's avoid those claims. All the best. Bye.
 
 This transcript may not be 100 percent accurate and may contain misspellings and other

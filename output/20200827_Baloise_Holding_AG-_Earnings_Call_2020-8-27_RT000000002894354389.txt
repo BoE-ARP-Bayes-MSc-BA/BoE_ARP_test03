@@ -30,20 +30,14 @@ conference must not be recorded for publication or broadcast.
 At this time, it's my pleasure to hand over to Markus Holtz, Head of Investor Relations. Please go
 ahead, sir.
 
-Markus Holtz
-
-{BIO 20240672 <GO>}
-
+Markus Holtz {BIO 20240672 <GO>}
 Good morning, and welcome to Bloise Q&A call on our half year results 2020.
 In our call today, we have our CEO, Gert Winter; our CFO, Carsten Stolz; and our CIO, Matthias
 Henny.
 So now I'd like to hand over to Gert. He will give you a short overview of our results before we
 open for Q&A.
 
-Gert De Winter
-
-{BIO 19720616 <GO>}
-
+Gert De Winter {BIO 19720616 <GO>}
 Thank you very much, Markus. And ladies and gentlemen, also a very warm welcome from my side,
 and very good morning.
 
@@ -85,10 +79,7 @@ Operator
 We will now begin the question-and-session. (Operator Instructions) The first question comes from
 the line of Jonny Urwin with UBS. Please go ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Good morning. Hope everybody is well. Thanks for taking my questions. Two for me, please. So
 firstly, on the CHF200 million, gross claims for COVID-19. That's quite a big number relative to the
 size of your book albeit the reinsurance program is clearly being effective in managing the net loss.
@@ -99,10 +90,7 @@ points year-over-year. I wondered if you could please give us a feel for the und
 development, where we should adjust for the COVID-19 driven frequency benefit as well, which I
 suspect that's what's clearly benefiting Luxembourg in particular. Thank you.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Thank you. Let me pick up a part of the questions. So if we look at the CHF200 million gross
 claims, the majority of it is actually due to the closing of the gastronomic sector in Switzerland and
 
@@ -119,10 +107,7 @@ we have actually booked all the claims of COVID-19 on the first half-year in the
 that's included.
 On the other part of the questions, I'll hand over to Carsten.
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 Yeah. Thank you, Gert. So with regard to what we have accounted for in the first half, we have
 accounted the full expected gross claims coming from COVID-19, and that includes also the best
 estimate on IBNRs.
@@ -137,18 +122,12 @@ transportation, which especially in motor reports lead to a rebound in frequency
 you want. So they are reflected in the underlying loss ratio in the first half of the year. Pretty difficult
 to spell it out that's why we haven't given it a price tag that they are included.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thank you. And just going back to the IBNR point. I mean what -- where are we at the moment? Is it
 roughly 50-50 paid claims to IBNR? Or is it a different ratio? And then on the reinsurance, what was
 that kind of clear-cut coverage? Or were there any more difficult conversations with the reinsurer?
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 Yes. Okay. So, if you want to have a rough split, but don't quote me on the numbers, but the rough
 split is probably 50-50. So, we have already paid quite an amount, as Gert said in the introduction,
 because time was also of the essence, because for the affected companies in the real economy
@@ -166,12 +145,10 @@ the discussions with the reinsurers go on, which is to be expected. We are in an
 with them. But the situation from our perspective looks like it is and as we already have
 communicated earlier this year. So that hasn't changed.
 
-Q - Jonny Urwin
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thanks guys.
 
 Operator
-
-{BIO 17445508 <GO>}
 
 
 
@@ -179,10 +156,7 @@ The next question comes from Peter Eliot with Kepler Cheuvreux. Please go ahead.
 
 FINAL
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you very much. So, I guess the first question the difficult pressure, but obvious topic of what
 visibility you can share with us on what you expect in terms of the H2 for life. I mean, just whether
 you can sort of share any thoughts on what risks there might be of reserve strengthening or what
@@ -204,10 +178,7 @@ Bloomberg Transcript
 
 Great. Thank you very much.
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 So. Thank you, for your questions, Peter. I would like to take the point on reserving in life. First of all,
 we've been very pleased that the life segment has proven its resilience in the marketing situations
 that we have been in the first half. The reserving need have been smaller than in the previous year,
@@ -218,10 +189,7 @@ first half of this year. And that overall contributed to the strong EBIT in life
 resilient in these market conditions and has contributed to the EBIT performance of the whole
 group in the first half.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Let me pick up the question about the non-life organic growth. What we have seen and this is
 clearly our target segment, is that we are very pleased with the growth in non-life. Of course, there
 are the two acquisitions in Belgium, which have played a role, but also from an organic point of
@@ -238,9 +206,7 @@ the other markets also very strong organic growth in our target segments in loca
 
 
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter Eliot {BIO 7556214 <GO>}
 
 FINAL
 
@@ -249,10 +215,7 @@ Belgium in particular was strong and you mentioned the broker relationships. But
 something that we might expect to continue I mean obviously, the M&A has kind of affected that
 master numbers a little bit, but are you able to comment on the outlook at all?
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 What we have seen over the last couple of years is a couple of trends. Belgium and Luxembourg in
 non-life have always grown clearly over the market average growth. So that's really a tendency. If
 you talk particularly for Belgium with the acquisition of primarily Athora, we have a very strong or
@@ -265,18 +228,12 @@ strongly. And if you see also in Switzerland, we are actually over 1% growth, wh
 strong in a very stable and separated market. So overall, I think the trend in terms of non-life
 growth looks very good.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 That's great. Thank you.
 
 Bloomberg Transcript
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 And I'll take the third question regarding the AAA growth of the fixed-income portfolio. We've
 always had a very conservative fixed income portfolio and still do have a conservative portfolio. As
 part of our strategy to have more emphasis on asset classes with high and stable current income
@@ -285,19 +242,13 @@ March, early April to invest CHF1.5 billion of bonds into corporate bonds and ca
 credit spreads. So that was the reason why AAA decreased by 4 percentage points and A and BBB
 increased correspondingly.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 It's great. Thank you very much.
 
 Operator
 The next question comes from the line of Kevin Ryan with Bloomberg. Please go ahead.
 
-Q - Kevin Ryan
-
-{BIO 1814771 <GO>}
-
+Q - Kevin Ryan {BIO 1814771 <GO>}
 Hi, it's Kevin Ryan from Bloomberg Intelligence. Thank you for taking my questions. I just have two.
 First one is you are still very focused on hitting your 2021 targets, which I thought was very bullish
 given the current outlook. And I was just wondering if you could offer any more insight into how
@@ -306,10 +257,7 @@ the center.
 And the second question is sort of related, and that is given the COVID-19 payout, is there any
 thought on your side to alter policy coverage to not cover pandemics going forward? Thank you.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 We are very, very confident that we actually will reach the three targets, strategic targets we have
 set by the end of 2021. Specifically, if we focus on the cash part and the customer part, by the end
 of 2019 we had won over half a million net new customers. So given the target end of 2021 to
@@ -336,10 +284,7 @@ damage in a pandemic, everybody is hit at the same moment very harshly, and the 
 everywhere. So, that's why we have actually formulated the coverages in a clearer way in order to
 exclude the pandemic going forward.
 
-Q - Kevin Ryan
-
-{BIO 1814771 <GO>}
-
+Q - Kevin Ryan {BIO 1814771 <GO>}
 Thank you.
 
 Bloomberg Transcript
@@ -347,22 +292,13 @@ Bloomberg Transcript
 Operator
 The next question comes from the line of Fulin Liang from Morgan Stanley. Please go ahead.
 
-Q - Fulin Liang
-
-{BIO 21126177 <GO>}
-
+Q - Fulin Liang {BIO 21126177 <GO>}
 Hello. Can you hear me?
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Yes.
 
-Q - Fulin Liang
-
-{BIO 21126177 <GO>}
-
+Q - Fulin Liang {BIO 21126177 <GO>}
 Hi. Thank you. I have just a question on the -- can you give us an update of your latest SST-ratio
 estimates? So, that's the first question. And then secondly, if I look at your life results, I think
 despite your -- so, you have slight decrease in the cost results, saving results, stuff like that, but
@@ -375,10 +311,7 @@ of the growth claim from COVID-19 is from the short-term business. But just wond
 do you may -- do you think you actually make enough reserves in your long-tail business for the
 future, potential future actually elevated claim as well. Thank you.
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 Yeah. Thank you very much for the -- for your questions. I would start with your first question on the
 SST view with regards to our balance sheet. So we currently estimate that we are still in a
 bandwidth around 180%, maybe a little bit lower than that. We do full calculations of the SST once a
@@ -406,10 +339,7 @@ long-tail business? And does that affect long-tail business reserving? The reser
 unchanged reserving policies and everything that affects reserving including IBNR of COVID is
 reflected in the half-year results 2020. That's the best estimate as we speak.
 
-Q - Fulin Liang
-
-{BIO 21126177 <GO>}
-
+Q - Fulin Liang {BIO 21126177 <GO>}
 Okay. Thank you. That's great.
 
 Bloomberg Transcript
@@ -425,10 +355,7 @@ Once this crisis is over if it ever will be, what do you think will be the poten
 the insurance industry other than the acceleration of the digitalization? Do you see any
 fundamental changes for the industry? Thank you.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Okay, I'll start with the first question regarding the hedges that we have in place. We have -- for
 many years, we've always had a put option strategy where we hedge the equity exposure with put
 options, which are 80% to 20% out of the money with duration of roughly one year. And we also
@@ -475,10 +402,7 @@ Bloomberg Transcript
 
 The next question comes from Thomas Fossard from HSBC. Please go ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes. Good morning, everyone. Three questions on my side. First one would be related to Germany.
 So it's now a couple of semester where you're producing pretty strong combined and you
 successfully repositioned the book. So, just was wondering what the next happening to the story of
@@ -496,10 +420,7 @@ intent to put it ensures that there are reserves to be taken in H2. So in a nuts
 at the current interest rate level by the end of the year, would your savings investment margin
 remain broadly comparable to H1? Or is there a specific movement to expect in H2? Thank you.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Well, let me first jump in with Germany. Actually, if you look at Germany, we define the strategy
 moving forward in 2016 and we are implementing it in a disciplined way. If you look at the life book,
 we are only actually selling capital-light products, be it biometric products or funds, so unit-linked
@@ -520,10 +441,7 @@ What is, of course, to be expected from Germany after the turnaround, which is i
 track, is that Germany will contribute more from an earnings, from a cash point of view. So, not only
 from a growth point of view, but also from an earnings and a cash point of view.
 
-A - Matthias Henny
-
-{BIO 17600048 <GO>}
-
+A - Matthias Henny {BIO 17600048 <GO>}
 Gert, then I'll comment on the impairments. So, the impairments on the equity side, of course, this
 highly depends on the first development of the capital markets in the second-half. As you rightly
 pointed out, equity markets have further recovered since half-year. And if there is no specific
@@ -541,10 +459,7 @@ portfolio with a high credit quality, and we don't experience any default or any
 have such a scenario in the near future. Therefore also, no impairments have been made there
 and if the situation stays stable, there is also no further impairment to be expected on this front.
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 So, I'm happy to answer the third question with regard to the reserving situation in life and where
 we stand and where it could go for year-end. For each and every market, where we are active,
 there are different reserving methodologies, but the important thing for us is looking at it from an
@@ -559,35 +474,23 @@ important for us is the resilience of the interest rate margin in the end. And t
 and continuously have done reserve strengthenings in the past in order to get average guarantees
 down.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Thank you.
 
 Operator
 The next question comes from the line of Rene Locher with MainFirst. Please go ahead.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Yes. Good morning. Can you hear me?
 
 
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Yes, Rene.
 
 FINAL
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Yes. Hi. Good morning, all. And so just a few follow-up questions. So the first one is on Slide 13 to
 the business mix. And then it might be perhaps a little bit a naive question, but I just checked, in
 Switzerland new car registration decreased by 31% in H1 '20 and well, given that you have your
@@ -605,10 +508,7 @@ years. So I'm wondering if there is a one off in there. Thank you.
 
 Bloomberg Transcript
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Let me start answering the different questions and colleagues just jump in if I'm missing out on
 something.
 On the first question, the business mix, it is, of course, true that in the first half year, we have seen
@@ -631,10 +531,7 @@ during a couple of months, the new inscriptions or subscriptions for cars were l
 On the cost side, if you could just Slide 19, just do quickly the questions, then I can -- for the Slide 17
 or 16.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 It was in the non-life combined ratio this year, 80 bps improvement. So I was wondering, is this kind
 of a new round rate? Or is there a one-off in there?
 
@@ -642,10 +539,7 @@ of a new round rate? Or is there a one-off in there?
 
 FINAL
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Well, this is certainly -- well, COVID-19 has had a lot of negative impact. What is certainly also the
 case, if you look at travel and other expenses, they have clearly come down. And we expect them
 to remain at a lower level than they were before. That is the case. The one-off in Germany is
@@ -654,10 +548,7 @@ preparing for the digital age. But overall, if you look at Switzerland, Belgium,
 costs have come down, and we of course intend to maintain them at this lower level going
 forward.
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 I can take the, Rene, the point on the costs with regards to life and then I would hand over to
 Matthias Henny with regard to your question on impairment and its impact.
 So when we look at the life and the sources of profit analysis that you referred to, there is -- are
@@ -665,25 +556,16 @@ integrated in it now for the full -- half-year 2020, which was not the case in 2
 over higher overhead costs, not the least stemming from projects and integration efforts, which
 explains the development in the cost result on life.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Okay.
 
 Bloomberg Transcript
 
-A - Carsten Stolz
-
-{BIO 6055047 <GO>}
-
+A - Carsten Stolz {BIO 6055047 <GO>}
 And with regards to impairments and your reference to Slide 17, I would hand over back to
 Matthias.
 
-A - Matthias Henny
-
-{BIO 17600048 <GO>}
-
+A - Matthias Henny {BIO 17600048 <GO>}
 Yes. So impairment rules are unchanged. So, for equities, bond investments, and this also includes
 a private equities, we have taken impairment if the market value is below book value for more than
 12 months or if the market value is more than 20% below the book value. For fixed income, we only
@@ -692,32 +574,21 @@ context the numbers on Page 17, roughly 70% of our equity exposure is European e
 to diversify the overall investment portfolio. And only 30% roughly is Swiss equities and European
 equities have lost in the first-half year more than 10%. So that's just to put it into perspective.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 All right. Fine and thanks. And right, this is a non-cash item, that's why you're still quite positive on
 your cash remittance?
 
-A - Matthias Henny
-
-{BIO 17600048 <GO>}
-
+A - Matthias Henny {BIO 17600048 <GO>}
 Yes, yes.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Okay. Fine. Thank you very much.
 
 Operator
 (Operator Instructions) The next question is a follow-up from Mr.Peter Elliot with Kepler Cheuvreux.
 Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter Eliot {BIO 7556214 <GO>}
 
 
 
@@ -735,10 +606,7 @@ profitability has increased slightly across H1. I was just wondering if you coul
 update on your views of that asset class whether we should still be expecting you to invest further.
 Yeah. That'd be great. Thank you.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Yeah. So, happy to take the first questions with regard to the life cost result. As said, there is the
 integration in Belgium going on of the Fidea book. That is in the midst of being integrated. And
 therefore since we are in a the ramp up phase of these synergies that should revert to a normal
@@ -750,22 +618,13 @@ Bloomberg Transcript
 
 And the third question, could you please repeat the third question or I give over to Matthias?
 
-A - Matthias Henny
-
-{BIO 17600048 <GO>}
-
+A - Matthias Henny {BIO 17600048 <GO>}
 Yes, please specify which asset class you meant.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Sorry, investment property.
 
-A - Matthias Henny
-
-{BIO 17600048 <GO>}
-
+A - Matthias Henny {BIO 17600048 <GO>}
 Okay. Okay. So investing property or real estate we still consider it a very interesting asset class for
 an insurance company because it provides a stable and high current income that we need to
 finance especially the liabilities in the life book. We have added roughly CHF200 million of
@@ -779,10 +638,7 @@ we have a very conservative investment portfolio with roughly two-thirds in the 
 are pretty confident that this asset class is providing the right current income for our overall
 investment portfolio.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Great. Thank you very much. If I could just maybe follow up very quickly on the -- my second
 question on the other, I mean, I can follow up with investor relations afterwards, but if I look back
 over the last four years, I think it's always been minus 20 or less negative than that. So it seems
@@ -791,34 +647,23 @@ sort of immediate comments, then I'll follow up with IR aferwards, but yes.
 
 
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 I think the best way would be to follow up directly with -- through investor relations.
 
-A - Markus Holtz
-
-{BIO 20240672 <GO>}
+A - Markus Holtz {BIO 20240672 <GO>}
 
 FINAL
 
 We will take it up, Peter.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Of course. Thank you very much.
 
 Operator
 (Operator Instructions). Gentlemen, there are no more questions at this time. Back to you for any
 closing remarks.
 
-A - Gert De Winter
-
-{BIO 19720616 <GO>}
-
+A - Gert De Winter {BIO 19720616 <GO>}
 Well, Thank you very much to all of you for the questions. Just want to say that we have shown
 resilience in extra challenging times, that we're very confident about cash generation 2020 and the
 simply safe goals in 2021 and we're looking forward to welcoming you at Investors Day, where we

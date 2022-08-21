@@ -29,10 +29,7 @@ prevent any background noise. After the speakers' remarks, there will be a quest
 Thank you. Dennis Westfall, Director of Investor Relations, you may begin your
 conference.
 
-Dennis Westfall
-
-{BIO 15155973 <GO>}
-
+Dennis Westfall {BIO 15155973 <GO>}
 Thank you, Stephanie. Good morning, everyone. A link to our live webcast and
 background information for the call is posted on our website at www.IntactFC.com under
 the Investor Relations tab.
@@ -55,10 +52,7 @@ With that, I will ask Charles to begin his remarks.
 
 FINAL
 
-Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+Charles Brindamour {BIO 7012323 <GO>}
 Thanks, Dennis. So this morning, we reported Fourth Quarter net operating income of
 CAD79 million, or CAD0.70 per share, down from the particularly strong CAD0.82 from a
 year ago. The early winter's impact on claims frequency and higher losses than expected
@@ -162,10 +156,7 @@ With that, I will now turn the call over to our CFO, Mark Tullis.
 
 FINAL
 
-Mark Tullis
-
-{BIO 4180270 <GO>}
-
+Mark Tullis {BIO 4180270 <GO>}
 Thanks, Charles. Fourth-quarter underwriting performance was healthy, but below the
 particularly strong results of a year ago. The combined ratio at 98% exceeded last year's
 94.6%, with a more normal seasonal weather pattern, compared to the unusually good
@@ -260,10 +251,7 @@ Company Name: Intact Financial Corp
 Company Ticker: IFC CN Equity
 Date: 2011-02-09
 
-Dennis Westfall
-
-{BIO 15155973 <GO>}
-
+Dennis Westfall {BIO 15155973 <GO>}
 Thanks, Mark. Stephanie, we are now ready to take questions.
 
 FINAL
@@ -286,17 +274,11 @@ anything with a long duration will have a higher capital requirement. Can you co
 to whether perpetual prefs are still an attractive investment with higher capital
 requirements potentially?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Thanks for your question. I think Mark will take one and three, and I will take the one in the
 middle.
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
-
+A - Mark Tullis {BIO 4180270 <GO>}
 In my remarks, when I talked about the adjustments due to prior storms, what I really was
 talking about was not from prior years but from prior quarters. In the stat supplement,
 we've added something new this quarter, where we break down Cats by line of business
@@ -319,9 +301,7 @@ Company Name: Intact Financial Corp
 Company Ticker: IFC CN Equity
 Date: 2011-02-09
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
+A - Mark Tullis {BIO 4180270 <GO>}
 
 FINAL
 
@@ -342,19 +322,14 @@ Q - Andre Hardy
 And does it change it enough that the Company might incur some realized losses that
 today are unrealized as a result of these new capital rules?
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
+A - Mark Tullis {BIO 4180270 <GO>}
 
 Bloomberg Transcript
 
 I would say it would reduce the relative attractiveness. It doesn't necessarily follow that it
 would make them completely unattractive, and --.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 I don't anticipate meaningful realized losses at all, in fact, on that front. And I would like to
 point out, Andre, that our exposure to ﬁxed rate perps is roughly a third lower at the end
 of this year than it was at the end of last year.
@@ -362,10 +337,7 @@ of this year than it was at the end of last year.
 Q - Andre Hardy
 Okay.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 The second question, the shareholders' rights plan, I think -- ﬁrst of all, let me say that you
 shouldn't read anything into that, other than when the Group sold its shares in 2009, I
 think there is a number of things we had to tackle as part of that look that -- what it meant
@@ -387,9 +359,7 @@ Date: 2011-02-09
 Q - Andre Hardy
 So the timing was not triggered by a third party?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 FINAL
 
@@ -401,20 +371,14 @@ Thank you very much.
 Operator
 Paul Holden, CIBC.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 Hi. Good morning. A question for you regarding distribution. In particular, regarding the
 Desjardins acquisition of Western Financial and how that may or may not impact the way
 you distribute product in Western Canada.
 
 Bloomberg Transcript
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 We have a multichannel distribution strategy, Paul, which includes Intact Insurance, which
 distributes to brokers, which includes BrokerLink, which is a broker that we actually
 manage ourselves and own 100%, which is meant to grow at the speed of a direct writer,
@@ -431,16 +395,11 @@ So the change -- or the acquisition of Western Financial Group in Alberta at the
 will not change the strategy that we are currently pursuing, because it is because of things
 like that, actually, that we are developing our multichannel distribution strategy.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 Okay. So it won't necessarily change the way you've approached the direct market in, say,
 Alberta -- selling insurance through a direct channel?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 Page 8 of 19
 
@@ -458,18 +417,12 @@ through advertising and through the web. And I think as the market evolves, we c
 will calibrate our distribution strategy to be best-equipped to deal with new entrants. But
 this acquisition is not changing our strategy much, no.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 Okay. Then maybe a somewhat related question in terms of consolidation in the
 brokerage community. Is that something you are still pursuing through Canada
 BrokerLink, and how robust do you think the opportunities are there?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 That is a good question. The focus when we talk to investors is of course about large
 manufacturing opportunities. But BrokerLink has been developing pretty quickly. And just
 to give you an example, BrokerLink in the Fourth Quarter actually closed an important
@@ -498,10 +451,7 @@ future, one has to be able to invest in technology, one has to be able to invest
 response, and that is clearly what we're doing with our own business units, and we want
 to help brokers keep doing that.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 Final question, one of the other parts of your growth strategy is potentially expanding
 outside of Canada. I realize that is going to take time. But is there any update you can
 provide us with since the last time you spoke about it?
@@ -514,9 +464,7 @@ Company Name: Intact Financial Corp
 Company Ticker: IFC CN Equity
 Date: 2011-02-09
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 FINAL
 
@@ -528,18 +476,13 @@ I would say that we spent a fair bit of time last year doing research in terms o
 opportunities could be. We have identiﬁed a number of opportunities which we are
 studying at the moment, but not prepared to give speciﬁcs this morning.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 Got it. Thanks for your time.
 
 Operator
 Mario Mendonca, Canaccord Genuity.
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
+Q - Mario Mendonca {BIO 2450557 <GO>}
 
 Bloomberg Transcript
 
@@ -552,16 +495,10 @@ the improvement is moderating? Then secondly, have you exhausted all the options
 have available to you to take that claims ratio down? Or is there more that you probably
 could announce at a later date?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Let me pass this one along to Martin Beaulieu, Mario.
 
-A - Martin Beaulieu
-
-{BIO 15316652 <GO>}
-
+A - Martin Beaulieu {BIO 15316652 <GO>}
 Clearly, 2010 is a good year for the industry and for ourselves in personal property. I see
 the pressure though continuing to build on that line of business, as the trends and costs,
 mostly due to water losses and also weather-related losses, is not going away. So we've
@@ -572,9 +509,7 @@ we are not letting the ball drop on this, so we are continuing to invest in prev
 and product changes, such that we would maintain a focus on the combined ratio. We
 don't expect, though, that the combined ratio itself will go much lower than it is right now.
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
+Q - Mario Mendonca {BIO 2450557 <GO>}
 Page 10 of 19
 
 
@@ -586,9 +521,7 @@ Date: 2011-02-09
 So you would feel like you have accomplished -- you'd feel successful in this endeavor if
 you were to maintain things at current levels?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 FINAL
 
@@ -607,10 +540,7 @@ insurance in the coming period.
 
 Bloomberg Transcript
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 Thank you for that. A question perhaps for Mark. While this call has been going on, I've
 been trying to look at the yield you disclosed, the dividend interest yield, and just
 compare it to any external metric, whether it is like a ﬁve-year -- Canada ﬁve-years or 10year yields. And you can see some relationships, but nothing -- not as strong as I would
@@ -618,10 +548,7 @@ have expected.
 With rates -- and I acknowledge more on the US moving higher, not so much in Canada -is there anything you might point us to to help us understand how quickly that yield
 would change in relation to the broad interest rate environment?
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
-
+A - Mark Tullis {BIO 4180270 <GO>}
 So I think a couple of things. The yield curve in the US has tilted more so than the one in
 Canada. And as you know, we invest 100% Canadian. So unless there is similar yield curve
 movement in Canada, we wouldn't be as aﬀected by much.
@@ -645,45 +572,28 @@ Date: 2011-02-09
 investment income is -- whatever -- relatively small changes in the yields are more or less
 oﬀset by the relative changes in the amount of investments.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 FINAL
 
 I would like to add, Mario, that we are certainly not pricing for higher yield at the moment
 --
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 I understand.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 -- when it comes to the product.
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 And Mark, the short term means what -- 12 to 18 months?
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
-
+A - Mark Tullis {BIO 4180270 <GO>}
 Yes, during the coming year.
 
 Bloomberg Transcript
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 Okay. Then a ﬁnal question. Going back to the preferreds for a moment, or any ﬁxed
 income securities, to the extent that these are securities issued by the banks -- and take
 into consideration what we learned from OSFI not long ago -- there could be some -- the
@@ -694,20 +604,14 @@ preferred shares or any other securities issued by banks, to the extent that the
 are motivated to buy these back earlier? Are you seeing any kind of lift as a result of that
 OSFI announcement?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 That's one possible scenario Mario. I think when we look at what we are doing here, we
 are looking at that as one possible outcome, versus other outcomes, where prefs could
 become less attractive, back to your original question in terms of capital requirement.
 And we are trying to weigh all of that information in terms of assessing what is the optimal
 ﬁxed rate perpetual position here. But it is deﬁnitely one scenario, indeed.
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 Thanks.
 
 Operator
@@ -721,9 +625,7 @@ Date: 2011-02-09
 
 Tom McKinnon, BMO Capital Markets.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 
 FINAL
 
@@ -738,26 +640,18 @@ improvement? Then do you expect to see a combined ratio improvement for Intact, 
 why would Intact expect to have any combined ratio improvement over and above what
 the industry would?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Let me talk about the industry, because I don't -- when we talk about Intact, we are
 basically saying that we are pretty conﬁdent we will outperform the industry's ROE by at
 least the objective we have been pretty consistently stating over time.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 
 Bloomberg Transcript
 
 I'm just talking about combined ratio here, more than ROE, right?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes, I know. Let me talk about the combined. So at the end of September, it is indeed 102.
 I anticipate, all else being equal, mild improvements in the combined ratio of the industry,
 based on the outlook. I think there are a couple of factors that I would like to put in
@@ -797,51 +691,33 @@ continue to pay oﬀ in 2011.
 I would rather stick to my statement that I feel pretty conﬁdent we will outperform the
 industry's ROE by more than our stated objective.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 But you don't have an objective in terms of how you would outperform the industry
 combined?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 No.
 
 Bloomberg Transcript
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 And the reason for putting in comments about what is happening in the industry, is that
 because, in part, your results would have to be related to the industry's -- the movements
 in the industry? Is that what you are trying to ﬂag here?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Well what I am trying to ﬂag is to give some context for my view on the industry's ROE.
 And that is why we talk about the various components of the industry. But as you know,
 we've been very cautious since becoming a public company of being too speciﬁc about
 our own performance per elements of the P&L. I think that is the right approach, and I
 intend to stick to that.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 Okay. Then one quick follow-up, maybe Mark. On the operating earnings that you've put
 in there, was the tax rate somewhere around 18% on the operating earnings? And what
 should we be looking -- should we be looking at something closer to 20% going forward?
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
-
+A - Mark Tullis {BIO 4180270 <GO>}
 Yes, from memory, so there was a decrease of about 2% vis-a-vis last year. And we actually
 -- there is a reconciliation in the ﬁnancial statements. I think it is Note 9 or something like
 that. But just a couple of (cough).
@@ -866,25 +742,17 @@ quarter, quarter-over-quarter, the big driver was the reduction in the statutory
 And that is -- we would consider that a permanent reduction, unless, of course, they
 change the tax regime again.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 So what should we be looking at more like -- on an operating basis? Closer to something
 under 20% going forward -- possibly under 20%?
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
-
+A - Mark Tullis {BIO 4180270 <GO>}
 You know, the way I look at it -- because I don't look at it as operating; I look at it as
 dividends and then everything else. And again, it is -- yes, I guess you can expect a little
 bit of increase -- or a little bit of decrease over from where it is this year going forward. But
 the statutory rate should reduce slightly next year.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 
 Bloomberg Transcript
 
@@ -904,15 +772,10 @@ And the second one on costs relates to fraud prevention. Have you put in place t
 people and the systems that you need -- presumably it is more people -- to prevent fraud?
 And if not, how much more cost should we expect the Company to incur?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Why don't you start, Mark, with commissions? And I will take the fraud question.
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
+A - Mark Tullis {BIO 4180270 <GO>}
 
 Page 15 of 19
 
@@ -935,28 +798,20 @@ numbers, the premium could do diﬀerent. If you have situations where one provi
 better than another, you can have diﬀ --.
 So it is tough to look in total and draw a conclusion, other than over the long term.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 But I think the most important driver here -- and I think your observation is very good,
 Andre -- is driven by the fact that there has been a divergence in the last year between the
 direct performance and the brokerage performance. That is what explains this
 observation.
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
+A - Mark Tullis {BIO 4180270 <GO>}
 
 Bloomberg Transcript
 
 I think on the fraud thing, we've got people in place, and this is part of the cost of doing
 business and I wouldn't expect a meaningful bottom line that you would see from that.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Well the work that they'll do, I certainly expect a loss ratio improvement. But I would not
 anticipate meaningful cost pressure as a result of that. We have put as -- we've talked
 about 40 people in place earlier this summer. And we beefed up a bit in the fall, invested
@@ -966,10 +821,7 @@ coming period.
 Q - Andre Hardy
 And your expectation is you would save more than what you've put in, presumably?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Deﬁnitely.
 
 Q - Andre Hardy
@@ -986,9 +838,7 @@ Company Name: Intact Financial Corp
 Company Ticker: IFC CN Equity
 Date: 2011-02-09
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
+Q - Mario Mendonca {BIO 2450557 <GO>}
 
 FINAL
 
@@ -998,10 +848,7 @@ that number has been a fairly strong number, 5%, 7%-ish. In this quarter, it kin
 back to low single digits, the way we've seen in the past. Is there anything you can point
 us to that would help understand why that would sink this quarter?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes. I mean, the main reason is that we have slowed down marketing and advertising in
 the fall in the GTA, basically. As reforms unfold, I think we want to make sure that we want
 to give more credibility to the initial signs that we are seeing.
@@ -1014,19 +861,13 @@ have a bit of pressure as a result of slower advertising activity in the GTA.
 
 Bloomberg Transcript
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 I see what you are talking about from a units perspective, but the direct written premium
 per written insured risk, also the year-over-year growth there, we are not seeing what we
 saw in the past. I would've expected the pricing increases to still be in the system and take
 that higher.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes. Well let me talk to that speciﬁcally. I think that one of the elements that we've
 observed -- and I've talked about that a number of times before -- but in personal lines,
 when you look at the mix, you recall the notion of average size of account.
@@ -1038,10 +879,7 @@ Then we are seeing a mix shift of about 2.7% in automobile insurance. And I don'
 Martin, if you want to comment on that. But I suspect this is one of the drivers of the
 question that you are asking, as well.
 
-A - Martin Beaulieu
-
-{BIO 15316652 <GO>}
-
+A - Martin Beaulieu {BIO 15316652 <GO>}
 No, but that is exactly the mix that does that then. And on top of more condos and
 tenants, I think even in the home insurance. The premiums that -- the way we have
 
@@ -1056,57 +894,35 @@ Date: 2011-02-09
 restructured our pricing algorithms, we are driving away more of those -- we increase the
 price more, and they tend to be in the higher-premium band.
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
+Q - Mario Mendonca {BIO 2450557 <GO>}
 
 FINAL
 
 I was referring more speciﬁcally to personal auto. Is there -- there's a mix element there as
 well that would --?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes.
 
-A - Mark Tullis
-
-{BIO 4180270 <GO>}
-
+A - Mark Tullis {BIO 4180270 <GO>}
 2.7%.
 
-A - Martin Beaulieu
-
-{BIO 15316652 <GO>}
-
+A - Martin Beaulieu {BIO 15316652 <GO>}
 And for the year, it was more in the just below 1%, so --.
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 The mix in personal auto.
 
-A - Martin Beaulieu
-
-{BIO 15316652 <GO>}
+A - Martin Beaulieu {BIO 15316652 <GO>}
 
 Bloomberg Transcript
 
 Yes. That's right.
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 So just less -- cars that are less expensive.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Well it goes beyond that. If you look at the young driver growth we would have, for
 instance, in the direct writing operation, if you slow down the speed at which you grow
 your direct writing operation, in theory, the average age goes up a little bit. And as a
@@ -1117,10 +933,7 @@ the provinces, where the average premium is lower -- so we are now talking outsi
 Ontario -- would have been greater in relative terms this year. So that would be another
 driver.
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 Okay. Thanks for your help.
 
 Operator
@@ -1136,10 +949,7 @@ There are no further questions at this time.
 
 FINAL
 
-A - Dennis Westfall
-
-{BIO 15155973 <GO>}
-
+A - Dennis Westfall {BIO 15155973 <GO>}
 Thank you, everyone, for participating. The webcast will be archived on our website for
 one year. The telephone reply will be available at 1 p.m. today until Wednesday, February
 16. The replay number is 1-800-642-1687. The pass code is 33110678. A transcript will also

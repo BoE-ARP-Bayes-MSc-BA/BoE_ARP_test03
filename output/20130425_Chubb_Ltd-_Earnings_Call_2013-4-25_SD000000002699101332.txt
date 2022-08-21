@@ -63,9 +63,7 @@ note that the information and forecasts provided in this recording will not nece
 updated and it is possible that the information will no longer be current.
 Now I will turn the call over to Mr. Finnegan.
 
-John Finnegan
-
-{BIO 1735942 <GO>}
+John Finnegan {BIO 1735942 <GO>}
 
 Bloomberg Transcript
 
@@ -109,10 +107,7 @@ Date: 2013-04-25
 
 FINAL
 
-Paul Krump
-
-{BIO 5211397 <GO>}
-
+Paul Krump {BIO 5211397 <GO>}
 Thanks, John. Chubb Commercial Insurance net written premiums for the First Quarter
 increased 2% to $1.4 billion. The combined ratio was a terrific 89 -- 81.9, versus 93.3 in the
 First Quarter of 2012. The impact of catastrophes in the First Quarter of 2013 improved
@@ -194,10 +189,7 @@ new bondable projects that were won by our existing US customers as well as from
 growth in Latin America.
 And with that, I will turn it over to Dino who will review personal lines and our corporatewide claim results.
 
-Dino Robusto
-
-{BIO 15021398 <GO>}
-
+Dino Robusto {BIO 15021398 <GO>}
 Thanks, Paul. Chubb Personal Insurance had another very good quarter. Net written
 premiums increased 5% to $987 million. CPI produced a combined ratio of 87 compared
 to 85.5 in the corresponding quarter last year. The impact of catastrophes on CPI's First
@@ -251,10 +243,7 @@ increased slightly and the amount of CCI losses decreased by about the same amou
 dollar terms, the shift was about $25 million.
 Now, I'll turn it over to Ricky who will review our financial results in more detail.
 
-Richard Spiro
-
-{BIO 15061279 <GO>}
-
+Richard Spiro {BIO 15061279 <GO>}
 Thanks, Dino. As usual, I'll discuss our financial results for the quarter and I will also provide
 an update on the April 1 renewal of our major property reinsurance program. Looking first
 at our operating results, we had very strong underwriting income of $485 million in the
@@ -337,10 +326,7 @@ Now I'll turn it back to John.
 
 FINAL
 
-John Finnegan
-
-{BIO 1735942 <GO>}
-
+John Finnegan {BIO 1735942 <GO>}
 Thanks, Ricky. In short, we had an outstanding quarter. Record operating income per share
 was driven by very strong underwriting results. Substantial realized gains reflected
 excellent investment performance and the combination of the two resulted in record
@@ -397,38 +383,27 @@ FINAL
 
 Mike Zaremski, Credit Suisse.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 John, I know this isn't an exact science but if I understood your commentary correctly, it
 sounded like this was a very benign non-CAT weather quarter. I believe, I could be wrong,
 that I know last year was also benign not-CAT -- non-CAT weather. So was this quarter
 even more benign than 1Q '12, and is there any way to put some numbers behind how low
 it was versus, quote-unquote, normal?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 I think that we've had some good non-CAT related weather experience the last five
 quarters. Now, that's probably because we've had some pretty good weather. Although
 this quarter, it was a little bit different in that there were a number of storms and yet many
 are not CATs, and yet, they came in pretty good. But we're up, I think, maybe1 point in
 non-CAT related weather?
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
+A - Dino Robusto {BIO 15021398 <GO>}
 
 Bloomberg Transcript
 
 1.5 points in Homeowners against the First Quarter; it's still a little bit lower than our fiveyear average.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Maybe 1 to 2 points below the five-year average? I would say -- so that's good. I would say
 the real -- the very benign loss experience we suffered, we enjoyed in this quarter really
 related more to a lack of major large losses. Some of that in Specialty, but primarily where
@@ -440,16 +415,10 @@ Sandy. We also have some good favorable development against the year last year, 
 we didn't have positive development in the First Quarter. But -- and can't overlook the fact
 we've gotten substantial rate increases in that business for a couple of years.
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
-
+A - Paul Krump {BIO 5211397 <GO>}
 Over 20%.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Yes, so that certainly impacted. But having said all of that, we had very few fire losses or
 other large losses in the quarter in the Property line.
 
@@ -461,9 +430,7 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2013-04-25
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
+Q - Mike Zaremski {BIO 20606248 <GO>}
 
 FINAL
 
@@ -472,10 +439,7 @@ reserve for legislation in New York related to reopened Workers' Comp cases. I w
 hoping you could comment on that and also just on loss costs in workers' comp. Thank
 you.
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
-
+A - Dino Robusto {BIO 15021398 <GO>}
 Okay. On the legislation, as you know, the legislation was just signed into law in April and
 it's got many facets. So, we're still analyzing the impact of the Reopened Case Fund
 being eliminated January 1, 2014. Our review to date indicates that in recent years, only a
@@ -491,17 +455,11 @@ longer-term trends.
 
 Bloomberg Transcript
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 If I can slip one in on workers' comp then. Lastly, the premium growth was flat versus high
 teens last year. Is that just lumpiness as well? Thanks.
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
-
+A - Paul Krump {BIO 5211397 <GO>}
 Mike, this is Paul. There's a number of factors that cause workers' compensation growth
 to be flat this past quarter. The first thing I would note is the comparable in the year-ago
 First Quarter was particularly strong at plus 23%, so we're comparing a relatively high
@@ -538,26 +496,17 @@ little bit of color on our thinking.
 Operator
 Jay Gelb, Barclays.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 My first question was on the negative 1% exposure growth in the quarter. That's a little
 contrary to what we would have thought given the improvement in the overall economy.
 So can you discuss that a bit?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Sure. I'm going to -- I'll have Paul address that.
 
 Bloomberg Transcript
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
-
+A - Paul Krump {BIO 5211397 <GO>}
 Sure. First off, CCI renewal exposure change was just slightly negative. To put a little more
 color on it, we experienced some positive exposure increases in workers' comp. But
 we're dealing with a fairly sluggish economy, and we just -- I Just didn't see that -- see it
@@ -565,32 +514,20 @@ as much as we normally would expect to see. But that said, it's been running at 
 tight range here for the last couple years of negative 1% to plus 1%. So it wasn't all that
 surprising to us.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Okay. And then on loss cost inflation, can you tell us about where you set your picks at for
 2013 versus '12? And what type of underlying loss cost inflation are you assuming in the
 CCI book as opposed to the Specialty book?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Talk about longer-term trend lines and loss cost being about 4% in CCI and 4.5% in CSI.
 That's the general. Each line, though, obviously has a significantly different trends, but
 that's going to be the long-term loss cost trends.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 So that means it's coming in where, 2% to 3%?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Well, Jay, this is a -- it's not a science in this area. If you look at the Fourth Quarter of this
 year -- last year and our results and compare it to the Fourth Quarter of the prior year, you
 would have attributed a -- if you just did it mathematically and looked at the improvement
@@ -619,19 +556,13 @@ long-term trends. The First Quarter I really can't do that except in the develop
 it was very positive. Mathematically, it comes out to be about equivalent to margin
 expansion.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Okay. And then can you comment on competition for new business, as opposed to your
 renewals?
 
 Bloomberg Transcript
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
-
+A - Paul Krump {BIO 5211397 <GO>}
 Sure. This is Paul again. I would tell you that the competition for new is still alive and well,
 and that is one of the reasons that you see our new to lost business ratios running where
 they are. Now, that said, I want to remind everybody, and John talked about this in his
@@ -645,18 +576,12 @@ and Professional Liability.
 Operator
 Amit Kumar, Macquarie.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Two questions. The first question is on the CSI reserve release number of $55 million. Is
 that all favorable or was there any adverse in recent years which was more than offset by
 releases from prior years?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 No, the answer is that it was primarily 2008 and prior were the positives. You'd get -- in
 2009 to '12, really, they come out pretty flat. Accident year 2011 was slightly favorable, '09
 was slightly averse, '10 and '12 were close to flat. So you take '09 to '12 at flat.
@@ -669,40 +594,27 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2013-04-25
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Flat, okay.
 
-A - Richard Spiro
-
-{BIO 15061279 <GO>}
+A - Richard Spiro {BIO 15061279 <GO>}
 
 FINAL
 
 And then if -- you want me to give you a little color -- it's Ricky. Want me to give you a little
 color within the individual lines within that $55 million?
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Absolutely.
 
-A - Richard Spiro
-
-{BIO 15061279 <GO>}
-
+A - Richard Spiro {BIO 15061279 <GO>}
 Okay, so within the $55 million in the quarter, both Professional Liability and Surety,
 although Surety to a far lesser extent, were favorable. The favorable development in
 Professional Liability was led by D&O, but also from Fiduciary and E&O and there was
 some modest adverse development in both EPL and the Crime and Fidelity lines.
 Hopefully that gives you a little more color.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
+Q - Amit Kumar {BIO 15025799 <GO>}
 
 Bloomberg Transcript
 
@@ -710,10 +622,7 @@ That's very helpful. Just related to that is, there have been some press reports
 the News Corp[ph]. settlement and Chubb. I'm not sure, can you address that? And would
 that impact the Q2 numbers?
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
-
+A - Paul Krump {BIO 5211397 <GO>}
 This is Paul. Why don't I just -- first of all, just make the comment that we don't -- we're not
 going to comment on any specific matters or whether we provide insurance to any
 specific customer. Because this case though was reported in the press and it's a
@@ -731,10 +640,7 @@ Third, I think it really underscores and supports the significant efforts we hav
 over the last couple of years to drive increased rate along with disciplined underwriting in
 the D&O line. Those underwriting and pricing efforts will obviously continue in 2013.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Page 12 of 24
 
 
@@ -754,66 +660,40 @@ take them into account and they reserve positions and things. So it will be a si
 assumption for any company to just -- when you hear about the settlement to think you've
 found someone who was insured to think it's going into the current quarter.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. Fair enough. I'll stop here. Thanks for the answers.
 
 Operator
 Michael Nannizzi, Goldman Sachs.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Just trying to reconcile something here. So it looks like the underlying combined in CCI is
 about 96, I think, if my math is right. How do we -- is that right or --?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
+A - John Finnegan {BIO 1735942 <GO>}
 
 Bloomberg Transcript
 
 96? What's your underlying mean, by the way?
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Ex development.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Ex development underlying. All right. Well, if we look at the First Quarter, I guess calendar
 year --
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 84 spot for you. Sorry.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Accident year, ex-CAT was 91 as of --
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 So 84 combined reported and then minus, you had a negative 1.7 points of CATs? Is that
 right?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Yes.
 Page 13 of 24
 
@@ -823,35 +703,24 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2013-04-25
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 And then plus -- is that 9 points of development? 9.5 points, no?
 
 FINAL
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 You've got to double -- you've got to watch when you have development in the CAT area.
 You can tend to double count, but our calendar year published was 81.9; Ex-CAT, 83.6;
 Accident year published, 91.5; Ex-CAT, 90.9.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. Okay, my mistake. My mistake. Well, I mean, still -- so last year -- so you've seen
 that number improve by about 5 points over the last year but you had rate at -- so you
 had 8 points of rate two years in a row. How does that work? Should we be seeing -- like
 what's the order of magnitude when you have the rate gains versus the change in the
 combined ratio?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
+A - John Finnegan {BIO 1735942 <GO>}
 
 Bloomberg Transcript
 
@@ -869,24 +738,15 @@ indicative, it's truly indicative. I mean, you should extrapolate off it, and I'
 Quarter this year in commercial, especially the Property & Marine line, we're a little bit
 fortuitous in terms of large losses.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got you. Got you. And then on the Specialty side as well, I mean you've -- is it fair to
 assume that the development, most of the development is coming from Professional
 Liability or --?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Yes, 90%.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 So and -- just maybe my math won't be right here, but we calculate that number to about
 100 -- it would be like 102, which is just a couple points better than it was a year ago. I'm
 just trying to reconcile that versus 13 cumulative points of rate gain that you -- 4 points in
@@ -904,10 +764,7 @@ just think of that underlying would be improving much more rapidly.
 
 FINAL
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 First of all, you'd have to look at the earned rate improvement that in the -- if you look at
 margin expansion versus the earned rate versus longer-term loss trend lines, First
 Quarter, you're only talking about an improvement of about 1.5 points. You're
@@ -920,18 +777,12 @@ year. Now, the answer is pretty good. We did have about a 2 point -- we were at 
 100 in combined ratio, and our accident year is about 100 in Professional Liability this
 quarter.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Right.
 
 Bloomberg Transcript
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Now, we're -- our reported combined of 92.4 is significantly higher than the -- so let's
 compare it maybe to the First Quarter of last year. It's about 4 points better, of which 1
 point was loss, 3 points was -- 1 point was expense, 3 points were loss. You compare it to
@@ -948,10 +799,7 @@ Fourth Quarter.
 Operator
 Josh Shanker, Deutsche Bank.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Want to talk about two items. The first one is that, John, you were very pleased with
 Professional Liability, citing combined ratio from First Quarter '12 of 99 going down to 92 in
 First Quarter of '13. I also note that it was an 87 back in the First Quarter of 2011. I realize
@@ -967,9 +815,7 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2013-04-25
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
+A - John Finnegan {BIO 1735942 <GO>}
 
 FINAL
 
@@ -994,36 +840,24 @@ returns. And we're not there yet, but a step in the right direction.
 
 Bloomberg Transcript
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Okay. Thank you. And the other question was to what extent are clients wanting to buy
 less coverage in the face of rising rates?
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
-
+A - Paul Krump {BIO 5211397 <GO>}
 Josh, this is Paul. We're not seeing anything new on that horizon. I think when the financial
 crisis hit a couple years ago, we saw some people asking for options around deductibles.
 They might have been lowering their umbrella and excess limits a little bit to try to ease
 the squeeze there. But quite frankly, that hasn't been anything that's really been
 impacting us much in the last couple years.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Okay. Well, thank you. Congratulations on the quarter.
 
 Operator
 Jay Cohen, Bank of America-Merrill Lynch.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Just first, I want to understand. The development that you gave as the prior year
 development, that includes the change in the Sandy loss; correct?
 
@@ -1035,34 +869,23 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2013-04-25
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Yes.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
+Q - Jay Cohen {BIO 1498813 <GO>}
 
 FINAL
 
 Okay. So we need to adjust either that number or the CAT number to make sure we're
 not double counting?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Yes. So to give you an example, on development, if you looked at CPI, they only had a 0.5
 point of positive development, but if you took out the Sandy loss, they had 3.1. In CCI, you
 go the other way. They had 9.6 reported, but 7.3 if you adjust it excluding the CATs. That
 give you a feel?
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 That's helpful. That's helpful. And maybe the question is on the CCI development. Even if I
 take out the positive development from Sandy, it looks like a fairly robust number, and you
 gave us some of the details on the CSI development. I'm wondering if you can do the
@@ -1070,20 +893,14 @@ same for CCI?
 
 Bloomberg Transcript
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 I'm going to ask Ricky to do that. Let me point out last year, we had very little
 development in the First Quarter in CCI. It ran about 5 to 6 points in the second and Third
 Quarters, but it ran 8 in the Fourth Quarter. So it's 7.3 excluding CATs, they were certainly
 better than we ran for the year last year, but was down a little from the Fourth Quarter.
 Ricky, why don't you talk about the --
 
-A - Richard Spiro
-
-{BIO 15061279 <GO>}
-
+A - Richard Spiro {BIO 15061279 <GO>}
 Sure. So again, just to level sets -- the total development we saw from CCI in the quarter
 was $125 million, and all four of the lines within CCI were favorable. It was led by the
 Property & Marine line, partly due to what we just talked about, the change in the Sandy
@@ -1094,17 +911,11 @@ And workers' comp was also slightly favorable. And the one area where we had a l
 of adverse development was in the A&E area, almost all due to the environmental side of
 it. But that hopefully gives you some idea of what was happening underneath.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 And then accident years, I assume some of the later years as well, except for the
 property stuff ?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Page 17 of 24
 
 
@@ -1123,43 +934,28 @@ FINAL
 Operator
 Meyer Shields, KBW.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Two questions, if I can. One, when we focus on CSI, I think the new to lost ratio was 0.6 to
 1.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Yes.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Is it fair to assume that after you go through about a year of that, you've
 disproportionately lost most of the least profitable accounts and therefore, that ratio
 should improve?
 
 Bloomberg Transcript
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 We've talked in the past that we have a very targeted effort in terms of which accounts
 we're looking to cull directly, which accounts we're looking to perhaps cull indirectly by
 requesting rate increases we need, where there's a dramatic rate increase is required. I
 think we've given -- I don't know. Do you have updated statistics, Paul on which areas by
 segment where we -- what stuff come out?
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
-
+A - Paul Krump {BIO 5211397 <GO>}
 Sure, John. Meyer, just to think about this, our starting point really is the accident year
 currently at 100. And what John said just a few minutes ago is first and foremost in our
 mind, and that is we have to be in the low 90s on an accident year basis. So we are taking
@@ -1192,26 +988,18 @@ quite frankly, we were pushing up over close to 30% rate increases. But there, w
 renewed right between 65% and 70% of those accounts. So hopefully that gives you a
 sense of how we're attacking the book.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 No, it does. That was very helpful. What I'm wondering is, after we go through one or two
 years of that, then there should be much less business in the fewer stars category
 because either it's gotten the rate or it's gone away.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Yes. But of course if you're still at 100, you still have a good deal -- just by the law of
 averages, you must still have a good deal of business that's above 100 and is not
 generating attractive returns, so you still have to get at that. You got to have -- to have a
 100 average, you got to have some 110s and 120s still in your book.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 Bloomberg Transcript
 
@@ -1220,10 +1008,7 @@ workers' compensation or really any line of business exposed to medical inflatio
 pricing it at long-term inflation or is there a higher inflation rate because of the uncertainty
 as healthcare reform is enacted or implemented?
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
-
+A - Paul Krump {BIO 5211397 <GO>}
 When we think about the long-term trend lines that John was talking about, say 4% for
 CCI, that's obviously a composite number of all the products and we think about the mix.
 So workers' comp has a higher number. Within workers' compensation, different states
@@ -1234,10 +1019,7 @@ think about medical inflation.
 Operator
 Vinay Misquith, Evercore Partners.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Just a follow-up on the pricing question. And it's admirable that you guys are going for the
 90%, I mean a low 90%s combined on the professional lines. But just curious, given the
 environment and given the economy we're in, how possible is that and what's your view
@@ -1253,9 +1035,7 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2013-04-25
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
+A - John Finnegan {BIO 1735942 <GO>}
 
 FINAL
 
@@ -1278,10 +1058,7 @@ ratios in Professional Liability. Now, I think I'll turn it over to Ricky to you
 
 Bloomberg Transcript
 
-A - Richard Spiro
-
-{BIO 15061279 <GO>}
-
+A - Richard Spiro {BIO 15061279 <GO>}
 Sure. Obviously, when we think about our excess capital position and what we want to do
 with it, we take into account a number of factors, including, do we have opportunities to
 invest in our existing businesses? I think where we sit here today, we think that we have
@@ -1299,18 +1076,13 @@ buyback, we still see attractive economic opportunities at repurchasing our shar
 current price. So I think we're going to continue to do both and we can make appropriate
 investments in our Business as we see fit.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure, that's helpful. Just as a follow-up, how receptive are clients right now to rate
 increases? Through seeing your retentions stay pretty flat so it seems that there's no
 change in client behavior. But just curious as to how it is, and how you think it's going to
 move within the next nine months? Thanks.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
+A - John Finnegan {BIO 1735942 <GO>}
 Page 20 of 24
 
 
@@ -1337,9 +1109,7 @@ evidence.
 Operator
 Josh Stirling, Sanford Bernstein.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
+Q - Josh Stirling {BIO 17463087 <GO>}
 
 Bloomberg Transcript
 
@@ -1348,10 +1118,7 @@ wondering if you can give us any visibility? Are there any product areas or prod
 regions, anything, any place you operate where you feel like you're starting to see more
 competition rise or has it been a stable environment over the past year?
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
-
+A - Paul Krump {BIO 5211397 <GO>}
 This is Paul again. Again, I think just what John said. We've seen the market become a little
 less competitive in the Professional Liability scene here in the United States. The
 Australian property market, frankly, would be an example of some place I'd say that the
@@ -1362,10 +1129,7 @@ abated after a few years of very large cumulative rate increases. So again, you 
 think about this by line, by country. Within big countries like the United States, it can boil
 down to geographies and sometimes even neighborhoods.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 Got it. Outside looking in, this is an odd market because there's some people that are
 very constructive on growth in this environment. I think you guys are famously not.
 Wondering how you'd help investors think that through, and just if I ask the anecdotal
@@ -1382,9 +1146,7 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2013-04-25
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
+A - John Finnegan {BIO 1735942 <GO>}
 
 FINAL
 
@@ -1397,10 +1159,7 @@ tell you the answer to that question.
 Operator
 Did you have any further questions?
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 I'm sorry. Thank you.
 
 Operator
@@ -1409,20 +1168,14 @@ Ian Gutterman, Adage Capital.
 
 Bloomberg Transcript
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Just a follow-up on a couple of the earlier questions on CCI. John, you said the -- I was a
 little confused when you said the accident year ex-CAT improved 2 points this quarter. But
 then you also said the fire losses were extremely low. So if I were to guess, that was
 maybe 1 point or 2. It seems the ex, ex, ex underlying is flat. So why wasn't there more
 improvement?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Well, Ian, there's a lot of moving parts. I mean, what we said was that -- let's inventory
 what we said. We said the accident year improved by 2 points. We said also we were
 coming off a pretty good quarter last quarter where -- First Quarter last year. It was a
@@ -1434,10 +1187,7 @@ Commercial, they offset and give you the 2 point improvement, which is in line w
 margin expansion in the Company. And that's not a CCI thing. It's a -- the ex-CAT you're
 talking about is for the Company as a whole, 2 points.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Got it. Got it. Okay. And then the other one is just when I was looking at the releases in
 CCI for the last two quarters, Q4 was -- since you've been disclosing this, Q4 was a
 record high of releases and Q1 just beat it. I know part of that's Sandy. But basically, you've
@@ -1454,10 +1204,7 @@ obviously gave some detail on lines but what's driving releases to reach new hei
 
 FINAL
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Well, I mean, CCI, if you look at it, I think you'd agree, you should look at it ex-Sandy, right?
 It was 7.3. We ran 8.2, we'll just say; last year, we ran in the 5s. So it's a little bit higher, but
 it was -- but last year, the First Quarter we ran 3. So Property, I think the big driver this
@@ -1466,62 +1213,38 @@ went the opposite way in the First Quarter of last year. And that was what drove
 year. We also -- we continue to have a good underlying in Casualty but the Property &
 Marine is probably what drove it up in the First Quarter of this year.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Got it. Thanks. And then just my last one, Ricky, this is a little bit of a minutia, but the
 difference between your stat and GAAP expenses is the -- basically deferrals was $41
 million which again is abnormally high. I just was wondering, anything unusual there or is
 this just a new DAC account that's causing a change in deferral patterns versus the past
 or --?
 
-A - Richard Spiro
-
-{BIO 15061279 <GO>}
-
+A - Richard Spiro {BIO 15061279 <GO>}
 It's because the expense ratio was up a little bit.
 
 Bloomberg Transcript
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 The stat expense ratio or the GAAP expense ratio?
 
-A - Richard Spiro
-
-{BIO 15061279 <GO>}
-
+A - Richard Spiro {BIO 15061279 <GO>}
 The GAAP.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Okay. GAAP was-- okay, so that was a one-time thing, and shouldn't expect it to repeat?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Well, in terms of GAAP expense ratios, we have no reason to believe it's going to have a
 significant increase in our GAAP expense ratios this year versus last. It could move 1 point
 in either direction. But it probably will be a little higher this year just simply because last
 year, we benefited because -- we benefited from the Sandy in terms of the impact on the
 incentive accrual.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Got you.
 
-A - Richard Spiro
-
-{BIO 15061279 <GO>}
-
+A - Richard Spiro {BIO 15061279 <GO>}
 Page 23 of 24
 
 
@@ -1532,9 +1255,7 @@ Date: 2013-04-25
 
 But other than that, it shouldn't move too much one way or the other.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
+Q - Ian Gutterman {BIO 3106649 <GO>}
 
 FINAL
 
@@ -1544,10 +1265,7 @@ Operator
 At this time, we have no further questions. I'll turn things back over to management for
 any closing or additional comments.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Thank you, very much and have a good evening.
 
 Operator

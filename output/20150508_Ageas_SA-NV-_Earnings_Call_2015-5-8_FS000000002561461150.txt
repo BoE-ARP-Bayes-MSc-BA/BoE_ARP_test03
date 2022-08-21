@@ -34,10 +34,7 @@ Boizard, Chief Financial Officer. For the first part of this call, let me remind
 participants will remain on listen-only mode. And afterwards, there will be a question-andanswer session.
 Mr. de Smet and Mr. Boizard, please begin.
 
-Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+Bart Karel de Smet {BIO 16272635 <GO>}
 Good morning, ladies and gentlemen. Thank you, all, for dialing into this conference call
 and for being with us for the presentation of the first quarter 2015 results of ageas. As
 usual, I'm joined in the room by my colleagues of the Executive Committee, Christophe
@@ -123,10 +120,7 @@ and some closing remarks.
 
 Bloomberg Transcript
 
-Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+Christophe Boizard {BIO 15390084 <GO>}
 Thank you, Bart. Further to those opening remarks by Bart, I will provide you, as usual, with
 some additional comments on the operating results by insurance segment, the General
 Account and I will give some quick comments on our investments.
@@ -320,10 +314,7 @@ FINAL
 
 Ladies and gentlemen, I'd like to end my comments here and to hand over to Frank.
 
-Frank Vandenborre
-
-{BIO 15168443 <GO>}
-
+Frank Vandenborre {BIO 15168443 <GO>}
 Thank you, Christophe. Ladies and gentlemen, this concludes the introduction, and we can
 now open the line for questions. As usual, we'd like you to limit yourself to three
 questions to allow everybody to have enough time to raise questions. Thank you.
@@ -337,10 +328,7 @@ ahead. Your line is open.
 
 Bloomberg Transcript
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yes, thank you, and good morning, everyone. I'd just like a couple of questions. First on
 your capital. I mean your capital increased quite a lot to around 222 percentage points,
 Solvency I ratio, I guess partly because, as Christophe mentioned, on the liability
@@ -356,10 +344,7 @@ moment?
 And just a follow-up on that; is it anything to do with your M&A stuff, and does that reduce
 your M&A power, et cetera? Thank you.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 Okay. I'll give question one, Ashik, to Filip, and then the two other ones to Christophe. Filip
 is first.
 
@@ -371,9 +356,7 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2015-05-08
 
-A - Filip Coremans
-
-{BIO 17614100 <GO>}
+A - Filip Coremans {BIO 17614100 <GO>}
 
 FINAL
 
@@ -394,30 +377,19 @@ But as promised, we promised smooth transition and no significant change in our 
 and I think that is what you can expect that we will announce. The 222% has been boosted
 here by strong financial markets mostly and good results in the first quarter.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 Bloomberg Transcript
 
 But at the moment, you remain comfortable with your Solvency II position?
 
-A - Filip Coremans
-
-{BIO 17614100 <GO>}
-
+A - Filip Coremans {BIO 17614100 <GO>}
 Yes, we do.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. Thank you.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Okay. So, Ashik, on the deal with BNP Paribas, what is all the plus for ageas? I think several
 things. First, let's take the accounting side. As I said, if we realize that 100% we book this
 nice profit, the difference between €431 million of RPN(I) and what would be paid, €300
@@ -455,38 +427,26 @@ class, to achieve the target global return of 6% to 7%, so we need to regularly 
 capital gain. That's one element. Then the fact that we have an increased buffer gives us
 maybe more room to slightly increase the allocation on this asset class.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. Just a follow-up on this RPN(I). I mean given that you may have to pay out, say, €300
 million, worst-case scenario, would that alter your financial flexibility in terms of dividend
 and share buyback or M&A-related things?
 
 Bloomberg Transcript
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 I would say that from our perspective, there is no influence. If again, you take the worst
 case, but it could be, I don't know if it is the right word, a catastrophic event, in the sense
 very unlikely.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. That's very clear. Thank you.
 
 Operator
 Thank you very much. And moving on to our second line of Albert Ploegh, ING. Please go
 ahead. Your line is open.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Yes. Good morning, all. Yes, I have two questions from my end. First one, also a little bit
 related to the first question on the cash up-streaming in the Belgium solvency. I think last
 year, you guided that the normalized cash upstream was around a €525 million kind of run
@@ -512,10 +472,7 @@ good, I would say, maybe even slightly over 100%. Yeah, what measures are you pl
 and how comfortable are you with, let's say, the underlying combined ratio in the first
 quarter and also in light with the continued pressure on reinvestment yields? Thank you.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 Okay. Maybe a short answer on the first one, Albert. One, what we said after the full year
 results about the more recurring dividend upstream, where in 2014, we had something
 like €725 million, we said that's definitely at least €200 million had to be seen as
@@ -561,18 +518,13 @@ But having said all these things, we are all aware that this is the point of att
 remainder of the year. And we don't lose our confidence in being able to achieve a
 combined ratio close to our target of 97% in the remainder of the year.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
+Q - Albert Ploegh {BIO 3151309 <GO>}
 
 FINAL
 
 Okay. Okay, very clear. Thank you.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Investment yield was your last question. So at each call, we give the yield on new money.
 So for Q1 2015, it was 2%, 2.00%. And I remind you that in Q4 2014, it was 2.54%; in Q3,
 2.49%; and 3.06% the quarter before. So, for this year, 2.00%, and to be precise, you
@@ -616,37 +568,26 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2015-05-08
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay. Thank you. That's very helpful. But is it also possible to get maybe then also an
 updates on where the guaranties have moved on the back book and also on the new
 production?
 
 FINAL
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 On the back book, the guarantees, and you'll find it on slide 32 in the IR pack, came down
 to 2.70%, where the yields on the back book is 3.83%. For the new business, the
 guarantees are 1%.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay. Okay, thank you very much.
 
 Operator
 Thank you very much. And moving on to the line of Farquhar Murray with Autonomous
 Research. Please go ahead. Your line is open.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 
 Bloomberg Transcript
 
@@ -660,16 +601,10 @@ And then the second question is just on the tax rate, which was very low in the 
 Can you just outline what drove that and, in particular, can you just quantify what the tax
 credit was in France please? Thanks very much.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 Will you take it?
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Okay. So, on the CASHES, on the agreement, I think that I have already given a lot of
 explanation. So I don't want to give more because we have agreed with BNP Paribas of
 what can be shared and what is, let's say, more confidential. But you are right in saying
@@ -686,63 +621,38 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2015-05-08
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Okay. And then...
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
+A - Christophe Boizard {BIO 15390084 <GO>}
 
 FINAL
 
 And then, the €130 million, there is no tax thanks to the huge losses we had at the
 General Account level, and due to the past losses of Fortis.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Okay. But bottom line, the net cash impact is €300 million negative?
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Yes, correct.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 Max.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Max. Everything at 100%. And as I said, I expect one-third of all of this.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 
 Bloomberg Transcript
 
 Yeah.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 And the other was on tax rate, Christophe, and France.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 So on the tax rate on France, we have activated some DTA for an amount of €5 million.
 Obviously, it's negative in the tax amount we have to pay. So it decreased the tax rate.
 Then there is to take into account the fact that even though the nominal tax rate is 34%,
@@ -751,17 +661,11 @@ capital gain free of tax. So all this brings the overall percentage down. So, fo
 calculation and to have simple figure in mind, usually, we are around 25%. 25% is
 something on the long term you can rely on.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 Where were the – I mean, I think there was something more than just the DTAs in France.
 Was that – did you make significant gains on a particular asset class?
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 General Account.
 Page 13 of 26
 
@@ -771,24 +675,16 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2015-05-08
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 The General Account is tax exempted. So, that also has a positive impact.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 
 FINAL
 
 Yes.
 
-Q - Farquhar C. Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar C. Murray {BIO 15345435 <GO>}
 All right. Thanks.
 
 Operator
@@ -838,10 +734,7 @@ purchase price? Thank you.
 
 FINAL
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 Okay. We'll try to give the different questions to the best persons here to answer. So let's
 say the underlying profit increase in Belgium, excluding capital gains, I think one of the
 main reasons is the better risk, so underwriting result. And also that, of course, in line with
@@ -862,10 +755,7 @@ this year close to zero, where it was a year ago, I think, 3% to 4%.
 And then maybe the question on the ALM policy in Belgium and the structured products,
 Antonio, you can answer?
 
-A - Antonio Cano
-
-{BIO 16483724 <GO>}
-
+A - Antonio Cano {BIO 16483724 <GO>}
 Yeah, sure. So on the ALM, to answer your question, we are not changing our philosophy.
 As Christophe was saying, we have been buying longer-term bonds than we usually did
 and also some shorter terms. But that fits actually quite well with the ever-evolving also
@@ -880,10 +770,7 @@ approach. We're sticking to the cash flow matching approach. Having said that, t
 flow matching is never perfect 100%, and through these purchases, we actually always try
 to improve the cash flow matching profile, so no change there.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 And unit linked?
 Page 15 of 26
 
@@ -893,9 +780,7 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2015-05-08
 
-A - Antonio Cano
-
-{BIO 16483724 <GO>}
+A - Antonio Cano {BIO 16483724 <GO>}
 
 FINAL
 
@@ -913,9 +798,7 @@ actually constructing it with a zero coupon and upside linked to some sort of de
 but the zero coupon with low interest rates doesn't allow for a very attractive product. So,
 indirectly, the attractiveness suffers also from low interest rates.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
+A - Christophe Boizard {BIO 15390084 <GO>}
 
 Bloomberg Transcript
 
@@ -933,10 +816,7 @@ Operator
 Thank you very much. And moving on to the line of Chris Esson with Credit Suisse. Please
 go ahead. Your line is open. Mr. Esson, please go ahead as your line is open.
 
-Q - Chris J. Esson
-
-{BIO 6194371 <GO>}
-
+Q - Chris J. Esson {BIO 6194371 <GO>}
 Hi. Good morning, everyone. Sorry, that was on mute. So a couple of questions, firstly on
 Asia. So, clearly, really, really strong result and the increasing scale of the business is
 starting to come through. Just wanted to get a sense though, within the associate profits,
@@ -970,9 +850,7 @@ the U.K. market and how it's evolved over the last couple of years and whether y
 need to consider something a little bit more robust in terms of improvement initiatives.
 Thanks.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 
 Bloomberg Transcript
 
@@ -1023,19 +901,14 @@ equivalents with something like 250 in the past months. So we know that we have 
 very agilent (57:17) in this very competitive market, but give priority on profitability over
 growth.
 
-Q - Chris J. Esson
-
-{BIO 6194371 <GO>}
-
+Q - Chris J. Esson {BIO 6194371 <GO>}
 Thanks for that.
 
 Operator
 Thank you very much. And moving on to the line of David Andrich with Morgan Stanley.
 Please go ahead. Your line is open.
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
+Q - David T. Andrich {BIO 15414075 <GO>}
 
 Bloomberg Transcript
 
@@ -1048,31 +921,19 @@ And then second, on the U.K. Non-Life business. I'm just wondering, are you seei
 signs of kind of an improvement in terms of the depressing environment there or do you
 anticipate they'll still be challenged for quite a while yet?
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 Well, on the Belgium, on the first quarter, I don't really underline there's any special news.
 It is solid results. It's a good solid investment margin. But bear in mind, we had less capital
 gains than we had in the first quarter last year. Risk margins have been a bit better than
 last year, but that could be just normal volatility. There is nothing really anything special...
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David T. Andrich {BIO 15414075 <GO>}
 Well, I'm sorry, I was thinking about the net underwriting results and the Guaranteed bit.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 So you mean the risk and expense margin?
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David T. Andrich {BIO 15414075 <GO>}
 Yeah.
 
 Page 18 of 26
@@ -1083,51 +944,31 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2015-05-08
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 Investment margin. I don't think there is really a lot to mention there. There can be some
 normal volatility. There is no real news.
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
+Q - David T. Andrich {BIO 15414075 <GO>}
 
 FINAL
 
 Okay. Okay.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 So this is also an element where one quarter is not always saying everything.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 Yeah.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 We should say more of the same comment for the combined ratio, only one quarter.
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David T. Andrich {BIO 15414075 <GO>}
 Yeah.
 
 Bloomberg Transcript
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 Yeah. So, I'm on the U.K. If I have well understood your question, I think it's a bit linked to
 my reaction or my response to a previous question, is the market is very volatile. We have
 seen two years in a row continuous decrease in rates. For us, the past quarter, we have
@@ -1140,10 +981,7 @@ So, as I mentioned, it remains for us an important market because it's competiti
 we learn a lot from that market. But it also is a market where we have to stay very vigilant
 and act swiftly when things are changing.
 
-Q - David T. Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David T. Andrich {BIO 15414075 <GO>}
 All right. Thank you very much.
 
 Operator
@@ -1158,9 +996,7 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2015-05-08
 
-Q - Thomas Jacquet
-
-{BIO 4110153 <GO>}
+Q - Thomas Jacquet {BIO 4110153 <GO>}
 
 FINAL
 
@@ -1172,10 +1008,7 @@ conversion of the CASHES in shares. So I understand that BNP will receive the sh
 going to affect the total number of shares of the company or do the shares already exist?
 Thank you.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 So, for China, the continued growth I think we have to make a split between the single
 premium and the regular premium every year; it was the same a year ago. The first
 quarter is very, very strong in terms of single-premium sales. We certainly do not expect
@@ -1189,10 +1022,7 @@ that can give you some idea about margin evolution.
 
 Bloomberg Transcript
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 The question around the CASHES, so the correct funding, ageas shares already exist.
 They are pledged as a matter of fact and they are on the asset side of the balance sheet
 of BNP Paribas Fortis. So in BNP Paribas Fortis' balance sheet, you have on the liability side,
@@ -1200,22 +1030,13 @@ the CASHES; on the asset side, the ageas share. So there is no creation. The onl
 that these shares, they don't have voting rights at this moment. But once converted, there
 will be shares like others with full right and everything.
 
-Q - Thomas Jacquet
-
-{BIO 4110153 <GO>}
-
+Q - Thomas Jacquet {BIO 4110153 <GO>}
 Okay. Thank you very much.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 They already exist, you...
 
-Q - Thomas Jacquet
-
-{BIO 4110153 <GO>}
-
+Q - Thomas Jacquet {BIO 4110153 <GO>}
 No, okay, okay.
 
 Operator
@@ -1229,9 +1050,7 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2015-05-08
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 
 FINAL
 
@@ -1261,10 +1080,7 @@ ratio that is probably quite high. And that could be very important because if y
 doing potentially any transaction with the tiers, surely, it's something that will come back
 as an issue.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 I will start with the CASHES and here, I am a little bit at the limit of what I can share with
 you. But two elements: first, the CASHES are held by BNP Paribas Fortis. The way
 transaction will be structured/organized is completely given by BNP Paribas; we don't
@@ -1273,17 +1089,11 @@ the payment of the indemnification. So, on the conditions, I won't elaborate on 
 on BNP Paribas' side.
 Then on your question on the amount...
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Sorry, if I may say, but it is at their own discretion. So, if they decide to pay up, they can do
 it.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 At their own discretion, you are right. And we don't know at which price they will settle. We
 will have to see, but it is really their business; we don't enter into that.
 
@@ -1302,17 +1112,11 @@ variation I indicated with the ageas share price, but that's all.
 
 FINAL
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 Okay. Then the second question on the expense ratio, I think Antonio can maybe explain a
 bit the small move in Belgium.
 
-A - Antonio Cano
-
-{BIO 16483724 <GO>}
-
+A - Antonio Cano {BIO 16483724 <GO>}
 Yeah. So please bear in mind the two components of the expense ratio, so the
 commission and the cost ratio. When we benchmark ourselves and we do that quite
 regularly with peers on the cost ratio, are actually quite good, actually very good. And so
@@ -1331,32 +1135,21 @@ If you would dive down into the various product lines, there you would actually 
 most of the product lines, the expense ratio is stable or actually going down. So, to make
 a long story short, what you see is actually a change in business mix.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 You find that on page 30, however, you'll see per product line and the increase is, for
 instance, in Accident & Health where this pruning of workmen's comp has been executed.
 
-A - Antonio Cano
-
-{BIO 16483724 <GO>}
-
+A - Antonio Cano {BIO 16483724 <GO>}
 Yeah.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Very good. Thank you.
 
 Operator
 Thank you very much. And moving on to the line of Farooq Hanif with Citigroup. Please go
 ahead. Your line is open.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 Page 22 of 26
 
@@ -1382,9 +1175,7 @@ now which is very understandable. Can you talk about some of the product innovat
 that you're doing to address that and whether you think you can turn this around? Thank
 you.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
+A - Christophe Boizard {BIO 15390084 <GO>}
 
 Bloomberg Transcript
 
@@ -1397,34 +1188,19 @@ effect here, but let's say plus €10 million on Asia, plus €2 million on U.K.
 And for the volumes, you have some indication on slide four of the presentation. Let's say
 that, for instance, in Asia, half of the growth comes from FX, half of the growth.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Is that the same for liabilities as well?
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 That's at 100%?
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 Yes, at 100%. Insured at 100%, total impact is almost half of the total, 10%.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
-
+A - Christophe Boizard {BIO 15390084 <GO>}
 It was 34% to be precise, at 100%.
 Page 23 of 26
 
@@ -1434,31 +1210,20 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2015-05-08
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 Our stake.
 
-A - Christophe Boizard
-
-{BIO 15390084 <GO>}
+A - Christophe Boizard {BIO 15390084 <GO>}
 
 FINAL
 
 Our stake was, okay, sorry. On Asia, 34%, of which 10%, coming from FX. It's on slide 4 of
 the presentation.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Got it.
 
-A - Antonio Cano
-
-{BIO 16483724 <GO>}
-
+A - Antonio Cano {BIO 16483724 <GO>}
 Okay. I'll try to pick up on the question on product innovation in Belgium and in Life. First of
 all, bear in mind, premium is important, but we particularly also look at the evolution of the
 technical liabilities, so the funds under management, where we do see a continued
@@ -1485,10 +1250,7 @@ but those tend to be typically lower-sized premiums. But there we see our market
 actually going up slightly also in those types of products, like in practically all the Life
 products we are around 26%, 27% market share.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 And your question about cash returns from Asia. On one side, of course, increasing profits
 should be to higher capability of dividend upstream, as far of course as we can keep the
 solvency levels in line. But also, be careful because last year we could benefit from the
@@ -1503,10 +1265,7 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2015-05-08
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thank you very much.
 
 FINAL
@@ -1515,10 +1274,7 @@ Operator
 Thank you very much. And there are no further questions in queue. And with that, I would
 like to return the conference call back to the speakers.
 
-A - Bart Karel de Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart Karel de Smet {BIO 16272635 <GO>}
 Okay, ladies and gentlemen, thank you for your good questions. To end this call, let me
 summarize shortly the main conclusions.
 The inflows at 100%, reached almost €10 billion for the first time. Asia remains a strong

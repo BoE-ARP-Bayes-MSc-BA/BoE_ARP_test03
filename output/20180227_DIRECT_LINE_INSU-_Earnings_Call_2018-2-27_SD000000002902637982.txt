@@ -30,10 +30,7 @@ Unidentiﬁed Participant, Analyst
 Wajahat Rizvi, Research Analyst
 
 Presentation
-Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+Paul Robert Geddes {BIO 2474781 <GO>}
 (technical diﬃculty)
 for joining us here at Goldman Sachs for our full year results presentation, going into the
 detail behind the headline results we announced a few weeks ago. And a bit of a break
@@ -311,10 +308,7 @@ the past. Thank you for your support, for -- and debate with me over the last �
 in the next hour.
 And now, I'm delighted to pass it back -- on to Penny.
 
-Penelope Jane James
-
-{BIO 15157212 <GO>}
-
+Penelope Jane James {BIO 15157212 <GO>}
 Thanks, John. Firstly, I'd like to thank John for his extraordinary patience putting up with
 all my questions and curiosity over the past few months. Many of you already know me.
 Page 6 of 28
@@ -433,10 +427,7 @@ And with that, I'll hand over to Paul, to give you a real ﬂavor of what we're 
 
 FINAL
 
-Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+Paul Robert Geddes {BIO 2474781 <GO>}
 Thank you, Penny and John. Penny, it's great to have you here. John, we'll come back to
 you later. So as we've been through in 2017, we've delivered some great numbers. And
 these numbers haven't been achieved by accident, they're results of concerted
@@ -627,16 +618,10 @@ time, deliver to shareholders today with total dividends of GBP 0.354 in 2017.
 With that, let me go to questions.
 
 Questions And Answers
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 All right. Shall we go further this way? So Ravi?
 
-Q - Ravi Tanna
-
-{BIO 16926941 <GO>}
-
+Q - Ravi Tanna {BIO 16926941 <GO>}
 It's Ravi Tanna, Goldman Sachs. Three questions, please. The ﬁrst one was just on your
 investment income guidance. I know you've got a medium-term proﬁt growth target. But
 obviously with today's guidance on the current stable underwriting and fading investment
@@ -689,10 +674,7 @@ moment to do it. But that's a potential for improvement in interest rates and fo
 a bit more of that risk at the yield curve, assuming it ever does improve in the U.K. That's
 an upside. Do you want to...
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
-
+A - Penelope Jane James {BIO 15157212 <GO>}
 No. I think we are grateful. I've been looking into U.K. interest rates at the moment here.
 Shall I take SCR? SCR, early stage to give a deﬁnitive number. But directionally, if you look
 at the way the reinsurance program changed in 2014, then I think you should expect those
@@ -701,10 +683,7 @@ SCR calculation. So it's volatile to a number of things. But those are the thing
 equal, you'd expect to see, I think, some tick down over time, again, in the SCR, which
 gives us an option around how we deploy that for growth and for the book.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Our quote footprint has kind of 2, 3 buckets here. So ﬁrst of all, our quotes for things
 which we just don't do today, like, U.K. (inaudible). We don't do homes with pre-existing
 subsidence. So here you need some genuinely new equities to learn because we haven't
@@ -738,10 +717,7 @@ quote footprint versus the pushing out on the overall envelope. This expressive 
 footprint is important.
 Right. Thank you. Yes. We go...
 
-Q - Arjan Van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan Van Veen {BIO 5197778 <GO>}
 Arjan Van Veen, UBS. Thanks for the additional disclosure on the systems changes. Just
 curious to see, is that when you're going to roll them out? Could you talk maybe a bit
 about legacy systems and how quickly they kind of get turned oﬀ after the rollout? And a
@@ -751,10 +727,7 @@ ratio. So could you maybe indicate some areas where you think, it requires a lit
 
 Bloomberg Transcript
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Very good. So yes, I mean, systems, it's going to be multiple years to fully be able to
 switch oﬀ all legacy systems and mainframes. But that's not to say that as we reduce our
 usage of mainframes, we won't be able to save some money. So it's not -- clearly, there is
@@ -767,10 +740,7 @@ partners, as I say, renting versus buying infrastructure. So we've got -- it's n
 the cost savings that comes through on IT. It's actually quite progressive. Steve's got a
 great plan on that. Penny, (FAT)...
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
-
+A - Penelope Jane James {BIO 15157212 <GO>}
 Look, I think -- I don't want to comment on (Admiral) in particular. But what I said -acknowledge is there's a diﬀerent model here. So there are some costs that are incurred
 in this business that are done so for good reasons. So the Direct play, the marketing costs
 are diﬀerent, et cetera, et cetera. So I don't think we should necessarily compare the 2
@@ -796,19 +766,14 @@ in the last year. So I think that one is not working. So yes. So I don't think y
 at every cost line. There are some business trouble diﬀerences that are still a little ways to
 go, I think.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. I think -- listen, I mean, I acknowledge, I think it's fantastic to have Penny around next
 to the table. She does bring a -- bring the challenge on that area and there's not one we
 need to. But it's -- investors say, having fresh blood and fresh energy on that, I think, is
 really important. And as you know, we've got targets to continue to reduce our expense
 ratio, which we're all behind. Good. The next -- James and Alan here.
 
-Q - James Austin Shuck
-
-{BIO 3680082 <GO>}
+Q - James Austin Shuck {BIO 3680082 <GO>}
 
 Bloomberg Transcript
 
@@ -824,34 +789,22 @@ reserves to have fallen as well. Then thirdly, around the GDPR, just interested 
 right to be forgotten and what that might mean for things like no claims bonuses and the
 like, particularly in Motor.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Good. So LTIPs, you'll have noticed, our (own cave) has stretched our RoTE targets by 250
 basis points. So a new application that went further.
 
-Q - James Austin Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Austin Shuck {BIO 3680082 <GO>}
 Or -- well, part of the reason why that happened is because the gearing level's gone up a
 little bit...
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. So -- but half of that increase is the debt, which is worth about 130 basis points. And
 the rest is just further stretching within -- the RemCo has a job to do, as you rightly point
 out, to stretch the targets just to keep the carrot suﬃciently the right distance from the
 horse to make it motivating. And I think -- so that -- I think your observation explains why
 they put 250 basis points on the target.
 
-Q - James Austin Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Austin Shuck {BIO 3680082 <GO>}
 Maybe to help you understand just a bit sort of why that is a stretch. Because if I look at
 the RoTE in recent years, you're consistently making that kind of number. So it's sort of
 you don't have to do anything. And then you get paid out fully on the oﬀsets.
@@ -865,10 +818,7 @@ Date: 2018-02-27
 
 FINAL
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. I think -- listen, I think, delivering 20.5% RoTE, I think, is a very good performance.
 And I think to increase the targets in one go by 250 basis points, I think, is quite a change.
 And I think they've done their job to make the target more stretching. Whilst I think (it's
@@ -889,9 +839,7 @@ outstanding claims to reduce. As the old years, which had the very high deductib
 insurance runoﬀ. So we're not surprised that there's some reduction in that ratio. But
 there's nothing -- there's no underlying change in policy or reserving that should worry us.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 
 Bloomberg Transcript
 
@@ -905,16 +853,10 @@ about collecting consensus of the right things. And that's what we'll be focused
 So we don't think it's a -- this is a major issue, really, if that's what you were hinting at. That
 make sense?
 
-Q - James Austin Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Austin Shuck {BIO 3680082 <GO>}
 Makes sense.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 No. Stuﬀ like convictions, I think we've got a more sensible outcome than some people
 initially could be concerned about. Do you want to mention convictions?
 
@@ -936,10 +878,7 @@ that's what we'll be making sure that we do as well.
 
 FINAL
 
-Q - James Austin Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Austin Shuck {BIO 3680082 <GO>}
 My (conﬁrm) would be that people are more inclined to claim for things like scratches and
 things like that because then they can just -- have the right to be forgotten. And then they
 get across and you (provide it).
@@ -948,15 +887,10 @@ A - Michael Holliday-Williams
 No. No. No. That is not -- we share NCDs on a (Q) database and trying to make it easier to
 share it around the industry. And so we'll be collecting consent to do that.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 That's right. Alan?
 
-Q - Alan Devlin
-
-{BIO 5936254 <GO>}
+Q - Alan Devlin {BIO 5936254 <GO>}
 
 Bloomberg Transcript
 
@@ -967,10 +901,7 @@ more color of what's going on? Then just second on the reinsurance, taking 10% o
 ﬁrst (million-prime) there, not much more working there. Did you consider taking more of
 that -- retaining more of that risk? Or would you consider it out in the future?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. I mean, we've always said that having a balance sheet gives us the optionality to be
 selective on the lower layers and to get -- use that to get a good price. And we think we
 did use that. So 90% is pretty perfect for us in terms of the level of placement of that when
@@ -1018,10 +949,7 @@ something that makes you think again about your plans there?
 
 Bloomberg Transcript
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 So RoTE targets. Let me tell you what our 15% is. What it isn't is a cap on our RoTE. We're
 incentivize, maybe, not to change its full taste. But we're incentivized now to keep
 pushing that up another 250 basis points. And it doesn't stop us delivering the returns.
@@ -1052,9 +980,7 @@ we quite like them. We quite like where that market's developing for us.
 A - Anthony Jonathan Reizenstein
 More to come there.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 
 Page 18 of 28
 
@@ -1085,10 +1011,7 @@ of the past, we think there is stability in there now. And we call out -- it fee
 that long term claims inﬂation is still at 3% to 5%. And we've got good grip of that
 situation.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 Is that 3% to 5% in the Home as well?
 
 A - Michael Holliday-Williams
@@ -1107,16 +1030,10 @@ has been a very strong performer for many years. And it's (inaudible) certainly,
 long tail. And always has, (Jon) is nodding, very good runoﬀ from that portfolio. And I
 think we all expect that to continue.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. Then we'll go to the other side of the room.
 
-Q - David Bracewell
-
-{BIO 16394801 <GO>}
-
+Q - David Bracewell {BIO 16394801 <GO>}
 It's David Bracewell here from Redburn. Two questions. One on the kind of change in the
 mix in terms of moving to your own brand policies. My expectation is that has a higher
 margin than maybe the partnership business. And therefore, I'm going to expect that we
@@ -1136,10 +1053,7 @@ in 2017 in terms of (prices)?
 
 FINAL
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. So we were pricing with a view of what the reinsurance would be. And so we're
 slightly to the right side of that in terms of what we're seeing. So we've already done that.
 And brand mix, John??
@@ -1156,18 +1070,13 @@ commission ratio coming down, it will build on this very trend you're looking to
 can't say it's going to make it better than we've said. But it will underpin what we have
 said, if that makes sense.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 
 Bloomberg Transcript
 
 Great. We'll move to this side of the room.
 
-Q - Andreas Evert Cornelis de Groot van Embden
-
-{BIO 1795530 <GO>}
-
+Q - Andreas Evert Cornelis de Groot van Embden {BIO 1795530 <GO>}
 Andreas van Embden, Peel Hunt. Two questions, please. First of all, on moving to Radar
 Live and your pricing model in Motor. What were you missing up to now in your pricing
 agility? And where will this take you? Does this take you into intra-day pricing, for
@@ -1176,10 +1085,7 @@ think it's going to be most useful? And secondly, on Rescue as you grow that bus
 Could you comment on whether you see any synergies between your insurance business,
 particularly the Motor book and Rescue as you scale up?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. I mean, listen, we talk here about Green Flag impound. But we also have a very
 important business in linked. And linked is a big part of our plan as well. And all our
 initiatives will support that channel and package accounts, which is the third channel. So
@@ -1187,11 +1093,9 @@ yes, in terms of cross-selling, that's kind of a feature of our plans. If you're
 whether we should have a Green Flag insurance -- most insurance plan, I think we've got
 plenty of insurance plans on that in terms of Motor insurance. Was that -- sorry.
 
-Q - Andreas Evert Cornelis de Groot van Embden
+Q - Andreas Evert Cornelis de Groot van Embden {BIO 1795530 <GO>}
 
 Page 20 of 28
-
-{BIO 1795530 <GO>}
 
 
 
@@ -1208,10 +1112,7 @@ A - Anthony Jonathan Reizenstein
 Well we don't -- the partnerships are separate. So the Rescue partnerships is separate
 from the insurance partnerships.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Generally, if you split the book up, there's a lot of volume of policies that we do, as we've
 said, for very low margin. But if you give us Rescue scales, which is really important, you
 get more vans near more motorways and in more cities from that. So -- and then we've
@@ -1229,10 +1130,7 @@ Bloomberg Transcript
 And that's the one with the highest margin. That's the piece of Rescue that has the highest
 margin.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Pricing, you get lots of stuﬀ from Radar Live. So we get lots more external data. We get
 more accuracy at modeling. We get faster deployment. Intra-day is a functionality which
 we, at some stage, could choose to deploy. We need to work out the merits and demerits
@@ -1244,19 +1142,14 @@ from. And application fraud is another big (leverage) Steve?
 A - Steven Maddock
 (inaudible)
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. Sorry. The other thing is it's not much more eﬃcient to run. So at the moment, we
 model separately from deploying, which is not only accurate -- I mean, accuracy and takes
 in lag. But also is lots of work. So we're going to remove work from it. So it's really good.
 Very excited about that.
 Right. Yes. (inaudible).
 
-Q - Wajahat Rizvi
-
-{BIO 19928187 <GO>}
+Q - Wajahat Rizvi {BIO 19928187 <GO>}
 Page 21 of 28
 
 
@@ -1277,10 +1170,7 @@ bit back-end loaded from this technology? And ﬁnally, just a numbers question.
 changing runoﬀ, you're putting it in operating. The guidance of runoﬀ oﬀsetting
 restructuring cost, is that still valid for the next few years?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 You do 1 and 3. And I'll do (inaudible).
 
 A - Anthony Jonathan Reizenstein
@@ -1291,9 +1181,7 @@ be changes. So if Ogden -- if the Ogden rate changes, we'll get a beneﬁt in ru
 as a beneﬁt in Motor and Commercial. Maybe we'll -- we'll probably report that
 separately.
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
+A - Penelope Jane James {BIO 15157212 <GO>}
 
 Bloomberg Transcript
 
@@ -1327,9 +1215,7 @@ Company Name: Direct Line Insurance Group PLC
 Company Ticker: DLG LN Equity
 Date: 2018-02-27
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 
 FINAL
 
@@ -1351,18 +1237,12 @@ reengineering to make the underlying net usage, reduce it, eliminate it or get a
 deal on it. So there's about 4 levers that we're pulling. And each of those has an impact
 over the life of our plan.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Right. (inaudible).
 
 Bloomberg Transcript
 
-Q - Andrew John Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew John Crean {BIO 16513202 <GO>}
 Andrew Crean with Autonomous. Three questions, if I can. Firstly, on Motor PCW, I think
 your market share has been broadly ﬂat. And I think with this new pricing machine, you're
 anticipating building market share there. Can you share with us some of your ambitions,
@@ -1372,10 +1252,7 @@ there's a bit of a bubble. Will that drop down from '19 onwards? Then ﬁnally o
 and Ogden, can you say a little bit about what you anticipate, the legislative position is on
 that? And if you don't get anything through parliament on Ogden, what happens?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 I'll start with the last one. So on the government's national time table, introduced
 legislation to get kind of 2 parts of whiplash in by next April. There's quite a lot of work to
 be done by all parties to get that to happen. There's a lot of systems work to be done. So
@@ -1417,9 +1294,7 @@ leading-edge at PCWs. And we know what the deltas are. And we think that we have
 systems work and the initiatives set to close that application fraud pricing we've talked
 about. And as I say, alternative pricing approach.
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
+A - Penelope Jane James {BIO 15157212 <GO>}
 
 Bloomberg Transcript
 
@@ -1429,16 +1304,10 @@ moment. So we're in a bit of the upper end of that range. I think we'll stay at 
 end of that range in the short term. But I don't think it means that we'll stop investing in
 the business in 2019. I might peel back a bit then.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. Kamran?
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 It's Kamran Hossain from RBC. Just one big picture question. So you talked a lot about the
 changed distribution model, how you're able to access all the 3 main channels. When you
 think about partnerships, one of the Big 4 price comparison websites last week set out its
@@ -1449,10 +1318,7 @@ it change the way the aﬃnity might work going forward? Because obviously a lot
 big aﬃnity deals, especially on the Home side, are with banks. So any thoughts on the big
 picture question?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Yes. I mean, generally, we've seen this leg of our strategic permit as giving us some
 strategic optionality. And I think one of the things we want to do is if we're not a great
 retailer, we'd certainly like to be the smart and eﬃcient manufacturer behind other great
@@ -1487,9 +1353,7 @@ great to be up -- it's great to be across all the channels, I think net all of t
 don't think any of us can necessarily say the way the future is exactly going.
 Yes.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 
 Bloomberg Transcript
 
@@ -1502,16 +1366,10 @@ A - Anthony Jonathan Reizenstein
 Yes. I mean, it's slightly a historic reference to the renewal. It's a couple of years back until
 moving on to the next one at some stage. But (that's the nature of budget).
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
-
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 (inaudible)
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 So Dhruv, that's quite mature in Home. Rescue is a more recent deal. And that's reﬂected
 in our numbers. But there's no big change. Mike?
 
@@ -1533,10 +1391,7 @@ Date: 2018-02-27
 
 I think we're just...
 
-A - Penelope Jane James
-
-{BIO 15157212 <GO>}
-
+A - Penelope Jane James {BIO 15157212 <GO>}
 It's probably a good answer.
 
 FINAL
@@ -1547,10 +1402,7 @@ runoﬀ book. We hadn't published the capital number. And you'd expect it to use
 capital in other parts because of the PPO nature of it. We haven't mentioned the number
 (that maybe we'll get).
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Good. Last one. Last one.
 
 Q - Unidentiﬁed Participant
@@ -1565,10 +1417,7 @@ giving the business to the lowest price, for the best price. And hence it's a wi
 if you win a partnership? And thirdly, on the price increases you and the market has done.
 Has that led to increased switching rates in Home and Motor?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Very good. So to deal with the last one ﬁrst. So retention's up a bit in Motor, down a little
 bit in Home. But I mean, plus or minus 1% on both. But still Direct Line tracking levels,
 mid-80s in retention. And people are shopping around. People shopping around, I think,
@@ -1618,9 +1467,7 @@ that business stable.
 Q - Unidentiﬁed Participant
 And application fraud, is it a major improvement you are going through?
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 
 Bloomberg Transcript
 
@@ -1635,10 +1482,7 @@ Operator
 (Operator Instructions) So at the moment, no questions coming through. So I'll hand back
 over to you.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 Thanks very much. Before I conclude here, we'll switch oﬀ the lines. But nothing huge to
 announce now. But I thought we got to -- we just have one ﬁnal slide, which is just to say
 to goodbye to John. Some pictures of John. The great beneﬁt, John and I is he's actually
@@ -1647,10 +1491,7 @@ getting older through the whole journey. (inaudible). So John...
 A - Anthony Jonathan Reizenstein
 Let me practice my interview.
 
-A - Paul Robert Geddes
-
-{BIO 2474781 <GO>}
-
+A - Paul Robert Geddes {BIO 2474781 <GO>}
 (inaudible).
 So John, a fantastic selection of non-work things to do. On John's behalf, we also
 (inaudible)

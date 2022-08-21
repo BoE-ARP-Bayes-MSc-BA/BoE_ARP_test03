@@ -39,10 +39,7 @@ ask a question. (Operator Instructions)
 At this time, I would like to turn the conference over to Ms. Giulia Raffo, Head of Investor &
 Rating Agency Relations. Please go ahead, madam.
 
-Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+Giulia Raffo {BIO 21037091 <GO>}
 Thank you very much, and welcome all to Generali Full Year 2019 Results Conference Call.
 Here with me, I have our Group CEO, Philippe Donnet; our General Manager, Frederic de
 Page 1 of 25
@@ -59,10 +56,7 @@ for some introductory remarks. Thank you all. Philippe?
 
 FINAL
 
-Philippe Donnet
-
-{BIO 4657671 <GO>}
-
+Philippe Donnet {BIO 4657671 <GO>}
 Thank you, Giulia. Thank you. Good morning, everyone and welcome to the presentation
 of Generali's 2019 financial results. 2019 was a very important year for our Group as it
 marked the beginning of the execution of Generali 2021, our three-year growth and
@@ -113,35 +107,23 @@ Societe Generale. Please go ahead.
 
 FINAL
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hi, guys. Thank you very much. Just wanted to ask a couple of questions. First is, kind of,
 overview one. What would you say the main difference is between now and the financial
 crisis? Are you much more confident about solvency and ability to weather a downturn?
 And then the second question, I was looking at credit deterioration. How concerned are
 you about that? Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Thank you so much. I will pass it on to Philippe for an introduction, and I think, Cristiano will
 follow up.
 
-A - Philippe Donnet
-
-{BIO 4657671 <GO>}
-
+A - Philippe Donnet {BIO 4657671 <GO>}
 No, go ahead, Cristiano, we'll take the question immediately.
 
 Bloomberg Transcript
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 So Nick, good morning. Regarding the differences of the previous crisis compared to this
 one, I think if I understood your question, the solvency is the new framework compared to
 2008, if my understanding is correct, and how this is helping. I do think that the
@@ -173,20 +155,14 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2020-03-13
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Thank you. Yes. No, that's very useful. Just a very quick follow-up. The market collapse,
 which is obviously very severe at the moment, how worried are you that it will kill the unit
 linked recovery that we've been seeing?
 
 FINAL
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 This is Frederic speaking. Now first, we've seen good performance last year on unit linked,
 especially in France and Germany, and we've seen a good recovery in Italy in the last
 quarter. The beginning of the year, so January and February, has been strong on this in all
@@ -200,46 +176,29 @@ clients who have invested, for instance, last year, is a very good solution, if 
 market. So we have some solutions, but still, I cannot deny that we may see an impact on
 the unit linked due to the market volatility.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 
 Bloomberg Transcript
 
 Great. Thank you very much.
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Sure.
 
 Operator
 The next question is from Peter Eliot with Kepler Cheuvreux. Please go ahead. Mr Eliot,
 your line is open.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Sorry, can you hear me now? Hello.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Yes, we can hear you.
 
-A - Philippe Donnet
-
-{BIO 4657671 <GO>}
-
+A - Philippe Donnet {BIO 4657671 <GO>}
 Yes. We can hear you.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Yeah, sorry about that. I guess on a similar topic, but on the liability side, I mean, obviously,
 our thoughts are all with -- on the human cost, but in terms of the -- wondering if you
 Page 4 of 25
@@ -266,19 +225,13 @@ on revenues, and you mentioned some investments in startups, increasing expenses
 just wondering what do you think of the sort of underlying result there as you strip out
 those effects? Thank you very much.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Thank you. Thank you, Peter. I'll pass on to Frederic for the claims question. And then I'll
 ask Philippe to address the M&A question, and then Cristiano on the asset management.
 
 Bloomberg Transcript
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Hi, Peter. So on the impact of these crisis and claims, the first answer, and I will make it
 more detailed, is that this is broadly neutral. Let me tell you more on this. If I look at
 specific issues that you heard of recently, so first, we have zero exposure on event
@@ -298,9 +251,7 @@ the conclusion on all of this is that we don't expect any significant impact on 
 experience.
 I'll leave the floor to Philippe on M&A.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter Eliot {BIO 7556214 <GO>}
 
 Page 5 of 25
 
@@ -318,27 +269,16 @@ when the governments get involved and locked down, and then maybe the cause coul
 be attributed to the government shutting down events rather than the original cause and
 just there's no scope in the things for that?
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 We don't believe it will be the case. But again, we are going to monitor this.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you.
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Philippe on M&A?
 
-A - Philippe Donnet
-
-{BIO 4657671 <GO>}
+A - Philippe Donnet {BIO 4657671 <GO>}
 
 Bloomberg Transcript
 
@@ -383,10 +323,7 @@ implementation of the plan. If we don't find good parties, we always say that we
 find other solutions.
 I will let the team comment on asset management.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes, good morning, Peter, and thank you for your question on the asset management
 side. So on the startups, we have today moved within four startups. The last one that has
 been approved by the regulator has been the 360 in Italy. The plans we have on all the
@@ -404,19 +341,13 @@ discipline and the startups are also within that discipline. Obviously, we have 
 more. But as you know, by doing this, we also create shareholder value over time.
 So that's my answer to your question.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. Thanks very much.
 
 Operator
 The next question is from James Shuck with Citi. Please go ahead.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Good morning, everybody. So my question is, to begin with, firstly, around liquidity
 situation. So I think you referred to a strong level of Group liquidity. Could you be a bit
 more specific on what that number is and how do you manage it within certain target
@@ -436,18 +367,12 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2020-03-13
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 James, thanks for your question. I'll ask Cristiano to answer those, please.
 
 FINAL
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Hi, James, so regarding your first point, liquidity situation, if we look at the year-end '19,
 you can see in our accounts that we have more than EUR3.5 billion of cash invested either
 in bank accounts or investment on market funds in the head office, and this gives us a very
@@ -483,10 +408,7 @@ Having said all that, this brings us in a situation that we can stick to try to 
 level our capital generation, and the volatility around this has not been expected too high.
 Hope I gave you the answer, James.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Yeah. Well, yeah, I'll just -- if I could just quickly return to the liquidity point, because I think
 you have EUR3.5 billion of sequential [ph] liquidity, I don't really have a feel for a target
 range on that. And listening to what you're saying on the operating units and remittance
@@ -504,10 +426,7 @@ solvencies.
 
 FINAL
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Well, James, it is important to know that what we are doing is exactly managing the
 decision on all sides of the balance sheet, asset, liabilities, in order to manage the good
 equilibrium of the business. And this is allowing us to manage the situation coherently. All
@@ -519,10 +438,7 @@ a much more efficient way than in the past. And this is an advantage factor that
 play in this moment. And don't forget that each single business unit, the major one, as
 they are also the buffer of capital exactly to manage uncertainties.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -531,10 +447,7 @@ Bloomberg Transcript
 
 The next question is from Michael Huttner with Berenberg. Please go ahead.
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Fantastic. Thank you very much and congratulations for standing for the caravan in these
 difficult times and giving us extraordinary numbers. And I have three questions. The first
 one is, I saw a headline, but I may be completely mistaken. I'm sitting at home and my
@@ -552,10 +465,7 @@ year? I know this year, the first year, you're still, you're kind of moving into
 and everything. But maybe the growth in dividend, maybe a touch more next year just to
 reflect what's underlying on extremely solid numbers? Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Thank you, Michael. Sorry, can I ask you a favor? The line was a bit --
 
 Page 9 of 25
@@ -566,85 +476,50 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2020-03-13
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Yeah, I know. I'm calling from my mobile, (inaudible) I'm sitting upstairs, so all I could do is
 maybe e-mail, but I can't do anything else.
 
 FINAL
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 No. No, it's okay. So just to make sure, on the first question, you want to know about the
 VA, like the country-specific VA adjuster?
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Yes. The Italian BTPs.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Yes. On the second question, you just want some clarity on the capital management
 component within the remittance from subsidiary?
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Yeah.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
+A - Giulia Raffo {BIO 21037091 <GO>}
 
 Bloomberg Transcript
 
 Then the third question, I lost it also, if you don't mind to repeat the --
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 The third question was just saying, is there any chance that you could increase the growth
 of dividend going forward? I understand this in the first year of a three-year plan, maybe
 going forward given the strength of the results, there maybe some more flexibility.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Sorry, on the last question, in terms of giving five-year target and -- or the dividend --
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 No, no, no, the dividend.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Oh, the dividend. Okay.
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Yeah, the dividend.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Okay. Cristiano, if you want to start?
 
 Page 10 of 25
@@ -657,10 +532,7 @@ Date: 2020-03-13
 
 FINAL
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes. Hi, Michael, welcome back. So first of all, thanks for asking me the question on the
 BTP because if we just look what happened in these days, there is a lot of interesting
 things we can say about the new treatment of the so-called country-specific volatilityadjustment level, which in the past was set at 100 basis points and it has been changed to
@@ -690,31 +562,19 @@ support the growth. So allow me to say that this is an efficient use of excess c
 operating entities to increase the future capital redeployable in the growing entities.
 Hope I gave you the answer on this point.
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Maybe you can give it -- the name of a country, I'm pushing my luck here, but maybe.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 The excess capital is always concentrated in our main European entities, so you have to
 focus on the European entities. And even the contribution of this year has been
 concentrated among Italy, Germany and France. But you could expect going further that
 we are expanding capital management figures also to our operation which are in Austria?
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Philippe, over to you for the dividend.
 Page 11 of 25
 
@@ -726,10 +586,7 @@ Date: 2020-03-13
 
 FINAL
 
-A - Philippe Donnet
-
-{BIO 4657671 <GO>}
-
+A - Philippe Donnet {BIO 4657671 <GO>}
 Okay. So we defined, when we announced our Generali 2021 plan, we defined the
 trajectory for dividends, which was to grow steadily the dividend and to make it more and
 more sustainable, which means to steadily decrease the payout ratio or keep it in a range.
@@ -743,10 +600,7 @@ reason it should be different next year. I mean, obviously, we need to grow the 
 Obviously, we need to still have a capital, a stronger capital position. But as we said, we -our capital generation is strong. Our business is solid. Our portfolio is very resilient. So I
 see no disruption in the dividend trajectory. And I think that also on the dividend, we will -we confirm the targets of the plan.
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Thank you so much. Thank you.
 
 Operator
@@ -755,10 +609,7 @@ Bloomberg Transcript
 
 The next question is from Johnny Vo with Goldman Sachs. Please go ahead.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Yeah. Good morning. Just a couple of questions again on the remittance. So clearly, we
 can see that 15% increase. But as you said, Cristiano, it's coming from your major entities.
 So Italy, yeah, it's been benefiting from the country-specific VA. But certainly, France is
@@ -770,16 +621,10 @@ in terms of capital charge? And the final question is just in regards to zero ma
 guaranteed business. Given that rates continue to drop, can you adjust those zero
 maturity guarantees to negative guarantees? Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Cristiano, all for you.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes. So, hi, Johnny. First point, should we expect remittance at the level of year-end 2019,
 also in 2020. Yes, simply because as we said, there are pocket of capital, not only in life
 entities, there are also non-life entities, and there are actions to increase capital feasibility
@@ -812,30 +657,19 @@ apply a specific charge for the BTP as required by the local regulator.
 The third point if I understood well is the zero maturity guaranteed business for Italy. Did I
 understand well?
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
+Q - Johnny Vo {BIO 5509843 <GO>}
 
 Bloomberg Transcript
 
 Yes.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 And other markets.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Okay. I hope I anticipated, Johny, in the first answer. The zero maturity guarantee are the
 full amount of production basically of 2020. Already, it is more of 95%, we are basically
 close to 100%. And among this, there is without guarantee, a comprehensive product plan
@@ -847,10 +681,7 @@ observing are bringing overall down the new business value for market sensitivit
 sensitivities you have them in their own funds and in new business value gives the
 supplemental information and then it's pure mathematics you can make it, okay.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Yeah. Brilliant. Thank you.
 
 Page 13 of 25
@@ -866,10 +697,7 @@ The next question is from Farooq Hanif with Credit Suisse. Please go ahead.
 
 FINAL
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi everybody. Thank you very much, and I hope you're all keeping well as well. Just three
 questions. Two which are very quick. So firstly, the quick question. So why have you had
 such a big jump in acquisition cost in the Life business. Can you talk about the products
@@ -883,9 +711,7 @@ know you've been investing in technology. So I was wondering if you do have a pe
 extended or lack of ability to have those face-to-face meeting, what are you able to do to
 offset that? Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
+A - Giulia Raffo {BIO 21037091 <GO>}
 
 Bloomberg Transcript
 
@@ -893,40 +719,22 @@ Farooq, it's Giulia here. Sorry, just a follow-up for me. I understood the first
 is about the acquisition cost increase. Can you please repeat the second question on the
 unit linked?
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Second question was what proportion of your unit-linked investments are in equities?
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Thank you. And then the --
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 And the third question was --
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Yes.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 And how you can -- if you don't have face-to-face meetings, how you can sell remotely?
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Okay. Thank you very much. Cristiano, do you want to start with the acquisition costs?
 
 Page 14 of 25
@@ -939,10 +747,7 @@ Date: 2020-03-13
 
 FINAL
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes. Hi, Farooq. So acquisition cost growth is explained by the -- first of all, by the strategy
 skewing the Life -- you refer to Life acquisition cost. So referring to the skew to production
 on unit linked and protection. As you know, protection is being very profitable. It has
@@ -955,9 +760,7 @@ scheme with our partner called Deutsche Vermogensberatung, DVAG. And then we hav
 as well a small effect related to the new IFRS 16 accounting on the so called leasing
 contracts part -- for the part of the amortization.
 
-A - Philippe Donnet
-
-{BIO 4657671 <GO>}
+A - Philippe Donnet {BIO 4657671 <GO>}
 
 Bloomberg Transcript
 
@@ -974,28 +777,19 @@ structured product have a guarantee on some kind of protection. And there are,
 obviously, some equities exposure, but that again is different from -- I think your question
 is to understand the mark-to-market. So 35% to 40% is the exposure of all of the group.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 And quickly on that, what is the credit exposure? So if we're trying to mark-to-market,
 obviously, you've had massive widening. I just want to understand how much of the
 remainder is credit based and will be impacted by spreads.
 
-A - Philippe Donnet
-
-{BIO 4657671 <GO>}
-
+A - Philippe Donnet {BIO 4657671 <GO>}
 Most of the exposure after that is fixed income, mainly on government bonds and credit
 is based more especially on the higher side. So it's fairly small. And what we see in credit,
 if you look at investment grade, year-to-date the income, as I said, the spread widening
 on the higher end of the credit quality. So I think this is not where we're going to see
 movement, it's going to be more on the higher side but which is quite small.
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 I'll start on the third one and then I'll give the word to Marco Sesana, Generali Hong Kong,
 GM [ph]. So Farooq, first, this is true that we are mostly an agent company and we believe
 in agents. And I think our sales figures over the past years give us rising fees. And we've
@@ -1020,10 +814,7 @@ Germany, in Italy, in Central and Eastern Europe, in Portugal, in Turkey and in 
 this is also something we develop and this is also part of our strategy. I'll give the word to
 Marco first.
 
-A - Marco Sesana
-
-{BIO 20490752 <GO>}
-
+A - Marco Sesana {BIO 20490752 <GO>}
 Yes. Thank you, Frederic, and thank you for the question. And thank you for the -- so we
 are all safe. And in Italy, we are still operating. We have a functioning company. So I just
 want to say that we are really active across Italy. So we have been investing a lot in this -over this year to make sure we can support the relationship with digital tools, with every
@@ -1043,22 +834,13 @@ happening. There are amazing story that are going on right now. I am -- for the 
 time, I will not go into that, but just -- I want to let you know that we are active with the
 client.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. That's really kind. Thank you very much.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Jean-Laurent?
 
-A - Jean-Laurent Granier
-
-{BIO 16455071 <GO>}
-
+A - Jean-Laurent Granier {BIO 16455071 <GO>}
 Yes, good morning. Thank you, Farooq, for your question. This is Jean-Laurent Granier,
 CEO of France speaking. I mean -- in France, we have a very, very diversified distribution
 setup working with not only with agents and proprietary networks, but also with a lot of
@@ -1079,26 +861,19 @@ Date: 2020-03-13
 customer for some weeks. So, overall, I mean playing diversification will protect, I think,
 our business activity in our top line. Thank you.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 FINAL
 
 Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Next question please.
 
 Operator
 The next question is from Elena Perini with Banca IMI. Please go ahead.
 
-Q - Elena Perini
-
-{BIO 4202240 <GO>}
+Q - Elena Perini {BIO 4202240 <GO>}
 
 Bloomberg Transcript
 
@@ -1116,27 +891,18 @@ understood correctly that your sensitivity has -- so you mentioned approximately
 percentage points in your Slide number 38, so we can expect about seven or eight
 percentage points? Thank you very much.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Elena, sorry just to clarify, so you have three questions. One on costs and whether we
 confirm our target on cost reduction. Then you have the second question on the motor
 TPL for the suspension of premium. And then, you have a final question on the VA
 sensitivity in terms of country VA for BTP. Is that correct?
 
-Q - Elena Perini
-
-{BIO 4202240 <GO>}
-
+Q - Elena Perini {BIO 4202240 <GO>}
 Well, for the first one, actually I would like you to elaborate on the confirmation of your
 target. So even with a different mix, so lower revenue but also lower costs, so a higher
 cost reduction versus our current targets. Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 I'll ask Frederic to answer your first question, and then Cristiano will take the one about
 the VA and our CEO of Italy can answer on the motor TPL. Thank you.
 
@@ -1148,9 +914,7 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2020-03-13
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
+A - Frederic de Courtois {BIO 16976110 <GO>}
 
 FINAL
 
@@ -1184,10 +948,7 @@ the plan and it makes us confident that we will achieve the EUR200 million targe
 mature markets.
 I give the word to Marco on MTPL.
 
-A - Marco Sesana
-
-{BIO 20490752 <GO>}
-
+A - Marco Sesana {BIO 20490752 <GO>}
 Yes. So thank you. And I would say -- so we need to see the type of measure that the
 government will implement. It's not only MTPL there might be other measures. At the
 moment, we don't have full visibility of what is going to happen in the next weeks.
@@ -1196,16 +957,10 @@ going to have a big impact on the -- on our results. It's going to -- can be mar
 because over time, we will recover these and we'll make sure that renewal after renewal
 it's going to come anyway over time. So I don't see any big issue on this topic.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Thank you. And now, Cristiano for the country VA.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Page 18 of 25
 
 
@@ -1226,18 +981,13 @@ what is the main message is, it is broadly what you observed by the end of '18 a
 a much less sensitivity towards this movement. That was a key sense of the message.
 Hope I clarified.
 
-Q - Elena Perini
-
-{BIO 4202240 <GO>}
-
+Q - Elena Perini {BIO 4202240 <GO>}
 Okay. Thank you very much.
 
 Operator
 The next question is from Niccolo Dalla Palma with Exane BNP Paribas. Please go ahead.
 
-Q - Niccolo Dalla Palma
-
-{BIO 16052945 <GO>}
+Q - Niccolo Dalla Palma {BIO 16052945 <GO>}
 
 Bloomberg Transcript
 
@@ -1252,29 +1002,17 @@ actions taken there. I just wondered whether you can give us some indication of 
 taken so far, whether it will already have an impact directionally to the positive side of this
 number. Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Thank you very much. I'll ask Cristiano to answer the first question please.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Hi, Niccolo. The reason is quite simple. It's only related to the discount rate mainly. So it's
 broadly that as a driver.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 And Jean-Laurent, can you please take the second question?
 
-A - Jean-Laurent Granier
-
-{BIO 16455071 <GO>}
-
+A - Jean-Laurent Granier {BIO 16455071 <GO>}
 Yes. Of course, we have taken 2019 a very strong stance in the French market in order to
 explain that we couldn't shape the Life savings offering as it was done in the past, mainly
 built around the general accounts. So we are very much diversified our offer, limiting the
@@ -1298,16 +1036,10 @@ announcement of our offer will help to reach this target. Also, we are developin
 the new pension business which is allowed by the new factor in France, which is by nature
 extremely diversified and bringing better IRR. So thank you for your question.
 
-Q - Niccolo Dalla Palma
-
-{BIO 16052945 <GO>}
-
+Q - Niccolo Dalla Palma {BIO 16052945 <GO>}
 Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Next question please?
 
 Operator
@@ -1315,10 +1047,7 @@ The next question is from Ashik Musaddi with JP Morgan. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah, hi. Thank you, and good morning everyone. Just a few questions if you can help me.
 First of all, if I look at the sensitivities that you have given on Solvency II, it has more or less
 doubled on every single line like sovereign sensitivity, credit sensitivity, equity sensitivity
@@ -1334,16 +1063,10 @@ good for the capital in Tranquilidade. So are you considering -- still continuin
 transitionals in that business or are you thinking about something else about that
 business? Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Thank you. I'll ask Cristiano to start?
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Hello, Ashik. So explanation of the increased level of sensitivities is mainly coming from
 the fact that the life value in-force is much more sensitive to the movement in the financial
 Page 20 of 25
@@ -1369,10 +1092,7 @@ explaining why we said this effect of also having an operating range for our tar
 solvency which is broadly wide because of the evolution and the sensitivity of our value inforce. In this level of low rate, it is also clear that the solvency capital requirements
 increases in this kind of business. And the name of the game is the diversification.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Sorry, if I just -- if I may just ask a follow-up on that. I mean, where is the convexity coming
 from? Because if my understanding is correct, your Italian business which is your largest
 business, the duration of that should not be that high to bring in convexity. I mean, 60
@@ -1381,10 +1101,7 @@ everywhere which is what I'm a bit surprised about so.
 
 Bloomberg Transcript
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yeah. Ashik, you have to keep in mind that, we transformed a lot of our liabilities, for
 example, as well in Italy, where we're referring to these country, as you remember, we
 explained that we moved from the so-called spread-based business to a kind of feebased business of our life saving, which means that basically the first part of the
@@ -1394,16 +1111,10 @@ and the amount of fees that you can extract. And this combination brings a littl
 sensitivity, which is not seen in the real P&L effect of the balance sheet. This is the markto-market effect of the derivative gamma that you have due to the structure of the
 liabilities. Hope I gave you the insight?
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Thank you.
 
-A - Timothy Ryan
-
-{BIO 17528640 <GO>}
-
+A - Timothy Ryan {BIO 17528640 <GO>}
 This is Tim. On the question on the exposure to EM and energy. And thank you for the
 question, Ashik. The -- so 90% of our exposure of all in Generali is euro based and euro
 assets. This is because obviously our reserve are in euro and we are using mainly the
@@ -1431,24 +1142,15 @@ euro based. So those are the type of information I can share with you, and this 
 that we have quite a lengthy experiencing and diversified experience. So this is my answer
 to you.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thank you, Tim.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Frederic?
 
 Bloomberg Transcript
 
-A - Frederic de Courtois
-
-{BIO 16976110 <GO>}
-
+A - Frederic de Courtois {BIO 16976110 <GO>}
 Ashik, on the last one in Portugal. So first, you're right that Tranquilidade has applied some
 transitional measures. What we do when we acquire a company with transitional measures
 is that we keep them. So -- and of course, they will progressively disappear. So the fact
@@ -1459,19 +1161,13 @@ view now on the business and the synergies and so on, and we didn't have any neg
 surprise on fees. And I can confirm the synergies that we had expected. So everything is
 on track for the Portuguese business.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 That's great, Frederic. Thank you.
 
 Operator
 The next question is from William Hawkins with KBW. Please go ahead.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Hello. Thank you very much. Just one question really. I'm really confused about how I
 should be thinking about your non-government credit risk, and I'd like to hear a bit more
 about how you think about it internally. Because when I look at this presentation and this is
@@ -1498,10 +1194,7 @@ shareholders, it's also hard to kind of make any use of that as well. I apprecia
 industry question. I'm not pointing the finger at Generali. But I'm really confused about
 how I should be thinking about your non-government credit risk? Thank you.
 
-A - Philippe Donnet
-
-{BIO 4657671 <GO>}
-
+A - Philippe Donnet {BIO 4657671 <GO>}
 Okay. Thank you for the question. So the way we manage the balance sheet and the
 assets is within the asset liability management that means that we are using government
 bonds and the equivalent to help to hedge the duration of the liabilities. That's number
@@ -1522,23 +1215,14 @@ ratings, but we are very much disciplined from the get-go on all the allocations
 do, whether it is managed internally or managed through external managers. So I gave
 you a broad answer to a broad question.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Maybe I can follow-up with a specific one please. If the volatility adjustment didn't exist,
 what would be the sensitivity to a 50 basis point widening of corporate spreads?
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Cristiano?
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes, William. Sorry, I do not have the figure in the moment to share with you. What I would
 like to stress on the point of the first statement, I do agree with you on this point of
 potentially economic nonsense comment, which is related to the inner structure of the VA
@@ -1546,16 +1230,10 @@ within the area of the rule, which is by the way under discussion for the 2020 r
 just wanted to point it out the mathematical -- mechanical effect on this. So I hope I gave
 you clarification?
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Okay. Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Page 23 of 25
 
 
@@ -1572,28 +1250,19 @@ FINAL
 
 The next question is a follow-up from Michael Huttner with Berenberg. Please go ahead.
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Thank you. I'm really lucky. I hope you can hear me. And maybe just one follow-up and it
 was on the Solvency? And, a, you gave us the figure on the (inaudible), so I'm a little
 curious as what is it now? And then the other question is, you know the group (inaudible)
 is transitional, now just wondering what is the benefit should you use transitionals
 everywhere, maybe you can give us a figure? Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Cristiano?
 
 Bloomberg Transcript
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Michael, so if we look at the movement between year-end and last Friday as I was
 reporting in the website transcription as well, there are -- out of the almost 24 points of
 change, eight are explained by the acquisition of Portugal. And four -- sorry, basically
@@ -1615,10 +1284,7 @@ And then in Generali's transitional, it's something which is used in many differ
 geographies, Generali Group -- for the Group reporting, didn't choose it apart from
 acquired entities as he was referring before, Frederic.
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Thank you very much. Thank you.
 
 Operator
@@ -1632,9 +1298,7 @@ Date: 2020-03-13
 
 So there are no more questions registered at this time.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
+A - Giulia Raffo {BIO 21037091 <GO>}
 
 FINAL
 
@@ -1642,10 +1306,7 @@ Thank you all for all your questions. I would like to hand over to Philippe for 
 remarks, and I will remind all the analyst that for any follow-up questions, the IR team as
 always will be there.
 
-A - Philippe Donnet
-
-{BIO 4657671 <GO>}
-
+A - Philippe Donnet {BIO 4657671 <GO>}
 Thank you, Giulia. I will be very short. First of all, thank you very much to all of you for your
 questions. I am a bit frustrated, because we will not have the opportunity to meet you
 next week in our road show for obvious reasons. This is frustrating, but we have to

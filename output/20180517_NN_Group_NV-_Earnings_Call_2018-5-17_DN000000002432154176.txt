@@ -57,10 +57,7 @@ Good morning, Mr. Friese, over to you.
 
 FINAL
 
-Lard Friese
-
-{BIO 17008174 <GO>}
-
+Lard Friese {BIO 17008174 <GO>}
 Yes, good morning everyone and welcome to our conference call to discuss NN Group's
 results for the ﬁrst quarter of 2018. I will start today's presentation by talking about the
 highlights of the ﬁrst quarter results, as well as our progress on the integration in the past
@@ -143,10 +140,7 @@ the right-hand graph on slide number ﬁve. We are conﬁdent that we can contin
 track record of cost discipline and achieve the targeted cost reductions.
 And with that, I would like to hand you over to our CFO, Delﬁn Rueda.
 
-Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+Delﬁn Rueda {BIO 7032761 <GO>}
 Thank you, Lard and good morning, everyone. Let me start with NN Group's operating
 result of the ongoing business, which was EUR313 million for the ﬁrst quarter, down from
 406 million in the same quarter last year. This was mainly due to the severe storm in
@@ -210,10 +204,7 @@ January this year. Capital ﬂows are zero this quarter as we already deducted t
 2017 ﬁnal dividend from the Solvency II ratio in the fourth quarter of 2017.
 And with that, I pass you back to Lard for the wrap-up.
 
-Lard Friese
-
-{BIO 17008174 <GO>}
-
+Lard Friese {BIO 17008174 <GO>}
 Yeah. Thanks, Delﬁn. We have today presented NN Group's results for the ﬁrst quarter of
 2018, which were impacted by the severe storm that hit the Netherlands in January.
 Notwithstanding this, the businesses continue to focus on driving performance and
@@ -251,10 +242,7 @@ Thank you, Mr. Friese. Ladies and gentlemen, we will now start the question-and-
 session. (Operator Instructions) The ﬁrst question is from Mr. Arjan van Veen, UBS. Go
 ahead please, sir.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Thank you. Can I ask a couple of questions please? The ﬁrst one, just on the capital
 position, that's surprisingly very strong at 213%. I would assume it gets better once you
 implement the partial internal model for Delta Lloyd. So you are getting back to levels
@@ -269,10 +257,7 @@ earnings from the Netherlands Life division will bounce back to a level that we 
 expected before the Delta Lloyd acquisition in terms of adding that back in some of the
 changes you've done, the asset change de-risking et cetera?
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yes, Arjan, thank you for your questions. I will take the ﬁrst one and I will ask Delﬁn to talk
 about the Life results. Yeah, so about the capital position, obviously, we're pleased with
 our Solvency II position and with the cash capital buﬀer of 1.6 billion and we're
@@ -295,10 +280,7 @@ we expect a double-digit increase of our dividend per share over the year 2018. 
 buybacks, which we have done in the past, are an eﬃcient way to return excess capital to
 stockholders, but obviously, we'll take such a decision at the appropriate time.
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Thank you, Arjan. So on your question on Netherlands Life, I mean may be good just to
 remind everyone that the medium-term guidance that we have provided for Netherlands
 Life is to be broadly stable to the level of 2017 and the fact that we do however expect a
@@ -318,38 +300,23 @@ revenues due to the runoﬀ of the portfolio. However, I can conﬁrm although w
 disclose separately that the Delta Lloyd Life business has contributed positively also to the
 segment.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 And Delﬁn, in the past, you gave guidance around the margin, is it possible to reintroduce that?
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 We have seen in -- I think you're referring to the investment margin as --
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Exactly, yeah.
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 As a percentage of the assets under management. And you have seen that it has been
 more or less stable, so it was a bit higher in Q4. We are at approximately the same level as
 Q3 last year and this margin between 80 and 85 basis points varies, among other things
 for example on the contribution of the dividends in the particular quarter. This margin,
 just to remind everyone, is calculated as the last 12 months margin.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Page 6 of 26
 
 
@@ -360,27 +327,20 @@ Date: 2018-05-17
 
 So it's -- 85 is a reasonable range from your point of view?
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 
 FINAL
 
 From 80 to 85 basis points is I think is a reasonable range to estimate. Of course, we have
 always indicated that can be a bit volatile from one quarter to another.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
-
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Okay, thank you.
 
 Operator
 The next question is from Mr. Cor Kluis, ABN AMRO. Go ahead, please.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
+Q - Cor Kluis {BIO 3515446 <GO>}
 
 Bloomberg Transcript
 
@@ -398,10 +358,7 @@ factors, which was the big swing factor in the quarter of course, given what's c
 going on in the macro environment, can you give us some indication of how the Solvency
 II ratio developed in the second quarter, at least till now? Those were my questions.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yes, Cor, thank you for your questions. So what we're going to do is, I'm going to do the
 cost question ﬁrst and I'll ask Delﬁn to comment on the warrants and Jan-Hendrik to
 comment on the S2 ratio question that you had. So on the expenses, we've raised our
@@ -429,10 +386,7 @@ Let me pass it onto Delﬁn on the warrants.
 
 FINAL
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Yes, thanks, Cor for your question. On the warrants, may be just to remind everyone,
 these warrants were established before the IPO by ING, gives them the right to exercise
 warrants for approximately 35 million shares, new shares and that represents around 10%
@@ -444,16 +398,10 @@ dilution eﬀect for the existing shareholders later in the future. So, we have 
 hedge or anything to protect this dilution, which is potentially in the future and we will
 consider options as they come along.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yes, Jan-Hendrik?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Hello, Cor. Thank you for the question. Yes, since the end of March, we've seen positive
 developments in equity markets and a slight increase in rates. On the other hand, we've
 seen a slight widening in the high-quality sovereigns that we have on the portfolio as well.
@@ -466,10 +414,7 @@ Okay, thank you. Very clear.
 Operator
 The next question is from Mr. Ashik Musaddi, JP Morgan. Go ahead please, sir.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Hi, good morning team. Ashik here. Just a couple of questions. First of all, let me ask the
 buyback question in another manner. So your cash at the moment is 1.6 billion and I'm
 hoping you will generate decent cash by the end of the year. Solvency ratio is 213%,
@@ -502,10 +447,7 @@ proﬁt if it's always positive, I mean 3 billion is a big number over past four
 you normalize over 30 years, it's still like 100 million a year. So these two questions would
 be appreciated if you can give some color. Thank you.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yeah, thanks, Ashik. I will take the ﬁrst one and I will then pass onto to Delﬁn for the
 question about the gains. On the leverage position, we're comfortable with the leverage
 position that we have, there is indeed no maturities coming anytime soon. The ﬁrst one is
@@ -527,16 +469,10 @@ pleased where we are and we will take any excess capital that we cannot put to w
 believe we have that -- we'll go back to stockholders in the most eﬃcient form. So with
 that, I'll hand back to Delﬁn.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thank you.
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Yes, on your question, Ashik so, how to think about the capital gains is, I mean we could
 be discussing and debating for a while. I think that for the purpose of this call, I will keep it
 short. We're doing best in our assets for not only the regular income like dividends and
@@ -561,10 +497,7 @@ Date: 2018-05-17
 
 FINAL
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 No, that's deﬁnitely the case that the Solvency II is, I mean based on my understanding, is
 really more relevant than IFRS, but the only reason I'm trying to ﬂag this is, it creates a bit
 of, not like for like when I compare with your peers because the peers set numbers is
@@ -576,10 +509,7 @@ oﬄine at some point on this one. Thank you.
 Operator
 The next question is from Mr. Johnny Vo, Goldman Sachs. Go ahead please.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Thank you very much. Just a couple of questions. I mean, I am quite surprised that how
 large your losses were for windstorms. Is this a fact of that there is overlap in exposure
 between Delta Lloyd's book and your book? That's the ﬁrst question. And the second
@@ -590,10 +520,7 @@ Delta Lloyd's capital generation going forward? Thank you.
 
 Bloomberg Transcript
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yeah. Thanks Johnny, indeed the solvency ratio of Delta Lloyd was nearly 170% now, so I'll
 pass onto Delﬁn for that. But on the windstorm losses, ﬁrst, but to be honest, it's in line
 with our market share right? We're a large player and certainly after the acquisition of
@@ -606,10 +533,7 @@ yeah, heavy storm in line with our market share on ﬁre insurance and therefore
 a big surprise.
 I'll give it to Delﬁn now for the S2 ratio on Delta Lloyd Life.
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Yes, thanks. Johnny, on your question on the movement for Delta Lloyd life solvency,
 indeed from 153% to 169% is a very positive evolution. The underlying reasons are the
 same as for the group. It comes from a strong operating return, the market variance as
@@ -635,10 +559,7 @@ indexes on that front. In the case of Delta Lloyd, there has been a little bit h
 proportion on the impact of the revaluation of the real estate that for the rest of the Dutch
 entities, but apart from that is the same, the same logic.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Okay, thank you.
 
 Operator
@@ -646,10 +567,7 @@ The next question is from Mr. Matthias de Wit, Kempen. Go ahead, please.
 
 Bloomberg Transcript
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Yes, good morning. Three questions if I may. The ﬁrst one is on the cost savings, where
 you raised the target to 400 million. I wondered why you did not change the guidance for
 5% to 7% growth in the operating result and for ﬂat earnings in the Netherlands. So is that
@@ -663,16 +581,10 @@ another risky asset that there is not much of a shift out of sovereigns into ris
 can you maybe provide some color on that and also on the outlook for the re-risk?
 Thanks.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yes, thank you. Matthias. So Delﬁn?
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Okay. So let me go one by one on your three questions. The ﬁrst one on the cost savings,
 let me remind everyone that our guidance for the growth of our operating result is a
 medium-term guidance between 5% and 7%, obviously (inaudible) this is medium term
@@ -704,35 +616,24 @@ during the quarter. There has been 1 billion invested in mortgages and other ass
 provides a bit higher investment yield. But again, every quarter may be higher or lower,
 depending on the availability of these assets and is more of a gradual process.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Okay and if I understood you well, there is no major SCR stream to be extracted from the
 re-risk -- is that correct?
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Yes, Matthias. So in -- of course, we have seen also in the past that some reduction actually
 on our equity exposure, that has had an impact on our reduction on the SCR, but in
 general and particularly, the mortgages are not very unfavorable on the contract. As you
 know, the balance between the expected return and the regulatory capital consumption
 of mortgages continue making it a very attractive asset class for us.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
+Q - Matthias de Wit {BIO 15856815 <GO>}
 
 Bloomberg Transcript
 
 Okay.
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Yeah, maybe to add to that, I think we do see, but we look at risk and return when we do
 this -- move into higher yielding assets and Delﬁn is correct that when you sell something
 like equity and invest it in mortgages, then you would see a beneﬁt of course, where you
@@ -740,19 +641,13 @@ sell government bonds and invest it in mortgages, you would see a slight increas
 SCR, but you shouldn't look at one eﬀect, you should always look at the joint eﬀect on the
 portfolio and gradually what we try to do is to optimize the return for a given level of SCR.
 
-Q - Matthias de Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias de Wit {BIO 15856815 <GO>}
 Okay, thanks.
 
 Operator
 The next question is from Mr. Robin van den Broek, Mediobanca. Go ahead, please.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Yes, good morning, everybody. I wanted to talk about the quality of capital a little bit,
 because it seems that your other bucket is only down 1% and your Solvency II evolution,
 where the guided impact from UFR should already be ﬁve percentage points and also the
@@ -777,10 +672,7 @@ Delta Lloyd is around 400 million at the moment. And I was just wondering if you
 give some interest rate sensitivity to that number if rates were to go up, how much would
 your capital generation improve on the back of that? Those are my questions.
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Yeah, so thank you, Robin. Delﬁn will take your ﬁrst question and then -- sorry and then
 I'm going to ask Jan-Hendrik to talk about the UFR drag and interest rate sensitivities et
 cetera.
@@ -798,30 +690,18 @@ assumption changes, some positive impact of the legal merger in Belgium, resulti
 reduction of the SCR. So, quite a few diﬀerent elements, impacting that change in the
 negative 1% in the segment Other, not segment, in the bucket other.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Okay and the headroom in your tiering buckets?
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 In terms of the tiering, there is approximately 600 million for restricted Tier 1 and
 approximately 200 million for Tier 2. So a bit increase from the previous quarter in
 restricted Tier 1 and more or less at the same level or slightly down for the Tier 2.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 So, Jan-Hendrik?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Yeah, thank you Robin for the question. The ﬁrst thing to say is that when the UFR change
 happened, of course it moved exactly in line with the sensitivity we disclosed before. So
 you can see from that and we also think by the way that the next 15 basis point change is
@@ -842,25 +722,16 @@ what you get back in capital generation when you look forward.
 
 FINAL
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 And if rates go up by 50 bps, say what kind of reduction of the UFR drag would you
 expect or is that something you won't disclose?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 I don't think we should get into the exact details on that, but what I would do is to look at
 the sensitivity we have disclosed and extrapolate a bit from that if I were you and then I
 would take that eﬀect and see the 7% to 8% per annum of that own funds movement.
 
-Q - Robin van den Broek
-
-{BIO 17002948 <GO>}
-
+Q - Robin van den Broek {BIO 17002948 <GO>}
 Okay, thank you very much.
 
 Operator
@@ -868,10 +739,7 @@ The next question is from Mr. Farooq Hanif, Credit Suisse. Go ahead please.
 
 Bloomberg Transcript
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, there. You alluded to some initial capital synergies in Q1 with Belgium. Can I just ask
 sort of roughly factually, the phasing of more capital synergies, that sounds like you may
 or may not get internal model approval, but you're hoping to get it this year. So there will
@@ -882,17 +750,11 @@ Second point is, on your private equity portfolio, can you remind us of the mark
 that right now and what do you expect the return is? What do you hope to get? Those are
 my questions. Thank you very much.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Thanks, Farooq. So on the PIM, et cetera, Jan-Hendrik please and on the private equity
 portfolio, Delﬁn. So Jan-Hendrik?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Hi, Farooq. Thank you for the question. While our PIM, major model change or expansion
 of scope is progressing according to schedule is what I can say. We are still hoping for
 approval by the end of the year and that is of course subject to DNB approval. With
@@ -916,29 +778,17 @@ additional beneﬁt from the legal merger at the group level.
 
 FINAL
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Maybe I can just quickly ask in 1Q, you mentioned the Belgium merger, but what was the
 impact in Other?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 On the SCR, it was --
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 On the -- yeah, yeah.
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 So on the SCR, there's a small, I mean, you can see in their books, Other, it's also
 rounding to less than 0.1. So it's not substantial, these are all small beneﬁts coming
 through and as Delﬁn said, it's a number of diﬀerent things in that bucket leading to the
@@ -946,28 +796,16 @@ overall beneﬁt that you referred to.
 
 Bloomberg Transcript
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay, thank you.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Then on private equity.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Yeah.
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Yes, on the private equity, we have approximately EUR1 billion of private equity
 investments and well, what to expect in terms of return, I guess your guess is as good as
 mine on this. What -- yeah, I think let's leave it on this. And so it's EUR1 billion and we have
@@ -975,10 +813,7 @@ seen so far, I mean, the return has been quite good. So when I look back into th
 15 years of private equity, the return has been very good. But as they say, past
 performance is only an indication or what could be the future performance.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay, thank you very much.
 
 Operator
@@ -994,10 +829,7 @@ The next question is from Mr. Albert Ploegh, ING Bank. Go ahead please.
 
 FINAL
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Yes, good morning all. Yeah, two questions from my end, more on the operational side.
 First on Japan Life. You explained why the technical results were weak in the quarter.
 Should we then really see is as some kind of a really one-oﬀ or could there be some
@@ -1015,10 +847,7 @@ share on that, that will be helpful.
 
 Bloomberg Transcript
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yeah, so thank you, Albert. So ﬁrst on the D&A, I will take that question and then I will
 hand over to Delﬁn for the Japan discussion. Well, ﬁrst I'd like to mention that the
 disability and accident business is reporting a 95% combined ratio this quarter, which we
@@ -1030,10 +859,7 @@ that we maintain a good proﬁtability level also moving forward, but I would sa
 a decent combined ratio for this business.
 With that, I would like to hand over to you, Delﬁn for the Japan discussion.
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Yes, thank you, Albert for your questions. On Japan Life, more than the quarter in terms of
 technical margin being very low, I think is more than the ﬁrst quarter of last year it was
 extremely positive, extremely high. We highlighted that at that point of time, as we do
@@ -1054,10 +880,7 @@ Company Name: NN Group NV
 Company Ticker: NN NA Equity
 Date: 2018-05-17
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay.
 
 Operator
@@ -1066,8 +889,7 @@ FINAL
 
 The next question is from Mr. Steven Haywood, HSBC. Go ahead please.
 
-Q - Steven Haywood
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Good morning, everybody. A couple of quick questions, I hope. With your cost savings
 being increased, has your restructuring charges increased as well. I know you gave
 guidance of about 1.5 times the actual cost savings. But if they are on the same program
@@ -1076,14 +898,9 @@ level or have they actually increased? And second question, on the non-life perf
 you gave an underlying combined ratio of 98.6%. How many quarters do you think there
 will be before you get to the sort of 97% target? Thank you.
 
-A - Lard Friese
-
 Bloomberg Transcript
 
-{BIO 15743259 <GO>}
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yeah, thanks, Steven. Let me take the non-life question and then I'm going to ask Delﬁn to
 comment on the restructuring charges. So ﬁrst of all, non-life. Indeed, so if you take out
 the impact of the storm, here at 98.6% this quarter for the total non-life business, now we
@@ -1105,10 +922,7 @@ bit and we were and are now doing exactly the same practice on the Delta Lloyd �
 book. So these are all kinds of the things that we're doing to improve it over time.
 And with that, I'd like to hand over to Delﬁn for the restructuring discussion.
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Hi Steven. So as the cost savings increase, yes, you're right, there are some additional
 restructuring charges that will be included. So far, the guidance that we have provided for
 restructuring expenses being around 1.5 times the savings, I think it's a good guidance.
@@ -1129,19 +943,13 @@ quarter to another. So it's not going to be linear.
 
 FINAL
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Okay, thanks very much.
 
 Operator
 The next question is from Mr. Bart Jooris, Degroof Petercam. Go ahead, please.
 
-Q - Bart Jooris
-
-{BIO 3470300 <GO>}
-
+Q - Bart Jooris {BIO 3470300 <GO>}
 Yes, hi. Most of my questions have been answered, so some follow-ups here. You report
 next to the storm damage, some large ﬁre claims also in Netherlands Non-life. Is that
 keeping -- is that then something we've seen already in then previous quarters on the
@@ -1152,10 +960,7 @@ timing? Thank you.
 
 Bloomberg Transcript
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yeah, thanks Bart. So I will take both questions. So ﬁrst on the savings, as we said, we are
 ahead. We're very happy to report today that we have already reached the initial
 guidance that we gave of having half of the 350 million done by the end of this year,
@@ -1164,16 +969,10 @@ result of that, we have given new guidance that we're guiding to 400 million, a 
 350 million to 400 million, of which at least half will be done this year as of the timing and
 yeah, the remainder therefore will come through in 2019 and 2020. Then?
 
-Q - Bart Jooris
-
-{BIO 3470300 <GO>}
-
+Q - Bart Jooris {BIO 3470300 <GO>}
 Is that back-end loaded completely?
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Well, we -- it's not linear obviously, this will -- over quarters, well, it's not a straight line,
 right? So it's over the quarters, you will see some, some changes quarter-by-quarter, but
 the direction of travel is pretty clear. At least half of that number done by the end of this
@@ -1196,9 +995,7 @@ the NN portfolio has delivered a positive contribution and we're applying the sa
 measures that we took on the NN portfolio also to Delta Lloyd portfolio. That is the color
 that I can give on that.
 
-Q - Bart Jooris
-
-{BIO 3470300 <GO>}
+Q - Bart Jooris {BIO 3470300 <GO>}
 
 FINAL
 
@@ -1207,10 +1004,7 @@ Okay, thank you.
 Operator
 The next question is from Mr. Jason Kalamboussis, KBC. Go ahead please.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Yes, hi there. Three quick questions for me. The one is on the natcats that you had. Would
 you consider to change your reinsurance arrangements and if so, in which direction? The
 second question was around the cost. You said that the new cost eﬃciency that you
@@ -1223,10 +1017,7 @@ Q2 or further out in the year?
 
 Bloomberg Transcript
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yeah. Thanks, Jason. So let me talk about the last question on the combined ratio and
 then I would like Jan-Hendrik to discuss the reinsurance arrangements and I'd like Delﬁn
 to give -- to discuss the pie chart composition of the expenses et cetera. So ﬁrst on the
@@ -1236,10 +1027,7 @@ need 12 to 24 months for a range of measures to come through, to get to the -- t
 contribute to the 97% or lower combined ratio. And again on the D&A business, we are at
 95% at this point. So on the natcats?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Yeah, thank you, Lard. Hello Jason. Thank you for your question. We look at reinsurance
 very much to optimize risk and returns. You have to look at the cost and the beneﬁt. Of
 course, we change our program every year based on market pricing and also our own
@@ -1251,10 +1039,7 @@ the same magnitude, the impact would be a lot lower. So yeah, we are actively ma
 that and we will certainly have a look at the pricing in the market next year and our own
 risk appetite.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Page 19 of 26
 
 
@@ -1267,10 +1052,7 @@ So Delﬁn?
 
 FINAL
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Yes, Jason, on the cost savings, we announced at the capital markets, the cost savings,
 and this is a three years program and also is based on the evolution of the absolute
 amount of operating results. So that means that apart from the cost savings that we have
@@ -1287,9 +1069,7 @@ that was performed this quarter. But in general, we can see, if you like, some m
 modest upgrade on the savings for Netherlands Life and Belgium and the more
 substantial ones for non-life and asset management.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 
 Bloomberg Transcript
 
@@ -1297,29 +1077,20 @@ Thank you very much. If I may have just a follow-up, are you -- on the reinsuran
 you basically happy with the outcome on how your reinsurance program worked on these
 storms?
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 With the reinsurance program worked according to plan, yeah, so there were no surprises
 there. Of course, are you asking whether we are happy that we had such a big 89 million
 impact from the storm? Of course, we would have preferred not to have the storm, but
 part of insurance is that it is a long-term game, so you really have to look at the results
 over a much longer period of time to see whether it will in the end be proﬁtable.
 
-Q - Jason Kalamboussis
-
-{BIO 4811408 <GO>}
-
+Q - Jason Kalamboussis {BIO 4811408 <GO>}
 Okay, fair enough. Thank you very much.
 
 Operator
 The next question is from Mr. Benoit Petrarque, Kepler Cheuvreux Go ahead please.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Yes, good morning guys. Two questions on my side. First one will be on the impact of the
 cost reduction on the own funds capital generation. It has been pretty limited so far, so
 you have been -- reported ﬁgures around the 300 million every quarter. What can -- do
@@ -1344,10 +1115,7 @@ looking at in terms of taking the decision? Will that be holding cash, moving to
 certain level Solvency II ratio, PIM approval on the Delta Lloyd models or just markets.
 Thanks.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yes, Benoit. So let me take the second question ﬁrst, and then I'm asking Delﬁn to give
 some color on the ﬁrst question. As you know, we have -- we take a holistic view when it
 comes to our capital. We look at very many components and dashboards that we have to
@@ -1360,10 +1128,7 @@ do. With that Delﬁn, the question on the costs.
 
 Bloomberg Transcript
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Thanks, Benoit. Yes -- the -- particularly the units that you have mentioned, asset
 management, banking for the majority of the business of Non life, the beneﬁts in terms of
 capital generation comes at the time of realizing the cost savings themselves, so what has
@@ -1377,19 +1142,14 @@ expenses, so on the one hand restructuring expenses impact negatively when you i
 them, but also when you anticipate them that is going to be incurred and on that sense, I
 would be expecting only a modest impact on the capitalization of these expenses -expense savings going forward.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Yeah. Great, thank you very much.
 
 Operator
 (Operator Instructions) And the next question is from Mr. Arjan van Veen, UBS. Go ahead
 please.
 
-Q - Arjan van Veen
-
-{BIO 5197778 <GO>}
+Q - Arjan van Veen {BIO 5197778 <GO>}
 Page 21 of 26
 
 
@@ -1406,10 +1166,7 @@ FINAL
 
 And the next question is from Mr. Ashik Musaddi, JP Morgan. Go ahead please.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thank you. Just one simple question I have, actually two. So if I look at the Dutch market
 basically, most of the insurance, I mean if I look at Vivat, and if I look at ASR, Aegon as well
 as you guys, everyone is trying to do asset re-risking and everyone has big plans. I mean, I
@@ -1429,16 +1186,10 @@ because they used to hedge the Solvency II ratio rather than hedging cash ﬂows
 position is still open, i.e. if interest rate actually go up, will there be economic beneﬁts on
 Delta Lloyd cash ﬂows or is it you have closed that position? Thank you.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yeah, thanks Ashik. So Jan-Hendrik, over to you.
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Yeah, thank you, Ashik for these questions. On the ﬁrst one, it's a good observation,
 obviously I can't comment on what other companies are doing. But if I look at what we
 see in the market, there is certainly more demand for high yielding illiquid assets than
@@ -1454,10 +1205,7 @@ other illiquid assets that we consider, but all of these things take time, and t
 important thing for us is that we invest in a rational and disciplined way after considering
 the risk.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah, but how should I think about the supply in the market, is there -- I mean, is there any
 particular number like for example, annual mortgage supply, actually 5 billion, clearly, we
 Page 22 of 26
@@ -1474,51 +1222,31 @@ status quo, which is banks are still away from that and insurance is taking most
 
 FINAL
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Yeah. Again on the annual ﬁgure for the supply of mortgages, it depends a lot on the
 property market, right and how that ﬂows into Netherlands and that will vary quarter to
 quarter. I think some new statistics came out last week, which will show you the aggregate
 supply of mortgages again.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. Last week, it came out.
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Or this week, I'm not sure. I saw --
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Oh, okay, sure. Thank you.
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 
 Bloomberg Transcript
 
 This week, this week.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah, thanks. Have a --
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 On the second question, may be to cover the Delta Lloyd interest rate exposure, we have
 been gradually moving away from pure hedge of the ratio, that is out of line with what we
 normally do. We have said in the past that we aim to match asset and liability cash ﬂows,
@@ -1528,17 +1256,11 @@ every cash ﬂow because we think it doesn't make sense, given the liquidity tha
 the lack of liquidity, frankly, at the long end that we see, but we are also not pursuing a
 pure solvency II sort of hedge, if I put it like that.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay, but somewhere, it's in the middle. So if rates will actually go up, it will still be a bit
 economical beneﬁt as well rather than just a number related beneﬁt.
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
-
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 Yes and you can see from our sensitivities then, if rates go up, that we will beneﬁt also in
 our Solvency II ratio, that we have disclosed, yeah.
 
@@ -1550,15 +1272,10 @@ Company Name: NN Group NV
 Company Ticker: NN NA Equity
 Date: 2018-05-17
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. That's very clear, thank you.
 
-A - Jan-Hendrik Erasmus
-
-{BIO 19801435 <GO>}
+A - Jan-Hendrik Erasmus {BIO 19801435 <GO>}
 
 FINAL
 
@@ -1567,10 +1284,7 @@ Thank you.
 Operator
 The next question is from Mr. Farooq Hanif, Credit Suisse. Go ahead, please.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, there. Thanks and sorry for prolonging this call so much, but I was just wondering why
 you're not worried about the massive shrinkage in pension volumes and the renewals in
 Q1? Is it because it's temporary, is it because you actually don't want that business, just
@@ -1578,10 +1292,7 @@ wondering what's going on. Thank you.
 
 Bloomberg Transcript
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 That's very simple, Farooq. This is Lard. The -- we're not worried at all because here's the
 situation. This every -- we have a large book of existing pension contracts, a lot of clients,
 by the way, that are with us for a very long time already. So the -- basically the vintage if
@@ -1600,19 +1311,13 @@ last year for instance. So nothing to do with our appetite to want to have pensi
 or stuﬀ like that. To the contrary, if you look at our market share in the pension market
 over the last period has actually increased.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. That's clear. Thank you very much.
 
 Operator
 Next question is from Mr. Darius Satkauskas, KBW. Go ahead. please.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Page 24 of 26
 
 
@@ -1639,9 +1344,7 @@ is going to be ﬁlled by upstreaming the excess capital out of Dutch Life and t
 presumably it's contingent on your Solvency at legal mergers, that will be occurring next
 year. Thank you.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
+A - Lard Friese {BIO 17008174 <GO>}
 
 Bloomberg Transcript
 
@@ -1652,10 +1355,7 @@ free cash ﬂow, our guidance has always been that our free cash ﬂow generatio
 time, in a range around the net operating result of the ongoing business. But anyway, so,
 Delﬁn, over to you.
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Yes, thank you, William. On your ﬁrst question, the answer is yes. I can conﬁrm that it was
 a positive contribution before and after the expense savings that applied to Delta Lloyd
 life in the quarter. On your last question on the free cash ﬂow building, what Lard has
@@ -1664,16 +1364,10 @@ over the year and again, emphasizing that this free cash ﬂow statement is arou
 single quarter in isolation.
 There was a question on --
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 How did the storm interfere?
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Well, obviously the quarter has had a very negative impact on the results of the Non-life
 business and as a consequence on their, the surplus capital as well. We have the fortune
 of accounting with very diﬀerent business units, very well diversiﬁed from one area to
@@ -1690,9 +1384,7 @@ Date: 2018-05-17
 another. So it's fair to say that dividend capacity from the Non-life business has reduced
 after an 89 million impact of the storm. You're right on that.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 FINAL
 
@@ -1701,10 +1393,7 @@ That's lovely. Great to get through. Thanks guys.
 Operator
 There are no further questions. Mr. Friese, back to you please.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yeah, then I would like to -- thank you, operator. Well, thank you all for being on the call
 this morning and thank you all for your time and for your questions. Before we end the
 call, let me conclude by saying that I'm pleased with the progress that we are making to

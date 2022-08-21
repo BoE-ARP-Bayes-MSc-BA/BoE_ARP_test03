@@ -32,10 +32,7 @@ Operator
 Ladies and gentlemen, welcome to the Ageas event call. I am pleased to present CEO,
 Mr. Bart De Smet. (operator instructions) Gentlemen, please begin.
 
-Bart De Smet
-
-{BIO 16272635 <GO>}
-
+Bart De Smet {BIO 16272635 <GO>}
 Good morning, ladies and gentlemen. Thank you, all for dialing in into this call and for
 being with us for the presentation of the Third Quarter 2011 results of Ageas.
 As usual, I'm joined in the room by my colleagues of the Executive Committee and our
@@ -269,10 +266,7 @@ in the solvency calculation at an early stage.
 Well, dear ladies and gentlemen. I would like to end my remarks here and pass the word
 to Frank, Head of Investor Relations.
 
-Frank Vandenborre
-
-{BIO 15168443 <GO>}
-
+Frank Vandenborre {BIO 15168443 <GO>}
 Thank you, Bart. Ladies and gentlemen. this concludes the introduction and we would now
 like to open the floor for questions. Maybe we can ask to limit yourselves to two questions
 and obviously if you have more questions, you can come back in the queue and ask more
@@ -285,10 +279,7 @@ Operator
 Ladies and gentlemen, we will now begin our Q&A session. (Operator Instructions) Farooq
 Hanif, Morgan Stanley.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 I've just two questions. Firstly, on your combined ratio outlook, could you comment again
 on the one-offs that in your numbers that were negative that could disappear going
 forward, just give some quantitative direction there?
@@ -297,10 +288,7 @@ another insurer reporting; so just the combined ratio outlook in the UK, but als
 generally.
 And the second question is on your Fortis Bank Tier 1 bond (technical difficulty).
 
-A - Frank Vandenborre
-
-{BIO 15168443 <GO>}
-
+A - Frank Vandenborre {BIO 15168443 <GO>}
 Hello?
 
 Page 6 of 26
@@ -317,30 +305,18 @@ from Farooq Hanif. Thank you.
 
 FINAL
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, can you hear me now?
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Yes, we had the first question. So if you can repeat the second one.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 The second question was on Fortis Tier 1 debt that you value to 80%. Can you give us
 some direction on the basis of getting to 80%? And what would be the key factors that
 might change that valuation going forward?
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay, the first question. If you look to the elements in the results for Non-Life that impacts
 the year-to-date results, as mentioned in my speech, there are two elements.
 
@@ -380,10 +356,7 @@ liquidity and that's -- and you end up with the 80% we booked in the accounts. S
 
 FINAL
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 And just to follow up, I'm sorry to take so much time, but I'm presuming on the Tier 1 bond
 there's no -- there'll be no reason during 2012 that you can think of that would really
 change that? So I mean essentially it's not going to be necessarily a very volatile item.
@@ -391,28 +364,20 @@ And also just following up on the combined ratio, could you just tell us the imp
 reserve releases overall in your combined ratio in the Third Quarter or nine months. Thank
 you.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Releases, combined ratios, I'll give it for the two main operations, AG and UK. So in -- for
 Belgium and it's in Q3, it has been 2.8%, so year to date 5.8% compared to last year 5.2%.
 And in Q3 last year it was 6.9%, so it's less, and that's all together. If you then go to the
 UK, it was 1.3% strengthening of five years' reserves compared to 1.1% reduction -- release
 a year ago. So it's about 2.4% less support from prior year reserves.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 Bloomberg Transcript
 
 That's in Q3?
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 And in Q3, in the UK, Q3 plus 0.6% strengthening compared to 2.4% release last year, so
 a delta of 3%.
 
@@ -423,10 +388,7 @@ we will gradually convert to 100% at the call date. This value can be reviewed i
 have other news regarding this Tier 1 instrument. But without any change in the
 assumption, we will progressively convert to 100% at the call date, March 2013.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay, that's very clear. Thank you, very much.
 
 Operator
@@ -440,9 +402,7 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2011-11-09
 
-Q - Duncan Russell
-
-{BIO 15944951 <GO>}
+Q - Duncan Russell {BIO 15944951 <GO>}
 
 FINAL
 
@@ -461,10 +421,7 @@ On the last one it's a very simple question, the answer is no. So we have not
 contemplated the idea of hedging the credit risk vis-a-vis BNP Paribas. And we've seen
 the future but it's not our idea at this moment.
 
-Q - Duncan Russell
-
-{BIO 15944951 <GO>}
-
+Q - Duncan Russell {BIO 15944951 <GO>}
 And why not?
 
 Bloomberg Transcript
@@ -477,16 +434,10 @@ be taken in a broader range, taking into account the full exposure, which is muc
 than the EUR1 billion of the Tier 1. But it's a matter of concern. It's on our radar screen, you
 can be sure of that.
 
-Q - Duncan Russell
-
-{BIO 15944951 <GO>}
-
+Q - Duncan Russell {BIO 15944951 <GO>}
 Okay.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Can you take the other one?
 
 A - Unidentified Speaker
@@ -514,19 +465,13 @@ FINAL
 If you take that EUR848 million gross net at 100%, it becomes EUR615 million and at 75%
 it's EUR470 million.
 
-Q - Duncan Russell
-
-{BIO 15944951 <GO>}
-
+Q - Duncan Russell {BIO 15944951 <GO>}
 That's the -- is that nine months or Third Quarter?
 
 A - Unidentified Speaker
 That is the third -- nine months year-to-date impact.
 
-Q - Duncan Russell
-
-{BIO 15944951 <GO>}
-
+Q - Duncan Russell {BIO 15944951 <GO>}
 Do you have the Third Quarter at all?
 
 A - Unidentified Speaker
@@ -538,19 +483,13 @@ net technical result impact would be 40%. The operating margin would be EUR451 m
 The profits before tax total EUR629 million and net it would EUR460 million, as Bart
 announced.
 
-Q - Duncan Russell
-
-{BIO 15944951 <GO>}
-
+Q - Duncan Russell {BIO 15944951 <GO>}
 Great, thank you.
 
 Operator
 Albert Ploegh, ING.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Two questions from my side. First of all, you took some impairments on the equity
 portfolio in the Third Quarter, and also I saw you've been lowering the exposures there.
 Can you maybe give some feeling for what the impact will be given the situation today on
@@ -590,10 +529,7 @@ stable; volatile but without a trend. So we are not close from where they were a
 of September, which means that at this very moment, we can't expect much impairment
 or much differences on the equity portfolio, so pretty stable.
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay.
 
 Bloomberg Transcript
@@ -628,10 +564,7 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2011-11-09
 
-Q - Albert Ploegh
-
-{BIO 3151309 <GO>}
-
+Q - Albert Ploegh {BIO 3151309 <GO>}
 Okay. Thank you, very much.
 
 Operator
@@ -640,10 +573,7 @@ FINAL
 
 Francois Boissin, Exane BNP Paribas.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Three questions please; the first one on your dividend policy. You mentioned that your
 results excluding impairments are good. Do we have to assume that for the dividend on
 2011 results you will apply a payout ratio of 40% to 50% on your results, excluding
@@ -657,10 +587,7 @@ you.
 
 Bloomberg Transcript
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay, the first question, I don't think that I have said what you have tried to have me say.
 So what we said is that first of all we have a dividend policy that is clear, where we say we
 pay a dividend that's 14% or 15% of the insurance results, stop.
@@ -679,10 +606,7 @@ a mark-to-market exercise in the future. And that as I said previously, we will 
 converge to the 100% value in March 2013, so no mark-to-market exercise in the future of
 this Tier 1 instrument.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay and then the exposure on sovereigns, you'll find it on slide 20 in the ER
 presentation. So you see that our part at amortized cost has been reduced from EUR5.5
 billion midyear to EUR3.6 billion at the end of September. But if you go back to the August
@@ -702,23 +626,14 @@ were at some EUR4.3 billion exposure, so the EUR4.3 billion has been reduced now
 EUR3.6 billion and this is mainly of course by the impairment and some additional smaller
 sales.
 
-A - Frank Vandenborre
-
-{BIO 15168443 <GO>}
-
+A - Frank Vandenborre {BIO 15168443 <GO>}
 I think the question was did you make additional sales since if it would have been very
 significant sales we would have communicated on that.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Some smaller, no significant.
 
-Q - Francois Boissin
-
-{BIO 16045021 <GO>}
-
+Q - Francois Boissin {BIO 16045021 <GO>}
 Okay, thank you very much.
 
 Operator
@@ -726,10 +641,7 @@ Robin Buckley, Deutsche Bank.
 
 Bloomberg Transcript
 
-Q - Robin Buckley
-
-{BIO 3596512 <GO>}
-
+Q - Robin Buckley {BIO 3596512 <GO>}
 Just a couple of very quick questions. Firstly, just following up on Duncan's question on the
 impact of the impairments in the Belgian technical result, can I just clarify whether that was
 -- the numbers you gave were for the whole of Belgium or just for the Life business?
@@ -737,10 +649,7 @@ And then the second question is, could you just give the solvency ratio, the reg
 solvency ratio of the Portuguese operations please, as at the end of nine months and also
 how that's moved over the quarter? Thank you.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay, the impairments that have been mandatory, the insurance was the whole of
 Belgium, so it's a like-for-like combination[ph].
 
@@ -749,10 +658,7 @@ On Portugal, we are around 140%, somewhat higher. At Belgium we are -- in the lo
 ratios we are at 108%, so Belgium is more or less equal to the situation we communicate
 on the second level.
 
-Q - Robin Buckley
-
-{BIO 3596512 <GO>}
-
+Q - Robin Buckley {BIO 3596512 <GO>}
 Sorry, how's the Portuguese solvency ratio moved in the Third Quarter?
 
 A - Unidentified Speaker
@@ -766,9 +672,7 @@ Date: 2011-11-09
 
 It's close to 150%.
 
-Q - Robin Buckley
-
-{BIO 3596512 <GO>}
+Q - Robin Buckley {BIO 3596512 <GO>}
 
 FINAL
 
@@ -777,18 +681,13 @@ And what was it at the half year?
 A - Unidentified Speaker
 I would need to check that; I think it was more or less stable. There is no big change there.
 
-Q - Robin Buckley
-
-{BIO 3596512 <GO>}
-
+Q - Robin Buckley {BIO 3596512 <GO>}
 Okay, thank you.
 
 Operator
 Benoit Petrarque, Kepler Capital Markets.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 
 Bloomberg Transcript
 
@@ -809,10 +708,7 @@ mentioned you have EUR18 million coming from Greek and equity impairments but ju
 leave us with a small EUR1 million profit adjusted; and I was wondering if there is other
 negative items impacting this business? Thanks.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 As we have the CEO of AG Insurance amongst us, I will ask Antonio Cano to give you a
 short answer on the question you raised with respect to profit sharing. Also, intentions of
 the regulator, and impact in terms of lapses.
@@ -841,9 +737,7 @@ it's certainly that the point has been raised, and that we expect the politician
 table to take the smart and the right decisions in that perspective.
 Antonio?
 
-A - Antonio Cano
-
-{BIO 16483724 <GO>}
+A - Antonio Cano {BIO 16483724 <GO>}
 
 Bloomberg Transcript
 
@@ -859,29 +753,18 @@ the question a bit. Well, we still do intend to provide a profit sharing, but th
 over yet. I would not like to make any very specific remarks on that, but it's not per se the
 case that given the impairments on Greece, we would not give any profit sharing.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Sorry, just to come back on that one. I'm not a Belgian GAAP specialist, so what do you
 expect in terms of treatment of the Greek impairment on the Belgian GAAP? Are you
 going to have a positive or negative technical life results?
 
-A - Antonio Cano
-
-{BIO 16483724 <GO>}
-
+A - Antonio Cano {BIO 16483724 <GO>}
 On the technical life results, might be positive.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 So you are going probably to be able to pay profit sharing, according to the regulator?
 
-A - Antonio Cano
-
-{BIO 16483724 <GO>}
+A - Antonio Cano {BIO 16483724 <GO>}
 Page 15 of 26
 
 
@@ -892,41 +775,25 @@ Date: 2011-11-09
 
 Yes. Having said that, the year is not over yet; things can move.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 
 FINAL
 
 Where are you in terms of profit right now?
 
-A - Antonio Cano
-
-{BIO 16483724 <GO>}
-
+A - Antonio Cano {BIO 16483724 <GO>}
 Sorry?
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Where are you in terms of absolute levels?
 
-A - Antonio Cano
-
-{BIO 16483724 <GO>}
-
+A - Antonio Cano {BIO 16483724 <GO>}
 On profit sharing?
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 No, on the technical life results?
 
-A - Antonio Cano
-
-{BIO 16483724 <GO>}
+A - Antonio Cano {BIO 16483724 <GO>}
 
 Bloomberg Transcript
 
@@ -946,10 +813,7 @@ A - Unidentified Speaker
 Then the second question, I hope I understood it correctly, was what the impact has been
 on the result of Continental Europe from exceptional impairments.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Yes, it was a loss of EUR17 million; I think you mentioned EUR18 million coming from Greek
 impairment and equity impairments. So it's a kind of adjusted net of EUR1 million, around
 EUR1 million, which is quite small, actually. So I was wondering it is over items, negative
@@ -967,9 +831,7 @@ A - Unidentified Speaker
 So the impact on Continental Europe from impairments on Greek bonds and equities was
 EUR15 million.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 
 FINAL
 
@@ -978,10 +840,7 @@ No, just on Q3.
 A - Unidentified Speaker
 No, that was the whole Q3 was EUR18 million.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Is there more negative, over negative items in Q3 to take into account?
 
 A - Unidentified Speaker
@@ -993,19 +852,13 @@ million to EUR47 million, for Continental Europe.
 
 Bloomberg Transcript
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Okay, thank you.
 
 Operator
 William Hawkins, KBW.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 My first question is back on the dividend. Bart, apologies, I heard exactly what you said,
 and I heard you say that it was impossible to make further comments.
 So forgive me if I'm stretching your patience, but I did just want to double check. Your
@@ -1039,10 +892,7 @@ opportunities, you can grow? Or given the headwinds of things like low yields an
 uncertain markets, and the rest of it, it's a base line from which you'll be very happy to be
 flat at best? Thank you.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Okay, the first question if I understand correctly what you mean by a token dividend --
 
 A - Unidentified Speaker
@@ -1050,10 +900,7 @@ A - Unidentified Speaker
 
 Bloomberg Transcript
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Let's say again, and I'm sure you can understand that we cannot say it will be x euro cent
 or something, but if we bring this message, it is because we also are aware of the fact
 that we are a dividend paying share and Company is a point that's appreciated by our
@@ -1064,16 +911,10 @@ we will present to shareholders, and what shareholders will accept or not accept
 But it's not -- today our intention is to say we go for the minimum we have to give to be
 somewhere respecting what we said.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 That's reassuring. Thank you. There's another --
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 Sorry, there was still a second question, which was more about the EUR406 million, and to
 what extent this can be taken for future.
 So as you know we don't publish official underlying results, but if we look to whether you
@@ -1107,10 +948,7 @@ had, due to de-risking of the portfolio, a slight impact on the yield for the fu
 So overall, the EUR400 million to EUR410 million on three quarter base, we believe this is
 certainly a base to project future profit expectations.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Excellent. Thank you, very much.
 
 Operator
@@ -1119,10 +957,7 @@ Bloomberg Transcript
 
 Thomas Nagtegaal, RBS.
 
-Q - Thomas Nagtegaal
-
-{BIO 6560332 <GO>}
-
+Q - Thomas Nagtegaal {BIO 6560332 <GO>}
 I've only one question remaining. Given that you significantly reduced your periphery
 sovereign exposure during Q3, do you expect any negative impact on your earnings from
 Q4 forward due to lower investment yields? Thank you.
@@ -1151,10 +986,7 @@ Date: 2011-11-09
 
 FINAL
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 So I think to summarize; three elements. First of all, the fact that we have a considerable
 amount in cash that you could say this could be about EUR30 million net result for
 shareholders when we re-invest it. Secondly, that we, due to the de-risking of the
@@ -1163,18 +995,13 @@ anticipating expectations on increasing rates. And then the further reorientatio
 investment portfolio that Christophe talked about should be preventing us from
 considerable yield losses.
 
-Q - Thomas Nagtegaal
-
-{BIO 6560332 <GO>}
-
+Q - Thomas Nagtegaal {BIO 6560332 <GO>}
 Thank you, very much.
 
 Operator
 Hans Pluijgers, CA Cheuvreux.
 
-Q - Hans Pluijgers
-
-{BIO 16245530 <GO>}
+Q - Hans Pluijgers {BIO 16245530 <GO>}
 
 Bloomberg Transcript
 
@@ -1228,9 +1055,7 @@ It means that from EUR145 million including the set guarantee, it would have -- 
 would have been up 60%/61% so that's the main rival. So when you reap the price of the
 CASHES you have a direct impact on the RPN(I). All the other factors are of second order.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
+A - Bart De Smet {BIO 16272635 <GO>}
 
 Bloomberg Transcript
 
@@ -1252,10 +1077,7 @@ management would increase less or go down. This will undoubtedly also bring atte
 to lowering cost ratios, or lowering costs to maintain the low cost ratios we already have
 today in Life.
 
-Q - Hans Pluijgers
-
-{BIO 16245530 <GO>}
-
+Q - Hans Pluijgers {BIO 16245530 <GO>}
 Just coming back on my question on RPN(I) because on page 25 you have a 6.1% dividend
 yield. I assume it's just taking the current market consensus on dividend on Ageas, or is
 there any other (inaudible) because above the 5% it would trigger some support
@@ -1272,9 +1094,7 @@ Date: 2011-11-09
 
 The answer is yes.
 
-Q - Hans Pluijgers
-
-{BIO 16245530 <GO>}
+Q - Hans Pluijgers {BIO 16245530 <GO>}
 
 FINAL
 
@@ -1283,10 +1103,7 @@ Okay, thank you.
 Operator
 Marc Debrouwer, Petercam.
 
-Q - Marc Debrouwer
-
-{BIO 2406451 <GO>}
-
+Q - Marc Debrouwer {BIO 2406451 <GO>}
 I presume you take into but could you confirm, you take into P&L the interest in
 account[ph] from Greek bonds on full nominal[ph] as long as it is paid. When the EU
 exchange in principle at 50% take place, could you confirm then the loss of yield?
@@ -1303,10 +1120,7 @@ market expectations, then you could even have a possible revaluation going throu
 accounts. But that would be an -- that would then have to be a new credit event, and be
 recognized as such, of course.
 
-Q - Marc Debrouwer
-
-{BIO 2406451 <GO>}
-
+Q - Marc Debrouwer {BIO 2406451 <GO>}
 Yes. But today you receive a certain interest rate on the full nominal, and after that it's
 difficult not to believe there won't be any loss of yield, as the exchange is -- would be -- is
 in principle based on 50% of nominal.
@@ -1314,10 +1128,7 @@ in principle based on 50% of nominal.
 A - Unidentified Speaker
 I fully agree. That's why I mentioned it in my first response.
 
-Q - Marc Debrouwer
-
-{BIO 2406451 <GO>}
-
+Q - Marc Debrouwer {BIO 2406451 <GO>}
 Thank you.
 
 A - Unidentified Speaker
@@ -1326,10 +1137,7 @@ heavily impair the Greek bonds, at this moment they are at 38% of par, so it mea
 we have the margin vis-a-vis whether what can happen in the futures (inaudible) to the
 comfortable position with that[ph].
 
-Q - Marc Debrouwer
-
-{BIO 2406451 <GO>}
-
+Q - Marc Debrouwer {BIO 2406451 <GO>}
 Thank you.
 
 Page 22 of 26
@@ -1345,10 +1153,7 @@ Operator
 
 FINAL
 
-Q - William Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William Elderkin {BIO 3349136 <GO>}
 Just a couple of questions remaining. First of all, on the UK Non-Life side, can I just confirm
 that the Tesco's JV is probably roughly performing at break-even at the moment? When
 can we expect that to reach a target level of profitability?
@@ -1425,19 +1230,13 @@ matter of concern. There is not a feeling of urgency, but we have this definitel
 radar screen, and if the market conditions improve, and if BNP Paribas is willing to reach an
 agreement with us, something will be done; but nothing in the foreseeable future.
 
-Q - William Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William Elderkin {BIO 3349136 <GO>}
 Thank you. Very clear.
 
 Operator
 Duncan Russell, JPMorgan.
 
-Q - Duncan Russell
-
-{BIO 15944951 <GO>}
-
+Q - Duncan Russell {BIO 15944951 <GO>}
 One quick follow up, which is, what tax rate do you assume -- did you assume on the
 Greek impairment? What was the specific tax rate? So the EUR503 million net charge,
 what tax rate is in that, please?
@@ -1454,10 +1253,7 @@ Company N ame: Ageas SA/N V
 Company Ticker: AGS BB Equity
 Date: 2011-11-09
 
-Q - Duncan Russell
-
-{BIO 15944951 <GO>}
-
+Q - Duncan Russell {BIO 15944951 <GO>}
 Thank you.
 
 Operator
@@ -1466,10 +1262,7 @@ FINAL
 
 (Operator Instructions) Gentlemen, there are currently no more questions in queue.
 
-A - Bart De Smet
-
-{BIO 16272635 <GO>}
-
+A - Bart De Smet {BIO 16272635 <GO>}
 So I propose to give some closing remarks very shortly. Ladies and gentlemen. thank you
 for your very good questions. To end the call, I would like to summarize the main
 messages.

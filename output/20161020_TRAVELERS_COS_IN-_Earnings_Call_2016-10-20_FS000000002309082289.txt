@@ -38,10 +38,7 @@ reminder, this conference is being recorded on October 20, 2016.
 At this time, I would like to turn the conference over to Ms. Gabriella Nawi, Senior Vice
 President of Investor Relations. Ms. Nawi, you may begin.
 
-Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+Gabriella Nawi {BIO 2211991 <GO>}
 Thank you. Good morning, and welcome to Travelers' discussion of our 2016 third quarter
 results. Hopefully, all of you have seen our press release, financial supplement, and
 
@@ -82,10 +79,7 @@ financial supplement, and other materials that are available in the Investor sec
 website, travelers.com.
 And now, Alan Schnitzer.
 
-Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you, Gabby. Good morning, everyone, and thank you for joining us today.
 Unfortunately, I need to start on a sad note this morning. This is my fourth earnings call as
 CEO, but the first since we lost our friend, Jay Fishman. I know I'm not alone in feeling his
@@ -175,9 +169,7 @@ strategy, we remain well positioned to continue to deliver industry-leading retu
 time.
 And with that, I'll turn it over to Jay Benet.
 
-Jay S. Benet
-
-{BIO 2456473 <GO>}
+Jay S. Benet {BIO 2456473 <GO>}
 
 Bloomberg Transcript
 
@@ -257,10 +249,7 @@ share repurchases of $562 million. And year-to-date, we returned nearly $2.3 bil
 shareholders through dividends and share repurchases.
 So with that, I'll turn things over to Brian.
 
-Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+Brian William MacLean {BIO 4679150 <GO>}
 Thanks, Jay. I'll start with Business and International Insurance, where we had another
 good quarter with strong returns and production results. We were very pleased that
 Page 5 of 23
@@ -420,9 +409,7 @@ franchise with a year-to-date combined ratio of 94.1% and 9% premium growth, res
 feel very good about.
 And with that, let me turn it back to Gabby.
 
-Gabriella Nawi
-
-{BIO 2211991 <GO>}
+Gabriella Nawi {BIO 2211991 <GO>}
 Page 8 of 23
 
 
@@ -442,10 +429,7 @@ Operator
 Thank you. And our first question comes from the line of Kai Pan of Morgan Stanley. Please
 proceed with your question.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you, and good morning. First, our condolences to the Travelers' family. My first
 question is on the personal auto. Thanks for the detailed explanation. If I look at the yearover-year like for the first nine months, the deterioration by 2.6 points underlying
 combined ratio, you explained about 2 points coming from new business and another 1
@@ -458,10 +442,7 @@ or anything else? Thanks.
 
 Bloomberg Transcript
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian William MacLean {BIO 4679150 <GO>}
 So, Kai, it's Brian MacLean, and let me clarify just a couple of things. So the two points that
 I referenced in my comments are that the loss ratio is elevated. You went through the
 delta year-over-year that's about 1 point. So if you're thinking of where our combined ratio
@@ -473,18 +454,13 @@ benefit, and going forward we'll see more as volume increases. So if you're talk
 combined ratio, there's an expense ratio good guy in there. The basic dynamics of what
 you were mentioning though are the right components.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 And, Kai, it's Alan. As to the outlook, you're right, we did suggest it was going down
 slightly. And we identified in the outlook three moving pieces: one, a lower level of loss
 activity just returning to a more normal level; rate versus trend given our outlook for rate
 and loss trend; and that's offset by the continued adverse impact of tenure.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
+Q - Kai Pan {BIO 18669701 <GO>}
 
 Page 9 of 23
 
@@ -499,10 +475,7 @@ potential losses from Hurricane Matthew in the fourth quarter.
 
 FINAL
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah, Kai, we anticipated that and we're happy to give you an early range. But I do want
 to indicate that we're just three weeks post storm so it is still early for us. And it could be
 influenced from here to the end of the quarter by large BI claims that come up that we
@@ -511,10 +484,7 @@ and that's pre-tax. And, again, the risk factor going forward is going to be cla
 haven't seen or don't know of yet, but they could come in between now and the end of
 the quarter.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you so much.
 
 Operator
@@ -523,38 +493,26 @@ question.
 
 Bloomberg Transcript
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 Good morning. Thanks. I wanted to just talk on severity and just to understand what it is a
 little bit better. Is it that the actual injury and the bodily injury and these accidents is worse?
 Or is it a process by which claims are being used more to cover various medical
 conditions, or is it a function of more aggressive trial bar? Or is it all three? Just kind of
 trying to understand what it is that's actually driving the severity higher on the auto?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yes. Randy, it's Alan. I'd say you got it right across the board. Generally speaking we are
 seeing a higher level of severity generally in the smaller claims, and it's a little bit more
 aggressive litigation and a little bit more complexity in those smaller cases. You can't turn
 on the TV without seeing some kind of advertisement from the trial bar. So it's hard to
 pinpoint it with a high degree of specificity, but generally all those things.
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 But the follow-up then is you mentioned that you're seeing it across your commercial and
 personal auto book in smaller case if I got that right. So what's the similarity across the
 classes? And is it more people being involved in accidents? Is that a piece of it too?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 In some cases there are more occupants of the vehicles and in some cases that is driving
 it. And generally we can just tell you that we see the same phenomenon across both
 books, commercial and personal.
@@ -567,10 +525,7 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2016-10-20
 
-Q - Randy Binner
-
-{BIO 15145081 <GO>}
-
+Q - Randy Binner {BIO 15145081 <GO>}
 Okay, great. Thank you.
 
 FINAL
@@ -579,10 +534,7 @@ Operator
 Our next question comes from the line of Amit Kumar of Macquarie. Please proceed with
 your question.
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
-
+Q - Amit Kumar {BIO 16979665 <GO>}
 Thanks, and good morning. I was wondering, the first question is, if you could better help
 me understand the auto BI uptake. You've obviously cited outside environmental factors.
 Yet there was a modest reestimation for the first half of 2016. Why would that not be a
@@ -590,9 +542,7 @@ Travelers-specific issue? And if you look at other companies such as Allstate an
 Hartford who've had similar issues, what we've learned is this is rarely a one-quarter issue.
 So maybe just help me understand why it's external and not internal.
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
+A - Brian William MacLean {BIO 4679150 <GO>}
 
 Bloomberg Transcript
 
@@ -618,10 +568,7 @@ trends very, very closely. And what we've seen in the last three or four acciden
 has been somewhat of an elevation, as we said, particularly on the lower end of the claim
 size but driving more complexity, so...
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 I would also add, it didn't take us completely by surprise. Our loss picks had anticipated
 some increased severity. This was just a tick higher than we anticipated.
 
@@ -633,26 +580,17 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2016-10-20
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
-
+Q - Amit Kumar {BIO 16979665 <GO>}
 My second question is in the opening comments you talked about pricing actions. Does
 that indicate that we should anticipate a slowdown in Quantum growth? Why or why not?
 Thanks.
 
 FINAL
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian William MacLean {BIO 4679150 <GO>}
 So I'm going to let Michael Klein jump in on that one.
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Sure. This is Michael. I would say, the impact on growth will depend upon how our pricing
 actions compare to those taken in the marketplace. What I can tell you is – and it's very
 incremental, but if you look at the production statistics in the webcast, you'll see our
@@ -670,40 +608,25 @@ absorbed in the market. Could it have an impact on growth? It certainly could. B
 to the degree we think it's environmental, we think we'll be in line with what's going on in
 the marketplace.
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
-
+Q - Amit Kumar {BIO 16979665 <GO>}
 Just a quick follow up to that. Wouldn't actually it be prudent to say we're trying to get a
 better handle on this issue, let's just pull back on growth, let's get this piece right, and
 then come back on the growth trajectory?
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 What I would say to that is we are addressing what we're seeing with our pricing actions
 and focused on making sure we've got the right price in the marketplace. The growth will
 be what it will be as a result, but our focus is on getting the right terms and conditions in
 the market to respond to this change that we've just seen.
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
-
+Q - Amit Kumar {BIO 16979665 <GO>}
 Thanks for the answers.
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian William MacLean {BIO 4679150 <GO>}
 That's exactly right, Amit. We're trying to get the right price on the right account, and
 based on that and the market reaction, we'll determine the rate at which we grow.
 
-Q - Amit Kumar
-
-{BIO 16979665 <GO>}
-
+Q - Amit Kumar {BIO 16979665 <GO>}
 Page 12 of 23
 
 
@@ -714,9 +637,7 @@ Date: 2016-10-20
 
 I'll stop here. Thank you for the answers.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
+A - Gabriella Nawi {BIO 2211991 <GO>}
 
 FINAL
 
@@ -726,10 +647,7 @@ Operator
 Our next question comes from the line of Elyse Greenspan of Wells Fargo. Please
 proceed.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Hi. Good morning. First on the personal auto book as well. When you guys think about
 your margin outlook in Q4 and into 2017, what type of increase in rates are you expecting
 from what we saw in the third quarter? And then as we think about the margin in the
@@ -740,10 +658,7 @@ adverse development on the auto book for 2015?
 
 Bloomberg Transcript
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 That was a lot and quickly. So let me try to address what I caught and then maybe I'll ask
 you to repeat what we didn't get to. So I think you asked for the outlook on rate in auto.
 We don't give outlook on rate. We do provide outlook on overall price. And so I think you'll
@@ -751,30 +666,18 @@ see that generally we are forecasting an increase in renewal price change, which
 rate and exposure. We don't quantify it any more than that other than to say an increase.
 And I'm sorry, Elyse, what were the other questions?
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Well, you guys had mentioned adding to the auto losses for the four most recent accident
 quarters. So was there adverse development on 2015?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 There was a very little bit of adverse in the fourth quarter. It's obviously in the overall net
 PYD number, but it's a very small – think after-tax single-digit number.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 And I'm sorry...
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Elyse, it's Gabby. I think if I've understood your question correctly on the current year prior
 quarter addition, it was $30 million pre-tax related to the first six months, which means $15
 million a quarter, which continued in the third quarter of 2016 and continued in the fourth
@@ -788,70 +691,45 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2016-10-20
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian William MacLean {BIO 4679150 <GO>}
 I interpreted your question to be is there anything in prior-year development related to
 this?
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 
 FINAL
 
 Yes, that was the question.
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian William MacLean {BIO 4679150 <GO>}
 And the answer to that is in the overall net number of prior-year developments, there is a
 single-digit after-tax $1 million number in the fourth quarter.
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 And this is Michael Klein, offset by other items, so there is no adverse prior-year
 development in auto.
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian William MacLean {BIO 4679150 <GO>}
 Right
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
+A - Michael F. Klein {BIO 19674145 <GO>}
 
 Bloomberg Transcript
 
 That number is zero in the aggregate (37:17).
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian William MacLean {BIO 4679150 <GO>}
 And there are always things in PYD over the various accident years that are going one way
 or another. And the aggregate of those things was zero.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. And then one, if I may switch topics a little bit. In terms of your commercial line
 pricing view, with inflation levels looking like they could be picking up and reserve cushions
 for you guys and maybe some others starting to slow overall for the industry, do you think
 that it's time that some companies look to take price to kind of get ahead of the inflection
 point if current trends continue as they are?
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian William MacLean {BIO 4679150 <GO>}
 Yes, it's hard to answer that. I mean I certainly can't answer that question for anybody
 else. You can see what our pricing has done and our pricing is – the headline number you
 see is really the aggregate of the many thousands of transactions that we complete
@@ -869,15 +747,10 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2016-10-20
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. Thank you.
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
+A - Brian William MacLean {BIO 4679150 <GO>}
 
 FINAL
 
@@ -887,10 +760,7 @@ Operator
 Our next question comes from the line of Jay Gelb of Barclays. Please proceed with your
 question.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Thanks very much. On the excess capital position for the company, clearly Travelers
 continues to buy back stock and increase its dividend, although that pace of capital return
 has slowed for the year-to-date compared to the same period in 2015. I'm trying to get a
@@ -899,10 +769,7 @@ agency requirements?
 
 Bloomberg Transcript
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 Hi, Jay. This is Jay. You've asked the question in the past and let me go back to what
 we've said at those times as well as in our Qs and Ks. Ultimately it's going be the earnings
 level of the company that's going to drive how much we return to our shareholders
@@ -915,19 +782,13 @@ it's not a significant number and it's just going to vary from timing. Ultimatel
 rating agency capital level in line with the AA over time, and we return the excess. We
 don't sit on the excess capital.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 All right. Thanks for clarifying that. And then, Alan, on the merger and acquisition front, a
 lot of the – or essentially all the growth, it seems at Travelers this year is coming from
 personal lines with little overall top-line growth in commercial insurance. Is there any
 interest in accelerating the commercial insurance growth through acquisitions?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah, Jay. We always give the same answer to that question. I can't tell you whether we
 will or we won't, but I can tell you that I think our shareholders should demand that we
 have a view on what the attractive businesses are in every market that we operate in or
@@ -955,42 +816,28 @@ can get them done on the right terms. And generally speaking for us, those are, 
 about it through the lens of returns. Will the transaction improve our return profile? And/or
 will it improve our volatility? And so that's the lens, and we're always interested in looking.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 That makes sense, Alan. Would that include large deals as well? Something that might
 require issuing shares?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Jay, I wouldn't make any distinction between a large deal and the small deal. All I can tell
 you is what the lens is through which we would evaluate it.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
+Q - Jay Gelb {BIO 21247396 <GO>}
 
 Bloomberg Transcript
 
 Thank you.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
 Operator
 Our next question comes from the line of Charles Sebaski of BMO Capital Markets.
 Please proceed with your question.
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 Good morning. Thanks. I guess the first one just a follow-up back on personal auto really
 quickly. And I guess the question is on the timing of the rate actions that you guys took.
 And what I'm trying to figure out is with regard to the growth. While the PIF growth was
@@ -999,10 +846,7 @@ the quarter and the rating actions are going to be prospective or these were rat
 actions that were taken at the beginning of the quarter and the 11% PIF growth was after
 those rating actions took place.
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 So, Charles, this is Michael. I would say that we have been putting some rate into the
 market, first of all, throughout the year. The filed rate has started to rise in the quarter. I
 
@@ -1019,10 +863,7 @@ there's more to come.
 
 FINAL
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 Excellent. Thank you. And then follow-up on the weather and the commentary on higher
 losses from non-cat weather. You guys already provide a lot of detail, which is very helpful.
 I'm just wondering if you could help us out a little further and give some kind of baseline
@@ -1033,9 +874,7 @@ that's hard to model or understand. I don't know if there's some clarity you cou
 a baseline for us on what non-cat weather should be and what the volatility is that through
 the year?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 
 Bloomberg Transcript
 
@@ -1053,26 +892,17 @@ million worse after-tax than it was in the prior year. So I know that's not exac
 asked for, maybe that's a little bit of color that will be helpful, but we're just a little bit
 hesitant to start giving you plan numbers.
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 I appreciate the answers. Thanks a lot, guys.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
 Operator
 Our next question comes from the line of Michael Nannizzi of Goldman Sachs. Please
 proceed.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Thanks so much. Just back to auto for a second if I could. Is it possible to kind of
 understand where the accident quarter loss ratio is here at the beginning of the fourth
 quarter? Or just post these adjustments that you made to the current calendar year in the
@@ -1089,68 +919,42 @@ be running when the sort of Quantum 2.0 effort began?
 
 FINAL
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 I guess we're looking at each other trying to understand exactly what it is you're asking. If
 you're looking for a view on fourth quarter, we're not really inclined to giving you
 information about the fourth quarter yet.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 How about where did the third quarter end? I mean, in terms of – so you made the
 adjustments to the third quarter, so I would imagine if you're thinking about your
 prospective trend then you're going to start with the third quarter. You're going to look at
 rate and then you're going to look at loss. I'm just trying to get an idea of what's your
 starting point for new business today?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 So stepping back, if you look at it on the nine months and you look at PI auto, the
 underlying combined ratio was about a 98%. Is that helpful?
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 
 Bloomberg Transcript
 
 Yeah.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 That's for the nine months in PI.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 And that's on an underlying basis, ex-CAT and ex-PYD.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay. And so that's (47:14) has that changed throughout the year or is that just kind of
 that's a fair representation.
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Michael, this is Michael. I would just say so for context on that underlying, right, Brian talked
 about the fact that there's a point of impact from tenure year-on-year in that number. The
 other thing is if you take the bodily injury severity number and decompose that $45 million
@@ -1175,8 +979,7 @@ The combined ratio and the loss ratio in the fourth quarter run higher in the fo
 than they do in the first three quarters of the year. And so that's part of what's
 underneath that outlook number as well.
 
-Q - Michael Nannizzi
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. I guess one question I had is, I mean Quantum is – it sounds like it's been very
 effective in a lot of ways. We've seen PIF growth acceptance in the market. All of those
 things seem like a real positive. And then we have this sort of the environmental trend
@@ -1187,14 +990,9 @@ following up on a prior question, should that imply that at some point we should
 growth revert back until you calibrate those things? Or is this still within your sort of
 expectations when you rolled out Quantum?
 
-A - Alan D. Schnitzer
-
 Bloomberg Transcript
 
-{BIO 15198493 <GO>}
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah. So let's go back a few years to where we were three or four years ago or two or
 three years ago when this business was shrinking at double-digits. So we put Quantum
 Auto in and we took a lot of cost out and we've dramatically improved the overall profile
@@ -1211,10 +1009,7 @@ reason or another. We've got other trends in other parts of our business that ha
 emerged favorably. And so we watch these things. We think having the diagnostics and
 the ability to understand it, to diagnose it, to price for it, is what's really important.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Great. Thanks so much.
 
 Operator
@@ -1229,36 +1024,24 @@ Company N ame: Travelers Cos I nc/The
 Company Ticker: TRV US Equity
 Date: 2016-10-20
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Yes. Thank you. I guess we hit most of the issues on the auto side. Just can you give us an
 update on the workers' comp business? It feels like it's been relatively stable. Are you
 seeing any changes in that environment, both either pricing or claims?
 
 FINAL
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 I would say continued stable environment. No real change in the trends. Obviously we had
 a couple of court cases in Florida that the overall market has reacted to and we've
 reacted to. Those dollars weren't enormous for us. I think last year we had something on
 the order of $34 million, $35 million pre-tax that we added to reserves for those two court
 cases. So, relatively minor for us. But other than that, no real trends in workers' comp.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Great. Thanks, Alan.
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Thank you.
 
 Operator
@@ -1268,20 +1051,14 @@ Bloomberg Transcript
 Okay. Our next question comes from the line of Ryan Tunis of Credit Suisse. Please
 proceed with your question.
 
-Q - Ryan J. Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan J. Tunis {BIO 16502263 <GO>}
 Hey. Thanks. Good morning. My first question is just on thinking about the BI severity on
 the commercial auto side. I mean, it sounds like you guys are flagging this as an
 environmental issue kind of across all the wheels business. Is there a way that you can
 maybe help us think about the impact that had year-over-year on the loss ratio in
 commercial just from the severity in commercial auto?
 
-A - Alan D. Schnitzer
-
-{BIO 3529437 <GO>}
-
+A - Alan D. Schnitzer {BIO 3529437 <GO>}
 Yeah, Ryan, what I'll tell you is on the Business Insurance side, the proportion of premium
 that comes from auto is just much smaller than the same is true for the PI segment. So
 overall the numbers are just less significant to that segment. There were some small
@@ -1289,10 +1066,7 @@ numbers but nothing all that significant. The other thing I'd point out is on th
 line side we have more flexibility to change pricing more quickly than we do on the
 personal line side.
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian William MacLean {BIO 4679150 <GO>}
 Yeah, the other thing I would add, Ryan, this is Brian, is when you really look at the
 commercial exposure, when you're thinking of smaller claims that could be more of a PI
 thing. So the actual – we did have some activity on the severity side in BI this quarter. The
@@ -1311,10 +1085,7 @@ going into it.
 
 FINAL
 
-Q - Ryan J. Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan J. Tunis {BIO 16502263 <GO>}
 Okay. Understood. Then I guess a follow-up for Brian I guess on the impact of tenure. So, I
 guess, over the last couple of years it's been 2 points. If we would have had this
 conversation a year ago, it would have been 1 point. So the new business penalty I guess
@@ -1326,9 +1097,7 @@ premium and new business. So, yeah, I mean, just anything you can give us on get
 two points back, and whether or not you can get it back and keep growth anywhere close
 to where it is for Quantum? Thanks.
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
+A - Brian William MacLean {BIO 4679150 <GO>}
 
 Bloomberg Transcript
 
@@ -1344,26 +1113,17 @@ It's going take a while to play out. The other thing that is certainly worth not
 lot about the ratio. As we grow and it performs, we're generating profit dollars that are
 incremental to the franchise, and obviously that's a good thing.
 
-Q - Ryan J. Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan J. Tunis {BIO 16502263 <GO>}
 Thank you.
 
-A - Brian William MacLean
-
-{BIO 4679150 <GO>}
-
+A - Brian William MacLean {BIO 4679150 <GO>}
 Yep.
 
 Operator
 And our next question comes from the line of Sarah DeWitt of JPMorgan. Please proceed
 with your question.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Hi. Good morning. In the Q you provide guidance that the personal auto combined ratio
 on an underlying basis could improve in 2017. What are your assumptions in terms of auto
 BI severity there? Do you assume any further uptick or is that a risk?
@@ -1378,10 +1138,7 @@ Date: 2016-10-20
 
 FINAL
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 This is Michael. I would say what we've said is, right, that auto severity uptick is about 1.5
 point on a run-rate basis. We assume that continues on a go forward basis. I mean, there's
 always a risk it could change from here. It could change up. It could change down. When
@@ -1395,53 +1152,33 @@ So, again, I think the pricing and the outlook anticipate that the bodily injury
 higher levels of bodily injury severity are with us going forward. But we're responding with
 price and believe that we will get price ahead of loss trend in 2017.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Great. Thanks for the answer.
 
-A - Michael F. Klein
-
-{BIO 19674145 <GO>}
-
+A - Michael F. Klein {BIO 19674145 <GO>}
 Thank you.
 
 Bloomberg Transcript
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 And then this will be our last question. Thank you.
 
 Operator
 Okay. Our last question comes from the line of Larry Greenberg of Janney. Please
 proceed with your question.
 
-Q - Larry Greenberg
-
-{BIO 16478161 <GO>}
-
+Q - Larry Greenberg {BIO 16478161 <GO>}
 Thanks, and good morning. Just about all my questions were answered, but I have one
 nerdy one. In the Bond line, the – were you waiting for that, Gabby?
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 No. It's just such a great business and nobody ever asks questions. So it was inadvertent
 here (57:20).
 
-Q - Larry Greenberg
-
-{BIO 16478161 <GO>}
-
+Q - Larry Greenberg {BIO 16478161 <GO>}
 The underlying loss ratio improved a few points and I'm just wondering was there any reestimation of the first half here similar to what you did a year ago in the third quarter?
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
+A - Jay S. Benet {BIO 2456473 <GO>}
 Page 22 of 23
 
 
@@ -1454,24 +1191,16 @@ There was a re-estimation in the quarter, yes. And it was an improvement loss ra
 points. And so that's when you pull the first two quarters back in and add what's in to the
 third quarter. So yes, that's correct.
 
-Q - Larry Greenberg
-
-{BIO 16478161 <GO>}
+Q - Larry Greenberg {BIO 16478161 <GO>}
 
 FINAL
 
 Great. It's all I had. Thanks.
 
-A - Jay S. Benet
-
-{BIO 2456473 <GO>}
-
+A - Jay S. Benet {BIO 2456473 <GO>}
 Thank you.
 
-A - Gabriella Nawi
-
-{BIO 2211991 <GO>}
-
+A - Gabriella Nawi {BIO 2211991 <GO>}
 Great. So thank you all for joining. And as always we're available for follow-up questionand-answer in Investor Relations and we'll be speaking with a number of you in the next
 few days. Thank you, and have a great day.
 

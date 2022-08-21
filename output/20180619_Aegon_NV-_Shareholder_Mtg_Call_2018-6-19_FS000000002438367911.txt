@@ -10,10 +10,7 @@ Jan Willem Weidema, Head-Investor Relations
 Matthew James Rider, Chief Financial Officer
 
 MANAGEMENT DISCUSSION SECTION
-Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+Jan Willem Weidema {BIO 15133400 <GO>}
 Good afternoon, everyone, and thanks for joining us for this interactive webinar. We are
 really excited to have so many analysts and investors listening in especially since this is the
 first time we've ever held a webinar. Matt Rider, Aegon's CFO, will shortly present an
@@ -29,10 +26,7 @@ Last but not least, today's presentation may include forward-looking statements.
 always, please take a moment to review the disclaimer in the back of the presentation.
 And with that, it's my pleasure to hand it over to Matt.
 
-Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+Matthew James Rider {BIO 20002664 <GO>}
 Good afternoon, everyone. Thank you all for your continued interest in Aegon and for
 joining us for today's webinar. As I've now been in the CFO role for over a year, this is the
 perfect time for me to reflect on the things that we've achieved so far and provide you
@@ -639,9 +633,7 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2018-06-19
 
-Jan Willem Weidema
-
-{BIO 15133400 <GO>}
+Jan Willem Weidema {BIO 15133400 <GO>}
 
 FINAL
 
@@ -650,18 +642,13 @@ Thank you, Matt. Before we start with the Q&A session, let me introduce Nik Godo
 questions as well.
 
 Q&A
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 We received many questions and we'll go through them topic by topic. Starting off with a
 more general question, Matt. You have been CFO of Aegon for over a year now, what
 was it that most impressed you about Aegon and where do you think our company still
 has work to do?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
+A - Matthew James Rider {BIO 20002664 <GO>}
 
 Bloomberg Transcript
 
@@ -677,18 +664,12 @@ the IFRS 17 work is foundational in nature so that would be systems, data, proce
 core foundational work, and I think that we need to do some accelerating there and I think
 we're already doing that.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Thanks. You mentioned systems and before you mentioned models as well. Can you give
 some more color around the validation and conversion of the less complex models? And
 what the financial impact might be?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah. I think I said in the presentation, we've – the most important models, the most
 complex ones have already been converted, but there are still some more minor ones
 left to do. And these are some 20 separate models that need to be converted ultimately
@@ -696,10 +677,7 @@ onto their destination, let's say, valuation platforms, but because they are, le
 complex in nature, we would not necessarily expect any big hiccups to come through. I
 think it would be very minor things.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Thank you. As a result of the recent events in the industry and some analyst notes in
 recent weeks, long-term care has received a lot of attention. Also today, we've received
 many questions on this topic. So, let me spend some time on that. To start off is your
@@ -716,10 +694,7 @@ through the assumptions and assessed them?
 
 FINAL
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 So, the auditors routinely go through our assumptions setting and especially, obviously,
 each time when we do the big assessment. So, in this case it's the second quarter for the
 U.S. and the fourth quarter for the other businesses. So, the auditors actually do a very
@@ -734,37 +709,25 @@ on the extent to see – the extent to which they see our assumptions are in lin
 the market. And so far, especially since 2016, we've seen everything track pretty well with
 our experience.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 And would you say that scrutiny is rising here?
 
 Bloomberg Transcript
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah. It definitely is rising. We've in fact not only from external market participants,
 analysts and investors but also from regulators as well. And we have received more
 questions in terms of the assumptions that we're making on long-term care business. But
 so far everybody seems satisfied with the results and we've not had to make any
 adjustments to our provisioning as a consequence of it.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Thank you. The next question is on the actual to expected, the statutory reserves are
 quite close to the IFRS reserves on an overall level. So what do you think is the risk of
 increased reserves being required there given the high actual to expected ratio on a stat
 (00:46:15) basis?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah. I think one of the things that I've seen maybe missed a little bit in some of the
 recent analyst write-ups on this, is that they're recognizing the fact that cash flow testing
 is performed at a legal entity level. And if you have losses in one area, they could be
@@ -790,17 +753,11 @@ sort of combines blocks together. In the case of this premium deficiency reserve
 specifically for long-term care. So, so far, we are not seeing a deficiency on that basis and
 the legal entities for long-term care specifically.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 All right. Do you believe, or do you have a fear actually that regulators or auditors will
 pursue higher provisions as there is a fear for systemic risk?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Not necessarily. On this one, I would point more to our ability to get premium rate
 increases. So, for example, I think there is a recognition with another one or two notable
 failures in the market that they probably could have been avoided had state officials
@@ -812,31 +769,19 @@ remaining in rate increases, we think that we're going to be able to get.
 
 Bloomberg Transcript
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 The next question is quite specific on this topic. If Aegon wants to update their morbidity
 assumptions for statutory accounting, would that figure a true-up in provisioning, keeping
 the discount rates stable?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 You have to repeat the question there.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 If we were to update morbidity assumptions to best estimates on a statutory basis, what
 would be the impact on the reserves?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah, it's a strange thing. It would result in lower statutory reserves. Because, in general,
 the morbidity provisions under IFRS are a little bit more prudent, and more reflective of
 our current experience. Whereas the assumptions that are made in stat (00:48:56) and I
@@ -846,9 +791,7 @@ especially in the case of interest rates as an example. So that would be the bas
 And then you'd have to roll that through premium deficiency reserve testing and also cash
 flow testing, so it gets a bit complicated. But it was a complicated question.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Page 15 of 31
 
 
@@ -863,60 +806,37 @@ and to what extent is it more alternative assets that drive that?
 
 FINAL
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 It's a – it's, I would say, it's just simply a combination of both. I would mention that, yeah, it
 was quite prudent back in 2002 to begin this forward-starting swap program because this
 is really protecting us for a period going out more than 20 years. So, it is a combination of
 the two.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Can you clarify? Is that a 20-year period from the start of the program...
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 No.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 ...or is that 20 years from (00:50:05)...
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
+A - Matthew James Rider {BIO 20002664 <GO>}
 
 Bloomberg Transcript
 
 No, actually going forward from now. So this was quite a long dated program recognizing
 of course the extremely long duration nature of the liabilities.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 To what extent do you believe there's a litigation risk in relation to these the rate
 increases for long-term care?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah. Maybe, maybe I would call on – we have Nik Godon (00:50:27) on the phone. Maybe
 we can ask that question of Nik (00:50:31).
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Thanks, Matt. So, I think in the U.S., there often is litigation risk in the insurance industry, but
 the rate increase process from a long-term care perspective is heavily involved with the
 state regulators. And so, we have to go through a considerable effort to actuarially justify
@@ -936,41 +856,27 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2018-06-19
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Okay. Thanks, Nik (00:51:31).
 
 FINAL
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 The next question is, what do you actually assume – we talked about morbidity earlier.
 What for mortality improvements in your IFRS reserves in order of sensitivities around –
 you could provide around that.
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Difficult to do for mortality. For active lives, we're locked into – and I assume we talk about
 statutory numbers at this point but for active lives we are locked into prescribed valuation
 tables. So, I think we use 1983 GAM for – to hit their pre-2005 business and 1994 GAM
 after that. And then for disabled lives reserves it goes back to our actual – goes back to
 our actual experience.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 And how does this compare to the IFRS assumption for this metric?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
+A - Matthew James Rider {BIO 20002664 <GO>}
 
 Bloomberg Transcript
 
@@ -978,18 +884,12 @@ Well on the – so, the IFRS metrics for, let's say, disabled live reserves and 
 statutory are basically the same. But then if you go to IFRS, they're more, let's say,
 prudent.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 The next question is on the – come back to the 7% investment return you were getting –
 Aegon is going through rate increases at the moment. Are those captured by the
 forward-starting swaps put in place in the past?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Are they cap – well, no. The forward-starting swaps would have been based on the
 original premium, so that would not be captured. But I would emphasize again that
 without those premium rate increases, we would be holding substantially higher reserves.
@@ -997,18 +897,12 @@ So just on balance, this is – the premium rate increases are really helping us
 impossible to lock in interest rates on something that you didn't know was going to
 happen years from inception.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 And with respect to these swaps, can you exclude the possibility that the swap program
 both the benefits and the goals are accounted for in other places of the AEGON group
 and not just in the specific long-term care book?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Are accounted for? No, I think we are accounting for that one properly.
 Page 17 of 31
 
@@ -1018,33 +912,21 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2018-06-19
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 The next question is a question for confirmation on the following. Can you please confirm
 that your IFRS reserves assume 100% execution of the price increases in long-term care?
 
 FINAL
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 That is correct. But importantly, they assume 100% execution of the price increases of the
 current program and do not reflect any future programs that we might do in the future.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 The next one, could you – could it be possible for AG51 (00:54:22) in the U.S. that at least
 through the (00:54:26) cash flow testing hits for long-term care?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Well, AG51 (00:54:30) is now prescribed. So we submit information to the – to U.S.
 regulators on a confidential basis. Looking at long-term care blocks in much the same way
 as you would look at normal cash flow testing, except that you look at the block just in and
@@ -1052,42 +934,28 @@ of itself. However, what we are seeing through, again, that premium deficiency r
 testing is that given the rate increases, given the locked-in interest rates and other things,
 we're still comfortable with the position.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 
 Bloomberg Transcript
 
 Thank you. You mentioned that no IFRS charges are expected. Can you comment on the
 position around stat at this moment?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 No, we can't comment around statutory at this moment. In fact, I've just gone through
 some of the preliminary review of the figures. It looks like IFRS is fine. There's still a little
 bit of work to be done on stat, but we'll obviously inform everybody at the second
 quarter.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Okay. That is largely it as far as long-term care goes. One last question, what is the risk
 that you have to recognize a charge on stat reserves by bringing experience in line with
 best estimates?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Very difficult, very difficult to say. Maybe on this one, I look to Nik (00:55:56) on this one.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 As you stated earlier, Matt, with the premium deficiency reserve when we take what is
 essentially our best estimates with a bit of prudence, we currently still show that the
 statutory reserves that we hold are sufficient on a standalone basis for the long-term care
@@ -1103,18 +971,13 @@ Date: 2018-06-19
 with some provisions, we think we would still have sufficient statutory reserves as of right
 now.
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
+A - Matthew James Rider {BIO 20002664 <GO>}
 
 FINAL
 
 Okay. Thanks, Nik (00:56:31).
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Thanks, Nik (00:56:32). Thanks Matt for the detailed answers on long term-care. In case
 participants have any further questions, then please reach out to a member of the
 Investor Relations team as for the webinar, but there's also other interesting topics to
@@ -1124,10 +987,7 @@ needs to be addressed in order for it to be successful from that point of view?
 
 Bloomberg Transcript
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah. I think at this point, it's going – there's no doubt about it. It will increase
 comparability in the sector and it will definitely make the IFRS balance sheet more
 meaningful frankly. So from that perspective, I think just getting the P&L and the balance
@@ -1142,17 +1002,11 @@ reduce a little bit of the comparability, but I think it's within a relatively n
 you're going to – I think we're going to be able to deal with that one. But again, it makes
 the P&L and the balance sheet lineup in a sensible way.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Thanks. Moving on from the IFRS balance sheets to the capital side of it. When do you
 think we can get an update on tax reform and the NAIC charges from the NAIC?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 When we hear from the NAIC. So this is – it's been an interesting one. We have – we've
 been thinking that originally they might postpone past 2018 and to 2019 on both the RBC
 asset base charges and also the implications for the RBC factors as a consequence of tax
@@ -1172,19 +1026,14 @@ Date: 2018-06-19
 happen in 2018 or 2019 makes no difference to us. At the end of the day, we feel like
 we're in a very good spot and have come out of tax reform very well, in fact.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 
 FINAL
 
 And a related topic. Are you still guiding to the U.S. RBC ratio in the upper end of the
 target range or has this changed?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah. Technically, if you had – so we're sitting at 472% RBC at the end of the fourth
 quarter. Technically, if all those things happened at once, we could dip slightly below the
 midpoint of the range. But, remember, that doesn't include the capital generation that
@@ -1193,19 +1042,13 @@ So I would say, at the very least, it's not going to be materially lower, 10 per
 points. I have no idea. But it's going to end up at a worst case scenario in the middle of
 the range and in kind of any other case scenario in the top half of the range.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 You touched upon management actions, can you perhaps elaborate there what you're
 thinking of ?
 
 Bloomberg Transcript
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Well, there's always actions that you can take. So, for example, the variable annuity
 changes, the framework changes that will happen to the NAIC. Although it has no impact
 for us on a – let's say, on a just a straightforward basis, it does bring in the possibility to,
@@ -1214,27 +1057,18 @@ legal entity and that could have some capital benefits. But yeah, these are just
 normal course of business, hygiene types of things that you can do. And then, we're
 constantly looking for ways to improve capital generation. Let's be clear.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 As you mentioned in the presentation that €150 million extra capital generation is coming
 from these changes. Is that already baked into the guidance that you gave on one of the
 slides?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 No, not yet. So that will come after. So what we're trying to portray on that slide is that we
 have some negative impacts that are going to happen over a period of, let's say, two to
 three years. And then, after that period then we end up with the beneficial impacts of
 capital generation. The one exception to that's probably U.S. tax reform.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Yeah. So it's not reflected on slide 14, the unit ratios but on slide 21, the outlook for 2018
 has part of this baked in right (01:01:18).
 
@@ -1246,25 +1080,17 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2018-06-19
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 I would say part of it. But again the Netherlands, the liquid programs, (01:01:22).
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 
 FINAL
 
 And why do you have still a new business strain of €1.2 billion? What kind of business is
 that?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Well, it's a combination of things. So we have we have capital – let's be very clear, we've
 gone way more from a capital-intensive business to one that is more capital-light. But
 there are still products that have new business strains.
@@ -1276,18 +1102,13 @@ can convert that into capital generation going into the future as well as to mai
 where we do manufacture product and it's more, let's say, traditional life insurance
 product does have a capital strain.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 
 Bloomberg Transcript
 
 And can you talk about the nature of that strain (01:02:26) SCR?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah, the way that you need to think about this is on day one when you issue a contract,
 there are, let's say, upfront expenses that could be, let's say, first year commissions,
 acquisition costs, marketing expenses, that kind of thing and those are sort of cash
@@ -1315,19 +1136,13 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2018-06-19
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 You also mentioned the UK as a contributor with the UK becoming more and more
 platform business, why is there still quite some new business strain from the UK business?
 
 FINAL
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah, it really comes from – you would say packaged pension businesses and I would say
 largely these are maybe a good way to talk about it is, if you think about the existing
 business, the way that we're going to report it going forward, this is business that we're
@@ -1337,16 +1152,11 @@ new employees that are coming through. So there is a capital strain associated w
 and then a lower, but similar kind of amount on the new platform, let's say, the digital
 solutions type of business.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Thanks. Moving on to the capital generation of the U.S. specifically, to what extent is that
 supported by a benign credit environment?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
+A - Matthew James Rider {BIO 20002664 <GO>}
 
 Bloomberg Transcript
 
@@ -1359,17 +1169,11 @@ positive things on that one. But we typically go for our planning process in our
 We go for the middle of the road and that means sort of a – let's say, a normalized credit
 environment and that's where – let's say worse than the one that we're in now.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Moving from a capital generation to the ratio. How relevant are the targets on group
 Solvency II ratio given the needs last year to capitalize businesses on a local basis?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah, it's a very good question. I would say that the group solvency ratio has some direct
 implications for us. But a lot of what we do for, let's say, capital generation and
 remittances is clearly based on local solvency ratios.
@@ -1396,61 +1200,41 @@ But where it does come into play is in the tier-ing of capital. So that does com
 when we think about the let's say Tier 2 capacity, those kind of things. So it's an important
 one from a tier-ing capacity standpoint.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Yeah.
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 It's important from a, let's say, a basic hygiene factor and a comparability across European
 peers factor. But really, when we talk about externally payable dividends, you first have to
 start with the remittances from the individual business units. That's why, we have them
 capitalized at high enough levels so that they can be a bit resilient and so that we can rely
 on the planned dividend payments coming up from the businesses.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 
 Bloomberg Transcript
 
 And to what extent would you say that the current Solvency II ratio is inflated or benefited
 from market movements and which you would regard to be not fungible?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Boy, that is sort of a second derivative type of question. But I would say, it's not particularly
 inflated at this moment. But then, again, even if it was, I'm far more interested in what's
 going on in the individual business units. But I think the 201% at least at year-end was
 pretty okay and reflective of sort of current environments, if you will.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 And for any of the individual units, do you see them as benefiting more than average
 from market movements?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 No, but I wouldn't say it that way, I would look more toward our capital sensitivities that
 we've published for the major business units and for the group on Solvency II basis. And
 it's actually, if you look at the sensitivities, we're actually pretty well-balanced out there. So
 that tells me that, we're not kind of out of whack with weird market movements being
 inflating or depressing the Solvency II ratio.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Thank you. Could you provide a bit more detail on what are the kind of remittances we
 can expect in 2018 and how it will grow over time?
 
@@ -1462,9 +1246,7 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2018-06-19
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
+A - Matthew James Rider {BIO 20002664 <GO>}
 
 FINAL
 
@@ -1475,17 +1257,12 @@ refresh these things, but that moment is not now. We are really more focused on
 achieving the 2018 results and achieving what we've committed to the market. And so far
 as I said in the presentation, I think, we're very much on track to be able to do that.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 The Netherlands and UK are resuming regular dividends as per your comment earlier.
 Does that mean we should expect the first half remittances to be repeated going
 forward?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
+A - Matthew James Rider {BIO 20002664 <GO>}
 
 Bloomberg Transcript
 
@@ -1500,17 +1277,11 @@ say expect, I just say capital thing – capital position looks good, things gen
 We got the first half dividend. We do this half of the year by half of the year, subject to
 normal governance.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 And do you see scopes to increase the payout ratio for the group to beyond 50% from
 free cash flow?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Let's see how we progress with IFRS 17, I would say. I would say, there's certainly some
 limited scope to be able to do it. But let's see how we come out with our MTP planning
 process for this year. We are going to be stressing with the businesses the need to
@@ -1521,9 +1292,7 @@ Probably not immediately as we run up to 2021, maybe we don't know. A lot will d
 on how the rating agencies ultimately look at these things and what peers are doing as
 well. So let's be a little bit conservative here in the relatively short term.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 
 Page 24 of 31
 
@@ -1538,10 +1307,7 @@ capital position to Solvency II after the NAIC changes?
 
 FINAL
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah, that's an interesting one. A very good question by the way. When we negotiated or
 – not negotiated, I shouldn't say that, when we had agreed with DNB on a new conversion
 methodology for the U.S., we made it subject to an annual review process.
@@ -1557,44 +1323,30 @@ process that will happen at the end of the year. And I think we do – it's goin
 number of topics that get addressed and then we'll come to a conclusion and then, we'll
 move forward.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 
 Bloomberg Transcript
 
 Thank you. On holding excess capital – or holding excess cash I should say, it's
 unencumbered, it doesn't mean that it's 100% distributable if needed with no constraints?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 The short answer is yes. So we have the money market funds in large part sitting in NV
 and then we have these other very short-dated liquid assets that are fully fungible. So I
 would say this is unconstrained.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Is there any relation in between how much holding excess cash there is and DTAs or LAC
 DT?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 No. So let's say, DTAs and LAC DT are things that would affect underlying business units
 and their – and let's say, their ongoing remittances. So it doesn't affect that excess cash in
 the holding at all. Not as sort of a balance sheet numbers, so we stand at €1.4 billion
 excess cash in the holding – excess cash in the holding doesn't care what LAC DT is or
 deferred tax assets are at that point.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Is any of the holding excess cash in the U.S. holding companies? And if so, can you
 quantify this?
 Page 25 of 31
@@ -1605,26 +1357,17 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2018-06-19
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 No. So it's been – the vast majority is sitting in NV.
 
 FINAL
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Retained earnings are expected to lead to further reduction of the leverage ratio over the
 medium term. But then you have to achieve the ROE target of 10%. Can you comment on
 how the two interplay?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah. We've accounted for that. So clearly in our planning. As I said in the presentation, we
 expect to get to about 10% ROE more toward the end of this year. Probably, not for the
 full year but for the, let's say, for the fourth quarter. And in our – let's say, in our internal
@@ -1632,19 +1375,13 @@ planning, we're generally seeing that we're on a good trajectory going into 2019
 let's say, the potential earnings growth that we see. But again, too early to set 2019
 targets in that way.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 And are there any plans to redeem or not refinance any debt instruments in the medium
 term?
 
 Bloomberg Transcript
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Well, we do plan on doing quite a lot of refinancing. So this is the slide that we went
 through in the presentation with – we have restricted – grandfathered restricted Tier 1
 outstanding, we have grandfathered Tier 2 outstanding. So this is stuff over the coming
@@ -1653,17 +1390,11 @@ probably not going to be issuing any hybrids just to, let's say, increase financ
 our own funds in that way. It's really refinancing activities that we're more focused on over
 the coming period.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 On a five-year view, what portion of the group earnings do you expect to come from
 Asia? So totally shifting gears here.
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Five-year view – boy, that's a tough one. Yeah, it depends a bit on the things that we're
 doing in Asia. And I think everybody knows we view Asia as a significant growth
 opportunity. To what extent that converts into earnings per se is a little bit unclear. Most of
@@ -1683,48 +1414,32 @@ Date: 2018-06-19
 
 on Asia upcoming, I believe.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 
 FINAL
 
 And to what extent are add-ons important for the Asian region?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Add-ons. Add-ons. Yeah. I wouldn't say, in the context if by
 Add-ons you mean, let's say, bolt-on acquisitions things of that nature. Probably not so
 much important. Add-ons in terms of different kinds of digital initiatives to capitalize on
 things that we're seeing in the market in Asia. Yeah, that's potential. But it wouldn't be to
 sort of increase the size and scale, let's say, in a traditional sense.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Staying on the topic of add-ons, what is the upper end limit for capital invested in addons? What do you consider in add-on?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Capital invested...
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 
 Bloomberg Transcript
 
 (01:18:01)
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah, maybe an easier way to think about this, the way that we think about the excess
 cash in the holding is and I think you saw it a bit in the presentation, we keep – we try to
 keep that floor of $1 billion to be able to provide for the holding expenses and the debt
@@ -1734,17 +1449,11 @@ think of that that $1 billion as a bit of a floor. But anything over that is yea
 let's say, additional flexibility that we might be able to deploy into acquisitions or
 whatsoever.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Okay. We have a few questions left at the moment. Staying on the topic of M&A, could
 you specify your interest in doing a larger M&A in the Netherlands?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Larger M&A in the Netherlands. Okay. So, let's talk a little bit about Vivat. I assume that's
 the sort of the...
 (01:19:10)
@@ -1757,18 +1466,12 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2018-06-19
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 ...behind the question.
 
 FINAL
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah. I think that was behind the question. So I think as we've said, first and best use of
 capital that we generate; invest in our own new business; that's where we get the best
 return. It's our core business. That's what we like the best. It is an area where we go
@@ -1789,17 +1492,11 @@ the end of the day, the most important thing when we would evaluate that, if in 
 does come to market, is we would have to make sure that this is a good deal for
 shareholders.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 And related to that, would you be interested in acquiring long-life businesses, either
 stand-alone or as part of a broader group?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah. It would depend; we have non-life businesses in some areas of our business, the
 Netherlands being one. I think that there could potentially – if something came that was
 interesting, we would look to achieve a better size and scale with that kind of business, so
@@ -1811,10 +1508,7 @@ combined ratios over the last periods. So they've actually made a good step forw
 it. But really, I would view non-life acquisitions to be very bolt-on, very opportunistic, small
 in size, that sort of thing.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Moving from the acquisition side to the divestment side. Do you expect to see any more
 big moves like BOLI/COLI still?
 
@@ -1828,10 +1522,7 @@ Date: 2018-06-19
 
 FINAL
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah, the BOLI/COLI, that was an extremely good one to do; we raised $700 million of
 capital, which was ultimately fully upstream to the group and was there in fact and
 available to be able to support the injection into the Dutch business. But that was one of
@@ -1846,31 +1537,20 @@ divestment, but I would say COLI/BOLI business with something like $14 billion o
 and generating $700 million of capital, that was a pretty big one. I can't see too many of
 those left.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 The next person to ask a question is thinking of something very big. What about
 (01:22:51)...
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
+A - Matthew James Rider {BIO 20002664 <GO>}
 
 Bloomberg Transcript
 
 All right.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 ...selling off Transamerica.
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah, so it's obviously topical, right, because other European players are doing things with
 their own U.S. subsidiaries. This would a very, very difficult one for us. I mean, if you think
 about it, Transamerica represents about two-thirds of our overall business and there is
@@ -1882,10 +1562,7 @@ be that would be a very difficult one. And we really – no matter what we do, w
 have to focus on getting to IFRS 17 implemented across the entire group, including
 Transamerica.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Moving on to the next question, which is again some smaller part of the group. We're
 looking at Asia from a value perspective. Are you including possibility of any asset sales
 there?
@@ -1898,9 +1575,7 @@ Company N ame: Aegon N V
 Company Ticker: AGN N A Equity
 Date: 2018-06-19
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
+A - Matthew James Rider {BIO 20002664 <GO>}
 
 FINAL
 
@@ -1918,20 +1593,14 @@ huge amount of population and of course very digitally oriented. So there are th
 think that we can do in Asia to improve overall value. But that does not necessarily mean
 trying to get a valuation by selling something.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Moving away from M&A for a second and to the rating agencies. Aegon is on negative
 watch by S&P. The outlooks usually are set=up (01:25:20) for 12 months through 24
 months. Do you feel you have addressed S&P's concerns to prevent a downgrade?
 
 Bloomberg Transcript
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah, it was an interesting one. For S&P, if you look back, I think it was in February of this
 year. We had already been on negative watch for 12 months. And that's the normal point
 that they would bring you to the committee and make a decision one way or another. And
@@ -1949,17 +1618,11 @@ they've done is, they've taken another 12 months to look at our performance. And
 that's extremely fair. Look at our performance over the next 12 months and then you can
 make your decision.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Almost (01:26:57) the next 12 months, we'll have – in August, the half-year results; in
 February, the full year results. When do you think is a likely moment to refresh the targets?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Probably, I think in terms of financial targets, it would be after our full-year results. That
 would be the logical time. I think there might be some, let's say, some more strategic
 Page 30 of 31
@@ -1978,18 +1641,12 @@ it's probably not going to come earlier than the fourth quarter results. I'd lov
 to stand in front of you at the fourth quarter results and say, 2016 to 2018's successfully
 done; okay, here's what's next.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Thank you. That actually brings us to the last question. We're through the questions of the
 audience, so the last question is for myself. What is the main message you would like
 viewers from the webcast to take away?
 
-A - Matthew James Rider
-
-{BIO 20002664 <GO>}
-
+A - Matthew James Rider {BIO 20002664 <GO>}
 Yeah, I think I'd like you all to remember how we have just fundamentally transformed our
 business into a more efficient and financially predictable company with a strong capital
 position that allows us to make investments in new business and create a lot of financial
@@ -2005,10 +1662,7 @@ We've just had our annual strategy update with our supervisory board and we titl
 growth on a solid foundation. I'd like to think that have a bit (01:28:42) turned a corner and
 can really focus now on growing the business. That's what I'd like to leave you with.
 
-A - Jan Willem Weidema
-
-{BIO 15133400 <GO>}
-
+A - Jan Willem Weidema {BIO 15133400 <GO>}
 Thank you, Matt. Ladies and gentlemen, that will conclude today's webinar. Thank you for
 your participation. You may now disconnect.
 

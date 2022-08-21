@@ -37,10 +37,7 @@ ask questions after the presentation. (Operator Instructions).
 At this time, I would like to hand the call over to Mr. Olivier Armengaud. Please go ahead
 sir.
 
-Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+Olivier Armengaud {BIO 20892984 <GO>}
 Good afternoon and welcome to SCOR Full Year 2020 Results Call. My name is Olivier
 Armengaud, Senior Manager in Investor Relations team, and I'm joined on the call today
 by Denis Kessler, Chairman and CEO of SCOR, and the entire executive committee. May I
@@ -64,10 +61,7 @@ to the magnitude and duration of the pandemic and the possible effect of future
 governmental actions and/or legal developments.
 Before starting our Q&A session, I would like to hand over to Ian Kelly, CFO of SCOR.
 
-Ian Kelly
-
-{BIO 19976646 <GO>}
-
+Ian Kelly {BIO 19976646 <GO>}
 Thank you, Olivier, and welcome to the call everybody. Let's go to slide 4 of the
 presentation. The reinsurance industry in general and SCOR, in particular, have not been
 spared by the dramatic consequences of COVID-19, which started to wreak havoc upon
@@ -258,10 +252,7 @@ standing at EUR2 billion. So overall, we are very happy with the results, the Gr
 strong position.
 And with that I will hand back to Olivier for the Q&A session. Thank you.
 
-Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+Olivier Armengaud {BIO 20892984 <GO>}
 Thank you very much Ian. On page 22, you will find the forthcoming schedule event. With
 that, we can move to the Q&A session. Please limit yourself to two questions each. Thank
 you.
@@ -281,10 +272,7 @@ FINAL
 Thank you sir. (Operator Instructions). Our first question from Kamran Hossain with RBC.
 Please go ahead.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Okay. Afternoon, so two questions on Life. First on the Life technical margin guidance for
 2021, I'm just looking at the number, I'm just trying to square the 5% guidance that you've
 given for the year, which is lower than Q4 standalone, which was a bad quarter. How
@@ -299,10 +287,7 @@ in the IFRS numbers? Thank you.
 
 Bloomberg Transcript
 
-A - Paolo De Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo De Martin {BIO 15930577 <GO>}
 Yeah, this is Paolo. Kamran, thank you for the questions. Just -- let me just quickly go
 through the second question quickly as this is just more straightforward, just to give you a
 quick breakdown of the COVID bookings at Q4, I think that would answer the questions.
@@ -335,43 +320,26 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2021-02-24
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Well thanks, Paolo.
 
-A - Paolo De Martin
-
-{BIO 15930577 <GO>}
+A - Paolo De Martin {BIO 15930577 <GO>}
 
 FINAL
 
 Did that address your question Kamran?
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Yeah. Also like (inaudible) once probably asked when we see what your experience is like
 in the coming quarters (inaudible).
 
-A - Paolo De Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo De Martin {BIO 15930577 <GO>}
 Yeah.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Next question please.
 
 Bloomberg Transcript
@@ -379,10 +347,7 @@ Bloomberg Transcript
 Operator
 Our next question comes from Vikram Gandhi with Societe General. Please go ahead.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hi, good afternoon, it's Vikram from Societe General. Just a couple of questions from my
 side. Firstly, going back to Life and Health, I see the Group is assuming about 280,000
 excess deaths in the US, however, the corresponding claims figure projected in the
@@ -394,16 +359,10 @@ The second question was really simple one on the tax rate. I see it's coming in 
 bit higher. So when is it that we should expect a run rate close to the 23% or thereabouts
 that the Group has guided to in the past? Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Paolo and Denis.
 
-A - Paolo De Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo De Martin {BIO 15930577 <GO>}
 Yeah, on the solvency 2 numbers that you see on the projections on the presentation that
 includes the full load of the 280,000 impact. So our solvency 2 numbers now reflect full
 Page 7 of 21
@@ -423,18 +382,12 @@ So building an adequate level of prudence in our reserves across our US book and
 allows us to withstand a certain amount of deviation. So that's something that we continue
 to evaluate and we will continue to evaluate as we go through 2021.
 
-A - Olivier Armengaud
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Paolo. Ian, on the tax rate?
-
-A - Ian Kelly
 
 Bloomberg Transcript
 
-{BIO 20892984 <GO>}
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Yeah, just to -- before I go on to the tax, Vikram, just to add to Paolo's response, the
 COVID-19 solvency ratio -- the solvency ratio includes the COVID-19 impact going forward
 and the 280,000 deaths. Just to help, think about how this has moved, just so that it's a
@@ -453,16 +406,10 @@ think about and reconcile the 2021 impact on the Life side. As I said, there are
 and downs, there is something in the solvency 2 side on the P&C side as well but it's
 largely that Life number, okay.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 That's very helpful.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Okay. Then on to the tax on figure. Yeah, it is slightly elevated for the year. Really this is a
 bit of a mechanical impact that stems from the fact that the net income is lower, yet we
 do have some frictional beat and that is a cost in the year and relatively with lower income
@@ -470,16 +417,10 @@ that has a larger impact. The underlying geographic rate mix is in our Quantum L
 range within the assumption and we continue to look at ways to optimize that beat
 frictional cost and we have some work ongoing upon them.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay, thank you very much.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you Vikram. Next question please.
 Page 8 of 21
 
@@ -494,10 +435,7 @@ Our next question comes from Andrew Ritchie from Autonomous. Please go ahead.
 
 FINAL
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi, there. A quick one. First of all, on the solvency II walk capital generation, I think the
 assumptions or zero assumptions/experience variance ex-COVID of zero for the full year,
 they were positive at the half year. So, these implied second half negative assumption
@@ -509,18 +447,12 @@ management, the implication being you exhausted that -- those options in 2020 to
 defend the profitability. I'm just -- I'm just puzzled as to why there is a sudden change on
 that or is it just excessive conservatism? Thanks.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Frieder, on the first question.
 
 Bloomberg Transcript
 
-A - Frieder Knupling
-
-{BIO 17247809 <GO>}
-
+A - Frieder Knupling {BIO 17247809 <GO>}
 Yeah, hello everyone. So, at the half year, we had overall variances of 73. Now, we have 10
 for the full year, so a slight negative variance in the second half of the year. That's the
 result of regular assumption reviews which we do on an annual basis which leads to
@@ -529,16 +461,10 @@ and persistency variances. So, there is not a single driver for this, but overal
 small and with an overall variance close to zero, we feel that our models are well
 calibrated.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you Frieder. Paolo on the second question?
 
-A - Paolo De Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo De Martin {BIO 15930577 <GO>}
 Yeah, Andrew, the updated assumption that we have on the technical margin for 2021 is
 driven entirely by the worsening of the pandemic versus the projections we had in
 September last year. So back at the IR Day, we gave you an assumption for 2021 for Life
@@ -572,16 +498,10 @@ precisely the impact of our in-force management programs and the 5% is what we f
 comfortable right now with what we have in the pipeline that might change and improve
 over 2021.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay, thanks.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Andrew. Next question please.
 
 Operator
@@ -590,10 +510,7 @@ ahead.
 
 Bloomberg Transcript
 
-Q - Emmanuel
-
-{BIO 16323493 <GO>}
-
+Q - Emmanuel {BIO 16323493 <GO>}
 Hello. Hi, thanks for taking my question. So, I have a first question on the dividend, you
 announced the proposed dividend of EUR1.0 per share today. So, if you could please give
 us an update of where the regulator is on this matter. And then another one, again on the
@@ -604,16 +521,10 @@ should be considered as a recurring element. I'm just trying to understand wheth
 may be some tailwind or change for you to deliver at the top end of the target range for
 example, if you can please give a little bit more color on this.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Ian, maybe on dividend?
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Yeah, sure. So, thanks Emmanuel [ph] and as I said earlier, we're very happy with the
 position the Group is in, we're in good shape and we are happy with the dividend. We
 have the capital for this, we have the liquidity for this and that's been the basis of the
@@ -631,18 +542,12 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2021-02-24
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you Ian. Paolo on the Life technical margin?
 
 FINAL
 
-A - Paolo De Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo De Martin {BIO 15930577 <GO>}
 Yeah, I think we're back to a similar point that I just made answering Andrew's question. If
 you take our performance, we had the overall underlying performance. We're very
 comfortable with where that is. We feel the underlying fundamentals of the business are
@@ -661,28 +566,20 @@ in-force portfolio globally. And at this point again we will be having the pipel
 where we get to the 5% -- the 5% technical margin assumption that can evolve over time
 and as we go through the quarters in 2021, we'll keep you updated.
 
-Q - Emmanuel
-
-{BIO 16323493 <GO>}
+Q - Emmanuel {BIO 16323493 <GO>}
 
 Bloomberg Transcript
 
 Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you Emmanuel [ph]. Next question please.
 
 Operator
 Our next question comes from Paris Hadjiantonis from Exane BNP Paribas. Please go
 ahead.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Yes, hi everyone from my side as well. I hope you're doing well. First question on the
 diversification benefit for Solvency II. This has gone up both year-on-year and since the
 half-year stage. So, I was wondering if you can explain basically the main drivers of why
@@ -691,10 +588,7 @@ management expense ratio. It is down meaningfully, year-on-year and I assume thi
 partly down to COVID. Now going forward, should we expect this to go back up to about
 7% or are some of those expense savings going to be permanent? Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Frieder on the diversification?
 
 Page 11 of 21
@@ -707,10 +601,7 @@ Date: 2021-02-24
 
 FINAL
 
-A - Frieder Knupling
-
-{BIO 17247809 <GO>}
-
+A - Frieder Knupling {BIO 17247809 <GO>}
 Yeah. Thank you. The diversification benefit tends to be higher -- the higher the better
 balanced the underlying main risks and in particular the more or less independent risk
 categories. So our capital requirements are mainly driven by Life and P&C underwriting
@@ -724,18 +615,12 @@ investment portfolio and also financial market movements, so the balance of our
 underlying risk profile has further improved and this has led to a further improvement in
 the diversification benefit as you rightly mentioned.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you Frieder. Jean-Paul on the expense ratio?
 
 Bloomberg Transcript
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 Yes, hello. Regarding management expenses, as you've seen the (inaudible) being lower
 than our Quantum Leap assumption that's the result of several factors. One of them
 obviously lower travel expenses in the COVID context and also another one is lower
@@ -750,19 +635,13 @@ terms of operations and for instance, we don't anticipate to revert to travel le
 saw before COVID-19. So, here there would be an element of permanent savings going
 forward.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you and next question please.
 
 Operator
 Our next question comes from James Shuck from Citi. Please go ahead.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Hi, thank you. Good afternoon and good morning everybody. So my first question, I just
 want to clarify what you said about investment return. I think you said 1.8 to 2.3 in 2021, I
 presume the comparison is the 2.8 in 2020 and I just want to square that with the
@@ -786,16 +665,10 @@ are at the top end of that range. So it still seems a very odd decision to me no
 the 2019 dividend. I appreciate, is this game over, if you like, but perhaps you could just
 flush out a little bit the decision not to revisit that dividend. Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Francois, on the investment returns.
 
-A - Francois de Varenne
-
-{BIO 7447858 <GO>}
-
+A - Francois de Varenne {BIO 7447858 <GO>}
 So, on the investment returns, so you're right. So the assumption of (inaudible) is return
 on invested assets between 2.4 and 2.9 over the strategic plan and we maintain this
 assumption today. For 2021, my expectation is a return on invested assets between 1.8%
@@ -814,35 +687,20 @@ So, we believe that there could be upside in our range as given today, given wha
 in the market today and again compared to today, and the beginning of the year, the 10year US rate has increased by almost satisfy 35 to 45 basis point already. (Multiple
 Speakers) significant liquidity in the portfolio to capture this upside.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 In terms of the Quantum Leap target which you're saying you're sticking to that forward
 2.4 to 3.9 is that basically...
 
-A - Francois de Varenne
-
-{BIO 7447858 <GO>}
-
+A - Francois de Varenne {BIO 7447858 <GO>}
 That's the strategic plan. Yes.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Yeah, but you're essentially assuming that the forward rates will improve?
 
-A - Francois de Varenne
-
-{BIO 7447858 <GO>}
-
+A - Francois de Varenne {BIO 7447858 <GO>}
 Yeah, which is not embedded in the guidance I gave you, the 1.8% to 2.3%.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Page 13 of 21
 
 
@@ -853,16 +711,13 @@ Date: 2021-02-24
 
 Yeah. Yeah. Okay, thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
+A - Olivier Armengaud {BIO 20892984 <GO>}
 
 FINAL
 
 Thank you Francois. On the second question, Frieder.
 
-A - Frieder Knupling
-
+A - Frieder Knupling {BIO 17247809 <GO>}
 Yeah, thank you. Maybe on the SCR development during the year, the one point which is
 noteworthy is the slight reduction in the SCR in the operating impacts by EUR36 million
 that is driven by the fact that despite the strong growth in the portfolio as you rightly
@@ -876,14 +731,9 @@ markets, that's particular movement. I think the other movements are probably mo
 line with what you would have expected. On the dividend question, maybe hand over to
 Ian.
 
-A - Ian Kelly
-
 Bloomberg Transcript
 
-{BIO 17247809 <GO>}
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Yeah, sure, thanks Frieder. Look, on the dividend, the 2019 dividend we talked about that
 before, that's gone, that was at the strong recommendation of the regulator. So, we've
 moved on from that. I think what's key is our capital management policy remains
@@ -895,25 +745,16 @@ this year. The underlying earnings are good, we've got strong fundamentals and a
 result, that's how we approached things and the Board have decided obviously last year,
 that was gone and we decided this year on this basis. So that's where we stand.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Okay, thank you very much.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Next question please.
 
 Operator
 Our next question comes from Vinit Malhotra of Mediobanca. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes, good afternoon. Thank you very much. Many of my questions have been addressed.
 Thank you for that. Just if I can ask still on just the solvency situation and capital
 
@@ -945,18 +786,12 @@ investment, the re-investment yield 1.2% despite already in fourth quarter picku
 (inaudible) probably going to the corporates expense, but is this is likely to improve
 already by now or will that also help beating the 2.3% you just mentioned. Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Vinit. First question for Frieder, the operating capital generation.
 
 Bloomberg Transcript
 
-A - Frieder Knupling
-
-{BIO 17247809 <GO>}
-
+A - Frieder Knupling {BIO 17247809 <GO>}
 So, Vinit. We need generated about EUR800 million to EUR1 billion of operating capital
 over the past three years per year. The SCR growth was relatively low and what I just
 mentioned, helped to keep the SCR growth relatively minor and we had similar effects in
@@ -972,10 +807,7 @@ variances, of course where it will also play a role. So yeah, I hope that gives 
 idea of where this might be trending. Maybe Ian, if you want to pick up on the link to
 capital management.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Yes, sure, thanks Frieder. I'll just go back to what I said before in respect of the unchanged
 policy, we start with the solvency of the Group and we run -- that's how we run the Group,
 it's run on the Group internal model and we consider out of that where we stand, how
@@ -992,18 +824,12 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2021-02-24
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Okay, thank you Ian and Frieder. Jean-Paul may be on the P&C gross question?
 
 FINAL
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 Yes. Thank you, Olivier. On the, on the premium side, in Q4, as you said, the growth was
 more muted than prior quarters. It's been mainly a driver of the underwriting year 2020,
 we're in Q4, the contribution from prior underwriting years was smaller than in prior
@@ -1012,24 +838,15 @@ reinsurance was really the one that was more muted this quarter. We expect in Q1
 contribution of underwriting year 2020 to start shortly and to be back on the growth path
 in 2021.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Jean-Paul. Francois on the investment rate.
 
 Bloomberg Transcript
 
-A - Francois de Varenne
-
-{BIO 7447858 <GO>}
-
+A - Francois de Varenne {BIO 7447858 <GO>}
 So on the reinvestment rate. So that's for the reinvestment rate and I remind the
 definition of the reinvestment rate that's the market yield of the portfolio in the last day of
 the quarter, given asset allocation. So, 1.2 reflects market condition, the last day of
@@ -1042,16 +859,10 @@ not by the interest rate. So you see that we have (inaudible) to improve this, t
 increase of interest rate. And keep in mind that 49% of our portfolio is denominated in US
 dollar, so that's where we have the bulk of our investment portfolio.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you Francois. Next question please.
 
 Operator
@@ -1081,18 +892,12 @@ about by Q4, you'll be expecting to be below, leaving the full year a bit more o
 thinking what is the COVID assumption implied in there, it sounds like there is a COVID
 assumption from the solvency discussion.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you Will. Francois on investment strategy.
 
 Bloomberg Transcript
 
-A - Francois de Varenne
-
-{BIO 7447858 <GO>}
-
+A - Francois de Varenne {BIO 7447858 <GO>}
 On the investment strategy, so as I mentioned, we are playing a little bit the inflation
 trade on the market. So we are still maintaining relatively short duration of the fixed
 income portfolio and as you see a significant amount of liquidity, nine points of liquidity in
@@ -1102,10 +907,7 @@ will target 10-year maturities on corporate bonds mostly investment grade and ex
 sectors affected by the COVID-19 pandemic. So, remaining prudent our entry point on the
 market could be US treasury rate between 1.5% and 1.7% and we are 1.35 today.
 
-A - Frieder Knupling
-
-{BIO 17247809 <GO>}
-
+A - Frieder Knupling {BIO 17247809 <GO>}
 And maybe just to add to this on the ALM question you asked our mismatch currently is
 quite -- duration mismatch is quite small and it's mainly driven by the outsized risk margin
 on the solvency II basis and we've got a clear position that this is exaggerated and should
@@ -1118,15 +920,10 @@ that is something which is a nature of our business and mainly driven by the lon
 lines of business and particularly long term mortality business and then to a lesser extent
 P&C long tail lines.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you Frieder. Jean-Paul on the P&C combined ratio.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 Page 17 of 21
 
 
@@ -1151,36 +948,25 @@ to recognize bad news right away and wait for good news to be confirmed. So, reg
 your question as to when we start seeing the normalized combined ratio being below 95,
 it's difficult to say, but I'd say over the second half of 2021 and 2022 is the expectation.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you Jean-Paul. Next question please.
 
 Operator
 Our next question comes from Thomas Fossard with HSBC. Please go ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
+Q - Thomas Fossard {BIO 1941215 <GO>}
 
 Bloomberg Transcript
 
 Yes, good afternoon. Just one question left on my side and would be for Paolo. Paolo, if
 you could comment on what kind of top line growth you're expecting for 2021? Thank you.
 
-A - Paolo De Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo De Martin {BIO 15930577 <GO>}
 Yeah, we are expecting overall premiums to be just slightly up but not much with respect
 to relatively flat 2021 to where we are in 2020 given the disruptions at some of our clients
 side, we believe that will be a good assumption right now.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Okay. And if I may regarding offsetting parameters to higher mortality in the US, so the
 way we have to understand it is I guess that you're still relatively cautious on positive
 coming from the in-force management as you said before. Regarding the flu season
@@ -1189,17 +975,12 @@ taking almost two quarters to recognize the effect of benign flu season. So, mor
 be a positive on your H2 number than H1. So, could you say if also the 5% technical margin
 is not expecting any positives from flu season this year again. Thank you.
 
-A - Paolo De Martin
-
-{BIO 15930577 <GO>}
-
+A - Paolo De Martin {BIO 15930577 <GO>}
 We did recognize some flu season upside in Q4 as a reduction of our -- the reserves that
 we carry for that and we have that included in the 5%, it is not a large amount, it is roughly
 about $20 million into Q1 and Q2.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Page 18 of 21
 
 
@@ -1217,10 +998,7 @@ FINAL
 Our next question comes from Michael Hayes [ph] with Commerce[ph] Bank.. Please go
 ahead.
 
-Q - Michael Hayes
-
-{BIO 15069818 <GO>}
-
+Q - Michael Hayes {BIO 15069818 <GO>}
 Thank you very much. Good afternoon. Two questions on Global P&C on the combined
 ratio you normalized the combined ratio for Nat Cat and you normalize it for COVID-19
 but not for a large man-made losses, to my understanding that you had a number of
@@ -1233,18 +1011,13 @@ Second question also on Global P&C, the commission ratio in Quantum Leap you def
 a target commission ratio of 24.5% to 25.5% now in both in 2020 and in 2019, you were at
 24% clearly better, is this figure also a figure which we should expect going forward.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
+A - Olivier Armengaud {BIO 20892984 <GO>}
 
 Bloomberg Transcript
 
 Thank you, Laurent...
 
-A - Laurent Rousseau
-
-{BIO 19524847 <GO>}
-
+A - Laurent Rousseau {BIO 19524847 <GO>}
 Sure. So on the man-made and the large man-made. So you're right, we do not have a
 normalization factor for man-made and refused to do so. Nonetheless, of course we
 monitor it very precisely. We have a number of times communicated on an experience on
@@ -1259,10 +1032,7 @@ smaller claims, but for the very large ones like the one you've mentioned actual
 were more on our treaty side, but fundamentally there is no change in pattern or surprise
 from our man-made load in 2020.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 Thank you, this is Jean-Paul. Maybe I'll pick up the commission ratio question the -- you're
 right in that the assumption is 24.5% to 25.5%, I think the better than expected results we
 have in 2020, is due to the management actions we're taking in underwriting year 2020
@@ -1282,25 +1052,17 @@ Leap target.
 
 FINAL
 
-Q - Michael Hayes
-
-{BIO 15069818 <GO>}
-
+Q - Michael Hayes {BIO 15069818 <GO>}
 Thank you very much.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Jean-Paul. Next question please.
 
 Operator
 And our next question comes from become Vikram Gandhi with Societe Generale. Please
 go ahead.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 
 Bloomberg Transcript
 
@@ -1312,16 +1074,10 @@ And the second question is on the IOPA review of Solvency II and the figure that
 flagged at the Investors Day last year was about 20 percentage point uplift in solvency II
 ratio. So any updates around that considering what you're seeing at the moment?
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Jean-Paul on the last question.
 
-A - Jean-Paul Conoscente
-
-{BIO 20770277 <GO>}
-
+A - Jean-Paul Conoscente {BIO 20770277 <GO>}
 Yeah. Thank you. So on COVID, you're right, So, the ultimate for (inaudible) business
 where the premium of the business has not earned through yet, that's mainly Credit and
 Surety, casualty and longer-term business. The ultimate -- the difference between what
@@ -1329,16 +1085,10 @@ was booked in Q4 and the ultimate is roughly EUR20 million. So that will continu
 through -- throughout 2021. On the property BI side where we've posted is really what we
 expect. So that's fully (inaudible).
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Jean-Paul. Frieder on the Solvency II.
 
-A - Frieder Knupling
-
-{BIO 17247809 <GO>}
-
+A - Frieder Knupling {BIO 17247809 <GO>}
 Yes. So what we published in September was an estimate of the impacts of the proposed
 to proposed reform of the risk margin methodology on our solvency position. What IOPA
 Page 20 of 21
@@ -1361,16 +1111,10 @@ this would be by far the biggest impact of IOPA proposal, there are some other
 suggestions which have a minor impact, but the risk margin proposals are by far the most
 important ones for us.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay, very helpful. Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Frieder.
 
 Operator
@@ -1380,10 +1124,7 @@ you.
 
 Bloomberg Transcript
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you very much for attending this conference call. The Investor Relations team
 remains available to pick up any further questions you might have. So please don't
 hesitate to give us a call. With this, I wish you a good afternoon. Thank you.

@@ -29,10 +29,7 @@ Results Call. All lines have been placed on mute to prevent any background noise
 the speakers' remarks, there will be a question-and-answer session Thank you.
 Peter Hill, you may begin your conference.
 
-Peter Hill
-
-{BIO 15385944 <GO>}
-
+Peter Hill {BIO 15385944 <GO>}
 Thanks, Jack, and good morning, everyone. Thank you for joining our third quarter 2016
 financial results conference call. Yesterday, after the market close, we issued our quarterly
 release. If you didn't get a copy, please call me at 212-521-4800, and we'll make sure to
@@ -133,10 +130,7 @@ With that, I'll turn the call over to Bob for a look at our financials and our n
 reporting approach. Then, I'll come back and share a bit more on our business
 performance before we open it up to questions.
 
-Robert Qutub
-
-{BIO 15269353 <GO>}
-
+Robert Qutub {BIO 15269353 <GO>}
 Thanks for the kind words, Kevin, and good morning, everyone. I'd like to start by saying
 how pleased I am to be a part of the RenaissanceRe team. I'm excited to continue
 executing the company strategy, building on the great work already taking place. Jeff has
@@ -447,10 +441,7 @@ Bloomberg Transcript
 Operator
 Your first question comes from the line of Kai Pan with Morgan Stanley. Your line is open.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Good morning, and thank you. First, congratulations to Bob, as well as good luck and best
 wishes to Mark. Kevin, you mentioned in the past that it's been a long period of time we
 haven't seen landfalling storm in Florida. Now, we have two. I just wonder, does that
@@ -480,9 +471,7 @@ Date: 2016-11-02
 All that said and done, I wouldn't change my pricing expectations for the January 1
 renewal based on these storms.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
+Q - Kai Pan {BIO 18669701 <GO>}
 
 FINAL
 
@@ -495,10 +484,7 @@ year, I think our reduction overall is around 3%. Looking at 2017, I think rate 
 less. We anticipate lower rate reductions than we had in 2016. And I'm optimistic that our
 book is well-positioned to respond well to small rate reductions.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. That's great. My second question is just stepping back on your overall ROE for this
 year. For the third quarter is no cat quarter, and if you take out this one-off items like
 foreign exchange, your ROE is approaching about 10%. I just wonder, is that – in this
@@ -519,10 +505,7 @@ doing the right thing. And that's something that is a trade across category – 
 quarters and heavy cat quarters to provide what we think is a good return. But I think the
 way you're thinking about it makes some sense.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. That's great. Well, thank you so much.
 
 Operator
@@ -544,20 +527,14 @@ Operator
 
 FINAL
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Thanks so much. A couple of numbers questions if I could. The expense ratios in Specialty,
 so the operational expense ratio in Specialty, sort of ticked down in the quarter but the
 notional dollar amount was also smaller year-over-year and sequentially. And also Lloyd's
 was a bit more of a pronounced difference, same line item. Is there anything specific that
 happened in the quarter there that explains that?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 It's a good question. We're overall very pleased with the work that we've done on our
 expenses. And our core run rate remains relatively even as we significantly grown our
 book of business. The Q3 decline in operating expenses comes in part from those
@@ -569,35 +546,23 @@ combined ratio. It just is a better reflection on what's driving this cost going
 
 Bloomberg Transcript
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay. Got it. Okay. And then in Specialty, notwithstanding that, the acquisition – or the
 overall expense ratio was a bit higher. Is that a function of the higher written premiums
 that may be just a small proportion of those earned through in the quarter?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Just to make sure I got your question. You're focused on the combined ratio being driven
 by the higher gross written premium, Mike, sorry?
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 So, in the Specialty segment, the acquisition ratio ticked up a bit sequentially. I mean, yearover-year, it's relatively flat. I was just curious, as the year progresses, I mean, is that – was
 that more of a function of the fact that you saw a lift in gross written premiums, net
 written premiums in terms of the mortgage business, or maybe you have acquisition
 expenses associated with the written premium as opposed to the earned dollars, or was
 that as you expected it to be?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 I got that, Mike. What this really is, is the offset to what I was talking about on the
 operating expenses, the reclassification, and moving those on the overwrite up in the
 acquisition cost. So, you see that bump up there. Now, we've seen an underlying count of
@@ -618,16 +583,10 @@ per book of business on the gross basis is reasonably steady. There's been some 
 
 FINAL
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Yeah. And again, no impact at the net expense ratio or the combined ratio.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay. I'll switch in. And then just within that Specialty segment, just thinking about the
 mortgage book that's clearly become a bigger piece of the pie. Just how should we be
 thinking about gross-to-net written and net earned with the longer sort of earning
@@ -645,10 +604,7 @@ better than the economics afforded in 2017 and 2018. With that, our sessions are
 the 2016 book. Most of them are proportional, so they will run through straight on an
 earned basis.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay. And then the earnings pattern sort of in a seven-year range-ish for the mortgage
 specialty business?
 
@@ -656,20 +612,14 @@ A - Kevin J. O'Donnell
 I think that's a reasonable estimate. I think that the high-end price stretches out to 10
 years. But, seven year's a good estimate.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay. Okay, great. And then, just last real quick on the investment portfolio. The yield sort
 of ticked up. I noticed that non-rated securities kicked up a little bit as a percentage of the
 total. Was that just sort of positioning, or was there something else within maybe one of
 the buckets that created the difference in the yield? I'm talking specifically about the fixed
 maturity investments.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Right. Overall, we've maintained a relatively short-duration book of just over two years.
 We have done some movements within there. But they're small in the sort of the credit
 side of it, but we've kept the duration really about the same. So, some of the dynamics
@@ -683,10 +633,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2016-11-02
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay, great. Thank you.
 
 A - Kevin J. O'Donnell
@@ -698,10 +645,7 @@ Thanks, Michael.
 Operator
 Your next question comes in the line of Quentin McMillan with KBW. Your line is open.
 
-Q - Quentin McMillan
-
-{BIO 19411547 <GO>}
-
+Q - Quentin McMillan {BIO 19411547 <GO>}
 Hi. Thanks, guys. I just wanted to touch on the net-to-gross strategy that you guys have,
 whether it'd be in Specialty and Lloyd's or the overall book of business. But you said you
 sort of – in the cap book, I'm sorry. So, you're sort of keeping less than 50% of the
@@ -724,10 +668,7 @@ You'll see the number, I guess, published later today. But that's not necessaril
 that we have in thinking about constructing the portfolio. It's purely a portfolio basis on the
 delta between profit and required capital.
 
-Q - Quentin McMillan
-
-{BIO 19411547 <GO>}
-
+Q - Quentin McMillan {BIO 19411547 <GO>}
 Okay. That's helpful. And then shifting to specialty specifically. If I look at the accident year
 loss ratio ex-Cat, it was up about 680 bps year-over-year from what was a pretty strong
 number last year at 60.9% to 67.7%. I guess, I'm curious kind of as the portfolio mix shift is
@@ -756,10 +697,7 @@ profitability in the book of business, but it's not one that I'd focus on a quar
 basis. At this point in time, there's no trend in the book that I would point to as being
 significant or worthy of further comment. On a year-to-date basis, it's reasonably stable.
 
-Q - Quentin McMillan
-
-{BIO 19411547 <GO>}
-
+Q - Quentin McMillan {BIO 19411547 <GO>}
 Okay. Thanks. And then just one last one sneak in is you guys don't give guidance in terms
 of buybacks. I know you're opportunistic, but is net income target for the year a good way
 for us to think about how much you guys might expect to repurchase to the shareholders
@@ -779,20 +717,14 @@ be light for buybacks due to hurricane season. If you look at our history, you'l
 we've demonstrated that we're good stewards of our shareholders' capital. And we
 turned over $1 billion in the past three years.
 
-Q - Quentin McMillan
-
-{BIO 19411547 <GO>}
-
+Q - Quentin McMillan {BIO 19411547 <GO>}
 Perfect. Thank you very much, guys.
 
 Operator
 Your next question comes from the line of Elyse Greenspan with Wells Fargo. Your line is
 open.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Hi. Good morning. Just a couple of questions. One quick one. I know you did say that you
 were not providing premium guidance due to the new segments that you're going to put
 forth. Are you then going to be providing some level of premium guidance on a segment
@@ -818,28 +750,20 @@ going forward.
 
 FINAL
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. And then in terms of the capital return, I noticed that you guys didn't call out a level
 for the Q4 to-date in the press release. I guess, were you guys, I guess, still maybe on the
 lower side due to the fact that we're still on hurricane season, or any kind of number you
 want to call out for Q4 repurchases that we've seen so far?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Really, in my prepared comments, I said year-to-date, and I meant through the call up
 here. And that number will be in the 10-Q when we file it today that we have really not
 purchased any up through this call right now. But again, it's a matter of timing and
 opportunities that I talked about, Elyse, that would reflect when we return – when we do
 perform buybacks out there.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 
 Bloomberg Transcript
 
@@ -849,10 +773,7 @@ Specialty and Lloyd's, any kind of – now I know it's kind of ticked around a b
 quarterly basis. Any kind of high level views as we kind of think about the Q3 was the
 highest quarter this year as we think about the expense ratio on a go-forward basis?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 I mean, I think – look, I'll kick off part of it just on my observations and where I've seen it.
 And, Kevin, you can add anything here. But I think it's a great question. I've only been here
 a short while. And decisions around expense management can't be divorced from the
@@ -883,10 +804,7 @@ Date: 2016-11-02
 
 FINAL
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. And one question, in terms of the ceded and the retro purchases, I know that's
 something – you purchased more coverage throughout the book this year, and your
 commentary implies you guys will want to do the same next year. You also did make a
@@ -909,10 +827,7 @@ flexibility we have around us serves us well as opportunities emerge.
 
 Bloomberg Transcript
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. Well, thank you. And, Bob, welcome to Ren. Looking forward to working with you.
 And I just want to echo comments earlier in the call, and wish Mark the best of luck. Thank
 you.
@@ -921,22 +836,13 @@ Operator
 Your next question comes from the line of Josh Shanker with Deutsche Bank. Your line is
 open.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Thank you. Good morning, everybody. In the past...
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Good morning.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 ...when we talked about budgeting for repurchases, you said you plan in this type of
 environment to return all your income to shareholders in the form of dividends and
 repurchases. Is that operating income, net income less unrealized gains. From a
@@ -952,10 +858,7 @@ Date: 2016-11-02
 
 FINAL
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 It's a good question, Josh. I think that you don't target a level. Our return in capital is –
 there could be a loose guideline that you may follow, but we really look at it as timing.
 We're committed to returning the capital back to our shareholders, but it's also a function
@@ -964,19 +867,13 @@ portfolio, as well as our capital and liquidity position that we have out there.
 can call it a loose guideline, but I would really say it's timing, and I wouldn't be contained –
 confined to discrete quarters or discrete years.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Absolutely
 
 A - Kevin J. O'Donnell
 The only thing I'd add is...
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Yup. Yup.
 
 A - Kevin J. O'Donnell
@@ -987,42 +884,24 @@ Just saying, Bob, coming onboard is giving us great ways to think about this. Bu
 nothing's changed in the way we're thinking about managing capital and returning capital
 to shareholders.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Is that loose guideline – I understand doesn't refer to timing, is that net income, is that
 operating income, or is that net income less unrealized gains?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 That'd be net income.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Net income, okay.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 But, again, it's loose. Loose, double underscore.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 It can be very loose. And in terms of – the budgeting process, is that a multi-year process,
 or is that a one-year process?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Page 17 of 22
 
 
@@ -1046,10 +925,7 @@ is very much how we look at our capital management strategy and specifically sha
 repurchasing as we look at it over the long term. And we're not particularly concerned as
 to whether we're above or below net income in any given quarter or any given year.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Can the Lloyd's business continue to grow if property Cat pricing is broadly flat, while
 Specialty pricing continues to tick down?
 
@@ -1067,19 +943,13 @@ But as I said in the comments, I think the growth is – we're becoming of a siz
 opportunity is challenging, so I think the growth we'll achieve in 2017 is less than the
 growth we achieved in 2016.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 That's very fair. Well, good luck with that. Thank you.
 
 A - Kevin J. O'Donnell
 Thanks.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Thank you.
 
 Operator
@@ -1094,9 +964,7 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2016-11-02
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 
 FINAL
 
@@ -1106,32 +974,21 @@ looking in the third quarter – we're looking at in the third quarter, is this 
 starting point for our models going forward? I assume there were no sort of catch-ups
 from previous quarters in there.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 What you're looking at is going back to, overall, the net expense ratio really didn't change
 – it had no impact on it, and it is a re-class on a year-to-date basis from – between the
 operating and the acquisition. So, you'll slightly see an uptick going forward about 10%
 more, given what we've pulled back from the first two quarters. Overall, again, it doesn't
 affect the net.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 So, the way maybe to look at – because we do model, obviously, those separately to look
 at, maybe, the nine-month run rate for both and kind of use that as a starting point.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Best starting point for you to look at.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 
 Bloomberg Transcript
 
@@ -1140,10 +997,7 @@ Great. Thanks Bob.
 Operator
 Your next question comes from the line of Brian Meredith with UBS. Your line is open.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes. Thanks. Just a couple of questions here first. Kevin, you made a comment earlier that
 you think that the economics of the MI business will be better in 2016 than they will be in
 2017 and 2018. I'm curious why that is.
@@ -1156,9 +1010,7 @@ associated with them. We think going forward, the underwriting criteria at the b
 Although looser is still actually quite sound and robust, so we think there's still opportunity.
 But we leveraged into the deals which we think are the highest credit quality.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 
 Page 19 of 22
 
@@ -1182,10 +1034,7 @@ gross and net basis, including in our ultimately – our ultimate risk rollups, 
 haircuts against our ceded recoveries as events become larger, just making sure that we
 continue to stress the system and are not overly relying on the retro of purchasing.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Makes sense. Thank you.
 
 A - Kevin J. O'Donnell
@@ -1210,10 +1059,7 @@ There's one more. (50:52)
 Operator
 Your final question comes from the line of Kai Pan with Morgan Stanley. Your line is open.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thanks. So, just a follow-up on the reserve releases. If you look at year-to-date, the
 reserve release is about seven points, last year was about 12 points. I just wonder,
 because recently, we've seen some primary companies take a reserve leases, starting
@@ -1230,10 +1076,7 @@ Date: 2016-11-02
 
 FINAL
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Yeah. If you're referring to the specialty book Q3 this year versus the comparative quarter
 last year, this year, it was only about $20 million in favorable development. It and was
 somewhat fairly granular. And there wouldn't have been any large items. Looking back to
@@ -1242,10 +1085,7 @@ the mortgage side that resulted in the $56 million of favorable development, whi
 reflects the change. And that's the biggest change that we've seen on a year-over-year
 basis.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. So, ex some large development last year, so the underlying you don't see any sort
 of meaningful trend in term of large inflation or from your cedent, any sort of meaningful
 trend?
@@ -1256,9 +1096,7 @@ a trend either on a favorable or unfavorable side. At this point, we're not seei
 trends. What you're seeing is really kind of the idiosyncratic movement of reserves
 between quarters and years.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
+Q - Kai Pan {BIO 18669701 <GO>}
 
 Bloomberg Transcript
 

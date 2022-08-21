@@ -25,10 +25,7 @@ Bloomberg Transcript
 Oliver Steel, Analyst
 
 MANAGEMENT DISCUSSION SECTION
-Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+Michael Andrew Wells {BIO 4211236 <GO>}
 My wife plays a similar theme song in the morning when I get up to get ready for work,
 (00:05). Good morning and welcome. And those of you that joined us last night, thank
 you very much, that was – the team did a great job putting on that event, and appreciate
@@ -557,9 +554,7 @@ FINAL
 I want to turn it over to Nic Nicandrou.
 [Break] (35:20-35:40)
 
-Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
+Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 
 Bloomberg Transcript
 
@@ -1095,29 +1090,20 @@ FINAL
 
 [Music] (01:16:57-01:17:35)
 
-Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+Michael Andrew Wells {BIO 4211236 <GO>}
 Okay. Well, first, the Q&A sessions. So again, we're going to get into tremendous details
 you see by the deck in front of you of the various business units, but we want to take a
 quick pause here before the break and answer any question on the first session, if you'd
 like.
 
 Q&A
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 (01:17:54) your firm's name and then follow in terms of questions and wait for the
 microphone. So Jon?
 
 Bloomberg Transcript
 
-Q - Jon M. Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon M. Hocking {BIO 2163183 <GO>}
 Good morning, everybody. It's Jon Hocking, Morgan Stanley. I've got three questions,
 afraid all on Solvency II. So first question, I'd appreciate that the Solvency II framework has
 no real impact on the dividend flow apart from the UK business. And we were (01:18:18)
@@ -1132,10 +1118,7 @@ specific territory or a couple of territories that you couldn't get approval for
 And then finally, I just wonder if you get better (01:18:56) dollar value on the UK
 transitionals please? Thank you.
 
-A - Michael G. McLintock
-
-{BIO 1524907 <GO>}
-
+A - Michael G. McLintock {BIO 1524907 <GO>}
 Okay. Okay. Shall I? So use test – I mean, given the footprint of the group and given
 actually the way the approvals have panned out, where it ends up mattering most is in
 relation to the UK. Of course, as I said, this is an additional lens. So when making pricing
@@ -1174,18 +1157,13 @@ there is a deprecation, the impact is de minimis and very manageable. So really 
 focused on its size. We are not. We are focused on what does it mean. And as we've
 shown you, it's the effects. I'll put that order (01:21:51).
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 
 Bloomberg Transcript
 
 We got Blair here. Please.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Thanks. Thank you so much. Blair Stewart from BofA Merrill Lynch. Just two questions.
 Firstly, does the exclusion of the shareholder share of the State impact the way you might
 think about the State (01:22:12) in future and is that a final ruling as some of you hope to
@@ -1197,10 +1175,7 @@ Let me just add the third question. Sorry. What's your feeling about where the S
 numbers may have gone as of (01:22:42) through you neck, just a sort of qualitative
 assessment, please?
 
-A - Michael G. McLintock
-
-{BIO 1524907 <GO>}
-
+A - Michael G. McLintock {BIO 1524907 <GO>}
 So thank you for those questions, Brail. The exclusion of the shareholder share is
 frustrating, because it's real. It's something that even though we can't access it until we
 distribute the stake (01:23:07), well we have to do so, and as I said, it's frustrating. We
@@ -1247,16 +1222,10 @@ and my expectation is that those market effects would have effectively unwound
 more capital generation offset by a slight unwinding of that positive that we saw in the
 first six months.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 James, please? Just right in front of you.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Thanks. It's James Shuck from UBS. I have three questions, please. Firstly, on sensitivities
 you've shown on Solvency II ratios, could you just help me understand a little bit the
 insensitive nature, both to equity markets? You showed a 20% full has about 1 point
@@ -1281,10 +1250,7 @@ business to things like slowdown in GDP growth, lower equity market, that sort o
 
 FINAL
 
-A - Michael G. McLintock
-
-{BIO 1524907 <GO>}
-
+A - Michael G. McLintock {BIO 1524907 <GO>}
 Okay. So equity sensitivity, not too significant largely, because the U.S. position is strongly
 hedged to a minus 20%. So that's what drives that. We also do have some hedging in
 place. We have hedged part of the equity risk in the shareholder transfer in the past and
@@ -1306,22 +1272,13 @@ Bloomberg Transcript
 No, we got...
 Oh, there he is.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Can you hear me? Okay. So the question was on RBC and interest rates, is that correct?
 
-A - Michael G. McLintock
-
-{BIO 1524907 <GO>}
-
+A - Michael G. McLintock {BIO 1524907 <GO>}
 Yeah.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Yeah. Because the statutory regime is on a book value basis, the asset side of the
 balance sheet is not going to mark. So (01:29:38) and interest rates are not going to
 impact the surplus position. The (01:29:44) really is as rates move up, we will get some
@@ -1330,9 +1287,7 @@ in the RBC, but it also depend on where the starting point is with the overall V
 So, a small reserve, we're not going to get much relief, a large reserve, we'll get more
 relief.
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 
 Page 24 of 32
 
@@ -1350,16 +1305,10 @@ are – whilst SCR captures kind of 99-point-something-percent what it does on c
 question – your question really changes the GDP, behaviors, what that might do for new
 business is not explicitly included there.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Go to Greig, please. Over there, that table.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 Hello. Greig Paterson, KBW; three quick questions. One is, on the capital topic, the
 question I'm getting asked quite often is the Hong Kong orphan estate. I assume now, the
 whole local Hong Kong regime still applies in terms of your thinking, and the rapid growth
@@ -1370,40 +1319,26 @@ want to mimic it, and then I think to Hong Kong, I think some of those back-to-b
 products, they would be hurt under the Solvency II regime (01:31:42), so one of you can
 just talk about...
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 
 Bloomberg Transcript
 
 Okay.
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 ...Asian regulators. And then, the third question, and that's for Mike. You mentioned – and
 maybe it's a sneak in, you might (01:31:49) have no comment on this one, but you
 mentioned that some of your competitors in Asia are trying to ramp up and using possibly
 irrational parameters. I was wondering to what extent your biggest competitors is doing
 that or is it some of the Europeans, smaller Europeans, U.S. ones what are...
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Do you want me to get Mark on the phone...
 
-Q - Greig N. Paterson
-
-{BIO 6587493 <GO>}
-
+Q - Greig N. Paterson {BIO 6587493 <GO>}
 No, no, no. I'm sure you'll respond, so...
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 Okay. Hong Kong estate, there isn't a state in Hong Kong clearly, Poland did
 domestication on a Solvency II basis as on a local basis, that estate is about £1.3 billion. But
 because it's in a ring-fence funds and the SCR against that is around £0.8 billion, but
@@ -1453,10 +1388,7 @@ situation eventually emerges. But it's potentially a positive as we move forward
 we've seen glimpses of the extent of that positive through the combined numbers that
 we've provided you in relation to Asia.
 
-A - Michael G. McLintock
-
-{BIO 1524907 <GO>}
-
+A - Michael G. McLintock {BIO 1524907 <GO>}
 And Greig, on the Asian competitors, I guess, I'll leave it for Tony's panel later (01:35:36)
 in detail, but I would tell you just traveling the region fairly extensively, what you see is
 inconsistency in pricing and behavior of some of the smaller players. So you'll see a
@@ -1467,9 +1399,7 @@ pretty disciplined across the region and how we price and we look at our expecta
 return and some of the metrics we've discussed this morning. So, I'll let you work through
 the individual competitors and we can do by country later in the event today.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Page 26 of 32
 
 
@@ -1482,10 +1412,7 @@ Andy, and then Oli then (01:36:23) next.
 
 FINAL
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Thanks so much. Andy Hughes from Macquarie. A couple of questions, if I could, about the
 account of Asian VIF credit you're getting in the free surplus definitions you're using. So, I
 know as you've not changed the free surplus definition for Asia, which obviously is going
@@ -1500,24 +1427,16 @@ kind of a business unit approach to the UK because at any place you can use that
 surface in the UK (01:37:10) grow, your target range for Solvency increase, and what is the
 target range that I can't actually see in the presentation by the way?
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Okay.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
+Q - Andy Hughes {BIO 15036395 <GO>}
 
 Bloomberg Transcript
 
 Thank you.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Yes. As we write new business, particularly the health and protection nature in Asia, given
 its underlying profitability, embedded value increases you've seen that come through and
 the credit even though it's done on a Solvency II method using stress as the credit, it
@@ -1554,17 +1473,12 @@ agnostic, if you like, as to where this ratio at the group level gets to at the 
 a degree whilst I'm agnostic where it gets to at the bottom and unless of course it gets to
 a range where it's at a real risk of reaching the SCR.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 You said (01:39:46) the reinsure or some of this business into the UK (01:39:49) lower
 than the 100% ratio on the UK business on the Solvency II benefiting from some of the
 same transact (01:39:56).
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 
 Bloomberg Transcript
 
@@ -1579,40 +1493,25 @@ interdependency charges that we may end up having to carry. I don't believe we n
 do it, I said it's £9.2 billion, I think it's a strong overall position. For all the factors that I have
 outlined, yes, but there are – yeah, as I said, there are opportunities to do things.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Oliver there, yeah.
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 Oliver Steel, Deutsche Bank. Two questions. So first is, just on the credit sensitivity, you
 used to show that credit sensitivity, including rating migrations of the UK. Have you
 removed that or you've just been sharpening (01:41:28)? And secondly, on credit
 sensitivity, you talked about a 10 times default assumption in the state, what is your
 existing default assumption?
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 Okay.
 
-Q - Oliver Steel
-
-{BIO 6068696 <GO>}
-
+Q - Oliver Steel {BIO 6068696 <GO>}
 And then moving on from that. On your dividend slide, you sort of have a rather tantalizing
 little clock, so I can say that somewhere between 1.9 times and 2.5 times cover is being
 the sort of tail green area, so I'm wondering if you could just wanted to expand on that?
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 Page 28 of 32
 
 
@@ -1652,23 +1551,14 @@ second aspect is because we don't ever want to be in a position to cut the divid
 a stress, we want to continue to grow it by at least 5%, which is why we do what we do.
 So, that's what that little schematic was meant to represent.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 Okay.
 
-Q - Charles Anthony Bryan Cartledge
-
-{BIO 22087608 <GO>}
-
+Q - Charles Anthony Bryan Cartledge {BIO 22087608 <GO>}
 Charles Cartledge, Sloane Robinson. Nic, could you give us an update on G-SIFI, the
 timeline and potential impacts? I know it's early days. Thanks.
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 2019. And there is sort of quite a lot of water that will need to go under the bridge before
 2019. It's progressing. There is – I mean, clearly, we now have a BCR, the Blackstone
 Capital Requirement (01:45:06) is not significant, it's not a constraint for us or any of GSIFIs, the Blackstone Capital Requirement (01:45:15) is equivalent to around 70% of the
@@ -1704,9 +1594,7 @@ we said earlier, we are a business whichever way – whichever lens you want to 
 that generates capital. I said the first and most important source of capital is operating
 profitably, this is what you've seen us do, and that will continue.
 
-Q - Abid Hussain
-
-{BIO 20229932 <GO>}
+Q - Abid Hussain {BIO 20229932 <GO>}
 
 Bloomberg Transcript
 
@@ -1718,10 +1606,7 @@ volumes going forward. So, to my mind, would it just be simpler to run the UK bu
 and maximize the cash generation there? And the third question is on Asia. On your 2017
 IFRS earnings target of 1.9 billion, how comfortable are you with that target?
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 Okay. So, the RBC change in methodology, it's a numerator/denominator play. So, what
 we had in the – when we published the full year 2014, we mirrored what we had in our
 free surplus thinking, which is to keep the numerator the same and have a denominator
@@ -1771,16 +1656,10 @@ they've been doing.
 
 Bloomberg Transcript
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
-
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 So we can take one more (01:51:48) in this session. Ashik, please?
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Hi. Good morning. Ashik Musaddi from JPMorgan. Just couple of question. On the
 roll forward from IFRS to Solvency II, you showed a number called value of future
 shareholder transfer of 3.4 billion. Can you just give us more thoughts on what that
@@ -1791,16 +1670,10 @@ And secondly on annuities, UK bulk annuities, I mean, you're kind of guiding tha
 don't expect a lot of volumes, I mean, is it because the margins are like going below 10%
 ROE or is it like single-digit ROE, or you are still not ready to accept, let's say, a lowdouble digit ROE? So what's the difference here?
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 Okay.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 How much is the change in the ROE recently because of Solvency II? Thanks.
 Page 31 of 32
 
@@ -1812,10 +1685,7 @@ Date: 2016-01-19
 
 FINAL
 
-A - Nicolaos Andreas Nicandrou
-
-{BIO 15589153 <GO>}
-
+A - Nicolaos Andreas Nicandrou {BIO 15589153 <GO>}
 Shareholder transfers, you're right, it is akin to a valuation margin. We could have put the
 two together, but with the 9 billion, but we decided to show it separately because if
 anything – so what does it represent? It is effectively the one-ninth share of the bonuses
@@ -1836,9 +1706,7 @@ way that allows us to deliver what we've been able to count under the previous r
 and what we can achieve elsewhere, then we will do it. But I just don't think – I'm not
 putting a lot of pressure on the business to do a lot of it, i.e. we have other opportunities.
 
-A - Michael Andrew Wells
-
-{BIO 4211236 <GO>}
+A - Michael Andrew Wells {BIO 4211236 <GO>}
 
 Bloomberg Transcript
 

@@ -26,10 +26,7 @@ Bloomberg Transcript
 Unidentified Participant, Analyst
 
 Presentation
-Tony Jackson
-
-{BIO 1729093 <GO>}
-
+Tony Jackson {BIO 1729093 <GO>}
 We might get underway. Good morning, ladies and gentlemen, welcome to QBE's 2016
 annual result briefing. My name is Tony Jackson; I'm head of investor relations at QBE. This
 morning's briefing, the formal side of the presentation from Pat and John will run for
@@ -38,10 +35,7 @@ questions and answers afterwards.
 Before I hand over to the Group CEO John Neal, if I could just ask everyone to mute their
 phones, please. And without any further ado, John.
 
-John Neal
-
-{BIO 15681439 <GO>}
-
+John Neal {BIO 15681439 <GO>}
 Thank you, Tony and morning, everyone. Pat Regan, our Group CFO and I are delighted to
 present QBE's 2016 full year results this morning.
 There's a fair amount to review with the result. And I wanted to use this slide to pull out a
@@ -198,10 +192,7 @@ Now I'd like to hand over to Pat to discuss our results in further detail and in
 add some progress and some color to the story in Australia and New Zealand and North
 America. Pat.
 
-Pat Regan
-
-{BIO 15131018 <GO>}
-
+Pat Regan {BIO 15131018 <GO>}
 Thanks' John. Good morning everybody. As John said, in addition to my usual run through
 the Group results, I'm going to give you a little bit more detail in what we've been up to in
 Australia.
@@ -394,10 +385,7 @@ a three year on market share buyback facility of up to AUD1 billion. Back to Joh
 
 Bloomberg Transcript
 
-John Neal
-
-{BIO 15681439 <GO>}
-
+John Neal {BIO 15681439 <GO>}
 Thanks Pat. So turning to our outlook, QBE's built on the strength of our underwriting
 performance. And this will always remain our overarching focus. And we are far from
 complacent. We've more work to do execute on the remediation plans in Australia and
@@ -510,26 +498,17 @@ the announcement of an on market share buyback facility.
 So thank you very much. And now Pat and I will be very happy to take questions.
 
 Questions And Answers
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 Hi John and Pat. It's Nigel Pittaway here from Citi. First question, just in the pack in terms
 of guidance, you have sort of reiterated the 93% combined target for FY2018. Previously
 though you said that was pre-reserve releases, whereas this time there's no mention of
 prior year releases. So can you just clarify what you're exactly saying in respect of that?
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 Yes, I think as I said in my closing remarks, it includes an anticipation of a modest level of
 prior accident release in 2017 and 2018.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 Okay. Thank you. Okay, next question on crop. Although the result was obviously very
 good, one noticeable thing was that the premium split was 57% first half, 43% second
 half, which is quite a reversal from what it's been in prior years. Can you sort of explain
@@ -547,10 +526,7 @@ year?
 
 FINAL
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 Good spot, Nigel. It was an unusual feature for this year because the combined was very
 good, you actually end up ceding part of the premium back to the government. That
 happens right at the top end of the range and right at the bottom. So it meant that,
@@ -558,10 +534,7 @@ actually slightly unexpectedly, we ceded premium -- net earned premium to the US
 federal government. And that reduced earned premium in the second half. But you
 wouldn't expect that to happen each year.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 Okay. Then maybe just one on LMI. I think obviously you had a figure combined of 34.9%
 for the full year, that was already sort of high 20%s in the first half. So it obviously
 deteriorated quite a bit in the second half. If you do look at the sort of claims ratio picture
@@ -571,42 +544,27 @@ deterioration in those trends where WA was in fact worse --
 
 Bloomberg Transcript
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 Yes, I mean it's an increasing question. We have seen higher arrears in WA. But not really a
 lot more than we were expecting -- a little bit more. Whether you look at house prices,
 whether you look at unemployment rates, whether you look at the individual arrears in
 individually affected areas, none of it is kind of wildly different from what we expected. So
 we just booked it a little bit more conservatively at the year end.
 
-Q - Nigel Pittaway
-
-{BIO 3406058 <GO>}
-
+Q - Nigel Pittaway {BIO 3406058 <GO>}
 Okay. Thank you.
 
-Q - Daniel Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel Toohey {BIO 16751863 <GO>}
 Thanks, Daniel Toohey from Morgan Stanley, just a few questions. The first one is just a
 follow-up from Nigel's. I think in FY2016 you talked about modest reserve releases at a
 magnitude of around 1% to 2%. Clearly you've come in well above that. We don't have the
 hang-over from the US commercial auto in the outlook. So does modest imply 1% to 2%,
 or is it?
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 Modest implies less than 1%.
 
-Q - Daniel Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel Toohey {BIO 16751863 <GO>}
 Less than 1%, thank you. Second question just on the New South Wales CTP, you've had
 obviously some pricing benefit come through helping on the attritional line. Can you
 comment whether you would expect to be a beneficiary under the proposed Risk
@@ -619,27 +577,18 @@ Company N ame: QBE I nsurance Group L td
 Company Ticker: QBE AU Equity
 Date: 2017-02-26
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 I think we'll be broadly neutral. So I think we were following the spirit of what was intended
 out of the way CTP pricing work. So I don't expect it to be greatly altering how we do
 things either way.
 
 FINAL
 
-Q - Daniel Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel Toohey {BIO 16751863 <GO>}
 Just finally, on the cash remittances to Group, how much of that is coming through from
 the LMI business?
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 So I think we mentioned before, I think we mentioned it at investor day, that we're still a
 little bit lumpy with it; we'd like to be a little bit more even. So we're still slightly over
 reliant on Australia and Equator. And within the two of those you captured the LMI
@@ -648,18 +597,12 @@ underrepresented in Europe. So we'd have benefited by a couple of hundred from L
 2016. Equally as I say, we're kind of underweight in what we would consider our normal
 dividend from Europe at this stage.
 
-Q - Daniel Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel Toohey {BIO 16751863 <GO>}
 All right. Thank you.
 
 Bloomberg Transcript
 
-Q - Kieren Chidgey
-
-{BIO 7268946 <GO>}
-
+Q - Kieren Chidgey {BIO 7268946 <GO>}
 Kieren Chidgey UBS. Just a question on the impact of the reinsurance savings coming
 through this year, you've called out $350 million-plus. I think you said half is in the excess
 of loss. So if we called that $175 million. I also note on slide 33, your retention is up around
@@ -667,10 +610,7 @@ $100 million on the aggregate next year. So should we view the net benefit that 
 through to the P&L as about $75 million around that excess. Is that the way to think about
 it?
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 I mean sadly it's a big more complicated than that. You're right. So half's excess a loss. So
 the actual P&L benefit that will come through from that, we would estimate at about $20
 million to $25 million. The balance is really through a restructuring of the crop quota share
@@ -692,51 +632,34 @@ Company N ame: QBE I nsurance Group L td
 Company Ticker: QBE AU Equity
 Date: 2017-02-26
 
-Q - Daniel Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel Toohey {BIO 16751863 <GO>}
 Maybe just tying that back to the investor day I've thought you were talking a number in
 the order of $50 million to $100 million P&L benefit.
 
 FINAL
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 Yes I think the second component really depends on crop. If the crop business continues
 to perform as we would expect it to in 2017 then yes you'd see a further benefit come
 through from that crop quota share. So in effect we've retained $200 million more of net
 earned premium in crop in 2017. So if that performs in line with expectations that's the
 balance of the number you're looking for.
 
-Q - Daniel Toohey
-
-{BIO 16751863 <GO>}
-
+Q - Daniel Toohey {BIO 16751863 <GO>}
 Are you still seeing 92% as the target combined ratio for crop or has that come down?
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 It's the number we've reflected in our plans. We think it's a little too early to assume that it
 could be better. But the indications of the use of data analytics and the selection criteria
 that Pat spoke about gently tends us to assume that it's a better business than that.
 
-Q - Daniel Toohey
-
-{BIO 16751863 <GO>}
+Q - Daniel Toohey {BIO 16751863 <GO>}
 
 Bloomberg Transcript
 
 Thanks.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 James Coghill, UBS. Just a couple of questions on the underlying trends in the business
 for the attritional loss ratio. So the first one is on Europe. You have called out that there
 was a 90 basis point drag from the mismatch between the earned premium coming
@@ -746,10 +669,7 @@ underlying claims don't also change.
 Secondly just comment on the trajectory for that drag into next year. Is there still
 something we have to think about for the first half ? Because I think it is.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes there will be a little bit more of that come through into the first half of 2017 but less
 than we saw in the back half of 2016. It's to do with the rate that the unearned premium
 earns through versus the claims earns through. Again it's a feature of the Lloyd's business
@@ -758,10 +678,7 @@ making it sound more complicated than that -- that's basically the explanation. 
 as you would imagine a little bit more flow through of that into the first half of 2017 but to
 a lesser extent.
 
-Q - James Coghill
-
-{BIO 14006200 <GO>}
-
+Q - James Coghill {BIO 14006200 <GO>}
 Page 13 of 21
 
 
@@ -781,10 +698,7 @@ I'm referring to the 6.6% reduction in the first half. I think you mentioned a 1
 was -- call it 8% of which 340 [ph] -- 3.4% that's turned in the second half. How should we
 be thinking about that turn into financial 2017?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes, good question James. I don't think I'd want you to draw a straight line from picking a
 point in the first half, picking a point in the second half and through. You remember we
 defined attritional as $2.5 million. So a little bit more in Aussie dollars. You get -- some of it
@@ -805,10 +719,7 @@ So John said we'd expect to see more improvement in 2017 partly because we're ju
 earning through the rates increases. We're still carrying a little bit more rate in the early
 part of 2017 than we did in the latter part of 2016.
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 Without wanting to make it more complicated. And you've heard me say this before -- an
 actual year lives for two years so at the half year you're a quarter of the way through the
 life of the year. So I think when we spoke here in August we felt very confident in our
@@ -834,19 +745,13 @@ Zealand.
 
 FINAL
 
-Q - Toby Langley
-
-{BIO 15924432 <GO>}
-
+Q - Toby Langley {BIO 15924432 <GO>}
 Hi, it's Toby Langley from Bank of America Merrill Lynch. On your capital position you're
 knocking on the top end of your range. You've taken a lot of actions to restructure the
 business, de-risk, sold stuff, et cetera, et cetera. How do you feel about the interplay and
 where that capital position is now sitting in your PCA target range?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 I mean we've talked about before a lot of the things that we've done worked better on
 the more risk adjusted measures whether that be our own internal capital model or S&P.
 So it was actually nice to see the PCA also respond and grow in the period.
@@ -855,35 +760,24 @@ decision to both grow the dividend and take the opportunity to announce the buyb
 I think it was good to see them both respond. They're both right at the top end of where
 we want them.
 
-Q - Toby Langley
-
-{BIO 15924432 <GO>}
+Q - Toby Langley {BIO 15924432 <GO>}
 
 Bloomberg Transcript
 
 But that's probably not going to be corrected if you limit yourself to $333 million and the
 dividend you've got today, that PCA is still going to be knocking at that level?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. We're still going to be capital strong as we go forward. I think that -- you know, it's
 good to be capital strong.
 
-Q - Toby Langley
-
-{BIO 15924432 <GO>}
-
+Q - Toby Langley {BIO 15924432 <GO>}
 With regard to your actions in Australia Pat, is that project just about restoring businesses
 that you have or are you leaving other options on the table, i.e., would you consider
 disposing sales or injecting to beef up parts of the business that maybe could do with
 being bigger?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 No it's much the former. It is about improving what we've got. Actually it's an interesting -the business has got great market positions in most of what it does. I've been lucky to
 inherit those. So you know, a lot of what we're going we've got very good strong
 distribution partnerships. We've got a very strong position in the market. Therefore that's
@@ -900,75 +794,49 @@ Company N ame: QBE I nsurance Group L td
 Company Ticker: QBE AU Equity
 Date: 2017-02-26
 
-Q - Toby Langley
-
-{BIO 15924432 <GO>}
-
+Q - Toby Langley {BIO 15924432 <GO>}
 Thank you.
 
 FINAL
 
-Q - Ross Curran
-
-{BIO 17605313 <GO>}
-
+Q - Ross Curran {BIO 17605313 <GO>}
 Hi gents. It's Ross Curran from Deutsche Bank. Two quick questions. Circling back to
 James' question on attritional losses in Australia. Pat you mentioned that much of the
 remediation happened later in the half. Is there much difference on a quarterly basis? Is
 the Fourth Quarter attritional performance dramatically different from the second half
 attritional performance as well?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 It's better. Yes. So now I'll refrain from giving you attritionals on a quarter by quarter or
 month by month basis because it does jump around a little bit. But yes, the Fourth Quarter
 is better than the Third Quarter or the second half alone each year.
 
-Q - Ross Curran
-
-{BIO 17605313 <GO>}
-
+Q - Ross Curran {BIO 17605313 <GO>}
 Can I get a comment on the exit rate, on attritional losses into the year?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
+A - Pat Regan {BIO 15131018 <GO>}
 
 Bloomberg Transcript
 
 I'll repeat my earlier one -- I'll refrain from giving you month by month or quarter by
 quarter.
 
-Q - Ross Curran
-
-{BIO 17605313 <GO>}
-
+Q - Ross Curran {BIO 17605313 <GO>}
 Sure. Then can we get a comment on the amount of capital in the Australian LMI business
 and how much the capital lift from that over the next three to four years helps underwrite
 that buyback?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Oh I mean --we've talked a bit about having just over AUD1 billion in the LMI business. But
 actually as Toby said we're very capital strong anyway. The two things -- what our overall
 group capital looks like. Is it fungible enough? Are we getting good capital flows? Actually
 in both -- we're strong on both sides. Any capital release in LMI is sort of icing on the cake
 in that sense.
 
-Q - Ross Curran
-
-{BIO 17605313 <GO>}
-
+Q - Ross Curran {BIO 17605313 <GO>}
 So you're not dependent on capital coming out of LMI to fund the buyback?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 No.
 
 Q - Brad Le Mesurier
@@ -987,28 +855,19 @@ you recall the reason for that?
 
 FINAL
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 Because we buy our aggregate reinsurance treaties on a two year basis. You book the
 cost of the two years up front and earn it over the two year period. So that's the reason
 for fall.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 So last year was unusual rather than this year being unusual based on that sense.
 
 Q - Brad Le Mesurier
 So there's not much in that deferred reinsurance costs for business not yet written I
 presume.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 No, as John said -- so last year we would have actually -- essentially written if you like two
 years' worth of the deferred reinsurance costs. So you end up with -- I think it's $1 billion
 versus $600 million or $500 million, something like that the delta is in that.
@@ -1019,10 +878,7 @@ Q - Brad Le Mesurier
 Yes. But in the half -- last year you had, I think it was $200 million relating to business not
 yet written.
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 If you book it up from -- so if we buy a treaty for two years the accounting standard
 requires us to book the premium in full up front, even though in the year in question we
 will only write half of the business we would expect to. So that's why you end up with
@@ -1032,10 +888,7 @@ that you're writing. It's as simple as that.
 Q - Brad Le Mesurier
 So that would have reduced that figure?
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 Correct. You'll see the same again in 2017 because in effect we bought the same treaty
 for two years. You'll see the same pattern of earnings.
 
@@ -1056,10 +909,7 @@ combined ratios?
 
 FINAL
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 Yes good question against inflation. If I turn the question around, if there's one thing that
 we're keeping a close eye on it is just that. It is inflation. We saw it as you know in Australia
 for the first time in a long while through the early part of last year. We're alert to it in the
@@ -1087,10 +937,7 @@ weathered eye on inflation.
 Q - Unidentified Participant
 So basically no margin pressures and arguably some benefits coming from Australia.
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 No, correct.
 
 Q - Unidentified Participant
@@ -1109,9 +956,7 @@ Company N ame: QBE I nsurance Group L td
 Company Ticker: QBE AU Equity
 Date: 2017-02-26
 
-A - John Neal
-
-{BIO 15681439 <GO>}
+A - John Neal {BIO 15681439 <GO>}
 
 FINAL
 
@@ -1127,34 +972,22 @@ development positively. But I think again we've been reasonably cautious in what
 might be. So there is a challenge, market conditions aren't great, we're not seeing price
 increases everywhere. But there is some opportunity for upside.
 
-Q - Tim Lawson
-
-{BIO 3280691 <GO>}
-
+Q - Tim Lawson {BIO 3280691 <GO>}
 Tim Lawson, Macquarie Securities. Just in terms of the buyback, just in any internal and
 external considerations around a three year timeframe into long period?
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 Sorry, I missed that.
 
 Bloomberg Transcript
 
-Q - Tim Lawson
-
-{BIO 3280691 <GO>}
-
+Q - Tim Lawson {BIO 3280691 <GO>}
 So the timeframe to put out a three year buyback announcement over that period? So
 why not just do a one year and follow it up? What are you thinking about for a three year
 period in terms of the business operating conditions and what the external environment
 might look like over that period?
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 We're just trying to balance the best means of returning capital for shareholders. The
 reality is that as our business performs in line with expectations across the geographies,
 our franking credits in Australia reduce. So historically we've had franking credits of around
@@ -1166,10 +999,7 @@ balance between buyback and dividend right for the shareholder. So there's no ab
 view on how much buyback we conduct in any one year. But I think if you were to assume
 it evenly over the three years, that's probably appropriate.
 
-Q - Tim Lawson
-
-{BIO 3280691 <GO>}
-
+Q - Tim Lawson {BIO 3280691 <GO>}
 And an overall payout ratio, is that including dividends and buyback?
 
 Page 19 of 21
@@ -1180,24 +1010,16 @@ Company N ame: QBE I nsurance Group L td
 Company Ticker: QBE AU Equity
 Date: 2017-02-26
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 So the payout ratio is purely for dividend at 65%, up to.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
+A - Pat Regan {BIO 15131018 <GO>}
 
 FINAL
 
 I think we have a question on the telephone, David Spotswood.
 
-Q - David Spotswood
-
-{BIO 17576616 <GO>}
-
+Q - David Spotswood {BIO 17576616 <GO>}
 Thanks for that, just a couple of quick questions. The interest cost of $294 million, that's a
 bit of a jump from last year, is the $294 million a reasonable number to assume going
 forward? The tax rate you called out was 21%, will that revert to something higher, 24% or
@@ -1205,10 +1027,7 @@ should we assume 21% going forward? Just a comment on the interest rate sensitiv
 interest rates -- discount rates go up 1% across the board, the flow through to the P&L on
 that. Thanks.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Thanks David. On the first one, the $294 million was a little bit higher. I think I mentioned
 we exited a number of our commercial auto programs in the US and we had a one-off
 payment to exit those. So our run rate of interest costs is closer to around $250 million
@@ -1225,16 +1044,10 @@ we now have a longer duration of our assets, that would be largely but not compl
 offset on the asset side. So we're closer to that being offset. There would still be a
 mismatch. But to a much lower extend than we've had in the past.
 
-Q - David Spotswood
-
-{BIO 17576616 <GO>}
-
+Q - David Spotswood {BIO 17576616 <GO>}
 Thank you.
 
-A - John Neal
-
-{BIO 15681439 <GO>}
-
+A - John Neal {BIO 15681439 <GO>}
 Okay, if there are no further questions, thanks everyone, we'll close there. Thanks for
 joining us.
 

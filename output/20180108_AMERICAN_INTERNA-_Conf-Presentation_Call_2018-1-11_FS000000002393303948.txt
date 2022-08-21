@@ -20,10 +20,7 @@ MANAGEMENT DISCUSSION SECTION
 
 Bloomberg Transcript
 
-Alexander R. Baugh
-
-{BIO 15706866 <GO>}
-
+Alexander R. Baugh {BIO 15706866 <GO>}
 Good afternoon and welcome to the 2018 CES Research Summit. My name is Lex Baugh.
 I'm the CEO of North American General Insurance for AIG, and I'd like to introduce my
 colleague, Gaurav Garg, who is the CEO for our Personal Insurance business. We're
@@ -98,10 +95,7 @@ Some of you might be sitting there and wondering, why is an insurance company do
 this at a Consumer Electronics Show? And I know Gaurav has some thoughts that he'd like
 to share with you on that.
 
-Gaurav D. Garg
-
-{BIO 17753314 <GO>}
-
+Gaurav D. Garg {BIO 17753314 <GO>}
 Thank you, Lex. Delighted to be here today.
 
 Page 2 of 16
@@ -146,10 +140,7 @@ insurance premium will balance off on liability versus personal car insurance.
 So we are really excited today to be here to discuss this. I would go back to Lex and ask
 him as to, how is he risk shifting, Lex?
 
-Alexander R. Baugh
-
-{BIO 15706866 <GO>}
-
+Alexander R. Baugh {BIO 15706866 <GO>}
 We'll talk a little about that in the Q&A, but what is clear is that, risk will change. It's not
 simply going to disappear. It's going to, to some extent, shift. It's going to blur
 conventional lines that we think about between man and machine.
@@ -178,10 +169,7 @@ scratched the surface of these questions in our survey. But it's important to st
 somewhere. And speaking of starting somewhere, I want to return the podium to Gaurav
 and ask him to introduce our esteemed panelists.
 
-Gaurav D. Garg
-
-{BIO 17753314 <GO>}
-
+Gaurav D. Garg {BIO 17753314 <GO>}
 Thank you again, Lex. We are honored to share the stage with three experts in the field,
 who will join us now for the discussion on some of these questions. Santa Clara University
 School of Law Professor Emeritus Bob Peterson. Bob and Professor Glancy were true
@@ -198,10 +186,7 @@ that we at AIG were delighted to partner with you all.
 With that, I'd like to turn things over to you, Professor Sal Churi.
 
 Q&A
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
-
+Q - Salen Churi {BIO 20591117 <GO>}
 Well, thanks, Gaurav. Very happy to be here with all of you and thanks to AIG in putting this
 panel together. Just quickly a little bit about the Internet of Things Risk Manager Checklist.
 It's meant to be a practical approach to get risk managers asking the right questions as
@@ -227,10 +212,7 @@ Date: 2018-01-08
 
 FINAL
 
-A - Robert W. Peterson
-
-{BIO 21267685 <GO>}
-
+A - Robert W. Peterson {BIO 21267685 <GO>}
 Yeah. Well, despite appearances, I was not around in 2011, when the first silent movie was
 made about a robot driven car, but I had for many, many years taught insurance law, torts
 law, products liability. So when it looked like autonomous vehicles were going to become
@@ -250,33 +232,22 @@ going to go.
 So this has been a really exciting area to fall into in the waning years of my academic
 experience, so I feel very, very lucky to be working in this area.
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
+Q - Salen Churi {BIO 20591117 <GO>}
 
 Bloomberg Transcript
 
 We all know you're just reaching your prime now.
 
-A - Robert W. Peterson
-
-{BIO 21267685 <GO>}
-
+A - Robert W. Peterson {BIO 21267685 <GO>}
 Yeah.
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
-
+Q - Salen Churi {BIO 20591117 <GO>}
 So this one's for Kate from Lyft. We know Lyft is really focused on changing mobility in the
 future. We can tell that especially from last week. You had a really exciting announcement
 of a partnership with Aptiv. So how do you think about autonomy and the features that are
 available today and how that kind of leads into sort of full autonomy in the future?
 
-A - Kate Sampson
-
-{BIO 20505903 <GO>}
-
+A - Kate Sampson {BIO 20505903 <GO>}
 Sure. So we're super excited to be at CES wearing my Lyft hat, demonstrating the first
 point-to-point ride-hailing experience. So you can head out to the Gold Lot and actually
 experience it. And what's super exciting about it, it's really the first real-life example of
@@ -315,9 +286,7 @@ will all have influence on that experience in the future, we still have a ways t
 and Gaurav were saying before, on where that liability is going to land. So I'm thinking
 about that.
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
+Q - Salen Churi {BIO 20591117 <GO>}
 
 Bloomberg Transcript
 
@@ -325,10 +294,7 @@ Yeah, tough life making it back from Tahoe. So, Lex, you've been talking about r
 shifting for years. Can you tell us a little bit more about what you mean when you say that?
 Unpack it a bit for us.
 
-A - Alexander R. Baugh
-
-{BIO 15706866 <GO>}
-
+A - Alexander R. Baugh {BIO 15706866 <GO>}
 I think I spent too much time thinking about risk shifting and not enough skiing in Tahoe.
 But we have spent some time studying and we truly believe that risk is shifting and shifting
 in really three categories, three different dimensions. The first area where risk is shifting is
@@ -428,20 +394,14 @@ provider, parts manufacturing, the pedestrian – I'm not sure how that came up 
 finally, road construction companies. Maybe you take responsibility for not looking both
 ways and you walk out into the road, I'm not sure.
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
-
+Q - Salen Churi {BIO 20591117 <GO>}
 Assumed risk. So this one is for you, Gaurav. From a consumer perspective, what is one
 really big issue that we, sort of the industry at large kind of building autonomous
 technology, have to address before we get to broader adoption?
 
 Bloomberg Transcript
 
-A - Gaurav D. Garg
-
-{BIO 17753314 <GO>}
-
+A - Gaurav D. Garg {BIO 17753314 <GO>}
 So, I mean, there are multiple things that we have to address before we get further down
 this road. And there are a lot of complex issues relating to technology, relating to
 infrastructure that Lex talked about. But I think one of the biggest issues that I see, and
@@ -463,9 +423,7 @@ and adopt. So in my view this would be one of the biggest hurdles as we go down 
 road. And one thing that, as Lex was speaking, is interesting is that once the autonomous
 vehicles come in, there won't be a DMV. Will there be? There'll be no licensing...
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
+Q - Salen Churi {BIO 20591117 <GO>}
 Page 8 of 16
 
 
@@ -476,25 +434,18 @@ Date: 2018-01-08
 
 Sounds like a wishful thinking.
 
-A - Gaurav D. Garg
-
-{BIO 17753314 <GO>}
+A - Gaurav D. Garg {BIO 17753314 <GO>}
 
 FINAL
 
 ...right? Anyone can just sit in a car and go.
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
-
+Q - Salen Churi {BIO 20591117 <GO>}
 So we'll go back to Kate to talk about autonomous in the ridesharing context. So over the
 past five years consumers have really taken to and embraced ridesharing. How do you
 think consumers are going to respond to autonomous rides?
 
-A - Kate Sampson
-
-{BIO 20505903 <GO>}
+A - Kate Sampson {BIO 20505903 <GO>}
 
 Bloomberg Transcript
 
@@ -541,32 +492,22 @@ Date: 2018-01-08
 look at them and say, you still drive, like aren't you using an autonomous car, because so
 many of the accidents are going to be caused by human drivers, not by the robot cars.
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
+Q - Salen Churi {BIO 20591117 <GO>}
 
 FINAL
 
 Yeah. We're going to have Mothers Against Human Drivers soon.
 
-A - Robert W. Peterson
-
-{BIO 21267685 <GO>}
-
+A - Robert W. Peterson {BIO 21267685 <GO>}
 Yeah.
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
-
+Q - Salen Churi {BIO 20591117 <GO>}
 So we'll shift back to Professor Peterson. You looked at a number of different jurisdictions
 in your report and you found some interesting differences between them. Can you kind of
 just double click on the differences between the U.S., the UK, and Singapore, and kind of
 draw out some of the things that jumped out to you?
 
-A - Robert W. Peterson
-
-{BIO 21267685 <GO>}
+A - Robert W. Peterson {BIO 21267685 <GO>}
 
 Bloomberg Transcript
 
@@ -576,16 +517,10 @@ from about 1944, when they are loading a fertilizer ship with ammonium nitrate a
 blew up, and they found one of the anchors about 1.5 mile inland. So that gives you just a
 feel for ammonium nitrate.
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
-
+Q - Salen Churi {BIO 20591117 <GO>}
 Maybe don't Google it, you don't want to be on a list.
 
-A - Robert W. Peterson
-
-{BIO 21267685 <GO>}
-
+A - Robert W. Peterson {BIO 21267685 <GO>}
 Yeah, that's right. We're probably all – every one of you is now. Yeah, there are a lot of
 differences between the United States and other countries. But there are a lot of things
 where they tend to agree too. And one of them is that, they virtually all agree that they
@@ -634,19 +569,14 @@ while and I cannot see the joy, frankly, of driving my own car around London. Bu
 for a nice weekend drive in the Cotswolds, there is really nothing half so pleasurable as a
 nice drive to the Cotswolds, I understand that
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
+Q - Salen Churi {BIO 20591117 <GO>}
 
 Bloomberg Transcript
 
 So this one is for you, Gaurav. What role do you think insurance plays in this overall journey
 towards autonomy?
 
-A - Gaurav D. Garg
-
-{BIO 17753314 <GO>}
-
+A - Gaurav D. Garg {BIO 17753314 <GO>}
 Well, insurance companies are, obviously, not in the value chain of building the
 autonomous vehicle with so many people involved, but, as we discussed, autonomous
 vehicles expose different kinds of risks. So these risks are risks that an insurance company
@@ -674,10 +604,7 @@ Company N ame: American I nternational Group I nc
 Company Ticker: AI G US Equity
 Date: 2018-01-08
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
-
+Q - Salen Churi {BIO 20591117 <GO>}
 So opening up to the whole panel. If you could all just kind of share maybe the thing that
 jumped out to you most about this report. What really sticks out? Maybe start with you,
 Lex.
@@ -686,10 +613,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - Alexander R. Baugh
-
-{BIO 15706866 <GO>}
-
+A - Alexander R. Baugh {BIO 15706866 <GO>}
 Sure. For me – and I don't think it was a big surprise. I think it was very evident in looking at
 the research that partnerships are critical to the way forward. So when I think about that
 from an AIG perspective or from an insurance company's perspective, and I was talking
@@ -718,16 +642,10 @@ represent businesses or ventures ourselves, and we want that venture to win. But
 and the willingness to partner is going to be critical to success in this space, and I think
 that comes out loud and clear in the work.
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
-
+Q - Salen Churi {BIO 20591117 <GO>}
 Maybe move to you, Gaurav.
 
-A - Gaurav D. Garg
-
-{BIO 17753314 <GO>}
-
+A - Gaurav D. Garg {BIO 17753314 <GO>}
 Well, I mean, if you look at this paper and the research, I would tend to think that one of
 the biggest takeaways is that consumers have a voice, and at this moment they are kind
 of mixed and concerned on some parts, as well as looking forward to the safety of the
@@ -747,10 +665,7 @@ that I think is very important for success of this autonomous vehicles going for
 
 FINAL
 
-A - Kate Sampson
-
-{BIO 20505903 <GO>}
-
+A - Kate Sampson {BIO 20505903 <GO>}
 So for me, two things. I think the first is, the paper really highlights the number of players,
 the number of concerns that are out there. And when we first launched ridesharing, we
 certainly were disruptive to insurance companies, to transportation boards, to taxis,
@@ -768,10 +683,7 @@ future is here and is going to come quicker than people think.
 
 Bloomberg Transcript
 
-A - Alexander R. Baugh
-
-{BIO 15706866 <GO>}
-
+A - Alexander R. Baugh {BIO 15706866 <GO>}
 I think that regulatory point is a very interesting one, in that the regulation that controls
 most of motor vehicle operation globally was developed in the early 1970s, and it doesn't
 say anything about autonomous driving, you'd be surprised to hear. It really has as its
@@ -786,20 +698,14 @@ against some of these other parties that we're talking about, and the law will e
 we'll come to a different landing. I don't know exactly the path that that's going to follow,
 but I think that we'll see something along those lines.
 
-A - Kate Sampson
-
-{BIO 20505903 <GO>}
-
+A - Kate Sampson {BIO 20505903 <GO>}
 Yeah. And I would also say, it's not the first time that this challenge has been put forth for
 insurance companies, for regulators. We have aircraft that we've got an operator of the
 aircraft. We've got a Rolls-Royce engine or a certain engine, we've got autopilot
 technology in there. So we've seen situations where liability has had to be determined, so
 it's not the first time, but it's on a much broader scale.
 
-A - Robert W. Peterson
-
-{BIO 21267685 <GO>}
-
+A - Robert W. Peterson {BIO 21267685 <GO>}
 Yeah. Look, speaking of airplanes and the rate of adoption, let me just go back to when
 airplanes were first invented, because in 1901, Wilbur Wright said to his brother Orville, it
 will be 50 years before people fly. Now, Wilbur died young, unfortunately, from typhoid
@@ -847,10 +753,7 @@ think you can go out to the Gold Lot right now and reserve an autonomous ride in
 I'm correct. So maybe when we're done here, Sal and all of us, let's go out to the Gold Lot
 and get on that train.
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
-
+Q - Salen Churi {BIO 20591117 <GO>}
 It does seem like there is a sense in which the people that are most optimistic about this
 or at least think it's coming the most quickly are the people who've experienced the taste
 of it, right? Kate, you mentioned the experience such as sort of sitting in one or the folks
@@ -881,9 +784,7 @@ the appropriate day is for that kind of deep penetration of autonomy. Can you gu
 little bit about where you think we may go in between? What does the adoption look like?
 What does that process look like?
 
-A - Kate Sampson
-
-{BIO 20505903 <GO>}
+A - Kate Sampson {BIO 20505903 <GO>}
 
 Bloomberg Transcript
 
@@ -908,10 +809,7 @@ ownership. Maybe you go from three cars to two cars or two cars to one car throu
 transitional period, but it'll start to be more and more obvious to consumers that this is
 the future as those things start to emerge.
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
-
+Q - Salen Churi {BIO 20591117 <GO>}
 Rip-off of that, I think that applies equally to sort of the regulatory picture, right? So as
 things sort of start to get adopted, you may see more and more willingness to engage
 with them. So this kind of parallels the sort of personal feelings that people might have
@@ -936,10 +834,7 @@ you can see adoption coming across jurisdictional lines and even international l
 
 FINAL
 
-A - Robert W. Peterson
-
-{BIO 21267685 <GO>}
-
+A - Robert W. Peterson {BIO 21267685 <GO>}
 Yeah. Well, I think we are as humans neophobes, and that's part of how we stay alive is
 we are a little bit fearful of new things until we establish that they are at least harmless to
 us. And then if they're useful, we will adopt them. But I could say just from personal
@@ -958,10 +853,7 @@ guessing about the future, that is my best guess, it's going to happen very fast
 
 Bloomberg Transcript
 
-Q - Salen Churi
-
-{BIO 20591117 <GO>}
-
+Q - Salen Churi {BIO 20591117 <GO>}
 Well, I think we'll conclude there. Thank you so much to our esteemed panel here for
 sharing their thoughts and to AIG and to the authors of our reports. And for all those who
 would like to dig in and take a look at the report and learn more, you can find more on

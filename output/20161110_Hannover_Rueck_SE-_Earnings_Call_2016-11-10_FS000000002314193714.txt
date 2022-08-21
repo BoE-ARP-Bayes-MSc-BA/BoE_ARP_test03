@@ -29,10 +29,7 @@ conference is being recorded.
 At this time, I would like the hand the call over to your host today, Mr. Ulrich Wallin, Chief
 Executive Officer. Please go ahead, sir.
 
-Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+Ulrich Wallin {BIO 4863401 <GO>}
 Thank you very much and good morning, ladies and gentlemen, and thank you for joining
 the Hannover Re conference call. As usual, I'm joined by our CFO, Roland Vogel and we
 are pleased to present to you the figure for the first nine months of 2016.
@@ -104,9 +101,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2016-11-10
 
-Roland Vogel
-
-{BIO 16342285 <GO>}
+Roland Vogel {BIO 16342285 <GO>}
 
 FINAL
 
@@ -302,10 +297,7 @@ Finally, the modified duration of our asset portfolio has slightly increased to 
 I should now conclude.
 And as usual, I leave the target matrix to Uli.
 
-Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+Ulrich Wallin {BIO 4863401 <GO>}
 Thank you, Roland. Yes, on the target matrix, you can see that despite all the challenges
 we would like to comment on continuously we see ticks on almost all our profitability
 target. Keeping in mind the strong growth that we saw in 2015, it does not concern us that
@@ -439,10 +431,7 @@ question. The first question is from Kamran Hossain of RBC. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi. Good morning, everyone. Two questions. The first one is just on – so you were seeing
 a bit of a shift in yields in the last day or so and kind of a little bit before that as well. If
 yields continue to go up, how will that change your investment strategy going forward?
@@ -453,10 +442,7 @@ might be some new opportunities coming out in the US. Can you just, maybe, give 
 comments on what you think, I guess, the business potential is in the US in the, I guess, in
 this new world? Thank you.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well, I mean, for the second question, I will hand the first one to Roland in a second. Of
 course, I mean, you say it's a new world, but it's a very new world, and I would say what
 actually will develop in the US from recent events is difficult to predict, I would say. I mean,
@@ -464,15 +450,10 @@ for the time being, we assume that we will continue to do business as usual in t
 – I mean, outside from any political events, we see further good prospects to grow our
 business there.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Okay.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
+A - Roland Vogel {BIO 16342285 <GO>}
 Page 9 of 18
 
 
@@ -496,10 +477,7 @@ the additional valuation reserve after Brexit had on the ROE. But when it comes 
 overall portfolio composition, nothing would change that much. Yes, of course, if there is
 volatility, one would try to take benefit out of that, but only to a small extent.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Okay. Perfect. Thanks very much.
 
 Operator
@@ -507,10 +485,7 @@ The next question is from Edward Morris of JPMorgan.
 
 Bloomberg Transcript
 
-Q - Edward Morris
-
-{BIO 16274236 <GO>}
-
+Q - Edward Morris {BIO 16274236 <GO>}
 Good morning, everyone. Thanks for taking my questions. First is on the net income
 guidance for the current year. Obviously, given what you've done over nine months and
 the unused budget that you're carrying into Q4, it looks very conservative, I would say. I
@@ -524,10 +499,7 @@ to return all of the capital that you've generated this year or how do we balanc
 the choice between operating at the most efficient point and sort of steady progression
 on a year-on-year basis? Thank you.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Yeah. I mean, on the net income guidance, I already said that of course this – the results
 that we have achieved after nine months and with still quite comfortable level of unused
 large loss budget, at least €950 million would now probably put a higher emphasis on the
@@ -552,29 +524,18 @@ growth of the capital. But, once we have done that, we will then consider how mu
 pay out. I would say that, at this point in time, I not see us going below the €4.75 that we
 paid out for 2015.
 
-Q - Edward Morris
-
-{BIO 16274236 <GO>}
-
+Q - Edward Morris {BIO 16274236 <GO>}
 Okay. Thank you.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 It's sufficiently vague (39:03) to answer your question.
 
-Q - Edward Morris
-
-{BIO 16274236 <GO>}
-
+Q - Edward Morris {BIO 16274236 <GO>}
 Yeah. Thanks. And just on the first point about the reserves, the additional reserve release
 that you saw in Q2, is that something that you would allow to be offset by the end of the
 year?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
+A - Ulrich Wallin {BIO 4863401 <GO>}
 
 Bloomberg Transcript
 
@@ -582,19 +543,13 @@ No. I think we will probably keep – not put that back into the buffer because 
 the end of 2015, the buffer has gone quite high also in the eyes of our auditors. So, I don't
 think we will have, really the room to put that back.
 
-Q - Edward Morris
-
-{BIO 16274236 <GO>}
-
+Q - Edward Morris {BIO 16274236 <GO>}
 Okay. Great. Thank you.
 
 Operator
 The next question is from Jonny Urwin of UBS Limited. Please go ahead.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi, there. Good morning. Thanks for taking my questions. Just two for me. Thinking a bit
 about growth firstly. So, I remember at the Investor Day, you guys were talking about
 growing in credit, surety, political risk in the US. I can see on the profitability matrix today
@@ -615,9 +570,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2016-11-10
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
+A - Ulrich Wallin {BIO 4863401 <GO>}
 
 FINAL
 
@@ -662,9 +615,7 @@ also, there, we see increasing profitability. So, whilst the US mortality big bl
 looking all that as well, our US business, nonetheless, shows increasing profitability, if you
 take the entire piece.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Page 12 of 18
 
 
@@ -681,10 +632,7 @@ FINAL
 
 The next question is from In-Yong Hwang of Goldman Sachs. Please go ahead.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Hello. Thank you very much for taking my question. I've got two. Firstly, on the Life Re top
 line, third quarter saw quite a sharp decline. You pointed to some large transactions in
 Australia and China that were discontinued. But looking forward, do you kind of see
@@ -702,10 +650,7 @@ think there's quite a big variation from quarter-to-quarter, which I guess I fin
 difficult to understand given that you booked the large loss but in full before tuning up in
 fourth quarter. So, if you just help us explain where the variation comes from quarter-toquarter, please. Thank you.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Yes. Thank you for the question. I mean, on the Life Re top line, I think we are through, in
 2016, with the effect from the discontinuation of large treaties. Because, I mean, the
 largest part of this has actually been single premium transactions from China where we
@@ -746,10 +691,7 @@ for those rather than using the budget of the next quarter, and that explained w
 combined ratio on Cat segment, jumped up in the second quarter and a step down in the
 third quarter.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 If I may add, you should also bear in mind that it's not always a direct correlation between
 something happening and the business line as we present it here. So, for instance, I did
 mention, I think the earthquake in Ecuador made itself felt mostly in the worldwide
@@ -758,9 +700,7 @@ for instance, to Sandy that was more a marine loss event than anything else, so 
 should bear in mind that also the losses, even if we see them as Cats, do not only show
 up in that business line. There can be a different composition as well.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 
 Bloomberg Transcript
 
@@ -769,10 +709,7 @@ All right. Thank you very much.
 Operator
 The next question is from Vinit Malhotra of Mediobanca Securities. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Thanks very much. So, just two very quick fact-checking questions, please. On the
 Life margins, from speaking with IR team today, it appeared there are some realized
 gains as well as part of this restructuring of the collateral business. Could you quantify that
@@ -783,10 +720,7 @@ adjusted in P&C in 3Q stand-alone. Just to clarify, is it coming from U.S. or is
 from some structured facultative, those kind of lines? Just want to clarify that please.
 Thank you.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well, if I may take the second and leave Roland the first one. Yes, I mean, this stand-alone
 third quarter growth for the most part is actually U.S. business. And partly that U.S.
 business on advanced solutions and partly its traditional U.S. business, largely property
@@ -808,16 +742,10 @@ FINAL
 
 And with the Life question, Roland is working at it and he will answer that now.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thanks.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Vinit, of course, we do not exactly track each and every security which is sold, as to why it
 was sold. But if I – and this is a little bit of gut feeling and a rough number, I would say, at
 approximately or around €20 million was the extraordinary number. We may come back to
@@ -826,10 +754,7 @@ It may even be a little bit less than that if you make it €15 or so. That woul
 which just came through by touching some of the portfolios where we had changes from
 deposits and collateral provisions here.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yeah. Thanks, I appreciate your color here. Thank you very much.
 
 Bloomberg Transcript
@@ -837,10 +762,7 @@ Bloomberg Transcript
 Operator
 The next question is from Andrew Ritchie of Autonomous Research. Please go ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Hello, hi there. I just wanted a quick update on Australia from a Life claims perspective.
 You start to see primary insurers taking into account the new mortality tables and talk
 about still elevated claims levels and disability and individual income per section. How are
@@ -848,10 +770,7 @@ claims running for you relative to the adjustments you've made a couple of years
 And what's your general view on new business opportunities in the Australian Life market?
 Thanks.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well, if you look at the new mortality business in Australia, I mean, we have taken into
 account, of course, the new tables but it hasn't affected our business negatively. I mean,
 particularly on our retail business, results are actually above expectation. Therefore, our
@@ -876,60 +795,37 @@ the rest of the business.
 
 FINAL
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 And is the individual morbidity business also running in line?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 No. That's what I mentioned. I mean, what we call the legacy DII business...
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Individual disability income as I said, claim frequency and severity is in line with
 expectation. However, the discounting of the future expected the claims and that is
 actually suffering from the reduced interest rates.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
 Okay. So it's fair to say the prime rate to some degree may be catching up with whether
 reinsurers adjusted things already.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 That's right. Yes.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. Great. Thank you.
 
 Operator
 The next question is from Frank Kopfinger of Deutsche Bank. Please go ahead.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Good morning, everybody. I have two questions. My first question is on, again, on your
 unused large or major loss budget. You mentioned the €300 million that are still available
 as of today. How should we think about that if we assume that there are no major losses
@@ -950,10 +846,7 @@ translate the sensitivity into basis points development?
 
 FINAL
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Okay. Let me take the first one, and then Roland the second one of your question. I mean,
 if there are no large loss from now to year-end, definitely, our result will be well above
 €950 million. Because then, not all the unused budget will then remain in reserves. I mean,
@@ -963,9 +856,7 @@ you on the Investor Day, that level of the redundancies has increased quite sign
 at things like keeping additional redundant loss reserves somewhere on the balance
 sheet.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
+A - Roland Vogel {BIO 16342285 <GO>}
 
 Bloomberg Transcript
 
@@ -987,25 +878,16 @@ rated bonds would be a safe harbor and even potentially decrease credit spread. 
 there are far more complicated things available, but we felt that the percentage stress
 provides more meaningful information, this is why we have included it here.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 The issue is obviously always the starting point. And maybe it might make sense to break
 it down into government spreads and corporate spreads?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 (1:00:35) If I can take that up, potentially, this is a good topic for the next Investors Day or
 something like this. And you have a special demand, again, we can cater for them, but this
 is what we usually we provided. And again, we changed it to make it more meaningful.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay. Thank you very much.
 
 Page 17 of 18
@@ -1021,10 +903,7 @@ There are no further questions. I hand back to the speakers.
 
 FINAL
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Yes. Thank you very much again for joining our conference call. Thank you for your
 questions, and I wish you all a very nice day. And yes, thank you. Good-bye.
 

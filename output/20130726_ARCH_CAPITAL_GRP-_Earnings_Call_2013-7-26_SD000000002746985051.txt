@@ -60,10 +60,7 @@ website.
 I would like to turn the call over to your hosts for today, Mr. Dinos Iordanou and Mr. Mark
 Lyons. Please proceed, gentlemen.
 
-Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+Dinos Iordanou {BIO 2397727 <GO>}
 Thank you, Glen. Good morning, everyone, and thank you for joining us today. We had a
 good Second Quarter from just about every perspective, with the exception of unrealized
 losses in our investment portfolio due to the rising investment yields.
@@ -184,10 +181,7 @@ in the Gulf where our Florida Tri-County PML now stands at $606 million.
 Now I am going to turn it over to Mark to comment further on our financial results and
 then we will come back and take your questions. Mark?
 
-Mark Lyons
-
-{BIO 6494178 <GO>}
-
+Mark Lyons {BIO 6494178 <GO>}
 Great. Thank you, Dinos. Good morning all. Consolidated combined ratio for this quarter
 was 87.4% with 4.8 points of current accident year cat-related events, net of reinsurance
 and reinstatement premiums compared to the 2012 Second Quarter combined ratio of
@@ -345,10 +339,7 @@ Questions And Answers
 Operator
 (Operator Instructions) Amit Kumar, Macquarie.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Thanks and good morning. Two brief questions. First of all, just going back to the data
 points on pricing and new business on the insurance side, those were very helpful. I was
 wondering if you could also broadly talk about the impact of exposure on those lines,
@@ -363,9 +354,7 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2013-07-26
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
+A - Dinos Iordanou {BIO 2397727 <GO>}
 
 FINAL
 
@@ -381,10 +370,7 @@ And the customers, we haven't -- sometimes you can get them to purchase either
 additional layers or additional limits and we don't see that either. They are pretty
 conservative in that purchase.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 I didn't phrase that question properly. I guess what I was trying to ask is that if rates are, as
 you said, are approaching adequacy do you feel that exposure growth will still result in a
 positive sequential trend line? I guess that is what I was trying to ask and I think in some
@@ -392,10 +378,7 @@ ways you did answer the question.
 
 Bloomberg Transcript
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Well from a rate point of view, the more business that you get close to adequacy to
 maintain the same ROE performance. Then from that point on you don't need
 extraordinary rate increases, you need rate increases that will cover loss cause
@@ -407,10 +390,7 @@ getting into yellow, that means writing with caution, and more getting into gree
 will allow our divisions to grow that business.
 Mark, you want anything to add to it?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Yes. Thank you, Dinos. Just a potential clarification, in the insurance group -- in the US it is
 75% of the insurance group where we have all the detail. You kind of think of the
 aggregate rate versus premium growth this way in the US.
@@ -427,16 +407,11 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2013-07-26
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Then you got to deduct the business that you have lost to get to your aggregate
 exposure.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
+Q - Amit Kumar {BIO 15025799 <GO>}
 
 FINAL
 
@@ -447,10 +422,7 @@ call it. Perhaps looking at other avenues including cash realty reinsurance risk
 traditional prop cat, I am curious A) what is your view on that and B) would Arch be
 interested in something like that potentially down the road? Thanks.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 First, my views are that capital formation will take different kinds of forms. It is more
 difficult from a buyer's perspective, a customer perspective to create those structures on
 the casualty line, because in casualty lines, due to the long nature of the tail, it requires
@@ -466,27 +438,18 @@ So as a company we are interested in those structures. We had over the years man
 different discussions with different parties, and if we find the right structure that it benefits
 our shareholders we will do it. But that is basically what we are.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. Thanks so much for the answers.
 
 Operator
 Mike Zaremski, Credit Suisse.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Thanks. Maybe a follow-up on Amit's question and I may be nitpicking here. Dinos, in the
 prepared remarks I believe you cited primary insurance pricing trending in excess of loss
 costs by 150 basis points.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Yes.
 
 Page 9 of 23
@@ -497,32 +460,21 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2013-07-26
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 I wrote down last quarter that you said it was trending in excess of loss costs by 300 basis
 points.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
+A - Dinos Iordanou {BIO 2397727 <GO>}
 
 FINAL
 
 That is also correct.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay. So is the climate being driven by new entrants into the E&S marketplace? Or maybe
 you can comment on why that has changed.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 No. I think -- as Mark said, and I will turn it over to him, you are not going to get
 consecutive -- you are not going to get rate increases escalating by 8%, 10% forever. So
 at some point in time you will see that -- the market works in peculiar ways.
@@ -541,10 +493,7 @@ When you look at it from that perspective the ROE on an underwriting year basis 
 business we write today will be a little bit better. And that is what we try to estimate, that
 150 basis points. Mark?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 That is a great point. One of the reasons I talked about the serial changes for like eight or
 nine quarters is you are at the right quarter, you are now approaching your third increase
 which is why you are going to start to get to some of this adequacy. But a lot of this still
@@ -563,19 +512,13 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2013-07-26
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay, that helps. Are you saying then, Dinos and Mark, that a lot of these lines have
 reached the rate adequacy, meaning a 15% projected ROE?
 
 FINAL
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 We didn't say all. As I said, we still have product lines in the yellow, which just means you
 got to be selective and do it with caution.
 To us a green light is a product line or a division that we believe the marketplace is
@@ -587,9 +530,7 @@ that is in there, high single-digit ROE and low double digits, in order to avera
 We have lines of business that are in the green, but we do have some in the red still and
 we still have more and more in the yellow.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
+Q - Mike Zaremski {BIO 20606248 <GO>}
 
 Bloomberg Transcript
 
@@ -597,25 +538,16 @@ Got it. Lastly, on investment income, you guys have done a good job on the book 
 and on just overall investment levels. Do you expect the recent rise in new money yields
 to be a material benefit on a perspective basis? Thanks.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Mark, do you want to --?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Yes, I think to kick that off we view that the new money rates in this quarter compared
 prior was about a 50 basis point move up. And that is beneficial. But the range Dinos
 quoted, 11% to 13%, all it really does is change the placement within that range more than
 anything else. So it depends on how sustained it turns out to be.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 We have been guarding against rising interest rates for a long time with keeping the
 portfolio short in duration and also high credit quality. So in essence, we might take the
 unrealized hit, but it will unwind itself within the duration of the portfolio pretty quickly.
@@ -635,9 +567,7 @@ Date: 2013-07-26
 
 for us.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
+Q - Mike Zaremski {BIO 20606248 <GO>}
 
 FINAL
 
@@ -645,16 +575,11 @@ Maybe I could just in more simpler terms then? So if current interest rates stay
 are and you talk about a 50 basis points increase in new money yields, do you expect the
 portfolio yield to increase by 50 basis points?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Well again, it depends on what mix of business that we wind up with. But you really have
 to layer on the duration of that on top of it.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
+A - Dinos Iordanou {BIO 2397727 <GO>}
 
 Bloomberg Transcript
 
@@ -671,28 +596,19 @@ into consideration how much is rolling off and coming and gets reinvested, anyth
 new and we are putting in fixed income has a 50 bps improvement. I don't know if that is
 a quarter of the portfolio or -- I haven't done those calculations.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Thank you.
 
 Operator
 Michael Nannizzi, Goldman Sachs.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Thank you. I guess one question is within the reinsurance book, all else equal, would you
 expect to continue to reduce capacity that you are gearing towards property cat as the
 year progresses? And would you expect to be moving at into either areas of reinsurance
 or just taking the opportunity to write more insurance at the same time?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Listen, there is nothing that we do because we move from one to the other because we
 are in an excess capital position. So basically all of our units can have all the capital they
 want as long as they can deploy profitably. So let's start with that, because I am not
@@ -730,10 +646,7 @@ Bloomberg Transcript
 We felt we were getting good deals. I'm sure the people who sold it to us they also think
 they are good deals, but people can have difference of opinion on that.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. One question I had is I saw recently the New York MTA floated an insurance bond
 which it had sold to the capital markets. It seems to me, and I could be wrong, but I think it
 is one of the first either insurance market transactions or just specifically outside of
@@ -741,10 +654,7 @@ property cat reinsurance.
 Is that important as a development? Again, I realize it is very small. Or is that something
 that you think will happen from time to time?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 They will happen from time to time. It is not significant. Even in the cat market today, which
 the benefit seems after Katrina, which is seven, eight years, it is not a significant part of
 the capital formation. Still, traditional capital and those type of transactions they are
@@ -754,9 +664,7 @@ are reissuing similar covers as the rest of us and that is capacity that you hav
 about. The cat bonds, they had been around for a long time, but they are not a significant
 part of the business.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Page 13 of 23
 
 
@@ -773,10 +681,7 @@ FINAL
 
 Jay Gelb, Barclays Capital.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 I had a couple in terms of business volume trends. The first with the pull back in
 reinsurance premiums. I understand that reflects, to some extent, market conditions, but
 I'm trying to get a sense of whether you think that you will still see growth in premium
@@ -784,10 +689,7 @@ volume for the year. So that is first for reinsurance.
 Then, second, can you talk a little bit more about within the insurance segment the growth
 in the program business? And I will have a follow-up.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Let me start with reinsurance. Reinsurance, it is a lumpy business and it is hard to predict
 what is going to happen. Let me start.
 
@@ -836,51 +738,34 @@ also the very broad distribution capability that we have for either relationship
 has with wholesalers is really going very well. That unit, I think, is up to about $1 million a
 quarter -- a week in production which is ahead of our projections.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 One thing I could add, Jay, is that on the program business, as Dinos denoted, and the
 contract binding business and why I always bring mix up, growth in that if that is above
 average growth it's going to really impact the growth in the net written, because that is
 virtually 100% net business. So it's not like we are growing in a line where we are feeding
 reinsurers heavily. Those kinds of things alter the net pretty dramatically.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
+A - Dinos Iordanou {BIO 2397727 <GO>}
 
 Bloomberg Transcript
 
 It is small limits. We keep it 100% net and it all sticks to the ribs.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Then switching gears to capital management. The pace of buybacks has been pretty
 modest so far this year. Should we expect anything before 4Q?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 No, Third Quarter we don't like to buy because of the cat exposure that we have. That
 would be an issue in Fourth Quarter.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Understood, thank you.
 
 Operator
 Vinay Misquith, Evercore.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 A few questions here. First is just a numbers question on the mortgage reinsurance and
 the UK motor. So I presume those lower premiums are also negatively impacted during
 the Fourth Quarter. Do you have a sense for how much is it going to negatively impact the
@@ -893,9 +778,7 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2013-07-26
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
+A - Dinos Iordanou {BIO 2397727 <GO>}
 
 FINAL
 
@@ -905,21 +788,13 @@ the third, fourth, First Quarter from a year-to-year comparison.
 The motor will be coming down proportionally on the same basis for the third and Fourth
 Quarter, because we have cut back our capacity in that line.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 So do you have a number on that by any chance?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 I don't have all the treaties [ph] in front of me calculating numbers.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
+Q - Vinay Misquith {BIO 6989856 <GO>}
 
 Bloomberg Transcript
 
@@ -932,10 +807,7 @@ increases. So just a philosophical question, do you think that you can actually 
 take advantage of the opportunities, or do you think that now that pricing is reaching sort
 of adequacy that there will be more competition?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Like you are asking me, first, a philosophical question. Let me answer that first and then
 get to the predictions, which I don't like to make predictions.
 On a philosophical point of view, this is the same playbook we have been running Arch for
@@ -972,10 +844,7 @@ It is my problem to make sure that our capital gets utilized properly. So if the
 lot, I give them the capital. If they can't write as much, then I have to deal with the capital
 and excess capital issue at the holding company.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Vinay, one other little insight would be, I made the comment that the E&S casualty book
 was up 9.5% in the quarter. And there have been prior quarters where it has been similar.
 We just have chosen not to play in there yet because it hasn't gone into the green, but it
@@ -983,18 +852,12 @@ is approaching it. So there has been no evidence, strong evidence, of that abati
 
 Bloomberg Transcript
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay, that is helpful. Just as a follow-up to that, your primary insurance operation you only
 keep about 70% net. Do you think you are going to raise your retention on primary
 business now that it is improving?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Don't mislead yourself, that is a premium comparison, not a limit or exposure comparison.
 Remember, we chose to grow contract binding business, program businesses, lenders
 businesses -- things that don't put out a lot of capacity and, therefore, we take as
@@ -1003,18 +866,13 @@ The fact that D&O businesses and hospital professional businesses have capacity 
 $25 million in the US simply means we haven't deployed it as much, but they may still be
 reinsured to the same level until we are comfortable of where the returns are.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Right. But if you have seen the trend for the last few quarters, our net-to-gross is
 increasing. So we are getting more net, because what we are actually selling is more low
 limits, primary small accounts business. And that we keep 100% net. There is no
 reinsurance behind that.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
+A - Mark Lyons {BIO 6494178 <GO>}
 
 Page 17 of 23
 
@@ -1032,19 +890,13 @@ complex and they buy a lot of capacity. The businesses we are growing in in the 
 make it to Bermuda because they are very low limit. So you are not seeing those kind of
 increases yet out of the Bermuda facility.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay, that is helpful. Just one last question, if I may. On the ROE of 11% to 13%, what
 amount of that can we see hit the bottom line as an operating return? Because you have
 excess capital and you have also the returns on the equity portfolio. So how should we
 translate that into really the bottom-line operating ROE?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Well if you don't know how much excess I have you can't make that calculation because
 we take the S&P AA level capital and that is what we allocate to the operating unit.
 Everything else -- of course, we allocate some capital to the investment department. We
@@ -1066,10 +918,7 @@ them operate, and we hold them responsible to their performance to that. So it i
 formula, it works. It is like doing cheeseburgers on a Greek diner. I used to do that when I
 was in college.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Thank you very much, Dinos.
 
 Operator
@@ -1087,43 +936,29 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2013-07-26
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Mark, do you have anything? I like what we released and I like the taste of that meal, too.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
+A - Mark Lyons {BIO 6494178 <GO>}
 
 FINAL
 
 I have nothing to add.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Okay. Great. Thanks, guys.
 
 Operator
 John Hall, Wells Fargo.
 
-Q - John Hall
-
-{BIO 1497612 <GO>}
-
+Q - John Hall {BIO 1497612 <GO>}
 In your commentary you talked about the long-tail casualty leading rate in some
 segments, but some hitting adequacy. I was just wondering if you could share what some
 of those segments are (multiple speakers).
 
 Bloomberg Transcript
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 It is pretty simple. I think lead umbrella is still shy of adequacy. Don't forget, we still have
 (inaudible) attachment points, like auto attaching excess of $1 million. And even long-haul
 trucking sometimes they are attaching excess of $2 million, which is, to me, you are in the
@@ -1141,10 +976,7 @@ money to make sure that they keep monitoring, monitoring, monitoring and making
 decisions. We are not going to make everything and be correct in every decision we
 make, but we try very hard.
 
-Q - John Hall
-
-{BIO 1497612 <GO>}
-
+Q - John Hall {BIO 1497612 <GO>}
 Great, understood. And I just want to ask about the mortgage insurance acquisition. I
 guess when you first started doing all your work the field was not very crowded and the
 Page 19 of 23
@@ -1164,10 +996,7 @@ FINAL
 I guess the question is will the opportunity that you saw six or 12 months ago be there in
 another 12 or 18 months?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Yes. We wouldn't have gotten into that in the permanency of such if we didn't think the
 runway is seven to 10 years out. Don't forget, if I thought the market opportunity was
 temporary I would have stuck just with reinsurance transactions, so I can do them when
@@ -1190,27 +1019,18 @@ months ago. We wouldn't have moved towards that if we didn't think this has a se
 10-year horizon in front of it. A lot of things can happen and that might change, but that is
 our view for the present time.
 
-Q - John Hall
-
-{BIO 1497612 <GO>}
-
+Q - John Hall {BIO 1497612 <GO>}
 Got it. Appreciate it. Have a nice weekend.
 
 Operator
 Jay Cohen, Bank of America Merrill Lynch.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Thank you. A couple questions. Mark, can you talk about the difference now between the
 new money yields and your portfolio yields, assuming you are investing in a similar asset
 class?
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
-
+A - Mark Lyons {BIO 6494178 <GO>}
 Well broadly speaking, we quoted the embedded yield on fixed income, which Dinos said
 is a piece of the action at 243 bps, which is pretty flat from the last quarter. The 50 bps
 Page 20 of 23
@@ -1230,25 +1050,17 @@ geography of where it's put and irrespective of the asset classes, it is hard fo
 answer that question without the alternative investment side and everything else coming
 into play. So --
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 We can make our own assumptions on the alternative, but the fixed income is still a big
 portion of the portfolio and so that is why I was (multiple speakers).
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 But, Jay, you don't know how much is rolling on and off. Don't forget, you are getting
 maturities that you got to reinvest so you got to see what the reinvestment -- and I don't
 have those numbers in front of me. But maybe we can do some calculations and share
 some comments. Give us a call and then we will go through it with you.
 
-A - Mark Lyons
-
-{BIO 6494178 <GO>}
+A - Mark Lyons {BIO 6494178 <GO>}
 
 Bloomberg Transcript
 
@@ -1258,10 +1070,7 @@ to get the benefit from it. As Dinos said earlier, over the term of the duration
 portfolio it is going to unwind itself. But geography base this year going to see some
 improvements because of the higher coupons.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Right, right. I guess the second question is really a follow-up on the insurance pricing
 question where you suggested that the price increase decelerated a bit in the quarter.
 But pointing out that it's still good to get increases above claims inflation, which is clearly
@@ -1270,16 +1079,10 @@ I guess a concern that the equity markets have is that this is a trend we will s
 next two or three quarters and whatever cushion there is in pricing is going away pretty
 quickly. So my question to you is, while you did see that deceleration (multiple speakers)
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 That premise is not what we have said, but go ahead, finish your question.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Well that's not really the question. The question is are you -- the tone that you are seeing
 in the market, the behavior you are seeing, does it really represent -- do you see a big
 change in how your competitors have been behaving that would make you nervous that
@@ -1293,9 +1096,7 @@ Company N ame: Arch Capital Group L td
 Company Ticker: ACGL US Equity
 Date: 2013-07-26
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
+A - Dinos Iordanou {BIO 2397727 <GO>}
 
 FINAL
 
@@ -1322,19 +1123,13 @@ into a dive and the rate increases are going to be below claims inflation, you c
 a different conclusion. But there is no evidence in anything that we see or anything else
 that every competitor has reported that is pointing to that.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Great, that is helpful. If I could squeeze in one more question, the expense ratio on the
 reinsurance side, the G&A expense ratio was up a little bit and one of the things you
 mentioned in the release was some investments in that business. Can you talk more
 about that, exactly what that (multiple speakers)?
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 It was two things, it's very simple. You guys read 8-Ks sometimes, but you don't pay a lot
 of attention to it. We did a big retention grant at year-end, so there is equity cost that is
 coming through. Especially if you are familiar with accounting rules -- and believe me I got
@@ -1363,19 +1158,13 @@ FINAL
 But that is the two explanations. There is nothing more into those numbers other than
 those two things.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Got it. That is really helpful. Thank you.
 
 Operator
 There are no further questions at this time.
 
-A - Dinos Iordanou
-
-{BIO 2397727 <GO>}
-
+A - Dinos Iordanou {BIO 2397727 <GO>}
 Thank you for giving us the time and the opportunity. We are looking forward to seeing
 you and talking to you next quarter. Have a good afternoon.
 

@@ -38,10 +38,7 @@ Today's call is being recorded. (operator) And now, for opening remarks and
 introductions, you I would like to turn the call over to Helen Wilson, Investor Relations.
 Please go ahead.
 
-Helen Wilson
-
-{BIO 2078659 <GO>}
-
+Helen Wilson {BIO 2078659 <GO>}
 Thank you. Welcome to the ACE Limited March 31, 2013 First-Quarter Earnings
 Conference Call. Our report today will contain forward-looking statements. These include
 statements relating to Company performance, guidance, premium growth and product
@@ -68,9 +65,7 @@ take your questions. Also with us to assist with your questions are several memb
 Management Team.
 And now it's my pleasure to turn the call over to Evan.
 
-Evan Greenberg
-
-{BIO 1444445 <GO>}
+Evan Greenberg {BIO 1444445 <GO>}
 
 Bloomberg Transcript
 
@@ -177,10 +172,7 @@ FINAL
 
 With that, I'll turn the call over to Phil, and then we'll be back to take your questions.
 
-Phil Bancrof t
-
-{BIO 4621336 <GO>}
-
+Phil Bancrof t {BIO 4621336 <GO>}
 Thanks, Evan. Tangible book value grew 2.1% for the quarter, and our cash and invested
 assets grew $1.3 billion to $62.2 billion. Operating cash flow for the quarter was $913
 million. Net realized and unrealized gains for the quarter were $112 million after tax, and
@@ -239,10 +231,7 @@ we go forward. Of course, we will remain open and accessible to you when you hav
 questions or need clarifications.
 With that, I'll turn it over to Helen.
 
-Helen Wilson
-
-{BIO 2078659 <GO>}
-
+Helen Wilson {BIO 2078659 <GO>}
 Thank you. At this point, we'd be happy to take your questions, please.
 
 Questions And Answers
@@ -254,10 +243,7 @@ Thank you.
 (Operator Instructions)
 And we'll take our first question from Michael Nannizzi of Goldman Sachs.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Hi, thank you. I had just one question here, Evan, on the relationship between retention
 and rate gains. If I look at you guys over the last few quarters and some US peers, it looks
 like retention is for you much higher. The rate gains coming through seem to be a bit
@@ -265,17 +251,11 @@ lower. I'm just trying to understand, is there a relationship there that we shou
 understand, or is there something else that's somewhat obscuring that comparison? And
 just one followup, thanks.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 I think you're making a -- you're drawing a compare -- you're drawing two facts together
 that aren't directly linked.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay.
 
 Page 5 of 24
@@ -288,10 +268,7 @@ Date: 2013-04-23
 
 FINAL
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 There is not -- whatever we're achieving in rate gains is not driving our net retention
 increases or not. Our mix of business will drive it, number one. And secondly, in North
 America in the quarter, the gross is not up as much as the net is, and that drives it a little
@@ -300,63 +277,39 @@ reflected in the First Quarter. It's a timing question. That drives a little bit
 overall, I don't see that rate change and net retention, except on the margin, are linked
 together.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 I might have -- I should have been a little bit clearer. You mentioned account retention was
 89% and retention in North America was 96%. Is that net retention, or are you talking
 about account?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Oh, no, that's retention of business. That's retention of business, and that is directly
 related, sure.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay.
 
 Bloomberg Transcript
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 More business -- number one, you see growth in new business, and retention, more
 business is priced at a place that will earn a reasonable return to us, and we're retaining it,
 and the market is more disciplined in competing for it.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. And then just one follow-up. As far as if we were to look at old-fashioned primary
 agent-placed business or the more broker-involved primary excess markets, is there a
 difference in terms of whether the competitiveness or the rate that you're able to take on
 in either of those markets, specifically about North American P&C?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 You mean is there a difference between the broker market and the agent market?
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Just in terms of the -- is there a differential in terms of your ability to extract rate gains?
 Obviously the markets are very different. That's not my question.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Yes, it really -- I think it's by size of account, type of account, and type of coverage that's
 being purchased where you're going to see more variability than it is necessarily related
 to the distribution.
@@ -368,10 +321,7 @@ Company N ame: Chubb Arabia Cooperative I nsurance Co
 Company Ticker: ACE AB Equity
 Date: 2013-04-23
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Fair enough. Thank you, very much.
 
 Operator
@@ -380,20 +330,14 @@ FINAL
 
 And we'll take our next question from Mike Zaremski of Credit Suisse.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Hi. Good morning. Thank you. First, in regards to margins, so if I strip out the one-time
 expense ratio benefit, I'm seeing accident year ex-cat loss ratio and expense ratio
 improvement of over 100 basis points year over year on a combined basis. So I'm curious
 if there are any one-time items such as maybe benign non-cat weather which we should
 take into consideration when thinking about a run rate?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 No, it's 200 points -- basis points better, and when you take out the one-time items and
 you strip out cats and prior period, so the current accident year on that 200-basis-point
 improvement was the mix of business that we had in the quarter that earned its way in,
@@ -402,10 +346,7 @@ geography related.
 
 Bloomberg Transcript
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay. Got it. And then lastly, Evan, I appreciate the comments in the annual report
 addressing your thoughts on the tradeoff between acquisitions versus share repurchases.
 You point out the IRR on acquisitions has been 17% versus 11% versus buying back shares,
@@ -414,27 +355,18 @@ ACE has been operating with a material level of excess capital for quite a while
 I'm thinking about this correctly, wouldn't it have been better if ACE had been employing
 a dual M&A and repurchase strategy over the recent years?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 I don't think so. When I look at our ROE of over the period of time, frankly our ROE was
 excellent. There's no such thing as just-in-time capital management, as we say, and
 opportunity, you can't -- it's opportunistic by its nature, opportunity. And so it comes at
 times in a lumpy way, and so part of strategy is being ready for what you don't know,
 good and bad.
 
-Q - Mike Zaremski
-
-{BIO 20606248 <GO>}
-
+Q - Mike Zaremski {BIO 20606248 <GO>}
 Okay. That's fair. And would you be able to give us an update on what you think if there is
 an ROE drag from excess capital currently? Thank you.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Sure. You're welcome. On an ROE drag, I don't have an exact number in my head. The last
 time we were about 1.7 points on the ROE. Right now, I think we're bouncing around 1.5
 Page 7 of 24
@@ -447,9 +379,7 @@ Date: 2013-04-23
 
 points.
 
-A - Phil Bancrof t
-
-{BIO 4621336 <GO>}
+A - Phil Bancrof t {BIO 4621336 <GO>}
 
 FINAL
 
@@ -458,19 +388,14 @@ FINAL
 Operator
 And we'll take our next question from Jay Gelb of Barclays.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Good morning. Just wanted -- how are you? I just wanted to touch base first on the share
 buyback, the $154 million in the quarter. It's really the first time ACE has bought back stock
 in meaningful size since 2011. My sense is it's related to Management compensation, but
 just wanted you to clarify that and also get a sense of what we should expect on that
 going forward.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan Greenberg {BIO 1444445 <GO>}
 
 Bloomberg Transcript
 
@@ -481,19 +406,13 @@ that's why we did it. As we go forward, we will periodically come into the marke
 back shares when we think it's attractive, but we don't have a set plan and a set amount
 that we're going to do on any quarterly basis.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Understood. Okay. And then on the underlying combined ratio, based on going back in my
 model, it looks like this is the best overall underlying combined ratio for ACE in four years.
 My sense is, as you touched on previously, business mix shift is having an effect on that.
 Can you discuss that in a bit more detail?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Yes. And then I'm going to -- I might ask one of my colleagues to also pitch in. We've
 talked to you a long time about portfolio management, and as we have really worked on
 it for quite a long time and we think in advance of others, we were really taking action,
@@ -507,9 +426,7 @@ or higher rates. And so our selection becomes better, more insightful, and the b
 we're writing is, therefore, producing a better margin within -- and that's where we're
 getting the growth. More of our growth is coming from the higher-margin business.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
+Q - Jay Gelb {BIO 21247396 <GO>}
 Page 8 of 24
 
 
@@ -520,19 +437,14 @@ Date: 2013-04-23
 
 Was there anything to add on that or can I --
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan Greenberg {BIO 1444445 <GO>}
 
 FINAL
 
 I'll ask John Lupica if he's -- he's out at RIMS, and so it's very early for him, but I'll see if he
 wants to embellish on that.
 
-A - John Lupica
-
-{BIO 4213297 <GO>}
-
+A - John Lupica {BIO 4213297 <GO>}
 Hi. Good morning, Jay. And just to support the comments that Evan had made, it certainly
 is showing itself in North America. When I say it, the portfolio management strategy,
 margin strategy over the last several years. We really have focused on ensuring that we
@@ -543,24 +455,16 @@ business, really has helped us on not only mix, but on the earned basis as the g
 come in the right spots. It really has been our targeted strategy over the last year, and it's
 really shown itself in a better current accident year number this year.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Thanks, John, appreciate that.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan Greenberg {BIO 1444445 <GO>}
 
 Bloomberg Transcript
 
 John Keogh, you want to add anything?
 
-A - John Keogh
-
-{BIO 2104739 <GO>}
-
+A - John Keogh {BIO 2104739 <GO>}
 No, I -- that same approach we've been taking internationally as well and implementing
 portfolio management in our markets abroad, and you look at the current accident results
 for our international business and the improvement year over year. There, too, we're
@@ -573,18 +477,12 @@ lines of that business just wasn't meeting our underwriting threshold and have b
 shutting that business, and as that business runs off, you've seen improvement in our
 current accident years on our wholesale business as well.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Excellent. Thanks. And then just a last one on North American agriculture. First, thanks for
 breaking that out. The premium volume for 2013 versus 2012, I know it's early to
 determine how that will shake out, but any initial thoughts?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Yes, it will -- it is early. It'll be lower. It'll be lower by a $200 million. It's both a combination
 of commodity price driven, because that's what goes into the base of determining
 Page 9 of 24
@@ -598,42 +496,26 @@ Date: 2013-04-23
 premium performer per crop, and we bought around -- we brought a modest amount of
 quota share reinsurance, and that will impact the net premium as well.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
+Q - Jay Gelb {BIO 21247396 <GO>}
 
 FINAL
 
 So a few hundred million dollars less --
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 With very little impact to our projected earnings.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 So a few hundred million dollars less on gross and net, or more of an impact on net since
 there's more --
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 More of an impact on net, and the number I'm speaking about is net.
 
-Q - Jay Gelb
-
-{BIO 21247396 <GO>}
-
+Q - Jay Gelb {BIO 21247396 <GO>}
 Thanks very much.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan Greenberg {BIO 1444445 <GO>}
 
 Bloomberg Transcript
 
@@ -642,18 +524,12 @@ You're welcome.
 Operator
 And we'll take our next question from Greg Locraft of Morgan Stanley.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Hi. Good morning. Great start to the year. Just wanted to ask -- or get color on the
 international pricing environment. One of the things I'm wrestling with is just why it's
 lagging North America so much. And your data is similar to what we're seeing marketwide.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 It's very curious to me to a degree. I haven't seen a global market behave this way
 before, but every period is different. In the US, with investment income pressure and
 combined ratios rising, there's more ROE -- the insurers respond to ROE pressure and
@@ -681,17 +557,12 @@ seeing the same reaction to a lower interest rate environment of greater underwr
 discipline. And that's -- it's as simple as that, and they're maintaining and more market
 share driven.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Okay. Is it actually -- is the ROE internationally just higher as a starting point and therefore,
 in a way, the US has to come up more, or is it maybe, as you're alluding to, that the
 competitive landscape internationally, competitors are willing to accept a lower ROE?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan Greenberg {BIO 1444445 <GO>}
 
 Bloomberg Transcript
 
@@ -704,22 +575,13 @@ really know what you're doing, and when you look at market returns in those terr
 ROEs on underwriting results are not that much better, and in some markets they're
 worse.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Okay.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 And then investment income -- investment income can vary, portfolio rates, by territory.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Right. Okay. Last from me is just I think that taking away the guidance beginning of next
 year, I think it's going to make all our lives a lot easier just given the nature of how you all
 have done it. Maybe it's a good time, then, to just revisit how you think about ROE. Right
@@ -727,10 +589,7 @@ now, rates are low. You're doing a low double digits. If rates were to go up -- 
 you think about the ROE goal, and then what's the sensitivity of that to rates improving
 from here? And I'm talking interest rates, not pricing.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Understood. We're -- we have not changed our objective and target, which is a 15% ROE
 over cycle. That is exactly where we are, whether it is pricing or interest rate cycle, our
 governor is always to earn on the underwriting side a combined ratio in lines of business
@@ -755,46 +614,28 @@ us, and -- as things stand at the moment, and so if interest rates were up anoth
 get it. If they were up 100 or 200 basis points, we're behind -- we're ahead of that 15%
 number.
 
-Q - Greg Locraf t
-
-{BIO 4221265 <GO>}
-
+Q - Greg Locraf t {BIO 4221265 <GO>}
 Excellent. Thanks. And good start to the year.
 
 Operator
 And we'll take our next he question from Vinay Misquith of Evercore Partners.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Good morning, Vinay.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Hi. Good morning. The first question is on the gap between large commercial and small
 commercial. Would you say that that's starting to narrow now?
 
 Bloomberg Transcript
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 The gap in what? I'm sorry, in pricing?
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Pricing, sorry, yes, yes, pricing.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Well, you know-- I'm not sure that you're seeing it the same as we're seeing it. I think you
 have to think more of a byline-of-business basis. The greatest rate increases through '12,
 and then when you look at '13 First Quarter, the greatest rate increases come in workers'
@@ -807,10 +648,7 @@ which given the rate on rate that you've seen for a while on property, is not ir
 me. So that's maybe more how I see it than simply a large account, small account
 construction. Make sense to you?
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Yes. Just because the large surveys out there show that small commercial pricing seems
 to be stronger than large commercial -- than large commercial, so I'm just trying to square
 Page 12 of 24
@@ -823,9 +661,7 @@ Date: 2013-04-23
 
 that.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan Greenberg {BIO 1444445 <GO>}
 
 FINAL
 
@@ -833,19 +669,13 @@ Right, and you have to -- and I'm trying to give you the reasons to look behind 
 understand what's driving it. And I think that's the -- at least in my judgment, those are the
 -- those are more the markers to look at.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. That's fair. The second question is on the insurance North American side. Your net
 premiums are up 9%. That's great. The gross premiums were roughly flat. Just curious
 why that's happening, and if you're seeing price improvement, how are you changing your
 reinsurance purchases to grow the net premiums.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Yes, reinsurance purchases on the margin, the change in reinsurance purchase, the net
 grows faster than the gross for two reasons. One, as I mentioned, there was a quite a
 large transaction that it's a timing question that'll get booked in the Second Quarter,
@@ -856,33 +686,21 @@ they are attractive classes to us. Our reinsurance purchases changed on the marg
 
 Bloomberg Transcript
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. That's helpful. And then one last thing, if I may. Just on the ag reinsurance, you said
 you bought some more pro rata reinsurance, but you said the impact on the bottom line
 would be negligible. So would that be because you had better pricing in terms and
 conditions?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 The protection that we purchased, the additional protection from a balance of exposure
 and terms, we consider to be favorable -- a favorable buy for ACE, and that's why we
 executed the transaction.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. Thank you.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 You're welcome, Vinay.
 
 Operator
@@ -896,61 +714,38 @@ Company N ame: Chubb Arabia Cooperative I nsurance Co
 Company Ticker: ACE AB Equity
 Date: 2013-04-23
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes. Good morning. Couple questions here for you, Evan. One, could you talk a little about
 loss trend and what's happening with loss trend, and how much is that contributing to the
 improvement in the underlying combineds, particularly North America?
 
 FINAL
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 I'm going to ask John to talk about loss trend. But more mix of business in growth and
 earned premium contributed to the increase in underwriting income, and to margin, more
 of the mix to lines of business and within lines, cohorts, that had a better combined profile
 than it is that we actually cohort by cohort lowered our pegs materially at all.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Are those lines shorter tail lines?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 No, no, short and long, both.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Okay.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan Greenberg {BIO 1444445 <GO>}
 
 Bloomberg Transcript
 
 Want to hear about overall loss, then?
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes, please. Sorry.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 John.
 
 A - Unidentified Speaker
@@ -964,9 +759,7 @@ inflation has been relatively benign and loss trend has been relatively benign, 
 relatively conservative in (inaudible) or pegs, particularly for the higher excess casualty
 line.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
+Q - Brian Meredith {BIO 3108204 <GO>}
 
 Page 14 of 24
 
@@ -984,10 +777,7 @@ America? Do you think your returns and allocated capital in that business are ac
 right now given the current interest rate environment, and is that why we're not seeing
 any more acceleration in the rate activity there?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Well, acceptable. The current accident year is hardly running a 15% ROE, and that's where
 I'd like to see us, somewhere between that, maybe a little less than that would be rational
 given interest rates. But I think that the ROE is still a little under pressure, but the
@@ -1007,39 +797,24 @@ industry in aggregate to, at these levels of increase of rate, to ameliorate the
 investment income declines. So I think you're in a place for the industry overall where ROE
 may improve a little bit but it's hardly double-digit.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Thank you.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
 Operator
 And we'll take our next question from Paul Newsome of Sandler O'Neill.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 Good morning, and thank you. One quick one and then a follow-up. The increased use of
 proportional reinsurance on the agricultural business, did that have an impact on the
 underwriting results as well as the premium line?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 No. It did not.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 So the decline in underwriting was the real decline. There wasn't any -Page 15 of 24
 
 
@@ -1048,9 +823,7 @@ Company N ame: Chubb Arabia Cooperative I nsurance Co
 Company Ticker: ACE AB Equity
 Date: 2013-04-23
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan Greenberg {BIO 1444445 <GO>}
 
 FINAL
 
@@ -1059,23 +832,14 @@ No, the decline in underwriting -- sorry, Paul. Last year in the First Quarter y
 year in the First Quarter produced that very good income last year. This year, the true-up
 in the First Quarter from the '12 crop year is the result you see.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 Okay. Great.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 You're not getting benefit of -- you're not seeing like winter wheat or corn or soybeans
 from this year yet. That's all in front of you.
 
-Q - Paul Newsome
-
-{BIO 1541286 <GO>}
-
+Q - Paul Newsome {BIO 1541286 <GO>}
 Right. And then a bigger picture question. There's been a lot of talk this last quarter or so
 about the reinsurance business being heavily impacted by the capital markets, and it
 didn't seem to impact your business any more, but do you have any general thoughts as
@@ -1083,10 +847,7 @@ to if that's going to impact your business in the future?
 
 Bloomberg Transcript
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Look, we're of the market, too, but we're highly rated. We don't write and outsized cat
 book as you know. We are highly rated. We have years of reputation and experience in the
 business and with clients and [ph], so I see a direct impact in terms of crowding us out of
@@ -1095,31 +856,19 @@ environment, and whether that means that we'll find business -- more business
 unacceptably priced or not in the future, we'll see as we go forward in the year. Right now,
 I see it more on the margin.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Terrific. Thank you, very much.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
 Operator
 And we turn next to Jay Cohen of Bank of America-Merrill Lynch.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Good morning, Jay.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Page 16 of 24
 
 
@@ -1134,10 +883,7 @@ what's behind that.
 
 FINAL
 
-A - Phil Bancrof t
-
-{BIO 4621336 <GO>}
-
+A - Phil Bancrof t {BIO 4621336 <GO>}
 Well, first, the debt was issued in the last two weeks of March, so we had very little debt
 expense relating to that in the quarter. We also had a reduction in some of the collateral
 that we hold and pay interest on with respect to our fund-to-deductible programs, so that
@@ -1145,55 +891,38 @@ dropped the interest a little bit. And then we had a deposit insurance contract 
 adjustment to interest and lowered interest expense a bit. So net-net, it was down a little
 bit.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Should we look at the Fourth Quarter as more of a normal run rate, ex the new debt you
 issued?
 
-A - Phil Bancrof t
-
-{BIO 4621336 <GO>}
-
+A - Phil Bancrof t {BIO 4621336 <GO>}
 I would say the Fourth Quarter plus the new debt that was issued, offset, of course, by the
 investment income on the proceeds for the debt that we've retained to repay the debt,
 redeem the debt when it comes due in '14 and '15.
 
 Bloomberg Transcript
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Exactly. Okay. The second question, it's very helpful that you broke out the agriculturalrelated business. I'm just looking at some of the numbers that you showed for last year,
 and just from a modeling standpoint, can you give us any sense what administrative and
 acquisition expenses look like because the numbers on the administrative side were
 negative last year, and the acquisition side, they kind of go all over the place. Any sort of
 rough guidance you can give?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 I'm going to let Brian talk about it. But good luck figuring that out precisely because you
 have a couple of things going. You have a government reimbursement of expense and
 the timing of that, and then a lot of the profit and loss true-ups and formula, at the end of
 the day, whether it's government or agents or any of that stuff, it comes through that line.
 And Brian, do you want to --
 
-A - Brian Dowd
-
-{BIO 4210015 <GO>}
-
+A - Brian Dowd {BIO 4210015 <GO>}
 The only thing I would say is a negative expense ratio isn't normal. It was a function of the
 year, crop year and calendar years coming together with a big profit from the '11 year. So
 don't think of normal run rate as a negative expense rate. Our normal run rate is a modest
 positive expense cost, both administrative and acquisition.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
+Q - Jay Cohen {BIO 1498813 <GO>}
 
 Page 17 of 24
 
@@ -1206,74 +935,46 @@ Date: 2013-04-23
 Got it. I guess as time goes on, we'll see a more hopefully normal run rate, assuming the
 weather doesn't get too crazy.
 
-A - Brian Dowd
-
-{BIO 4210015 <GO>}
+A - Brian Dowd {BIO 4210015 <GO>}
 
 FINAL
 
 Yes.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 You got it.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Okay, thanks.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 But remember, abnormal could actually be a very good thing for us, too.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 True.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan Greenberg {BIO 1444445 <GO>}
 
 Bloomberg Transcript
 
 [ph]
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Good point. Thanks a lot.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
 Operator
 We'll take our next question from Josh Shanker of Deutsche Bank.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Yes. Thank you. I was wondering if you have any thoughts regarding the balance sheet
 and strong dollar economics or a bear market for bonds and whether it you affects your
 business, how you write it, whether you'd be buying any hedges to protect from that,
 realizing capital gains, whatnot?
 
-A - Phil Bancrof t
-
-{BIO 4621336 <GO>}
-
+A - Phil Bancrof t {BIO 4621336 <GO>}
 We wouldn't expect to do that. We've said for a long time that we take our risk on the
 liability side and we've got a conservative investment portfolio. We don't expect to take
 
@@ -1290,37 +991,23 @@ portfolio, but we don't see any significant changes to our investment profile.
 
 FINAL
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Let me just add this to what you just asked, and that is that it's a buy-and-hold portfolio
 mostly. So any accretion that comes in the beginning from a realized gain -- an unrealized
 gain or the other way, an unrealized loss will amortize its way over a couple years. So it's
 an accounting versus an economic, and we don't hedge that.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 And in terms of the currency, does a strong dollar change your view of the ROE of
 business written in non-US domiciles?
 
-A - Phil Bancrof t
-
-{BIO 4621336 <GO>}
-
+A - Phil Bancrof t {BIO 4621336 <GO>}
 No, assets and liabilities are matched.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Okay. Thank you, very much.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan Greenberg {BIO 1444445 <GO>}
 
 Bloomberg Transcript
 
@@ -1329,18 +1016,12 @@ You're welcome.
 Operator
 And we'll take our next question from Thomas Mitchell of Miller Tabak.
 
-Q - Thomas Mitchell
-
-{BIO 22121384 <GO>}
-
+Q - Thomas Mitchell {BIO 22121384 <GO>}
 Just two short questions. The first is, does the incident that took place in Boston last week
 drive any change in the dynamics of underwriting the kinds of risks that are associated
 with events like that?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 No, it does not. We measure terrorism-related risk, man-made events no differently than
 natural events. We are thoughtful about aggregations. We're thoughtful about pricing and
 the kinds of exposures. This is a risk that is real, and what an unfortunate event, and it just
@@ -1360,9 +1041,7 @@ Company N ame: Chubb Arabia Cooperative I nsurance Co
 Company Ticker: ACE AB Equity
 Date: 2013-04-23
 
-Q - Thomas Mitchell
-
-{BIO 22121384 <GO>}
+Q - Thomas Mitchell {BIO 22121384 <GO>}
 
 FINAL
 
@@ -1372,10 +1051,7 @@ Congress to reduce the amount of reinsurance available from the federal crop ins
 program, and I'm wondering if that were to take place, whether it would be more of an
 opportunity or make the business less attractive for you.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Well, Tom, from what I've looked at, the government -- the budget for the most part has
 been talking about -- that was put on the table -- and by the way, isn't really different than
 the proposal the administration put on the table last year, which didn't gain any traction in
@@ -1387,36 +1063,24 @@ expense. Those are the two main -- those are really the two main elements in the
 administration's proposal that, again, didn't gain a lot of traction with either party in
 Congress.
 
-Q - Thomas Mitchell
-
-{BIO 22121384 <GO>}
-
+Q - Thomas Mitchell {BIO 22121384 <GO>}
 That's good. Great. Thank you, very much.
 
 Bloomberg Transcript
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
 Operator
 And we'll take our next question from Charles Sebaski of BMO Capital Markets.
 
-Q - Charles Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Sebaski {BIO 17349221 <GO>}
 Good morning. Thank you for taking my question. Had a question about the growth and
 strategy perspective. I was wondering if you're seeing any regions or countries that you
 think at this time are particularly attractive from a growth or regulatory perspective for
 next moves for you guys?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Well, you see the growth -- well, I don't want to get too specific. You see our growth in
 Asia and Latin America in particular, those regions. That's where we see the most
 attractive environments from both an economic and an underwriting point of view across
@@ -1440,64 +1104,40 @@ particular, and we view that as a quite attractive country today, and what we se
 government's actions in Mexico to improve economic growth and regulation, will have -should have a great benefit to the insurance marketplace in that country, and ACE has
 now positioned itself quite well to take advantage of that.
 
-Q - Charles Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Sebaski {BIO 17349221 <GO>}
 With that leadership position that you're going to have in personal lines business in
 Mexico, is there any intent or thought about expanding the personal lines business
 outside of that country?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 It already is. We already have presence in a number of countries in Latin America in
 personal lines, and that is a -- that is a focus of ours, though you have to be -- that's a glib
 statement. You have to be very careful. It's country by country, and it's kind of personal
 lines varies by country.
 
-Q - Charles Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Sebaski {BIO 17349221 <GO>}
 Any US personal lines interest?
 
 Bloomberg Transcript
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 We're already in the US personal lines business, in the high-net-worth market, which our
 profile as a Company is -- fits that segment of the market, and that's where we will
 remain.
 
-Q - Charles Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Sebaski {BIO 17349221 <GO>}
 Okay. Great. I appreciate your time.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 You're welcome.
 
-A - Helen Wilson
-
-{BIO 2078659 <GO>}
-
+A - Helen Wilson {BIO 2078659 <GO>}
 Next question, please.
 
 Operator
 And we'll take our next question from Ian Gutterman of Adage capital.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Hi, thanks. I had a couple follow ups. But first, just on the life insurance business, it seems
 that the results were a little weaker than -- at least weaker than they have been. They
 
@@ -1514,10 +1154,7 @@ the VA runoff ? Is there FX? Or is there some pressure on the ongoing businesses
 
 FINAL
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Yes, Ian, there were two items this quarter that don't really bode towards trend. Last year,
 we had some one-time items in the life insurance business internationally that was a
 benefit that didn't repeat this year. And secondly, combined is in two places. Combined
@@ -1530,10 +1167,7 @@ Those two together is most of it. The underlying trend that does continue quarte
 quarter is a decrease in the VA exposure as that runs off. That was a modest amount of
 the income difference this quarter.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Got it. Perfect. And then just a follow-up on Paul's question on alternative cat capacity. I
 was actually thinking about it from the other side, which is as a buyer of reinsurance, it
 would seem, to the extent that it's getting cheaper than traditional paper. Is that an
@@ -1542,10 +1176,7 @@ traditional paper?
 
 Bloomberg Transcript
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Well, you've got to be careful about it. First of all, is it on an indemnity basis, or is it on a
 parametric basis, and so are you getting the same protection? When it's collateralized,
 that's not a bad thing because you're holding the money; you're not chasing it. And -- but
@@ -1556,24 +1187,15 @@ reinstatement. So there are differences. And so it's one shot and you're done, a
 that fits within your program, it has an important place, but it doesn't simply replace
 traditional reinsurance.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Got it. And then just my last one, I think it was Tom's question about TRIA. I think before
 last week, it seemed like that was facing long odds of renewal. Do you have any changed
 expectation, or is it too early to tell?
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 I didn't subscribe. I haven't subscribed to that it has long odds of renewal.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Okay.
 
 Page 22 of 24
@@ -1584,9 +1206,7 @@ Company N ame: Chubb Arabia Cooperative I nsurance Co
 Company Ticker: ACE AB Equity
 Date: 2013-04-23
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
+A - Evan Greenberg {BIO 1444445 <GO>}
 
 FINAL
 
@@ -1596,18 +1216,12 @@ renew. It provides a backstop of certainty that allows businesses to continue on
 benefit to the insurance industry. It's a benefit to business overall because if there wasn't
 TRIA, you wouldn't see much terrorism insurance sold.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Got it. That's was going to be my follow-up is to what extent we might see disruption a
 year from now if this thing ends up being like flood insurance where it always gets
 extended six months after it should get done.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Well, what you'd see -- look, and I hate to forecast, but the rational response would be
 you'll only take risk to the extent you're comfortable with the net exposure on your
 balance sheet or the limited amount of reinsurance you can buy in the traditional
@@ -1615,24 +1229,16 @@ reinsurance market, and that'll be based on what they're comfortable just simply
 on their balance sheet. And that tail grows very quickly when you think of concentrations
 of economic exposure in a geographic area.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
+Q - Ian Gutterman {BIO 3106649 <GO>}
 
 Bloomberg Transcript
 
 Understood. Thanks. Appreciate the answer. I'll let you guys wrap up.
 
-A - Evan Greenberg
-
-{BIO 1444445 <GO>}
-
+A - Evan Greenberg {BIO 1444445 <GO>}
 Thank you.
 
-A - Helen Wilson
-
-{BIO 2078659 <GO>}
-
+A - Helen Wilson {BIO 2078659 <GO>}
 That's all the time we have this morning. So thank you, everyone, for joining us, and we
 look forward to speaking with you again at the end of next quarter. Thank you, and good
 day.

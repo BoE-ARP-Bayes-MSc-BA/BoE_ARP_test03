@@ -27,10 +27,7 @@ Good morning or good afternoon. Welcome to Swiss Re's Annual Results 2020
 Conference Call. Please note that today's conference call is being recorded. At this time, I
 would like to turn the conference over to John Dacey, CFO. Please go ahead.
 
-John Dacey
-
-{BIO 4437051 <GO>}
-
+John Dacey {BIO 4437051 <GO>}
 Thank you. Good afternoon or good morning to those of you calling in from the Americas.
 Welcome to today's Q&A call.
 Joining me from Swiss Re are Philip Long, our Chief Actuary; and Thomas Bohun, the
@@ -159,10 +156,7 @@ ahead.
 
 FINAL
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi, there. I just wanted to explore a bit more the confidence you're stating that you
 believe your reserve buffers have gone up and you mentioned the higher IBNR. I mean, if I
 look at the stock of IBNR and calculated out, I mean, I have gone up about $1.9 billion, but
@@ -177,10 +171,7 @@ EVM roll forward. I'm just a bit confused, what exactly happened with the capita
 the life business that was that significant negative? And I presume that means there will
 be a bigger unwind of capital costs in future years. Thanks.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Thank you, Andrew. Philip, would you like to take the first question around reserving?
 
 Bloomberg Transcript
@@ -247,10 +238,7 @@ So that's all I have to say. Thomas?
 A - Thomas Bohun
 Thank you, Phil.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Phil, that's a lot, I think. And I'm pretty sure that you answered Andrew's first question on
 multiple dimensions. On the second question, Andrew, your instinct is exactly right. The -there's a higher capital cost on the 2020 bookings of the new business of $1 billion. We
 would expect that to unwind. It reflects a combination of where the rates were, but also
@@ -271,9 +259,7 @@ Company N ame: Swiss Re AG
 Company Ticker: SREN SW Equity
 Date: 2021-03-18
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 FINAL
 
@@ -296,10 +282,7 @@ any comments on life new business would be great? Thank you.
 
 Bloomberg Transcript
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Vinit, why don't I try to answer both those, and Philip might want to come in subsequently
 on the U.S. liability after that. But our view is that social inflation continues to be a material
 force and what would be a higher cost of claim settlements in the United States. There
@@ -338,10 +321,7 @@ FINAL
 A - Thomas Bohun
 Thank you, Vinit. Could we have the next question, please?
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Maybe before, Philip, did you want to add anything to the first part on U.S. liability
 inflation?
 
@@ -363,10 +343,7 @@ Thank you, Philip. Could we have the next question, please?
 Operator
 The next question comes from the line of Iain Pearce with Credit Suisse. Please go ahead.
 
-Q - Iain Pearce
-
-{BIO 19522835 <GO>}
-
+Q - Iain Pearce {BIO 19522835 <GO>}
 Hi. Thanks for taking my questions. Just following up on the liability book. I'm looking at the
 ultimate loss ratio for 2020, you booked that at 95%. Obviously, you're sounding quite
 cautious on sort of continued social inflation trends. So I'm just wondering, with the reunderwriting actions that you're taking in line exits, do you expect that ultimate loss ratio
@@ -390,10 +367,7 @@ Date: 2021-03-18
 
 FINAL
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Sure, Iain. Let me try both of those. With respect to the casualty portfolio, we've showed a
 month ago that we had actually shrunk materially on the January 1 renewals 17% in spite of
 material price increases on casualty and the reduction was especially strong with respect
@@ -437,10 +411,7 @@ Thank you, Iain. Could we have the next question, please?
 Operator
 The next question comes from the line of James Shuck with Citi. Please go ahead.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Page 8 of 14
 
 
@@ -476,10 +447,7 @@ Yes. I'm trying to kind of -- specialty includes aviation and marine. And I thin
 particularly large aviation loss, which hit us. So that's an issue. And some of the nat cats
 also will hit the specialty line in terms of the marine lines. We have had some large manmade losses also. So we've just had a couple of years where certain nat cats and manmade losses have hit us harder than normal for specialty.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 And I was going to say, the large aviation loss probably explains most of what you've seen
 here on that, James. With respect to the frequency benefits, the -- we take some comfort
 from the fourth quarter reporting of the primary industry on their experience as they
@@ -511,10 +479,7 @@ with HSBC. Please go ahead.
 
 FINAL
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes, good afternoon. One question related to your liquidity or cash buffer, which you
 quantified at $4 billion. I'm a bit surprised by this number because computing your cash
 buffer from the full year '20 account and using the numbers you presented a couple of
@@ -528,10 +493,7 @@ regarding potential direct or indirect exposure to greenfield defaulting? Thank 
 
 Bloomberg Transcript
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Sorry, I took my mic on. So I think it's Page 23 that you're referring to with respect to the
 liquid funds. I think this would have been coherent with the guidance that we had a month
 ago. The -- obviously, the -- these funds are net of the dividend that's being paid next
@@ -598,20 +560,14 @@ Operator
 The next question comes from the line of Vikram Gandhi with Societe Generale. Please go
 ahead.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hi, good afternoon. Good morning, everybody. Just one question from my side and that's
 on life and health business. Given your guidance about some potential noise on the U.S.
 life business expected in the next couple of years, and that's the USP of the business. I
 wonder how should we think about the position in EVM. I believe it's already accounted
 for, but would be great if you can confirm that?
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Vikram, yes, your assumption is correct. We've -- when we made some major changes
 and adjustments in the portfolio, I think, in 2013, '14, we've already made some moves as
 we felt appropriate in EVM. And while we've done some true-up over the years, it's
@@ -637,10 +593,7 @@ FINAL
 
 The next question is a follow up from Mr.Ritchie with Autonomous. Please go ahead.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi, there. Sorry, it's me again. Simple questions, I think. Well, actually not simple, but not
 that controversial. The volatility impact for -- on SST was significant. I mean, it's significant
 because even though some market factors improved in the second half, you still had
@@ -654,10 +607,7 @@ reflecting the latest portfolio shift as at 1/1 or is that more historic?
 
 Bloomberg Transcript
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 So Andrew, on your first question, it's a -- you're essentially asking when volatility reverts
 to the mean, when does the SST volatility charge drop out or actually reverse as well. I
 think we don't have a good answer for that to share today. If we do ahead of the midyear
@@ -699,10 +649,7 @@ And the second question is, are you going to get a new Chairman at the AGM and i
 almost feels like a monarchy is ending. I'm just wondering, in your personal view, what do
 you think the new chairman will change? Thank you.
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 So, Simon, on the first question, your understanding is correct that IFRS 17 is likely to bring
 a much more economic view to the reporting that we will do for our accounting standards
 than U.S. GAAP does. I think it's premature to assume that EVM is a good proxy for it.
@@ -727,10 +674,7 @@ Thank you, Simon. Could we take the next question, please?
 Operator
 The next question is a follow up from Mr.Malhotra with Mediobanca. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes. Thank you for a quick opportunity. Just going back to the annual report P&C
 Reinsurance section of the outlook says, the upcoming renewals will show further market
 hardening with decreasing momentum due to increasing competitive environment. Do
@@ -750,10 +694,7 @@ Date: 2021-03-18
 
 FINAL
 
-A - John Dacey
-
-{BIO 4437051 <GO>}
-
+A - John Dacey {BIO 4437051 <GO>}
 Vinit, I don't think we've got a more pessimistic view. I think we've suggested that on U.S.
 casualty, we may be more cautious than some players in the marketplace. I think on
 property, we continue to see the primary market making important price improvements a

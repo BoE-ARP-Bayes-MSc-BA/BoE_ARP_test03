@@ -33,10 +33,7 @@ ask a question after the presentation. (Operator Instructions).
 At this time, I would now like to hand the call or to Mr.Olivier Armengaud. Please go
 ahead, Sir.
 
-Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+Olivier Armengaud {BIO 20892984 <GO>}
 Good afternoon and welcome to SCOR Q1 2020 results call. My name is Olivier
 Armengaud, Senior Manager of Investor Relations team, and I'm joined on the call today
 by Denis Kessler, Chairman and CEO of SCOR; and the entire Executive Committee. Can I
@@ -55,10 +52,7 @@ Date: 2021-04-28
 
 FINAL
 
-Ian Kelly
-
-{BIO 19976646 <GO>}
-
+Ian Kelly {BIO 19976646 <GO>}
 Thank you, Olivier, and welcome everybody to the call today. Let's start on Slide 4. In a
 quarter marked by the continued expected development of COVID-19, and an extreme
 and severe winter storm in the U.S., SCOR clearly demonstrates once again its resilience
@@ -144,10 +138,7 @@ cash flow from operations exceeding EUR0.5 billion during the quarter, resulting
 strong liquidity position of EUR3.3 billion.
 With that, I will hand back to Olivier, and we can go to the Q&A session. Thank you.
 
-Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+Olivier Armengaud {BIO 20892984 <GO>}
 Thank you very much, Ian. On Page 21, you will find the forthcoming schedule event. And
 with that, we can move to the Q&A station. Can I please remind you to limit yourself to
 two questions each. Thank you.
@@ -169,10 +160,7 @@ FINAL
 (Operator Instructions) Our first question is coming from Vikram Gandhi from Societe
 Generale. Please go ahead, your line is open.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hi. Hello, everybody. It's Vik from SocGen. Hope all of you are doing fine. I've got a couple
 of questions. First one is on the Solvency II ratio. I acknowledge that 232% is quite strong,
 however, when I use the latest sensitivities and then overlay the fact that the Group has
@@ -183,18 +171,13 @@ drop of about EUR20 million quarter-over-quarter. I appreciate the Group were si
 more liquidity about EUR1.3 billion, but even considering that the drop seems to be a bit
 too high. Can you shed some light on what is driving this? Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
+A - Olivier Armengaud {BIO 20892984 <GO>}
 
 Bloomberg Transcript
 
 Frieder, on the first question.
 
-A - Frieder Knupling
-
-{BIO 17247809 <GO>}
-
+A - Frieder Knupling {BIO 17247809 <GO>}
 Yeah. Thank you and hello everybody. As Ian said, most significant drive of the increase in
 solvency ratio was the increase in yields, U.S. yield. So this accounted for the bulk of the
 upwards movement, there was also positive capital generation broadly in line with the
@@ -204,10 +187,7 @@ accrued for a quarter of regular dividend in line with previous practice, but th
 other significant movements beyond this and only very marginal impact from COVID
 during the quarter.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Frieder. Francois.
 
 Operator
@@ -244,10 +224,7 @@ significant increase during the quarter of the investment yield to 1.6% compared
 December. So you should expect in the second part of the year rebound and an increase
 of the income yield again.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you next question, please.
 
 Operator
@@ -257,10 +234,7 @@ Bloomberg Transcript
 Our next question is coming from Kamran Hossain from Royal Bank of Canada. Please go
 ahead.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hey, good afternoon. Two questions, first was just on the, I guess, the underlying
 combined ratio, it looks like it is surprisingly strong, I guess, relative to your guidance for
 the year. How much of that 91.4% should we bank? And how much is simply kind of good
@@ -270,10 +244,7 @@ quarter for, I guess, everyone and yeah the U.S. everywhere. What's ex-COVID mor
 look like? So if you give any examples or kind of ideas around that that'd be exceptionally
 helpful. Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Jean-Paul, on the combined ratio.
 
 Operator
@@ -294,9 +265,7 @@ confirm this, but we think that we're starting to see some of the pricing improv
 flow through the portfolio. And then, we also benefit as I said from a very low level of
 manmade losses this quarter.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
+A - Olivier Armengaud {BIO 20892984 <GO>}
 
 Bloomberg Transcript
 
@@ -322,26 +291,17 @@ believe, as we do regularly, I think when we come to the Investor Day later in t
 that's a good time for us to give you more information on the overall evolution of
 mortality that we are observing in 2021.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 That's great. Thanks, Paolo.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Next question please.
 
 Operator
 Our next question is coming from Andrew Ritchie from Autonomous. Please go ahead.
 Your line is open.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hello. Hi there. First question just on top line premium for the non-life business. I can see
 the effect of FX. And I guess, the effect of FX does seem a bit stronger than I would have
 judged just from observed market movements in FX other, there's something unusual
@@ -370,10 +330,7 @@ benign quarter, where you surprised by that? And presumably these levels of loss
 such that there are kind of low-level frequency type stuff you're not getting any benefit
 from retro? Thanks.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Andrew. Jean-Paul?
 
 Operator
@@ -401,10 +358,7 @@ Cedents, which shows these losses deteriorating further. So we were surprised a 
 by this deterioration on prior losses, but still the level of users right now makes us
 comfortable that it should be stable for the remaining quarters.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Sorry, can I just follow-up the growth of specialty insurance earns more quickly than I
 should -- surprised with the degree to which the amount of the transition from net written
 to earned seems lower this year, quite a lot lower than Q1 last year, which is especially
@@ -426,10 +380,7 @@ Yeah. But it's only 25% of the overall premium. The bulk of the premium is reins
 the larger amount of premium earning is comprised underwriting years, which is flat more
 or less.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. I guess the point being done the earned pace will pick up significantly as the year
 goes on as we transition from as the prior year runs off as it were and the current year
 growing (Multiple Speakers) from the prior year.
@@ -437,16 +388,10 @@ growing (Multiple Speakers) from the prior year.
 Operator
 That's right.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. Thank you. Thanks, that's great. Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Andrew. Next question, please.
 
 Bloomberg Transcript
@@ -454,10 +399,7 @@ Bloomberg Transcript
 Operator
 The next question is coming from Will Hardcastle from UBS. Please go ahead.
 
-Q - Will Hardcastle
-
-{BIO 16346311 <GO>}
-
+Q - Will Hardcastle {BIO 16346311 <GO>}
 Good afternoon guys. Two quick ones from me. Can you just give us a bit of color on how
 the 1.6% reinvestment returns been achieved, it doesn't look to the being much re-risking
 within the quarter if I look at duration or asset classes you've touched on. I guess, just
@@ -470,10 +412,7 @@ behind the FX, it doesn't sound like -- they have normal then, I guess just so w
 I look at those, should we expect a further headwind for Q2 before it stabilizes for the
 remainder of the year, is that logic correct?
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Will. Francois?
 
 Operator
@@ -508,9 +447,7 @@ corporate bonds. So you should expect by the end of the year to come back to an
 allocation between 43%, 45% to corporate bond within our portfolio and liquidity
 between 5% and 7%.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
+A - Olivier Armengaud {BIO 20892984 <GO>}
 
 Bloomberg Transcript
 
@@ -527,19 +464,13 @@ which would the earning through in Q2 and the remaining quarters and that is als
 have the effect of the rate of exchange. So we expect it to be more stable throughout
 the year.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Jean-Paul. Next question, please.
 
 Operator
 The next question is coming from Vinit Malhotra from Mediobanca, please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Yes, good afternoon, everybody. Thank you for my two questions. First is for Paolo on the
 life technical margin, so Paolo, I've been watching this, I'm impressed how the modeling
 Page 9 of 22
@@ -566,10 +497,7 @@ odd in the remaining three quarters, how should we -- I mean, are you just being
 conservative or you think there could be some upside to that 2.3 if you don't want to
 quantify it at this stage. So I just want to get any thoughts on these two topics. Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Vinit. Paolo, for the first question.
 
 Bloomberg Transcript
@@ -592,10 +520,7 @@ So overall, I think we feel -- we reiterate the 5% assumption we have for the ov
 we still think that's a good number right now in terms of where we're seeing our results
 ending for the year. Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you Paolo. Francois?
 
 Operator
@@ -637,25 +562,16 @@ U.S. interest rate and the timing of the redeployment of the massive amount of l
 that we have. I think we will have more visibility in July or during the Investor Day after the
 summer to confirm or to revise upward at the range.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Vinit. Next question, please.
 
 Operator
 The next question is coming Ashik Musaddi from JPMorgan London. Please go ahead.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Thank you and good afternoon. And just I have couple of questions if you can help me,
 sorry, going back to the ROI topic. I mean, clearly, you are saying that the entry point that
 you will have on the reinvesting that cash or temporary liquidity into corporate bond is
@@ -686,10 +602,7 @@ you to give a bit more light on how much is that lower activity and how much is 
 portfolio improvement? I'm just trying to think a bit more for next three quarters, how it
 might pan out from a lower activity perspective? Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Francois on the first question.
 
 Bloomberg Transcript
@@ -712,16 +625,10 @@ cost to maintain 1 billion of corporate bond -- U.S. corporate bond in cash, whi
 remunerated almost at zero today. On the full-year basis, it's a cost of 20 basis points on
 the income yield, again 20 basis point if we maintain EUR1 billion in cash 12 months.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yes, that's very clear. Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Francois. Jean-Paul on the combined ratio.
 
 Operator
@@ -744,10 +651,7 @@ remaining points is really improvement in possibility that we're seeing in this 
 there was a normal level of manmade activities this quarter, the normalized would be
 instead of the 91 point something it is this quarter it would be more like a 94.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. But just to be clear on this one is basically, it feels like so far what you're seeing in
 terms of net pricing feeding into the combined ratio is 2%, which could be a function of
 your portfolio change or the pricing improvement, so that's a fair comment yeah. It's not
@@ -756,15 +660,10 @@ your portfolio change or the pricing improvement, so that's a fair comment yeah.
 Operator
 Yeah. Right. At this quarter it's 2% that's right.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah. Okay, that's clear. Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
+A - Olivier Armengaud {BIO 20892984 <GO>}
 
 Bloomberg Transcript
 
@@ -773,10 +672,7 @@ Thank you, Ashik. Next question, please.
 Operator
 The next question is coming from Thomas Fossard from HSBC. Please go ahead.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Yes, good afternoon everyone. First question would be for Paolo, regarding management
 actions taken in -- portfolio management actions taken in Q1. I think that adjusted for the
 COVID-19 claim in Q1, actually, we can compute a pretty high or higher technical margin at
@@ -792,9 +688,7 @@ mean, should we expect some form of release in the coming quarters? And very las
 to squeeze also, on the P&C. Can you say is the Swiss -- the Suez Canal blockage for you
 was a Q1 plan or Q2 plan? Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Page 13 of 22
 
 
@@ -830,10 +724,7 @@ it gives us good comfort as we go through 2021. I would also like to note that, 
 research continue to have very significant margin of prudence and that makes us feeling
 comfortable as we move into the rest of 2021. Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Paolo. Jean-Paul on the two P&C questions.
 
 Operator
@@ -869,10 +760,7 @@ information will take time to make its way through the marketplace. So right now
 we've taken the effect that we know for sure on the whole and the rest we're waiting to
 see how this develops.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you Jean-Paul. Next question please.
 
 Operator
@@ -881,10 +769,7 @@ Commerzbank. Please go ahead. Your line is open.
 
 Bloomberg Transcript
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Thank you very much. Good afternoon to everyone. Two questions, first on the Texas
 Winter Storm and freeze the EUR98 million net loss to -- or net claim you incurred from
 that. Obviously, it's quite a complex loss, first of all, can you give us a cross figure and how
@@ -895,10 +780,7 @@ How many lines of business? Second question, the obvious question capital positi
 very strong. What do you think about capital repatriation? Do you feel you need a buffer
 against your optimal solvency range? These are my two questions.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Michael, Jean-Paul on Texas.
 
 Operator
@@ -910,10 +792,7 @@ small companies that are affected and we have a few clients from specialty insur
 it's very limited. So the bulk of it is coming from relatively large number of risk and
 proportional property treaties.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 And can you say the cross amount? What do you expect for yourself ?
 
 Operator
@@ -930,18 +809,13 @@ Yeah. The amount of recoveries is very limited, I'd say it's more or less gross 
 because of the composition of the loss. And the fact that it also happened early in the
 year.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
+A - Olivier Armengaud {BIO 20892984 <GO>}
 
 FINAL
 
 Thank you, Jean-Paul. Ian on the capital question.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Yeah. Sure, and hi, Michael. And obviously we're very happy that the solvency of the group
 is in a very strong position. But let's be clear that that's partly due to the movement in the
 interest rates in the quarter. On top of that, I would add we are still in the pandemic. It
@@ -953,27 +827,18 @@ environment, which we think will be sustained that will carry on into 2022 that 
 good value for shareholders in terms of accretive growth. So given all of those factors, it's
 a bit early to be thinking about capital return with the solvency ratio where it stands.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Okay, thank you very much.
 
 Bloomberg Transcript
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Michael. Next question please.
 
 Operator
 Our next question is coming from James Shuck from Citi. Please go ahead.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Hi, good afternoon, everybody. So a couple things. The reduction in corporate exposure -corporate bond exposure Q4 to now 43 down to 36, obviously, you're rebating that up by
 year end let's say close to 45%. What's the drag on solvency that we should expect from
 that, benefit in Q1, from moving the other way but just came to know what the drive will
@@ -994,18 +859,12 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2021-04-28
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, James. Frieder on the first question.
 
 FINAL
 
-A - Frieder Knupling
-
-{BIO 17247809 <GO>}
-
+A - Frieder Knupling {BIO 17247809 <GO>}
 Yeah. Thanks, Olivier. You should expect a relatively small impact of the reduction in
 recurring income. This is going to be much smaller than the effect of the interest rate
 movements themselves, which affect the overall bond portfolio at the whole balance
@@ -1021,9 +880,7 @@ significant diversification benefit on the investment portfolio. So, in any case
 of the portfolio, especially with investment grade corporate bonds would have let's say
 non-material impact on this current situation.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
+A - Olivier Armengaud {BIO 20892984 <GO>}
 
 Bloomberg Transcript
 
@@ -1035,10 +892,7 @@ normalized using a 7% CAT ratio or net combined ratio would stand at 91.4, as I 
 compared to Q1 2020, that's 5 points lower with (Multiple Speakers) coming from -- yes,
 please, James.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Yeah. So it's just like 7 points nat cat across the whole year makes sense, but Q1 is
 normally very light for nat cat. So would 7 points to normalize in Q1, so, if I take your 94%,
 which is a normalized number of mandates and then assume 3 or 4 points of nat cat in Q1.
@@ -1060,9 +914,7 @@ Company N ame: SCOR SE
 Company Ticker: SCR FP Equity
 Date: 2021-04-28
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
+Q - James Shuck {BIO 3680082 <GO>}
 
 FINAL
 
@@ -1082,10 +934,7 @@ typically also a relatively low activity quarter. So we'll have to see what the 
 has installed for us. But in the meantime the 7% is a normalization we use across the
 entire year and every quarter.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Yeah. Okay. Thank you very much.
 
 Bloomberg Transcript
@@ -1093,26 +942,17 @@ Bloomberg Transcript
 Operator
 (inaudible) time with you.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, James. Next question, please.
 
 Operator
 The next question is coming from Paris Hadjiantonis from Exane BNP Paribas. Please go
 ahead, your line is open.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Yes, hi and good afternoon, everyone. Couple of remaining questions from me. Firstly, on
 renewals. Now we've seen the results of your revenue there is some market commentary
 about the slowdown in pricing momentum as we go into June-July and given June-July it's
@@ -1138,10 +978,7 @@ adequate. I remember most time we heard you on the phone saying something along 
 lines that up to EUR20 million of losses on the P&C side for 2021 relating to COVID, is that
 still the case or has anything changed there? Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Paris. Jean-Paul, on the two questions.
 
 Operator
@@ -1203,10 +1040,7 @@ wave, three waves or is it one event or several events. And so I think these -- 
 information is still ongoing and will probably take another quarter or two you to get better
 clarity.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Jean-Paul. Next question, please.
 
 Operator
@@ -1215,10 +1049,7 @@ ahead.
 
 Bloomberg Transcript
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Hi, thank you for the opportunity. I've got two more left. One is on the forex impact on
 top-line, which I'm aware we discussed early in the call where Francois I think you
 suggested that it was dollar depreciating against the euro and euro also appreciating
@@ -1233,16 +1064,10 @@ from EUR125 million to EUR111 million, whereas there hasn't been any realized ga
 real estate over the course of the quarter. So I'm just trying to understand what's the right
 way to look at these figures? So any explanation there would be helpful. Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Vikram. Ian on the first question.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
-
+A - Ian Kelly {BIO 19976646 <GO>}
 Yeah, sure. So the dynamic -- the FX dynamic that you're seeing there I think is that Q1,
 sorry the top line premium that's an average rate comparison, Q1 2021 against Q1 2020.
 
@@ -1266,16 +1091,10 @@ reverse in fact, so I think Q4 '20 and the dollar/euro rate was 0.82, now 0.85 b
 that gives you the dynamics that the reason you see the top line coming down, but a
 positive impact in CTA. Okay?
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Yes. That's a clear. Yes, thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Francois?
 
 Bloomberg Transcript
@@ -1288,34 +1107,23 @@ end of June and at the end of December. So market's value have not been reviewed
 will be done in Q2 as previous years, but we have increased the book value due to
 investments on some assets. So, that just the technical effect that should disappear soon.
 
-Q - Vikram Gandhi
-
-{BIO 18019785 <GO>}
-
+Q - Vikram Gandhi {BIO 18019785 <GO>}
 Okay, fantastic. Thank you.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you, Vikram, Next question please.
 
 Operator
 Our final question is coming from to Thomas Fossard from HSBC. Please go ahead. Your
 line is open.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Thanks. Very quick modeling question. You reported 36% tax rate in Q1. Can you shed
 some light on what we should expect on a normalized basis for -- not a normalized basis
 but on a reported basis for 2021, should we work with the normalized 20% or should we
 factor in the 36 reported in Q1? Thank you.
 
-A - Ian Kelly
-
-{BIO 19976646 <GO>}
+A - Ian Kelly {BIO 19976646 <GO>}
 Page 21 of 22
 
 
@@ -1338,10 +1146,7 @@ group ETR in a quarter where the overall net income is low. So we would expect t
 normalize back to towards the 24% Quantum Leap numbers by the end of the year as we
 progress and through the following quarters.
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you. Ian. Is there a next question?
 
 Operator
@@ -1351,10 +1156,7 @@ additional or closing remarks. Thank you.
 
 Bloomberg Transcript
 
-A - Olivier Armengaud
-
-{BIO 20892984 <GO>}
-
+A - Olivier Armengaud {BIO 20892984 <GO>}
 Thank you very much for attending this conference call. The Investor Relation team
 remains available to pick you up on any further questions you may have. So please don't
 hesitate to give us a call. I wish you a good afternoon. Thank you.

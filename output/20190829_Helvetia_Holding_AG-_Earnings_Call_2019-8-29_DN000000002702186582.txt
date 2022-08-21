@@ -94,9 +94,7 @@ my presentation.
 With that, I would like to hand over to our CFO Paul Norton who will now provide you with
 the most important information about the ﬁnancial ﬁgures.
 
-Paul Norton
-
-{BIO 16145125 <GO>}
+Paul Norton {BIO 16145125 <GO>}
 
 Page 2 of 16
 
@@ -422,10 +420,7 @@ Operator
 We will now begin the question-and-answer session. (Operator Instructions) The ﬁrst
 question comes from the line of Peter Eliot from Kepler Cheuvreux. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thanks very much all. I have three initial questions, please. The ﬁrst one was on the tax
 reform. I was just wondering if you are able to give us any guidance on what tax rate you
 Page 8 of 16
@@ -462,10 +457,7 @@ Thank you, Peter, for those three questions. I suggest that Paul is going to ans
 two questions and then I'm going to explore a little bit on your third questions -- question
 with regard to the group life business in Switzerland. Paul?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Okay. First question regarding tax, there are still several cantons to vote. At the moment,
 we have an eﬀective tax rate of about 18% across the whole group, and last year it was
 22%. Obviously that's been covered by the one-oﬀs that have an impact on that. Our
@@ -498,49 +490,33 @@ Date: 2019-08-29
 would suggest it's -- certainly in Switzerland, the eﬀect of the whiplash claims will reduce
 over time.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter Eliot {BIO 7556214 <GO>}
 
 FINAL
 
 Okay. Can I just follow up very quickly on that? So I mean, it sounds like the reinsurance
 eﬀects and the two large claims were kind of one-oﬀ, if you like.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Yeah.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 So you just put those to reserves out in future periods.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 I mean, there's always -- there can be, particularly in the specialty markets side, we have
 very individual claims, certain circumstances can arise where you need to re-reserve, but
 generally on the day-to-day business, the normal attritional business, we would not
 expect that. So yeah.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter Eliot {BIO 7556214 <GO>}
 
 Bloomberg Transcript
 
 And probably pushing my luck a little bit, but you are not able to sort of quantify those
 impacts, are you?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 We certainly wouldn't give you the details. No. We can quantify them, but whether we
 disclose them is the matter.
 
@@ -566,10 +542,7 @@ Company Name: Helvetia Holding AG
 Company Ticker: HELN SW Equity
 Date: 2019-08-29
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Great. Thank you very much.
 
 FINAL
@@ -578,10 +551,7 @@ Operator
 Next question comes from the line of Kevin Ryan from Bloomberg Intelligence. Please go
 ahead.
 
-Q - Kevin Ryan
-
-{BIO 1814771 <GO>}
-
+Q - Kevin Ryan {BIO 1814771 <GO>}
 Thanks very much. I just have one question regarding the model change, which produced
 a good jump in new business proﬁt assumptions. Could you just give us a little more
 background on that, and whether you can say whether your reexamining of your life
@@ -593,10 +563,7 @@ Paul, please answer this question.
 
 Bloomberg Transcript
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 About two-thirds of the increase in the new business margin were due to the model
 changes and the reason we did this was because we had a very simplistic capital
 allocation just based on the percentage of overall, for every line of business, percentage
@@ -608,10 +575,7 @@ changes have been done. There may be some tweaks as we -- as the experience show
 that it's not appropriate or the improvement or something, but I don't expect to see any
 huge changes as a result of a further tweak to the model.
 
-Q - Kevin Ryan
-
-{BIO 1814771 <GO>}
-
+Q - Kevin Ryan {BIO 1814771 <GO>}
 Thank you.
 
 A - Philipp Gmur
@@ -661,10 +625,7 @@ Bloomberg Transcript
 Operator
 The next question comes from the line of Rene Locher from MainFirst. Please go ahead.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Yes. Good morning. It's Rene from MainFirst. So I was going to start about the slide 11, just
 proﬁt by sources in the life business, and yeah, I was so much surprised to see the very
 strong result here, and when I was listening to Paul, I got a bit of feeling that we have not
@@ -702,9 +663,7 @@ Thank you, Rene. Four questions. Let's get started with Paul on the life result 
 will explain pretty quickly some Smile issues. Then I will ask Andre to comment on the
 investment income and then we are going to ﬁnalize this questionnaire with Tesla. Paul?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 Bloomberg Transcript
 
@@ -737,10 +696,7 @@ Then on --
 A - Philipp Gmur
 Okay. Smile.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Page 13 of 16
 
 
@@ -763,10 +719,7 @@ retail segment is still coming in via our agents networks. It's another sales ch
 another product, it's another distribution and access to our clients.
 Now I will ask Andre with regards to the investment income.
 
-A - Andre Keller
-
-{BIO 18667591 <GO>}
-
+A - Andre Keller {BIO 18667591 <GO>}
 Yes. Thank you for the question. And two parts of that question I heard. It's the driver of
 the change year-to-date, which was mainly driven by the strong rebound in global equity
 markets, which we participated, and the second part of your question I heard was if there
@@ -784,10 +737,7 @@ cooperation. We have, however, a broker, Marsh & McLennan, which we have
 cooperations with in other B2B2C environments, and via this contact, we got this new
 collaboration.
 
-Q - Rene Locher
-
-{BIO 1921075 <GO>}
-
+Q - Rene Locher {BIO 1921075 <GO>}
 Okay. Interesting. Thank you very much.
 
 A - Philipp Gmur
@@ -797,10 +747,7 @@ Operator
 The next question is a follow-up question from Peter Eliot from Kepler Cheuvreux. Please
 go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thanks a lot for allowing me to come back. I'd like to ask three further questions, please.
 The ﬁrst one, I was just wondering if you could give any comment on the press release
 from FINMA yesterday, which talked about sort of leveling the playing ﬁeld between
@@ -833,10 +780,7 @@ release. And for the other two questions, I would like to hand over to Paul.
 
 Bloomberg Transcript
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 So your question was on the property percentage. I mean, I don't think we've actively
 changed the property. I think it could be due to the mark-to-market, but basically other
 assets have increased in value greater than the property because we don't revalue it,
@@ -846,31 +790,19 @@ the way they are calculated, but I mean, it's not massive increase when we look 
 31st of the 12, it's 1.7% to 1.9%. And on a regulatory basis, from zero up to 0.2%, and we
 monitor that on a regular basis.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 All right. Thank you. Just quickly, if I could on the --
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Sorry, there is also a reduction in the interest rates in the half year, has also had an impact
 on that.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Yeah. Okay. And just quickly on the property, should we expect the sort of share of best
 properties within the investment portfolio to increase in future? Are you able to comment
 on that still?
 
-A - Andre Keller
-
-{BIO 18667591 <GO>}
-
+A - Andre Keller {BIO 18667591 <GO>}
 Peter, this is Andre speaking. So what we will, as I alluded to before, on relative value
 consideration, so we look at, let's say, the property market as a risk factor on a holistic
 Page 15 of 16
@@ -892,10 +824,7 @@ or others on the market, so we can build based on our portfolio and see still at
 relative value in properties. But we do not expect major shifts, as I alluded to, but more on
 a relative value basis, especially versus mortgages.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Great. Thanks very much.
 
 A - Philipp Gmur

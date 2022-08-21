@@ -115,10 +115,7 @@ With that, I would like to turn over the presentation to our CFO, Paul Norton, w
 provide you with the most important information about the key ﬁnancial ﬁgures. Please,
 Paul.
 
-Paul Norton
-
-{BIO 16145125 <GO>}
-
+Paul Norton {BIO 16145125 <GO>}
 Thanks, Philipp. We're on Slide 7. Our underlying earnings for the ﬁrst half of 2017
 amounted to CHF 258 million and, therefore, increased 8.4% compared to the previous
 year. This increase was driven by both the nonlife and the life business.
@@ -542,9 +539,7 @@ Questions And Answers
 Operator
 (Operator Instructions) The ﬁrst question is from Peter Eliot, Kepler Cheuvreux.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter Eliot {BIO 7556214 <GO>}
 
 Bloomberg Transcript
 
@@ -565,10 +560,7 @@ Okay. Thanks, Peter. I suggest that the ﬁrst question relating to direct yield
 answered by Ralph. Question number two will be answered by Paul regarding the one-oﬀ
 gains. And I will then answer the third question. Ralph, please.
 
-A - Ralph-Thomas Honegger
-
-{BIO 4932832 <GO>}
-
+A - Ralph-Thomas Honegger {BIO 4932832 <GO>}
 Okay. The direct yield in our European entities, as you know, you know the weight of
 nonlife-related assets in our European entities is much higher than in Switzerland since we
 have much more nonlife portfolio there. And therefore, the duration of the ﬁxed income
@@ -578,10 +570,7 @@ larger sums at obviously lower interest rates. But there's no special eﬀect at
 A - Philipp GmÃ¼r
 Okay. Paul?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Runoﬀ gains. I guess you'd be looking at Slide 30 in the package. I don't think runoﬀ
 gains are being particularly lower than previous years. What we have -- one eﬀect we do
 have is that any runoﬀ gains this year -- a lot of runoﬀ gains this year were ceded to group
@@ -612,10 +601,7 @@ The next question is from Jon Urwin from UBS.
 
 Bloomberg Transcript
 
-Q - Jonathan Peter Phillip Urwin
-
-{BIO 6126952 <GO>}
-
+Q - Jonathan Peter Phillip Urwin {BIO 6126952 <GO>}
 So just a couple. So ﬁrstly on specialty. There's quite a strong growth, almost 15% in that
 unit. It just seems like quite a strange time to be growing so strongly given what we know
 about pricing and given what we know about sort of margins contracting. So any
@@ -630,10 +616,7 @@ A - Philipp GmÃ¼r
 Okay. Let us take Paul to answer the ﬁrst question regarding the Specialty Lines. And I will
 then come up with updates to the European combined ratio.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Yes. You raised a very good point. You're talking about the growth in the reinsurance
 business. As you probably remember, Jonny, we had a strategy to grow the reinsurance
 business, particularly to improve diversiﬁcation. And that strategy is still in place. We're
@@ -669,9 +652,7 @@ competitive environment we have.
 Operator
 The next question is from Guilhem Horvath from Exane.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 
 Bloomberg Transcript
 
@@ -692,10 +673,7 @@ Okay. Thank you, Guilhem. I ask Paul to answer questions number 2 and 3 regardin
 synergies and the question of the sustainability of our cost ratio. And ﬁnally, Paul -- Ralph
 will answer question number one with respect to the realized gains. Paul?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Okay. We do still expect to reach slightly above the CHF 130 million. I don't want to give a
 number at the moment. But it's not going to be massively above that. There is some
 uncertainty regarding some additional synergies in the Swiss market, where some of
@@ -722,10 +700,7 @@ Date: 2017-09-04
 
 FINAL
 
-A - Ralph-Thomas Honegger
-
-{BIO 4932832 <GO>}
-
+A - Ralph-Thomas Honegger {BIO 4932832 <GO>}
 Okay. Looking at realized gains, I mean, in the ﬁrst half year 2017, they were mainly driven
 by equity since equity markets performed quite well in the ﬁrst half year. I mean, looking
 at the performance in our book, including the derivatives for portfolio insurance, we
@@ -752,20 +727,14 @@ Bloomberg Transcript
 
 Thank you, Stefan. I ask Paul to answer those 2 questions, please.
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Life insurance added reserves. Have we disclosed that? We have -- we don't disclose in
 the half year. You have to wait until the full year.
 
 Q - Stefan SchÃ¼rmann
 But can you say maybe more or less than last year or...?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Roughly about the same as last year. Then the cost of the strategies, there's clearly
 seasonality involved. You can't just sort of double things up. At the moment, we've given
 you the 0.4%. We've also mentioned there's been increase that goes to the corporate
@@ -774,9 +743,7 @@ segment. But for the half year, I don't want to disclose any more.
 Q - Stefan SchÃ¼rmann
 Okay. And basically going forward, it's deﬁnitely a '17 issue that's still going beyond or...
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 Page 14 of 17
 
@@ -797,18 +764,13 @@ CHF 50 million to CHF 70 million.
 Operator
 The next question is a follow-up from Jon Urwin from UBS.
 
-Q - Jonathan Peter Phillip Urwin
-
-{BIO 6126952 <GO>}
-
+Q - Jonathan Peter Phillip Urwin {BIO 6126952 <GO>}
 Just going back to the reserve releases quickly. So Paul, you mentioned earlier that they
 weren't particularly lower than a usual sort of normal run rate. But they fell by sort of 90
 basis points year-on-year. That seems like quite a high number to me. From that, can we
 infer that the starting point is quite a big number?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
+A - Paul Norton {BIO 16145125 <GO>}
 
 Bloomberg Transcript
 
@@ -822,10 +784,7 @@ decreased.
 Operator
 The next question is a follow-up from Guilhem Horvath.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 I've got 2 follow-up questions, please. The ﬁrst one is on the guarantee side. Can you
 maybe give us a view on the individual Swiss life business, the same kind of split that you
 give on Slide 16 for group life, just to understand how much of guarantee do you have on
@@ -834,10 +793,7 @@ comments you made on capital and the standard model for group life in Switzerlan
 you maybe update us on what's your current view on the potential for how your capital
 consumption in implementing this system and model going forward? So what's your -what's the update you can give on discussion with FINMA today?
 
-A - Paul Norton
-
-{BIO 16145125 <GO>}
-
+A - Paul Norton {BIO 16145125 <GO>}
 Okay. The Slide 16 is both, in Switzerland -- you've got to combine the individual life and
 the group life. We don't separate them out into those 2 components. Now clearly, 2/3 of
 our local business is group life. So that gives you indication. The discussions with FINMA, I

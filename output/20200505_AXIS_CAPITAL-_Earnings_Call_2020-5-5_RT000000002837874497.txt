@@ -32,10 +32,7 @@ is being recorded.
 I would now like to turn the conference over to Matt Rohrmann of Investor Relations.
 Please proceed, sir.
 
-Matt Rohrmann
-
-{BIO 15132648 <GO>}
-
+Matt Rohrmann {BIO 15132648 <GO>}
 Thank you, Eric. Good morning ladies and gentlemen. I'm happy to welcome you to our
 conference call to discuss the financial results for Axis Capital, for the first quarter and
 period ended March 31st, 2020. Our earnings press release and financial supplement
@@ -74,10 +71,7 @@ With that, I'll turn the call over to Albert.
 
 Bloomberg Transcript
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, Matt, and good morning, everyone. Thank you for joining our earnings call. On
 behalf of AXIS, I'd like to begin by expressing our heartfelt sympathy to the families and
 loved ones of all those whose lives and livelihood have been tragically cut short by the
@@ -188,10 +182,7 @@ and have our Q&A. Pete?
 
 Bloomberg Transcript
 
-Peter Vogt
-
-{BIO 17059745 <GO>}
-
+Peter Vogt {BIO 17059745 <GO>}
 Thank you Albert. Good morning everyone. To echo Albert's comments from earlier, our
 hearts go out to everyone whose lives have been directly affected by COVID-19. We find
 inspiration every day in the heroism displayed by the healthcare workers, early
@@ -344,9 +335,7 @@ $49.78. This was principally driven by the net loss, net unrealized losses and c
 share dividends.
 That summarizes our first quarter results and with that, I'll turn the call back over to Albert.
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -516,19 +505,13 @@ question.
 
 Bloomberg Transcript
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes, thanks. A couple of questions here. First, I wonder if you could talk a little bit about
 how much of your business interruption coverage actually has a positive or a virus
 endorsement on it? And did you book all that in the quarter? And then, conversely how
 much of your kind of exposure, property exposure has doesn't have any virus exclusions?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Okay. Let me see if I can take it. There are of course a -- let's focus on the insurance one.
 And it's really two different markets, one is the UK market, one is the U.S. market. In the
 U.S., we have property exposure that generally comes from our E&S book, our program
@@ -567,10 +550,7 @@ charge against that. So by and large, we believe that we've done a comprehensive
 of all of our property exposures where there was BI, where there isn't, and we're
 comfortable that we've identified all of the policies where there is coverage.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 That's great. And then I'm wondering, Albert, if you could talk a little bit about trade credit
 and then maybe political risk exposures. That's an area that I know a lot. Lot of people in
 the market think there'll be some pretty meaningful losses. What's your exposure to that
@@ -578,10 +558,7 @@ area?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So we have trade credits and political risk in two areas. Trade credit, as you know, we have
 a small book on the reinsurance book. Now that book is one that we've reduced
 significantly over the last several years, we literally have $20 million of net written
@@ -645,33 +622,21 @@ take a strong view there. But we think that book is well constructed, its well r
 limits are much, much, much smaller than they were in the last global financial crisis. So
 we're there, but we think we're in good shape.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Thanks for the answer.
 
 Operator
 Our next question will come from Meyer Shields of KBW. Please proceed with your
 question.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Great. Thanks. Good morning. Albert, I was hoping you could update us on expectations
 for premium and maybe unusual loss experience in the motor reinsurance book?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I'm sorry, could you repeat the question?
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Yes. I'm trying to understand how we should think about premium volumes, and I'll say
 maybe better than expected near-term experience in motor reinsurance because of the
 shelter-in-place orders?
@@ -686,10 +651,7 @@ Date: 2020-05-05
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Right. So we don't really do any reinsurance of motor business in the U.S, it's mostly
 European book. Some of that is XOL, some of it is quota share. We certainly expect there
 would be some volume reduction in that going forward, on the other hand, we also
@@ -699,16 +661,11 @@ I think you -- I believe that Peter spoke in his remarks about how that went dow
 January 1, so it's not a large book for us, and we're not exposed to what's happening in
 the U.S.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. And I have missed this, I'm trying to get the time line of the $50 million of planned
 expense reductions in response to pressured exposure units?
 
-A - Peter Wilson
-
-{BIO 4267902 <GO>}
+A - Peter Wilson {BIO 4267902 <GO>}
 
 Bloomberg Transcript
 
@@ -727,24 +684,15 @@ people in places right now given stay at home, we'll ramp that back up. But we d
 bottoms-up. We feel really good about at least the short-term nature and we will manage
 it going into 2021 based upon what we see for the rest of this year.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. Is the $50 million an annualized number or is that the actual expected diminished
 savings -- sorry diminished spend?
 
-A - Peter Wilson
-
-{BIO 4267902 <GO>}
-
+A - Peter Wilson {BIO 4267902 <GO>}
 Yes. it's really annualized through the course of our entire year. So you'll see some more
 of that come in the last three quarters of the year.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, great. Thank you so much.
 
 Operator
@@ -762,20 +710,14 @@ with your question.
 
 FINAL
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Good morning, everybody. First question is to the mortgage reinsurance book, could you
 may be offer us little more color on how its structured both with regards to the GSE
 insurance and the PMI reinsurance? And then, maybe also just talk about because of the
 stress scenarios that you've run, what the impact there would be and maybe some of the
 underlying assumption behind these stressed scenarios?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So if we look at our mortgage reinsurance book, it's primarily the government-sponsored
 entities. I think let's -- somewhere between 5% and 10% is private, but the vast majority of
 our book is there. So in terms of that book, what we've done -- the good news about that
@@ -792,10 +734,7 @@ I think the second question was with regard to the scenarios that we used. Pete,
 want to go through that because it's a combination of both the impact of the closures as
 well as the economic environment, correct?
 
-A - Peter Wilson
-
-{BIO 4267902 <GO>}
-
+A - Peter Wilson {BIO 4267902 <GO>}
 Yeah. So we did run multiple scenarios with the company to test our veracity through
 some various scenarios. We did a full bottoms up economic scenario, where we've taken
 and stressed the books in the asset portfolio to one the global financial crisis, and then
@@ -808,10 +747,7 @@ on the top line, the loss line and on the asset side. So, we're doing that to he
 this current situation evolves, but the teams have done a good job. So we've got a lot of
 guideposts to align us to take actions over the rest of the year.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Got it. Thank you. And then my second question, I realized maybe a bit challenging, but
 I'm going to give it a try anyway. So the $235 million of COVID losses in the quarter
 assumes that the shelter-in-place really left at the end of July. Do you have any sense of
@@ -828,10 +764,7 @@ Date: 2020-05-05
 
 FINAL
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 In our scenario planning that we did do one of the key assumptions was the duration of
 the stay-in-place. And so, we have to view as to what that could be. Obviously I think it
 starts to drive into account more coverages like Albert said, it would not be -- wouldn't be
@@ -841,15 +774,10 @@ reviewed the contract languages and all the coverages in lines of business where
 there is exposure. We have a sense of what that could be, but it would be really
 speculative to provide any numbers.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Under --
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -865,34 +793,19 @@ million. And there, we're already more than two-thirds into that tower, just wit
 numbers here. So, we think that there is -- there's also some additional areas that give us
 comfort that the potential deterioration here, it has some factors that could mitigate it.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Got it. And just you said you're two-thirds of the way into the $75 million attachment?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yes.
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 In the UK.
 
-Q - Yaron Kinar
-
-{BIO 17146197 <GO>}
-
+Q - Yaron Kinar {BIO 17146197 <GO>}
 Okay.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 That was a good play, Albert. I should have mentioned that tower protection in the UK.
 
 Operator
@@ -909,19 +822,14 @@ proceed with your question.
 
 FINAL
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hey. My first question on the business interruption side, how can we think about losses
 that could stem from your reinsurance book, so if you pick it up to your property cat
 program, do you have any color on your insurers and the virus exclusions that they might
 have or just thoughts around some of your insurers attaching into their property tax
 covers on the BI covers that they actually provide and will kick in for COVID?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -956,9 +864,7 @@ those various losses. Same thing on the travel book. So I think that understandi
 limitations of being a reinsurer versus being an insurer, I believe that the announcement
 that we've done was very comprehensive.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Page 16 of 22
 
 
@@ -974,10 +880,7 @@ viewed in the quarter?
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yes. We're always, as we look through the reserves this past quarter, Elyse, given a lot of
 the uncertainties we're seeing right now, especially when it comes to social situation and
 the COVID-19 situation. We did see some positive development coming out of the
@@ -988,34 +891,23 @@ So again, we're being prudent with that, but we basically we did see positive
 development in motor and property, but we put much of that back up on the liability lines
 in both insurance and reinsurance.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 And what was the size of the amount you put up on the liability line?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
 I don't have that number in front of me we can get that right back to you.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. And then, in terms of the insurance segment, you guys have talked about like the
 one-off business of the Novae business kind of the negative impact on your margins
 going down, as we kind of get through the first half of this year assuming that comment
 still applies. And then could you just give us a sense of the magnitude of the impact on we
 saw in the first quarter that could dissipate later on this year?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Sure. So on the insurance side, Elyse, the ex-cat loss ratio is impacted by just under 1 point
 negatively by the runoff book. As I mentioned at year-end that runoff book had about $50
 million a UPR. It's down to just slightly over $30 million and that'll then that will just runoff
@@ -1023,17 +915,12 @@ the rest of the year, probably with a $15 million, $10 million, $5 million kind 
 rest of the year, but that did hurt us. That was a negative to the insurance ex-cat loss ratio
 by about a little under 1 point this first quarter.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. And then one last quick one on expenses. So you guys have the $50 million this
 year, you just highlighted on the call. And then there is about, what was it $30 million, so
 we still have rest of that $100 million to come through this year?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Page 17 of 22
 
 
@@ -1049,20 +936,14 @@ uncertainty in the current situation.
 
 FINAL
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay. Thank you very much.
 
 Operator
 (Operator Instructions) Our next question will come from Ron Bobman of Capital Returns.
 Please proceed with your question.
 
-Q - Ronald David Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald David Bobman {BIO 17308423 <GO>}
 Hi. Thanks a lot, and good morning, everybody. I had a question about reinsurance
 protections, and I'm sort of trying to understand what a carrier insurer is sort of thinking
 and might have to do as far as buying additional property cat reinsurance covers, and
@@ -1073,10 +954,7 @@ thought that I'm touching on? Thanks.
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yes. I think generally I would say that it will be insurance that different carriers will make
 right? So, in some cases the use of tower they can use up most reinsurance policies not
 all of them, but mostly reinsurance policies have a reinstatement provision there, and so
@@ -1091,10 +969,7 @@ think is where that's likely to happen. And at that point, I think it'll become 
 each management team to determine, what they want to do with the reinsurance
 purchases, I'm not sure that we can provide better concise than that.
 
-Q - Ronald David Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald David Bobman {BIO 17308423 <GO>}
 Thanks.
 
 Operator
@@ -1114,10 +989,7 @@ see any value in repurchasing shares at these levels for EPS accretion?
 
 FINAL
 
-A - Peter Vogt
-
-{BIO 17059745 <GO>}
-
+A - Peter Vogt {BIO 17059745 <GO>}
 Hey Doug, this Pete Vogt. We currently do not have a stock repurchase program in place,
 and given the current situation as we're kind of like in the middle of a cat that's still
 evolving, don't think it would be imprudent for us right now to put a repurchase plan in
@@ -1133,19 +1005,13 @@ Please proceed with your question.
 
 Bloomberg Transcript
 
-Q - Gerald Fine
-
-{BIO 1796996 <GO>}
-
+Q - Gerald Fine {BIO 1796996 <GO>}
 Yes. Thank you. how confident are you on policies that are can written with specific
 exclusion for the viruses on business interruption will hold up, don't you expect all this to
 be litigated and the political nature of it and the target that we all could be, how confident
 are you, those specifically will hold up?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 That's a fair question. And let's agree that for the moment we're talking hypothetical. My
 view here is that if you were to do this, you would so hurt the insurance industry that it
 would end up being an industry that requires a bail out. I mean that's exactly the issue. If
@@ -1171,9 +1037,7 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2020-05-05
 
-Q - Gerald Fine
-
-{BIO 1796996 <GO>}
+Q - Gerald Fine {BIO 1796996 <GO>}
 
 FINAL
 
@@ -1181,20 +1045,14 @@ Are you reserving money for legal expenses assuming that we have some politicall
 target -- pain on your back? Is that part of your reserving technique to build up your
 reserves for legal expenses?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 So the first thing that I would say is about were to happen, we wouldn't be the first
 company in line to go against this. This would be a massively funded movement by the
 entire insurance and reinsurance industry. So thank God we wouldn't have to pay for it all
 ourselves. But to be specific, we do have a budget in this $235 million charge or defense
 cost, because we do believe there will be additional litigation to defend our position.
 
-Q - Gerald Fine
-
-{BIO 1796996 <GO>}
-
+Q - Gerald Fine {BIO 1796996 <GO>}
 Thank you for your answer.
 
 Operator
@@ -1203,10 +1061,7 @@ question.
 
 Bloomberg Transcript
 
-Q - Philip Stef ano
-
-{BIO 20346322 <GO>}
-
+Q - Philip Stef ano {BIO 20346322 <GO>}
 Yes. Thanks and congrats on the underlying improvement. I guess, I wanted to ask a
 question around the A.M. Best action and the extent to which forward projections that
 you're making may have been included or not included in how they contemplated taking
@@ -1216,10 +1071,7 @@ come as the negative impact from Novae continues to burn off. Should we read any
 into how they're thinking about the sustainability of the improvement, it is just based on
 the news we got this morning?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Look, let me not mince words here. We're obviously very disappointed by the A.M. Best
 action. Again especially because we believe we have turned the corner and we're starting
 to show tangible results. So I'll start my answer by saying that I cannot speak, nobody in
@@ -1259,28 +1111,19 @@ taken the actions necessary to get rid of the business has been hurting us, and 
 this $30 million of premium that Peter spoke about, we're feeling very confident and very
 optimistic about our outlook.
 
-Q - Philip Stef ano
-
-{BIO 20346322 <GO>}
-
+Q - Philip Stef ano {BIO 20346322 <GO>}
 I got it. I appreciate the thoughts. Best of luck on proving them wrong.
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you. We're looking forward to doing it.
 
 Operator
 Thank you. This concludes our question-and-answer session. I would now like to turn the
 conference back over to Albert Benchimol for any closing remarks.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, operator. So I want to thank everybody for your time this morning. So,
 notwithstanding the challenges of COVID-19 the four-point improvements in our ex-cat
 current year combined ratio I think speaks to the hard work. So we've done over the last

@@ -31,10 +31,7 @@ Thomas Seidl, Analyst
 William Hawkins , Analyst
 
 Presentation
-Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+Christian Becker-Hussong {BIO 19080254 <GO>}
 Ladies and gentlemen, welcome to the Munich RE Annual Conference to all our guests
 here in this room. And thanks for making your way to Munich and welcome of course to all
 of you following this conference from their offices via Internet. Sorry for the late start. We
@@ -83,10 +80,7 @@ for the Group, Christoph Jurecka, CFO for ERGO and (Stephan Cosman), who is part
 our Solvency II reporting team.
 So far from my side and now I would like to hand it over to Nikolaus.
 
-Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+Nikolaus von Bomhard {BIO 3123407 <GO>}
 Thank you, Christian. Good afternoon. And good day. Good day to those who are listening
 over the Internet. It's a pleasure to be here with you. Strong track record, new ideas; as
 regards to strong track record, I think this room is appropriate, when it comes to new
@@ -666,10 +660,7 @@ FINAL
 
 With that, I hand over to Markus Riess for ERGO.
 
-Markus Riess
-
-{BIO 1835270 <GO>}
-
+Markus Riess {BIO 1835270 <GO>}
 Thank you, Jorg and Nikolaus. Thank you very much, ladies and gentlemen for listening to
 my presentation. I'm very happy to be part of the Munich Re team now and look forward
 to addressing you in my new function for the first time.
@@ -974,10 +965,7 @@ by (mid-end Q2) will be able to present them to you and the capital markets as w
 the public. Thank you.
 
 Questions And Answers
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you very much. We will now start with the first round of Q&A, for which I would like
 to ask you to raise questions on the group topics that have just been presented and as
 well as on ERGO only and questions on risk management and the two reinsurance parts
@@ -994,10 +982,7 @@ Date: 2016-03-16
 
 FINAL
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 I have two questions. My first question is on the split of your operating economic earnings.
 As you mentioned, there is a slide on the breakdown on page 142 in your backup and I've
 two questions on this. First, you see that the operating economic earnings within the
@@ -1012,24 +997,15 @@ value was EUR0.3 billion and so the P&C Re segment looks pretty low and my quest
 simply what is the story behind this and are you going to tell us that the earnings level
 going forward will be pretty low in this segment?
 
-A - Markus Riess
-
-{BIO 1835270 <GO>}
-
+A - Markus Riess {BIO 1835270 <GO>}
 Should I take it.
 
-A - Bernhard Kauf mann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kauf mann {BIO 18347993 <GO>}
 Yes, no one else (technical difficulty).
 
 Bloomberg Transcript
 
-A - Markus Riess
-
-{BIO 1835270 <GO>}
-
+A - Markus Riess {BIO 1835270 <GO>}
 Yes. So it's a difficult one, I must say. Let me give it a try, perhaps I have to correct it after
 having looked it up. The new business value in Life was extraordinarily high. So going
 forward, I would expect it to be a little bit lower. There are also some or should I say some
@@ -1042,10 +1018,7 @@ understatement of this number. And when you go into the operating variances, you
 reserve releases. So this explains that these numbers are not on a stable basis yet.
 Torsten, do you want to add something?
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 No. It's exactly how as you mentioned. You will -- every year, you will see that in my opinion
 that the new business value in P&C looks a bit too small, because every underwriting year,
 we will, according to our reserving policy, we will set aside a new reserve buffer for the
@@ -1062,18 +1035,12 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2016-03-16
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 So this implies that the 4% level of reserve for leases is sustainable?
 
 FINAL
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 That is our strong expectation. And I would have highlighted it anyway. So we released
 7.2% in the last year, much more than we expected at the beginning of the year without
 reducing our conservatism. To be honest, I would have liked to reduce less. But
@@ -1081,41 +1048,27 @@ accounting principles we have to measure the reserves on the basis of best estim
 principles and therefore the 7% were a must for us. So the 4%, if we don't make mistakes
 or so, should be -- can be expected maybe as a minimum for the time being.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Just coming back to my first question. Adjusting for all of this, how would you say that the
 relation within the reinsurance segment is going to develop in terms of economic
 earnings? Because currently it looks like it's 50-50, obviously this is distorted by the value
 of new business in life. But going forward, what would you expect is the relation between
 those two?
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 Two-thirds non-life, one-third life. A higher share of life would be unrealistic in my view.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 
 Bloomberg Transcript
 
 Thank you. Michael please and then James.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 So Michael Huttner from JP Morgan. Restructuring in ERGO, the restructuring cost which is
 often the (2.50 to 3.50), are they in the 2.3 to 2.8?
 
-A - Markus Riess
-
-{BIO 1835270 <GO>}
-
+A - Markus Riess {BIO 1835270 <GO>}
 In theory no. In practice perhaps we will make it up by other sources. Said earlier on in the
 press conference as well, not specifically. But on the other hand, of course, whatever the
 numbers are, it will be distributed over on the timeline a little bit for the accounting alone.
@@ -1138,20 +1091,14 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2016-03-16
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Follow-up question. So when Mr. Riess comes to the board, please sir, may I have some
 more money, what's the cost of capital you're setting, what's the capital base you're
 assuming for his plans?
 
 FINAL
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 The threshold he has to pass with his business case is pretty much the same you would
 offer or ask from anyone else in the group. So the question is what do you have to put in
 to get out what over which time? How much of certainty is in those numbers? And the
@@ -1162,33 +1109,21 @@ has to have spent when he comes on into the room with one and then he changes an
 then he is just one board out of 10, has to make a decision. So to outvote him if needed is
 easy. But he will certainly try to avoid that.
 
-A - Markus Riess
-
-{BIO 1835270 <GO>}
-
+A - Markus Riess {BIO 1835270 <GO>}
 8% is roughly the figure we have.
 
 Bloomberg Transcript
 
-A - Bernhard Kauf mann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kauf mann {BIO 18347993 <GO>}
 And let me add a personal remark. I'm much more likely to support Markus with problems,
 which have already been known to us and where we know how we can better the
 business, have a very strong leverage here than acquiring new ones in major M&A
 transaction.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you. James, please.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Thanks. This is James Shuck from UBS. Two questions from me please. Firstly, on the HGB
 earnings, those started improving in 2016 and again in 2017. If I look at the capital you're
 paying out, you pay out the normal dividend and then you go to share buyback, which has
@@ -1204,9 +1139,7 @@ of that target. That's my first question. Second one is quicker; I'm just intere
 billion of unrealized gains on the balance sheet, what's the pull-to-par effects, the drag
 that will happen through the NAV please and how long will that last for?
 
-A - Bernhard Kauf mann
-
-{BIO 18347993 <GO>}
+A - Bernhard Kauf mann {BIO 18347993 <GO>}
 Page 21 of 55
 
 
@@ -1244,10 +1177,7 @@ say. And believe us, we will not hold capital just for the sake of holding it, w
 to save and as I said, if there are opportunities to be taken up any time soon, we want to
 be ready for it. And it may need quite big-ton money. We don't it, frankly.
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 I can add perhaps not very encouraging news that the HGB numbers will be supported
 everything going forward, as we see it now by the release of the equalization reserves.
 But it shouldn't be underestimated how fragile it is to investment returns, especially to
@@ -1285,16 +1215,10 @@ gains. That means as long as we cash in the higher coupons and use them to do sh
 buybacks and to pay dividends, our NAV will decline but only to the magnitude of our
 distribution if we keep it, all the NAV will remain unchanged.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 We have Kamran and then Daniel Bischof I think.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 It's Kamran Hossain from RBC. I guess, coming back to James' point from the caps, the
 solvency ratio, it's kind of an amazingly high number at 300%. I just want to come to some
 of the opening remarks you made about we're in a very, very risky situation in so many
@@ -1305,10 +1229,7 @@ developed yet for you to go and deploy that capital?
 
 Bloomberg Transcript
 
-A - Markus Riess
-
-{BIO 1835270 <GO>}
-
+A - Markus Riess {BIO 1835270 <GO>}
 Let me answer on the higher level too. When it comes to deploy the capital that we have
 at hand, of course, the business feels to try everything, then Torsten probably would be
 the one who can use up most of it in relative terms for the businesses he has under his
@@ -1323,10 +1244,7 @@ waiting for us. We need to change in the market for whatever reason probably not
 reason at first sight, may be good for us in relative terms, because we are then stronger
 than the average.
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 Not much to it, you're right. You know, the segment in reinsurance which needs the
 highest -- which has the highest capital allocation is the cat reinsurance per premium, per
 unit of premium. So to speak here and I come to that later, when we look at the
@@ -1348,19 +1266,13 @@ capital allocation.
 
 FINAL
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Just follow up on that. And just ask, if you were to take the ratio from 300 to 220, how
 much more business would you be able to write? I know it's quite a difficult thing
 depending on the type of business. But how much more would you expect will be able to
 write?
 
-A - Markus Riess
-
-{BIO 1835270 <GO>}
-
+A - Markus Riess {BIO 1835270 <GO>}
 I don't think that the -- don't get us wrong here. The equity we have in place for the sector
 that is higher than it should be in terms of ranges that does not push prices up, it is not
 that if we have more equity or solvency capital, that the pricing and reinsurance changes.
@@ -1385,26 +1297,17 @@ which are from a capital point of view extremely expensive and also Torsten, I t
 will be a price volume curve, which is extremely negative when we go up these risks
 ladders.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay. Daniel Bischof was the next and then Will Hawkins please.
 
-Q - Daniel Bischof
-
-{BIO 17407166 <GO>}
-
+Q - Daniel Bischof {BIO 17407166 <GO>}
 Two questions for Markus Riess, the first one on page 48. I think there is not one life
 insurer not focusing on the risk and unit-linked business. Could you talk about the
 competitive situation in that field? Second one on Poland, I think recently introduced a tax
 of 44 basis points on financial assets. What does it mean for ERGO and also for the very
 strong competition in that market?
 
-A - Markus Riess
-
-{BIO 1835270 <GO>}
-
+A - Markus Riess {BIO 1835270 <GO>}
 Thank you, Daniel. I have the number for Poland. I just need to find it. Maybe I'll start with
 the competitive side. Everybody is trying to de-risk. I think we de-risk in a very consequent
 Page 24 of 55
@@ -1445,17 +1348,11 @@ Religa tax that you were referring to is estimated for a negative impact of roug
 million, EUR7.7 million to be exact, on the results in Poland and that's for the full year, I
 guess, in 2016.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay. Then, Will Hawkins, please and then we will take In-Yong and then we will have a
 break and all other questions please then in the second part or in the break.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you. William Hawkins from KBW. On the normalized economic earnings of 2.6 last
 year and could be lower than 2.5 this year, how much of those two numbers you're
 expecting comes from ERGO? So what's the ERGO normalized numbers? Then secondly,
@@ -1466,9 +1363,7 @@ EUR70 million is coming from the higher combined ratio guidance. But that's stil
 couple of hundred million which is a big % of ERGO. So can you just be a bit clear about
 why we are ending up with lower earnings power in ERGO?
 
-A - Markus Riess
-
-{BIO 1835270 <GO>}
+A - Markus Riess {BIO 1835270 <GO>}
 
 Page 25 of 55
 
@@ -1483,10 +1378,7 @@ time, because I have to deduct it from reinsurance numbers. Nikolaus?
 
 FINAL
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 Markus, we will share the second one. Maybe I can start and you fill in for the rest of it.
 And one thing is for sure that, of course, interest rates, lowering. And we have to go back
 a little further because the EUR500 million is an older number. Last year, as we came up
@@ -1503,10 +1395,7 @@ also about realism to some extent but Markus?
 
 Bloomberg Transcript
 
-A - Markus Riess
-
-{BIO 1835270 <GO>}
-
+A - Markus Riess {BIO 1835270 <GO>}
 Thank you, Nikolaus. The answer I'm going to give you is probably a little sounds more
 exact than it really is. So just bear with me in terms of order of magnitudes. The EUR70
 million you estimate are exactly the EUR7 million we estimate as well from the -- as a
@@ -1540,18 +1429,12 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2016-03-16
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you. Then we have In-Yong ask the last question before the break.
 
 FINAL
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 Hello. In-Yong Hwang from Goldman Sachs. Just one question on the Group net income
 guidance. I think in the preliminary results you were quite confident of getting to the
 EUR2.5 billion. So I was wondering what kind of scenario, is that the worst-case scenario,
@@ -1565,10 +1448,7 @@ built in all the deterioration between 4th of February and end of February. End 
 we had kind of very low point on the capital markets. But especially with the incoming
 impairments from equities we thought that it's wise to be a little bit more careful.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay. Thank you. So far for the first part, I would suggest that we return to this room and
 start with the second session at exactly 4'o clock please. So roughly 30 minutes. And we
 are looking forward to discuss with you further in the break. Thank you.
@@ -1577,10 +1457,7 @@ Bloomberg Transcript
 
 Okay, let's start with the second round. Bernhard please, turn is yours.
 
-A - Bernhard Kauf mann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kauf mann {BIO 18347993 <GO>}
 And good afternoon. I'm happy to share now some details concerning our risk profile and,
 our risk capital requirements and our solvency position with you. First of all, key role offers
 management in this environment is built resilience and enables change and innovation.
@@ -1743,10 +1620,7 @@ compare apples with apples. Thank you. Now, I hand back to Christian.
 
 Bloomberg Transcript
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Good afternoon. And hello. I have the honor to lead you through the reinsurance part of
 the presentation and I would start with a short summary of our financial results here on
 the first slide. Very good performance in all segments, I will skip the life and leave that up
@@ -2216,10 +2090,7 @@ particularly in the future.
 Here that is a part where I would like to finish and now Joachim, I hand over to you. Thank
 you.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 So thank you very much, Torsten. Colleagues, ladies and gentlemen. Good afternoon to
 those who I couldn't welcome personally already and I'm happy to report on the 2015
 performance of the Life Re business, looking back and giving you then an outlook going
@@ -2458,16 +2329,11 @@ so many technical effects of reconciliation from the old MCEV into the new solve
 we wouldn't really feel comfortable. But just for your comfort, had we continued MCEV,
 we would have reconfirmed the VNB ambition. So I hope I've done it in time. Thank you.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thanks very much gentleman. Now for the second round of Q&A. Who is the first? Andrew
 please. Andrew Ritchie.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
@@ -2488,10 +2354,7 @@ think it could be connected, growing exposure to morbidity risk and you talk abo
 needing to secure alignment of interest, of course, I not sure what you mean and what's
 the risk of that mobility risk expansion?
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 Let me start the first one was the HSB question. Right, majority of the growth comes from
 foreign exchange effects, dollar and euro in their portfolio, basically they have two to
 three drivers for their growth and all of them are important. One is their normal machinery
@@ -2516,31 +2379,19 @@ expertise also in China. But it's nothing what you see in figures already.
 
 FINAL
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 So that's all domestic US.
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 It's domestic US. It's some of business in Canada, some in London and they try to go into
 other foreign markets. But basically their business is US business.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 On the growth ex-FX is about $0.18, is that right or wrong?
 
 Bloomberg Transcript
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 It seem a bit higher. What was your second question? (multiple speakers) Yes. The
 business what you see from Hartford Steam Boiler, specialty markets. And American
 Modern, these were the three in the United States. And it's not in terms of cat exposure
@@ -2552,10 +2403,7 @@ say on program, which we don't show here, say as protected. When you compare tha
 there will be of course some of the entities below the '90s, Hartford Steam Boiler will be
 in our expectations of these apart, which delivers below the ($0.90) weighted average.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 So Andrew, then I take your question with regard to morbidity exposure and to what we
 mean by product drift in Asian et cetera. So the morbidity exposure in our books has in
 the meantime reached like one-third. And two-thirds is mortality and that doesn't change
@@ -2595,15 +2443,10 @@ bring now your global knowledge with the lessons learned from other markets, whe
 you've perhaps gone a little bit too far, bring that into the local market, if you like educate
 a little bit. But in the ultimate case, also stay out of it and reject.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you. Thomas Seidl. And then Olivia, please. And then, Michael.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
+Q - Thomas Seidl {BIO 17755912 <GO>}
 
 Bloomberg Transcript
 
@@ -2613,10 +2456,7 @@ driving the EUR800 million second year back-to-back? Second question is, on Amer
 Modern, you recently replaced the CEO, I think you stopped writing certain businesses
 there, more stuff you should worry coming up in the future?
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 We take limited FX risk. Normally, we orientated our assets to the structure of the
 liabilities. The limited risk comes from over-exposure in the US dollar at the moment and
 limited under exposure short position in British pound. Then, there are artificially
@@ -2624,28 +2464,17 @@ accounting effects on top of that, which are unavoidable. So situations where we
 wear unmatched economic position but IFRS reporting does not reflect it adequately. So
 it's partially the one, partially the other.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 So it hasn't really changed? (multiple speakers).
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 No really. Bombard?
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 So the risk capital requirement that I showed that this jump was really model driven. But
 the general positioning has not changed.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
+A - Joachim Wenning {BIO 16273429 <GO>}
 Page 45 of 55
 
 
@@ -2658,18 +2487,13 @@ American Modern, change of the CEO, no, not at all, has nothing to do with perfo
 or so. The change which had to be made after our former CEO left and the company is in
 unchanged, good shape, nothing to be reported.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 
 FINAL
 
 Olivia, please?
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 It's Olivia Brindle from Bank of America. First question on economic profitability and P&C.
 So for each line of business and also overall, given where we are with interest rates,
 there's always some maximum combined ratio that you need to be out in order to make
@@ -2689,10 +2513,7 @@ least two of your big peers are also growing in that space. Just wondering you'r
 competing directly with them on that or there some approach that you're taking that's
 different?
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 I'll start with the first one which is interest relation to the nature of the business segment.
 First your assumption is right. Of course, the interest rate by segment and currency
 country have a strong impact on our maximum combined ratio which we can afford or
@@ -2731,9 +2552,7 @@ words, when we show profitability and in this chart, in this illustrations, that
 calculation. But as far as casualty is concerned, to be quite honest, I don't know whether
 you agree. But it cannot become much worse I would say, that's for sure.
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 
 Bloomberg Transcript
 
@@ -2754,10 +2573,7 @@ not run and you probably know it anyway, we do not run the business with combine
 ratios in the first place, we stop and the processes sounds complicated, it is a little
 complicated and we saw the other end. And in the end, combined ratio falls out of it.
 
-A - Joachim Wenning
-
-{BIO 16273429 <GO>}
-
+A - Joachim Wenning {BIO 16273429 <GO>}
 Then I take the life reinsurance related two questions. One was, why is the fee income
 probably shrinking 2016 onwards, the reason is that we now that one large transaction
 that produced fee income of the order of the difference has ended in 2015. And we do
@@ -2785,18 +2601,13 @@ Date: 2016-03-16
 as we know you are going to execute, that's why we are tuning to and these are the three
 things that I'd like to highlight and the rest is then commoditized, if you like.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 
 FINAL
 
 Okay. Michael, Please.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 On the -- so you said 500; 90% on EUR500 billion is the underwritten profits. So it's
 EUR500 million on your primary in reinsurance business. You have a 98% target on EUR18
 billion. So If I do the math, you come out with a 102% combined ratio on the rest, is that
@@ -2812,10 +2623,7 @@ on that?
 
 Bloomberg Transcript
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 Regarding your calculation, I have not exactly made the calculation as you did it now. But I
 think you could be right, there could be a relationship between the two. I have not made
 the deal, you've done it, then I think it's fine. That's roughly true and considering that what
@@ -2824,10 +2632,7 @@ particularly for the long-term business, some interest rate support and the dura
 the reinsurance business is by far longer since a relative contribution of duration of risk
 solution part, it is still at a profitable level. But you're right, your calculation is not wrong.
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 As regards to the second question, of course, this is not meant to be delayed forward to
 avoid the exposure to negative interest rates. It is rather a test to see what can be done
 and maybe different means and it is also a signal to the public domain. And you may have,
@@ -2854,18 +2659,13 @@ about other means to -- but we both check it. We have not done it. We'll check i
 end up not been able to do it; the question is will central banks be ready to give us the
 money.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 
 FINAL
 
 William Hawkins first and James Shuck and then Thomas Fossard, please.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 These are some solvency II questions for Bernhard. So forgive me. Your tiering your
 capital you've got 90% in tier 1, which is good. But can you give us how much of that is
 restricted and how much is unrestricted?
@@ -2879,10 +2679,7 @@ kind of connection between the two. So why is your UFR sensitivity so low?
 
 Bloomberg Transcript
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 Okay. So I'll start with the last question. So the UFR sensitivity for our book is relatively low,
 mainly because the ultimate power grade or the extrapolation starts after we assume, or
 solvency II assumes, the euro curve becomes delinquent and that is 20 year plus and the
@@ -2902,9 +2699,7 @@ would not expect that there is some downside potential in on our numbers.
 On the tiering, the differentiation between restricted and unrestricted Tier 1 this is -- what
 are you referring to?
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Page 49 of 55
 
@@ -2921,36 +2716,24 @@ German GAAP point of view. So it's actually not distributable Tier 1 capital.
 
 FINAL
 
-A - Bernhard Kauf mann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kauf mann {BIO 18347993 <GO>}
 Okay, you're right. Part of it is also going back to the present value of future profit of
 especially life business. But it's for our book not more than 50% of the Tier 1. So it's not
 the dominating part of it.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Understood.
 
 A - Jorg Schneider
 And the official number is unrestricted for the whole Tier 1 capital is EUR35 billion and only
 EUR1.5 billion is Tier I restricted. It's in our annual report on page 130.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay. James?
 
 Bloomberg Transcript
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Thanks. James Shuck, UBS. Two questions from me please, again first one Solvency II
 question again. Looking at slide 145 where you said the bridge between IFRS NAV to the
 Solvency II the prelim eligible own funds, I am just interested in the adjustment or the
@@ -2963,22 +2746,14 @@ and say that you wanted to invest in corporate bonds, it's another thing to fund
 to actually be able to invest at that level. So could you just kind of comment on whether
 you think you are going to be able to roll your paper over as the year progresses, please?
 
-A - Bernhard Kauf mann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kauf mann {BIO 18347993 <GO>}
 So on page 145 risk margin end of 2015 is about EUR9 billion and also to answer your next
 question roughly one-third of this is primary insurance.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 And the best estimate liability bridge?
 
-A - Bernhard Kauf mann
-
-{BIO 18347993 <GO>}
+A - Bernhard Kauf mann {BIO 18347993 <GO>}
 
 Page 50 of 55
 
@@ -2994,23 +2769,15 @@ would only be a discounting effect that makes a difference. But I'm not sure if 
 
 FINAL
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 I guess what I am trying to get to is that I mean under IFRS there is an element of
 prudence on setting the reserves, under Solvency II it's sort of best estimate. So I am
 (thinking of ) what the difference is?
 
-A - Bernhard Kauf mann
-
-{BIO 18347993 <GO>}
-
+A - Bernhard Kauf mann {BIO 18347993 <GO>}
 But for us it's the same -- so it's the same interpretation.
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 
 Bloomberg Transcript
 
@@ -3032,16 +2799,10 @@ continue to try to invest in corporate bonds and we have widened the universe in
 in the recent past to make sure that we grab and take in the number, whatever we can.
 But it's really, really difficult.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay. Thomas and then the last question for today goes to Andrew.
 
-Q - Thomas Fossard
-
-{BIO 1941215 <GO>}
-
+Q - Thomas Fossard {BIO 1941215 <GO>}
 Thomas Fossard from HSBC. Two questions related to ERGO. Could you update us on the
 solvency position of ERGO in the current low interest rate environment? And some place
 last year asked about how far the Group was away from injuncting capital into ERGO. I
@@ -3057,9 +2818,7 @@ Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
 Company Ticker: M UV2 GR Equity
 Date: 2016-03-16
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 
 FINAL
 
@@ -3076,9 +2835,7 @@ Bernhard in the slide remark referred to how -- when you talked about the long-t
 guarantee measures as you may be repeated and specified to the extent you can on one
 to two.
 
-A - Bernhard Kauf mann
-
-{BIO 18347993 <GO>}
+A - Bernhard Kauf mann {BIO 18347993 <GO>}
 
 Bloomberg Transcript
 
@@ -3091,16 +2848,10 @@ requirements as at the end of last year for all the companies. But with the inte
 close to zero that doesn't hold true. So there are deficiencies here and there but there is
 always the option to go for the ATG measures.
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Okay, Andrew.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Two quick questions. First one is actually an observation. On Solvency II, I promise my last
 question is not on Solvency II. But the penultimate question, you are indicating and
 Nikolaus you were saying, you're always slightly worried about the world, you want to
@@ -3130,10 +2881,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - Torsten Jeworrek
-
-{BIO 5724439 <GO>}
-
+A - Torsten Jeworrek {BIO 5724439 <GO>}
 I do not remember to be very honest. But you are referring to EUR3 billion would be
 challenging, probably not within Nikolaus remaining time in the Munich Re. So we will see.
 So how did you measure the premium. That is not a premium which we generated in
@@ -3211,10 +2959,7 @@ Bloomberg Transcript
 
 With that I hand over to Nikolaus.
 
-A - Nikolaus von Bomhard
-
-{BIO 3123407 <GO>}
-
+A - Nikolaus von Bomhard {BIO 3123407 <GO>}
 We'll soon hand it over to Christian. Just one quick two or three remarks. Today's
 presentation was titled strong track record and new ideas. I think we didn't have so much
 discussion on the question whether that is a strong track record. We were enthused,
@@ -3248,10 +2993,7 @@ you.
 
 FINAL
 
-A - Christian Becker-Hussong
-
-{BIO 19080254 <GO>}
-
+A - Christian Becker-Hussong {BIO 19080254 <GO>}
 Thank you. Hardly anything to add. Time to wrap up. Thanks for coming and also thanks to
 you following this conference on the web for spending your afternoon with us. Hope to
 see you here on the floor in the function room and if not then we will certainly have the

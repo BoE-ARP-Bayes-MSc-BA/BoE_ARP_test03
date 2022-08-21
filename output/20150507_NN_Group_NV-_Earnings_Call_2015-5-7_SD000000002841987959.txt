@@ -48,9 +48,7 @@ Company Name: NN Group NV
 Company Ticker: NN NA Equity
 Date: 2015-05-07
 
-Lard Friese
-
-{BIO 17008174 <GO>}
+Lard Friese {BIO 17008174 <GO>}
 
 FINAL
 
@@ -204,10 +202,7 @@ FINAL
 With that I would like to pass the microphone to our Chief Financial Oﬃcer, Delﬁn Rueda,
 who will take you through the ﬁnancial details of the First Quarter 2015 results. Delﬁn?
 
-Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+Delﬁn Rueda {BIO 7032761 <GO>}
 Thank you, Lard. Good morning to everyone. Let me start with the consolidated results.
 NN Group posted an operating result of the ongoing business, which, as you know,
 excludes the Japan closed block variable annuity business in Japan of EUR304 million in
@@ -404,10 +399,7 @@ As you can see, both our ﬁnancial leverage ratio and ﬁxed-cost coverage rati
 improved again this quarter. This was largely driven by the First Quarter results.
 And with that I will pass you back to Lard for his ﬁnal remarks.
 
-Lard Friese
-
-{BIO 17008174 <GO>}
-
+Lard Friese {BIO 17008174 <GO>}
 I would like to round oﬀ on page number 20 -- slide number 20, by saying that we are
 pleased to report another strong set of results for the First Quarter of 2015. The better
 operating result was largely driven by the continued progress that we are making to
@@ -428,10 +420,7 @@ Questions And Answers
 Operator
 (Operator Instructions) Cor Kluis, Rabobank.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Good morning. Cor Kluis, Rabobank. I've got a few questions, ﬁrst of all, on solvency. The
 NN life solvency increased quite strongly, I think, 36percentage points. You mentioned
 this due credit spreads, equity and interest rates. Can you explain the composition of the
@@ -459,17 +448,11 @@ Can you give an idea what kind of free cash ﬂow you're going for this year, be
 clearly still below par? Can we think about EUR700m, those kind of levels, for 2015? That
 were my questions.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Cor, thank you very much for your questions -- your four questions. I'm handing over to
 Delﬁn to answer them for you.
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Cor, a lot of forward-looking questions or expectations going forward. Let me start on the
 ﬁrst on solvency.
 
@@ -494,10 +477,7 @@ quarter. Keep in mind also that the Second Quarter tends to have larger dividend
 particularly coming from insurance Europe. So so far, we expect 2015 to be a good year in
 terms of free cash ﬂow generation.
 
-Q - Cor Kluis
-
-{BIO 3515446 <GO>}
-
+Q - Cor Kluis {BIO 3515446 <GO>}
 Okay. Great, thank you.
 
 Operator
@@ -510,9 +490,7 @@ Company Name: NN Group NV
 Company Ticker: NN NA Equity
 Date: 2015-05-07
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
+Q - David Andrich {BIO 15414075 <GO>}
 
 FINAL
 
@@ -526,16 +504,11 @@ Then, secondly, I was just wondering if you could give a bit more color in terms
 recent developments in the Solvency II discussions particularly around you guys ﬁnalizing
 your submission of your internal model -- or partial internal model. Thank you.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 So the ﬁrst question is Delﬁn and then the second one on the -- I'm going to hand over to
 Doug. You can also do both, Doug, if you want to. Yes.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
+A - Doug Caldwell {BIO 17900909 <GO>}
 
 Bloomberg Transcript
 
@@ -553,10 +526,7 @@ So certainly the uncertainties are lower than they were a year ago. But there's 
 that remain as we try to move this thing through to the end of the year and be ready for
 solvency II on January 1, 2016.
 
-Q - David Andrich
-
-{BIO 15414075 <GO>}
-
+Q - David Andrich {BIO 15414075 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -570,9 +540,7 @@ Company Name: NN Group NV
 Company Ticker: NN NA Equity
 Date: 2015-05-07
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 FINAL
 
@@ -590,9 +558,7 @@ towards the targets you set at the time of the IPO and, therefore, being north o
 just more bad luck in the First Quarter? Or are you getting a bit more hesitant on your
 ability to deliver headline underwriting improvement? Thanks.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
+A - Lard Friese {BIO 17008174 <GO>}
 
 Bloomberg Transcript
 
@@ -634,10 +600,7 @@ On the other hand, it is our job as a non-life company to do these kinds of thin
 that's why we're around. So -- and with that I would like to hand over to Doug on your ﬁrst
 two questions, William.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 Yes, on the PIM I think there's -- the real magic of the PIM is ultimately the internal model
 part is just to align your risk management and your capital management in that sense and
 in that sense simplify the management of the business.
@@ -650,33 +613,22 @@ fairly complete internal model for the Dutch businesses, including ING Re. And t
 standard model for the international businesses. We think that's the best way to go
 forward at this time.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 Bloomberg Transcript
 
 And sorry, the international business, that includes Japan as well, yes?
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 Yes, Japan would not be on an internal model.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Yes, okay. Thank you very much.
 
 Operator
 Matthias De Wit, KBC Securities.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Yes. Good morning. Two questions, one on cash ﬂow and one on capital, please. The ﬁrst
 one is on the -- yes, the Dutch business. You're close to 300% solvency. Just wondering
 whether this will -- this should allow for further up streams of capital to the holding
@@ -703,16 +655,10 @@ Last quarter you mentioned that Solvency II remains uncertain. But that these un
 are not that important that they would prevent additional distributions to shareholders. So
 just if you could update your view in that respect that would be helpful. Thanks.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 So Matthias, thank you. Yes, Delﬁn, would you be so kind?
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Yes. So three questions here. The ﬁrst one on the solvency of NN Life, which is strong.
 And as a consequence should maintain or allow some capital distribution from NN Life as
 we move forward. Obviously, every decision will be taken at any particular point of time.
@@ -730,27 +676,18 @@ buybacks as the opportunity comes going forward.
 Of course, to conﬁrm once more that the level of capitalization remains strong and that
 gives us ﬁnancial ﬂexibility.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Okay. And just in terms of timing of dividends from the units you mention that Q2 you
 would expect from Insurance Europe, is that the only entity which is expected to up
 stream, or --?
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 No. What I commented is that the dividends from Insurance Europe tend to come in the
 Second Quarter. But that does exclude dividends from other units, nor that dividends
 might come from some of the operations outside of the Second Quarter. It's just a bit of
 concentration on dividends in the quarter, that's all.
 
-Q - Matthias De Wit
-
-{BIO 15856815 <GO>}
-
+Q - Matthias De Wit {BIO 15856815 <GO>}
 Okay. Thank you.
 
 Page 14 of 25
@@ -766,10 +703,7 @@ Farooq Hanif, Citigroup.
 
 FINAL
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, everybody. Thank you. So much. I'd just like to come back on Matthias' question
 actually on cash ﬂow release. You told us what we already know, in a way. So apologies.
 But it seems that the surrender rate and the reserve rate in Japan CBVA is just
@@ -782,9 +716,7 @@ And ﬁnally, going to the investment management business, the cost/income ratio
 How much is that is one-oﬀ in nature? Or should we assume that the absolute cost level
 remains at the current level? Thank you.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
+A - Lard Friese {BIO 17008174 <GO>}
 
 Bloomberg Transcript
 
@@ -792,10 +724,7 @@ Okay. So let's ﬁrst -- thanks, Farooq. So let's make sure we answer your quest
 the cash release, Japan CBVA. So Doug. And then I think on the UFR question and the
 cost income ratio, Delﬁn.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 Yes, on the VA, maybe just to be a little bit more speciﬁc on what the reserve reduction
 means, it doesn't mean very much to cash release. What's important when you look at the
 VA book is the capital, not the reserve. And the hedge results which we disclose to you in
@@ -804,16 +733,10 @@ Eﬀectively you can think of the reserves are going up and down also with our h
 reserves going up or down per se doesn't say a lot. What matters is the runoﬀ by policy
 and the hedge results. That's the best thing to track.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Okay, Delﬁn?
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Sorry, the microphone was oﬀ. So to cover your last two questions, in terms of the UFR
 what DNB has actually done is that they have stated in a policy paper that very low rates
 have made the UFR a more signiﬁcant inﬂuence on solvency ratios, which of course is true
@@ -844,9 +767,7 @@ to release of employee variable pay that was EUR5m. So there was a EUR10 million
 And during this First Quarter, as mentioned in the press release, investment management
 has continued to invest in their capabilities and some of that will continue going forward.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 Bloomberg Transcript
 
@@ -854,35 +775,24 @@ So the -- obviously there are -- I think the rebranding costs are not shown in t
 line. I'm not sure if they are. But excluding that you think that the 1Q number is (the) run
 rate?
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 I would not highlight any particular non-recurrent in the cost of investment management
 and, indeed, the branding expenses for investment management and all other segments
 are reﬂected within special items and, as mentioned before, that amounted to EUR20m.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay, that's very clear. Thank you.
 
 Operator
 Richard Burden, Credit Suisse.
 
-Q - Richard Burden
-
-{BIO 1809244 <GO>}
-
+Q - Richard Burden {BIO 1809244 <GO>}
 It's actually okay. All of my questions have been answered already. Thanks.
 
 Operator
 Guilhem Horvath, Exane BNP Paribas.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Page 16 of 25
 
 
@@ -905,10 +815,7 @@ protection products there, which is in my -- from my point of view is pretty goo
 there any country of speciﬁc focus for this type of shift? Which countries are the most
 contributing to the shift? And yes, that would be questions. Thanks.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Thank you very much, Guilhem. So let me talk ﬁrst about Insurance Europe and then
 Delﬁn will take your question on solvency in NN Life.
 
@@ -927,21 +834,13 @@ APE is actually coming from protection sales. So it's an area that we've focused
 that we've done over the last years and that you can see the results coming through now.
 With that point let me just hand over to Delﬁn.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Maybe just (if I could) follow-up on this one. Just a follow-up, please.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yes.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 
 Page 17 of 25
 
@@ -956,10 +855,7 @@ what's your strategy here?
 
 FINAL
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yes. So in Poland we saw the full eﬀect in this quarter of the pension reform coming
 through. You may recall that last year it was -- the pension reform impact was starting in
 March, while this year we have the full three months in the quarter being aﬀected by that
@@ -968,24 +864,15 @@ What we've done there strategically is that if you look at the new sales it's --
 sales are really very small. It's really focused at protection products sales. And that's what
 we see in Poland.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 (Multiple speakers).
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 So with that I would like to hand over now to Delﬁn on the solvency question.
 
 Bloomberg Transcript
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Guilhem, on -- in terms of the UFR, which, as you know, is not something new, it has been
 in place since June 2012. What we are doing is considering for the distribution of
 dividends in NN Life or any other subsidiary, what is the expectations in terms of capital
@@ -996,19 +883,13 @@ the level of solvency of NN Life. Since then, thanks to the evolution of the mar
 situation has improved. And as a consequence I would not read anything negative on the
 comments on UFR in relationship to our capacity of distributing dividends from NN Life.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Well thanks, that was very clear. Thanks.
 
 Operator
 Farquhar Murray, Autonomous.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Morning, gentlemen. Just two questions, if I may, both on the ECJ judgment. There seems
 to be a relatively wide gulf of opinion over -- about judgment and, in particular, both sides
 claiming vindication. The judgment clearly states that open unwritten rules can now be
@@ -1035,10 +916,7 @@ In particular I'm just trying to understand whether that document would be outsi
 scope of what the Dutch courts can look at. Presumably they can only look at the ﬁnal
 judgment. Thanks.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yes. Thank you very much, Farquhar. So ﬁrst on the last piece, the Advocate General
 opinion does not have a separate legal status. So it is a part of a proceeding in which
 multiple parties in that proceeding give their views, or are asked by the European Court
@@ -1049,39 +927,24 @@ the ﬁrst point I'd like to make.
 
 Bloomberg Transcript
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 (Multiple speakers). So as follow on to that, can they actually -- can the Dutch court look at
 that document, though, given it's part of the process?
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Yes. But it's been public and clear, it's there. So it's something that they can look into and
 it's well known. But it doesn't have a legal status. The European Court of Justice has made
 the ruling and they've taken the opinions of all the parties into account, including the
 opinion of the Advocate General.
 They need to take -- the European courts need to take the ruling of the ECJ into account.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Okay.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 I think that's the important thing.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Sorry for interrupting.
 Page 19 of 25
 
@@ -1091,9 +954,7 @@ Company Name: NN Group NV
 Company Ticker: NN NA Equity
 Date: 2015-05-07
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
+A - Lard Friese {BIO 17008174 <GO>}
 
 FINAL
 
@@ -1114,39 +975,25 @@ Now -- that now -- the ECJ judgment aﬃrms our opinion on that in our view and 
 up to the Dutch courts in individual legal proceedings to take this into account. And we'll
 have to await how they deal with that interpretation of the European Court of Justice.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
+Q - Farquhar Murray {BIO 15345435 <GO>}
 
 Bloomberg Transcript
 
 Okay. Thank you.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 And we need to await the outcome of that in individual proceedings.
 
-Q - Farquhar Murray
-
-{BIO 15345435 <GO>}
-
+Q - Farquhar Murray {BIO 15345435 <GO>}
 Okay. Thanks. And sorry for interrupting earlier.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Okay, Farquhar. So let's move on.
 
 Operator
 Benoit Petrarque, Kepler.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Yes. Good morning. Thanks for taking my questions. To come back on these legal
 updates, my understanding is that the information disclosed need to be clear, accurate
 and necessary. But this is for the policyholders. This is -- clearly, the information should be
@@ -1176,9 +1023,7 @@ So what is your view on the underlying investment margin, again clean, for all t
 equity gains? And are you going to book again private equity gains going forward?
 Thanks.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
+A - Lard Friese {BIO 17008174 <GO>}
 
 Bloomberg Transcript
 
@@ -1220,10 +1065,7 @@ FINAL
 
 So with that on the investment margin, Delﬁn.
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Yes. In terms of investment margin, of course, dividends from equity is an important
 element of the investment margin. In this quarter it was relatively high, particularly coming
 from some dividends from private equity. So one should not obviously estimate that that
@@ -1242,19 +1084,13 @@ One aspect maybe to take into account is that somehow when the interest rates ar
 we beneﬁt, as you have seen over the last quarters through our investment management
 business as assets under management and fees increases with the low interest rates.
 
-Q - Benoit Petrarque
-
-{BIO 15997668 <GO>}
-
+Q - Benoit Petrarque {BIO 15997668 <GO>}
 Great, thank you very much.
 
 Operator
 (Operator Instructions) Frank Kopﬁnger, Commerzbank.
 
-Q - Frank Kopﬁnger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopﬁnger {BIO 16342277 <GO>}
 Yes. Good morning, everybody. I have two questions. My ﬁrst question is coming back to
 the closed block VA business. It looks that the runoﬀ is going faster. How are your feelings
 there? Do you stick to your guidance of having runoﬀ 90% until the end of 2019? Or is
@@ -1275,19 +1111,14 @@ Date: 2015-05-07
 linked business? Then, on the other side, is there a chance that you even release reserves
 if interest rates go up?
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
+A - Lard Friese {BIO 17008174 <GO>}
 
 FINAL
 
 So thank you very much, Frank. We will -- so, Doug, can you take care of Japan CBVA?
 Then the technical margin, Delﬁn. So ﬁrst the Japan CBVA question.
 
-A - Doug Caldwell
-
-{BIO 17900909 <GO>}
-
+A - Doug Caldwell {BIO 17900909 <GO>}
 Yes. I think when we say it's going to runoﬀ over 90% by the end of 2019, that's already a
 pretty high number. Whether it becomes 91% or 95% is going to depend mostly on the
 markets.
@@ -1304,16 +1135,10 @@ Bloomberg Transcript
 You would not expect that to move to, say, 2018 because just the nature of the block of
 business. So it's all marginal, I guess, versus that benchmark.
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
-
+A - Lard Friese {BIO 17008174 <GO>}
 Delﬁn.
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Frank, in terms of the unit-linked guarantee provision, if interest rate stays at the same
 level then there is no movement up or down. Basically, these relate to the guarantees
 provided to unit-link. So as interest rates come down the value of the liabilities increases.
@@ -1325,10 +1150,7 @@ However, any appreciation on the general account assets move through the revalua
 reserve in shareholders' equity and, as a consequence, you don't see that impacting
 equally on the operating result.
 
-Q - Frank Kopﬁnger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopﬁnger {BIO 16342277 <GO>}
 And just in theory if interest rates go up you are able to release the reserves?
 
 Page 23 of 25
@@ -1339,16 +1161,11 @@ Company Name: NN Group NV
 Company Ticker: NN NA Equity
 Date: 2015-05-07
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Yes. Indeed. So if interest rates goes up then you will have that impact in the technical
 margin. The reserves will be released.
 
-Q - Frank Kopﬁnger
-
-{BIO 16342277 <GO>}
+Q - Frank Kopﬁnger {BIO 16342277 <GO>}
 
 FINAL
 
@@ -1357,10 +1174,7 @@ Okay. Thanks.
 Operator
 Steven Haywood, HSBC.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Good morning. Just one question. Because your dividend payout ratio is 40% to 50%,
 because you're targeting to return surplus cash to shareholders over time. And also that
 your net cash generation will be roughly equal to your net operating result, are you in any
@@ -1368,41 +1182,27 @@ way restrained on paying out greater than 100% of net proﬁts to shareholders?
 I believe that you might have to ask the regulator if you want to payout more than 100% of
 earnings in one year. Is that true?
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
+A - Lard Friese {BIO 17008174 <GO>}
 
 Bloomberg Transcript
 
 So Delﬁn?
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 Yes. There is no particular legal or regulatory constraint about paying below or above the
 net earnings of the year. And I think that was the core of your question. So there is no
 restriction.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 So yes. And as time goes on, obviously, you're generating as much cash as your operating
 result then you can pay all of that out to shareholders. Is that correct?
 
-A - Delﬁn Rueda
-
-{BIO 7032761 <GO>}
-
+A - Delﬁn Rueda {BIO 7032761 <GO>}
 That's the guidance that we provided at the time of the IPO and is indeed the way that we
 manage the Company towards. Obviously, we also indicated that the surplus capital is
 above any opportunity to reinvest that cash generated within the Company.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -1415,9 +1215,7 @@ Company Name: NN Group NV
 Company Ticker: NN NA Equity
 Date: 2015-05-07
 
-A - Lard Friese
-
-{BIO 17008174 <GO>}
+A - Lard Friese {BIO 17008174 <GO>}
 
 FINAL
 

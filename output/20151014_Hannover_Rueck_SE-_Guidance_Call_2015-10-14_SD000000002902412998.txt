@@ -37,10 +37,7 @@ William Hawkins , Analyst
 Xinmei Wang, Analyst
 
 Presentation
-Karl Steinle
-
-{BIO 1986424 <GO>}
-
+Karl Steinle {BIO 1986424 <GO>}
 Good morning, to all of you. Welcome to Hannover Re's Investors Day 2015. It's the 18th
 edition of this event. My name is Karl Steinle. And I'm really delighted that so many of you
 were able to take up the invitation.
@@ -109,10 +106,7 @@ FINAL
 On that note, I'd like to hand over to our CEO Ulrich Wallin. He will give us some insights
 into Hannover Re's strategy in this competitive environment.
 
-Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+Ulrich Wallin {BIO 4863401 <GO>}
 Thanks, Karl. Good morning. Thanks for coming and hope you enjoyed yesterday evening.
 It's actually quite interesting that the slowest car on the race track was actually winning all
 the time.
@@ -646,26 +640,17 @@ Now I'm happy to answer your questions even though I have run a little bit over 
 Bloomberg Transcript
 
 Questions And Answers
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 okay. We already have some questions. First, we start with Vinit. And please, Vinit, wait for
 the microphone so that all the participants following us through the webcast can hear your
 question as well.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Sure. Thanks, Ulrich. So Vinit from Mediobanca. Just one question really. This 5% trigger
 that you seem to suggest Hannover is waiting for again grow, what if it really doesn't
 happen. So what is the strategy or idea if this is not really the case?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 If the average RoE of the reinsurance market always take double-digit, we will continue to
 be profitable and be happy with that as well. So we are not waiting for the RoE of the
 reinsurance market fall to below 5% because if it stays high, we have the opportunity to
@@ -691,27 +676,18 @@ But if gravity comes to reality, then, of course, the market will drop and there
 game plan is to be prepared for that drop and to be less affected the said drops and the
 average market player to benefit from the uptake after that.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 okay. Any further questions? Okay, we continue with Michael Huttner and then with Frank
 Kopfinger.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Just on the Life, I just came in so I'm really sorry I'm late. But the EUR750 million new profit
 and you say the IFRS profit did twice that. Given that you're getting new business profit
 every year at that level, should we expect therefore your Life profit be EUR1,500?
 
 Bloomberg Transcript
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well as I said, I mean, the value of new business is the expected future cash flows
 discounted to present value and taking off the future cost of capital. But as I explained, I
 mean, the duration is rather long. I mean, if you look at the longevity business, this will
@@ -726,23 +702,14 @@ round, therefore, we like that diversification between the longevity and the mor
 yes, I mean, that's not imminent. But we are confident that, as a result of that, we will be
 able to gradually increase the profitability of our Life & Health business.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 Okay. Next question comes from Frank Kopfinger.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Yes, I have a question on your reserve redundancies to 7.4%. What would you say is the
 comfort level that you will be comfortable going forward to keep.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well based on our limit and threshold system, we are in the amber area because, I mean,
 we are still based on, I mean, on the IFRS best estimate requirements that you have for
 accounting. We still have a very conservative best estimate. So I mean, if that would drop
@@ -763,24 +730,16 @@ FINAL
 It was very helpful, I mean, to grow it to that level in the really very favorable trading
 conditions that we had from 2009 to 2013.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 Any further questions? From Roland Pfaender on this side.
 
-Q - Roland Pf aender
-
-{BIO 3189513 <GO>}
-
+Q - Roland Pf aender {BIO 3189513 <GO>}
 Good morning. Could you provide us maybe with your view on the current growth of the
 P&C reinsurance industry? According to the figures we presented, it was growing by a
 little bit more than 4%. Do you think that might be materially lower than next year's? And
 do you see any disconnect in relation to the primary insurance outlook? Thank you.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
+A - Ulrich Wallin {BIO 4863401 <GO>}
 
 Bloomberg Transcript
 
@@ -815,9 +774,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2015-10-14
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
+A - Karl Steinle {BIO 1986424 <GO>}
 
 FINAL
 
@@ -841,10 +798,7 @@ Bloomberg Transcript
 
 Eberhard, would you like to start the ball rolling?
 
-A - Eberhard Mueller
-
-{BIO 1511045 <GO>}
-
+A - Eberhard Mueller {BIO 1511045 <GO>}
 Definitely. Good morning, ladies and gentlemen. And thank you for this nearly perfect
 introduction, Karl. We will do today the same procedure as every year. But with two voices.
 I will start from the actuarial side with a more boring stuff. The update on the P&C claims.
@@ -1270,19 +1224,13 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2015-10-14
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 If there are any. Okay, we start on the left-hand side with Andrew Ritchie and continue
 with Andrew Broadfield and go along the row.
 
 FINAL
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi, there. Andrew Ritchie from Autonomous. A couple of questions, could you just clarify
 what you think your deployable access capital is then versus the binding constraint which is
 the rating agency requirement? I mean you gave that number last year, I recall, around the
@@ -1311,20 +1259,14 @@ Overall, we think that we have not a huge solvency sensitivity to spread levels 
 more related to the own fund's sensitivity that is obviously substantial as we have a huge
 fixed income book so spread shock will impact our own funds, our available own funds.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 So coming to the credit spreads on corporate blow out 100 basis points, what is the
 effect in your SCR coverage, the 253% coverage?
 
 A - Andreas Maerkert
 I don't know that figure here.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Page 25 of 95
 
 
@@ -1350,9 +1292,7 @@ So from the pure capital perspective there, I would say there is more benefit, o
 the question is, is the business that we are seeing, the business opportunity, are they
 profitable. So that's where we're looking.
 
-Q - Andrew Broadfield
-
-{BIO 7273415 <GO>}
+Q - Andrew Broadfield {BIO 7273415 <GO>}
 
 Bloomberg Transcript
 
@@ -1377,9 +1317,7 @@ relative to risk-neutral investment portfolio. So we allocate a risk budget to t
 which is also reflected.
 But maybe Roland, you want to add to that?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
+A - Roland Vogel {BIO 16342285 <GO>}
 Page 26 of 95
 
 
@@ -1404,9 +1342,7 @@ So there are no limitations but there are also, from an asset management policy
 perspective, we didn't increase our risk appetite, although the consumption of the capital
 has increased by the factors that Andreas have mentioned.
 
-Q - Andrew Broadfield
-
-{BIO 7273415 <GO>}
+Q - Andrew Broadfield {BIO 7273415 <GO>}
 
 Bloomberg Transcript
 
@@ -1418,10 +1354,7 @@ the profile is changing at the business a little bit towards market risk. So as 
 consequence as opposed to an active decision that you're making and how should we
 think about them?
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 I think it's largely the result of a model change. I mean it all really depends what is the real
 occurrence probability of a situation like in 2008. And we just increased the calibration on
 that one. So we are quite conservative there.
@@ -1447,19 +1380,13 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2015-10-14
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 okay. We'll continue with Michael. All right, Andy, if you hand over the microphone. Thank
 you.
 
 FINAL
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 Thank you. Michael Haid, MainFirst Bank. On the EUR1.5 billion reserve redundancies, if I
 understand correctly, 2/3 of this was created over the past six years. And I would like to
 get a better feeling of how this was created in theory or in practice as well. It could come
@@ -1471,9 +1398,7 @@ back to the lower inflation?
 I ask this because maybe the hard market -- maybe the last five years is just an overly
 hard market and we are now in a normal non-life reinsurance market.
 
-A - Eberhard Mueller
-
-{BIO 1511045 <GO>}
+A - Eberhard Mueller {BIO 1511045 <GO>}
 
 Bloomberg Transcript
 
@@ -1506,19 +1431,13 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2015-10-14
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
-
+Q - Michael Haid {BIO 1971310 <GO>}
 So if I just take the last five underwriting years and I take 3% of the combined ratio, would
 that get me to kind of a normal level of reserve redundancies creation?
 
 FINAL
 
-A - Eberhard Mueller
-
-{BIO 1511045 <GO>}
-
+A - Eberhard Mueller {BIO 1511045 <GO>}
 I have to be careful to give you a quick and dirty answer to this because we have several
 lines of business contributing to this overall triangle. So you have to be very careful in
 drawing conclusions from the overall to the single line of business view.
@@ -1533,33 +1452,22 @@ component is on reliability side and the structural component, the major part of
 the US casualty business. And here, you go find. And this is again, what I can recommend
 to you, in the appendix, my rough guesstimate was still in there.
 
-Q - Michael Haid
-
-{BIO 1971310 <GO>}
+Q - Michael Haid {BIO 1971310 <GO>}
 
 Bloomberg Transcript
 
 Thank you.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 I think it's fair to say that on the initial loss ratio takes on the overall book, we are normally
 close to 100 combined. So we start relatively conservative. And in the past years, that has
 proven to be higher, I would say, than our peers. But also to be quite conservative.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 okay. I see further more questions. We start in the last row with Guilhem and then continue
 with Vinit.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Yes, sir. Guilhem, Exane BNP. I have a question regarding the press release we received
 last week on the EIOPA, potentially reviewing the methodology that we use to calculate
 the UFR.
@@ -1597,22 +1505,13 @@ process but which also needed to be set at some point in time to make Solvency I
 
 Bloomberg Transcript
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Good.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 okay, the next question from Vinit Malhotra.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 okay, thank you. So two question please, one is on the operational risk which I saw a very
 small, 85 million increase, whereas my understanding from the latest quarterly conference
 call was operational risk was the key reason why you had to reduce your 285 99.5% to
@@ -1644,19 +1543,13 @@ The reasoning is transferability constraints that the Solvency II framework assu
 So we have a cutoff of own funds and we go to Solvency II reporting own fund, on an own
 fund basis. But these are the two steps and the latest step is the large one.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 And the 265 to 253, is there something there, it's very low?
 
 A - Andreas Maerkert
 That's operational risk.
 
-A - Eberhard Mueller
-
-{BIO 1511045 <GO>}
-
+A - Eberhard Mueller {BIO 1511045 <GO>}
 Yes, I think we can clearly state about 5percentage points are coming when going from
 our internal model which includes our operational risk assessment to the partial internal
 model that we have to replace the operational risk assessment by the standard model.
@@ -1669,29 +1562,20 @@ what caused us in solvency ratio where we've been switching from our internal --
 internal model to the partial internal model replacing the operational risk component by
 the standard model.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 And can you just remind us, the 160% on the 99.97, that hasn't...
 
 A - Andreas Maerkert
 I think it's 285 on the 99.5.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Sorry. This 99.97 at yearend disclosure was 185 range or could you remind us what it was
 compared to 160% now? It's from your slide, sorry.
 
 A - Andreas Maerkert
 Yes, I know what you're talking but what's the exact question?
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 The question is how much has the changed been because of the Solvency II agreement
 with BaFin, of how much have you changed anything?
 
@@ -1707,9 +1591,7 @@ Date: 2015-10-14
 Pure internal targets, the value at risk, 99.97, it doesn't -- it's not affected by the Solvency
 II.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 FINAL
 
@@ -1718,41 +1600,26 @@ So you haven't changed anything there?
 A - Andreas Maerkert
 Yes.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 okay. And the second question was?
 
-A - Eberhard Mueller
-
-{BIO 1511045 <GO>}
-
+A - Eberhard Mueller {BIO 1511045 <GO>}
 Only the 99.5% that matters because that's the solvency ratio level agreed with the
 regulator. On the 99.97, we simply lose our internal approach as usual.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 And Inter Hannover, Juergen, you can make a comment or -- if you like?
 
 Bloomberg Transcript
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 okay. And the reason why thought about transferring in Hannover to Germany was actually
 that it got far more complicated to cope with two regulators within one company because
 we had -- we had the PRA in the U.K., we had the BaFin here that was one driver, then also
 the business is far more internationalized and we felt we could also capitalize on some
 other synergies' internal administration if we have it nearer to our heart.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 If I may add, of course, the advantage that we have in Germany is that we can, in behalf,
 enter into a contract within the Hannover which is profit and loss distribution contract
 Gewinnabfuehrungsvertrag.
@@ -1761,16 +1628,10 @@ course, means that the risk of Inter Hannover is really the risk of Hannover Re 
 that's also why the risk management is more tightly controlled from Hannover Re's risk
 management department because I mean it's really our risk through that contract.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 okay. We have another question from Michael Huttner.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 On the 80%, I was looking at slide 8. And I calculated the years 2003 through 2007, the
 average of those seven years, the -- yes. And the average of those seven years for the
 Page 32 of 95
@@ -1787,10 +1648,7 @@ So I'm just wondering whether the 80% really should be 66% where there is an exc
 
 FINAL
 
-A - Eberhard Mueller
-
-{BIO 1511045 <GO>}
-
+A - Eberhard Mueller {BIO 1511045 <GO>}
 You are optimistic. We have -- as I mentioned, we have a certain realization, loss ratio
 realizations, which were random events on the positive side. So 2003 contributing here
 with a loss ratio of 51.3. It's the same random event on the positive side than it used to be
@@ -1799,15 +1657,10 @@ So you are right, the average of 80% of the more recent underwriting just 2000 a
 which is potential for positive development but definitely up to the final ultimate loss ratio
 being 66%. So forgive me for this.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 okay, do we have -- another question from Andrew Broadfield here.
 
-Q - Andrew Broadfield
-
-{BIO 7273415 <GO>}
+Q - Andrew Broadfield {BIO 7273415 <GO>}
 
 Bloomberg Transcript
 
@@ -1845,18 +1698,13 @@ Date: 2015-10-14
 that basis. But that's not something that's going to happen next year. There's not a lot of
 hope on my side that the rating agencies will approve internal models next year.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
+A - Karl Steinle {BIO 1986424 <GO>}
 
 FINAL
 
 okay. I don't see any further questions on this topic. Oh, Michael Huttner, another one.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Yes, very quickly. So the -- how much business are you getting from Solvency II later this
 year?
 
@@ -1881,10 +1729,7 @@ And now, the Solvency II is a regulatory framework which actually recognizes rei
 both on the SCR side but also on the own fund side where the so-called risk margin. So
 we have a strong benefit from using reinsurance under risk-based framework.
 
-A - Juergen Graeber
-
-{BIO 20978001 <GO>}
-
+A - Juergen Graeber {BIO 20978001 <GO>}
 And maybe I can add a little bit here. We've seen indeed more demand as far as Solvency
 II trigger covers are concerned. There was a period when we had hoped for demand and
 there was very little in the early days.
@@ -1912,10 +1757,7 @@ significantly more demand in Europe. And as Andreas has highlighted, we also hav
 other parts of the world where capital-based systems are following one way or the other
 at the Solvency II regulation. So it's picking up.
 
-A - Claude Chevre
-
-{BIO 17369098 <GO>}
-
+A - Claude Chevre {BIO 17369098 <GO>}
 And so I mean, of course, we see demand increasing but we see also certain solutions
 that we have been providing for many, many years which are going to disappear.
 Let's take a typical solution where you have typical kind of treaties where you're charged - you have 100 expected claims, you're charged 200 premium. And at the end of the
@@ -1931,20 +1773,14 @@ all those risk-based capital regimes are not efficient anyway anymore which mean
 we're going to lose this kind of business but we're going to replace it with reasonable
 risk-based business. So that's just from my side, maybe.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 okay. Well thank you very much for your questions. Before we break for lunch, we -- I'd like
 to hand over to Klaus Miller, who is responsible for the Life & Health business in Northern,
 Eastern and Central Europe, which includes also U.K. and Ireland. And his responsibility
 also extends to the Northern America. He will give us some more details about the
 medium profitability outlook of the Life & Health business.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Yes. Welcome to the bright side of life. You might have locked out (inaudible) because the
 lunch break will be shortened by 12 minutes.
 Some presentations usually start with something like the evening news. The evening news
@@ -2580,17 +2416,11 @@ want dessert.
 
 Bloomberg Transcript
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 So some -- some colleagues have already made their decision. We start with Will Hawkins
 here and then continue with Kamran.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thank you. William Hawkins from KBW. Just briefly, when you were talking about the LOC
 change for US mortality, you gave us the figure of $28 million for the expected
 improvement to profits.
@@ -2600,21 +2430,13 @@ referred to during the presentation that was talking about the -- you know, why 
 required capital for underwriting Life & Health changed. So is there a -- there should be a
 compensating capital cost, I would have thought.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 No. Why should it?
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Because --
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
+A - Klaus Miller {BIO 16886879 <GO>}
 Page 48 of 95
 
 
@@ -2625,18 +2447,13 @@ Date: 2015-10-14
 
 We have this business --
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 FINAL
 
 -- we have more guarantees taken before.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 -- business. Nothing has changed. So far, Ireland had the business and the whole risk but
 we don't care where it is in the group. Andreas Maerkert calculates the capital
 requirement for the group. And whether it comes all from Ireland or all from Hannover, it
@@ -2644,10 +2461,7 @@ doesn't matter.
 There is no trigger in the internal model that said, "okay, we could let them bust." That
 doesn't -- that's not part of that.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 And I think the other thing is the risk that is guaranteed here is, I mean, triple X reserves
 which are very remote. So an actuarial in calculation would associate no probability to the
 tail end of this risk and therefore, I mean, that part of the risk according to the internal
@@ -2658,10 +2472,7 @@ Bloomberg Transcript
 That's the same tail end of risk we are accepting in our financial solutions business.
 They're also the capital requirements are close to zero.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Explanation is correct, Ulrich. But still if there was capital requirements and it was all in
 Ireland, it was all in the group before and now we have shifted a little bit.
 Yes, (inaudible) here. You're correct. Because we cannot provide a guarantee for free.
@@ -2670,24 +2481,15 @@ Ireland but they end up in Germany. You cannot argue that there is a higher tax 
 there are little bit of costs to the profit which ends up in Hannover and less cost to the
 profit in Ireland at this time.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 Kamran?
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 All right. It's Kamran Hossain from RBC. I just have one question about your comments
 from the bulk market. You mentioned that you spot the UK market still be the biggest
 market going forward. What are the obstacles --
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Longevity.
 Page 49 of 95
 
@@ -2697,18 +2499,12 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2015-10-14
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Yes. Longevity. What are the obstacles getting the US market tightening up?
 
 FINAL
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Not really obstacles. We are currently quoting for US business. It just happened a little bit
 later. There was an awful lot of presence onto the UK pension funds and they were just
 early on the game and try to derisk and then we went there.
@@ -2717,15 +2513,10 @@ the other -- when I grew up in the Swiss Re company, I was told you can't write 
 business, you should never ever touch that. Market has changed. Everybody is writing it
 and for good reasons I think it's a good business.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 Okay. Another question from Andrew Ritchie and then from Olivia.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
@@ -2739,25 +2530,16 @@ upfront. So is it the case that we could see the reinsurers doing okay and then 
 with the problem but the primary market continues to make losses? So I just ignore the
 primary results than trying to -- the future risks?
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 I don't know what the reinsurance do. We have stopped writing disability income insurance
 in 2009 and we have to deal with the problem we have but we're not adding to that any
 longer and we believe we have dealt with the problem.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Is the claims environment still -- they're very dynamic in terms of frequency and severity of
 losses?
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 According to my knowledge, I don't know whether Claude can be a little bit more precise.
 The claims levels are sufficient according to our reserve and that means they're
 significantly worse than they were five years ago. So we have now reserve up to that level.
@@ -2771,9 +2553,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2015-10-14
 
-A - Claude Chevre
-
-{BIO 17369098 <GO>}
+A - Claude Chevre {BIO 17369098 <GO>}
 
 FINAL
 
@@ -2783,22 +2563,13 @@ So you see the people will get into disability. They will hardly never return ba
 and this is what you kind of observe in Australia. But on our book, we have reserved that.
 That's what I explained also a year or two years ago.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 So the primary industry could still be getting worse for a bit basically?
 
-A - Claude Chevre
-
-{BIO 17369098 <GO>}
-
+A - Claude Chevre {BIO 17369098 <GO>}
 Absolutely.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 And second question, on the longevity in the UK, how often you get information from the
 savings and the schemes, I mean, because I think there was some, in the years gone by,
 there was a delay not just for Hannover industry in terms of how quickly you got
@@ -2807,44 +2578,26 @@ you get it?
 
 Bloomberg Transcript
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Usually we get annual portfolio information and, of course, we get quarterly accounts but
 that's just the accounting portfolio information once a year. When you look at the slides,
 you'll see that for the block assumptions we have not put in 2013 and '14 and the reason
 is that the full information for 2013 is probably only available in 2015, early 2015.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 So it's a two-year kind of -- right?
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 Two years, yes.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. Thanks.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 To be precise, we get it annually but not for last year but for the year before. Pension
 funds and administration are two things which do not well fit together. Olivia?
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 Page 51 of 95
 
 
@@ -2869,9 +2622,7 @@ UK pension funds but it seems like the sort of supply from the reinsurance indus
 little bit on the cautious side. Do you think at that time pricing has to go up or actually
 maybe it doesn't necessarily move quite as much as the industry would like?
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
+A - Klaus Miller {BIO 16886879 <GO>}
 
 Bloomberg Transcript
 
@@ -2908,19 +2659,14 @@ Date: 2015-10-14
 
 sorry, I lost that, market and supply?
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
+Q - Olivia Brindle {BIO 17273762 <GO>}
 
 FINAL
 
 So the -- yes, the balance of supply and demand on the UK longevity side and what that
 means for the pricing.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 They've gone a little bit more crowded in the last couple of years and this is why you have
 seen that we did not even quote on these deals. We see in general that the pricing is
 better than the rest of the world but that's natural.
@@ -2930,50 +2676,32 @@ France, we have done the first deal in France. You need a good client relationsh
 have to speak French and we believe the margins are for the time being larger in other
 markets.
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 Do you think in UK that pushes after the time because there is so much more than on
 relative to the current supply or?
 
 Bloomberg Transcript
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 I have to give you the theoretical answer. It should but I'm really convinced that this will
 work without any let's say interim period where we might decide not to participate in any
 quotes for three or four years, I don't know, it could happen. The pricing discipline is core
 to our -- to our business model.
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 Okay.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 Okay. Are there any further questions? We will take another one and then I think we break
 for lunch and keep the other questions for later. So Vinit, please.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. I have two quick questions, Vinit here. Just from the the collateral cost, is it such an
 easy win and is the rest of the market also doing this already or because it looks like why
 it wasn't done earlier or, of course, maybe the regulators have changed the view or
 something.
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 It's -- technically it's not that easy because what the regulators want is something which is
 similar to a letter of credit. Letter of credit, you can sell, you get cash immediately.
 Page 53 of 95
@@ -2997,31 +2725,20 @@ contractual obligation to do that so we have the first right if they want to cas
 It's a lot of cycles. I can probably tell you a little bit more about how this works but
 probably it takes 15 minutes so we should have dessert together.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 And just quickly, these enhanced annuities, you have walked -- you have withdrawn from
 this market two years ago or one year ago are reduced exposure, no?
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 No. Not really.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 Bloomberg Transcript
 
 (inaudible).
 
-A - Klaus Miller
-
-{BIO 16886879 <GO>}
-
+A - Klaus Miller {BIO 16886879 <GO>}
 The market reduced significantly because the UK government decided that you don't
 have to take your company pension money and buy a pension but you can get one-off
 payment.
@@ -3033,10 +2750,7 @@ something that we withdraw but somebody in the government said it's a good idea 
 the people have a choice to buy that instead of having to buy it. Probably, they were
 fishing for complements or votes in the election by doing so.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 Okay. Well thank you. We will now break for lunch for about 45 minutes and, well, please
 enjoy the meal and hopefully you have also some aspiring conversation in the dessert of
 course and please be back at 1:30 as not to miss Roland Vogel's presentation. Thank you.
@@ -3059,10 +2773,7 @@ FINAL
 But I'm sure I'm not giving away too much of it to reveal that he has got a good deal more
 besides this on his desk. So Roland, over to you.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 One or two other issues on top of that. Yes. So this year I have the pleasure to execute
 the after lunch session. I think Claude was complaining to be in charge of doing that in the
 previous years so I will try to do my very best to keep you awake with three topics.
@@ -3539,29 +3250,17 @@ also the dividend potential for the next years to come. So we do not foresee any
 limitations in that regard on the basis of these assumptions. So I hope I did not confuse
 and bother you too much with that but this is what I had to say today.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 Well thank you, Roland. I'm not sure if there are any questions. Well we start on the righthand side with Mike Huttner.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Hi. On the real estate in Solvency II , how expensive is it in terms of --
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 It's approximately 20% before and around 11% after diversification, capital requirement for
 the portfolio.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Page 64 of 95
 
 
@@ -3572,54 +3271,34 @@ Date: 2015-10-14
 
 So the return equity then is 40%?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
+A - Roland Vogel {BIO 16342285 <GO>}
 
 FINAL
 
 On that basis?
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Pre-tax.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Yes, on that basis.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Okay. Okay. Okay. It makes sense. Then the other question is what's -- I keep forgetting
 what tax should we use for the group that was prompted by equalisation number
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Well the equalisation number is only valid obviously in Germany and here approximately,
 well, 35-ish.
 
 Bloomberg Transcript
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Then the last question and I guess is this swings from EUR300 million contribution to
 release between EUR60 million and EUR140 million? Is that the amount of the increased
 dividend?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 I think I mentioned the word financial flexibility, Michael. What we want to demonstrate
 here and this is why we put that on the agenda is that we heard various times because
 obviously also our friendly competitors did these presentations and showed their
@@ -3648,31 +3327,20 @@ not limitations to do that if the circumstances provide for it.
 
 FINAL
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 And Michael, if I may add, this is all pre-tax. So I mean, the difference will be taxed.
 Naturally, on IFRS, this is not a factor because if they've just been reduced to differ tax
 liabilities.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 Okay. We continue with In-Yong on the right-hand side.
 
-Q - In-Yong Hwang
-
-{BIO 18784369 <GO>}
-
+Q - In-Yong Hwang {BIO 18784369 <GO>}
 In-Yong Hwang from Goldman Sachs. Just on the last slide there, can you give us what the
 trends in the equalisation reserve level would be like if you didn't have any internal
 retrocession to fill in and try to manage the reserve there?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
+A - Roland Vogel {BIO 16342285 <GO>}
 
 Bloomberg Transcript
 
@@ -3688,16 +3356,10 @@ dollar basing this because the US dollar had hardened so much then your premium 
 up then your provisional target amount goes up. So we would have seen a remarkable
 contribution.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 Then we continue with Vinit.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Vinit Malhotra from Mediobanca. So Roland, my favorite question again, in the maturity
 patterns, does a significant change between what do you expected for '15 last year and
 what are you predicting now for '15, is there a change -- so just to give a number here, I
@@ -3714,9 +3376,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2015-10-14
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
+A - Roland Vogel {BIO 16342285 <GO>}
 
 FINAL
 
@@ -3749,10 +3409,7 @@ comparing apples to oranges on that basis, I could well be -- I would not be in 
 to address that immediately. But I'm a bit suspicious that there is a little bit of systemic
 approach that -- because I would always look into the future, not into the past.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Thank you. And I'm just thinking because you mentioned that number of -- from the
 Germany GAAP balance sheet a number closer to EUR2 billion and in this regard, I mean,
 if I look at the -- again, sorry for repeating this but I need the clarity here, the 99.97
@@ -3773,9 +3430,7 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2015-10-14
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
+A - Roland Vogel {BIO 16342285 <GO>}
 
 FINAL
 
@@ -3794,18 +3449,12 @@ would still be the rating agencies, that model change had no impact at all. So i
 regard the excess -- you say the tangible excess capital which we have outside that
 calculation didn't change at all.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you.
 
 Bloomberg Transcript
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 I would say -- I would add sense, the drop on the 99.7 from 160 to 130 in very rough terms
 to the largest part was actually currency driven because, I mean, our capital, why we have
 increased the US dollar capital business changing the financial currency of our Bermuda
@@ -3817,22 +3466,13 @@ And the exact details actually Andreas know because he explained that in great d
 the executive board because you had exactly the same question and he said, well, if it
 turns up and down like this, what's the value? So we got that explanation.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 I have seen multiple indications from Will Hawkins -- so, that's your -- your question there.
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 Thanks. Just on the claims equalization reserve. I'm confused on the points of principle. I
 can see the claims equalization reserve in German GAAP is still important for how work
 Page 68 of 95
@@ -3848,10 +3488,7 @@ calculation completely irrelevant to your financial flexibility and your capital
 
 FINAL
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 No, you should bear in mind the German GAAP is the basis for the regulation. It is also the
 basis for the taxes. But the main addressee still, according to the German accounting
 rules are the public, the datas. And all that. So the reason why we account and publish
@@ -3866,44 +3503,30 @@ So regulators use these accounts. And based on the Solvency II, the regulator do
 need it anymore but the rest of the reasons to produce these accounts and especially the
 law is still in existence.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
+A - Ulrich Wallin {BIO 4863401 <GO>}
 
 Bloomberg Transcript
 
 The only way we're getting away from German GAAP would be moving the domicile of
 the company to another country.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Or if the German lawmakers says, hey, let us talk about IFRS equivalence acceptance. So
 we would be allowed to move as other jurisdiction did like Island or Bermuda. They still
 have their local accounting rules but they have accepted -- well, if you reduce audited
 financials according to IFRS, you are no longer forced to do the local thing. So that would
 be an approach. But I think we are far away from that in Germany.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 But I mean I should add that law is not just for insurance companies. I mean, it's for all
 operations on any company in Germany.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 It has to be audited and all -- so, if you have a corporation -- you have all these laws to
 follow and that it go -- doesn't go away because one industry regulator has a new -- has a
 new jurisdiction or has a new framework.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 It looks to me we have a few more questions. We start with Andrew Broadfield and
 continue with Frank Kopfinger. And then (Olivia), please.
 
@@ -3917,10 +3540,7 @@ Date: 2015-10-14
 
 FINAL
 
-Q - Andrew Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andrew Broadfield {BIO 7273415 <GO>}
 Thanks. Andrew Broadfield from Barclays. Just on the -- again, on the equalization
 provision, the static assumptions that you put in to show that fade down, just wondering -I guess our expectations are that it might just get a little bit tougher the next couple of
 years and I'm just wondering is that deterioration in underwriting profit? Would that be
@@ -3929,10 +3549,7 @@ really put an assumption around deteriorating underwriting results when we think
 the close in the distributable capital out of German GAAP unless because -- how much
 deteriorates by equalization provision to some extent will upset that?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 First -- one problem and I give trace equalization reserve as a solvency to 1.0 which, of
 course, was a little bit of the financing. Because you feel something. One issue always had
 been a systematic issue with the equalization reserve was that with interest rates going
@@ -3955,25 +3572,16 @@ and good risk base management system.
 So I'm not quite sure whether I understood your question correctly if we now see
 deteriorating underwriting results. Is that what you suggested?
 
-Q - Andrew Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andrew Broadfield {BIO 7273415 <GO>}
 Yes. So --
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 One would use it well -- there would be a tendency that you withdraw, that your -- that
 your German GAAP results got better by that. That had not been included in that. So that
 was really based on an everything equal we achieve our 96 -- below 96% combined ratio
 assumption.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 I think there's one thing to add as far as the underwriting result is concerned, whilst
 Eberhard has demonstrated redundancies on the IFRS accounting, our lot reserves we are
 Page 70 of 95
@@ -3987,51 +3595,34 @@ Date: 2015-10-14
 holding on -- on German GAAP are still significantly higher than what we are holding on
 IFRS because German GAAP principle is prudent rather than best estimate.
 
-Q - Andrew Broadfield
-
-{BIO 7273415 <GO>}
+Q - Andrew Broadfield {BIO 7273415 <GO>}
 
 FINAL
 
 So if I to square that away this EUR2.8 billion of equalization reserves is the billion on IFRS
 reserves plus another number on German GAAP reserves --
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 On top of that.
 
-Q - Andrew Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andrew Broadfield {BIO 7273415 <GO>}
 On top of that. Okay. Then -- and then you mentioned something -- I just -- you made a
 partial comment about for a tax liabilities, not that -- not necessarily is it good for IFRS, I'm
 must wondering whether you could --
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 No. It's -- I think it does -- the comment was that it doesn't have any impact on the IFRS
 results because all the tax effects are already deferred -- in the deferred taxes on IFRS
 balance sheet.
 
 Bloomberg Transcript
 
-Q - Andrew Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andrew Broadfield {BIO 7273415 <GO>}
 And just finally, on that tax issue, is there an issue in Germany about -- is there a time
 value to deferring your tax payments but -- by reserving -- in deferring your reserves? Do
 you have to -- when you release your reserves just to pay tax --
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Well yes, I could have done that as well. You have a nearly as formulaic ) -- is that an
 english word? I hope so -- assumptions to discount your last reserves according to -- for
 tax reasons. So there is a mechanism to have -- to have lost reserves discounted but only
@@ -4055,33 +3646,22 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2015-10-14
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 The steps from the German GAAP results to the results of the tax balance sheet is, I
 guess, another six steps --
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
+A - Roland Vogel {BIO 16342285 <GO>}
 
 FINAL
 
 Yes. That will be that. That will be it.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Frank Kopfinger, Commerzbank. I've also a question to the equalization reserve on the
 figures that you showed the reduction, EUR68,145,140, can you break it down what the
 contribution is from the -- an industrial line since this is probably the driving force?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 That is the driving force. That is -- you could argue -- via this internal retrocession which we
 have done outside Germany which reduces the provisional target amount, we, to a certain
 extent, smooth a little bit what is to be expected from the WTC standard variation trigger
@@ -4094,19 +3674,13 @@ been far higher than the amount which we see here. So we see that. And as we hav
 concentrated on that one line of business, the contribution, to that withdrawal comes
 from that one line of business.
 
-Q - Frank Kopfinger
-
-{BIO 16342277 <GO>}
-
+Q - Frank Kopfinger {BIO 16342277 <GO>}
 Okay. Then my second question is on your retained earnings. Obviously, this is to
 precondition to any potential buybacks in the future. Do you have any target level that you
 want to reach? Because, currently, with 380, this is probably at a very low level to have
 some buybacks.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Well we -- we have not defined a real target level up to now. I mentioned before that
 according to German GAAP you can also do other things. You have four parts of your
 investments. You have really the lowest value of principle which I realized those hidden
@@ -4130,26 +3704,18 @@ Date: 2015-10-14
 I would say we would at least to double them and longer term, it will just be unavoidable
 to increase them even more other than to pay them out.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
+A - Karl Steinle {BIO 1986424 <GO>}
 
 FINAL
 
 Okay. Well Olivia, please.
 
-Q - Olivia Brindle
-
-{BIO 17273762 <GO>}
-
+Q - Olivia Brindle {BIO 17273762 <GO>}
 Just one very quick one I have left. You mentioned the acceptable ROE and the context of
 the dividend. So I just wanted to confirm is that still the 12th to 13% level that you've talked
 about before?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 With a -- with a little side view to my CEO, I would say yes. I did -- this is -- we are still
 comfortably above the hurdle and that all also depends on the development of the
 denominator of that equation that is a capital. We have seen spread levels going out. So
@@ -4161,26 +3727,17 @@ under that level, we might reconsider and look at capital management options.
 
 Bloomberg Transcript
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 Okay. Two last questions. One from Andreas Schaefer and from Guilhem.
 
-Q - Andreas Schaef er
-
-{BIO 4667112 <GO>}
-
+Q - Andreas Schaef er {BIO 4667112 <GO>}
 Okay. Thanks. Just two little questions. One on the dividend payment last year or for this
 year. It is 100% payout ratio on the German GAAP distributable earnings. So is that just
 coincidence or was it just to have the maximum payout ratio this year? And the second
 question, do you have any sort of calculation? What are your unrealized capital gains on
 your real estate portfolio?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Well we'd have to look at the your seconds. It is remarkable. We do value with outside
 valuators every second year and do an internal valuation every year, of course, we are in
 the triple digit million range. Everything else, I would have to look it up. I don't exactly
@@ -4197,18 +3754,12 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2015-10-14
 
-Q - Andreas Schaef er
-
-{BIO 4667112 <GO>}
-
+Q - Andreas Schaef er {BIO 4667112 <GO>}
 The dividend paid out this year --
 
 FINAL
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Well it was a coincidence -- well, there are some options. Again, as it is so conservative,
 there's also some optionality to steer that. As a good old German GAAP chief accountant
 to pay out of retained earnings something which you -- and, of course, we are -- we are
@@ -4218,10 +3769,7 @@ Well if we then say look, this is capital management, we have retained earnings,
 increased retained earnings, we don't need the money anymore, then I wouldn't -- I
 would avoid that. But if that is avoidable and maybe it was due to a certain extent.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Just a quick question on -- I read an article on some local rules in Germany which limit the
 freedom -- which could decide on what you want to invest. I don't exactly know this kind of
 local rules but does it ring a bell?
@@ -4232,41 +3780,24 @@ And second, this -- didn't insurers were apparently thinking that these -- these
 not be enforced with Solvency II but does it chance that they will be? What's your view on
 that and what (inaudible)?
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Not exactly if I -- if I understand you correctly. If you talked about the capital and
 Kapitalanlageverordnung which is the rule for German insurers where they can invest and
 what they have to -- that is not valid for reinsurers. That is just for insurers.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Okay. Then --
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 So we don't have those limitations.
 
-Q - Guilhem Horvath
-
-{BIO 18460437 <GO>}
-
+Q - Guilhem Horvath {BIO 18460437 <GO>}
 Okay. Good. Thanks.
 
-A - Roland Vogel
-
-{BIO 16342285 <GO>}
-
+A - Roland Vogel {BIO 16342285 <GO>}
 Okay?
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
+A - Karl Steinle {BIO 1986424 <GO>}
 
 Page 74 of 95
 
@@ -4290,9 +3821,7 @@ explore business opportunities and so Juergen Graeber will dive into that issue 
 Thank you.
 +++presentation
 
-A - Juergen Graeber
-
-{BIO 20978001 <GO>}
+A - Juergen Graeber {BIO 20978001 <GO>}
 
 Bloomberg Transcript
 
@@ -5031,27 +4560,18 @@ Company N ame: H annover Rueck SE
 Company Ticker: H N R1 GR Equity
 Date: 2015-10-14
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 Well thank you. We already have some questions here from Xinmei and Michael Huttner.
 
 FINAL
 
-Q - Xinmei Wang
-
-{BIO 17860767 <GO>}
-
+Q - Xinmei Wang {BIO 17860767 <GO>}
 Thank you. Xinmei Wang from Morgan Stanley. So on the cyber, you talked about cyber cat
 cover. So what do you think about the possibility of alternative capital coming in to fill that
 coverage gap instead? And my second question is when you think about cyber, do you -do you have that thing about target or an ambition of how much the P&C booked you
 would like to be cyber over the next couple of years?
 
-A - Juergen Graeber
-
-{BIO 20978001 <GO>}
-
+A - Juergen Graeber {BIO 20978001 <GO>}
 Yes. Maybe I'll start -- thanks for your questions -- with the second question. We would
 never have kind of strategic targets how much it would have to be. We hope it can be a
 similar take -- can take a similar pattern like the D&O business, grow to three digits. But if,
@@ -5074,20 +4594,14 @@ So I hope that we have a little bit of first mover advantage here as a community
 minute we offer it to the broker distribution channels, all other reinsurance companies will
 pick up within three to six months.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 My question were directly related, I'm sorry. But on the -- is there any benefit of Tianjin in
 terms of pricing and maybe you can talk more broadly about pricing of the account
 renewal. Then -- and this is not related to you -- I'm really sorry -- but during lunch, I picked
 up a comment that as much as your reserves in nonlife are huge and the life, a little bit
 light. And I didn't understand why. But maybe that's not quite appropriate.
 
-A - Juergen Graeber
-
-{BIO 20978001 <GO>}
-
+A - Juergen Graeber {BIO 20978001 <GO>}
 Well if I may. I wouldn't comment on the first part. I would give this to, maybe Andreas or
 Ulrich. The second part on the -- on the light reserves. Tianjin and pricing, well, whenever
 
@@ -5120,10 +4634,7 @@ responsibility. That's my assumption. Haven't started the negotiations yet, thou
 
 Bloomberg Transcript
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 Well if I may answer on the life side fee reserve level, I mean, the half significant surplus
 can be life reserves as well. What that, however, refers to is on the benefit reserves the
 future positive cash flows, I mean, this is, I think -- Klaus, correct me if I'm wrong -probably in the region of 1.6 billion, this is just the runoff positive results that we are
@@ -5154,18 +4665,13 @@ Date: 2015-10-14
 
 Did I explain that correctly? Okay. Thank you.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
+A - Karl Steinle {BIO 1986424 <GO>}
 
 FINAL
 
 Okay. We have another question from Andrew Ritchie.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Thanks. Just two quick questions. First of all, have there been an insurance claims in
 cyber? Not specific to how to you but for the market and maybe just give us a sense as to
 whether small market as it is and has it been profitable so far.
@@ -5175,9 +4681,7 @@ business really is. It doesn't look that profitable overtime but maybe just give
 premises as to is there a pricing cycle in agriculture? I appreciate -- there's a lot of state
 involvement with the caps. Do you have any, sort of, sense of how profitable it is?
 
-A - Juergen Graeber
-
-{BIO 20978001 <GO>}
+A - Juergen Graeber {BIO 20978001 <GO>}
 
 Bloomberg Transcript
 
@@ -5222,19 +4726,14 @@ Maybe in the early years it might occur from time to time but the longer the bus
 the market, the margins are more like short limit property margins, maybe 6%, 7% on
 proportional business.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 And just for another -- you commented that you thought cyber was similar to
 development of D&O, the D&O market. I mean, maybe this is about a kind of rumors as
 to what happened to the D&O market. It developed. There was a period of losses.
 People worked out kind of what the right limits were and then it's now a mature-ish
 market. I mean, how would -- what are the similarities for early D&O.
 
-A - Juergen Graeber
-
-{BIO 20978001 <GO>}
+A - Juergen Graeber {BIO 20978001 <GO>}
 
 Bloomberg Transcript
 
@@ -5248,29 +4747,17 @@ yes, that your share price drops different through the market development, yes?
 Say, the market stays solid and your share price drops right away that will be class action
 started. And this can happen on the cyber exposure like it can happen on the D&O side.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 So the D&O to WorldCom, Enron, the financial crisis to kind of mature. So I guess, it does
 have the same thing.
 
-A - Juergen Graeber
-
-{BIO 20978001 <GO>}
-
+A - Juergen Graeber {BIO 20978001 <GO>}
 Yes.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay.
 
-A - Karl Steinle
-
-{BIO 1986424 <GO>}
-
+A - Karl Steinle {BIO 1986424 <GO>}
 Okay. Well thank you, Juergen for your presentation and the questions.
 
 Page 93 of 95
@@ -5291,10 +4778,7 @@ After this, I'd like to invite you to join us in the hall for snacks and drinks.
 certainly would like to thank you for your participation today, also on behalf of the
 management and the entire investor relations team.
 
-A - Ulrich Wallin
-
-{BIO 4863401 <GO>}
-
+A - Ulrich Wallin {BIO 4863401 <GO>}
 So thank you, Karl.
 Briefly, briefly on the wrap up and the concluding remarks, well, the guidance remains
 unchanged as Karl already mentioned. I mean, the growth, 5% to 10% currency adjusted,

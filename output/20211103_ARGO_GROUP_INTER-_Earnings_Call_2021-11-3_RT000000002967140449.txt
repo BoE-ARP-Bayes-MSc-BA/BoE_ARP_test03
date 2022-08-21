@@ -26,10 +26,7 @@ and I'll be coordinating the call today. (Operator Instructions). I will now han
 host, Greg Charpentier, AVP of Investor Relations and Corporate Finance. Greg over to
 you.
 
-Gregory Charpentier
-
-{BIO 20231789 <GO>}
-
+Gregory Charpentier {BIO 20231789 <GO>}
 Thank you, and good morning. Welcome to Argo Group's conference call for the third
 quarter of 2021. After the market closes last night, we issued a press release on our
 earnings, which is available in the investor section of our website at www.argogroup.com
@@ -59,10 +56,7 @@ I will now turn the call over to Kevin Rehnberg, Chief Executive Officer of Argo
 
 FINAL
 
-Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+Kevin J. Rehnberg {BIO 3832713 <GO>}
 Good morning, and thank you for the introduction, Greg. Welcome to everyone on the
 call. I'm happy to speak today about the strong results we reported. Our operating
 earnings per share was $0.91 for the third quarter, despite elevated catastrophe losses
@@ -191,10 +185,7 @@ Overall, I'm very pleased with our results for the quarter and the progress we'v
 able to make on our strategic objectives.
 I will now turn the call over to Scott to discuss our results in more detail.
 
-Scott Kirk
-
-{BIO 18973074 <GO>}
-
+Scott Kirk {BIO 18973074 <GO>}
 Yes. Thank you, Kevin, and good morning, everybody. We reported strong earnings during
 the third quarter of 2021, driven by reduced catastrophe losses and improved combined
 ratio, and a strong contribution from alternative investments. The combination of these
@@ -367,24 +358,16 @@ Date: 2021-11-03
 Thank you. We will now proceed with the Q&A session. (Operator Instructions) Our first
 question comes from Matt Carletti from JMP Group. Matt, your line is now open.
 
-Q - Matthew Carletti
-
-{BIO 5249827 <GO>}
+Q - Matthew Carletti {BIO 5249827 <GO>}
 
 FINAL
 
 Hi. Thanks. Good morning.
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Good morning.
 
-Q - Matthew Carletti
-
-{BIO 5249827 <GO>}
-
+Q - Matthew Carletti {BIO 5249827 <GO>}
 Kevin, I just have -- I just had a high level question for you, back in March I guess on
 Investor Day. It sounded like you largely had the team on the field, if you will, in terms of
 the business going forward. I think there was -- there could be some nips and tucks
@@ -397,10 +380,7 @@ get a picture of kind of what our goal is going to look like going forward at th
 
 Bloomberg Transcript
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yes. That's a -- thanks, Matt. At our Investor Day -- this is a good time to update it. That's
 part of the reason we put the supplement out for some updates on what is remaining
 because there's been so many pieces that moved around. So as I mentioned in my
@@ -421,9 +401,7 @@ So I think it was time to help clear out the noise. Now there's going to still b
 in the results of these things we've recently gotten out of, but this gives you a sense of
 what it looks like. So hopefully that helps.
 
-Q - Matthew Carletti
-
-{BIO 5249827 <GO>}
+Q - Matthew Carletti {BIO 5249827 <GO>}
 Page 8 of 16
 
 
@@ -438,10 +416,7 @@ ongoing business?
 
 FINAL
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Absolutely. Yeah. I mean that's why -- look if you go to the supplement and look at Page 5
 on the pro formas, what's left in there is actually good and we still have some things that
 we're moving out of and we're still getting rate. So, like I said, it's all about capital and
@@ -451,16 +426,10 @@ So those things are going to apply a line of business and we very recently annou
 the Syndicate that we're getting out of the North American binders business and the
 property business. So those will have a significant impact on volatility as we go forward.
 
-Q - Matthew Carletti
-
-{BIO 5249827 <GO>}
-
+Q - Matthew Carletti {BIO 5249827 <GO>}
 Okay, great. Thank you for the color. I appreciate it.
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yeah, thank you.
 
 Bloomberg Transcript
@@ -469,36 +438,21 @@ Operator
 Thank you, Matt. Our next question is from Greg Peters from Raymond James. Greg, your
 line is now open.
 
-Q - Alex Blostein
-
-{BIO 15412167 <GO>}
-
+Q - Alex Blostein {BIO 15412167 <GO>}
 Good morning. This is Alex Blostein on for Greg Peters.
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Oh, good morning Alex.
 
-Q - Alex Blostein
-
-{BIO 15412167 <GO>}
-
+Q - Alex Blostein {BIO 15412167 <GO>}
 Yeah. Good morning. Maybe just first, if you could provide a little more color around the
 reserve development maybe the $7 million accounting adjustments.
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yeah. So I'm going to let Scott take this one, because it's an accounting issue. So Scott,
 why don't you jump in here, please?
 
-A - Scott Kirk
-
-{BIO 18973074 <GO>}
-
+A - Scott Kirk {BIO 18973074 <GO>}
 Page 9 of 16
 
 
@@ -513,37 +467,25 @@ say other than that.
 
 FINAL
 
-Q - Alex Blostein
-
-{BIO 15412167 <GO>}
-
+Q - Alex Blostein {BIO 15412167 <GO>}
 Okay. And then maybe going back to the investor presentation, you set out ceded
 reinsurance ratio targets. I think about 63% in the U.S., 57% in international. I guess, you
 still seeking those targets or the targets moved at all?
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yeah. So they're not actually targets, those are actual numbers and that's why we put
 them out there. And what we're intending to show is that it's on a trend upwards and will
 continue that way based on some reduction and exposures. But more importantly, the
 reduction in the volatility lines, which are heavily property weighted and had sort of an
 outsized share of reinsurance relative to what's remaining.
 
-Q - Alex Blostein
-
-{BIO 15412167 <GO>}
-
+Q - Alex Blostein {BIO 15412167 <GO>}
 Okay. Great. And then lastly, maybe just can you touch on maybe your confidence of the
 right environment, maybe into 2022.
 
 Bloomberg Transcript
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yes. Sure. We are seeing rate that is consistent with what we're hearing from our
 competitors and brokers in the lines we participated, right? We're sort of solidly there or
 right in the middle of the pack, in some instances, we may be a little above a little bit low.
@@ -554,26 +496,17 @@ inflation is on the horizon. The competitive environment is still pretty strong.
 going to continue to see rates moving up in certain lines are going to drive it heavily, but
 it'll -- there's -- we're not looking at or expecting an abatement right now.
 
-Q - Alex Blostein
-
-{BIO 15412167 <GO>}
-
+Q - Alex Blostein {BIO 15412167 <GO>}
 Okay, great. Appreciate the answers.
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Great. Thank you.
 
 Operator
 (Operator Instructions) We have another question from Casey Alexander from Compass
 Point Research. Casey, your line is now open.
 
-Q - Casey Alexander
-
-{BIO 1521572 <GO>}
-
+Q - Casey Alexander {BIO 1521572 <GO>}
 Hi. Good morning. Good morning and thank you for taking my questions.
 Page 10 of 16
 
@@ -583,28 +516,19 @@ Company N ame: Argo Group I nternational H oldings L td
 Company Ticker: ARGO US Equity
 Date: 2021-11-03
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yeah, good morning, Casey.
 
 FINAL
 
-Q - Casey Alexander
-
-{BIO 1521572 <GO>}
-
+Q - Casey Alexander {BIO 1521572 <GO>}
 Yeah. My first question kind of relates to clearly, successfully you took down the property
 and or wind exposure and it resulted in a much better outcome this quarter. Are you kind
 of satisfied where you are? Or is it the sort of underwriting strategy and structural
 strategy to take that wind exposure down, even more, when we get to the catastrophe
 season in 2022?
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yeah, really good question. We are both satisfied and continuing to move forward, right,
 to answer it very specifically. So we had anticipated that we would reduce the exposures
 over the course of the year and over the course of a year and a half and we managed to
@@ -624,20 +548,14 @@ there would be a continuation of exposure reduction. What that means to the net,
 depends on what reinsurance program we can buy going forward. But it's -- we are happy
 with the direction we're going in and we're continuing to work on it.
 
-Q - Casey Alexander
-
-{BIO 1521572 <GO>}
-
+Q - Casey Alexander {BIO 1521572 <GO>}
 Okay. Got it. Thank you. Secondly, I hate to get too far a field, but we're getting near the
 end of 2021. So from a modeling perspective, we, unfortunately, have to start thinking
 about 2023. So would you expect the downward trend in the expense ratio to continue in
 2023 and would that come primarily from expected earned premium growth or from
 continued expense actions?
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 So we tried to give some color on the expenses for so far, right. And I think the key one is
 that we've reduced the overall headcount of the organization by 16%. And what we've
 said before was that, look, this is going to -- as we get out of different things and places,
@@ -675,20 +593,14 @@ something we'll watch very closely and stay after.
 
 Bloomberg Transcript
 
-Q - Casey Alexander
-
-{BIO 1521572 <GO>}
-
+Q - Casey Alexander {BIO 1521572 <GO>}
 Okay. I have two more questions for you. And I think these are questions that are
 confronting a lot of organizations these days. My first question is, how do you have to
 manage differently in order to create a culture in an environment where a lot of your
 employees are not on site? I'll bring that first question out. I mean, it's just a difficult issue.
 I'm curious what your thoughts are.
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yeah, it's a difficult and great issue to talk about. So there's two pieces to this. For the
 folks who have been around a while and work together, it's really not that hard. It's -people go through personal issues at times, but it's -- for those of us who have worked
 closely together for a while, it's not that difficult, but we have a lot of new employees,
@@ -714,10 +626,7 @@ Date: 2021-11-03
 
 FINAL
 
-Q - Casey Alexander
-
-{BIO 1521572 <GO>}
-
+Q - Casey Alexander {BIO 1521572 <GO>}
 Here is my last question. I think that investors really appreciate the strategic streamlining
 and the much tighter focus of the business effort, and whatever you can do to continue
 that and even tight-knit further, I think investors really like it but is there a piece that's
@@ -726,10 +635,7 @@ could be highly accretive or strategically important. And I think it would be he
 communicate that just so that it didn't catch investors by surprise and feel like a strategic
 change.
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Okay. No, that's a good point, that's while taking. Let me just start to answer that question
 by saying that, the feel of the business and the leaders that are left running what we have
 is better than I've ever seen, right. And on the international side, we've got people that
@@ -751,27 +657,18 @@ understand what we're about from an underwriting standpoint and exposure standpo
 and have the right market contacts. And so you may see in the future us entering a few
 areas that we haven't been in or haven't been in for a while.
 
-Q - Casey Alexander
-
-{BIO 1521572 <GO>}
-
+Q - Casey Alexander {BIO 1521572 <GO>}
 All right. Well, I'm way over my quota for asking questions. So, I'll stop there. But thank you
 for taking my questions. I appreciate.
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yeah. We appreciate your interest. Thanks.
 
 Operator
 Thank you, Casey. Our next question comes from Ron Bobman from Capital Returns. Ron,
 your line is now open.
 
-Q - Ronald Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald Bobman {BIO 17308423 <GO>}
 Hi. Thanks, and good morning.
 
 Page 13 of 16
@@ -782,18 +679,12 @@ Company N ame: Argo Group I nternational H oldings L td
 Company Ticker: ARGO US Equity
 Date: 2021-11-03
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Hey. Good morning, Ron.
 
 FINAL
 
-Q - Ronald Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald Bobman {BIO 17308423 <GO>}
 I have a question about, hi, you gave us I think again sort of specificity on the expense
 ratio estimate for next year '22, and I recognized an estimate or guidance for a loss ratio
 is far more complicated, particularly with the mix changes. And of course, sort of the
@@ -809,10 +700,7 @@ really what I'm getting, can you help there, please.
 
 Bloomberg Transcript
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yes. So we have traditionally not giving guidance, however, the last two years in the fourth
 quarter call we have given some sort of direction about where we thought the business
 would go on a combined basis. So while we haven't given the expense -- I'm sorry, the
@@ -831,10 +719,7 @@ exactly what it was because it was moving. But I think the numbers that we have 
 more discreet, will try to do our best about timelines on certain things. It's a good request
 and we'll work on that for you because that noise is complicated.
 
-Q - Ronald Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald Bobman {BIO 17308423 <GO>}
 Yeah, understood. Understood. Moving a field, the contribution in the quarter the
 underwriting contribution from a profit or loss. How Syndicate 1200 and how did Argo
 Bermuda contribute to either operating income or underwriting profits in the third quarter
@@ -848,82 +733,50 @@ Company N ame: Argo Group I nternational H oldings L td
 Company Ticker: ARGO US Equity
 Date: 2021-11-03
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yeah. We haven't broken that out. And I don't really want to set a precedent here, but on
 the international lines from an operating income, you can see on the release it was 7.4
 million.
 
 FINAL
 
-Q - Ronald Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald Bobman {BIO 17308423 <GO>}
 So in the past, you've commented on 1200 underwriting profitability. How did that do in
 the quarter?
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Scott, do you have the final number there?
 
-A - Scott Kirk
-
-{BIO 18973074 <GO>}
-
+A - Scott Kirk {BIO 18973074 <GO>}
 Ron, could you run the question by me again? What we looking for exactly?
 
-Q - Ronald Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald Bobman {BIO 17308423 <GO>}
 Was 1200 from an underwriting perspective profitable in the quarter?
 
-A - Scott Kirk
-
-{BIO 18973074 <GO>}
+A - Scott Kirk {BIO 18973074 <GO>}
 
 Bloomberg Transcript
 
 Look, you can see that the contribution overall was not huge. So we're in and around a
 break-even or thereabouts.
 
-Q - Ronald Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald Bobman {BIO 17308423 <GO>}
 Okay. Thanks.
 
-A - Scott Kirk
-
-{BIO 18973074 <GO>}
-
+A - Scott Kirk {BIO 18973074 <GO>}
 I can't be any more specific than that, because I don't want to --
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 But as a reminder, we didn't announce we're getting out of North American binders and
 the D&F business, which was impacted by either. So those are -- I'm just pointing out
 facts, I'm not trying to make excuses for it, right. We're focusing on what's the underlying
 business going forward.
 
-Q - Ronald Bobman
-
-{BIO 17308423 <GO>}
-
+Q - Ronald Bobman {BIO 17308423 <GO>}
 Okay, I'm not sure. Okay, I can ask offline. Actually want, I fully understand my last
 comment. Thank you.
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Okay, thanks.
 
 Page 15 of 16
@@ -940,10 +793,7 @@ remarks.
 
 FINAL
 
-A - Kevin J. Rehnberg
-
-{BIO 3832713 <GO>}
-
+A - Kevin J. Rehnberg {BIO 3832713 <GO>}
 Yeah, thank you to everyone for joining us today. I want to thank the employees for the
 great work they've been doing and get us where we're gone. And shareholders for
 supporting us, Regulators and rating agencies for your interest in us, and anyone else

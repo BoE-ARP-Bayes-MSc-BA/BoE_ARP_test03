@@ -27,10 +27,7 @@ the 31st of July, 2019.
 I would now like to hand the conference over to your speaker today, Matteo Del Fante.
 Please go ahead, sir.
 
-Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+Matteo Del Fante {BIO 6237992 <GO>}
 Good morning, ladies and gentlemen. Thank you for joining us this morning as we
 present Poste Italiane results for the second quarter and ﬁrst half of 2019. I will take you
 through the key highlights before handing over to our CFO, Guido Nola, for a more
@@ -163,10 +160,7 @@ Date: 2019-07-31
 
 FINAL
 
-Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+Guido Maria Nola {BIO 20719012 <GO>}
 Thank you, Matteo. And good morning everyone. Let me take you through each business
 segment starting with Mail, Parcel and Distribution on Slide 9. With strong B2C and B2B
 parcel performance oﬀset the decline of mail revenues. Overall segment revenues were
@@ -408,10 +402,7 @@ In full year 2018, we have made on average 2,300 new hires such as last mile del
 strategy to support business growth.
 Let me now hand back to Matteo for closing remarks on Page 19. Thank you very much.
 
-Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+Matteo Del Fante {BIO 6237992 <GO>}
 Thank you, Guido. Before taking your questions, let me close with some key points. The
 results today demonstrate again our continued delivery against the commitments we laid
 out in Deliver 2022. They show the continued progression of our four sectors, and I must
@@ -469,10 +460,7 @@ And the ﬁnal question is, if Matteo wants to make a comment on the Intesa-Sisa
 that press reported this morning. And if this is giving any kind of impact for Poste? Thank
 you.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Okay. Thank you very much for the questions. We still -- we see on the multi-class, as we
 highlighted, a change in mix, which we had already identiﬁed in the ﬁrst quarter with
 conﬁrm in the second and still there in July. Telling you that -- sorry in the second quarter.
@@ -530,10 +518,7 @@ Operator
 Thank you. Your next question comes from the line of Anna Adamo. Please ask your
 question.
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 Hi. Good morning. First of all, thank you for the level of disclosure this quarter, especially
 on the insurance capital position. I have three questions, please. Going back to the
 question on NII. And can you disclose your sensitivity to lower reinvestment yields, let's
@@ -556,10 +541,7 @@ And, lastly, I'm referring to Slide 35, and I see that there are EUR1.1 billion 
 SCR as a result of deferred tax assets. Can you explain the mechanics behind this beneﬁt
 for Poste? Thank you.
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 Hi, Anna, this is Guido. On the ﬁrst question what I can tell you is, we don't provide the full
 sensitivity, but a 50% or even 100% change in rates would be marginal for NII this year.
 You need to remember that most of our portfolio is ﬁxed rate. We don't have a signiﬁcant
@@ -567,10 +549,7 @@ You need to remember that most of our portfolio is ﬁxed rate. We don't have a 
 impact and therefore the only bid that has a ﬂoating leg is the deposit. We have the
 industry of ﬁnance.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 I think if we understood correctly the second question, if there is any one-oﬀ item on Q2
 on the insurance side, is the acceleration, call it front-loading of some of the margin
 revenues that are in the plan of 2019 is a component, but its not the total component of
@@ -583,30 +562,21 @@ Bloomberg Transcript
 
 On the last question, Guido, yes.
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 So I guess you're referring to the LAC DT on Page 34, and that has nothing to -- well it's
 not related to DTAs that as you know is one of the components of the Solvency II ratio,
 that obviously moves with the -- has an eﬀect that is normally contrary to the own funds.
 So in this case, we had a positive eﬀect on all the other items, therefore, in this quarter,
 this has, let's say less of an absorbing eﬀect, but it's not related to DTA.
 
-Q - Anna Adamo
-
-{BIO 16893946 <GO>}
-
+Q - Anna Adamo {BIO 16893946 <GO>}
 Okay. Thank you.
 
 Operator
 (Operator Instructions) Your next question comes from the line of Federico Braga. Please
 ask your question.
 
-Q - Federico Braga
-
-{BIO 19916816 <GO>}
-
+Q - Federico Braga {BIO 19916816 <GO>}
 Yes. Good morning everyone. I have four questions if you don't mind. The ﬁrst one, again
 on NII, just to understand if NII comes under pressure especially in 2020 more
 importantly in 2021 and beyond. Would you be willing to rely more on capital gains, then
@@ -640,10 +610,7 @@ you.
 
 Bloomberg Transcript
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Okay. I think NII is certainly with the current rate environment and the increased liquidity
 and monetary easing that we see down the road topic that we need to be address in the
 plan, as I say to the previous question, we are, -- we have enough visibility for this year
@@ -662,10 +629,7 @@ is certainly attention that we put in, but we are slightly ahead of plan Q2 and 
 this extremely closely and we don't anticipate any concern or any disappointment in the
 next two quarters. Guido if you want to take question three and four?
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 Yes. On question three, simple, you mentioned EUR200 million in -- but if you look back
 at the presentation we had in March at the Capital Markets Day, the target we gave is for
 EUR0.1 billion. So even with a run rate, like the one we had as of today we believe we'll hit
@@ -686,17 +650,11 @@ FINAL
 So on the fourth question though, I understood was on FTE, but I'm not sure, I got exactly
 what angle.
 
-Q - Federico Braga
-
-{BIO 19916816 <GO>}
-
+Q - Federico Braga {BIO 19916816 <GO>}
 Yes. So actually, just to go back on the third question. I was referring to the 2020 targets.
 If I'm not wrong the EUR200 million of revenues in 2020. So, this is what imply...
 
-A - Guido Maria Nola
-
-{BIO 20719012 <GO>}
-
+A - Guido Maria Nola {BIO 20719012 <GO>}
 Okay. Sorry I thought for the year. On 2020 we laid the ground 1.5 year ago on some
 targets we have already outperformed in 2018 on other targets we are online. On asset
 management, we will make up our mind on the way, sorry to be a bit evasive with this
@@ -712,10 +670,7 @@ Bloomberg Transcript
 So at the moment that we will revise the 2020 and we will do it beginning of next year.
 You will have the ﬁnal answer to your question, I'm sorry.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 So, I guess one last point on growth of FTE. What I can tell you is that again we conﬁrm
 our number. You need to remember that there is some seasonal eﬀect in that number. So
 we maintain that number and again, we have a number of hirings, we have planned,
@@ -725,10 +680,7 @@ seasonal.
 Operator
 There seems to be no further questions at this time, please continue.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 If there are no additional questions. I thank everybody for today and for the time you put
 in on Poste and obviously, our team, and speciﬁcally the Head of IR Massimiliano Riggi is
 available for any follow-up. And thank you.

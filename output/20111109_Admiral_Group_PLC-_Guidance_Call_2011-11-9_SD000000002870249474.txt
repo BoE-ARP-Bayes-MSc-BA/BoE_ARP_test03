@@ -29,10 +29,7 @@ Good day. And welcome to the Admiral Insurance conference call. Today's conferen
 recorded. At this time, I would like to turn the conference over to your host today, Mr. Kevin
 Chidwick. Please go ahead, sir.
 
-Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+Kevin Chidwick {BIO 15100612 <GO>}
 Thank you very much. Good morning, everybody. It's Kevin Chidwick here, the CFO of Admiral
 Group. I'm going to talk about our IMS today for about five to 10 minutes. And then take as many
 questions as people would like to pose.
@@ -196,10 +193,7 @@ Questions And Answers
 Operator
 (Operator Instructions) Please go ahead.
 
-Q - Andy Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy Broadfield {BIO 7273415 <GO>}
 Andy Broadfield, Barclays Capital. Yes. Three questions, if I may. And if you want to develop them
 later, then by all means do. The first question is what's the role of PPO in this, given that you don't
 discount your reserves? And potentially, just from a nominal level, that could have an impact on the
@@ -219,9 +213,7 @@ passive statement. But I assume that you set the initial claims reserves. So it 
 you are taking that decision yourselves. And presumably, that doesn't make an explanation; it's
 your justification or your action that's done that.
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
+A - Kevin Chidwick {BIO 15100612 <GO>}
 
 Bloomberg Transcript
 
@@ -258,19 +250,14 @@ be about over-prudency. But I wouldn't want to leave that as the explanation, be
 unwinds. And as I said before only 1% of these cases so far this year have actually been paid so far,
 we just won't be able to say for sure.
 
-Q - Andy Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy Broadfield {BIO 7273415 <GO>}
 So that ties -- that's an operational issue effectively in that -- I know you've talked before about
 having significant growth and having to -- growth in personnel as well as a result. And that takes
 time to train those guys up. Is that all tied into the same issue?
 
 
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
+A - Kevin Chidwick {BIO 15100612 <GO>}
 
 FINAL
 
@@ -303,16 +290,10 @@ population and we have not seen a development in our portfolio that would sugges
 riskier business, in the absence of that information, we have to allocate the primary cause down to
 randomness in the Third Quarter.
 
-Q - Andy Broadfield
-
-{BIO 7273415 <GO>}
-
+Q - Andy Broadfield {BIO 7273415 <GO>}
 Okay. Thanks very much.
 
-Q - Paul Goodhind
-
-{BIO 16200839 <GO>}
-
+Q - Paul Goodhind {BIO 16200839 <GO>}
 Paul Goodhind, Redburn. Two questions. One possible thesis I would put forward, which you didn't
 include in your list, is that others have perhaps caught you up to some extent on the risk selection
 side. And that whilst you aren't perhaps getting adverse selection, you're getting less good
@@ -330,9 +311,7 @@ making is that you can still be a great business and have a big advantage, yet y
 have to rethink some of our reinsurance strategies and how you actually finance the business. And
 have you thought about that. And what are the options that you would consider?
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
+A - Kevin Chidwick {BIO 15100612 <GO>}
 
 
 
@@ -374,19 +353,13 @@ our market. And they expect to see some volatility in claims patterns, on large 
 nothing in what they're saying to us which suggests there anything other than comfortable with the
 continued participation with that structure.
 
-Q - Paul Goodhind
-
-{BIO 16200839 <GO>}
-
+Q - Paul Goodhind {BIO 16200839 <GO>}
 Thanks.
 
 Operator
 Next question.
 
-Q - Adrienne Lim
-
-{BIO 16537674 <GO>}
-
+Q - Adrienne Lim {BIO 16537674 <GO>}
 It's Adrienne, Morgan Stanley. Just a couple of questions. So can you just talk about what
 expectation? You said that for 2011, you would expect the 81% combined ratio to move towards
 85% -- mid 80s.
@@ -404,23 +377,14 @@ FINAL
 And the last question, it's just on claims inflation. Can you just tell us what level of claims inflation
 you're currently reserving for 2010 and 2011, please?
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Thanks, Adrienne. I'll just say that I've got Henry Engelhardt and David Stevens here with me on this
 call as well. So I'm going to hand over to David, I think, to give you an answer on that one.
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 Hi, there.
 
-Q - Adrienne Lim
-
-{BIO 16537674 <GO>}
-
+Q - Adrienne Lim {BIO 16537674 <GO>}
 Hi there.
 
 Operator
@@ -430,10 +394,7 @@ Bloomberg Transcript
 Ladies and gentlemen. this is the operator. I'm afraid we've lost the connection to the moderator's
 line. So we'll just stand by and we'll wait to re-establish his line.
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 Hello. I'm sorry. David Stevens here. We -- sorry, we got cut off there. I hope Kevin had made the
 introduction to say that I was here. And I'm just asking -- answering the questions, the last question
 around 2010/2011 and claims inflation.
@@ -445,16 +406,10 @@ essentially driven by the bodily injuries side of the equation and not the mater
 the equation. But as Kevin was obviously saying, those numbers, in a sense, are heavily provisional
 in the sense that very, very little of these bodily injury cases are actually settled.
 
-Q - Adrienne Lim
-
-{BIO 16537674 <GO>}
-
+Q - Adrienne Lim {BIO 16537674 <GO>}
 And in terms of the what's really changed in the three months since we last heard from you?
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 Well it's really, it is primarily the number of larger claims. And the average value of those larger
 claims relative to what we were expecting at the half-year. And relative to past patterns for our
 accounts. And given that 2011 is an accident year, in a sense you're getting 50% more data. And
@@ -462,24 +417,16 @@ you're getting a year that is very under-developed. And in nine months into the 
 alone having had any tail, the actual experience of one quarter is quite material in trying to assess
 the likely outcome for that year.
 
-Q - Adrienne Lim
-
-{BIO 16537674 <GO>}
-
+Q - Adrienne Lim {BIO 16537674 <GO>}
 Okay. So -- and frequency is something that you're highlighting now, where perhaps you didn't
 really highlight in the half-year. So is that something which is driving --?
 
 
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 That was particularly a reference to the frequency of larger claims.
 
-Q - Adrienne Lim
-
-{BIO 16537674 <GO>}
+Q - Adrienne Lim {BIO 16537674 <GO>}
 
 FINAL
 
@@ -488,10 +435,7 @@ Yes. Okay. Thanks a lot.
 Operator
 We now move to our next question.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Andy Hughes, Exane. Couple of questions, if I can. The first one, I guess on the large bodily injury
 claims, the problem is. And I guess the difficulty is just to judge whether it is a random quarter or
 not.
@@ -506,10 +450,7 @@ bodily injury claims, is there a danger that this continues on for a few quarter
 any change in Q4 to date?
 Thank you.
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 I think the issue we're asking about them in terms of the market is whether there is an increase in
 frequency of big claims, particularly in 2011. RBSI made a very significant reserve-strengthening,
 much more significant than the other players in the market during the course of 2010, particularly in
@@ -519,34 +460,20 @@ What we're looking at here. And what we're seeing is this feature of a number of
 particularly during the course of 2011 calendar year. And so in a sense you -- it's not comparing like
 for like there.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Okay. And on the Q4?
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 I'm sorry, I missed that part of the question.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 I was just wondering how they've progressed since the end of the quarter. Has there been any
 change since the end of the quarter?
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 I don't know if we discuss month-by-month numbers, really.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
+Q - Andy Hughes {BIO 15036395 <GO>}
 
 
 
@@ -558,10 +485,7 @@ FINAL
 
 We now take our next question. Please go ahead.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Peter Eliot, Berenberg. First of all, on -- you talk about the 2010 and 2011 years as being the ones
 perhaps that you're most concerned about. But just looking at slide seven and the numbers on that
 where you said that you've only paid out 8% of the large claims in respect to 2009. And only a
@@ -577,10 +501,7 @@ Thanks.
 
 Bloomberg Transcript
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 Yes. If you come to the Investor Day later on today, or the Analyst Day later on today, you will see
 more slides. And one slide you will see is a slide that follows on from page 8. Page 8, the slide
 demonstrates a volatility is from 5 to 24. And demonstrates that the volatility very substantially
@@ -596,19 +517,13 @@ paid. But the period of maximum uncertainty is the first two years; and then unc
 reduces. That's not to say that 2009 is by any sense a done deal. But it would be misleading I think
 to take the 8% and imply 92% uncertainty.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Can I just come back on that quickly and add in with respect to PPOs, given that you mentioned
 that you haven't seen a lot of those coming through? We've heard from competitors that the
 average time period there is probably four years or so for one to actually know what one's paying
 on that. So I'm wondering whether that might change the picture slightly as those come through.
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 Well I think we're in a pretty strong position on PPOs. Essentially, we've got a reserve which is now
 knocking on the door of GBP120 million which is specific for PPOs. And which our advice from
 external advisors is a pretty cautious amount of money to hold against the PPO risk. And it's
@@ -626,10 +541,7 @@ FINAL
 
 Kevin, do you want to handle the second part on growth?
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Yes, sure. The second part of your question, Peter, was what's the specific growth in the Third
 Quarter and what does it look like now as it's a whole year. And I think growth in the Third Quarter
 is just over 3%. So the growth that we're seeing on an annualized basis for Q3 in isolation is about
@@ -648,17 +560,11 @@ year with the growth that we're seeing in price comparison sites, which you refe
 somewhere around 10% to 12%. That suggests that we're roughly on a good growth trajectory now
 which is more akin to the levels that Admiral has typically grown at over the years.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. So that sounds like you think you'll be able to maintain the share of price comparison
 business that you've won over the last year or so?
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Well we're always cautious about given market share forecasts or even commenting on it, because
 we do try and run the business in the way that's whatever we think is the profit maximizing thing to
 do. At the moment we'd say we anticipate growing by about 10% or so next year. And we
@@ -666,62 +572,40 @@ anticipate the profit price comparison sites growing their market share again ne
 context changes and the competitive environment looks very different, then we may take a
 different view.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. Thanks a lot.
 
-Q - James Pearce
-
-{BIO 16758460 <GO>}
-
+Q - James Pearce {BIO 16758460 <GO>}
 James Pearce, UBS; a couple of questions. Could you give us more detail on the specific areas
 where you've targeted your increased rating; how much, what sort of people. And so forth?
 And secondly, is there scope to address claims volatility through more targeted excess of loss
 reinsurance?
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 James, I will jump in on the first one; no, we won't give out detailed information of price hikes,
 sorry.
 
 
 
-Q - James Pearce
-
-{BIO 16758460 <GO>}
-
+Q - James Pearce {BIO 16758460 <GO>}
 Okay.
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
+A - Henry Engelhardt {BIO 3022947 <GO>}
 
 FINAL
 
 And the second question is --?
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Reinsurance. Not hugely. The vast bulk of the value of claims is in the range of GBP100,000 to
 GBP5 million. And yes, we could go out and buy reinsurance down below our current levels, which
 are typically, depending on the year you're talking about, GBP5 million to GBP7.5 million. But it
 comes at a price. And it's not necessarily the optimal thing to do.
 
-Q - James Pearce
-
-{BIO 16758460 <GO>}
-
+Q - James Pearce {BIO 16758460 <GO>}
 Okay. Thanks very much.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
+Q - Andrew Crean {BIO 16513202 <GO>}
 
 Bloomberg Transcript
 
@@ -733,22 +617,13 @@ And secondly, in that slide where you've looked at the proportion of claims whic
 which has risen from 14% to 15% up to 26%, do you have a sense, I think it's slide 7, as to where
 that might settle?
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Sorry, David, do you want to --?
 
-A - David Stevens
-
-{BIO 6807391 <GO>}
-
+A - David Stevens {BIO 6807391 <GO>}
 No, you go ahead.
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Okay. I think on where the claims are coming from, the answer is it's coming from across the
 portfolio. It's clearly because we've grown so much. And we do tend to lose about one-third of the
 business out the back door each year, which is generally what the market does.
@@ -762,10 +637,8 @@ nature, you tend to see an unwinding. That's part of the reason why we have this
 which we'll talk about later today. You'd expect to see some of this unwinding. But ultimately, it will
 finish higher than it used to be.
 
-Q - Andrew Crean
+Q - Andrew Crean {BIO 16513202 <GO>}
 Right, okay.
-
-{BIO 16513202 <GO>}
 
 
 
@@ -788,9 +661,7 @@ thought the business is perhaps a little bit more risky than it was than it was,
 two ago?
 Thank you.
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
+A - Kevin Chidwick {BIO 15100612 <GO>}
 
 Bloomberg Transcript
 
@@ -808,10 +679,7 @@ So you don't think you need to hold back more capital in respect of the reinsura
 fact, for example, you would do on the coinsurance portfolio where you don't have the possibility
 of negative profit shares coming for you in future?
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Well that's reflected in the reserves that we're setting in the book numbers. And as you know, we
 tend to book somewhat conservatively relative to our peers. And book loss ratios that are well
 ahead of these projected ultimate’s that we're talking about. And all of the conservation this
@@ -824,10 +692,7 @@ we anticipate needing to support these changes.
 Q - Unidentified Participant
 Okay. Thank you.
 
-Q - Chris Esson
-
-{BIO 6194371 <GO>}
-
+Q - Chris Esson {BIO 6194371 <GO>}
 Chris Esson, Credit Suisse. I've just one clarification, if I might. On your discussion, or your comment
 about targeting 10% growth in 2012, can I just clarify whether that's for the UK only, or whether it
 also includes the international operations where your profitability is relatively low?
@@ -840,27 +705,16 @@ in fact the implied market share gains by your growth target are perhaps a bit a
 
 FINAL
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 The answer to the first question is that's UK.
 
-Q - Chris Esson
-
-{BIO 6194371 <GO>}
-
+Q - Chris Esson {BIO 6194371 <GO>}
 It's just UK 10%.
 
-A - Henry Engelhardt
-
-{BIO 3022947 <GO>}
-
+A - Henry Engelhardt {BIO 3022947 <GO>}
 That's UK, yes.
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
+A - Kevin Chidwick {BIO 15100612 <GO>}
 
 Bloomberg Transcript
 
@@ -874,16 +728,10 @@ some trends that meant they held the premiums flat or increased them, then that 
 implication for us. If other people took their premiums down in 2012, that would also have an
 implication in the other direction for us in terms of the volumes we'd write.
 
-Q - Chris Esson
-
-{BIO 6194371 <GO>}
-
+Q - Chris Esson {BIO 6194371 <GO>}
 Okay. Thank you.
 
-Q - Marcus Barnard
-
-{BIO 2103471 <GO>}
-
+Q - Marcus Barnard {BIO 2103471 <GO>}
 A couple of questions, firstly on the dividend. Can you say what today's statement means for your
 ongoing level of dividends? In particular, will you continue to pay an ordinary and special dividend in
 the high 90s of your earnings for 2010 and 2011?
@@ -894,10 +742,7 @@ you've got an independent actuarial projection as opposed to Ernst & Young previ
 Ernst & Young, or is it a different set of independent actuaries?
 Thanks.
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Dividend impact, nothing changes. I think we should step back and put this discussion into some
 context here. We're seeing a bit of a deterioration on our loss ratios for the '10/'11 years. It means
 that our combined ratio will be in the 80s. It means that our business is going to be a little bit less
@@ -925,46 +770,29 @@ So we will, of course, be disclosing our projected ultimate’s at the full-year
 time. And we very much encourage our competitors to do the same thing. But we won't be doing
 it every quarter, or every time we have a look at it.
 
-Q - Marcus Barnard
-
-{BIO 2103471 <GO>}
-
+Q - Marcus Barnard {BIO 2103471 <GO>}
 So just to be clear, the actuarial review is concluded?
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
+A - Kevin Chidwick {BIO 15100612 <GO>}
 
 Bloomberg Transcript
 
 Yes.
 
-Q - Marcus Barnard
-
-{BIO 2103471 <GO>}
-
+Q - Marcus Barnard {BIO 2103471 <GO>}
 And was that by Ernst & Young?
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 It is the case that Ernst & Young are our actuarial advisors. But it's obviously the ownership of those
 numbers rests with us, not with anybody else.
 
-Q - Marcus Barnard
-
-{BIO 2103471 <GO>}
-
+Q - Marcus Barnard {BIO 2103471 <GO>}
 Okay. Thanks.
 
 Operator
 As we have no further questions, I'd like to hand the call back to Mr. Chidwick for any final remarks.
 
-A - Kevin Chidwick
-
-{BIO 15100612 <GO>}
-
+A - Kevin Chidwick {BIO 15100612 <GO>}
 Okay. Well thank you very much for listening this morning and for your questions. We will be holding
 sessions later on today as well in which we'll go into some more detail around the issue of the
 large claims particularly. But also on any other aspects of the business.

@@ -30,18 +30,12 @@ YouTube. A recording will be made available shortly after the call.
 At this time, I would like to turn the call over to your host today, Mr. Oliver Schmidt, Head
 of Investor Relations. Please go ahead, sir.
 
-Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+Oliver Schmidt {BIO 2473131 <GO>}
 Thank you. Yeah. Good afternoon from my side as well, and welcome to our conference
 call. As you know, we have two presentations today, so I keep it brief and hand directly
 over to our CEO, Oliver Bate.
 
-Oliver Bate
-
-{BIO 19184930 <GO>}
-
+Oliver Bate {BIO 19184930 <GO>}
 Thank you very much, and thank you for joining on a Friday afternoon. I have a few slides
 to present on overall results and where we are on our journey and then Giulio will in high
 quality as always go through some of the numbers. The content of what I would like to
@@ -297,10 +291,7 @@ And with that, I'll hand over to Giulio.
 
 Bloomberg Transcript
 
-Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+Giulio Terzariol {BIO 17125489 <GO>}
 Thank you, Oliver. And we can move to page B-03, and I'm going to give you a quick
 update on the fourth quarter results and then I'm going to speak a little bit more in detail
 about the 2019 [ph] for the full year. So when you look at page 03, our results for the
@@ -571,10 +562,7 @@ So overall, with EUR12 billion, we are looking to another successful year in 202
 again, I believe we had a very strong performance in 2019. So we have all the reasons to
 be optimistic about this year. Thank you.
 
-Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+Oliver Schmidt {BIO 2473131 <GO>}
 Yeah. And with this, we are happy to take any questions.
 
 Questions And Answers
@@ -585,10 +573,7 @@ Operator
 Thank you. (Operator Instructions) And we'll take our ﬁrst question comes from Michael
 Huttner of Berenberg Bank. Please go ahead.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Fantastic. And well then thanks for the lovely buyback. I just have two questions. The ﬁrst
 one, you said, please ask, so this is the organic capital generation, the minus 1% in Q4.
 You said there were two eﬀects, AGCS and one other. And the other question is, for your
@@ -597,10 +582,7 @@ where you at? If I may, this is the last question. I was speaking to one of your
 journalist and he was saying that there had been IT kind of oﬀer, which means
 interruptions. And I just wondered if that's included in your cost assumptions. Thank you.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 So maybe I can start with the capital generation. So we had two eﬀects, one is AGCS
 reserve strengthening, the other one is related to Allianz Leben, and that's more of a trueup, if you want in the calculation, because just at the end of the year, we have the statutory
 accounting, gross margin, how much we put in the RFP, how much we have for real
@@ -652,10 +634,7 @@ right now. I think everybody is recognizing the issue. And I believe this is goi
 get to a very diﬀerent performance moving forward. The last question, honestly speaking,
 I did not understand --
 
-A - Oliver Bate
-
-{BIO 19184930 <GO>}
-
+A - Oliver Bate {BIO 19184930 <GO>}
 I can help. Otherwise, I'm getting bored anyway because of the technical details. By the
 ﬁrst -- the ﬁrst 10 sentence was it's noise in the fourth quarter, Michael, forget it. On the
 Solvency II earnings, it's 8% over the year. That's why we want actually no more quarterly
@@ -676,15 +655,10 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2020-02-21
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Thanks, Oliver.
 
-A - Oliver Bate
-
-{BIO 19184930 <GO>}
+A - Oliver Bate {BIO 19184930 <GO>}
 
 FINAL
 
@@ -694,10 +668,7 @@ Operator
 Thank you. And we can move to our next question. It comes from Jon Hocking of Morgan
 Stanley.
 
-Q - Jon Hocking
-
-{BIO 2163183 <GO>}
-
+Q - Jon Hocking {BIO 2163183 <GO>}
 Good afternoon, everybody. I've got three questions, please. Firstly, starting with AGCS.
 Looking at slide B-42, there's just a comment there that the portfolio restructuring is
 ongoing. I just wonder if you could give a little bit more color about that in terms of where
@@ -717,10 +688,7 @@ earning any acceptable returns. I wonder if you could give a little bit more inf
 there -- are there any particular areas we might not ﬁnd obvious to see from the
 disclosures?
 
-A - Oliver Bate
-
-{BIO 19184930 <GO>}
-
+A - Oliver Bate {BIO 19184930 <GO>}
 Yeah. That ﬁts very much with your question. I'll start with that, that's AGCS, of course, by
 the way unfortunately not just 2019, but we have now had a number of years of -- and
 that's the real issue. So the question is not are we comfortable with the results now or not.
@@ -776,19 +744,13 @@ portfolio. So I would like to also reiterate, in AGCS, we have many portfolios t
 actually making very good money, but we need to make sure that we focus on those and
 stop doing the nonsense.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Thank you.
 
 Operator
 Okay. We'll move to our next question. This comes from Andrew Ritchie of Autonomous.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi, there. A couple of questions. First for Giulio. Could you just update us on what your
 current view is on the saga, which is the Solvency II review and the latest permutations on
 that and what your current view on potential impact would be given most recent
@@ -815,10 +777,7 @@ talking about the rest of your commercial lines, which I think it's about 30% to
 rest of the book. What is the diﬀerential in terms of combined ratio between that and
 retail? Thanks.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Okay. Maybe I can start with the Solvency II review. So if we look now at, let's say, the idea
 to go with the last liquid point from 20 to 30, the impact at year-end on our Solvency II
 ratio would be a little bit north of 20 percentage points. So there will be a signiﬁcant
@@ -882,20 +841,14 @@ relatively small. So it's not signiﬁcant. So, if you ask me, it's a lot about 
 portfolio in France to operate at a diﬀerent level, making sure that the portfolio in
 Germany is going to be perform as it performed in 2019. And also, I will say in Spain also - there is also some room for improvement. But in totality, I will say, the gap is not huge.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Sorry, can I just get back to the Solvency II. There is various other aspects up for
 discussion now, you potentially, apparently rolling back on risk margin, as well as -- I mean
 have you had your view on some of these other aspects?
 
 Bloomberg Transcript
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yeah. There are many other things happened in the year. Clearly, potentially there is
 margin could be positive. Also there are conversation about the volatility adjusted, so -but clearly, they moving from 20 to 30. Last week, you point, there will be a big impact
 compared to what the beneﬁt could be from the other. Reality is we don't know what is
@@ -903,19 +856,13 @@ the ﬁnal proposal that I hope is going to come up with. I believe that most li
 proposal is going to be reasonable proposal, but we need always to be prepared for all
 kind of possibilities.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Okay. Thanks.
 
 Operator
 Thank you. And we'll take our next question from Peter Eliot of Kepler Cheuvreux.
 
-A - Oliver Bate
-
-{BIO 19184930 <GO>}
-
+A - Oliver Bate {BIO 19184930 <GO>}
 And maybe I can have -- why we get in -- Andrew. The issue is very simple. The modeling
 modeling only ends at the end of June. Then, during the German Presidency, people will
 look at the numbers and discuss what the numbers mean. So they are still in the data
@@ -940,21 +887,13 @@ So people need to really look at the data and then we know that under the Portug
 Presidency, which is in the ﬁrst six months of 2021, the things come out. So now
 speculating on what the outcomes may be, I think is reading tea leaves.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 I'm guessing the mic has been handed over. Can you hear me?
 
-A - Oliver Bate
-
-{BIO 19184930 <GO>}
-
+A - Oliver Bate {BIO 19184930 <GO>}
 Yes.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter Eliot {BIO 7556214 <GO>}
 
 Bloomberg Transcript
 
@@ -978,10 +917,7 @@ sharing a digital edge, but maybe people are going to get this anyway, and you w
 beneﬁt, but I just wondering if you could talk about that space a little bit. Thank you very
 much.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yeah. Okay. So I can start from the investment margin. As you see our guidance for 2020,
 75 basis point to 80 basis point, which is kind of stable compared to the guidance that we
 had also for 2019. And the point is, we deﬁnitely see more stability. We are working clearly
@@ -1030,19 +966,13 @@ then you have all the customization that you can do. So we are not necessarily g
 entire ABS to potential non-Allianz insurance company. It's just part of the ABS solution.
 Then clearly, what is the customized part is going to stay just with us.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay. Great. Thank you very much.
 
 Operator
 Thank you. We'll move to our next question from Farooq Hanif of Credit Suisse.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Hi, there. Happy Friday everybody. Just going back to some of the comments you made
 on combined ratio in 2020. So you, in the notes, you've written strong progress expected
 in the UK in 2020. Is there some more guidance you can give with some examples on
@@ -1064,10 +994,7 @@ Thank you.
 
 FINAL
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Yeah. So starting from the UK, clearly, starting 2020, we are going to have now the full
 consolidation of LV and also the business of legal and general. So our expectation for
 2020 is if a combined ratio close to 95. And that's very important when you look at the
@@ -1120,28 +1047,19 @@ to repeat itself.
 
 FINAL
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Can I ask one question quickly? So on the AGCS reserving that you've done. Have you
 added reserves to lines and books where you may not have seen a deterioration, but
 you've kind of guessed systemically, there may be areas of risk?
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 No. We booked reserve where we saw that the trends where we're getting out of line.
 Otherwise, we didn't book reserves for potential things that we are not seeing. Let's put it
 this, EUR600 million was good number already. So we are taking a look at what we see.
 And again, I really believe the environment is very supportive. So I would expect that as
 we go into 2020, 2021, 2022, the pricing strength is going to be very, very signiﬁcant.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Thank you very much.
 
 Operator
@@ -1151,10 +1069,7 @@ Bloomberg Transcript
 Thank you. We will now take our next question from Vinit Malhotra of Mediobanca. Please
 go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Good afternoon and thank you very much. So two quick ones on AGCS, please, and one
 on Life. Again, very quick follow-up. Thank you. First one on AGCS, if -- I mean, if you go
 back 10 years or 12 years, this used to be a EUR3 billion portfolio, 90%, 90s combined,
@@ -1183,9 +1098,7 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2020-02-21
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
+A - Giulio Terzariol {BIO 17125489 <GO>}
 
 FINAL
 
@@ -1229,10 +1142,7 @@ there, we could change the methodology and just allocate the proﬁt based on th
 under management, and then you will see deﬁnitely a better result in the operating proﬁt
 line.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Okay. Thank you.
 
 Operator
@@ -1245,9 +1155,7 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2020-02-21
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
+Q - William Hawkins {BIO 1822411 <GO>}
 
 FINAL
 
@@ -1277,10 +1185,7 @@ your EUR600 million reserve charge in AGCS, and what were the total reserves in 
 and what were the reserves for liability and ﬁnancial lines before you added EUR600
 million? Thank you.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 There maybe the -- let's start with the AGCS. The total reserve for AGCS are about EUR10
 billion and the reserve for the liability line are about 2 point -- yeah, I sum up liability line
 and ﬁnancial lines because I don't want to give you too many details, but we are about
@@ -1333,31 +1238,19 @@ point. So that will be the starting point for any kind of extrapolation to the f
 
 Bloomberg Transcript
 
-Q - William Hawkins
-
-{BIO 1822411 <GO>}
-
+Q - William Hawkins {BIO 1822411 <GO>}
 That's already helpful. Thank you.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Welcome.
 
-A - Oliver Bate
-
-{BIO 19184930 <GO>}
-
+A - Oliver Bate {BIO 19184930 <GO>}
 So it's 25 minutes past. So we have time for one last question, please, if there is any.
 
 Operator
 Thank you.
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 Thanks for Oliver.
 
 Operator
@@ -1373,10 +1266,7 @@ Date: 2020-02-21
 
 FINAL
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Yeah, hi. Thank you and good afternoon, guys. Just a few questions. First of all, can we get
 some color on the UK P&C outlook, what are we hearing because most of the companies
 who have reported UK motor, UK home, I mean, there is a clear message that claims
@@ -1397,10 +1287,7 @@ explain that dynamic a bit? These three would be really helpful. Thank you.
 
 Bloomberg Transcript
 
-A - Giulio Terzariol
-
-{BIO 17125489 <GO>}
-
+A - Giulio Terzariol {BIO 17125489 <GO>}
 And maybe starting from -- as of kind of rate increases we are seeing. I can just say in the
 last quarter, in the Q4, when you look at rate increases, not just renewal, also no business
 on return basis. You see across the portfolio, something very close to 20%. So the rate
@@ -1435,18 +1322,13 @@ Date: 2020-02-21
 Turkey, and this makes a diﬀerence. The reason why reality, you need to adjust the yield
 for the diﬀerent geographical mix.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 FINAL
 
 That's very clear and very helpful. Thank you.
 
-A - Oliver Bate
-
-{BIO 19184930 <GO>}
-
+A - Oliver Bate {BIO 19184930 <GO>}
 I just would like to remind us something when you think about the outlook. I would like to
 go back to 2020 and 2021. So the ﬁrst one is we believe we are on track to 2021. Also
 because we really do have strong diversiﬁcation in the portfolio. Now as a critic, you could
@@ -1503,10 +1385,7 @@ think you've seen the track record over the last ﬁve years and beyond, actuall
 seven years up. So you make your pick. We are conﬁdent that we can do what we've been
 promising. Thank you very much for listening.
 
-A - Oliver Schmidt
-
-{BIO 2473131 <GO>}
-
+A - Oliver Schmidt {BIO 2473131 <GO>}
 All right. Thank you very much. We wish everybody a very nice remaining afternoon and a
 relax weekend. Good-bye.
 

@@ -197,10 +197,7 @@ power base yet that we need to explore and we will explore.
 Thank you very much. Christof will now tell you not why we're doing it, that's what I was
 supposed to do. He would tell you what we are trying to do.
 
-Christof Mascher
-
-{BIO 3552411 <GO>}
-
+Christof Mascher {BIO 3552411 <GO>}
 Thank you very much. So the three major themes that we are using as the foundation of
 our digital strategy is our customer experience as the ultimate goal; the connected
 platforms as the second one and then our service strength as the diﬀerentiator.
@@ -467,10 +464,7 @@ implementing this connected platform in Allianz.
 So, long story short, digitalization is vastly a huge opportunity. Thank you very much and I
 hand over to Solmaz.
 
-Solmaz Altin
-
-{BIO 18235413 <GO>}
-
+Solmaz Altin {BIO 18235413 <GO>}
 So, how to transform a big global company like Allianz into a digital company? You might
 have the question and I had the question when I took over this role 11 months ago. And I
 can tell you, it was a thrilling ride so far. I've been amazed by what I see outside
@@ -721,10 +715,7 @@ Okay. We have 10 minutes' time to take your ﬁrst questions, if there are any. 
 start in the front rows.
 
 Q&A
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 It's Andrew Ritchie from Autonomous. I guess my main question is how easy is it to work
 with legacy systems? You must have a lot of legacy systems in all operations and all
 insurers we talked to say that so much of their time is preoccupied with making sure these
@@ -733,10 +724,7 @@ about how diﬃcult that is? How do you hit snags? Has it been harder than you t
 
 Bloomberg Transcript
 
-A - Christof Mascher
-
-{BIO 3552411 <GO>}
-
+A - Christof Mascher {BIO 3552411 <GO>}
 Fair question. We have started the program or the digital program to replace the legacy
 spaghetti, so to say, if you want to have a nice description of the existing already years
 ago. In addition to that, we developed the 2-speed architecture. And this 2-speed
@@ -755,10 +743,7 @@ A - Oliver Bäte
 And Christof, maybe we can say a little bit about how much of our premiums are already
 on our core platforms to address the old stuﬀ.
 
-A - Christof Mascher
-
-{BIO 3552411 <GO>}
-
+A - Christof Mascher {BIO 3552411 <GO>}
 Yeah. That is already above 40%. We are there, and if you connect – that's the premium. If
 you put in parallel also the number in place where we have all the platforms already in
 Page 14 of 32
@@ -790,10 +775,7 @@ I think Nick was second.
 
 Bloomberg Transcript
 
-Q - Nicholas Holmes
-
-{BIO 21515144 <GO>}
-
+Q - Nicholas Holmes {BIO 21515144 <GO>}
 Thank you. Nick Holmes of SocGen. I wanted to ask about cost reduction and how this ﬁts
 into the digital initiative. And I wanted also to kind of broaden out the cost reduction issue
 at Allianz because your peers are very visible in targeting big numbers in terms of cost
@@ -866,10 +848,7 @@ over the lunch break as well, so in case we are running out of time now, there w
 opportunity to continue our discussion at lunch. I think we have time for one last question.
 Vinit, over there, yeah, please.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Thank you. This is Vinit from Mediobanca. So, Oliver, you mentioned that existence of
 data is not the issue. The harvesting of data was the issue in your view. But I'm a bit
 surprised that in Solmaz's presentation, the data analytics and what it could do to loss
@@ -903,9 +882,7 @@ will increase. So, we're full on. We're working on these things for a while, and
 a couple of stories on artiﬁcial intelligence as well later on. So, we are not pushing out
 anywhere in the future. We're full on and we're doing it for the operating entities.
 
-A - Christof Mascher
-
-{BIO 3552411 <GO>}
+A - Christof Mascher {BIO 3552411 <GO>}
 
 Bloomberg Transcript
 
@@ -928,10 +905,7 @@ A - Unveriﬁed Participant
 I would say for the sake of time, let's stop here and thank you, Oliver, Christof and Solmaz.
 Let's have the next presentation by Aylin.
 
-A - Aylin Somersan-Coqui
-
-{BIO 18249361 <GO>}
-
+A - Aylin Somersan-Coqui {BIO 18249361 <GO>}
 Good morning, ladies and gentlemen. My name is Aylin Somersan-Coqui. I'm the CEO of
 Allianz Turkey. I've been with the Allianz Group since 13 years, last 4 years in Turkey, ﬁrst as
 the CFO and the integration manager of the acquisition we have done in Turkey in mid2013. And since the beginning of the year, I've taken over from Solmaz as the CEO. And
@@ -1146,10 +1120,7 @@ A - Oliver Bäte
 Okay. Thanks, Aylin. And we, again, have time for some questions if there are any. Farooq,
 please?
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Thank you. Farooq Hanif from Credit Suisse. Could you talk about proﬁtability of the
 product maybe in combined ratio terms? And one of the problems in Turkey, whether it's
 pensions, or motor insurance is regulation, so what risk do you see from increasing
@@ -1163,9 +1134,7 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2016-11-30
 
-A - Aylin Somersan-Coqui
-
-{BIO 18249361 <GO>}
+A - Aylin Somersan-Coqui {BIO 18249361 <GO>}
 
 FINAL
 
@@ -1182,20 +1151,14 @@ moving quite smoothly.
 A - Oliver Bäte
 Okay. [Foreign Language] (01:21:11)
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Thomas Seidl, Bernstein. One question on this modular app you showed us. So, how
 much did you beneﬁt from the group Digital Factory in this exercise? So, how much was
 coming from the group, as opposed to this was a de-central initiative?
 
 Bloomberg Transcript
 
-A - Aylin Somersan-Coqui
-
-{BIO 18249361 <GO>}
-
+A - Aylin Somersan-Coqui {BIO 18249361 <GO>}
 Actually, we have started working on the digital app before the Digital Factory was
 founded. And basically, we have created it internally in Turkey, and it became live in 2016.
 But what we are beneﬁting from are the components of the mobile app because it's
@@ -1204,17 +1167,11 @@ the app is having. So, I mean, for example, from a motor claims side, how the mo
 claims are coming and uploaded. We have been pretty much in interaction with the
 Global Digital Factory on that.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 The cost savings you expect basically from using other components from the group, as
 opposed to doing it stand-alone?
 
-A - Aylin Somersan-Coqui
-
-{BIO 18249361 <GO>}
-
+A - Aylin Somersan-Coqui {BIO 18249361 <GO>}
 I mean, I don't exactly know right now. That's a little bit diﬃcult to predict at the moment,
 just because we have also been an exporter and a big contributor to Global Digital
 Factory as well. So, in terms of our cost base, we are signiﬁcantly lower than expense ratio
@@ -1232,34 +1189,22 @@ Company Name: Allianz SE
 Company Ticker: ALV GR Equity
 Date: 2016-11-30
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 It's really about the same – how expensive does it cost to develop this? And how do you
 account for it? Do you expense it immediately, or do you spread it over a number of
 years? Just to understand the numbers eﬀect a little bit.
 
 FINAL
 
-A - Aylin Somersan-Coqui
-
-{BIO 18249361 <GO>}
-
+A - Aylin Somersan-Coqui {BIO 18249361 <GO>}
 Basically, if it's an investment, we're capitalizing it over the course of the investment,
 approximately, three to ﬁve years. But on an ongoing basis, for all the maintenance, we
 are expensing it directly.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 How expensive...
 
-A - Aylin Somersan-Coqui
-
-{BIO 18249361 <GO>}
-
+A - Aylin Somersan-Coqui {BIO 18249361 <GO>}
 You mean our app is how expensive? I don't know the exact number, but it's actually – I
 mean, we are talking about low-single million digits. I mean, it was a very pragmatic eﬀort
 that we have done internally, so I would say, a relatively low number.
@@ -1301,10 +1246,7 @@ Okay. We take the last question from James.
 
 FINAL
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Thanks. It's James Shuck from UBS. My question's really about the kind of the integration
 of how you view all of the products in Turkey, in particular, because there must be some
 kind of halo eﬀect from having a very strong relationship with your customer on the health
@@ -1312,10 +1254,7 @@ product. So, can you share some kind of insight into the cross-sell information 
 the motor product, the retention rates that you're experiencing. What is the beneﬁt from
 this kind of better service in other areas?
 
-A - Aylin Somersan-Coqui
-
-{BIO 18249361 <GO>}
-
+A - Aylin Somersan-Coqui {BIO 18249361 <GO>}
 I mean, a couple of things. One is, obviously, as I said, the retention ratio in the Health
 business is approximately 90%, 95%, so we are retaining these customers. And Health
 customers happen to be, currently at least, the socioeconomically higher level customers.
@@ -1544,10 +1483,7 @@ Thanks very much, Joachim. Any questions? Let's have Peter ﬁrst here.
 
 Bloomberg Transcript
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Thank you very much. Peter Eliot from Kepler Cheuvreux. You talked an awful lot about
 social media and the need to have that. And I guess going back to – so nice this
 presentation to start, we heard that as well, we heard the example of the advert on
@@ -1590,10 +1526,7 @@ this will be also a very good deal for us as Allianz.
 A - Oliver Bäte
 I think Farooq was next. Here, over there, please.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Thank you very much. Farooq Hanif from Credit Suisse. Are you getting diﬀerent
 customers to your normal customer base through social media? Can you describe that?
 And is it ever going to be a diﬀerent price through the diﬀerent channels? Will it ever be
@@ -1614,10 +1547,7 @@ cities.
 A - Oliver Bäte
 Okay. I think – Michael, ﬁrst; and then, James here in the front. Thank you.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 I work for a bank which I think has 30,000 people who are employed to control what I do
 or not speciﬁcally what I do, but if you see what I mean. So, what's the reputational control
 risk because eﬀectively a lot of the stuﬀ which used to be very tightly controlled by
@@ -1650,10 +1580,7 @@ And we have a huge buy-in from the agency side. So this is now after three or fo
 of changing the organization, they buy in because they know we are better in developing
 these tools and they are good in customer interaction. This ﬁts good together.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 I have two quick questions actually. Firstly, if memory serves from 2011 when you ﬁrst
 talked about the roll out of Pro3 and the Digital Agency 2.0, you had certain pilot studies
 that were targeting a – or illustrated an improvement in productivity. Can't quite recall
@@ -1763,10 +1690,7 @@ So, digital is not just about moving oﬄine to online. It's bringing online cus
 centricity to the oﬄine world.
 Christof?
 
-A - Christof Mascher
-
-{BIO 3552411 <GO>}
-
+A - Christof Mascher {BIO 3552411 <GO>}
 An additional comment on the platform question, Joachim. This is Germany, and
 Germany is a really good example how to implement this 2-speed architecture. This is a
 good combination. Germany is one of our forerunners. They are implementing our core

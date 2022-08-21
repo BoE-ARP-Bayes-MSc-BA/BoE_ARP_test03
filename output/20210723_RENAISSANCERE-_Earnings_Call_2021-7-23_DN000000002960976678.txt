@@ -32,10 +32,7 @@ mode. After the speakers' presentation, there will be a question-and-answer sess
 I would now like to hand the conference over to one of your speakers today, Keith
 McCue, SVP Finance and Investor Relations. Please go ahead.
 
-Keith McCue
-
-{BIO 20595590 <GO>}
-
+Keith McCue {BIO 20595590 <GO>}
 Thank you. Good morning. Thank you for joining our first quarter financial results
 conference call. Yesterday, after the market closed, we issued our quarterly release. If you
 didn't receive a copy, please call me at 441-239-4830 and we'll make sure to provide you
@@ -141,10 +138,7 @@ all that we have. That concludes my opening comments. I'll provide more detailed
 on our segments' performance at the end of the call, but first, let me turn it over to Bob
 to discuss the financial performance for the quarter.
 
-Robert Qutub
-
-{BIO 15269353 <GO>}
-
+Robert Qutub {BIO 15269353 <GO>}
 Thanks Kevin and good morning everyone. My comments today will focus on our
 accomplishments during the quarter and items that drove our results including our three
 drivers of profit. Starting with our consolidated results, where we reported net income of
@@ -440,10 +434,7 @@ Date: 2021-07-23
 
 FINAL
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Hi, thanks, good morning. My first question, Kevin, is picking up, I guess right on your last
 comment, where you said you guys have a fortress balance sheet heading into wind
 season. If I remember correctly, RenRe typically does not like to be as active with
@@ -466,10 +457,7 @@ during this wind season than we were last year.
 
 Bloomberg Transcript
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Okay, that's helpful. And then my second question, when you guys raised the capital, we
 had discussions last year after that, you spoke about wanting to put the capital to work
 right in 2021 and then in subsequent years. So you still sound pretty bullish on the
@@ -492,10 +480,7 @@ repurchase shares at what we think are attractive prices. So I couldn't be in a 
 back over the history of my role at RenRe, I think this is one of the strongest financial
 positions we've been in, with the greatest flexibility we've ever had.
 
-Q - Elyse Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse Greenspan {BIO 17263315 <GO>}
 Thanks for the color.
 Page 9 of 19
 
@@ -514,17 +499,12 @@ Operator
 Thank you. And our next question comes from the line of Ryan Tunis with Autonomous
 Research. Your line is open. Please go ahead.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Hey, thanks, good morning guys. Kevin, I guess just looking at your 1.3% retained
 investment portfolio yield, isn't that -- it's extremely inefficient, given how much you've
 mixed more toward longer liabilities in recent years?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
+A - Robert Qutub {BIO 15269353 <GO>}
 
 Bloomberg Transcript
 
@@ -546,10 +526,7 @@ goals for our liquidity. So that, given any sort of Cat event, our liquidity is 
 that obviously affects returns and it has been a consistent part of our capital management
 over, frankly since I've been here.
 
-Q - Ryan Tunis
-
-{BIO 16502263 <GO>}
-
+Q - Ryan Tunis {BIO 16502263 <GO>}
 Thanks. It just seems like a pretty obvious lever and it's a place where you're giving up a
 few ROE points, relative to the rest of Bermuda [ph]. So, yes, thanks.
 
@@ -570,10 +547,7 @@ Date: 2021-07-23
 
 FINAL
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 Yes, thank you very much. So, I'm trying to do some work to figure out the paths. And
 when you interpolated Platinum into your business, there was a favorable development
 that was coming off the Platinum acquisition. And maybe things have seasoned enough in
@@ -606,10 +580,7 @@ portfolio is in exceptional condition, it's going to take a little bit of time t
 natural with writing quota share business. And we're enjoying the full benefit of the
 underlying rate change that has been available in the market for the last several years.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 All right. I appreciate and I realize you guys are trying. But I mean I look at the US reserving
 right now in your Casualty and Specialty book at about a breakeven combined ratio. Is that
 based on that you think that a recent accident -- not current, but just bring us that recent
@@ -649,10 +620,7 @@ So I think we're in good shape. I like the way we reserve our portfolio. I think
 appropriate, and in general, it is higher than what we're seeing on the underlying
 portfolios that we're protecting, as a starting point, ultimately to reconcile.
 
-Q - Josh Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh Shanker {BIO 5292022 <GO>}
 I certainly hope so. I'm learning. I appreciate it. Thank you very much.
 
 A - Kevin J. O'Donnell
@@ -665,10 +633,7 @@ Operator
 Thank you. And our next question comes from the line of Meyer Shields with KBW. Your
 line is open. Please go ahead.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Great. Thanks. Kevin, in your comments, I guess, when you talk about moving towards, I'll
 say, bigger national carriers that have Florida exposure. So I would assume that that
 means that you're writing at higher layers. Is that just because they're biggest, they can
@@ -698,19 +663,13 @@ events. And that is mostly because of the Other Property writings.
 
 FINAL
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, that's helpful. That makes sense. And then a quick question for Bob, if we have
 some of the management fees offsetting expenses and the asset pools are growing,
 with so that translates into expense ratio improvement over time assuming that you
 continue to grow investor capital?
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Yes, I'd say, as we continue to grow the fees, which we have been over the past several
 years, you will see the geography in the income statement come through, part of it will be
 in the Property and is an offset to the expenses. Using a disclosure we put in the
@@ -718,40 +677,28 @@ supplemental this quarter, you'll be able to see that going forward on a trailin
 other is really, it's down in the non controlling redeemable interest and does not affect
 expenses, it just affects the amount that's released back into our Capital Partners.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Right, no, I understand that. That's helpful. And just earlier you or in your prepared
 comments you talked about expecting basically a flat expense ratio and I'm trying to
 reconcile those two ideas.
 
 Bloomberg Transcript
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 The expense. Okay. Sorry. I misunderstood the question. I was thinking was definitely the
 expense ratio, as the ratio is going to continue to grow. We're going to have -- that is
 what our measure is, and we continue to invest, it's around just under 5% right now, on
 the underwriting side of it. The fees as they grow, will continue to be an offset to the
 operational expense, but we're going to continue to invest in our teams and our platform.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. That -- thank you so much.
 
 Operator
 Thank you. And our next question comes from the line of Michael Phillips with Morgan
 Stanley, your line is open. Please go ahead.
 
-Q - Michael Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Michael Phillips {BIO 21023048 <GO>}
 Thanks. Good morning. Two, well, I guess one quick numbers question for Bob. Bob, you
 mentioned the change in the ports asset mix from corporate to treasuries. But there was
 a couple of just minor things that I noticed, if you can comment on cash will be up quite a
@@ -766,26 +713,17 @@ Company N ame: RenaissanceRe H oldings L td
 Company Ticker: RN R US Equity
 Date: 2021-07-23
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 So I think, the question, Mike was on cash changes in the portfolio?
 
 FINAL
 
-Q - Michael Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Michael Phillips {BIO 21023048 <GO>}
 Yes. Cash was up quite a bit in the quarter. I know it was quite lumpy, but it definitely
 jumped up this quarter and then investment expense I think for the quarter over $7 million
 in Q4 [ph]. So sort of.
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Got it. On a cumulative, starting with the expenses, it was $7 million this quarter, it was the
 timing of the accruals on a year-to-date basis, Mike, it should be normalized, consider,
 comparable to what last year was. On the cash side, you see we did raise a couple of
@@ -793,9 +731,7 @@ hundred million dollars in our funds, that will be on our balance sheet until we
 into some of the short-term investments which are out there. Just more minor on the
 geography and inflection of what we've had in our -- in our third party capital.
 
-Q - Michael Phillips
-
-{BIO 21023048 <GO>}
+Q - Michael Phillips {BIO 21023048 <GO>}
 
 Bloomberg Transcript
 
@@ -810,20 +746,14 @@ Yes, I mean, we're -- I am aware of the changes that you're discussing, that's f
 estimate and looking at our portfolio, we still -- we don't see that affecting us the same
 way it's affecting the market. So we feel good about the estimate that we have up.
 
-Q - Michael Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Michael Phillips {BIO 21023048 <GO>}
 Okay. Thank you, guys.
 
 Operator
 Thank you. (Operator Instructions). Again we have a question from the line of Brian
 Meredith with UBS. Your line is open. Please go ahead.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yes. Thanks. Kevin, I was hoping we could dig back a little bit into the whole inflationary
 question and kind of what the impact could be on losses here as we go through hurricane
 season. I know you said you're comfortable with your exposure, but how do we kind of
@@ -856,10 +786,7 @@ thinking about how we built the portfolio, it's in a post event demand surge bas
 we're well covered and going to be higher and we already have -- it held higher than the
 industry.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great, thanks. Very helpful. And then the second question, I'm just curious, could you give
 us a little bit of color on kind of what's your exposure right now as to aggregate covers
 and obviously with the first quarter events being high and now wildfires, do you think
@@ -875,10 +802,7 @@ for that type of risk. And that's reduced its exposure to aggregate covers as we
 again, if we do have exposure to it, it's less than last year on a relative basis. And it's not
 something that at this point we have a significant concerns about.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great, real helpful. Thank you.
 
 A - Kevin J. O'Donnell
@@ -888,9 +812,7 @@ Operator
 Thank you. And our next question comes from the line of Phil Stefano with Deutsche Bank.
 Your line is open. Please go ahead.
 
-Q - Philip Stef ano
-
-{BIO 20346322 <GO>}
+Q - Philip Stef ano {BIO 20346322 <GO>}
 
 Page 15 of 19
 
@@ -926,10 +848,7 @@ profile of the risk that I'm seeing and it'll just take time to earn out.
 
 Bloomberg Transcript
 
-Q - Philip Stef ano
-
-{BIO 20346322 <GO>}
-
+Q - Philip Stef ano {BIO 20346322 <GO>}
 Okay, understood. And I also -- I'm understood and appreciate the comments earlier that
 the full $1 billion or so that was raised a year ago is deployed. And as you work through
 the excess capital, you feel like you have enough levers in place to continue to grow and
@@ -972,10 +891,7 @@ Operator
 Thank you. And our next question comes from the line of Jimmy Bhullar with JP Morgan.
 Your line is open. Please go ahead.
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
-
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 Hi, thanks. Good morning. So, most of my questions were answered. I just had a couple of
 items. The first, can you talk about the drivers of the favorable reserve development that
 you saw this quarter and any sort of color on either accident years or region or cases or
@@ -983,10 +899,7 @@ what really drove that?
 
 Bloomberg Transcript
 
-A - Robert Qutub
-
-{BIO 15269353 <GO>}
-
+A - Robert Qutub {BIO 15269353 <GO>}
 Thanks for the question, it's Bob. It really came across most of our years in perils. It's just
 part of a review that we go through. I would point out that of the $52 million, $28 million if
 it was in DaVinci. And so that was a lion's share of it and that's aligned with our Property
@@ -995,19 +908,13 @@ development was actually released back to our Capital Partners in the non redeem
 controllable interest. So, favorable development that was on us was only about $32
 million.
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
-
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 Okay and then on pricing overall, obviously the pace of increases has slowed, but how do
 you feel about the adequacy of pricing, given that rates have gone up over the past
 several years and, but then there are some pressures as well such as inflation. So -- and
 just across your various businesses?
 
-A - Keith McCue
-
-{BIO 20595590 <GO>}
-
+A - Keith McCue {BIO 20595590 <GO>}
 Yes. So I think, we've been getting rate on rate. So the -- the level of rate increase is
 reducing but still positive. So that's good news. Just to start with. So, we look at our
 portfolios -- our observations are broadly, we are seeing rate above trend, we do watch
@@ -1017,10 +924,7 @@ further rate increase coming in the pipeline. But we're already dealing with por
 are seeing rate above trend and our rate -- and have rate adequacy in them. So I think the
 book is in good shape.
 
-Q - Jimmy Bhullar
-
-{BIO 4278955 <GO>}
-
+Q - Jimmy Bhullar {BIO 4278955 <GO>}
 Okay. Thank you.
 
 Page 17 of 19
@@ -1037,10 +941,7 @@ line is open. Please go ahead.
 
 FINAL
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Thanks. Hopefully, this is a good continuation of Jimmy's question. You've talked about
 the improving rate environment, I think that's undeniable, but it seems like eventually
 we're going to see softening in Casualty and Specialty. I was hoping you could talk about
@@ -1055,9 +956,7 @@ are. Once we observe and whether that's from an increase in trend or a reduction
 that the balance is no longer in our favor, we will reduce the size of our books. We're
 nowhere near that point at this time in our observation of where the markets are though.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 
 Bloomberg Transcript
 

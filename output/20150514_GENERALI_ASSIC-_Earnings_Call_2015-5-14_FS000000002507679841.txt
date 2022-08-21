@@ -37,10 +37,7 @@ Today's conference is being recorded. At this time, I would like to turn the con
 over to Mr. Spencer Horgan, Head of Investor and Rating Agency Relations. Please go
 ahead, sir.
 
-Spencer Lee Horgan
-
-{BIO 4241901 <GO>}
-
+Spencer Lee Horgan {BIO 4241901 <GO>}
 Good morning, everybody, and welcome to our Q1 2015 results call. As the operator said,
 we're ready to take your questions. But before we do that, I'll hand it over to Alberto for a
 few brief opening remarks. Alberto?
@@ -53,9 +50,7 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2015-05-14
 
-Alberto Minali
-
-{BIO 16909383 <GO>}
+Alberto Minali {BIO 16909383 <GO>}
 
 FINAL
 
@@ -92,10 +87,7 @@ Operator
 Thank you, sir. We will now take our first question and it comes from Gianluca Ferrari from
 Mediobanca. Please go ahead, sir.
 
-Q - Gianluca Ferrari
-
-{BIO 15042989 <GO>}
-
+Q - Gianluca Ferrari {BIO 15042989 <GO>}
 Yes. Hi, Alberto. Good morning. Three questions from my side. The first one is on the
 current year loss ratio. I noticed that Q1 2015 has been a record ever with 67.5% if you can
 elaborate a little bit on the reasons behind these very, very good result on the current
@@ -119,10 +111,7 @@ that the economic solvency as at mid of March was more or less stable with full 
 So, it was in the region of 157%. Can you confirm that the economic solvency at the end of
 Q1 was in line with that at the end of full year 2014? Thank you.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Thank you, Gianluca. Start from the first question, the current year loss ratio. Yes, it's very
 low indeed. It's sort of a historical record, the 67.5%. I wanted to highlight two things. I'm
 sorry to bother you on this. The reserving policy of the group has not changed at all. We
@@ -146,19 +135,13 @@ day, so a couple of days more, in London, and we will provide you with a lot of 
 regarding the economic solvency position of the group. But certainly, it's more than
 adequate.
 
-Q - Gianluca Ferrari
-
-{BIO 15042989 <GO>}
-
+Q - Gianluca Ferrari {BIO 15042989 <GO>}
 Thank you.
 
 Operator
 Our next question comes from Mr. Peter Eliot from Berenberg. Please go ahead, sir.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Thank you very much. I'll refrain from asking a direct question on the economic solvency,
 but just if I look at the duration of your fixed income portfolio behind the Life business, I
 see that increase by 0.5 years across the quarter. I'm guessing that the duration of your
@@ -185,9 +168,7 @@ Third and final question, I note that the acquisition cost ratios have gone up a
 Life and non-life, admittedly partly driven by volumes. But I was wondering if you could just
 sort of comment and perhaps give an outlook there? Thank you.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
+A - Alberto Minali {BIO 16909383 <GO>}
 
 Bloomberg Transcript
 
@@ -217,9 +198,7 @@ Predominantly, it's a volume effect. That's right. But for the P&C business, it'
 switching effect from the motor one with – has a very low acquisition cost into more
 sophisticated business which requires higher acquisition and also administration cost.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Page 4 of 23
 
 
@@ -235,10 +214,7 @@ understanding?
 
 FINAL
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Yes, it's correct. The gap between asset and liability last year was in the ballpark of one
 year. This year is six months. So by shortening this gap, we make our Life business less
 exposed to interest rate volatility. And we did have this room for lengthening the duration,
@@ -246,10 +222,7 @@ especially through the investment process.
 We did the same also in the P&C business even if in the P&C business, the duration
 mismatch has probably different meaning because the liability are not interest ratesensitive.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Okay. Thanks a lot.
 
 Operator
@@ -259,10 +232,7 @@ Bloomberg Transcript
 Our next question comes from James Shuck from UBS. Please go ahead, sir. Your line is
 open.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Good morning. Thank you for taking my questions. I have two questions, please. Firstly, on
 Italian Life sales, seen very strong flows, net flows, I think they doubled year-on-year in Q1.
 Presumably that's being driven by the Valore Futuro product. I've got kind of two related
@@ -281,9 +251,7 @@ that business? Because at the end of 2014, I think your IRRs and payback periods
 around 6% and 10 years, respectively. So, that business doesn't seem particularly
 attractive to me. So, I'm just struggling to see why you're selling so much of it. Thank you.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
+A - Alberto Minali {BIO 16909383 <GO>}
 Page 5 of 23
 
 
@@ -352,19 +320,14 @@ the Life portfolio.
 You are right, not a fantastic margin but we are working on that because we are aware of
 this situation and we have already started to tackle it.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Okay. That's great. Thank you very much.
 
 Operator
 Our next question comes from Mr. Farooq Hanif from Citi. Please go ahead, sir. Your line is
 open.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 Bloomberg Transcript
 
@@ -381,10 +344,7 @@ missing. So, if you have stable kind of experience but falling prices, you'd exp
 eventually that to come through to the bottom line. So, I was wondering how you would
 kind of square that for me. Thank you.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Thank you, Farooq. Let me give you some data and I apologize because in answering the
 question earlier, probably I gave you the data of the group. So let me recap the Life net
 inflow for the group, which are €4.3 billion, of which €2 billion are unit-linked. I must also
@@ -435,24 +395,15 @@ deliver better service to the customer. Price is not the only element. And we th
 working much more than the others on customer issues and on service in order to make
 our products less price-dependent but more customer-centric.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 May I quickly ask? In Italy, did you have a higher reserve release in 1Q 2015 versus 1Q
 2014?
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Let me check the number, I don't remember by memory. The reserve release, my team
 here tells me that it's stable and I trust them.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -469,10 +420,7 @@ Date: 2015-05-14
 
 FINAL
 
-Q - Federico Salerno
-
-{BIO 2565091 <GO>}
-
+Q - Federico Salerno {BIO 2565091 <GO>}
 Hi, everyone. Alberto, still on Life, please, in Italy. Traditional – looking at premiums, these
 were up 18% year-on-year on the traditional side. I guess only a small portion of that being
 driven by the new hybrid products. Are you still doing something to rein in the agents? As
@@ -482,10 +430,7 @@ please. And the second question is on P&C, you still have about 10% of assets he
 cash. Do you see these declining in the coming quarters? What do you think about this?
 Thank you.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Thank you, Federico. On the Life traditional premium, yes, are up. I would say that a small
 portion, yes you're right, is driven by EBRI products. We are doing – during the process of
 transforming Generali Italy and merging several companies and also making this very
@@ -505,20 +450,14 @@ For the non-life, for the P&C business, 10% of assets invested in cash. That's a
 operational type of cash; nothing to do with the asset allocation. It's just a seasonal effect,
 but we will reduce it quickly over time.
 
-Q - Federico Salerno
-
-{BIO 2565091 <GO>}
-
+Q - Federico Salerno {BIO 2565091 <GO>}
 Thank you.
 
 Operator
 Thank you. Our next question comes from Nick Holmes from Société Générale. Pease go
 ahead, sir. Your line is open.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Hi there. Thank you very much. Two questions. First one is can you give us a little bit more
 color on why the P&C expense ratio rose by 1%? I mean, it seems just a bit surprising
 given your focus on cost reduction. I know there's acquisition increases, but I wondered if
@@ -540,10 +479,7 @@ whole industry is going to stock pricing this guaranteed stuff ? Thank you very 
 
 FINAL
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Thank you for your questions. So the P&C expense ratio has increased by – if we split it,
 let's say, 0.2% for administration, 0.7% for acquisition cost. If you look at the detail, the
 dynamic of the acquisition cost, monetary terms, these have increased by 4% because of
@@ -558,31 +494,20 @@ to diversify away from the traditional one. So, I do expect that this trend will
 within the Solvency II, but not because of the consumer demand, but more because of an
 insurer offer of different type of products that will create their own demand in the market.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
+Q - Nick Holmes {BIO 3387435 <GO>}
 
 Bloomberg Transcript
 
 Okay. Could I come back very quickly on the admin ratio with P&C? I mean, are you a little
 bit disappointed that there hasn't been improvement there?
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 In terms – your question is for the administration ratio?
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Yes.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 No. I'm not disappointed. This is a marginal, let's say, variation. Bear also in mind that the
 first quarter of the year is particularly strange from a business point of view because we
 have huge renewal of business especially in some countries that traditionally have a lot of
@@ -593,10 +518,7 @@ of focus on the overall cost base of the group. And also, you'll see at the inve
 these will be still an important issue that we want to carry on in the future. So, I am not
 concerned about this slight pickup of administration ratio.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. That's great. Thank you very much.
 Page 10 of 23
 
@@ -612,18 +534,13 @@ sir. Your line is open.
 
 FINAL
 
-Q - Matteo Ghilotti
-
-{BIO 2333793 <GO>}
-
+Q - Matteo Ghilotti {BIO 2333793 <GO>}
 Good afternoon. Just a question on the combined ratio because I think your indication was
 to expect a roughly stable combined ratio this year. And I wonder if given the first quarter
 and your indication that pricing is, generally speaking, soft, if you agree that the flat
 combined ratio is becoming probably a bit too optimistic forecast? Thank you.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
+A - Alberto Minali {BIO 16909383 <GO>}
 
 Bloomberg Transcript
 
@@ -649,10 +566,7 @@ So, I don't share that maybe your implicit comment that we are becoming too opti
 No. I think we still are very prudent and a portion, a component, of the combined ratio
 cannot be predicted at all. So, this is something that we need to accept.
 
-Q - Matteo Ghilotti
-
-{BIO 2333793 <GO>}
-
+Q - Matteo Ghilotti {BIO 2333793 <GO>}
 Thank you.
 
 Operator
@@ -669,10 +583,7 @@ Date: 2015-05-14
 
 FINAL
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Oh. Hi there. Three short questions. First of all, on France, maybe, Alberto, you could just
 bring us up-to-date on where we are on re-underwriting of the book and when that
 should cease. I think the expectation was in the second half of this year, but maybe just
@@ -692,10 +603,7 @@ that? Thanks.
 
 Bloomberg Transcript
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Thanks for the questions. So, the re-underwriting of the book in France is not over for the
 simple reason that we had contracts in the portfolio with a two, three years maturity. And I
 think in the next probably one, two quarter, we will complete the re-underwriting the
@@ -715,10 +623,7 @@ So, I think France, it's on the right path but there are still a lot of work to 
 expect it to improve below 100% by the end of the year essentially. I feel there is a lot to
 do still in France, but we are doing that.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Page 12 of 23
 
 
@@ -731,10 +636,7 @@ Okay.
 
 FINAL
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 In terms of Italy, the motor business, we had a minus 9% in terms of gross written
 premium. Bear in mind that the new production premium has gone down by 6.5%. We are
 not losing contracts in Italy. We are not having an increase of the frequency. We are not
@@ -749,50 +651,31 @@ premiums essentially is constant, 3.1% versus 3.2%. And this is due to the diver
 duration of the business. For any other technical question on these, Egyptian
 understanding please refer to our group (36:52).
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 Bloomberg Transcript
 
 Okay. Thanks. Just to clarify, you say the price effect was 6.5% in Italy. That is the effect on
 new – I was a bit confused. Is that what you meant?
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Yes. I was saying that the gross written premium overall is in the motor business...
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Yeah.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Quarter-over-quarter is minus 9%, while the average premium for the new production is
 minus 6.5%, which means that we start to see a lower price war in the premium in the
 market.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Which is a good sign for us.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Page 13 of 23
 
 
@@ -809,8 +692,7 @@ FINAL
 
 Our next question comes from William Elderkin from Goldman Sachs. Please go ahead, sir.
 
-Q - William H. Elderkin
-
+Q - William H. Elderkin {BIO 3349136 <GO>}
 Thank you, and hello, everyone. Two questions left. The first one is still on the Life new
 business profits. I think you may have partly just answered it. But I was surprised how
 resilient the margin was in the first quarter both compared to the sensitivities you've
@@ -823,14 +705,9 @@ have helped as well as they became a lot more resilient than I was expecting. An
 secondly, can you provide us an update with what source of new money rates you're
 achieving this quarter going into the P&C and Life books?
 
-A - Alberto Minali
-
 Bloomberg Transcript
 
-{BIO 3349136 <GO>}
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 I think the first question, if I understand correctly, because it's a very wide question, the
 resilience and the sensitivity, we had during the first quarter further reduced the level of
 the guarantees, I would say quicker than the peers. We have now a level of the
@@ -849,10 +726,7 @@ So, if you see the variation of the margin quarter-over-quarter from 22.5% – f
 negative variation coming from interest rate structure we have used for calculating this
 margin. I don't know if I've been clear but your question was...
 
-Q - William H. Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William H. Elderkin {BIO 3349136 <GO>}
 That's really helpful. And within that 170 bps of positive mix effect, does that also include
 the crediting rate effect?
 
@@ -864,9 +738,7 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2015-05-14
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
+A - Alberto Minali {BIO 16909383 <GO>}
 
 FINAL
 
@@ -875,60 +747,37 @@ and a minor portion also from France. The reinvestment rate on the P&C and life 
 the reinvestment rate first Q 2015, in the Life business is 2.5% and in the P&C business,
 2.1%. So, it's a very good reinvestment rate.
 
-Q - William H. Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William H. Elderkin {BIO 3349136 <GO>}
 Can you give us a sense of what you're achieving this quarter?
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Say it again, sorry?
 
-Q - William H. Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William H. Elderkin {BIO 3349136 <GO>}
 What sort of reinvestment rates are you getting this quarter in 2Q?
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 The same, the same.
 
-Q - William H. Elderkin
-
-{BIO 3349136 <GO>}
+Q - William H. Elderkin {BIO 3349136 <GO>}
 
 Bloomberg Transcript
 
 Thanks. Okay, cool. Great. Thank you.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 We had towards the end of the quarter a contraction of the interest rate, on the spreads,
 and in the first eight months after the quarter, a re-bouncing back, so I would say the
 same.
 
-Q - William H. Elderkin
-
-{BIO 3349136 <GO>}
-
+Q - William H. Elderkin {BIO 3349136 <GO>}
 Thank you.
 
 Operator
 Our next question comes from Michael van Wegen from Bank of America Merrill Lynch.
 Please go ahead, sir.
 
-Q - Michael van Wegen
-
-{BIO 6435238 <GO>}
-
+Q - Michael van Wegen {BIO 6435238 <GO>}
 Yeah. Hi. One question please on the Life business. If we look at the different sources of
 profit, then I noticed that in the investment margin, the policyholder sharing was lower in
 Q1. I think it's around 80% right now. Is that mainly due to the higher capital gains? And
@@ -951,10 +800,7 @@ more structural? And for the expense margin, the acquisition cost being up € 9
 year-over-year. Obviously, it's driven by the strong sales efforts that you had. How do you
 see that evolve going forward? Thank you.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Yes, thanks for the question. The policyholder participation rate is not something that we
 can maneuver. It's already in the books. It depends on the dynamic of the reserves that
 we have already accounted for. So, I don't expect any policyholder participation rate in the
@@ -977,20 +823,14 @@ to be still a good chunk of negative of our operating performance. But I'm not c
 about the acquisition cost. I'm always much more concerned about the quality of the
 production and I'm pretty sure that we are moving in the right direction.
 
-Q - Michael van Wegen
-
-{BIO 6435238 <GO>}
-
+Q - Michael van Wegen {BIO 6435238 <GO>}
 Okay.
 
 Operator
 We will now take our next question from Michael Huttner from JPMorgan. Please go
 ahead, sir.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 Hi there. Apologies because I joined the call later. If I asked a question which you probably
 said earlier you mustn't ask it, apologies for that. But on solvency, you did say in your
 prepared remarks that the new model, you're comfortable and strong. Can you an idea of
@@ -1015,10 +855,7 @@ strong performance we might expect there? I was just reading the transcript on
 Bloomberg, and they kind of indicated that they've acquired a big network last year, so
 Credit Suisse, and that there may be some more stuff like that in the pipeline. Thank you.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 In terms of Solvency II, I mean I just made a comment that you'll need to wait until our next
 strategy day to have more indication about the capital position of the group. I reiterate
 once again that we are abandoning the old model. We are now cruising into a Solvency II
@@ -1044,18 +881,12 @@ sources of revenues because of the asset they manage and because of the banking
 products they sell. But they are a very important distribution network in Italy, which
 perfectly complement our traditional one we have in the country.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 And that comment, which they gave on the conference call, which was a couple of weeks
 ago, that because of their strong capital position, which is back to the level before the
 Credit Suisse deal, they could look at things again, can you put any color on that?
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 I mean, they have a very strong capital position also because Banco Generali does not
 have any real banking book and credit exposure. It's a bank servicing the financial
 promoter. They will use the capital for expanding, acquiring new financial promoters, only
@@ -1073,9 +904,7 @@ Date: 2015-05-14
 that is auto-generating capital that they want to reinvest and we want them to reinvest in
 the strengthening of the sales force.
 
-Q - Michael I. Huttner
-
-{BIO 1556863 <GO>}
+Q - Michael I. Huttner {BIO 1556863 <GO>}
 
 FINAL
 
@@ -1094,10 +923,7 @@ more of an ongoing amount? Any thoughts there on that would be good. Thanks.
 
 Bloomberg Transcript
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Yes. You are right. The investment return has been boosted by the decision we took on
 realization of capital gains. Our colleagues on investment department believe that there
 are tactical situation in the market that we need to profit from. And so they have decided
@@ -1129,9 +955,7 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2015-05-14
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
+Q - Thomas Seidl {BIO 17755912 <GO>}
 
 FINAL
 
@@ -1150,9 +974,7 @@ bonds. I mean, I look at investment grade bonds in Europe, that's not something 
 should be able to get. So, I wonder if you could provide color how you get to even a 2.5%
 number which is again significantly above peers. Thank you.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
+A - Alberto Minali {BIO 16909383 <GO>}
 
 Bloomberg Transcript
 
@@ -1171,10 +993,7 @@ certain way. So, we need every single quarter to think that there are impairment
 through from the different assets we've got in the book.
 I pass the word Nikhil on the reinvestment, what we...
 
-A - Nikhil Srinivasan
-
-{BIO 7419225 <GO>}
-
+A - Nikhil Srinivasan {BIO 7419225 <GO>}
 Yes. Thank you, Alberto. Just a couple of points, questions raised there. The reinvestment
 yields firstly on corporate bonds, how do we get the level in terms of rates? Essentially,
 we've got it through having a very active private placement business we started two-anda-half years ago, which we are executing both in Europe as well as partly in Asia, but it's
@@ -1207,19 +1026,13 @@ that running yield is consistent from year-on-year, I think you can assume that.
 assume another significant drop from where we are today until the next quarter, I think I
 wouldn't assume that.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Why would Q1 be specifically a sharp drop of 40 bps? Is there any specific reason for
 that?
 
 Bloomberg Transcript
 
-A - Nikhil Srinivasan
-
-{BIO 7419225 <GO>}
-
+A - Nikhil Srinivasan {BIO 7419225 <GO>}
 No, I mean I don't – there's no specific reason for that. No, there isn't. I mean, it is the
 market. It is what – I have not seen our peers' results, but I can't imagine that their running
 yields have been stable year-on-year. I mean, that's just the way it is. But I mean, I want to
@@ -1228,19 +1041,13 @@ our yield is coming down. It's just that we have a significant amount to invest.
 that the (56:31) the front end of our business doing as well as it is, there is a lot of inflow.
 There's inflow we'd rather not deal with, but that's the way we have it.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 All right. Thank you.
 
 Operator
 We will now take our next question from Ralph Hebgen from KBW. Please go ahead, sir.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Yes. Hi. Ralph Hebgen from KBW. I'm afraid it's the same question. I mean, it's partially
 answered. Thank you very much. If you could just share with us perhaps your thinking on
 how you manage medium term the overall economic return you're getting from your
@@ -1262,10 +1069,7 @@ helpful.
 
 FINAL
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
-
+A - Alberto Minali {BIO 16909383 <GO>}
 Yes. Thanks for this question, which goes back to the way we set the business plan for the
 entire group. We make an extensive analysis in terms of financial performance of the
 different units. So, we don't have any target of performance specifically at the group level.
@@ -1284,10 +1088,7 @@ running return and the way we use this buffer of wealth over time.
 
 Bloomberg Transcript
 
-A - Nikhil Srinivasan
-
-{BIO 7419225 <GO>}
-
+A - Nikhil Srinivasan {BIO 7419225 <GO>}
 Thanks, Alberto. I mean, look, the entire industry is facing low rates. So, I think any time we
 have a call like this with any of our peers, you'd have the same issues. We addressed to
 that as I said partly through the private placement business. But really we addressed it
@@ -1302,10 +1103,7 @@ extend duration or go into corporate bonds, we will take them. And I think now, 
 coming into May and June, we have a better position to actually do the things we want to
 do and use some of the cash we built up than we have perhaps in Q1.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Yes. Thank you very much. It's very clear.
 
 Operator
@@ -1319,9 +1117,7 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2015-05-14
 
-Q - Elena Perini
-
-{BIO 4202240 <GO>}
+Q - Elena Perini {BIO 4202240 <GO>}
 
 FINAL
 
@@ -1337,9 +1133,7 @@ strong performance and the strong business momentum for Banca Generali, would yo
 expect this segment to provide a positive contribution to your operating income for the
 current year? Thank you.
 
-A - Alberto Minali
-
-{BIO 16909383 <GO>}
+A - Alberto Minali {BIO 16909383 <GO>}
 
 Bloomberg Transcript
 
@@ -1366,10 +1160,7 @@ in the next quarter and in the next years. So, it still it is something which is
 the whole group, but important in terms of element in the holding and other business
 segment reporting.
 
-A - Spencer Lee Horgan
-
-{BIO 4241901 <GO>}
-
+A - Spencer Lee Horgan {BIO 4241901 <GO>}
 Okay. So I think that wraps up all the time we've got. Thank you very much, everybody, for
 your questions, and goodbye for now. And we look forward to seeing you in London in a
 couple of weeks' time.

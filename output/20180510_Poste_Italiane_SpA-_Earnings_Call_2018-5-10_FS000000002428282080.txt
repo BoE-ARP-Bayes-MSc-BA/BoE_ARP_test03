@@ -25,10 +25,7 @@ conference is being recorded.
 At this time, I would like to turn the conference over to Mr. Matteo Del Fante, CEO. Please go
 ahead, sir.
 
-Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+Matteo Del Fante {BIO 6237992 <GO>}
 Thank you. Good afternoon, ladies and gentlemen. We're pleased to present Poste Italiane First
 Quarter 2018 Results as well as an update on Deliver 2022. As presented at our Capital Markets
 Day in February, we are undertaking the Deliver 2022, a group-wide transformation program with a
@@ -177,10 +174,7 @@ Over to you, Massimo please.
 
 Bloomberg Transcript
 
-Massimo Rosini
-
-{BIO 20101636 <GO>}
-
+Massimo Rosini {BIO 20101636 <GO>}
 Thank you, Matteo and good afternoon, everybody. In Mail, Parcels and Distribution, our efforts to
 refocus this segment, as presented within the Deliver 2022 plan, have already begun and you are
 seeing some of the key trends as well as the impact show through in these results. Segment
@@ -209,10 +203,7 @@ prices were down about 4%, reflecting the changing volume mix from C2C, B2B to B
 Thank you for your attention. I will be available for any questions during the Q&A part of this call.
 Let me now hand over to Andrea Novelli.
 
-Andrea Novelli
-
-{BIO 15185958 <GO>}
-
+Andrea Novelli {BIO 15185958 <GO>}
 Thank you, Massimo, and let's start from slide 13, with our segments' key financials. Here we show
 our Financial Services revenue, including net capital gains, rather than gross capital gains as shown
 
@@ -309,10 +300,7 @@ the appendix of this presentation.
 That's all from me. Thank you for your attention. Let me hand over to the CFO, Roberto Giacchi to
 talk about Payments, Mobile & Digital, Insurance Services and other group topics.
 
-Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+Roberto Giacchi {BIO 20101579 <GO>}
 Thank you, Andrea. I will briefly take you through the highlights for the Payments Mobile & Digital
 segment, where Poste Italiane benefits from clear readership in a fast-growing market. Revenue
 increased by 10% in the first quarter of 2018 compared to 2017, supported by all business lines,
@@ -425,9 +413,7 @@ That is all on my side. Let me now hand over back to Matteo for some closing rem
 
 
 
-Matteo Del Fante
-
-{BIO 6237992 <GO>}
+Matteo Del Fante {BIO 6237992 <GO>}
 
 FINAL
 
@@ -449,10 +435,7 @@ ahead. Your line is open.
 
 Bloomberg Transcript
 
-Q - Fabrizio Bernardi
-
-{BIO 3565544 <GO>}
-
+Q - Fabrizio Bernardi {BIO 3565544 <GO>}
 Hi, everybody. I've got three questions on the cost base, if I can. I would like you to focus on the
 trend of the (45:14) which had a great trend in this quarter. In particular, I would like to understand if
 we can consider this improvement as recurring. More specifically, if I consider the, let's say, the
@@ -465,19 +448,13 @@ great. And then a curiosity, if I can, would you remind me what happened to HR c
 division? There is a sharp drop. But if I'm not mistaken the same drop was visible already in the last
 quarter of 2017? Thank you.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Thank you for your questions. I'll start with the D&A. Yeah, the €10 million lower CapEx is under
 scrutiny and control. But there are no worry, and I will not consider the exercise of taking the €10
 million and making it €40 million decrease in CapEx in 2018. So we are targeting our CapEx for
 year-end in line with the plan. On cost, maybe Roberto, you want to follow-up.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Yes. Thank you. As we see, at this stage, we are confirming the target for 2018 that we deliver
 within the Capital Markets Day. More precisely, we can consider the efficiencies that we had
 reached in this quarter all consolidated, and when I say consolidated, I mean that only a small part
@@ -486,9 +463,7 @@ that this kind of efficiencies will be repeated in the next quarter.
 On depreciation and amortization, Matteo already answered. Then, if I may, I would ask you to
 repeat your last question on banking HR costs.
 
-Q - Fabrizio Bernardi
-
-{BIO 3565544 <GO>}
+Q - Fabrizio Bernardi {BIO 3565544 <GO>}
 
 
 
@@ -500,30 +475,18 @@ services, I read that personal expenses were €30 million in 2017 and €21 mil
 expenses were already down materially. So, I would like you to remind me what happened to the
 Financial services division in terms of HR cost, because minus 30% is a record I guess?
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Yes. Thank you for your question.
 
-Q - Fabrizio Bernardi
-
-{BIO 3565544 <GO>}
-
+Q - Fabrizio Bernardi {BIO 3565544 <GO>}
 Page 37.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Yes. As we said before, in the first quarter of 2017, we have – or we still have on our numbers the
 BdM-MCC legal entity. Yeah. So we had deconsolidated the revenues and cost, so that deduction
 is mainly related to the consolidation of BdM-MCC.
 
-Q - Fabrizio Bernardi
-
-{BIO 3565544 <GO>}
-
+Q - Fabrizio Bernardi {BIO 3565544 <GO>}
 Okay. Thanks.
 
 Operator
@@ -532,10 +495,7 @@ Bloomberg Transcript
 
 We will now take our next question from Gianluca Ferrari from Mediobanca. Please go ahead.
 
-Q - Gianluca Ferrari
-
-{BIO 15042989 <GO>}
-
+Q - Gianluca Ferrari {BIO 15042989 <GO>}
 Yes. Hi. Good afternoon, everybody. I have three questions. The first one is on the 2% decline in
 retail deposits. I was wondering why you had this small reduction, given that your retail deposits
 were up quite substantially last year.
@@ -544,10 +504,7 @@ complete it by 18 months, but I was wondering if you plan to complete it by end 
 and final question is, if you can give us a sense of the rebates that you will get from Intesa on the
 mortgages? Thank you.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Okay. On the buyback, we're not yet authorized. There is the General Assembly on the 29 of May,
 then we have 18 months. But I want to be clear with investors, no decision has been taken by the
 board. And so the board has allowed us this flexibility for the future, but there is no commitment to
@@ -555,19 +512,14 @@ proceed with the buyback and no specific decision has been taken.
 The third question was on rebates which is I think easy, because we don't disclose it. And more
 specifically, on the first question, 2% decrease in retail deposits, I think Andrea can talk about it.
 
-A - Andrea Novelli
-
-{BIO 15185958 <GO>}
-
+A - Andrea Novelli {BIO 15185958 <GO>}
 Yes, thank you Matteo. If you look on the same slide at the corporate and other component, in that
 part, that is actually growing. You have also the deposits coming from the PostePay part of our
 business. So if you take into account the total retail component, summing up the current accounts
 and the PostePay accounts, that component is actually growing and not declining.
 
-Q - Gianluca Ferrari
+Q - Gianluca Ferrari {BIO 15042989 <GO>}
 Okay. Thank you.
-
-{BIO 15042989 <GO>}
 
 
 
@@ -576,10 +528,7 @@ We will now take our next question from Kunal Zaveri from JPMorgan. Please.
 
 FINAL
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Hello. Hi, this is Ashik here and I'm using Kunal's line from JPMorgan. Just a few questions I have is,
 one is can you give us some color about what's happening with the non-life distribution. Where are
 we on the process? When shall we expect clarity on non-life distribution? So that would be the first
@@ -593,28 +542,20 @@ now what does that mean? I mean, is it still part of unrealized gains or is it a
 unrealized gains? So a bit of clarity on – if you can give on that capital gains for 2019, which you
 mentioned you have taken some forward contracts, any clarity on that would be great? Thank you.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
+A - Matteo Del Fante {BIO 6237992 <GO>}
 
 Bloomberg Transcript
 
 Thank you for questions. Non-life distribution is in motor, specifically partner or partners that we are
 going to select and the process is ongoing. In terms of mail and parcel – sorry, please.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 No, I was just saying, is there any particular criteria that you are looking for like, okay, this must be
 my upfront payment I should be expecting, this must be the commission? Any sort of criterias you
 have in mind to select a partner that you can disclose or is it just a bit too early to disclose that?
 Thank you.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Yeah, yeah. I mean first of all let me remind that in terms of Deliver 2022, this was an activity plan
 towards the last two years of the plan. So we are anticipating potentially the process and there are
 no meaningful revenues embedded in the plan for this distribution agreement. In terms of criteria,
@@ -645,33 +586,19 @@ gains we needed for 2018 and a meaningful part of the 2019. We don't disclose at
 gains, so that we would have the opportunity in a more volatile environment with wider spreads to
 reinvest in a more benign and rich yield and spread environment.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Sorry, just to confirm. So you mentioned €2.8 billion is after 2018 and after meaningful part of 2019?
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 No, sorry, only 2018.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
-
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 Okay. And 2019, which you have already secured will have to go out from this number?
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Yes.
 
-Q - Ashik Musaddi
-
-{BIO 15847584 <GO>}
+Q - Ashik Musaddi {BIO 15847584 <GO>}
 
 Bloomberg Transcript
 
@@ -680,10 +607,7 @@ Okay, clear. Thank you.
 Operator
 We will now take our next question from Giovanni Razzoli from Equita. Please go ahead.
 
-Q - Giovanni Razzoli
-
-{BIO 7269718 <GO>}
-
+Q - Giovanni Razzoli {BIO 7269718 <GO>}
 Good afternoon to everybody. I've a couple of questions. The first one is on the very good results
 in my view on the mail and parcels and distribution division. I was wondering whether you can
 provide us an update of the (59:55) that you have started, if I'm not mistaken, at the beginning of
@@ -699,10 +623,7 @@ And the very last question, a clarification on what's the sensitivity of the cap
 basis points in the sovereign spreads. I was wondering whether this understanding is correct.
 Thank you.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Okay. We're working very hard in terms of the joint delivery model on one side, which is the last
 mile, which is basically increasing the number of parcels that our lettermen deliver. And this is going
 relatively smoothly. As I said, we have implemented already 71 delivery centers since mid-April and
@@ -720,10 +641,7 @@ FINAL
 
 In terms of the second question, why do we show the EBIT adjusted, I'll let the CFO.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Thank you, Matteo. As we see, we had booked both in the first quarter 2017 and in the first quarter
 2018 capital gains. Capital gains are plus for something like 80% to the mail, parcel & distribution
 segment as commission for sales of product. So if we do not consider this part of the commission,
@@ -732,10 +650,7 @@ passed from minus €186 million to minus €43 million. That's the underlying E
 gain effect. And I would take also the question on sensitivity. With 10 basis points rate increase, our
 realized capital gain would decrease by about €550 million.
 
-Q - Giovanni Razzoli
-
-{BIO 7269718 <GO>}
-
+Q - Giovanni Razzoli {BIO 7269718 <GO>}
 Thank you.
 
 Operator
@@ -744,10 +659,7 @@ Bloomberg Transcript
 
 We will now take our next question from Anna Benassi from Kepler. Please go ahead.
 
-Q - Anna Maria Benassi
-
-{BIO 1557710 <GO>}
-
+Q - Anna Maria Benassi {BIO 1557710 <GO>}
 Yes. Good afternoon. I have three questions. The first question relate to the unit-linked business is
 a small portion of your Insurance business, but is the most – the fast growing segment and we hear
 about the Supreme Court, Corte Costituzionale, having taken a view on that. We hear the
@@ -765,10 +677,7 @@ cost performance for the efficiency and also better growth in certain division a
 the Intesa agreement in the second half of the year, don't you think that we can consider your
 comments as conservative just because we are only in May and not in September? Thank you.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 I wanted to interrupt you because the line was really, really bad and it was difficult for us to hear.
 We missed basically the first question. We understood that the second question was about Corte
 Costituzionale and with the new ruling on the unit link. Not much to say that first of all, we are the
@@ -796,9 +705,7 @@ Operator
 Pardon the interruption, the line has disconnected. We will now take our next question from Matija
 Gergolet from Goldman Sachs. Please go ahead.
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
+Q - Matija Gergolet {BIO 3561672 <GO>}
 
 Bloomberg Transcript
 
@@ -812,10 +719,7 @@ basis points of spreads is basically €3 billion of capital gains. Why not just
 chunk of those spreads and thus securing sort of €100 million of capital gains all the way through
 2022, are you thinking about this? That's the first question.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Yeah. That's a good question. Sensitivity is really extremely big, because at the end of the day, 10
 basis points of spread are something that can happen over one or two weeks. The way we look at
 it is combining our capital gains needs for the plan and you remember from Deliver 2022 that the
@@ -834,16 +738,10 @@ there be a widening of the spread, we will have liquidity and opportunity to inv
 there be additional tightening that is putting pressure on our interest margin, we will be able to sell
 more and get what we need to deliver the plan.
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
-
+Q - Matija Gergolet {BIO 3561672 <GO>}
 Okay. Okay. Understood.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 It has not gone unnoticed when we presented the plan that we did it with a spread of 130
 (01:14:03). And if you sum up the capital gain needs that we have put in the plan decreasing, you
 always get, for the time being at a total value, which is significantly lower than what we have in the
@@ -851,9 +749,7 @@ portfolio. And nobody has asked us what we would do with the rest, but we have i
 
 
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
+Q - Matija Gergolet {BIO 3561672 <GO>}
 
 FINAL
 
@@ -864,37 +760,26 @@ provision reversal. Could you just quantify that please, because 3.4% lower empl
 think has been achieved at any point in time, in the last three, four years, but the number of FTE
 reduction is more or less in line with recent history?
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Yes. The one day less paid national holiday has a value of €12 million that was accounted in the first
 quarter 2017. And the effect of the provisions that we did in the first quarter of 2017 to take into
 account the renewal of the labor contracts had a value, would reduce net in the value, the labor
 cost for full-time equivalent from – for this value, this value would be reduced from €0.431 million
 as stated in the chart to €0.426 million (01:16:13). These are euros annualized labor cost for FTE.
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
-
+Q - Matija Gergolet {BIO 3561672 <GO>}
 Got it. And sorry, just now on the cost side, what are the expected wages for wage increases for
 this year, is that like a premium in Q2, you mentioned this; what should we say assume for the rest
 of the year to say wage increases?
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
+A - Roberto Giacchi {BIO 20101579 <GO>}
 
 Bloomberg Transcript
 
 Yeah. We can assume the same value that we stated in the Deliver 2022 plan. We think we are in
 line with that value.
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
-
+Q - Matija Gergolet {BIO 3561672 <GO>}
 Okay. And just last topic quickly. So you mentioned on Mail volume declines and (01:16:52) Q1 is
 good, but it almost seems that you don't want to increase the guidance for that division, because
 you say that you want to see these trends from our international e-commerce inbound or say ecommerce going via mail have to be confirmed? What exactly do you need to have confirmed at
@@ -903,10 +788,7 @@ perhaps driven by more Mail going through more – so e-commerce going through M
 hearing the same thing from pretty much all the other postal companies, so there is now more and
 more e-commerce packages going through the Mail. So what's your view there?
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 Yeah. The trend of international package markets going through the Mail channel, I agree with you,
 is there is not a lot we need to wait to see it confirmed. If anything, probably it will increase, but it's
 probably not only that. First quarter of the year, there were some additional mailing due to
@@ -915,18 +797,13 @@ In the first month of the year, for regulatory purposes, all financial instituti
 conditions. And that has been, in our opinion, particularly strong this year and we're not sure that
 this will be sustained. So that's the reason why we are not ready to change our view towards yearend volumes and guidance.
 
-Q - Matija Gergolet
-
-{BIO 3561672 <GO>}
-
+Q - Matija Gergolet {BIO 3561672 <GO>}
 Okay. Thank you very much, very clear. Thank you for the time.
 
-A - Matteo Del Fante
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Thank you.
 
 Operator
-
-{BIO 6237992 <GO>}
 
 
 
@@ -934,10 +811,7 @@ We will now take our next question from Elena Perini from Banca IMI. Please go a
 
 FINAL
 
-Q - Elena Perini
-
-{BIO 4202240 <GO>}
-
+Q - Elena Perini {BIO 4202240 <GO>}
 Thank you, and good afternoon. I have two questions left. The first one is again on the Mail and
 Parcel business. If I understood correctly, you had not recorded any one-offs in terms of costs in
 this first quarter, but you have recorded some one-offs on revenue side. Could you please make
@@ -948,15 +822,10 @@ from a strong decline in this quarter compared to the first quarter of 2017. In 
 comes from both income and expenses. Could you please elaborate a bit more on this please?
 Thank you.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 Okay, I will ask the CFO to take the first question. Please Roberto.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
+A - Roberto Giacchi {BIO 20101579 <GO>}
 
 Bloomberg Transcript
 
@@ -967,16 +836,10 @@ Parcel so are consistent in terms of revenues and in terms of cost quarter versu
 adjustment that we did is we take into consideration the capital gain effect and to show you the
 underlying EBIT of the segment without the capital gains.
 
-Q - Elena Perini
-
-{BIO 4202240 <GO>}
-
+Q - Elena Perini {BIO 4202240 <GO>}
 Okay.
 
-A - Roberto Giacchi
-
-{BIO 20101579 <GO>}
-
+A - Roberto Giacchi {BIO 20101579 <GO>}
 On the second question, I'm not sure I understood it, but if I try to answer anyway. When you say
 that on page 14 of our press release, you see a decrease in revenues or income from the
 insurance activities, I believe the answer was in the presentation related to the financial, the
@@ -989,19 +852,13 @@ choice of clients, a gradual rebalancing away from Class I products and that is 
 the specific insurance premium. But all in all, the segment has provided stable margins and
 revenues.
 
-Q - Elena Perini
-
-{BIO 4202240 <GO>}
-
+Q - Elena Perini {BIO 4202240 <GO>}
 Okay. Thank you.
 
 Operator
 I would now like to hand the call back to Matteo Del Fante for any additional or closing remarks.
 
-A - Matteo Del Fante
-
-{BIO 6237992 <GO>}
-
+A - Matteo Del Fante {BIO 6237992 <GO>}
 There are no additional remarks on our side and we're on the road to see more clients and we
 thank everybody for the attention and the time you spend on Poste. Thank you.
 

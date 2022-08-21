@@ -61,10 +61,7 @@ FINAL
 
 Now I will turn the call over to Mr. Finnegan.
 
-John Finnegan
-
-{BIO 1735942 <GO>}
-
+John Finnegan {BIO 1735942 <GO>}
 Thank you for joining us.
 As we said in the press release today, Chubb produced solid results in a quarter which
 was adversely impacted by several factors, including cat and non-cat weather losses due
@@ -106,9 +103,7 @@ Date: 2014-04-24
 Now for more details on our operating performance, we will start with Dino, who will
 discuss Chubb's commercial and specialty insurance operations.
 
-Dino Robusto
-
-{BIO 15021398 <GO>}
+Dino Robusto {BIO 15021398 <GO>}
 
 FINAL
 
@@ -222,10 +217,7 @@ been very profitable and remains attractive to us.
 And with that, I will turn it over to Paul, who will review our personal lines and corporate
 wide claim results.
 
-Paul Krump
-
-{BIO 5211397 <GO>}
-
+Paul Krump {BIO 5211397 <GO>}
 Thanks, Dino.
 
 Bloomberg Transcript
@@ -316,10 +308,7 @@ FINAL
 
 Now I will turn it over to Ricky, who will review our financial results in more detail.
 
-Ricky Spiro
-
-{BIO 15061279 <GO>}
-
+Ricky Spiro {BIO 15061279 <GO>}
 Thanks, Paul.
 As usual, I will discuss our financial results for the quarter, and I will also provide an update
 on the April 1 renewal of our major property reinsurance program.
@@ -423,10 +412,7 @@ us with a cost-effective fully collateralized alternative to traditional reinsur
 locked in for several years.
 And now, I will turn it back to John.
 
-John Finnegan
-
-{BIO 1735942 <GO>}
-
+John Finnegan {BIO 1735942 <GO>}
 As you can see, First Quarter results were a mixed bag. A strong underlying performance
 was offset, to a large degree, by the impact of higher cat, non-cat weather-related
 losses, and unusually high homeowner fire losses.
@@ -487,39 +473,24 @@ Operator
 
 Bloomberg Transcript
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Two quick questions. First of all, just going back to the discussion on the fire losses, can
 you expand on the nature of these fire losses? And was there some sort of a geographic
 concentration to these fire losses?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 I think the quick and dirty answer is no geographic concentration, and most of fire losses
 from quarter to quarter are a matter of good fortune or bad fortune. No pattern, really.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Okay, got it, okay, so it was just more of an aberration than anything else.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 You know, we were aberrational on the low side for a few quarters, and this was a little bit
 on the high side, so we've been talking about a little reversion to the mean. Yes,
 hopefully, it will revert back down a little bit. But yes, we have had a good run, though.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Got it. I got the point. The second question I have is -- and this relates to CCI, I think a
 comment was made that you have gotten good rate increases for some time, and hence,
 based on the book of business, that level of rate increases, it diminishes going forward. If
@@ -533,9 +504,7 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2014-04-24
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
+A - Dino Robusto {BIO 15021398 <GO>}
 
 FINAL
 
@@ -550,21 +519,13 @@ lag, earned impact of the prior quarters' higher rate increases, and those all p
 for a couple of quarters. But I can't really predict what's going to happen to rates by the
 end of the year.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
-
+Q - Amit Kumar {BIO 15025799 <GO>}
 Okay, so all is somewhat of a steady state right now?
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
-
+A - Dino Robusto {BIO 15021398 <GO>}
 Yes, what we saw essentially in April.
 
-Q - Amit Kumar
-
-{BIO 15025799 <GO>}
+Q - Amit Kumar {BIO 15025799 <GO>}
 
 Bloomberg Transcript
 
@@ -573,10 +534,7 @@ Got it, okay, that's all I have. Thanks for the answers and good luck for the fu
 Operator
 Josh Stirling, Sanford Bernstein.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 Thank you for taking the call. So I appreciate all the commentary on pricing, and it sounds
 like you guys think you are about adequate, and obviously record earnings, so it was
 probably good confirmation of that. The question is if you think about the industry
@@ -589,10 +547,7 @@ declines in reinsurance pricing, do you think we will see a real softening cycle
 out six months or a year and you are doing your planning and you are thinking about the
 people you are actually competing with?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 I think for one thing, the industry is a good deal from price adequate. I think in some lines,
 we are getting the price adequate, and I would say in professional liability, for example,
 Page 11 of 23
@@ -617,28 +572,20 @@ road. I really don't have any great insight. I think we are all taking a wait-an
 Reinsurance is interesting, but for now, it's a benefit to us. As to whether it will be a
 detriment down the road, just hard to say.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 That's fair. If I could ask another question, so I was surprised to see you guys shrinking
 internationally this quarter. I didn't -- I realized I didn't know that much, honestly, about
 your international businesses. But it is a 30-year book and we don't talk that much about
 it. I'm wondering if you can give just some color on what's going on, and big picture, the
 growth opportunities internationally, and how you guys are able to leverage the global -leverage Chubb as a global brand? Thank you.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
+A - John Finnegan {BIO 1735942 <GO>}
 
 Bloomberg Transcript
 
 Paul, you can answer. I will start off, it's more like a quarter of our business, not a third.
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
-
+A - Paul Krump {BIO 5211397 <GO>}
 Yes, I would say, Josh, this is Paul, it's about 25%. It depends on the line of business. In the
 personal lines space, it is right around 25%.
 And we have had some very good opportunities for growth. What you saw, and we saw it
@@ -652,10 +599,7 @@ the United States, 30% inside the United States. We have been enjoying some very
 growth there and we have been writing both employer groups and some affinity groups,
 so things like travel accident for credit card holders outside the United States.
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
-
+A - Dino Robusto {BIO 15021398 <GO>}
 And on commercial, as we have been indicating over some of the prior calls, and we said
 it today, too, we got a lot less rate historically overseas. It's just a much more competitive
 
@@ -676,26 +620,18 @@ And so, we have seen a little bit less growth recently. Over time, though, we st
 good potential and we expect that the underpricing will eventually catch up in the
 marketplace, and we will continue to be a player outside the United States.
 
-Q - Josh Stirling
-
-{BIO 17463087 <GO>}
-
+Q - Josh Stirling {BIO 17463087 <GO>}
 Great, thanks for the time.
 
 Operator
 Kai Pan, Morgan Stanley.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you for taking my call. First question on the 150 basis-point deterioration in terms of
 your underlying combined ratio year over year. How much of that is attributable to this
 non-cat weather and the large fire losses, and also the surety loss?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
+A - John Finnegan {BIO 1735942 <GO>}
 
 Bloomberg Transcript
 
@@ -703,30 +639,18 @@ I would say about 200 basis points are attributable to non-cat weather and fire 
 it's more that accounts for the total deterioration, and the surety loss will be another 1
 point.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Another 1 point, okay.
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
-
+A - Dino Robusto {BIO 15021398 <GO>}
 And then, the fire losses were probably another 1 point as well.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. So, as we -- the rate of increase actually is slowing down, and if inflation keep the
 same as it is right now, at what point we would no longer see the underlying margin
 expansion?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 I think part of the thing is that it is a little bit complicated, like most[ph] say. Margin
 expansion is a long-term projection that doesn't take into account quarter-to-quarter
 variations. We saw a significant variation this quarter. But just looking at it, you could do a
@@ -752,51 +676,34 @@ to 4 points and say, is it 1 point or 2 higher? It is cutting it pretty close. I
 are getting margin expansion, but again, we have a better book, so we would expect a
 little bit less rate as we move forward.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay, thank you. Lastly, on the reinsurance costs, you mentioned that meaningful lower
 reinsurance costs. Would that flow directly into the bottom line or are you going to pass
 some of it on to consumers?
 
-A - Ricky Spiro
-
-{BIO 15061279 <GO>}
-
+A - Ricky Spiro {BIO 15061279 <GO>}
 Again, I think as John said, for now we're going to benefit from those lower costs.
 Whether or not we incorporated that into pricing as we go forward, time will tell.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
+A - John Finnegan {BIO 1735942 <GO>}
 
 Bloomberg Transcript
 
 You think -- order of magnitude, you're thinking $30 million, $40 million, $50 million on a
 full $1 billion book, so it's not a major driver of the pricing decision.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you, so much.
 
 Operator
 Vinay Misquith, Evercore.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 For the higher fire losses and the non-cat weather, that is about 3 points year-over-year
 change. Just curious, how much of it was higher on a normalized basis for this quarter? So
 -- because last year, I believe, you had a below average number.
 
-A - Ricky Spiro
-
-{BIO 15061279 <GO>}
-
+A - Ricky Spiro {BIO 15061279 <GO>}
 Yes, give us one sec. So if you look over a five-year average for First Quarter for non-cat
 weather-related losses, and this is excluding the current First Quarter, so that the five
 years prior, we had about 7 points on average of non-cat weather-related losses in our
@@ -812,79 +719,47 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2014-04-24
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 And remember, you would expect that the First Quarter of a year would have a little bit
 higher non-cat related weather than most of the other quarters, right? Fire would be
 different, but non-cat related weather is more of a First Quarter weighting.
 
 FINAL
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure. So for the non-cat weather, it was 7 points, on average, versus I think this quarter
 was 14 points, you said?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Yes.
 
-A - Ricky Spiro
-
-{BIO 15061279 <GO>}
-
+A - Ricky Spiro {BIO 15061279 <GO>}
 Yes.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Right, and on the fire, the normalized is 8 versus -- so, was it 9 for this quarter?
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
+A - John Finnegan {BIO 1735942 <GO>}
 
 Bloomberg Transcript
 
 Paul.
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
-
+A - Paul Krump {BIO 5211397 <GO>}
 Yes.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay, that's helpful. Secondly, on the auto combined ratio, that also seemed to be high. I
 believe you mentioned 3 points or something. If you could just help me understand that, it
 would be helpful. Thanks.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Sure, you're talking about the personal auto?
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Yes, correct.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Okay, what you have in the personal auto was the 3 points of the adverse weather that
 was hitting it. I mentioned as well we had experienced some profitability issues in Brazil.
 We have been taking action there. We feel like we are addressing that very adequately
@@ -907,19 +782,14 @@ We have enjoyed good rate and exposure increases of 5 points in that book of bus
 and our US book has grown at 5%. So that is really the story behind auto on the personal
 lines front.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Fair enough. And just one last follow-up, so looking at the reduction in the pace of rate
 increases and the increase in the retention and the new to loss business, it seems that
 there is a modest improvement. But curious on your perspective as to how you look at the
 risk/reward tradeoff between taking less rate versus growing the book, because the book
 doesn't seem to be growing right now.
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
+A - Dino Robusto {BIO 15021398 <GO>}
 
 Bloomberg Transcript
 
@@ -940,19 +810,13 @@ of our accounts and we see some good opportunities going forward. And so, as I
 indicated earlier, a little bit more optimistic that the growth will look a little better in the
 Second Quarter.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay, thank you.
 
 Operator
 Michael Nannizzi, Goldman Sachs.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 I guess one question I had was, obviously, reinsurance is very inexpensive for the market
 and for you in particular. Why not -- but the homeowners' book shrank, and obviously
 there were some issues on the homeowners' book that were specific to the quarter. But
@@ -967,9 +831,7 @@ Date: 2014-04-24
 why not grow that book of business if you are able to get very good rate, you're
 comfortable with the risk profile, and you can buy inexpensive protection?
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
+A - Paul Krump {BIO 5211397 <GO>}
 
 FINAL
 
@@ -983,10 +845,7 @@ often times in places like Florida, and that's where we use reinsurance the most
 a facultative basis in the homeowners' world. Dino, I don't know if you want to add
 anything?
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
-
+A - Dino Robusto {BIO 15021398 <GO>}
 We don't have any new overall strategy to increase our reinsurance prices, but clearly as
 thoughtful underwriters, we're always looking to maximize our risk/return trade-off, and
 lower reinsurance pricing could potentially offer us that on certain accounts and we will
@@ -994,41 +853,26 @@ clearly look at that.
 
 Bloomberg Transcript
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Got it. And then maybe, if I could, Paul, on the comp book, can you comment just a bit on
 where that is right now on an underlying loss or combined ratio basis, and whether or not
 you are continuing to get rate there at the same level as previously or where that is
 factoring relative to loss trend? Thanks.
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
-
+A - Dino Robusto {BIO 15021398 <GO>}
 So the work comp, it continues to be very profitable for us. The rate increases for comp
 have declined from the higher levels that we saw in 2011 and 2012. But we continue to see
 some really good performance in it. Our growth was down a little bit this quarter, but in
 general, we are very optimistic about our comp portfolio. It's been historically very
 profitable, and we continue to see it as an opportunity going forward.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 So, where are you writing that business now? Can you tell us?
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
-
+A - Dino Robusto {BIO 15021398 <GO>}
 The combined ratio in the quarter for our commercial workers' comp was an 84.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 On an underwriting basis?
 Page 17 of 23
 
@@ -1038,24 +882,16 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2014-04-24
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
-
+A - Dino Robusto {BIO 15021398 <GO>}
 Yes.
 
-A - Ricky Spiro
-
-{BIO 15061279 <GO>}
+A - Ricky Spiro {BIO 15061279 <GO>}
 
 FINAL
 
 No, no, no, calendar year.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Okay. Okay, so is there any -- I guess my question is, whether it is comp or other business,
 obviously you have your levels of profitability that you're willing to write business, and we
 can't see it at the segment level because we just don't have this disclosure. But is there -is it -- are you seeing in the market competitors that are looking to get -- to frankly start to
@@ -1069,10 +905,7 @@ whether it's in other books?
 
 Bloomberg Transcript
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
-
+A - Dino Robusto {BIO 15021398 <GO>}
 Just in terms of the competitive side of it, as we have always indicated, right, we write our
 workers' comp -- our work comp portfolio in parallel with other coverages in our target
 niches, and it's attractive business.
@@ -1081,10 +914,7 @@ clearly based on our value proposition, we can keep the business that we want on
 based on all the other lines that we are writing. And to your question about where we are
 writing it, we are writing it across the US in line with our target market strategy.
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
-
+A - Paul Krump {BIO 5211397 <GO>}
 Mike, I would just add that as underwriters, we put our business into -- we tier it all the
 time. It's rare that we lose a customer just on a couple of points of price.
 So, we know which ones are performing exceedingly well and which ones are not
@@ -1092,16 +922,10 @@ performing so well. So we put them into different cohorts, and our underwriters 
 trained to know when to back away and when to let an account go and when to hang on
 to one.
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
-
+A - Dino Robusto {BIO 15021398 <GO>}
 I think at 84, it was a very good quarter for workers' comp.
 
-Q - Michael Nannizzi
-
-{BIO 15198493 <GO>}
-
+Q - Michael Nannizzi {BIO 15198493 <GO>}
 Page 18 of 23
 
 
@@ -1118,25 +942,17 @@ FINAL
 
 Jay Cohen, Bank of America.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 A couple questions. You had mentioned, in the property reinsurance treaties, getting
 better terms and conditions. I am wondering if you could give us a bit more detail on that.
 And then, the second question, might as well ask it, in CCI, did you have a similar
 experience with non-cat weather as you did in personal lines, or was that -- would you
 consider that to be fairly normal?
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
-
+A - Dino Robusto {BIO 15021398 <GO>}
 You want to answer it?
 
-A - Ricky Spiro
-
-{BIO 15061279 <GO>}
+A - Ricky Spiro {BIO 15061279 <GO>}
 
 Bloomberg Transcript
 
@@ -1156,10 +972,7 @@ increase in the length of time that we can put losses for a specific event.
 And that sort of thing happened for almost all the perils in each of our major treaties, so a
 very positive development for us.
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
-
+A - Dino Robusto {BIO 15021398 <GO>}
 Then on the non-cat weather, it's clearly much more of a personal lines issue for us. In
 most cases, a weather event that could trigger large commercial losses is probably going
 to be designated a catastrophe, and in fact, in the First Quarter of 2014, we did not have
@@ -1173,71 +986,44 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2014-04-24
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 Got it. If I could squeeze one more, it's a yes or no question. You talked about having
 some favorable development in the cat line. Was that also -- did that also show up in the
 favorable development that you talked about overall?
 
 FINAL
 
-A - Ricky Spiro
-
-{BIO 15061279 <GO>}
-
+A - Ricky Spiro {BIO 15061279 <GO>}
 Yes, it did. It was about 0.2 points of development related to that. So you don't double
 count, if you're trying to get to, say, our accident-year ex-cat combined ratio, you got to
 deduct about 0.2 points from the overall favorable development number.
 
-Q - Jay Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Cohen {BIO 1498813 <GO>}
 That's helpful. Thanks, Ricky.
 
 Operator
 Meyer Shields, KBW.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Just with regard to the weather, does that have any favorable impact on workers'
 compensation because there is less activity going on outside? Is that at all relevant?
 
 Bloomberg Transcript
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 It's a good question. I guess we have never thought of it that way before.
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
-
+A - Dino Robusto {BIO 15021398 <GO>}
 I don't think we have an answer to that. (multiple speakers) -- data points to give you.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, I am not trying to take anything away from the 84.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 I think, A, it's a good question. B, it stumped us. And C, I can assure you it wouldn't be
 material to the 84, I'm sure. Yes.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, that's the part that matters.
 Second, with regard to the culling, I am not sure how to quantify this question, but can you
 compare how much of your book now is in the underperforming tiers compared to what a
@@ -1251,9 +1037,7 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2014-04-24
 
-A - Dino Robusto
-
-{BIO 15021398 <GO>}
+A - Dino Robusto {BIO 15021398 <GO>}
 
 FINAL
 
@@ -1267,57 +1051,37 @@ whereas in our professional liability, it was roughly a quarter of the book that
 our commercial lines and professional liability lines, but clearly over time, we have less and
 less of the need for the larger rate increases.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, no, that's very helpful. And is there any difference in terms of loss cost trends
 outside of the US and inside?
 
-A - Ricky Spiro
-
-{BIO 15061279 <GO>}
-
+A - Ricky Spiro {BIO 15061279 <GO>}
 The lines of business roughly the same, I would say. It's roughly the same.
 
-A - Paul Krump
-
-{BIO 5211397 <GO>}
+A - Paul Krump {BIO 5211397 <GO>}
 
 Bloomberg Transcript
 
 Yes, I would agree.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, fantastic. Thank you, very much.
 
 Operator
 (Operator Instructions) Ian Gutterman, BAM Investments.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 I just had a couple of questions on reserves. The first one, in CPI, the $5 million[ph]
 releases, I know that's the same as last year, but most quarters, that's 20, 30, 40
 favorable. Was there anything that was less than usual in CPI?
 
-A - Ricky Spiro
-
-{BIO 15061279 <GO>}
-
+A - Ricky Spiro {BIO 15061279 <GO>}
 No, really, it's hard to say. Every quarter is different, as you know. Most of it came from
 personal other, and then there was a small piece that came from homeowners due to
 what we were talking about earlier, the favorable prior-year cats, and personal auto was a
 little bit adverse.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Okay, so there was less releases from home than usual, though, it sounds like?
 
 Page 21 of 23
@@ -1328,18 +1092,12 @@ Company N ame: Chubb L td
 Company Ticker: CB US Equity
 Date: 2014-04-24
 
-A - Ricky Spiro
-
-{BIO 15061279 <GO>}
-
+A - Ricky Spiro {BIO 15061279 <GO>}
 Yes.
 
 FINAL
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 Okay, and then the other one, this is a little bit more technical, but on D&O reserves,
 going through your Schedule P, the other liability claims made, my analysis, and I think
 several of the analysts on the sell-side published similar analyses that seem to show that,
@@ -1351,10 +1109,7 @@ So I was wondering if you had any insights into why we are seeing that pattern w
 seems like the reserves aren't as strong as we're used to seeing them for your
 professional lines?
 
-A - Ricky Spiro
-
-{BIO 15061279 <GO>}
-
+A - Ricky Spiro {BIO 15061279 <GO>}
 Sure. Well, obviously, as you point at it, if you aggregate what is shown in Part 2 of
 Schedule P for our individual writing companies, the average development in the other
 liability claims made for two of the accident years, that being 2011 and 2012, were slightly
@@ -1372,10 +1127,7 @@ Going forward, I would say these accident years are still green and we will see 
 will develop over time, but we set our year-end reserves at what we believe are
 appropriate levels, and you guys can draw your own conclusions.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
-
+Q - Ian Gutterman {BIO 3106649 <GO>}
 If I can just clarify a little bit, I am not so much worried that they developed adverse initially.
 It was more looking at the initial paids relative to incurred in the early years versus older
 early years, and the initial IBNR versus other years' IBNRs. Would that be -- it seems like
@@ -1383,9 +1135,7 @@ there is maybe a tale that is changing. And it is obviously hard for us outside,
 of the points you raised, to disembowel that, I guess. Is there any suggestions you can
 give us on what appropriate adjustments might be that might give us a better answer?
 
-A - Ricky Spiro
-
-{BIO 15061279 <GO>}
+A - Ricky Spiro {BIO 15061279 <GO>}
 
 Page 22 of 23
 
@@ -1398,9 +1148,7 @@ Date: 2014-04-24
 Yes, again, it's hard to point to anything specific. There have been some mix changes that
 may have some impact there, but nothing on a philosophical basis that I would point out.
 
-Q - Ian Gutterman
-
-{BIO 3106649 <GO>}
+Q - Ian Gutterman {BIO 3106649 <GO>}
 
 FINAL
 
@@ -1410,10 +1158,7 @@ Operator
 It appears there are no further questions at this time. Mr. Finnegan, I would like to turn the
 conference back to you for any additional or closing remarks.
 
-A - John Finnegan
-
-{BIO 1735942 <GO>}
-
+A - John Finnegan {BIO 1735942 <GO>}
 Thank you, very much for joining us. Have a good evening.
 
 Operator

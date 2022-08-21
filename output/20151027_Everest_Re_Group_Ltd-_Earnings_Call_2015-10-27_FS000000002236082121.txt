@@ -29,10 +29,7 @@ Group. Today's conference is being recorded.
 At this time, for opening remarks and introductions, I'd like to turn the conference over to
 Ms. Beth Farrell, Vice President of Investor Relations. Please go ahead, ma'am.
 
-Elizabeth B. Farrell
-
-{BIO 1986541 <GO>}
-
+Elizabeth B. Farrell {BIO 1986541 <GO>}
 Thanks, Tony. Good morning and welcome to Everest Re Group's third quarter 2015
 earnings conference call. On the call with me today are Dom Addesso, the Company's
 President and Chief Executive Officer; John Doucette, our Chief Underwriting Officer; and
@@ -56,10 +53,7 @@ Now, let me turn the call over to Dom.
 
 FINAL
 
-Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+Dominic James Addesso {BIO 1428096 <GO>}
 Thanks, Beth, and good morning. We are pleased to report another favorable quarter
 despite industry losses in China and Chile. For us, these two events totaled $100 million
 gross and $79 million, net of tax and reinsurance. Nevertheless, we were still able to
@@ -111,10 +105,7 @@ Thank you. And now I'll turn it to Craig for the financial report.
 
 FINAL
 
-Craig W. Howie
-
-{BIO 17579923 <GO>}
-
+Craig W. Howie {BIO 17579923 <GO>}
 Thank you, Dom, and good morning, everyone. Everest had another strong quarter of
 earnings with operating income of $200 million or $4.53 per diluted common share. This
 compares to operating income of $280 million or $6.12 per share for the third quarter of
@@ -162,9 +153,7 @@ Company N ame: Everest Re Group L td
 Company Ticker: RE US Equity
 Date: 2015-10-27
 
-Craig W. Howie
-
-{BIO 17579923 <GO>}
+Craig W. Howie {BIO 17579923 <GO>}
 
 FINAL
 
@@ -190,10 +179,7 @@ Bloomberg Transcript
 
 Thank you. And now John Doucette will provide the operations review.
 
-John P. Doucette
-
-{BIO 7178336 <GO>}
-
+John P. Doucette {BIO 7178336 <GO>}
 Thank you, Craig. Good morning. As Dom highlighted, we had a very solid underwriting
 results into the third quarter of 2015, despite the industry's macro challenges. Our Group
 gross written premium for Q3 was $1.7 billion, up over $50 million from Q3 of last year,
@@ -306,10 +292,7 @@ and sustainable competitive advantages, we continue to achieve bottom line resul
 are among the best in the industry.
 Thank you. And now back to Beth for Q&A.
 
-Elizabeth B. Farrell
-
-{BIO 1986541 <GO>}
-
+Elizabeth B. Farrell {BIO 1986541 <GO>}
 Yes, Tony, we are ready for questions. But first I'd like to apologize for the connection
 issue which seems to be coming from our end. If we have a future connection issue,
 please stay on the line and we will call back in. Thank you. Tony?
@@ -330,27 +313,19 @@ Please go ahead. Your line is open.
 
 FINAL
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Thanks, and good morning and congrats on the quarter. Maybe two quick questions.
 Number one is the discussion on the underlying AOI LR in the insurance segment. Can you
 talk about, I know you talked about 10 point improvement. If you adjusted for the
 agriculture book, what would that number be for ex-Ag for the insurance book on an
 underlying basis, on an apples-to-apples basis?
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Give us one second. It's 96% for the quarter, Amit. As far as our attritional combined ratio
 without crop, it's 96% compared to 95% last year – I'm sorry, 96% for the quarter, 94%
 year-to-date.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
+Q - Amit Kumar {BIO 19777341 <GO>}
 
 Bloomberg Transcript
 
@@ -362,40 +337,25 @@ sort of catch up because on the Q2 call, you had said that it was running a bit 
 simply the fact, or is this sort of a new normal, how should we think about the repurchase
 this quarter? Thanks.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 I think, Amit, you should think about perhaps a little bit of catch up. We were lighter than
 we certainly anticipated in the second quarter as the price target ran away from us a little
 bit in the second quarter and we just continued to have steady progress towards
 repurchasing shares and we continued that into the third quarter, particularly as we grew –
 we're growing through the quarter, it seemed as if it was going to be a late cat quarter.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Got it. And then, can you just touch up on the Lloyds. When does that fully ramp up, the
 $151 million stamp capacity?
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 We expect to go live with Lloyds in the first of the year subject to final approval by the
 franchise board or business plan et cetera, but we are on track to do that effective 1/1.
 
-Q - Amit Kumar
-
-{BIO 19777341 <GO>}
-
+Q - Amit Kumar {BIO 19777341 <GO>}
 Got it. Okay, that's all I have. Thanks for the answers.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Page 7 of 20
 
 
@@ -413,10 +373,7 @@ FINAL
 Thank you. Next we'll move to Joshua Shanker with Deutsche Bank. Please go ahead. Your
 line is open.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Yeah, good morning. Thanks for taking my question. Dom, whether you like it or not
 everyone looks at you as all bad things happening in Latin America must be happening to
 Everest Re. And so in the largest recorded hurricane in history is bearing down on Puerto
@@ -424,9 +381,7 @@ Vallarta, how should we think about the pricing in the Mexican market, how shoul
 of agri risks that Everest is taking? Why or why not our investors conspicuously concerned
 about Everest to benefit or to their detriment?
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
+A - Dominic James Addesso {BIO 1428096 <GO>}
 
 Bloomberg Transcript
 
@@ -456,9 +411,7 @@ originally feared. So I think on balance, again, the portfolio is diversified ac
 which frankly we believe benefits us from a return perspective in using our balance sheet
 most effectively. I don't know if that at all – I hope that answered your question.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Page 8 of 20
 
 
@@ -481,21 +434,13 @@ once again. If you could please hold your question, we'll get them re-establishe
 as possible. And we've been rejoined by our speakers. And Joshua, if you wanted to ask
 your last question again?
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Yes, must be that industry low expense ratio coming through here guys, I don't know.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Apparently we were going to make the same comment but -
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 
 Bloomberg Transcript
 
@@ -504,10 +449,7 @@ mentioned on the previous question that the stock got away from your repurchase
 desires in the second quarter. It was all bobbing between $180 and $185. Are you trying to
 buy at book and not above?
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Not necessarily. We do look out over a six to 12 month period but we just had a price
 target for that particular period and the stock just kept moving ahead of that. It's nothing
 more complicated than that. And we think over the long-term, we have been repurchasing
@@ -515,16 +457,10 @@ stock and we look to do it, not at a specific target but I'll – that we care t
 setting but we just have a measured approach to how we do it and over the long-term
 we've returned plenty of capital.
 
-Q - Josh D. Shanker
-
-{BIO 5292022 <GO>}
-
+Q - Josh D. Shanker {BIO 5292022 <GO>}
 Excellent, and thank you very much for the answers.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Thank you, Josh.
 
 Operator
@@ -539,9 +475,7 @@ Company N ame: Everest Re Group L td
 Company Ticker: RE US Equity
 Date: 2015-10-27
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
+Q - Vinay Misquith {BIO 6989856 <GO>}
 
 FINAL
 
@@ -550,10 +484,7 @@ new initiatives this year. You also have the Llyods next year. Curious about whe
 want to build up capital next year, or do you think you could return all the earnings that you
 generate to shareholders next year?
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Vinay, I'll give the question the standard response of the question that we get every
 quarter in that regard just, you folks find unique ways to ask it each time and it's we don't
 put out any forecast to any of our repurchase plans. We look at it quarter-to-quarter
@@ -561,40 +492,26 @@ based on what we think are the opportunities that are ahead of us and based on w
 the stock is trading. So we don't commit to any levels of repurchases particularly out a
 year in advance.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure, but let me just put it another way.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 You can try.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
+Q - Vinay Misquith {BIO 6989856 <GO>}
 
 Bloomberg Transcript
 
 Do you have sufficient capital right now on the books to write the new business or do you
 need to build up some more capital?
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 We do have sufficient capital. We do like to maintain some bit of excess capital. But again,
 as I've mentioned in previous calls, the rating agencies have increased, particularly S&P
 has increased their capital requirements, so that excess position has shrunk a bit just
 based on rating agency actions.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure, fair enough. And then on the growth on the primary insurance side, that appears
 that some of the growth came from short-tail lines, I think that was up 40% this quarter
 and also the accident and health, and also you're planning to go onto Lloyds. Help us
@@ -602,10 +519,7 @@ understand the risk management that's in place for that. These lines seem to be,
 under some pressure now. So help us understand what risk management put in place for
 that.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Well, we do have – first of all, we have a risk management committee that reports
 regularly to the Board, so I will point that out. And we monitor, if your question is about
 accumulations...
@@ -618,20 +532,14 @@ Company N ame: Everest Re Group L td
 Company Ticker: RE US Equity
 Date: 2015-10-27
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Well, I say, Dom, sort of more in the sense of – people in the industry are saying pricing
 has weakened the lines and we're seeing that – I mean, you think growth right now from
 Everest, so just curious where you're finding pockets.
 
 FINAL
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Let me just add to that, because pricing is – I would say, it's weaker, it does not mean
 necessarily that it's not adequate. So for example, as John Doucette highlighted in his
 comments, we talked about casualty being flat year-over-year, so that's kind of a
@@ -649,10 +557,7 @@ side.
 
 Bloomberg Transcript
 
-Q - John P. Doucette
-
-{BIO 7178336 <GO>}
-
+Q - John P. Doucette {BIO 7178336 <GO>}
 And Vinay, it's John. I just want to add a couple more things. You mentioned property
 specifically. We've talked about this before, but I think it's worth repeating. We have one
 global catastrophe property and catastrophe pricing and accumulation system, which
@@ -671,10 +576,7 @@ possible. Thank you for your patience. Please continue to stand by. Once again, 
 appreciate your patience as we reconnect our speakers for today's conference call.
 Please continue to stand by. And we've been reconnected with our speakers.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Again, we apologize. We are going to a different room and a different phone. Let's see if
 this works better. So I think John was responding to the question we got cut off. Is that
 correct?
@@ -686,18 +588,12 @@ Company N ame: Everest Re Group L td
 Company Ticker: RE US Equity
 Date: 2015-10-27
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Yes.
 
 FINAL
 
-Q - John P. Doucette
-
-{BIO 7178336 <GO>}
-
+Q - John P. Doucette {BIO 7178336 <GO>}
 So, just to finish the thought and again, I apologize if I'm repeating myself. We have one
 system for globally by product irrespective of the product, every underwriter on their desk
 has that, it rolls up for real time accumulations, real time pricing, whether it's insurance,
@@ -707,44 +603,30 @@ to make sure we're getting paid adequately for the risk that we're taking on a r
 convergence vehicles and structures that allow us to have capital efficiencies for the
 products that we sell and help the group get the most capital efficiency and the best riskadjusted return.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Sure. That's helpful. And are you seeing pricing on the primary side better than on the
 reinsurance for property?
 
-Q - John P. Doucette
-
-{BIO 7178336 <GO>}
+Q - John P. Doucette {BIO 7178336 <GO>}
 
 Bloomberg Transcript
 
 It varies. It doesn't boil down necessarily to one answer, but directionally, there are
 certainly cases of that, yeah.
 
-Q - Vinay Misquith
-
-{BIO 6989856 <GO>}
-
+Q - Vinay Misquith {BIO 6989856 <GO>}
 Okay. Thank you.
 
 Operator
 Thank you. And our next question will come from Kai Pan with Morgan Stanley. Please go
 ahead.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you. And I would add that we probably should hold basically interruption insurance
 for conference calls. All right. So I will start with your take on the upcoming BCAR changes,
 what potentially impacts for the reinsurance demand?
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 I can't comment specifically, because I'm not sure that we know all the details of those
 changes at this point other than to know that we do expect that we'll have some impact
 for certain clients and that is, I did mention in my comments, that we would expect some
@@ -760,20 +642,14 @@ Company N ame: Everest Re Group L td
 Company Ticker: RE US Equity
 Date: 2015-10-27
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. Then more broadly for the sort of upcoming renewal in Jan 1, it seems like you're
 more confident at this time that the rate will become more stabilized than the past
 renewal season. So what could go wrong from here?
 
 FINAL
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Well, I suppose what could go wrong is that rates are down another 5 to 10, that would be
 wrong and that would cause us to continue to make major modifications to our portfolio.
 But coming back from the two major industry events, there are certainly mixed thoughts
@@ -781,63 +657,37 @@ on that subject. But given where we see the industry, where we see returns, what
 from capital markets perspective, it doesn't look to me as if it should be a market that's
 continuing to slide dramatically.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 That's great. Then just quick number question. Do you have a breakdown of the $6 million
 Tianjin losses by segments, and also on Volkswagen, what's your view on the industry
 exposure as well as Everest Re's exposure on that event?
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 The Tianjin loss by segment – when you say segment, meaning our segments?
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
+Q - Kai Pan {BIO 18669701 <GO>}
 
 Bloomberg Transcript
 
 Yes, reported segments.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 I'll ask Craig to.
 
-A - Craig W. Howie
-
-{BIO 17579923 <GO>}
-
+A - Craig W. Howie {BIO 17579923 <GO>}
 The majority of it is in international, our international segments. So essentially from our
 Singapore office but also from our Bermuda operations as well.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 I'm sorry, what was the second question, Kai?
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 On the Volkswagen, potential industry exposure there.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Page 13 of 20
 
 
@@ -851,10 +701,7 @@ have not heard anything on that point.
 
 FINAL
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay, that's great. Well, last question, if I may. The insurance growth and margin, looks like
 you're growing pretty fast, especially in short-tail and accident and health which has lower
 combined ratio – underlying combined ratio than the group. So shall we expect mid-90s
@@ -864,9 +711,7 @@ growth in the primary line of business was in early 2000 and which eventually do
 the company. So I just wonder what give you confidence that what you're doing now that's
 different and your confidence by profitability going forward. Thanks.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
+A - Dominic James Addesso {BIO 1428096 <GO>}
 
 Bloomberg Transcript
 
@@ -887,25 +732,17 @@ have other way in which to grow the insurance portfolio. And by that I mean in d
 broker space where you control the account and you control the underwriting at the desk
 level.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 That's great. Thank you so much for all the answers.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Thank you, Kai.
 
 Operator
 Thank you. Next we will move to Sarah DeWitt with JP Morgan. Please go ahead your line
 is open.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 
 Page 14 of 20
 
@@ -920,10 +757,7 @@ evolving between insurance versus reinsurance?
 
 FINAL
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Well, as I mentioned in my comments, I certainly expect in the short-term given what we
 expect out of the reinsurance space that is like to be that insurance will become a bigger
 part of the pie. If you look out over the very long-term, I would expect that to be the case
@@ -935,51 +769,34 @@ space, then you are likely to see strong growth spurt there. It doesn't mean tha
 necessarily be change our appetite in the insurance side, it's just a matter of which
 segment is growing faster than the next due to pricing adequacy.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Okay, thanks. And then, I think historically you've targeted a 12% to 13% ROE assuming
 normalized catastrophe losses. Is that still an achievable goal as we think about 2016 and I
 think that will probably be better than the industry as well?
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
+A - Dominic James Addesso {BIO 1428096 <GO>}
 
 Bloomberg Transcript
 
 You're asking including cat losses or ex-cat losses?
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Including some level of normalized catastrophe losses.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 I do think that's potentially achievable. I don't know given where pricing is today on the
 reinsurance side ex-cats whether 13% might be pushing it, but again we don't forecast our
 results, but relative to what real rates are, I think that's still a great return. But I do think our
 targets, low teens, absolutely.
 
-Q - Sarah E. DeWitt
-
-{BIO 18946247 <GO>}
-
+Q - Sarah E. DeWitt {BIO 18946247 <GO>}
 Okay, great. Thanks for the answer.
 
 Operator
 Thank you. Next we'll move to Meyer Shields with KBW. Please go ahead. Your line is
 open.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Great. Thanks so much. So two maybe big picture questions. One, is there any reason to
 expect the historical cycle in California workers' comp to not play out with this year, next
 year looking really, really good and then things getting worse?
@@ -991,68 +808,47 @@ Company N ame: Everest Re Group L td
 Company Ticker: RE US Equity
 Date: 2015-10-27
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 I don't know that on any line of business that I'd fight any historical cycle. So there are
 cycles in every segment of our business, and I don't know why California comp would be
 any different than any other segment of the business.
 
 FINAL
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay, me neither. Second, setting aside pricing trends in underwriting decisions, is there
 any risk to the reinsurance book from the efforts you have in insurance in general or
 maybe opening a Lloyds platform from companies that you're not competing with more
 directly?
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 I think that risk is moderate at worst. I think that as you look across the industry landscape,
 most enterprises have both an insurance and a reinsurance footprint, even to the point
 where some more traditional insurance enterprises have started up reinsurance arms. So I
 don't see that as much of a threat. And in particular, what we do in the insurance side is
 mostly specialty lines of business.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Right, understood. Is the run rate for expenses in insurance likely to rise as Lloyds goes
 live?
 
 Bloomberg Transcript
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Well, we've already – in our numbers already this year-to-date we've expended some
 monies to get this project off the ground and certainly Lloyds does have a slightly higher
 expense ratio, but given the amount of premium relative to our $5 billion of gross
 premium across the organization, I'm not sure that it would really make much of a
 difference.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 That makes sense. Great. Thanks so much.
 
 Operator
 Thank you. And we'll take our final question from Ian Gutterman with Balyasny. Please go
 ahead. Your line is open.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Hi, great, thanks. I guess on the insurance business, is there any – as the book is growing
 and changing, is there any seasonality to it? I guess the reason I asked is normally Q3 has
 been a little higher than the first two quarters, but this year was much higher. Is there
@@ -1069,10 +865,7 @@ Date: 2015-10-27
 
 FINAL
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Well, the insurance side, remember, is influenced by crop which does have seasonality to
 it. To the extent that there is some seasonality that would come from a property E&S
 book to the extent that we have some of that in Southeastern U.S., we haven't had any
@@ -1081,36 +874,21 @@ the extent that it's growing and it has been growing in the Northeast could have
 impact from winter storms. So yeah, there will be packets of seasonality across the
 portfolio.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Okay. Got it. Okay.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 John wanted to add something.
 
-Q - John P. Doucette
-
-{BIO 7178336 <GO>}
-
+Q - John P. Doucette {BIO 7178336 <GO>}
 Yeah.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Sure.
 
 Bloomberg Transcript
 
-Q - John P. Doucette
-
-{BIO 7178336 <GO>}
-
+Q - John P. Doucette {BIO 7178336 <GO>}
 The second part of your question was or is it tied to growth initiatives, and we've been
 talking about growth initiatives and we've been putting in place a lot of different
 resources. We've been hiring talent. We've been building the infrastructure on the
@@ -1119,10 +897,7 @@ it's starting to kick in, including in this third quarter. We're seeing the frui
 the resources and the labor that we've committed to growing the insurance book. So it's
 that combined with the seasonality that Dom alluded to.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Got it. I clearly realize both, I just didn't know if I should discount a little bit of the
 magnitude of the increase this quarter was all I was trying to get at, but okay. And then
 moving on the, I guess just to follow up on the Lloyds question. Can you talk more about a
@@ -1131,10 +906,7 @@ for or what sort of lines of business you're targeting initially. Is it going to
 stuff or might you try to do like cover holders or even some casualty? What's the focus
 going to be?
 
-Q - John P. Doucette
-
-{BIO 7178336 <GO>}
-
+Q - John P. Doucette {BIO 7178336 <GO>}
 A significant portion of it is professional liability, D&O, E&O commercial D&O and E&O. We
 also are – we'll have some reinsurance business that will flow through the syndicate,
 particularly as our China and perhaps our Australian business because of expense
@@ -1155,16 +927,10 @@ cover holder status to a number of underwriting units around the globe that util
 syndicate. There will be some sports and entertainment business for example and
 contingency business that would come into the syndicate generally.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 And the stamp capacity is $150 million roughly.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Got it, great. Thank you. And then on Tianjin, this feels to me – I guess, I'm asking for your
 opinion and maybe some detail as well. It feels to me like this is one of those losses
 maybe like a deep water or a costa where it's just so hard to – it seems the primaries
@@ -1173,9 +939,7 @@ get those types of events, they tend to creep over time. Does this feel like one
 where you're worried about creep, and if so, as you are looking at how much put up this
 quarter, how did you account for that?
 
-Q - John P. Doucette
-
-{BIO 7178336 <GO>}
+Q - John P. Doucette {BIO 7178336 <GO>}
 
 Bloomberg Transcript
 
@@ -1191,20 +955,14 @@ another question, our participation in the region actually reduced. So we're not
 feeling comfortable with our pick, but I'm not sure that any movement around that pick is
 necessarily all that material.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Perfect. And then just lastly, just a follow-up on the BCAR question from earlier. What
 about, as far as your handwriting appetite, does anything potentially change there? I think
 one of the more key to topics on that is the changes in the tail factor on cat. Does that
 have to change how you would look at tail beyond 250 or maybe how you look at agri
 covers versus occurrence covers, things like that, especially your appetite to write them?
 
-Q - John P. Doucette
-
-{BIO 7178336 <GO>}
-
+Q - John P. Doucette {BIO 7178336 <GO>}
 So we have always looked at in terms of pricing and accumulation, all points on the curve
 to the one in ten thousand and beyond, we look at AO, we look at annual occurrence, we
 look at aggregate, we look at multiple events, we look at things that happen whether it
@@ -1228,40 +986,26 @@ both our own equity capital and the various hedges that we've been talking about
 many quarters now that we have put in place. So we think that's going to put upward
 pressure and upward demand and we like that.
 
-Q - Ian J. Gutterman
-
-{BIO 18249218 <GO>}
-
+Q - Ian J. Gutterman {BIO 18249218 <GO>}
 Great, thanks so much. Good luck guys.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Now, I understand from the moderator that that was the last question, but because of our
 interruptions, if there are other questions, then we certainly would stand a few minutes.
 
 Operator
 And it appears, we have no further questions at this time.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
+A - Dominic James Addesso {BIO 1428096 <GO>}
 
 Bloomberg Transcript
 
 Okay. That's fine. Just wanted to offer that up.
 
-A - Elizabeth B. Farrell
-
-{BIO 1986541 <GO>}
-
+A - Elizabeth B. Farrell {BIO 1986541 <GO>}
 Thank you, and as always, we'll see you next quarter.
 
-A - Dominic James Addesso
-
-{BIO 1428096 <GO>}
-
+A - Dominic James Addesso {BIO 1428096 <GO>}
 Yeah. Thank you very much. And again, apologies for the connection issues we've had. We
 appreciate the interest. Again, we think we've had an excellent quarter. We've had some
 events, but I think what you've seen the way Everest has performed with the scale and

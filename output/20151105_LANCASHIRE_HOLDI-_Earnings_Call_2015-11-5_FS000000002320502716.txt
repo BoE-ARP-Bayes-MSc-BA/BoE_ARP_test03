@@ -31,10 +31,7 @@ recorded.
 It is now my pleasure to introduce your host, Mr. Alex Maloney, CEO. Thank you, sir. You
 may begin.
 
-Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+Alexander Maloney {BIO 16314494 <GO>}
 Okay. Thank you. Good morning, good afternoon, everyone. Thank you for dialing in to
 our third quarter conference call. Today, we have myself, Paul Gregory, CUO; Elaine
 Whelan, CFO; Pete Scales, CEO of our Cathedral business; Darren Redhead, CEO of
@@ -83,10 +80,7 @@ we stay committed and focused to doing the best jobs for our shareholders, clien
 brokers.
 I'll now hand over to Paul Gregory.
 
-Paul Gregory
-
-{BIO 16314515 <GO>}
-
+Paul Gregory {BIO 16314515 <GO>}
 Thanks, Alex. In the absence of any significant loss events, the softening market
 conditions have continued through the third quarter and expect to continue through the
 remainder of 2015.
@@ -159,10 +153,7 @@ I'll now pass over to Elaine.
 
 FINAL
 
-Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+Elaine Whelan {BIO 17002364 <GO>}
 Thanks, Paul. Hi, everyone. Our results are on our website, as usual. We had another quiet
 quarter in the last one and again, had some favorable developments on prior accident
 year reserves. Underwriting performance is, therefore, pretty strong with a net loss ratio
@@ -274,10 +265,7 @@ Operator
 Thank you. The floor is now open for questions. Our first question today is coming from
 Kamran Hossain of RBC Capital Markets. Please proceed with your question.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Hi, afternoon. I've just got one question. Basically, in your statement, you referred to a
 number of midsize losses which I understand probably include things like Tianjin. Would it
 be possible just to kind of quantify how much this kind of collection of midsize losses
@@ -285,18 +273,13 @@ added to your combined ratio, or how much it was in monetary terms? Just because
 guess, when I adjust for the reserve release, your underlying looks fairly weak. So just any
 kind of help on that would be really, really helpful. Thank you.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
+A - Alexander Maloney {BIO 16314494 <GO>}
 
 Bloomberg Transcript
 
 So, you'll touch that one?
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Yeah, sure. Hi. We've had a few things that haven't been significant enough for us to really
 strip out, and Tianjin is one of them. There were some other property losses in there as
 well. If you back out both of those, then you get to around about our kind of attritional run
@@ -307,17 +290,12 @@ ratio, but when you take them out collectively, again, you get back to kind of a
 our 34% attritional rate. So, I think that rate that we've been talking about for the last little
 while is still appropriate and will be into next year (14:10) pricing as well.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 I mean just on that, I guess now that the premium base has fallen fairly significantly yearon-year, is it worth kind of reconsidering the threshold for what is an attrition loss and
 what's not? Just so that when we look at the numbers, it seems a little bit easier to
 compare them versus peers?
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
+A - Elaine Whelan {BIO 17002364 <GO>}
 Page 6 of 17
 
 
@@ -334,19 +312,14 @@ smaller losses. And when you add them up together, they come to a bit more of a
 meaningful number in terms of our attritional rate, but none of them are individually
 significant.
 
-Q - Kamran Hossain
-
-{BIO 17666412 <GO>}
-
+Q - Kamran Hossain {BIO 17666412 <GO>}
 Okay, perfect. Thanks very much.
 
 Operator
 Thank you. Our next question is coming from Ben Cohen of Canaccord Genuity. Please
 proceed with your question.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
+Q - Ben Cohen {BIO 1541726 <GO>}
 
 Bloomberg Transcript
 
@@ -360,10 +333,7 @@ maybe also just contrast the development in Cathedral where I think you've indic
 before things are very conservatively reserved with the rest of the Lancashire Group?
 Thank you.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 Well, okay, Ben, I'll take the Tianjin one first and then I'll hand over to Elaine, and maybe
 we'll have some color from Pete as well about the Cathedral numbers. On the reserving,
 as a general statement, we are always conservative. It doesn't matter if it's Lancashire or
@@ -393,10 +363,7 @@ So, Elaine, do you want to answer the question about reserving?
 
 FINAL
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Yeah, sure. Hi, Ben. I would be pretty reluctant to see that that's a trend that's developing
 and something you should factor in to your modeling going forward. Our reserve releases
 have been primarily across the years. They've been across 2011, 2012 and – sorry, 2013
@@ -407,31 +374,20 @@ reserve for them as we would do normally. We just haven't had the level of repor
 losses coming through on those years and in my view, that's a pretty nice problem to
 have.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
-
+Q - Ben Cohen {BIO 1541726 <GO>}
 So, would that have been out of the sort of attritional loss ratio that you were booking in
 those years rather than out of sort of named single losses?
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Yeah, yeah, exactly. There's no specific event development that's driving those releases.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
+Q - Ben Cohen {BIO 1541726 <GO>}
 
 Bloomberg Transcript
 
 Right.
 
-A - Peter David Scales
-
-{BIO 15393236 <GO>}
-
+A - Peter David Scales {BIO 15393236 <GO>}
 Hi, Ben. Peter. Also, I'll just give you the color on the Cathedral piece. Again, it's pretty
 much the same thing where basically, we've had three pretty benign years particularly on
 the property accounts and to a point (18:35) where you simply have a loss pick where you
@@ -439,25 +395,17 @@ the property accounts and to a point (18:35) where you simply have a loss pick w
 money out. It just takes a while to unload, and that's just your combination of a number of
 years into the GAAP accounting as your earnings profile comes up.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
-
+Q - Ben Cohen {BIO 1541726 <GO>}
 Okay. But presuming on that basis, we should still have a couple more years to run as you
 move through the Lloyd's accounting on 2013 and 2014. Would that be fair?
 
-A - Peter David Scales
-
-{BIO 15393236 <GO>}
-
+A - Peter David Scales {BIO 15393236 <GO>}
 (19:09) I wouldn't bet any favorites, but there's nothing in there that I'm aware of at the
 moment in terms of loss profile. You're aware all the major market losses are. 2015, we
 started quite well. But again, as soon as you start seeing losses going into accounts, that
 will have an effect on the earnings.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
+Q - Ben Cohen {BIO 1541726 <GO>}
 Page 8 of 17
 
 
@@ -468,9 +416,7 @@ Date: 2015-11-05
 
 Okay. Thank you very much.
 
-A - Peter David Scales
-
-{BIO 15393236 <GO>}
+A - Peter David Scales {BIO 15393236 <GO>}
 
 FINAL
 
@@ -479,19 +425,14 @@ It's just we've always been fairly conservative people.
 Operator
 Are you ready to move on to the next question?
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 Yeah.
 
 Operator
 Our next question is coming from Andreas Van Embden of Peel Hunt. Please proceed with
 your question.
 
-Q - Andreas van Embden
-
-{BIO 1795530 <GO>}
+Q - Andreas van Embden {BIO 1795530 <GO>}
 
 Bloomberg Transcript
 
@@ -500,10 +441,7 @@ Obviously, you've bought more reinsurance this year. Your PMLs have been coming 
 I just wanted to pick your brains on what plans you have for 1-1 and your risk appetite into
 2016, please? Thanks.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 Okay. I'll start on that one, Andreas, and it might be Paul comes in on that one. I think
 every year, we go through the same process. And every year, when your budgeting and
 you're buying your reinsurance, you kind of decide how much risk you want to take. And
@@ -539,10 +477,7 @@ individual deals come in where we may adjust the risk, and we may try and transf
 individual deal by buying some type of reinsurance or just trying to look at it a different
 way. So, you kind of have to work hard on everything to try and get you the best riskadjusted return in this market, and we're very focused on that.
 
-A - Paul Gregory
-
-{BIO 16314515 <GO>}
-
+A - Paul Gregory {BIO 16314515 <GO>}
 I think, as well – Andreas, hi. It's Paul. We have (22:25) got a good book of core business,
 and we absolutely want to be in a position, as we've said over the last three quarters, to
 defend that portfolio, and that's exactly what we've done this year. So, we have got some
@@ -552,10 +487,7 @@ Alex rightly says, the way we can manage the risk we have to the balance sheet i
 ways, some of which is strategy, some of which is (22:53), but we absolutely still want to
 keep our core portfolio of business in all our lines.
 
-Q - Andreas van Embden
-
-{BIO 1795530 <GO>}
-
+Q - Andreas van Embden {BIO 1795530 <GO>}
 All right. Thank you very much.
 
 Bloomberg Transcript
@@ -564,10 +496,7 @@ Operator
 Thank you. Our next question is coming from Jonny Urwin of UBS. Please proceed with
 your question.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Hi there. Thanks for taking my questions. I've got two. Firstly, on the capital base, I mean,
 obviously, it shrunk quite a lot over the last two years to three years, and I completely get
 why as you've pulled back the premium base and reinsured more. But I mean realistically,
@@ -582,9 +511,7 @@ become more attractive, and you'd prefer to allocate capital to maybe some sort 
 smaller specialty lines or whatever, instead of giving it back to shareholders? Those are
 my questions. Thanks.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
+A - Alexander Maloney {BIO 16314494 <GO>}
 
 Page 10 of 17
 
@@ -630,22 +557,13 @@ stuff. We're not averse to doing that at all, but we're definitely not going to 
 sake of it. But, look, we never say never. Something may come along. Something may
 surprise us that maybe something of interest, but it's pretty unlikely to be honest.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 Thanks.
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 I hope none of the friendly bankers are listening in today.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 I've got lots of friendly bankers.
 
 Page 11 of 17
@@ -656,9 +574,7 @@ Company N ame: L ancashire H oldings L td
 Company Ticker: L RE L N Equity
 Date: 2015-11-05
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
+A - Elaine Whelan {BIO 17002364 <GO>}
 
 FINAL
 
@@ -673,23 +589,15 @@ would probably look to return earnings if there's no other opportunity to start 
 And I think at this stage, if we're giving back just our earnings, I think that's still a pretty
 attractive dividend yield.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
-
+Q - Jonny Urwin {BIO 17445508 <GO>}
 I mean is there a point where you actually can't go any lower, like where you hit any rating
 agency restrictions or regulatory restrictions?
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Again, it's driven by business mix. So, a very easy way to reduce your capital is to reduce
 your exposure.
 
-Q - Jonny Urwin
-
-{BIO 17445508 <GO>}
+Q - Jonny Urwin {BIO 17445508 <GO>}
 
 Bloomberg Transcript
 
@@ -699,10 +607,7 @@ Operator
 Thank you. Our next question is coming from Nick Johnson of Numis Securities. Please
 proceed with your question.
 
-Q - Nick Johnson
-
-{BIO 1774629 <GO>}
-
+Q - Nick Johnson {BIO 1774629 <GO>}
 Afternoon, all. Hello. A general question, really, on the balance of power between brokers
 and underwriters. Just (28:20) becoming harder to retain the core book without being
 obliged to write unattractive risk. Do you think it's still possible to be a truly discerning
@@ -711,10 +616,7 @@ underwriter in this market, or are you facing (28:31)?
 A - Operator
 Excellent question.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 So, Nick, maybe you can come and sit in our office for a week and you can experience it
 for yourself. I think we spend a huge amount of time on planes and meeting clients for
 exactly the reason of trying to have direct relationships with those clients. And when I say
@@ -757,10 +659,7 @@ upset. But as I said, unless you add value, you just may as well pack up and go 
 don't do anything where we can't add value or hold our own. But those discussions, we
 have every day in a very, very difficult market.
 
-A - Paul Gregory
-
-{BIO 16314515 <GO>}
-
+A - Paul Gregory {BIO 16314515 <GO>}
 Hi, Nick. It's Paul. I think Alex's point around the clients is the key one. If you've got good
 relationships with your clients, and you've added value to them through a cycle, that's the
 most important thing there. As Alex said, brokers are incredibly important network to us,
@@ -771,10 +670,7 @@ work, and their clients, et cetera, et cetera. So if your relationships with you
 strong, yes, you will get pressure from brokers. That's a natural part of the cycle, but
 those relationships will bear out that you will continue to see that business.
 
-Q - Nick Johnson
-
-{BIO 1774629 <GO>}
-
+Q - Nick Johnson {BIO 1774629 <GO>}
 Thank you very much. Yeah, very interesting. Thank you.
 
 Operator
@@ -788,9 +684,7 @@ Company N ame: L ancashire H oldings L td
 Company Ticker: L RE L N Equity
 Date: 2015-11-05
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 
 FINAL
 
@@ -800,20 +694,14 @@ helpful. I mean you have been guiding for a normalized 34% this year, but I gues
 the pressure in terms of margin that you have been seeing. I guess it would be natural to
 assume that that number is going to be a bit higher. Any comments? Thank you.
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Hi, Paris. I think the 34% that we've been talking about is still relevant to our book of
 business. I think we'll wait and see what the pricing impact of the renewal book are next
 year and you might want to price adjust that. But otherwise, I don't really see any reason
 to change that. We have had a few midsize losses this year, but our attritional rate is still
 running about that level.
 
-Q - Paris Hadjiantonis
-
-{BIO 19703051 <GO>}
-
+Q - Paris Hadjiantonis {BIO 19703051 <GO>}
 Fair enough. Thank you.
 
 Operator
@@ -822,19 +710,13 @@ proceed with your question.
 
 Bloomberg Transcript
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
-
+Q - Ben Cohen {BIO 1541726 <GO>}
 Thanks very much. I just had a follow-up on the ROE outlook for next year. I guess in the
 context of the price declines that you've seen that will be earning through maybe into
 2016 and then weighing that against the capital return that you're planning to make in your
 fourth quarter, what is a reasonable ROE to be looking for? Thank you.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 And on that Ben, we wouldn't give any hard guidance because you can bet your life our
 number would be wrong. Obviously, we don't think the environment will get any better
 next year, so we think it will weaken. But equally, if you look at our book of business and
@@ -847,10 +729,7 @@ I think most people appreciate that we are close to the bottom of the cycle. So,
 sure we'll see some of the really aggressive stuff we've seen this year. So as I said, it will
 definitely come off a bit. I don't think it's going to be savage.
 
-Q - Ben Cohen
-
-{BIO 1541726 <GO>}
-
+Q - Ben Cohen {BIO 1541726 <GO>}
 Okay. Thank you.
 
 Page 14 of 17
@@ -892,10 +771,7 @@ sometimes that works which are very interesting. But if anyone – Paul or anyon
 would like to comment on exactly how that has done, a little more detail there and
 perhaps what the area of the new team of underwriters going to be. Thanks a lot.
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Hi, Frank (36:52). I appreciate the comments, and I completely agree with you on the riskfree rate. As far as our guidance is concerned compared to when we started, the risk-free
 rate was higher. But we were able to make higher returns, including on our investment
 portfolio at that point. We've obviously had some discussions about that internally over
@@ -906,10 +782,7 @@ and that's exactly where we are. We're compounding at over 18% since we started,
 pretty happy with that. It's obviously been pretty tough in the last little while but maybe
 that the negative risk-free rate has been helping us there.
 
-A - Paul Gregory
-
-{BIO 16314515 <GO>}
-
+A - Paul Gregory {BIO 16314515 <GO>}
 Hi, Frank (37:42).
 
 Q - Operator
@@ -925,10 +798,7 @@ Yes.
 
 FINAL
 
-A - Paul Gregory
-
-{BIO 16314515 <GO>}
-
+A - Paul Gregory {BIO 16314515 <GO>}
 Yeah. On the client interaction side, it's just good old-fashioned spending time with them
 quite honest. We take the time, as underwriters, to sit down with them, listen to them,
 understand their business, what drives their business – at different parts of the cycle,
@@ -944,10 +814,7 @@ time with them, and you understand their business (38:41).
 
 Bloomberg Transcript
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 Yeah. I mean I think – it's Alex (38:42), Frank. And also, it's about picking the right clients.
 There's lots of clients that come across our door that, quite frankly, we don't want to have
 a long-term relationship with and their buying habits don't suit the Company that we are.
@@ -969,10 +836,7 @@ Japan that I think the Lancashire was the very first insurer to actually send a 
 even before a claim had been made. So, just those types of things, I guess, over the
 years have really cemented that relationship.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 Yeah, it's things like that. It's the last thing you want to do of any client when they're going
 through a very difficult period is sort of go in there heavy-handed. As the insurance
 company, you want to try and make it as easy as possible for them, and the experience is
@@ -994,26 +858,17 @@ FINAL
 
 Great. Thank you, gentlemen. Keep up the good work.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 Thanks, Frank (40:41).
 
-A - Elaine Whelan
-
-{BIO 17002364 <GO>}
-
+A - Elaine Whelan {BIO 17002364 <GO>}
 Thanks, Frank (40:42).
 
 Operator
 Thank you. At this time, I will turn the floor back over to management for any additional or
 closing comments.
 
-A - Alexander Maloney
-
-{BIO 16314494 <GO>}
-
+A - Alexander Maloney {BIO 16314494 <GO>}
 Okay. Thank you for your questions, and we'll see you next quarter.
 
 Bloomberg Transcript

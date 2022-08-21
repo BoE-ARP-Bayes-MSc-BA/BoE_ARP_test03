@@ -33,10 +33,7 @@ question-and-answer session. [Operator Instructions]
 Mr. Ken Anderson, Vice President of Investor Relations and Treasurer, you may begin your
 conference.
 
-Ken Anderson
-
-{BIO 16846692 <GO>}
-
+Ken Anderson {BIO 16846692 <GO>}
 Thank you, Cheryl. Good morning, everyone, and thank you for joining the call today. A link to our
 live webcast and published information for this call is posted on our website at Intactfc.com, under
 the Investors tab.
@@ -53,10 +50,7 @@ With that, I will turn the call to our CEO, Charles Brindamour.
 
 FINAL
 
-Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+Charles Brindamour {BIO 7012323 <GO>}
 All right, Ken. Good morning, everyone, and thank you for joining us today. Last night we
 announced first-quarter net operating income of CAD0.73 per share after reflecting approximately
 CAD0.87 impact from unusually severe winter weather. Our thoughts are very much with our
@@ -150,10 +144,7 @@ outperform the industry ROE by at least 500 basis points and grow our net operat
 share by 10% per year over time.
 With that, I'll turn the call over to our CFO, Louis Marcotte.
 
-Louis Marcotte
-
-{BIO 18040440 <GO>}
-
+Louis Marcotte {BIO 18040440 <GO>}
 Thanks, Charles. Good morning, everyone. A difficult winter saw storms across Ontario and
 Quebec, in late February, bring damaging wind gusts, freezing rain, and blizzard conditions. In early
 March, we saw dramatic temperature changes leading to rapid snow melt and water infiltration.
@@ -237,10 +228,7 @@ team, robust operating platforms, and solid fundamentals, I'm confident we can c
 our financial objectives and deliver increased value to our shareholders.
 With that, I'll turn it back to Ken.
 
-Ken Anderson
-
-{BIO 16846692 <GO>}
-
+Ken Anderson {BIO 16846692 <GO>}
 Thank you, Louis. In order to give everyone a chance to participate in the Q&A, we would ask that
 you kindly limit yourself to two questions per person. If there is time at the end, you can re-queue
 for follow-ups.
@@ -252,10 +240,7 @@ Questions And Answers
 Operator
 [Operator Instructions] Our first question comes from Tom MacKinnon from BMO Capital.
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 Just a question with respect to the PYD in personal auto that you got. I think you mentioned that
 you didn't see -- you had lower claim frequency and lower claim severity, yet in terms of PYD you
 had -- it was higher and I think it was -- you mentioned short tail physical damage claims from late
@@ -263,16 +248,10 @@ had -- it was higher and I think it was -- you mentioned short tail physical dam
 inflation of kind of physical damage and that this was more of a one-time thing? And I've got a
 follow-up.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 It is indeed a puzzling question and I will ask Patrick to give you his perspective on it.
 
-A - Patrick Barbeau
-
-{BIO 18476397 <GO>}
-
+A - Patrick Barbeau {BIO 18476397 <GO>}
 So the main driver of the unfavorable PYD on personal auto in Q1 is actually, as you said, physical
 damage, so short tail claims that were reported late in Q4, closed in Q1. We saw a mix of those
 claims that is slightly different than anticipated and that showed a higher average severity. This is
@@ -284,9 +263,7 @@ at the total severity in auto, including long tail and physical damage, it's the
 where the average severity is down year-over-year. So, for those reasons, this was more a timing
 and a slightly different mix between claims reported late in the year, closed in early 2019.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 
 
@@ -295,28 +272,19 @@ of claims as opposed to general inflationary trend across all trends -- across a
 
 FINAL
 
-A - Patrick Barbeau
-
-{BIO 18476397 <GO>}
-
+A - Patrick Barbeau {BIO 18476397 <GO>}
 I could maybe add that this is not to say that there is no inflation in the cost of parts like this. This is
 still happening, we see it. But the actions we've taken in risk segmentation and in claims has
 actually tamed down this cost pressure over the past few quarters.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yeah, I've been actually very pleased with how much impact the claims team was able to butt or
 break the neck of that inflationary trend in physical damage. But clearly, there is still inflation in the
 system when it comes to PYD and seems to do nothing about it. That materializes but the claims
 team and then the actions we've taken in pricing clearly are driving the underlying improvement
 we're seeing. Next question, Tom?
 
-Q - Tom MacKinnon
-
-{BIO 2430137 <GO>}
-
+Q - Tom MacKinnon {BIO 2430137 <GO>}
 Yeah. And the follow-up was just with respect to the CAD65 million in cats that you see so far in
 the second quarter and that it was in line with second quarter expectations. Just remind me, I think
 are you still at CAD275 million just for annual cats and with generally half of those in the third
@@ -325,10 +293,7 @@ throughout the other three quarters?
 
 Bloomberg Transcript
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 So with regards to the CAD65 million, there's a lot of focus on the floods and the storms in the
 month of April. And I guess what we're seeing is that it looks like CAD65 million one month into the
 quarter, it's within the envelope of the quarter. If it's materially different not because of those
@@ -337,10 +302,7 @@ know as we normally do. But so far it is within the envelope. With regards to th
 se, Patrick being our general on the front line when it comes to natural disaster, he is best
 positioned to take that question.
 
-A - Patrick Barbeau
-
-{BIO 18476397 <GO>}
-
+A - Patrick Barbeau {BIO 18476397 <GO>}
 Yes. So as you see, our cat guidance is at CAD275 million on a full-year basis. Q3, in general, is the
 most busy quarter, representing close to 50% of the total. And overall we guide at around 75% of
 that CAD275 million affecting personal lines. We review those projections on a very regular basis
@@ -358,9 +320,7 @@ you look at personal properties, 75% personal lines, a good chunk of it is perso
 the last five years this business has run very steadily at 90% or so while absorbing between 7
 points and 12 points of cats every year.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 
 
@@ -377,16 +337,11 @@ not already, in the current market environment.
 Operator
 Our next question comes from John Aiken from Barclays.
 
-Q - John Aiken
-
-{BIO 6329080 <GO>}
-
+Q - John Aiken {BIO 6329080 <GO>}
 Would you mind expanding upon the information you gave us on your acquisition in India? Can you
 let us know what the amount you invested in and what percentage stake you've taken?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 Bloomberg Transcript
 
@@ -398,30 +353,18 @@ context of India, is in the context of venture. This is an opportunity for us to
 but more importantly about how this group called Acko top-notch company is actually intending to
 grow and disrupt in the context of the marketplace. Louis, color you want to add there?
 
-A - Louis Marcotte
-
-{BIO 18040440 <GO>}
-
+A - Louis Marcotte {BIO 18040440 <GO>}
 Quantum is in the CAD10 million-ish and it's a small minority stake, so it's treated really as a
 venture and it's an observation post for India.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yeah. We're keen on learning from these guys, solid track record, one should not conclude a
 desire for massive capital deployment outside of our North American sort of growth path.
 
-Q - John Aiken
-
-{BIO 6329080 <GO>}
-
+Q - John Aiken {BIO 6329080 <GO>}
 No, understood. How complementary is this to the investment that you made in Brazil?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 It is, from a strategic point of view, pretty much in line with our strategic thought process in Brazil.
 Big unsophisticated fast growth market where we take a minority stake in a disruptor in the
 marketplace. Brazil is primarily distribution. These guys are both distribution and manufacturing, so
@@ -431,10 +374,7 @@ and India.
 Operator
 Our next question comes from Brenna Phelan of Raymond James.
 
-Q - Brenna Phelan
-
-{BIO 20108118 <GO>}
-
+Q - Brenna Phelan {BIO 20108118 <GO>}
 So I was wondering, could you just give us an overview of your key takeaways from the Ontario
 budget proposals for personal auto reform, what you think where there's opportunity and maybe
 where you perceive some pressure, and how you're responding and working with the regulators, if
@@ -444,10 +384,7 @@ at all?
 
 FINAL
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 I think it was the last quarter or the quarter before, and one of the question was, what do you
 expect of the new government in Ontario. And my position at the time was to say, I think these
 guys will want to make it better for Ontarians and for Ontario drivers. And at the time we said
@@ -458,9 +395,7 @@ so, overall, we think this is a step in the right direction for Ontarians. It ma
 commonsense set of proposals. And I will let Darren give his perspective on what that means and
 maybe Patrick will want to add a perspective from claims, if needed. But, Darren, go ahead.
 
-A - Darren Godf rey
-
-{BIO 19791482 <GO>}
+A - Darren Godf rey {BIO 19791482 <GO>}
 
 Bloomberg Transcript
 
@@ -480,40 +415,25 @@ period of time that is still yet to be determined. So as Charles said, we very m
 very favorably and Ontario drivers will greatly benefit from the changes announced in the budget
 itself.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Patrick, anything -- you want to add any color?
 
-A - Patrick Barbeau
-
-{BIO 18476397 <GO>}
-
+A - Patrick Barbeau {BIO 18476397 <GO>}
 Maybe just one, from a claims perspective, we like the approach of focusing in the accident benefit
 area about care, not cash. This is as a principle something we support and I think will be good for
 both Ontarians and this product. We don't have all the details on how this will apply yet, but this is
 going in the right direction too from a claims perspective.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yeah. And so being an Ontario driver, I like what I'm seeing and as an organization, we will support
 the government to make this in place in the marketplace as quickly as possible.
 
-Q - Brenna Phelan
-
-{BIO 20108118 <GO>}
-
+Q - Brenna Phelan {BIO 20108118 <GO>}
 And just a quick follow-up there on the ability to potentially use credit scoring for pricing the
 premiums. Is this something that you think you have a good model in place already that would
 allow you to move right in there?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes. I think that -- I think the general theme, you got to pick out of that is that what makes sense in
 Ontario is that people are charged the best price for their profile and their behavior and how they
 drive broadly. That's why we are big fans of telematics. Clearly, financial stability is a highly
@@ -522,25 +442,17 @@ been studying and used where it's allowed for over 20 years..
 
 
 
-Q - Brenna Phelan
-
-{BIO 20108118 <GO>}
-
+Q - Brenna Phelan {BIO 20108118 <GO>}
 And then if I could, just one more. In the U.S. specialty business, the adverse PYD in the quarter, is
 that related to similar types of issues to the Q4 PYD or different issues?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 FINAL
 
 You want to take this, Louis?
 
-A - Louis Marcotte
-
-{BIO 18040440 <GO>}
-
+A - Louis Marcotte {BIO 18040440 <GO>}
 Sure. So I would not camp it in the same issues here. So, we're seeing a slight level of PYD in the
 U.S. I would say most of it is covered by the adverse development because it dates from 2016 and
 before. So there's the portion that we retained, the famous 20% that is ours which will drive some
@@ -552,9 +464,7 @@ time in the future. But I think it's not necessarily quarter-to-quarter the same
 is on the leftovers of pre-2016 and some of the very specific lines that I think were fundamentally
 out of.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 Bloomberg Transcript
 
@@ -565,19 +475,13 @@ profitability improvement is reinforced by where we see PYD taking place.
 Operator
 Our next question comes from Paul Holden from CIBC.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 So I will ask two questions. First on personal auto. Want to get a sense of longevity -- potential
 longevity behind this firm rate cycle. And the context in which I ask is, Charles, you had mentioned
 that both severity and frequency have flat-lined now. So given those trends, do you expect you will
 continue to be able to reprice higher?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes. The rate change in auto today, the written rate change in auto today is approaching 10%, okay.
 That's what is going through the system at the moment and we'll get earned over the next 18
 months, 18 to 24 months. So there's a fair bit of juice in the system at this time. Timelines are
@@ -588,10 +492,7 @@ the right balance between growth and margin in that context. But clearly, a hard
 what we're observing in automobile insurance with tightening capacity is a very good market for us
 to operate in, given where we're sitting today. Darren?
 
-A - Darren Godf rey
-
-{BIO 19791482 <GO>}
-
+A - Darren Godf rey {BIO 19791482 <GO>}
 No, I think that's exactly right, Charles. I mean, we do see a pivot in our growth profile as well.
 Obviously, you have seen the announcements in Ontario in particular of the rate changes in Q4
 which were obviously quite significant. We talked about that on the last call. We started to see our
@@ -609,10 +510,7 @@ which obviously follows very much on the auto in the mid-single-digit range. So 
 market pivot and I know it's one month and it's not yet a trend, but we don't see that abating in
 the short term, given the momentum that we see within the industry around rate.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 I think, Daren, it's probably fair to say that we've got this rate momentum now. What we've
 observed in the past, say, a couple of months is the rate shrinkage in units has actually started to
 break meaningfully and probably sitting here today, faster than what we thought because you'll
@@ -621,28 +519,20 @@ dramatically, in particular, in the second half of the year. And I would say, wh
 the past few weeks towards the end of Q1 is certainly more in line with what we would have
 expected maybe in Q3 and Q4.
 
-Q - Paul Holden
-
-{BIO 6328596 <GO>}
-
+Q - Paul Holden {BIO 6328596 <GO>}
 Got it. And then the second question is just a follow-up on the PYD at OneBeacon. I mean, Louis, I
 think you sort of refer to them as leftovers. Like, when do you think the situation with these
 leftovers pre-2016 business will be completely cleaned up? Like, does that take another year,
 another two years, maybe just some context and a reminder on how much reinsurance coverage
 you have remaining as well?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 Bloomberg Transcript
 
 Questions for you, Louis.
 
-A - Louis Marcotte
-
-{BIO 18040440 <GO>}
-
+A - Louis Marcotte {BIO 18040440 <GO>}
 Sure. So, keep in mind, the duration here of the liabilities is less than three years. I would say the
 payment on the liabilities at the time of acquisition have come down by more than half. So the risk
 is reducing at a fairly fast clip. In terms of usage, we have plenty of capacity left there. I would say,
@@ -653,10 +543,7 @@ passes, given the nature and then the duration of these liabilities.
 Operator
 Our next question comes from Michael Phillips from Morgan Stanley.
 
-Q - Michael Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Michael Phillips {BIO 21023048 <GO>}
 So I want to talk here on the positive momentum in rates and what goes on weather. I guess, I
 want to get a sense of what else -- and you are committed to the 15% teen ROE even including
 the weather. So what else can you do, I guess, longer term so that you're not as much at the
@@ -665,17 +552,11 @@ industry cycle is doing? What else besides rates can you consider? And I'm sorry
 it seems like a lot of the answer is, yes, rates are good and I know that's going to help us, but ex
 rates what else can you do, because weather is not going to go away?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yes, agreed. Weather is not going to go away. So is your question, what can you do to tame the
 weather or what can you do to remain around 15%?
 
-Q - Michael Phillips
-
-{BIO 21023048 <GO>}
-
+Q - Michael Phillips {BIO 21023048 <GO>}
 Yeah, not what can you do to tame the weather. What can you do as a solution to what seems to
 be kind of a common problem of severe weather every quarter besides fall in the cycle of rates?
 
@@ -683,10 +564,7 @@ be kind of a common problem of severe weather every quarter besides fall in the 
 
 FINAL
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yeah. Fair enough. I think that, overall, Michael, if you look at our strategy, our strategy is to
 generate 500 basis points of ROE outperformance every year. And the reason why we've chosen
 at least 500 basis points minimum is because our cycle in the industry, sometimes the cycle are
@@ -724,10 +602,7 @@ of things we've done over time to improve the performance of that segment at lea
 basis. Quarterly, it swings a fair bit, but I'll let Darren just give you a couple of minutes on what
 we've done in home insurance and what we were able to do in terms of track record.
 
-A - Darren Godf rey
-
-{BIO 19791482 <GO>}
-
+A - Darren Godf rey {BIO 19791482 <GO>}
 No, absolutely. So I think if you look historically, property was an area of concern for us many, many
 years ago. So we implemented actions plans around pricing, product and claims. One of the major
 chances was around water and the way we mange water from a product standpoint, how it
@@ -741,10 +616,8 @@ that we see within the portfolio. So the product is, as I said, very, very well 
 sustainability standpoint, but it really was due to a lot of that hard work that we did a number of
 years ago around rates, but more importantly, around product improvement as well.
 
-A - Charles Brindamour
+A - Charles Brindamour {BIO 7012323 <GO>}
 I don't know if you want to go...
-
-{BIO 7012323 <GO>}
 
 
 
@@ -753,41 +626,26 @@ Our next question comes from Mario Mendonca, TD Securities.
 
 FINAL
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 Could we just flip over to Alberta for a moment? It's fairly clear that Alberta is not going through
 the best time. I'm referring specifically to personal auto now. Could you talk about like what do you
 see in that market and the potential for Alberta to sort of upset this improvement you're seeing
 generally?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yeah. No, absolutely. I think, Mario, we've been on the liability inflation file in Alberta with the
 government since 2013. We have taken almost 20 points of rate a while back in Alberta.
 
-A - Darren Godf rey
-
-{BIO 19791482 <GO>}
-
+A - Darren Godf rey {BIO 19791482 <GO>}
 30 points in the last 36 months.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 30 points in the last 36 months. And, Darren, our SVP, Personal Lines is based in Alberta, so why
 don't I give you provide -- let you provide the local flavor.
 
 Bloomberg Transcript
 
-A - Darren Godf rey
-
-{BIO 19791482 <GO>}
-
+A - Darren Godf rey {BIO 19791482 <GO>}
 I mean, you're right, Mario. I mean, obviously, we have that level of political intervention from the
 prior government. We welcome the changing government. They are acutely aware of the issues
 facing Alberta drivers and they've clearly articulated a focus on red tape, focus on reducing
@@ -808,10 +666,7 @@ regard and we see our growth profile improving slightly in Alberta as well too. 
 welcome the new government. We look forward to working with them. They understand our issues
 and we're hopeful that Alberta drivers will see a competitive market moving forward.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yeah. No, I mean, important to just bear in mind that a couple of things. First of all, Alberta has
 been running in the mid to low 90% overall as a province and our outperformance in automobile
 insurance in Alberta is about 10 points. So the question is, how do you create sustainability in
@@ -830,67 +685,41 @@ is pragmatic, there is a practical solution for them that is fairly easy to act 
 
 FINAL
 
-Q - Mario Mendonca
-
-{BIO 2450557 <GO>}
-
+Q - Mario Mendonca {BIO 2450557 <GO>}
 I understand that. And then just real quickly, how important is Alberta and personal auto? What
 proportion of your total direct written premium really would relate to Alberta in personal auto?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 15%-ish.
 
 Operator
 Our next question comes from Geoffrey Kwan from RBC Capital Markets.
 
-Q - Geoffrey Kwan
-
-{BIO 7413168 <GO>}
-
+Q - Geoffrey Kwan {BIO 7413168 <GO>}
 Louis, you mentioned to CAD65 million estimate for cat expectations. Ballpark, I guess, based on
 what you know right now, like how much of that would be taken out by some of the flooding we've
 seen in Central and Eastern Canada?
 
-A - Louis Marcotte
-
-{BIO 18040440 <GO>}
+A - Louis Marcotte {BIO 18040440 <GO>}
 
 Bloomberg Transcript
 
 So, I guess, I'll pass it back to Patrick on that front, of the CAD65 million.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 What portion is flood?
 
-A - Patrick Barbeau
-
-{BIO 18476397 <GO>}
-
+A - Patrick Barbeau {BIO 18476397 <GO>}
 Yes. Well, in dollars...
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Yeah, just so we're clear. Your question is what portion of the CAD65 million is flood?
 
-Q - Geoffrey Kwan
-
-{BIO 7413168 <GO>}
-
+Q - Geoffrey Kwan {BIO 7413168 <GO>}
 Well, I'm just -- we've obviously seen the flooding in Central and Eastern Canada up to CAD65
 million, then you expect like how much of that has already been, let's call it, taken up?
 
-A - Patrick Barbeau
-
-{BIO 18476397 <GO>}
-
+A - Patrick Barbeau {BIO 18476397 <GO>}
 Yeah. So the heavy rain that we've seen in April is because of the floods, but also many water
 infiltrations from roofs and foundations that are spread throughout Quebec. There were some
 flooded areas also in Ontario and New Brunswick. That event in itself is the main one when we look
@@ -899,10 +728,7 @@ and a third that are linked to floods and sewer backup type of claims. There was
 freezing rain event that adds up into the overall CAD65 million that we discussed. I don't know if
 that answers the question.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 And I think, Geoff, what's important to understand is, the CAD65 million is our view of the ultimate.
 It's not the case incurred to date. It's our view of the ultimate. We have sophisticated models that
 basically develop based on the number of calls and the speed at which we get them and the
@@ -914,18 +740,12 @@ severity. And that's where the CAD65 million is coming from.
 
 FINAL
 
-A - Patrick Barbeau
-
-{BIO 18476397 <GO>}
-
+A - Patrick Barbeau {BIO 18476397 <GO>}
 Yeah. All our exposures with [indiscernible] capacity have been mapped as well as all the reported
 claims so far and combined with prior experience with similar events, we think our estimate at this
 point of the ultimate cost is very precise.
 
-Q - Geoffrey Kwan
-
-{BIO 7413168 <GO>}
-
+Q - Geoffrey Kwan {BIO 7413168 <GO>}
 And so if I'm just thinking about this on the annual cat loss assumption you guys have, you have like
 a CAD65 million-ish from this event based on what you know right now and for what might be a
 typical Q2? Are you comfortable I guess on what it might imply? Obviously, it's a crystal ball in
@@ -933,34 +753,22 @@ terms of this question, but your comment is that CAD65 million is in line with w
 typically expect in a bigger picture of an entire Q2 period in terms of cat losses. Is that
 understanding it correctly?
 
-A - Patrick Barbeau
-
-{BIO 18476397 <GO>}
-
+A - Patrick Barbeau {BIO 18476397 <GO>}
 It's well above what we'd expect in April, but it's well within what we would expect in Q2. And what
 happens in May and June, we don't know.
 
 Bloomberg Transcript
 
-Q - Geoffrey Kwan
-
-{BIO 7413168 <GO>}
-
+Q - Geoffrey Kwan {BIO 7413168 <GO>}
 Right. Okay. And just the other question I had was, in BC, we --- I know it's a smaller market for you
 on the auto side, but just was kind of curious with the changes that were implemented out here, I
 guess, a month ago, has there been any kind of other impacts to the comprehensive side of the
 market that impacted how you think about the business in BC?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 Darren?
 
-A - Darren Godf rey
-
-{BIO 19791482 <GO>}
-
+A - Darren Godf rey {BIO 19791482 <GO>}
 No, not at this point in time and obviously we're watching very closely in terms of the moves that
 ICBC is taking. We're careful in terms of the way we're positioning ourselves, the way we're
 marketing. I think what is important to highlight for Bel Air in particular in BC, heavy use of
@@ -971,10 +779,7 @@ time. But we're watching very, very closely.
 Operator
 And our next question comes from Meny Grauman from Cormark.
 
-Q - Meny Grauman
-
-{BIO 15238080 <GO>}
-
+Q - Meny Grauman {BIO 15238080 <GO>}
 Just following up on that discussion of the Q2 guidance of CAD65 million, it just seems like that's
 quite a bit better than what one would have expected just given the headlines and maybe if I can
 also reference the experience, last time we saw significant flooding in 2013. So I'm just wondering,
@@ -984,9 +789,7 @@ made since the 2013 flooding and it's really the guidance is really driven by mo
 underwriting changes that you've made and the kind of geo-coding that you use? Curious to hear
 what your perspective is on that.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 
 
@@ -997,8 +800,7 @@ the question.
 
 FINAL
 
-A - Darren Godf rey
-
+A - Darren Godf rey {BIO 19791482 <GO>}
 You're right, Charles. In terms of the, obviously, the Calgary floods, the Toronto floods back in
 2013, clearly greater clarity was required in the product post those events. So that led to a lot of
 the product changes that we made, better simplification of our wording, greater clarity between
@@ -1011,14 +813,9 @@ There is no coverage from a flood standpoint and we see that happening a little 
 particular event. But the thing about Quebec, as I said, is the use of sub-limits and very much has
 controlled the quantum in this particular event. I don't know, Patrick, if you want...
 
-A - Patrick Barbeau
-
 Bloomberg Transcript
 
-{BIO 19791482 <GO>}
-
-{BIO 18476397 <GO>}
-
+A - Patrick Barbeau {BIO 18476397 <GO>}
 Yeah. I would agree. I think it's the combination of a couple of points. The product is simpler to
 apply, very clear what is sewer backup, what is flood, what is infiltrations and how it's covered into
 different parts of the contract. So that for claims makes it more straightforward and clearer for
@@ -1031,10 +828,7 @@ might see in the media. It's comparable if I look at Quebec only. It's a bit wid
 what we've seen in 2017 of spring, but not that different in terms of amount of claims and type of
 severity.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 So it's clear that this event is a major event and that impacts people in Quebec and Ontario as well
 as in New Brunswick. And having been in the field when those sorts of events happen, it's terrible
 for people going through that and our thoughts are with those people. I think that clearly, we have
@@ -1050,17 +844,12 @@ man-made dams that break. So that was not necessarily part of the plan and I wou
 pure flood cover was very much driven by the failure of man-made protection in a specific part of
 Quebec. Would you agree?
 
-A - Patrick Barbeau
-
-{BIO 18476397 <GO>}
-
+A - Patrick Barbeau {BIO 18476397 <GO>}
 Yeah, that was one of the -- for sure one of the significant area. There were a few others that were
 more expected I guess with the water levels. But, yeah, Sainte-Marthe-sur-le-Lac in Quebec was
 that exactly.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 
 
@@ -1072,28 +861,19 @@ on the ground in the communities that are touched in particular in Sainte-Marthe
 has been touched heavily and we'll do our utmost to help people get back on track as quickly as
 possible.
 
-A - Patrick Barbeau
-
-{BIO 18476397 <GO>}
-
+A - Patrick Barbeau {BIO 18476397 <GO>}
 Absolutely.
 
 Operator
 Our next question comes from Sean Reitenbach from KBW.
 
-Q - Sean Reitenbach
-
-{BIO 20103487 <GO>}
-
+Q - Sean Reitenbach {BIO 20103487 <GO>}
 Hi. With the improving specialty REIT market in general and especially in the U.S., how does IFC
 think about adding new specialty lines either to Intact Canada or the U.S. commercial business?
 
 Bloomberg Transcript
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 So we have 14 business lines in the U.S. and in Canada, we have imported two business lines
 where we think we have very strong track record, deep expertise in the U.S. and we want to be -we want to pace ourselves because we want to do it right. So now we've launched those two lines,
 gaining traction there and our thought process in the U.S. is to grow the 10 lines in which we're
@@ -1106,28 +886,19 @@ marine, which we feel makes sense from a North American point of view, in sector
 so we're pacing ourselves, but we're gradually making sure that our product capability can be used
 across the North American platform. Alain, anything that you want to add?
 
-A - Alain Lessard
-
-{BIO 17592535 <GO>}
-
+A - Alain Lessard {BIO 17592535 <GO>}
 Well, the only thing I would add is, on top of that, we're keeping the focus completely on bringing
 the combined ratio in the low-90%. That is really the focus and we don't want to be focused the
 team in everything and trying to go in all directions. That's why we're pacing ourself and we're
 always looking at what can be brought from north to south and from south to north, but really
 pacing it to keep sure that the focus is on the low-90%.
 
-Q - Sean Reitenbach
-
-{BIO 20103487 <GO>}
-
+Q - Sean Reitenbach {BIO 20103487 <GO>}
 And then in terms of these cross market opportunities that you referenced just now and then
 originally with the acquisition, are those performing as expected or is the focus really going to be
 driving growth in those after the combined ratio comes into line?
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
-
+A - Charles Brindamour {BIO 7012323 <GO>}
 I think the latter. The teams are in place for establishing relationship or gaining traction. It's not yet
 moving the needle as far as I'm concerned in terms of the scale of the operation. We're building
 capability and indeed the day one item is low combined ratio. The product capability is in place, but
@@ -1138,15 +909,10 @@ And our next question comes from Jaeme Gloyn from National Bank Finance.
 
 
 
-Q - Jaeme Gloyn
-
-{BIO 19737597 <GO>}
-
+Q - Jaeme Gloyn {BIO 19737597 <GO>}
 I will save it for another day. Thank you.
 
-A - Charles Brindamour
-
-{BIO 7012323 <GO>}
+A - Charles Brindamour {BIO 7012323 <GO>}
 
 FINAL
 
@@ -1156,10 +922,7 @@ Operator
 And thank you very much. That concludes the questioning in the queue, I'll turn the call back to the
 presenters.
 
-A - Ken Anderson
-
-{BIO 16846692 <GO>}
-
+A - Ken Anderson {BIO 16846692 <GO>}
 Thank you all for joining us today. Following this call, the telephone replay will be available for one
 week. The webcast will be archived on our website for one year. A transcript will also be available
 on the website in the financial report and filing section. Also, we'll be hosting our Annual Meeting

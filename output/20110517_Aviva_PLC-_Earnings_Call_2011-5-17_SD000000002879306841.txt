@@ -38,10 +38,7 @@ statement analyst call. (Operator Instructions) I would now like to hand over to
 chairperson, Chief Executive Andrew Moss. Please begin your meeting and I'll be standing
 by.
 
-Andrew Moss
-
-{BIO 3628034 <GO>}
-
+Andrew Moss {BIO 3628034 <GO>}
 Thank you very much. Good morning, everybody. And thanks for joining us today. With me
 today are Pat Regan, Group CFO; Mark Hodges, Chief Executive of the UK business; and
 Igal Mayer, Chief Executive of the European business.
@@ -181,31 +178,19 @@ Operator
 (Operator Instructions) Our first question comes from the line of Gordon Aitken from
 Royal Bank of Canada. Please go ahead with your question.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Morning.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Gordon.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Just a question on Poland. Sales are down 26% and you mentioned this is due to
 pensions. I'm just wondering what particularly is driving this and how much of it is due to
 the changes that have been announced to the second pillar there. And also what's the
 outlook.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Yes. A really good question, Gordon. It's an important market for us. It's been a great
 success for us. And you're absolutely right, there are structural changes in the market. I'll
 ask Igal to comment in a little bit more detail. But essentially what we have done is really
@@ -224,10 +209,7 @@ more detail.
 
 FINAL
 
-A - Igal Mayer
-
-{BIO 15440055 <GO>}
-
+A - Igal Mayer {BIO 15440055 <GO>}
 Morning, Gordon. Yes. This is the, as Andrew said, the pension reforms that have
 happened. The key to that market, if you look at our history there, was to build scale. We
 did that very early on. We're the second largest pension provider in Poland with about
@@ -241,15 +223,10 @@ towards life and protection sales. And we now have a very, very good and growing
 franchise in that area and you're seeing those numbers come through in the First Quarter
 of '11.
 
-Q - Gordon Aitken
-
-{BIO 3846728 <GO>}
-
+Q - Gordon Aitken {BIO 3846728 <GO>}
 Thank you.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
+A - Andrew Moss {BIO 3628034 <GO>}
 
 Bloomberg Transcript
 
@@ -259,10 +236,7 @@ Operator
 Our next question comes from the line of Tony Silverman from Standard & Poor's. Please
 go ahead with your question.
 
-Q - Tony Silverman
-
-{BIO 2162363 <GO>}
-
+Q - Tony Silverman {BIO 2162363 <GO>}
 Thank you. That's Standard & Poor's Equity Research. I just had a couple of questions,
 please. In UK motor insurance, you mentioned a summer initiative coming up in
 distributing through aggregators. And I was wondering if you could talk a bit more about
@@ -283,9 +257,7 @@ Company N ame: Aviva PL C
 Company Ticker: AV/ L N Equity
 Date: 2011-05-17
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
+A - Andrew Moss {BIO 3628034 <GO>}
 
 FINAL
 
@@ -294,10 +266,7 @@ comment on that. Obviously we've stressed just how successful we've been with ou
 brand strategy, gaining nearly 600,000 new customers under the Aviva brand and the
 RAC panel. But our ambitions don't stop there, Mark, I think it's fair to say.
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Absolutely. Morning, Tony. This is all about routes to market. So you know we withdrew the
 Aviva brand from the aggregated sites a couple of years ago. That was around getting
 the economics to work for us. You know that we've introduced new pricing
@@ -314,10 +283,7 @@ just a natural extension of that ambition.
 
 Bloomberg Transcript
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Thanks, Mark. The question about liquidity and funding in the European banking market,
 my perception of that, Tony, is it really just depends on what banks you're dealing with.
 The simple fact is that some banks have more liquidity pressures than others. And look,
@@ -330,10 +296,7 @@ I think, in fairness, as we move forward, clearly there are some new liquidity p
 coming from new rules on the banks. But in general. And I think we feel relatively
 comfortable that it's not going to have a major impact on our sales outlook.
 
-A - Igal Mayer
-
-{BIO 15440055 <GO>}
-
+A - Igal Mayer {BIO 15440055 <GO>}
 Yes. No specific comments on liquidity impacting the sales. Look, if I give you the two
 countries that you spoke about, in terms of France, the relationship with Credit du Nord is
 very strong. There has been some very active campaigns, you'll notice, in the press
@@ -356,28 +319,17 @@ standalone sales, which we're seeing good and steady results from.
 
 FINAL
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 On the last question, Tony, I'll ask Pat to comment on the IGD and perhaps a little bit more
 color even on the economic capital position.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. Thank you, Andrew. Morning, Tony.
 
-Q - Tony Silverman
-
-{BIO 2162363 <GO>}
-
+Q - Tony Silverman {BIO 2162363 <GO>}
 Morning.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
+A - Pat Regan {BIO 15131018 <GO>}
 
 Bloomberg Transcript
 
@@ -389,33 +341,21 @@ which we touched upon in the January presentation. So from an economic capital
 perspective, that means we have less risk charges. So the benefit from there is bigger
 even than the IGD benefit.
 
-Q - Tony Silverman
-
-{BIO 2162363 <GO>}
-
+Q - Tony Silverman {BIO 2162363 <GO>}
 But the actual deconsolidation, does that mean any surplus in Delta Lloyd is in your IGD
 surplus, just as a proportion of that rather than consolidating?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. Yes.
 
-Q - Tony Silverman
-
-{BIO 2162363 <GO>}
-
+Q - Tony Silverman {BIO 2162363 <GO>}
 Okay. That's fine. I'll come -- perhaps take it offline. Thanks.
 
 Operator
 Our next question comes from the line of James Shuck from Jefferies. Please go ahead
 with your question.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Good morning. Thank you very much. I had a few questions, please. The first one just on
 the economic capital position, you very kindly gave an update in 2009 for the capital
 position there. But I was just wondering what the 2010 position is, please. And if you could
@@ -438,16 +378,10 @@ FINAL
 And my final question is just on the outlook for UK commercial non-life pricing, because
 you make some brief comments that the property pricing is improving. Thank you.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Okay. Thanks, James. Look, I'll ask Pat to comment on the economic capital position first.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Thank you, Andrew. Hi, James. We didn't plan on updating each quarter on the economic
 capital position. So there's no specific update on that. The only thing I would point you to
 is obviously part of that equation is the available capital, which you largely start with your
@@ -457,10 +391,7 @@ economic capital position.
 
 Bloomberg Transcript
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 On the operating cash flow, James, I think we said back in March at the time of the
 prelims that it was too early to give further guidance. I still think that's the case. You're
 right, we've had a strong start to the year. That's good. But I think it'll be at the half year
@@ -470,10 +401,7 @@ On the UK commercial side, you're absolutely right, we are signaling that after 
 quite a quiet First Quarter, just in recent weeks we have started to see something a little
 bit more meaningful. But let Mark comment in a bit more detail on that.
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Yes. Morning, James. I think classically we see the personal motor market harden. We're
 seeing the commercial motor market harden and now, as you see in the numbers, in
 terms of 10% increases year on year, as Andrew said, in quarter one it was low single digit.
@@ -495,9 +423,7 @@ Company N ame: Aviva PL C
 Company Ticker: AV/ L N Equity
 Date: 2011-05-17
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
+Q - James Shuck {BIO 3680082 <GO>}
 
 FINAL
 
@@ -507,22 +433,13 @@ the guidance you give on the MCEV is helpful. But when would you actually be in 
 to give us a more up-to-date economic view, particularly in the wake of the
 deconsolidation of Delta Lloyd? Is H1 reasonable to expect that?
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Yes.
 
-Q - James Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James Shuck {BIO 3680082 <GO>}
 Thank you.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Okay, James. Pleasure.
 
 Operator
@@ -531,10 +448,7 @@ ahead with your question.
 
 Bloomberg Transcript
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Good morning, all. A couple of questions. One, I just wanted to explore a bit more on the
 improvement in the combined ratio from 102 to 97 in the First Quarter. I think there were
 GBP71 million of weather losses in the first half of last. I just wonder -- I assume those are
@@ -550,10 +464,7 @@ Spain and Italy, as to whether some of these are coming up for renewal. The ones
 were written 10 years ago, were they done on a 10-year platform and whether they need
 renegotiation.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Okay, Andrew. Thank you very much. Yes, look, on the general insurance side, you're quite
 right. In the First Quarter of last year, particularly in Europe, we saw some significant
 weather losses, primarily in France and in Ireland. So it's obviously, as you can see, a 16-
@@ -577,60 +488,36 @@ great start for the year in the business.
 In terms of the run rate, Pat, coming through into the Second Quarter, would we regard
 Q2 2010 as normal?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 I think broadly there's nothing out of the ordinary in that quarter. So the answer's probably
 yes, Andrew. So if that helps you in terms of what your expectations might be, I don't think
 we'd be misleading if we gave that message.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Just on that. So what were the weather losses in the First Quarter this year?
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Minimal. Minimal.
 
 Bloomberg Transcript
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 So naught?
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 It's not a number that we would point out. Mark, do you want to comment on the UK?
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 No. Andrew, morning. It's -- there is always weather. It's, in the UK context, it's January,
 February and March. But it's much, much, much more in line with our normal expectations,
 maybe a little below. But much closer to what you would see is a long-term average over
 the years, as opposed to last year, as you know, when in the UK context it was somewhat
 worse.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 It was GBP20 million in weather in the First Quarter, first half.
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Yes. That was the half-year number. So there's always potentially a little bit of -- some of
 this comes down to what we allow for in terms of our pricing and in terms of our view a
 long-term average. But the GBP20 million number was a half-year number for the UK.
@@ -643,41 +530,26 @@ Company N ame: Aviva PL C
 Company Ticker: AV/ L N Equity
 Date: 2011-05-17
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Igal, do you want to comment on Europe?
 
 FINAL
 
-A - Igal Mayer
-
-{BIO 15440055 <GO>}
-
+A - Igal Mayer {BIO 15440055 <GO>}
 Yes, Andrew, in Europe, just in the First Quarter results you're seeing about 10 to
 12percentage points improvement from the weather, which is the two events, France and
 Ireland. So you can assume somewhere around 4 to 5percentage points is the pure
 improvement in year-on-year underwriting due to both actions on rates and portfolio.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Great. Thanks.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 On the bancassurance deals, there again I'll let Igal comment in more detail on that.
 
 Bloomberg Transcript
 
-A - Igal Mayer
-
-{BIO 15440055 <GO>}
-
+A - Igal Mayer {BIO 15440055 <GO>}
 Yes. I think -- let's take the two pensions that you spoke about. In Spain, those are
 essentially perpetual agreements. Now, as you know, Andrew. And you've commented on
 in your notes, with the Caja recapitalization process that are taking place right now, we are
@@ -690,26 +562,17 @@ Italy, it is deal by deal. There is nothing imminent coming up for renewal. We d
 major agreement over the last nine months and that's really the only comment I have
 about Italy.
 
-Q - Andrew Crean
-
-{BIO 16513202 <GO>}
-
+Q - Andrew Crean {BIO 16513202 <GO>}
 Great. Thanks very much.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Thanks, Andrew.
 
 Operator
 Our next question comes from the line of Andy Hughes from Exane BNP. Please go ahead
 with your question.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Hi, guys. A couple of questions, if I could. First one, could you update on the disposal
 program, because I can't find any mention of how things are going or whether actually we
 Page 11 of 30
@@ -729,10 +592,7 @@ that direct pricing or has anyone else followed you since?
 And the growth that's happened in the UK motor stuff, this is all post the Experian system
 being pulled, just to double check that. Thank you.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Thanks, Andy. No. There is no new news on disposals today. Obviously the feature of the
 First Quarter on that was the 15% reduction in the Delta Lloyd holding. So that, in strategic
 terms, I think that was the key event during the quarter. We remain focused on executing
@@ -742,10 +602,7 @@ On the UK motor growth and direct pricing, I'll let Mark come in on that one.
 
 Bloomberg Transcript
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Yes. Morning, Andy. You remember I talked about this a little bit last November, when I
 said that we were taking the Aviva risk index, which was our pricing methodology we'd
 been using in the direct book, into the personal life broker market. You'll see that we're
@@ -761,19 +618,13 @@ performance, not just in the First Quarter but through the back half of last yea
 overall performance of the business, I think that's a good market for us to continue to
 grow into.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 And on the Experian system, was that pulled, well, before -- because obviously your direct
 pricing allows you to review things faster possibly than some of the competition. All this
 growth has happened after that system. There's no possible exposure there to any RFT
 investigation?
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Andy, I'm afraid I'll have to take that one offline. I don't know what -- when you're referring
 to the Experian system, what --?
 
@@ -785,38 +636,23 @@ Company N ame: Aviva PL C
 Company Ticker: AV/ L N Equity
 Date: 2011-05-17
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 The IT system, the one that gave you the -- what was it called? First Look or something or
 First -- I can't remember what it was called. But the system that gave you the algorithms
 behind the motor rates before they came live.
 
 FINAL
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Why don't we take that one offline and have a detailed conversation?
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Okay. Thanks.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Thanks, Andy.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Thanks.
 
 Operator
@@ -842,9 +678,7 @@ net flows and/or surrenders on covered business, I'm wondering if you can give u
 whether flows are positive and how surrender experience is tying in with -- assumed in
 your embedded value basis.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
+A - Andrew Moss {BIO 3628034 <GO>}
 
 Page 13 of 30
 
@@ -859,10 +693,7 @@ him come in. But what would you like to say on that?
 
 FINAL
 
-A - Igal Mayer
-
-{BIO 15440055 <GO>}
-
+A - Igal Mayer {BIO 15440055 <GO>}
 Yes. Greig, just that you do know me. You know this is an area that I absolutely focus on in
 terms of insurance excellence. So absolutely we're looking at our product area. And I'm
 looking at beefing up the capability there. That's the bottom line.
@@ -870,10 +701,7 @@ looking at beefing up the capability there. That's the bottom line.
 Q - Greig Paterson
 Have you got any idea when you'll start -- restart the product development process?
 
-A - Igal Mayer
-
-{BIO 15440055 <GO>}
-
+A - Igal Mayer {BIO 15440055 <GO>}
 It never stopped. So let's be clear on it never stopped. What I'm trying to do is actually
 get some more -- there's a couple of areas that I'm not pleased with that I think we can
 strengthen when we do our assessment across markets. You wouldn't be surprised by it.
@@ -893,20 +721,14 @@ So there's no change in -- you know you did a quite a unique remuneration struct
 was rolled out in -- a sales remuneration structure was rolled out in Europe. It's business
 as usual. But --.
 
-A - Igal Mayer
-
-{BIO 15440055 <GO>}
-
+A - Igal Mayer {BIO 15440055 <GO>}
 It's business as usual. And it's yielding the kind of results that we want. Again, if you kind of
 look at the shift in mix that we've seen. And we can go into some of the detailed
 examples, if you like. But there's no doubt that in terms of our direct sales force and even
 some of our banking relationships that we have changed incentives to really get the sales
 force moving business in the kind of mix direction that we want to see.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Yes. I think, Greig, on the whole, Igal, as always, has hit the ground running in terms of
 taking over the region. And certainly I've been looking for cleaner, clearer execution. And
 I'm really pleased with progress that we've made in the First Quarter.
@@ -929,10 +751,7 @@ FINAL
 On UK annuities, yes, you're right. I think we have performed well against the competition.
 On the margin point, Pat, do you want to comment on that, or Mark?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. I'm happy to pick that up. Morning, Greig. The 21% increase in individual annuities
 compares I think well to the market. The point you made around margins and IRR, this is a
 higher than the average in the book margin in IRR product. So we've been driving, as you
@@ -951,10 +770,7 @@ Bloomberg Transcript
 So just to confirm, are you saying that the MCEV margin on annuities is higher than the
 2.7%?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 The 3.7% UK average margin annuity business is performing better than that. I think last
 November I'm sure I reported something around 6% in terms of MCEV margin on that.
 
@@ -962,16 +778,10 @@ Q - Greig Paterson
 I'll have to read, because I can't read them so I'm just looking at the history. I know you
 don't -- I'll take that offline. I need to chat to you about that then.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Okay. Thanks, Greig. Net flows, Pat?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. What we'll do is obviously we published for the first time the -- at the year end the
 full net flows picture across each of the business units. We'll repeat that at the half year as
 we've got all the update on that. No particularly new news on that, Greig. We said. And
@@ -991,9 +801,7 @@ Date: 2011-05-17
 Q - Greig Paterson
 All right thank you.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
+A - Andrew Moss {BIO 3628034 <GO>}
 
 FINAL
 
@@ -1003,10 +811,7 @@ Operator
 Our next question comes from the line of Barrie Cornes from Panmure. Please go ahead
 with your question.
 
-Q - Barrie Cornes
-
-{BIO 2389115 <GO>}
-
+Q - Barrie Cornes {BIO 2389115 <GO>}
 Morning, everybody. I've just got three questions if I may. First of all in respect of the UK
 rate increases in Motor, I just wonder what impact it's having on propensity to acquire
 motor insurance and also impact on frequency and quantum of claims. That's the first
@@ -1021,17 +826,11 @@ And the last question, I think going back to Andy Hughes's question about the di
 program, just wondered if you could give us some more color on that. And in particular
 whether or not there's any movement in respect to the RAC in the UK please.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Okay, Barrie, thanks. UK Motor we are going into what we think is a strong market. Mark.
 So --
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Yes. I mean there's not much more to say at this stage, Barrie. There's no new news on
 things like claims frequencies or severity. Again I gave an update in November about the
 work we've been doing to pick up trends, specifically the bodily injury trends. You know
@@ -1054,18 +853,12 @@ Company N ame: Aviva PL C
 Company Ticker: AV/ L N Equity
 Date: 2011-05-17
 
-Q - Barrie Cornes
-
-{BIO 2389115 <GO>}
-
+Q - Barrie Cornes {BIO 2389115 <GO>}
 Okay. Thanks.
 
 FINAL
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 I think the macro point there as well, Barrie, is if you look at the cyclical movements over
 the last few years, we are actually pretty happy with the way that we've approached it.
 Inasmuch as back in '08, '09 it did contract at a time when markets, particularly in
@@ -1082,9 +875,7 @@ press speculation over the course of the last few weeks on the RAC. We have not
 commented on that. We don't believe it's in the interests of our shareholders for us to
 comment on it. So I'm really not going to add to anything on that today.
 
-Q - Barrie Cornes
-
-{BIO 2389115 <GO>}
+Q - Barrie Cornes {BIO 2389115 <GO>}
 
 Bloomberg Transcript
 
@@ -1094,22 +885,13 @@ Operator
 The next question comes from the line of Blair Stewart from Merrill Lynch. Please go
 ahead with your question.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Thank you. Good morning.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Hi, Blair.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 A couple of points there to pick up after all the other ones you've had already. Just on
 Non-Life, your expectations there for premium growth there stretching into the full year, I
 think, in the UK in particular, the Q1 comparison was very weak. So what should we be
@@ -1128,18 +910,13 @@ Date: 2011-05-17
 And thirdly, maybe just give you a chance to talk about the HSBC deal today and how
 significant do you think that is. Thank you.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
+A - Andrew Moss {BIO 3628034 <GO>}
 
 FINAL
 
 Thanks, Blair. Non-Life premium growth, Mark? Okay?
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Yes. I think, Blair, we've grown in the UK book five quarters running now. We talked already
 this morning about a number of the reasons for that in terms of the direct motor pricing
 and advertising, in terms of the RAC panel, in terms of the rollout of the pricing to
@@ -1163,16 +940,10 @@ and keep growing the book as we go through the rest of this year, with the provi
 of course, we've very disciplined, as you know. And we are very focused on growing the
 bottom line as well as the top line.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Thanks, Mark. IGD, don't apologize for that. It's not boring. Pat?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 I knew it was going to be my question when you said it was dull. In terms of the
 movement versus MCEV, let me start there, the movement versus IFRS now isn't too big.
 On MCEV, we obviously had some value of new business positively that helped drive that
@@ -1190,9 +961,7 @@ Company N ame: Aviva PL C
 Company Ticker: AV/ L N Equity
 Date: 2011-05-17
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
+A - Andrew Moss {BIO 3628034 <GO>}
 
 FINAL
 
@@ -1210,10 +979,7 @@ But it gives us the opportunity to do that. So I'm very, very optimistic about t
 pleased to have gone through what was a very rigorous process to reach that preferred
 partner status. And it gives us opportunities, Mark, that we haven't seen for awhile?
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Yes, I think anything like that -- thanks, Andy. The only thing I'd add, Blair is -- this is both
 across Life and Non-Life. So although in the UK we've just renewed the Non-Life deal, it
 means we can talk to HSBC about Life opportunities as well. As I've stressed before and
@@ -1222,43 +988,25 @@ something we're very good at.
 
 Bloomberg Transcript
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Can I just follow up and ask what proportion of sales is HSBC accounting for at the
 moment?
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Mark, do you want to comment on that?
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 We haven't disclosed the separate sales line for HSBC in terms of premium. I mean it's a
 significant deal in terms of home. But frankly, in terms of the detail, that's something
 probably best between us and them.
 
-Q - Blair Stewart
-
-{BIO 4191309 <GO>}
-
+Q - Blair Stewart {BIO 4191309 <GO>}
 Okay. Thank you.
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Thanks, Blair.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Thank you, Blair.
 Page 19 of 30
 
@@ -1274,28 +1022,19 @@ your question.
 
 FINAL
 
-Q - Kevin Ryan
-
-{BIO 1814771 <GO>}
-
+Q - Kevin Ryan {BIO 1814771 <GO>}
 Morning. I was just wondering, you sound very confident on the build-up of the Non-Life
 business, particularly in the UK. And I was wondering when we can expect a revision of the
 combined operating ratio target.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Good question, Kevin. The reality is we had revised it a few months ago down to 97%. So
 obviously that was progress. So right now I don't think we have any plans to change the
 target. But what the team is really focused on is to outperforming against the target. And I
 think we've had a great start to the year in that respect. So all of our efforts will continue
 to go into that through this year.
 
-Q - Kevin Ryan
-
-{BIO 1814771 <GO>}
-
+Q - Kevin Ryan {BIO 1814771 <GO>}
 All right. Thanks.
 
 Operator
@@ -1305,10 +1044,7 @@ Bloomberg Transcript
 The next question comes from the line of Nick Holmes from Nomura. Please go ahead
 with your question.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Good morning, just a couple of questions. First one is on the US, just wondered if you
 could give us a bit more color on the US strategy, in particular, what's your appetite for
 indexed annuity sales.
@@ -1316,10 +1052,7 @@ Then secondly, on Solvency II, what are your thoughts about the Commission's lat
 thinking on the illiquidity premium. I think there's been some new stuff out there and it will
 be very interesting if you've had a look at it. Thank you.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Thank you, Nick. Morning. On the US, particularly on the annuity side in your question, yes,
 we continue to price for profit. And so -- the market's down a bit on that side anyway. It's
 got a little bit more competitive in the First Quarter, that's had a little bit of an effect on
@@ -1347,10 +1080,7 @@ weeks and months around illiquidity premium or matching premium, which is sort o
 alternative idea which is being considered at the moment. Pat, do you want to comment
 on that?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. Thank you, Andrew. Hi, Nick. We're certainly in an interesting phase of Solvency II. The
 industry has, as you all know, put forward quite a strong, I think, provocation to the
 Commission a few weeks ago to say there were a number of these key issues that
@@ -1365,31 +1095,19 @@ for what assets. But also alongside illiquidity premium as well.
 
 Bloomberg Transcript
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. So just to clarify, you actually think it would probably be positive for the UK? I'm
 interested in that just because some Continental European insurers have expressed
 concern about it.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. That's why they've expressed concern about it. But yes, it a concept that works well
 for a UK annuity-style book.
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Yes.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 I think the issue there though, Nick, as well is that's why maintaining both a liquidity premia
 and the matching premium concept is important because whilst it might work well for UK
 annuities, the fact is that whilst UK annuities as part of our sales, well, it's, I don't know,
@@ -1412,46 +1130,29 @@ Europe. And we think that will be a constructive outcome.
 
 FINAL
 
-Q - Nick Holmes
-
-{BIO 3387435 <GO>}
-
+Q - Nick Holmes {BIO 3387435 <GO>}
 Okay. Thank you very much.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Thank you.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Thank you.
 
 Operator
 Our next question comes from the line of Raghu Hariharan from Citi. Please go ahead
 with your question.
 
-Q - Raghu Hariharan
-
-{BIO 15133573 <GO>}
+Q - Raghu Hariharan {BIO 15133573 <GO>}
 
 Bloomberg Transcript
 
 Hello. Morning, everyone.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Hi. Raghu.
 
-Q - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+Q - Raghu Hariharan {BIO 15133573 <GO>}
 Raghu from Citi. I just had three questions if I may please. The first one was just on the
 accounting impact of consolidation of Delta Lloyd, because in your press release you
 were saying there is a 9p impact because of the change in the constituents of the ECB
@@ -1477,18 +1178,13 @@ Date: 2011-05-17
 for AXXX and how that affects your capital generation target in the US. And around sales
 and around new business strain. Thank you.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
+A - Andrew Moss {BIO 3628034 <GO>}
 
 FINAL
 
 Thanks very much, Raghu. I think those really fall squarely on Mr. Regan.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Hello, Raghu. In terms of Delta Lloyd, you're right in all of your assertions in the sense that
 we did have a positive impact on investment variances from the movements in the Delta
 Lloyd sale last year. What that did is increase the net assets of Delta Lloyd; that
@@ -1510,16 +1206,10 @@ And therefore in the core plan in terms of the -- refinancing half the maturitie
 repaying half the maturities over that three year period out of organic cash and profit
 generation, is as we stated before.
 
-Q - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+Q - Raghu Hariharan {BIO 15133573 <GO>}
 Okay.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 In terms of the AXXX structure, you're quite right. The FSA came out with new rules this
 year. As we noted in the release, what we've done is adjust the structure of our existing
 AXXX such that they now comply with new FSA rules. And now accounts again within our
@@ -1527,16 +1217,11 @@ IGD balance. So we can still do it. There is still a couple of ways that you can
 to adjust within the new FSA rules. So they still form an important part of our capital
 structure, both in the US and at the Group level.
 
-Q - Raghu Hariharan
-
-{BIO 15133573 <GO>}
-
+Q - Raghu Hariharan {BIO 15133573 <GO>}
 But going forward it should not affect new business strain in the US, because I know that
 helped your new business strain, especially in Life sales.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
+A - Pat Regan {BIO 15131018 <GO>}
 
 Page 23 of 30
 
@@ -1549,28 +1234,20 @@ Date: 2011-05-17
 You have to structure things in a different way. But no, it doesn't affect our core Life
 operations in the US.
 
-Q - Raghu Hariharan
-
-{BIO 15133573 <GO>}
+Q - Raghu Hariharan {BIO 15133573 <GO>}
 
 FINAL
 
 Okay. Thank you very much.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Thank you.
 
 Operator
 Our next question comes from the line of James Pearce from UBS. Please go ahead with
 your question.
 
-Q - James Pearce
-
-{BIO 16758460 <GO>}
-
+Q - James Pearce {BIO 16758460 <GO>}
 Morning, a couple of things. First of all, Mark could you talk about whether you expect the
 Jackson review to be implemented and what difference that would make to your
 business.
@@ -1581,16 +1258,10 @@ Bloomberg Transcript
 And third can you explain why you did so well in Ireland. And was the investment bond
 business offshore or onshore behind that?
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Okay. Thanks, James. Jackson and the outlook there, Mark.
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Yes, James. Good morning. I think in terms of Jackson and whether it will be implemented
 or not, hard one to call. I think that generally the issue of the cost of motor insurance is -in people's minds more. There's more noise in the media around it, I think much more
 focused on it from a political perspective. So you would assume that something would
@@ -1619,16 +1290,10 @@ only write business that we think is profitable.
 
 FINAL
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Igal, the question on Ireland?
 
-A - Igal Mayer
-
-{BIO 15440055 <GO>}
-
+A - Igal Mayer {BIO 15440055 <GO>}
 Yes. Two parts. Those were onshore. And as we highlighted in the press release, we did
 benefit from a tranche of sales. Hard to predict right now whether the market still has
 appetite for further tranches. So that's why we highlighted that.
@@ -1637,15 +1302,10 @@ pressure, we are seeing -- obviously the economy's seen some modest GDP growth. 
 in our other lines of business we're seeing good progression, single-digit growth rates in
 products such as protection and unit-linked which I'm pleased with.
 
-Q - James Pearce
-
-{BIO 16758460 <GO>}
-
+Q - James Pearce {BIO 16758460 <GO>}
 Okay. Thanks very much.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
+A - Andrew Moss {BIO 3628034 <GO>}
 
 Bloomberg Transcript
 
@@ -1655,10 +1315,7 @@ Operator
 Our next question comes from the line of Toby Langley from Barclays Capital. Please go
 ahead with your question.
 
-Q - Toby Langley
-
-{BIO 15924432 <GO>}
-
+Q - Toby Langley {BIO 15924432 <GO>}
 Good morning, everybody. It's Toby Langley from Barclays Capital. I've got two questions
 on the GI business and one on the platform business.
 The first one GI is around capital consumption. Given the growth in premiums that we've
@@ -1686,18 +1343,12 @@ rising from I think around GBP1 billion last year to GBP56 billion in the number
 Could you please talk about how you classify what does and does not go on to that
 platform total and how you see those assets evolving going forward?
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Okay, Toby. Thank you very much for those questions. Good morning. On capital
 consumption, yes, I guess we are beginning to put a little bit more capital to work at what
 we believe are very good returns. Pat?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Yes. Thanks, Toby. If you remember this time last year we talked about the fact that we've
 benefited by about GBP200 million on OCG from a reduction in CRR from the GI
 business. But we set an expectation that that this year would essentially flatten. And that's
@@ -1705,18 +1356,12 @@ broadly what we're seeing now. Probably there's a small capital usage. But it's 
 bucket. It's broadly -- we don't get the benefit any more that we got last year, as
 expected.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Dear CEO letter, Mark.
 
 Bloomberg Transcript
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Yes. In terms of reserve adequacy and reserving processes, we have said a number of
 times and we are very happy to re-emphasize that we're very strong on our reserving
 discipline. Very consistent in terms of our approach to reserving in the General Insurance
@@ -1727,10 +1372,7 @@ front office in terms of claims management, through to the reserving process and
 actually, as importantly, through to our pricing disciplines as well, because that's an
 important thing, from my perspective, in terms of generating value.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 And in terms of the platform assets, I think this is some -- sort of partly to do with
 definition. We are making all of the back book of the UK Life business available to advisers
 to be able to work on it by the way of our Aviva for Advisers portal, which I think has been
@@ -1741,9 +1383,7 @@ the larger, the GBP56 billion you were quoting is the value of the back book tha
 available to advisors to manage online. That's key from an efficiency perspective, both for
 the advisors and obviously from our perspective as well.
 
-Q - Toby Langley
-
-{BIO 15924432 <GO>}
+Q - Toby Langley {BIO 15924432 <GO>}
 Page 26 of 30
 
 
@@ -1758,24 +1398,15 @@ market?
 
 FINAL
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 To be honest, that's not something I can really comment on. As usual, very focused on our
 business. We have we think, as I said, a really, really top-class reserving process. It may or
 may not have an impact on others.
 
-Q - Toby Langley
-
-{BIO 15924432 <GO>}
-
+Q - Toby Langley {BIO 15924432 <GO>}
 Thank you.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Thanks, Toby.
 
 Operator
@@ -1784,26 +1415,17 @@ ahead with your question.
 
 Bloomberg Transcript
 
-Q - Duncan Russell
-
-{BIO 15944951 <GO>}
-
+Q - Duncan Russell {BIO 15944951 <GO>}
 Thank you. Just one question. Could you -- you were quite specific on your comments on
 Commercial Property pricing increasing in recent weeks or over the last month. And could
 you just go into a bit more detail about why specifically that's happened so recently and
 what it would take for you -- for those prices to become more -- price increases to
 become more sustained. Thank you.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Yes. Thanks, Duncan, good question. In the UK, Mark, I'll ask you to comment.
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Yes. Duncan, thanks. There's not much more actually I could say at this stage. It's a
 sentiment thing. We've started to see a little more coming through. That gives us reasons
 to be optimistic given the volume of business that we have in that market, the position
@@ -1814,10 +1436,7 @@ believe that we need to see rating increases in Commercial. We certainly believe
 we're taking a very disciplined approach to our underwriting. But at this stage there's not
 much more we can give in terms of specifics.
 
-Q - Duncan Russell
-
-{BIO 15944951 <GO>}
-
+Q - Duncan Russell {BIO 15944951 <GO>}
 Page 27 of 30
 
 
@@ -1830,10 +1449,7 @@ Okay. Thank you.
 
 FINAL
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Duncan, the only thing I'd add is something more of a macro comment. We make a
 comment in my review, that we've got no exposure to cat events in Australia, in Japan, in
 New Zealand in the First Quarter. My discussions with other CEOs in the industry over the
@@ -1848,10 +1464,7 @@ certainly feel that having frankly, sat here for two years saying this needs to 
 going to come, the first real evidence of it coming is now with us. But next three months
 will be fascinating.
 
-Q - Duncan Russell
-
-{BIO 15944951 <GO>}
-
+Q - Duncan Russell {BIO 15944951 <GO>}
 Okay. Thank you.
 
 Bloomberg Transcript
@@ -1860,10 +1473,7 @@ Operator
 The next question comes from the line of Marcus Barnard from Oriel. Please go ahead
 with your question.
 
-Q - Marcus Barnard
-
-{BIO 2103471 <GO>}
-
+Q - Marcus Barnard {BIO 2103471 <GO>}
 Yes, morning. I've got two very quick questions. Firstly on the MCEV per share you gave,
 could you give us some idea of what impact the change in the tax rate had on that? I'm
 assuming it's about 4p or 5p.
@@ -1872,16 +1482,10 @@ And secondly on the differential between MCEV per share and EEV per share, this 
 I'm not sure why MCEV -- if there's any one-off changes to the underlying assumptions or
 asset values? Anyway, thanks.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Okay, Marcus. Thank you. Good morning. Pat, do you want to comment on those two?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 Sure. Thanks, Marcus. In terms of tax rate, it wouldn't have made much difference to
 MCEV at all. No underlying changes (technical difficulty) to any of the underlying
 assumptions. So the growth in MCEV was profits-driven, new business profits driven, the
@@ -1895,43 +1499,26 @@ Company N ame: Aviva PL C
 Company Ticker: AV/ L N Equity
 Date: 2011-05-17
 
-Q - Marcus Barnard
-
-{BIO 2103471 <GO>}
-
+Q - Marcus Barnard {BIO 2103471 <GO>}
 Okay, yes.
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
+A - Pat Regan {BIO 15131018 <GO>}
 
 FINAL
 
 Thank you.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Thank you.
 
-Q - Marcus Barnard
-
-{BIO 2103471 <GO>}
-
+Q - Marcus Barnard {BIO 2103471 <GO>}
 And the differential between the MCEV and the EEV?
 
-A - Pat Regan
-
-{BIO 15131018 <GO>}
-
+A - Pat Regan {BIO 15131018 <GO>}
 We haven't published that today, Marcus. But it shouldn't be a great change in that
 differential.
 
-Q - Marcus Barnard
-
-{BIO 2103471 <GO>}
-
+Q - Marcus Barnard {BIO 2103471 <GO>}
 Okay. Brilliant, thanks.
 
 Bloomberg Transcript
@@ -1940,10 +1527,7 @@ Operator
 Our next question comes from the line of Andy Hughes from Exane BNP. Please go ahead
 with your question.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Hi, guys. Just a quick follow up question on HSBC preferred partner disclosure. Just
 wondering on the UK, what is the kind of preferred structure at the moment, if you were
 to do something on the Life side, given that you changed the RBS scheme to be 100%
@@ -1952,18 +1536,12 @@ When you say preferred insurance partner does that distinguish it away from savi
 should we look at something more on the protection side if you were to do anything?
 Thank you.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 I think in terms of structure we're not looking at a JV arrangement. It would be more a
 commission-based arrangement, it simply means that they have given us a preferential
 status in terms of opening up discussions with them. Mark?
 
-A - Mark Hodges
-
-{BIO 15503226 <GO>}
-
+A - Mark Hodges {BIO 15503226 <GO>}
 Yes. Absolutely. So too early talk about what the new -- any new model would look like.
 But I think distribution as opposed to JV is a good assumption. In terms of products, it just
 Page 29 of 30
@@ -1980,41 +1558,27 @@ strength of the composite model here in the UK.
 
 FINAL
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 We have to work hard, Andy, to win that business. But the point is we have our foot in the
 door in a way which is better than our competition. It's just as simple as that. But they are - having worked with them for a long time myself, I know that they are a demanding
 counterparty. And we look forward to making our credentials really clear to them in a
 number of different geographies.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Yes. And there will be no competition issues with having Santander, RBS and HSBC in
 some markets in the UK?
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 No. We don't think there are. And we're very pleased with the footprint that we've got
 now in the bancassurance space in the UK. And we intend to continue to build it.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
+Q - Andy Hughes {BIO 15036395 <GO>}
 
 Bloomberg Transcript
 
 Okay. Thanks very much.
 
-A - Andrew Moss
-
-{BIO 3628034 <GO>}
-
+A - Andrew Moss {BIO 3628034 <GO>}
 Okay. Well thanks very much for listening in. We're always available and Charles is always
 available to answer any more questions that you've got. I think we'll bring things to a
 conclusion there. Thank you very much for making time. We do feel very positive about

@@ -30,10 +30,7 @@ being recorded.
 I would now like to turn the conference over to Linda Ventresca, Investor Relations. Please
 go ahead.
 
-Linda Ventresca
-
-{BIO 5930519 <GO>}
-
+Linda Ventresca {BIO 5930519 <GO>}
 Thank you, Kate, and good morning, ladies and gentlemen. I'm happy to welcome you to
 our conference call to discuss the financial results for AXIS Capital for the fourth quarter
 and the year ended December 31, 2016. Our earnings press release and financial
@@ -69,10 +66,7 @@ With that, I'd like to turn the call over to Albert.
 
 Bloomberg Transcript
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, Linda, and good morning, ladies and gentlemen. Thank you for joining us
 today. Last night, AXIS reported fourth quarter operating income of $101 million or $1.14
 per diluted share, bringing our full year operating income to $4.48 per share, an 11%
@@ -149,10 +143,7 @@ and stable profitability.
 I'll report more on market conditions in our outlook for 2017 after Joe covers the highlights
 of our financial performance. Joe?
 
-Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+Joseph C. Henry {BIO 13390626 <GO>}
 Thank you, Albert, and good morning, everyone. During the quarter, we generated strong
 results, featuring net income of $131 million and an annualized ROE of 9.9%. Our net
 income this quarter benefited from continued good underwriting performance, including a
@@ -349,10 +340,7 @@ With that, I'll turn the call back over to Albert.
 
 Bloomberg Transcript
 
-Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, Joe. Before opening up the call to questions, let me provide an update on
 market pricing and our January 1 reinsurance renewals. As with the rest of the market,
 we've observed continued pricing pressures in most lines and markets in the fourth
@@ -452,10 +440,7 @@ Operator
 We will now begin the question-and-answer session. The first question comes from Elyse
 Greenspan of Wells Fargo. Please go ahead.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Hi. Good morning. First question, in terms of looking at the margins within the insurance
 book, you saw a pretty strong improvement in the fourth quarter and also for the full year.
 And you mentioned a couple of times kind of the benefit of mid-sized losses. Was it a
@@ -466,10 +451,7 @@ the insurance book in 2017?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 That's a fair question, Elyse. What I would say is that yes, 2015 did have, as we discussed
 in that year, a higher frequency of energy losses, in particular, and certainly less so in 2016.
 But although there were less events that affected us in 2016, I would say that it's more
@@ -480,28 +462,19 @@ affected us less in 2016 than they did in 2015. Our business will always have vo
 large losses, but we believe that we've constructed our portfolios to be less vulnerable
 than they were in the past.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. And then on the reinsurance side, you mentioned in your commentary some areas
 that you're looking to expand in in 2017 like mortgage, flood, and a few other areas. What
 does that do to the margin profile, as you go in that business, the margin profile of your
 reinsurance book?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Well, it depends on each one of them. So if you look at the mortgage business, the flood
 business, those tend to have generally lower technical ratios. And the regional multiline
 business would tend to have more of an average technical ratio. Expanding by offering
 our products into Lloyd's should have no impact.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. Did you guys have any losses from the New Zealand earthquake in the quarter?
 
 Page 9 of 20
@@ -512,35 +485,24 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2017-02-02
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 De minimis.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 
 FINAL
 
 Okay. And then one last question, in terms of the reserve development, what accident
 years did the favorable development come from in the quarter?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Elyse, it's Joe. It really came from all accident years. If you want to characterize the
 reinsurance development, prior year development, it came from all lines of business and
 all accident years. And on the insurance side, it was almost all lines of business and most
 accident years. So really across the whole spectrum. I can give you more specifics if you
 want, but basically it's all accident years and all lines of business.
 
-Q - Elyse B. Greenspan
-
-{BIO 17263315 <GO>}
-
+Q - Elyse B. Greenspan {BIO 17263315 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -548,36 +510,24 @@ The next question is from Jay Cohen of Bank of America Merrill Lynch. Please go 
 
 Bloomberg Transcript
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Yes. Thank you. A couple of questions. You had mentioned on the reinsurance side that
 you did have some increase in agriculture-related losses. I guess, I'm wondering where
 that happened, because it seems like the U.S. crop business was particularly good this
 year?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Right. Jay, we actually had some adverse experience in our European book. We had one
 large claim due to the French floods and droughts that occurred in that country. So for the
 most part, our U.S. business was good as was the rest of the industry's, but we had a
 large loss in Europe.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Got it. That's helpful. And then on the G&A expense, where that did go up partly due to
 some severance expense, those charges that you took, will that result in savings going
 forward? And if so, I don't know if you can quantify it or not?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Yeah. So let me give you some specifics here, Jay, on G&A because we thought we were
 going to get that question. First, and let me say, that we will deliver by the end of 2017 on
 the promise we made two years ago to eliminate $50 million worth of expenses, which
@@ -606,16 +556,10 @@ adjustment as well. So, I'd say, severance was more one-time and the share-based
 compensation and performance-based compensation were more catch-ups, and that was
 about $4 million, if I didn't mention that.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Great. That's really helpful. Thanks.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Okay.
 
 Operator
@@ -624,10 +568,7 @@ Bloomberg Transcript
 
 The next question is from Kai Pan of Morgan Stanley. Please go ahead.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Thank you, and good morning. First question, Albert, on the ROE profile for the business.
 If you're looking back for the last three years, you made great progress basically shaping
 the business portfolio and that's showing up in low volatilities. But on the other hand, the
@@ -635,10 +576,7 @@ underlying margin is actually – combined ratio shifted higher. And your ROE wa
 2013 and now down to close to 8% in 2016. I just wonder is that business portfolio sort of
 like at a steady state and what are the drivers for ROE improvement going forward?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, Kai. I think that there are a couple of factors, one of which is the entire industry
 suffered from lower investment income, so that's just part of the contributor. But focusing
 on the portfolio, we're actually confident that the portfolio, although it might deliver
@@ -666,50 +604,33 @@ in better ROEs going forward.
 
 FINAL
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. And then, on the share repurchase, 2016 actually you returned more than you
 earned, including some breakout fees for the PartnerRe deal. I just wonder, given that
 your risk profile now is significantly reduced, what's your excess capital position? Can you
 sustain a share buyback that's above your annual earnings?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Kai, as you know, we start our year assuming that we're going to give back to our
 shareholders all of our operating income in the form of share repurchase and dividends,
 and then we adjust up or down based on how the year develops and that continues to be
 our expectation.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Do you have estimates of your current excess capital position?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
+A - Joseph C. Henry {BIO 13390626 <GO>}
 
 Bloomberg Transcript
 
 We would not disclose our estimates of excess capital position.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 Okay. Great. Lastly on the U.S. tax reform, some argue that U.S. players' tax rate going
 lower, and some global players tax rate could go higher. Do you think that could
 potentially change your competitive position in the marketplace?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Kai, let me answer your question maybe a little bit differently than you asked it. First, with
 respect to tax reform, it's early days, and I think it's very difficult to predict where tax
 reform may go. As you would expect, we monitor closely all the proposals regarding tax
@@ -737,10 +658,7 @@ legislative changes and to proactively optimize outcomes once we have more clari
 
 FINAL
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 And Kai, let me add. So I think Joe gave you a good view of how we look at the situation
 right now and our preparedness to respond (37:51). But I also want to respond to one of
 your comments which is how does this affect your competitive position. And I think there is
@@ -752,16 +670,10 @@ our producers and clients are as good as they've ever been. We will continue to 
 And then, when we get some clarity around taxes and other factors, we will do what we
 need to do to optimize results at that point.
 
-Q - Kai Pan
-
-{BIO 18669701 <GO>}
-
+Q - Kai Pan {BIO 18669701 <GO>}
 That's great. Thank you so much.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 You're welcome.
 
 Operator
@@ -770,37 +682,22 @@ Bloomberg Transcript
 
 The next question is from Charles Sebaski of BMO Capital Markets. Please go ahead.
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 Good morning.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Good morning.
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 I guess the first question is kind of on capital philosophy and the new preferred issuance
 that you did. I know, Joe, you said you're going to retire the Series C, but I believe you'd
 still end up with a net increase in preferred equity and given the changes in the book to a
 more capital-efficient profile, why do you need more capital?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 It's not that we need more capital, it's we want to have more efficient capital Charles.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 As you know, one of the factors that we look at, is ensuring that we have a strong ratings
 from the rating agencies because we think it's appropriate in our marketing. The rating
 Page 13 of 20
@@ -822,10 +719,7 @@ then manage our total capital. So it's not that we need more capital, as we've s
 bought back a lot of stock but we think that this allows us to replace equity with lesser
 cost preferred equity.
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 Okay. And so I mean, that's what I was – maybe I didn't ask it properly is that, I thought
 that due to the changes in the book, the total capital need because of the new capital
 efficiencies of changing the portfolio and the reinsurance buying would have meant that
@@ -833,9 +727,7 @@ you just needed less equity, less shareholder equity in general for the book of 
 So, it wouldn't necessarily need to be replaced, but there will be a free up of capital due
 to the restructuring of the overall portfolio.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -846,10 +738,7 @@ strength and ratings on the other, and the opportunity for profitable growth whe
 find it. So, it's a balancing act. We think that we have been very strong stewards of capital
 and we will continue to pursue down that path.
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 Okay. I guess then on the insurance book or insurance business overall and how you think
 about it going forward to generate the returns necessary. I mean, I guess if we're looking
 down the road, one year, two years down the road, how do you view the contribution of
@@ -859,10 +748,7 @@ from the reinsurance business. Do you expect that to maybe not parity but to get
 the future, or do you expect the relative contributions from the business to remain at their
 current balance levels?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Charles, I would prefer to answer the question by saying that I have a very high level of
 confidence that the profit contribution from insurance will increase over time as the
 various actions that we have put in place start to be reflected through. Ultimately, as you
@@ -871,10 +757,7 @@ other, the location of cats and so on and so forth. But what I can tell you is t
 is very committed to delivering stronger financial returns, and my expectation is that we
 would have stronger returns coming out of the insurance book.
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 Page 14 of 20
 
 
@@ -894,9 +777,7 @@ couple of $100 million here, can it be a multiple of that or is it mostly there?
 to understand to what level that can get over – not even necessary 2017, over a multi-year
 period.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -918,32 +799,21 @@ efficiency and improve our ROE. So you should expect us to continue our efforts 
 and garner more third-party capital and to creatively find structures where we can share
 more risk with third-party capital. We think that is the right way to go.
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 And how should we think about the fee component of that relative to an earnings
 perspective. How much is expense offset versus profitability – to get a handle on what – if
 I think of this growing over time from a $22 million fee in 2016 to $40 million in 2017, how is
 that contribution from an earnings versus just an offset of expenses that are currently
 undergoing in your business? I'm just trying to get some...
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Right. That's fair. Joe, I think you could confirm that, but I believe that we've estimated
 that about two-thirds of the fees...
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Two-thirds. Yeah.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Page 15 of 20
 
@@ -960,34 +830,22 @@ properly offset G&A.
 
 FINAL
 
-Q - Charles Joseph Sebaski
-
-{BIO 17349221 <GO>}
-
+Q - Charles Joseph Sebaski {BIO 17349221 <GO>}
 Thank you very much for the answers.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Yeah.
 
 Operator
 The next question is from Brian Meredith of UBS. Please go ahead.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Yeah. Thanks. A couple of questions here for you. The first one, Albert, could you talk
 about your exposure to the potential changes in the Ogden discount rates?
 
 Bloomberg Transcript
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Sure. So some people in the investment community may not be familiar with them, but in
 the UK, there is a methodology to calculate lump sum payments for large claims and the
 Ogden discount rates are utilized for that. The Ogden discount rates are currently
@@ -1002,19 +860,13 @@ unexpected changes, whether they be frequency, severity, or discount changes. We
 comfortable, at this point in time, that our reserves can properly reflect the risk of lower
 Ogden rates.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Got you. Could you give a general sense of how much of your reserves would be
 exposed to it? Because I completely agree that you guys set reserves very conservatively,
 but it could impact the magnitude of favorable development actually going forward given
 the discount rates.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I appreciate that. What I would suggest is that we wait until we find out what the Ogden
 rates are, and then we can provide you with more specificity. At this point in time, we
 Page 16 of 20
@@ -1031,19 +883,13 @@ Bloomberg Transcript
 
 FINAL
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Okay. Great. And then Albert, next question, could you give us some views on kind of
 what you're seeing with respect to loss trend? I mean, a couple of companies have
 purchased adverse development covers, and kind of thinking about that is that maybe
 some fear that loss trend is starting to pick up. Are you seeing that?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Well, they're certainly picking up in certain lines. I mean, you've heard about motor liability
 trends going up. You've heard about passenger motor liability. We don't do any real
 motor business in the U.S., so that's not affecting us. And you've also seen in the D&O
@@ -1063,25 +909,16 @@ quite good at reacting to the early signs and have been shifting our book such t
 feel very good about where our book is, and we do not have any of the concerns today
 that have been expressed by others.
 
-Q - Brian Meredith
-
-{BIO 3108204 <GO>}
-
+Q - Brian Meredith {BIO 3108204 <GO>}
 Great. Thank you very much.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 You're welcome.
 
 Operator
 The next question is from Meyer Shields of KBW. Please go ahead.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Thanks. Two questions, if I can. First, setting aside the impact of rates and trends – the
 project of shifting your business mix to lower volatility and higher capital return lines, is
 that impact – specifically on the loss ratio, is that basically done?
@@ -1094,28 +931,20 @@ Company N ame: Axis Capital H oldings L td
 Company Ticker: AXS US Equity
 Date: 2017-02-02
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 I'm sorry. Can you expand on your question? I want to make sure that I understand and
 respond to what you're looking for.
 
 FINAL
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Yeah. So, as I understand it, one of the major projects of the past few years was to focus
 on lines of business with both less volatility and maybe smaller margins because the
 overall returns on capital were better. So that seems to have worked, but it does imply
 lower technical margins compared to the proceeding book and I'm wondering whether
 that business mix shift has basically played out.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 
 Bloomberg Transcript
 
@@ -1135,18 +964,12 @@ the book entirely into long-tail lines. It's been a combination of that shift, y
 but also some significant improvement in the way that we are selecting risk and building
 our portfolios. And that has gone very well and will continue.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
-
+Q - Meyer Shields {BIO 4281064 <GO>}
 Okay. That's very helpful. Second question, and this is really naive. If there is a change in
 U.S. tax rates – or let me ask this differently. How much global reinsurance demand reflects
 arbitraging difference in tax rates between, let's say, the U.S. and Bermuda?
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 There are different views on that one, Meyer. I don't know how to answer it because when
 you're – when we're doing business in the U.S., we charge the same rates as U.S.-based
 reinsurers. So how do you respond to your question? I think that it's a market clearing
@@ -1156,9 +979,7 @@ process. I think as we see the tax environment changing, we're obviously going t
 how different companies react and we will do whatever we need to do at that point in
 time to optimize our portfolio.
 
-Q - Meyer Shields
-
-{BIO 4281064 <GO>}
+Q - Meyer Shields {BIO 4281064 <GO>}
 Page 18 of 20
 
 
@@ -1176,53 +997,33 @@ FINAL
 The next question is a follow up from Jay Cohen of Bank of America Merrill Lynch. Please
 go ahead.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Yeah. I just have follow up for Joe. Joe, if you could talk about the new money yield you're
 seeing in the market relative to your portfolio yield on the fixed income side?
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Yeah. The new money yield is about 2.8%, Jay. So it spiked up actually in the third and
 fourth quarter. We have built in frankly some rate increases into our 2017 plan. So this is
 not necessarily going to dramatically change what we forecast at our income to be going
 forward. But definitely, the increase in interest rates is having a beneficial impact on the
 net investment income portion of the portfolio.
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Yeah.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
+A - Joseph C. Henry {BIO 13390626 <GO>}
 
 Bloomberg Transcript
 
 Okay. Are you good? Jay?
 
-Q - Jay Arman Cohen
-
-{BIO 1498813 <GO>}
-
+Q - Jay Arman Cohen {BIO 1498813 <GO>}
 Okay. Thank you.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
-
+A - Joseph C. Henry {BIO 13390626 <GO>}
 Okay.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you.
 
 Operator
@@ -1230,10 +1031,7 @@ There are no additional questions at this time. This concludes our question-and-
 session. I would like to turn the conference back over to Albert Benchimol for closing
 remarks.
 
-A - Albert A. Benchimol
-
-{BIO 2023727 <GO>}
-
+A - Albert A. Benchimol {BIO 2023727 <GO>}
 Thank you, operator, and thank you all for participating in our call. As we discussed, we're
 confident that we're on the right path for differentiated growth and profitability. We're
 encouraged that we've made great progress, but we know we still have more work to do
@@ -1248,9 +1046,7 @@ Date: 2017-02-02
 to deliver on our goals. I can promise you that we're fully committed and focused on
 delivering further progress in 2017 and beyond. Have a great day. Thank you.
 
-A - Joseph C. Henry
-
-{BIO 13390626 <GO>}
+A - Joseph C. Henry {BIO 13390626 <GO>}
 
 FINAL
 

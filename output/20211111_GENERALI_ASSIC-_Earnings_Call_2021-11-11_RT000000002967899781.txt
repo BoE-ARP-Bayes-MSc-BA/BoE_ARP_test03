@@ -30,10 +30,7 @@ ask questions. (Operator Instructions)
 At this time, I would like to turn the conference over to Ms.Giulia Raffo, Head of Investor
 and Rating Agency Relations. Please go ahead, madam.
 
-Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+Giulia Raffo {BIO 21037091 <GO>}
 Thank you, and welcome all to Generali nine months 2021 conference call. Here with me,
 we have our Group CFO, Cristiano Borean. We are ready to take your questions. Thank
 you very much.
@@ -56,10 +53,7 @@ with Kepler Cheuvreux. Please go ahead.
 
 FINAL
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Thank you. Thank you very much. I have three questions, please. I'm afraid they're all
 numbers-based. The first one, I guess it would really help a lot with our modeling if there
 was -- if you had disclosure on the private equity exposure results and dividend by
@@ -76,10 +70,7 @@ commenting on, yes, or if that -- it's just normal volatility? Thanks a lot.
 
 Bloomberg Transcript
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Hello, Peter. So regarding the first question on the private equity exposure, first of all, in
 the result, the private equity contribution, operating result for the group in the first nine
 months is EUR540 million. Regarding the split of the asset by division, we will give you full
@@ -99,10 +90,7 @@ the point of view of investment capabilities and the infrastructure. And this is
 that it is going to be discussed already and it is more on the IT and distribution part, so it
 is absolutely in line with the strategy.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 Okay, perfect. Thank you very much. Can I move quickly (inaudible) very quickly, on the first
 one, thank you very much for the group contribution. Are you also able to give us the
 Page 2 of 16
@@ -118,31 +106,19 @@ able to give us the performance fees?
 
 FINAL
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes. Okay. On the asset -- I give you -- I start from the second one, which is in my hands. In
 the first nine months, performance fees are accounting for slightly more of a EUR19 million
 on asset management. Then the dividend pay by the private equity in the first nine
 months is EUR164 million.
 
-Q - Peter Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter Eliot {BIO 7556214 <GO>}
 All right. Thank you very much, indeed.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Welcome.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Next question, please.
 
 Operator
@@ -151,10 +127,7 @@ Bloomberg Transcript
 
 The next question is from Andrew Sinclair with Bank of America. Please go ahead.
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 Thanks, everyone. Three for me as well, if that's okay. First one, sorry, just to continue on
 the private equity gains. So just looking at EUR540 million year-to-date, just really
 wondered if you can give us any guidance for kind of the near and even medium-term on
@@ -167,10 +140,7 @@ And thirdly, just on motor experience and kind of COVID experience today, what
 reversal in the short-term as the world gets back to work? Just an update there would be
 great. Thanks.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes. Hello, Andrew. So on private equity gains, the guidance on the fourth quarter, we had
 for sure some specific exit on some investment which was higher than a specific quarter in
 the first three ones, flattening out in the first nine months. So the fourth quarter for sure
@@ -217,25 +187,16 @@ frequency claims, we observe also when you are in a more catching back country, 
 example, like it is Italy or France, but still, we are not returned to the pre-COVID level of
 2019. Hope I was insightful on this point.
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 Very helpful. Thank you very much, Cristiano.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Next question, please.
 
 Operator
 The next question is from Andrew Ritchie with Autonomous. Please go ahead.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 Hi, there. Just following up on -- you commented there, Cristiano, on frequency trends.
 Could you just give us an update on severity trends that you may be seeing in the key
 markets? I guess in the context of broader -- some small pickup in broader economic
@@ -256,10 +217,7 @@ checking if that's the case. Thanks.
 
 FINAL
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Hi, Andrew. Thanks for the question. So first point, what are the frequency trend, has
 already been discussed. Regarding the severity, let me tell you something which is in my
 opinion quite interesting and which I always share with our technical colleagues. First point
@@ -280,16 +238,10 @@ lower effect of average cost increase because you are exiting that rolling windo
 are more on a stabilizing and more natural inflation growth compared to the speed we
 observed so far. I hope I gave you the dynamic behind it.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 That's great. Sorry, just on -- that's on motor damage, but on property?
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 On property, what we see is a slight increase of the average cost. But we are speaking
 about really the tenths of point of percentage increase, so 0.2%, 0.3% increase in the
 average cost, which is really immaterial. And anyhow, as this a little bit of consistency in
@@ -320,9 +272,7 @@ be acquired through the merger on Cattolica brings us to EUR1 billion. So this i
 budget. For sure, clearly, at the Investor Day, we will update you on the full numbers, but
 this is the so far budget.
 
-Q - Andrew Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew Ritchie {BIO 18731996 <GO>}
 
 FINAL
 
@@ -331,9 +281,7 @@ Okay. Thank you very much.
 Operator
 The next question is from Michael Huttner with Berenberg. Please go ahead.
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
+Q - Michael Huttner {BIO 21454754 <GO>}
 
 Bloomberg Transcript
 
@@ -355,10 +303,7 @@ And am I right in thinking, and this is a question, I don't know that this has t
 be spent by the year end, otherwise, it goes to shareholders, or is there some kind of
 more flexibility then? Thank you.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 So. Hi, Michael. Point number one, excluding the contribution of policyholder and the
 contribution of alternative, there is a slightly higher contribution in the component of the
 P&C as of today because of the earlier stage of adoption, as we always said, so you
@@ -410,24 +355,15 @@ mean for us. So we always evaluate the usage and the capital deployment against 
 strategic objectives. Then we will give you a final also overview around what is left and
 what is the approach on the December 15.
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Thank you so much. And can I just ask one follow-up on Cattolica? The EUR70 million, the
 7-0, in P&C, I take it that's pre-tax operating?
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 No, it is a full net of tax because of the equity accounting method. So you book the full net
 result of Cattolica in this and it is also booked as operating by definition.
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Excellent. Thank you very, very much. Thank you.
 
 Operator
@@ -442,9 +378,7 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2021-11-11
 
-Q - David Barma
-
-{BIO 19957338 <GO>}
+Q - David Barma {BIO 19957338 <GO>}
 
 FINAL
 
@@ -457,39 +391,25 @@ division?
 And lastly, on solvency, and apologies, if I may have missed out in the release. Could you
 give us the organic capital generation for Q3, please? Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 David, sorry, your second and third question didn't come out too clearly. Would you mind
 to repeat them, please? Sorry.
 
-Q - David Barma
-
-{BIO 19957338 <GO>}
-
+Q - David Barma {BIO 19957338 <GO>}
 Yeah. Can you hear me well now?
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
+A - Giulia Raffo {BIO 21037091 <GO>}
 
 Bloomberg Transcript
 
 Yes. Thank you.
 
-Q - David Barma
-
-{BIO 19957338 <GO>}
-
+Q - David Barma {BIO 19957338 <GO>}
 Yes. So the second question was on the internalization of unit-linked assets. Can you give
 us an update on how much of your unit-linked assets are run in-house? And the last one
 was on solvency. Could you give us the organic capital generation number for 3Q, please?
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes, David, thank you. Good morning. So Life new business margins, I would say, let's
 start, what are the driver from the nine months '20 to nine months '21. The largest driver
 is stemming from better product features and profitable products, and as well the larger
@@ -532,41 +452,26 @@ capital generation. Please take into account the fact that in Q3, we had also a 
 booking of natural catastrophes, which clearly is not giving the normal rate of the best
 estimate current year of the P&C.
 
-Q - David Barma
-
-{BIO 19957338 <GO>}
-
+Q - David Barma {BIO 19957338 <GO>}
 Right. Thank you very much.
 
 Bloomberg Transcript
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Just to clarify, 3% is before deducting the dividend. This is the full capital generation, and
 then we deduct always out of the 3% we will take of a pro rata dividend. But this is the
 pure capital generation.
 
-Q - David Barma
-
-{BIO 19957338 <GO>}
-
+Q - David Barma {BIO 19957338 <GO>}
 Yeah. Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Next question, please
 
 Operator
 The next question is from William Hawkins with KBW. Please go ahead, sir.
 
-Q - William Hawkins
-
-{BIO 17918548 <GO>}
-
+Q - William Hawkins {BIO 17918548 <GO>}
 Hi, Cristiano, thanks for taking my questions. You've already talked helpfully about claims
 trends. So I'm sorry to come back to it. But I just want to ask the question a different way. If
 I take your attritional loss ratio, which is your loss ratio, excluding the impact of nat cat
@@ -600,10 +505,7 @@ a high number these days, but how are you feeling about your ceiling?
 
 Bloomberg Transcript
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes, William. Hello. So first question, regarding the third quarter, as I told you already
 before, I think it is not indicative of the future run rate, take into account a couple of
 reason. That's why I prefer you to stick as a guidance, also to look more on the nine
@@ -648,24 +550,16 @@ also the good way to operate and navigate. I just take the case, don't forget, t
 need to be resilient and our corridor allowed us to stay well within even during the COVID
 crisis, which is again a proof point of the need to manage this in this way.
 
-Q - William Hawkins
-
-{BIO 17918548 <GO>}
-
+Q - William Hawkins {BIO 17918548 <GO>}
 Fantastic. Thank you, Cristiano.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Next question, please.
 
 Operator
 The next question is from Sudarshan Bhutra with Societe Generale. Please go ahead.
 
-Q - Sudarshan Bhutra
-
-{BIO 18843602 <GO>}
+Q - Sudarshan Bhutra {BIO 18843602 <GO>}
 
 Bloomberg Transcript
 
@@ -674,10 +568,7 @@ Hi, good afternoon. Just one question from my side. Could you provide some color
 environment in your key markets, like, Italy, and what is driving the 5% premium growth in
 motor line and 6% in the non-motor line. Thank you.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes, hello, Sudarshan. So I think that I give you some driver on the growth of the different
 premium by the countries. So we -- you observe a good growth of premium in Italy,
 France, Austria, Central and Eastern Europe and Russia as well in the international area. It
@@ -706,71 +597,43 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2021-11-11
 
-Q - Sudarshan Bhutra
-
-{BIO 18843602 <GO>}
-
+Q - Sudarshan Bhutra {BIO 18843602 <GO>}
 Just --
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
+A - Cristiano Borean {BIO 15246531 <GO>}
 
 FINAL
 
 Okay. And maybe --
 
-Q - Sudarshan Bhutra
-
-{BIO 18843602 <GO>}
-
+Q - Sudarshan Bhutra {BIO 18843602 <GO>}
 Just a follow up -
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Please.
 
-Q - Sudarshan Bhutra
-
-{BIO 18843602 <GO>}
-
+Q - Sudarshan Bhutra {BIO 18843602 <GO>}
 Sorry. So basically, could you just provide some more color on the personal lines in Italy?
 Basically, I mean, what was the pricing trend and the outlook for profitability in the
 personal lines motor business, in particular, in Italy?
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
+A - Giulia Raffo {BIO 21037091 <GO>}
 
 Bloomberg Transcript
 
 Sorry, just to be clear, you're asking for detail in particular with regard to motor in Italy,
 pricing and profitability. Is that correct?
 
-Q - Sudarshan Bhutra
-
-{BIO 18843602 <GO>}
-
+Q - Sudarshan Bhutra {BIO 18843602 <GO>}
 Yes, correct, correct
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Thank you very much.
 
-Q - Sudarshan Bhutra
-
-{BIO 18843602 <GO>}
-
+Q - Sudarshan Bhutra {BIO 18843602 <GO>}
 Personal lines, motor, Italy, yes.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes. So what we are observing, as a pricing trend in Italy, is that the average premium is
 getting close to a tipping point from the point of view of we are not observing anymore a
 decrease of the average premium quarter-over-quarter. So we could reach the so-called
@@ -793,27 +656,19 @@ Date: 2021-11-11
 the case to pay to get there. And this is also thanks to big agreement we have with
 Chrysler automobile.
 
-Q - Sudarshan Bhutra
-
-{BIO 18843602 <GO>}
+Q - Sudarshan Bhutra {BIO 18843602 <GO>}
 
 FINAL
 
 All right. Thank you very much.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Next question, please.
 
 Operator
 The next question is from Steven Haywood with HSBC. Please go ahead.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Thank you. Just one question from me. It's on the Italian competition regulator, the AGCM.
 Has there been any update from them with regard to investigation looking between like
 insurers and price comparison websites? Do you have any knowledge about any potential
@@ -823,36 +678,21 @@ included within this investigation? Thank you.
 
 Bloomberg Transcript
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes. First of all, to my knowledge, there are no specific conclusion out of that and from
 the antitrust authority, so nothing to highlight the specific. And the company, which was in
 that analysis was our direct company, which is called Genertel.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Thanks. So is there anything from Cattolica?
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 I'm not sure and not to my knowledge so far.
 
-Q - Steven Haywood
-
-{BIO 15743259 <GO>}
-
+Q - Steven Haywood {BIO 15743259 <GO>}
 Okay. Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Next question, please.
 
 Operator
@@ -866,9 +706,7 @@ Company N ame: Assicuraz ioni Generali SpA
 Company Ticker: G I M Equity
 Date: 2021-11-11
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
+Q - Michael Huttner {BIO 21454754 <GO>}
 
 FINAL
 
@@ -877,28 +715,19 @@ amount invested in private equity, just the total amount? I was looking at your 
 see a figure of EUR10 billion for alternative equity, but I'm not sure if that's all private
 equity. Thank you.
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes, I think that on the full private equity amount, we should expect something, which is,
 when I gave you the number, I was including the hedge fund, the full alternative equity. So
 the private equity, you should expect something more in the order of EUR8 billion, as full
 asset class private equity, as of year-end '21, according to the actual market valuation.
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 That's (inaudible). And may I ask a really cheap follow-up? Do you have a figure for cash at
 the holding? Or any kind of indication of how the cash upstreaming is going? Thank you.
 
 Bloomberg Transcript
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Thank you for the cheap, Michael. So I would like to recall -- I think you should focus on two
 things. The first one is the EUR1 billion number, which I gave you, which is the cash
 available for capital deployment. Don't forget that we pay the -- on the 20 of October,
@@ -911,26 +740,17 @@ operating at the higher end of this now. On top of that, there is the usual trea
 which is not cash available for redeployment, it is more for internal optimization, and so
 you should focus on these for sources, for your estimation.
 
-Q - Michael Huttner
-
-{BIO 21454754 <GO>}
-
+Q - Michael Huttner {BIO 21454754 <GO>}
 Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 Next question, please.
 
 Operator
 The next question is a follow-up from Sudarshan Bhutra with Societe Generale. Please go
 ahead, sir.
 
-Q - Sudarshan Bhutra
-
-{BIO 18843602 <GO>}
-
+Q - Sudarshan Bhutra {BIO 18843602 <GO>}
 Hi, thank you for taking my question again. Just a very brief one. Can you just provide
 some comments on the potential Life back-book deals? I mean, what are the -- are there
 
@@ -947,10 +767,7 @@ be great. Thank you very much.
 
 FINAL
 
-A - Cristiano Borean
-
-{BIO 15246531 <GO>}
-
+A - Cristiano Borean {BIO 15246531 <GO>}
 Yes. I owe [ph] a completion of the previous question for a reference for Michael, but all
 the analysts and investors connected, we completed the remittance plan for 2021. So all
 subsidiaries upstreamed, so there is the full competition also of the 2021 plan. Just going
@@ -964,15 +781,10 @@ options list around this and the levers could be multiple. And clearly, we are a
 in a proactive way around this. So I think we'll also give more information around our
 strategy in December 15 Investor Day.
 
-Q - Sudarshan Bhutra
-
-{BIO 18843602 <GO>}
-
+Q - Sudarshan Bhutra {BIO 18843602 <GO>}
 All right. Thank you.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
+A - Giulia Raffo {BIO 21037091 <GO>}
 
 Bloomberg Transcript
 
@@ -982,10 +794,7 @@ that?
 Operator
 I confirm, there are no more questions at this time.
 
-A - Giulia Raffo
-
-{BIO 21037091 <GO>}
-
+A - Giulia Raffo {BIO 21037091 <GO>}
 So if that is the case, I thanks everyone on the call and I look forward to hear from
 everyone as the Investor Day will be virtual still and not physical. So we will look forward to
 hear from you on December 15. Thank you very much.

@@ -37,10 +37,7 @@ for publication or broadcast.
 At this time, it's my pleasure to hand over to Mr. Richard Burden, Head of Investor
 Relations and Rating Agency Management. Please go ahead, sir.
 
-Richard Burden
-
-{BIO 1809244 <GO>}
-
+Richard Burden {BIO 1809244 <GO>}
 Good morning, good afternoon, everybody, and welcome to Zurich Insurance Group's full
 year 2017 results call. On the call today is our Group CEO, Mario Greco, and our Group
 CFO, George Quinn.
@@ -58,10 +55,7 @@ introductory remarks to the results. Mario?
 
 FINAL
 
-Mario Greco
-
-{BIO 1754408 <GO>}
-
+Mario Greco {BIO 1754408 <GO>}
 Thank you, Richard. Good day to all of you ladies and gentlemen, and thank you for
 joining us. Let me make a few remarks before George and I get to your questions. First of
 all, I'm very, very pleased with our full year results. I'm pleased because it demonstrates
@@ -145,10 +139,7 @@ Operator
 We will now begin the question-and-answer session. Our ﬁrst question comes from
 Farooq Hanif from Credit Suisse. Please go ahead.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Oh, hi there. Thank you very much. Given the statements that you've made about your
 conﬁdence on the 95% to 96% combined ratio, where does that leave us in 2018? I mean
 to ask in a clunky way, do we just assume that you're kind of halfway there? And to what
@@ -169,10 +160,7 @@ rate is and the growth prospects for that? Thank you very much.
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Hi, Farooq. It's George. So I'll take those. So starting with the combined ratio topic, just a
 reminder for everyone that we're looking for a combined ratio of 95% to 96% by 2019
 given the plans that we've got. I guess it might be a bit generous to say that we're halfway
@@ -198,18 +186,12 @@ expect the bulk of that to fall into P&C, and as we talked about before, that's 
 are only a couple of points on the combined ratio. But overall, from a technical
 performance perspective, we do still expect to see improvement from where we are now.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 So just – I'd just quickly follow up on that point. So you think the expense ratios have mix
 eﬀects which make it look like it hasn't gone down even though it sort of has. But do you
 think that will now start to show a lower ratio going forward?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So I think if you look at the ratio, I mean over the course of the year, you see a reduction
 already. I mean, you look at the – I mean the diﬀerent components we got about a 1 point
 reduction on expense, 1 point on the accident year loss ratio, and we're about 1 point up
@@ -229,52 +211,36 @@ Date: 2018-02-08
 improvement, so loss ratio improvement, a continuation of what you've seen already on
 the accident year loss ratio with a particular focus on commercial.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
+Q - Farooq Hanif {BIO 4780978 <GO>}
 
 FINAL
 
 Okay.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On the Life BOP topic, so I mean you asked around the numbers, I think we would be
 slightly more cautious on Life, so that means the guidance we're giving today is I think if
 you look at the headline number, I don't back out the UK yet, start from the headline
 number and anticipate something in the mid-single-digits for growth. That would be our
 guidance for Life.
 
-Q - Farooq Hanif
-
-{BIO 4780978 <GO>}
-
+Q - Farooq Hanif {BIO 4780978 <GO>}
 Okay. Thank you very much.
 
 Operator
 The next question comes from Nadine van der Meulen from Morgan Stanley. Please go
 ahead, madam.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 
 Bloomberg Transcript
 
 Yes. Hello? Can you hear me?
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 Oh yes, Nadine.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Sorry. Good afternoon. Thank you for taking my questions. I suppose ﬁrstly on Life, the
 new business value, very strong. The margin was particularly up, 23.3%. Can you talk to us
 about how sustainable you see that being?
@@ -299,10 +265,7 @@ Date: 2018-02-08
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So I'll start with the new business value. I think if you look at the detailed picture on new
 business value, I mean there are one or two items that we would see more one-oﬀ in
 nature. So we have a restructure of a large corporate contract in the U.S. But I mean by
@@ -325,10 +288,7 @@ Mario?
 
 Bloomberg Transcript
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 Yeah. On the business, the premiums and the claims, Nadine, so ﬁrst of all, we don't see
 much evidence yet of any inﬂation creeping up or developing itself. Claims numbers are
 quite stable and frequencies falling down and the cost of the claims is barely positive. So
@@ -356,9 +316,7 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2018-02-08
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 
 FINAL
 
@@ -367,22 +325,13 @@ growth organic or inorganic, and Mario as you said, you've targeted short-tail l
 sort of the P&C short-tail lines that I should be thinking about when you're talking about
 that growth organic or inorganic?
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 Yeah. I'm really meaning organic growth.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Okay.
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 So what we have been doing since 2016 is to be very clear internally, with our
 underwriters, and externally, with the brokers, with the distributors on which portfolios we
 would like to go for and also which if any portfolios, we will not like to underwrite.
@@ -396,25 +345,16 @@ that they well understand what we want. They well appreciate what we're after fo
 And I think they would support us in growing in the lines of businesses that we're
 targeting.
 
-Q - Nadine van der Meulen
-
-{BIO 15200446 <GO>}
-
+Q - Nadine van der Meulen {BIO 15200446 <GO>}
 Thank you very much.
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 You're welcome.
 
 Operator
 The next question comes from Peter Eliot from Kepler Cheuvreux. Please go ahead, sir.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Thank you very much. The ﬁrst one was just on the sort of the group underlying. I mean
 you've given us the underlying BOP. I'm wondering if you could also just share your view
 on the underlying net income for 2017 just for us to gauge how the dividend – how the
@@ -434,10 +374,7 @@ before. I'm just wondering if you can comment on that speciﬁcally. Were there 
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Peter, thank you. So we've worked on quite a few underlying and adjusted numbers, but I
 haven't done one on the NIAS. I mean I think if you look at the numbers and you look at
 history, I mean I think you can see that, I mean, the realized gain component can be plus
@@ -462,26 +399,17 @@ mean, how we assess the proﬁtability of some of the products and they rate us 
 on the experience that we've seen, we formed a more positive view. So we've lifted the
 view of proﬁtability. I'm not aware of substantial one-oﬀs in Asia Paciﬁc.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Yeah. Just to clarify, it's actually – it was BOP for all the new businesses that I was asking
 about there.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So from a BOP perspective, I mean so, for example, on the new business value topic
 around Japan, I mean that will have had some small positive impact from BOP that is
 more one-oﬀ in nature. I mean that's not a substantial number than the overall Life
 performance.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Thank you. And just quickly back perhaps on the ﬁrst point, I mean, I guess I'd sort of
 understood that the dividend policy was really driven by your view of underlying net
 income. I mean it sounds like this year, it's more a qualitative assessment rather than a
@@ -498,10 +426,7 @@ Date: 2018-02-08
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Not quite. I mean so what we did in the conversation we had with the board actually only
 yesterday, I mean we built up a model of – I mean it starts from the operating proﬁt and
 then runs through to what we think the equivalent NIAS number would be. And we take, I
@@ -516,10 +441,7 @@ So I mean this was not qualitative position. This was a hard decision based on a
 combination of what we think we achieved last year, and actually, more importantly, what
 we think we're capable of achieving this year.
 
-Q - Peter D. Eliot
-
-{BIO 7556214 <GO>}
-
+Q - Peter D. Eliot {BIO 7556214 <GO>}
 Okay. Thank you very much.
 
 Operator
@@ -527,10 +449,7 @@ The next question comes from James Shuck from Citi. Please go ahead.
 
 Bloomberg Transcript
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Thank you. Good afternoon, everybody. I had a few questions please. Firstly, I just wanted
 to come back to the loss ratio improvement. So George, you illustrated BOPAT ROE walk,
 the famous one, which you update now for 2017 through to 2019. If I compare that what
@@ -567,49 +486,29 @@ back on certain discretionary spend. You haven't shed any insights into what you
 discretionary spend on digital and data or other initiatives has been, and whether you've
 actually been curtailing that in any way, please? Thank you very much.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you. Well, I'll try and keep the answer as short as possible. So on the loss ratio
 improvement, I think you're great...
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 Don't be short on the capital targets.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 The ROE target.
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 Yes.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
 Yes. Okay.
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 Don't be short on that, please.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On the loss ratio improvement, I mean I think you're right on the analysis of the
 comparison of where we are to what we had put up on the slide back at the end of 2016.
 But I mean I think everyone can see from – I mean what I've told you to expect, and then,
@@ -669,19 +568,13 @@ around the organization, I think we actually operate far more eﬀectively for b
 and I think we can take that a bit further still, as we achieve the remainder of the goal. It's
 not driven by a starving investment in the digital side, quite the opposite.
 
-Q - James A. Shuck
-
-{BIO 3680082 <GO>}
-
+Q - James A. Shuck {BIO 3680082 <GO>}
 Okay. Thanks very much, George.
 
 Operator
 The next question comes from Andrew Ritchie from Autonomous. Please go ahead.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Hi there. First of all, thanks for the dividend increase. I'm just moving to the questions, the
 commercial lines unit, I guess I had hopes you could improve the attritional performance
 there in 2017 given all the issues that you were tackling, I'm a bit surprised it's
@@ -714,10 +607,7 @@ concerned?
 
 Bloomberg Transcript
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yes. Thank you, Andrew. So yeah, I mean we're in charge of it, but I share the
 disappointment on the commercial side of it. I think if you look at what drives it, I don't
 see that we have new issues. I think we have some of the same concerns that auto
@@ -733,10 +623,7 @@ We're trying to drive out the necessary return that we have here. So I mean we a
 focused on it and do expect we'll improve it.
 Mario?
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
-
+A - Mario Greco {BIO 1754408 <GO>}
 Yeah, can I jump in, because I hear you and I don't disagree on the results. However, I
 think I always, always repeated that these are big books, and they don't change one year
 from the other. The issue is the book composition. You move it year-after-year, which is
@@ -765,10 +652,7 @@ shorter tail lines, towards diﬀerent – and if you look at the new business d
 2017, that clearly shows it. And this will start producing gradually year-after-year the results
 that we're looking for.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On the tax, so negative from U.S. tax reform, so maybe again just for everyone's beneﬁt, I
 mean we clearly have a change in the rates. We have an element of the structural change
 which is penal for cross-border transactions. And of course, that's problematic from a
@@ -790,27 +674,16 @@ short term, one ﬁnances the other.
 On the anti-dilution topic, it is our intention that this will be something that we will do
 consistently in future.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 And the long-term tax rate?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Sorry, long-term tax rate, so the...
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Beyond 2018, I mean.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Page 13 of 24
 
@@ -823,28 +696,20 @@ Date: 2018-02-08
 Yeah. So I mean we talked before about – I mean 29% type rate. I mean this is a threepoint improvement over that from a long-term perspective and maybe even 1-point
 beyond that.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 
 FINAL
 
 Right. And the 29%, though, still factored in relatively low proﬁtability of P&C, didn't it?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So I mean you mentioned there's a mix issue in it, but we're seeing more of a contribution
 come from, example, from Farmers disproportionately because of what happens
 elsewhere, also from Latin America where the rate tends to be much higher. I mean there
 will be a shift as we restore proﬁtability in some of the European markets, but the biggest
 impact will come from the tax reform.
 
-Q - Andrew J. Ritchie
-
-{BIO 18731996 <GO>}
-
+Q - Andrew J. Ritchie {BIO 18731996 <GO>}
 Okay. Great. Thank you very much.
 
 Operator
@@ -852,10 +717,7 @@ The next question comes from Thomas Seidl from Bernstein. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Thank you. Good afternoon. First question, back to ROE, slide 9. You show us the new
 walk which is, as you say, it shows 1 percentage point higher than the previous one. And I
 wonder with the LTIP targets being 9.75% to 14.25% and the cash targets $8.5 billion to $10
@@ -874,10 +736,7 @@ benign capital markets. So I wonder is $1.4 billion the new run rate of Zurich o
 also say that there is a $100 million, $200 million from just very benign capital markets in
 2017.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thanks, Thomas. So, on the LTIP topic, I mean the point to remember that – well, ﬁrst of all,
 we don't set our own targets for LTIP. That's the decision that the board themselves make.
 Page 14 of 24
@@ -920,18 +779,12 @@ the headline number, I'd allow for something like a mid-single-digit growth rate
 then, to the extent that I mean, if there's anything that was benign or favorable, I mean,
 that's incorporated in that guidance.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 Okay. Maybe a quick follow-on on Farmers. With the U.S. tax reform, to what extent do
 you see Farmers or Farmers' management sets here a price competition as local peers
 price in the lower tax rate?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So again, I think you've got – I mean the most important thing here is that we see diﬀerent
 segments of the U.S. auto market and, in fact, already – I mean, there are, I mean, very
 price competitive segment, price seekers that's how we describe them internally, that are
@@ -959,10 +812,7 @@ can give – you can put a tax kind of in place. But if you're not making enough
 doesn't really change the equation markedly. So I still expect, based on the conversations
 I've had with the Farmers team, that we will see more rates to come in this business.
 
-Q - Thomas Seidl
-
-{BIO 17755912 <GO>}
-
+Q - Thomas Seidl {BIO 17755912 <GO>}
 All right. Thank you very much, George.
 
 Operator
@@ -970,10 +820,7 @@ The next question comes from Michael Huttner, JPMorgan. Mr. Huttner, your line i
 
 Bloomberg Transcript
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Fantastic. Thank you very much. And I was – really well done. What you've done is really
 good today. A few questions. So on the Farmers' growth, if I can put it another way, so the
 surplus did not change in 2017, $5.5 billion. Given what you were kind of saying in terms
@@ -993,10 +840,7 @@ think was Spain, and I suspect it's the thing which drives Europe combined ratio
 can't think of anything else.
 That's it. Thank you so much.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Thank you, Michael. So on Farmers, I mean, without giving you a precise number, it will
 vary depending on the interest rate, I mean, typically, the Exchange is targeting I mean
 high-90s combined. They believe that it's somewhere in that range allows them to carry
@@ -1026,58 +870,35 @@ it would still be slightly above the run rate required to deliver more than $9.5
 the planning period. But you certainly can't add back the $700 million to the $3.7 billion,
 I'd love to do that, but you can't do that.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Just from the $3.7 billion, because you remember, you had this funny – I don't know if it's
 funny, but this reallocation of restructuring cost, is the $3.7 billion net of that?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
 No. So, the...
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 No.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 ...so restructuring isn't there. So remember when we set the – I won't ask you to remember
 – but what I'm trying to say when we set the $9.5 billion target, if you think back, we had
 delivered more than $9.5 billion over the prior three-year period. And it was a big
 discussion about the quality of that $9.5 billion.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Okay.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 And in reality, that allowed for the restructuring costs that we intended to or expected...
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Yeah. Okay. Okay.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Page 17 of 24
 
 
@@ -1103,10 +924,7 @@ argument, we should take out the bad news. I mean I think the rest of it is awas
 combined ratio in particular, the number that you've seen is a reasonable representation
 of where we are. We need to work to improve it.
 
-Q - Michael Huttner
-
-{BIO 1556863 <GO>}
-
+Q - Michael Huttner {BIO 1556863 <GO>}
 Fair enough. Thank you very much and really well done. Thank you.
 
 Operator
@@ -1115,10 +933,7 @@ Bloomberg Transcript
 
 The next question comes from Johnny Vo, Goldman Sachs. Please go ahead.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Yeah. Hi. Thank you for the questions. Just a quick question on investment income, can
 you just comment on the trajectory of that investment income and where we are in terms
 of bottoming of that particularly given the rate environment, the moving rate
@@ -1129,10 +944,7 @@ terms of areas of deployment for M&A, what areas would you look at and would you
 necessarily use M&A to accelerate the shift in the P&C book that you're talking about?
 Thanks.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 Yeah. Thanks, Johnny. So on the trajectory, two comments for me here. So I mean we
 think we're coming into what we expect to be the last year of investment income
 compression. If we compare the book yields to the investment yield, we got that 20 basis
@@ -1166,10 +978,7 @@ if we have the ability to put capital behind management teams that are doing a g
 and a market where we can be more relevant, I mean that's obviously a topic that would
 also be on the agenda for us.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Okay. Thank you.
 
 Operator
@@ -1177,10 +986,7 @@ The next question comes from Andy Hughes from Macquarie. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Hi, guys. Thanks very much. Three questions if I could. Just still trying to get my head
 around the commercial deterioration ex-weather between 2017 and 2016, sorry. I think
 you said you were on plan and this was kind of projected to go in the right direction. Is
@@ -1199,9 +1005,7 @@ looks like it's in – a number, it looks like it's sort of 17% lower than it wa
 which kind of feed through. Are you seeing an increase in the net growth in the agent
 count or am I missing something that is obvious in there that is positive? Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Page 19 of 24
 
@@ -1225,15 +1029,10 @@ to exclude crop from those out, maybe I'd exclude commercial auto at the same ti
 because one is about as far as the other side of the outcome as the other one is the other
 way.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 I'm just – yeah, just on that point, I was just trying to work out what the improvement was...
 
-A - Mario Greco
-
-{BIO 1754408 <GO>}
+A - Mario Greco {BIO 1754408 <GO>}
 
 Bloomberg Transcript
 
@@ -1246,10 +1045,7 @@ all on top of the other in three weeks, they're quite special. And they should b
 considered on the side. Everything else is included, will remain included and will always
 be included.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 On Farmers, Andy, I think it's safe to say that it's going to take some time before you and I
 will see Farmers at the same place. I mean Farmers, I mean I look at the improvements
 that we've seen from a proﬁtability perspective. You see it clearly in the combined ratio. I
@@ -1262,9 +1058,7 @@ As Mario mentioned in the introduction, I mean we have a very strong performance
 Farmers at the end of the year. So I mean we're happy with what they're doing. We're
 happy that you can see evidence of the progress and we expect that to continue.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
+Q - Andy Hughes {BIO 15036395 <GO>}
 Page 20 of 24
 
 
@@ -1277,26 +1071,19 @@ Yeah. Sorry. I mean the question about the RCS (55:53) was just to get a feel as
 much the business has improved by, that was in terms of that 94.8% going to 92.9%, just
 wondered how much of that was the crop business?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 FINAL
 
 The crop is at roughly the same level in terms of proﬁtability than it was last year.
 
-Q - Andy Hughes
-
-{BIO 15036395 <GO>}
-
+Q - Andy Hughes {BIO 15036395 <GO>}
 Okay. Well, that's very helpful. Thank you.
 
 Operator
 The next question comes from Mr. Vinit Malhotra, Mediobanca. Please go ahead.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 
 Bloomberg Transcript
 
@@ -1311,10 +1098,7 @@ there some eﬀect of wage inﬂation or those kinds of things, because we have 
 inﬂation being a topic even in Europe, of course, becoming a topic? Just want to
 understand your view there as well. Thank you.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So on the ﬁrst one, on rising interest rates, Vinit, so maybe I start (57:31) talk about stats on
 asset risks. So maybe just being through the planning process this summer, I mean,
 Urban, our CIO, is recommending no major change on our asset stance. I think, as you
@@ -1328,10 +1112,7 @@ our view of what the hurdle that had to be achieved would be, but not necessaril
 change in the portfolio mix. So SAA or strategic asset allocation for us anticipated to be
 broadly stable.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Sorry, George, I meant the long-tail versus short-tail, I mean, the large, I meant the
 business not the asset, sorry.
 Page 21 of 24
@@ -1344,10 +1125,7 @@ Date: 2018-02-08
 
 FINAL
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So I think, so on that, again, I think we've made a strategic choice that we think we're too
 overweight on the long tail side of things. I think the interest rate outlook is something
 that has fed into that decision already. And the view that that creates around things like
@@ -1361,15 +1139,10 @@ And then, your last question was about, I mean expense is a big driver of the pi
 you see on 2018 in particular, for example, in Europe and a short summary, unfortunately,
 it's no, but mainly driven by loss ratio.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 Right. And that's also motor, as you mentioned in the call already or something else?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 Bloomberg Transcript
 
@@ -1377,31 +1150,19 @@ So I mean, motor, it has to be a tough market pretty much everywhere. It certain
 contributes to, but I mean a larger contributor in 2017 will be ﬁnancial license, for
 example.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 In EMEA, okay.
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 You're right.
 
-Q - Vinit Malhotra
-
-{BIO 16184491 <GO>}
-
+Q - Vinit Malhotra {BIO 16184491 <GO>}
 All right. Thank you, George.
 
 Operator
 The next question comes from Dhruv Gahlaut, HSBC. Please go ahead.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
-
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 Yeah. Hi. Good afternoon. Just two questions. One, could you update in terms of
 reinsurance program if that's changed? And secondly, on the SST framework, you seem to
 point out to the reserve risk change, which has led to the ratio coming down by about 10
@@ -1416,9 +1177,7 @@ Company Name: Zurich Insurance Group AG
 Company Ticker: ZURN SW Equity
 Date: 2018-02-08
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
+A - George Quinn {BIO 15159240 <GO>}
 
 FINAL
 
@@ -1435,10 +1194,7 @@ this stage, we still expect the SST ratio when we publish it in April, I mean to
 reﬂects the ongoing conversation with FINMA and their expectations around how this
 should be modeled.
 
-Q - Dhruv Gahlaut
-
-{BIO 16209870 <GO>}
-
+Q - Dhruv Gahlaut {BIO 16209870 <GO>}
 Right. Perfect.
 
 Operator
@@ -1446,10 +1202,7 @@ The last question for today comes from Ralph Hebgen, KBW. Please go ahead.
 
 Bloomberg Transcript
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
-
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 Yes. Hi, guys. Ralph Hebgen from KBW. I just have one question which is left and that
 relates to cash gain on slide 34. I just still like to get a better handle if possible on the
 components of the cash which you show. So ﬁrst, George, you've mentioned a few oneoﬀs, but in particular, in Life, I mean Life is very strong with $1.1 billion shown here on slide.
@@ -1461,10 +1214,7 @@ the claims which you've received are cash eﬀective this calendar year, is it t
 conclusion to say that $500 million of cash negative impact will come in to this calendar
 year?
 
-A - George Quinn
-
-{BIO 15159240 <GO>}
-
+A - George Quinn {BIO 15159240 <GO>}
 So it's very nearly on the second one. So the only thing I left out was (1:03:06) tax. So we
 look at the post tax loss of maybe around $600 million, so maybe another $400 million of
 impact from cat to come in the dividends that the businesses declare after the year end.
@@ -1484,18 +1234,13 @@ Date: 2018-02-08
 oﬀ that I mentioned in response to Michael's question around Sabadell is also setting in
 the Life number.
 
-Q - Ralph Hebgen
-
-{BIO 6297020 <GO>}
+Q - Ralph Hebgen {BIO 6297020 <GO>}
 
 FINAL
 
 Okay. That's cool. Thank you very much.
 
-A - Richard Burden
-
-{BIO 1809244 <GO>}
-
+A - Richard Burden {BIO 1809244 <GO>}
 Okay. Thank you very much, everybody, for dialing in today. And we're aware that there
 are a number of outstanding questions from the call and we will try and get back to
 everybody. The IR team is available all afternoon for further questions. So thank you very
