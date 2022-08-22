@@ -1,0 +1,553 @@
+s(WA_sentiment) + s(Group_European (Re)Insurers) + te(WA_sentiment,Group_European (Re)Insurers)+ s(Group_Global Commercial) + te(WA_sentiment,Group_Global Commercial)+ s(Group_Japanese & Pacific) + te(WA_sentiment,Group_Japanese & Pacific)+ s(Group_LN Equity) + te(WA_sentiment,Group_LN Equity)+ s(Group_Life Groups & Retail Life) + te(WA_sentiment,Group_Life Groups & Retail Life)+ s(Group_London Market) + te(WA_sentiment,Group_London Market)+ s(Group_Motor/Personal) + te(WA_sentiment,Group_Motor/Personal)+ s(Group_Other insurers) + te(WA_sentiment,Group_Other insurers)+ s(Group_Run-off) + te(WA_sentiment,Group_Run-off)+ s(Group_US - Specialty/P&C/Reinsurance) + te(WA_sentiment,Group_US - Specialty/P&C/Reinsurance)
+------------- D-1
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     25.5634
+Link Function:                     IdentityLink Log Likelihood:                               -792606.7741
+Number of Samples:                          966 AIC:                                          1585266.6749
+                                                AICc:                                         1585268.2353
+                                                GCV:                                                0.0006
+                                                Scale:                                              0.0006
+                                                Pseudo R-Squared:                                   0.1762
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20                        1.11e-16     ***         
+s(1)                              [0.6]                20                        1.11e-16     ***         
+te(0, 1)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(2)                              [0.6]                20                        1.11e-16     ***         
+te(0, 2)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(3)                              [0.6]                20                        1.11e-16     ***         
+te(0, 3)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(4)                              [0.6]                20                        1.11e-16     ***         
+te(0, 4)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(5)                              [0.6]                20                        1.11e-16     ***         
+te(0, 5)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(6)                              [0.6]                20                        1.11e-16     ***         
+te(0, 6)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(7)                              [0.6]                20                        1.11e-16     ***         
+te(0, 7)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(8)                              [0.6]                20                        1.11e-16     ***         
+te(0, 8)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(9)                              [0.6]                20                        1.11e-16     ***         
+te(0, 9)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(10)                             [0.6]                20                        1.11e-16     ***         
+te(0, 10)                         [0.6 0.6]            100                       1.11e-16     ***         
+intercept                                              1                         6.28e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+                      
+------------- D+1
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     25.7081
+Link Function:                     IdentityLink Log Likelihood:                              -1610825.1294
+Number of Samples:                          943 AIC:                                           3221703.675
+                                                AICc:                                          3221705.292
+                                                GCV:                                                0.0003
+                                                Scale:                                              0.0003
+                                                Pseudo R-Squared:                                   0.1054
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20                        1.11e-16     ***         
+s(1)                              [0.6]                20                        1.11e-16     ***         
+te(0, 1)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(2)                              [0.6]                20                        1.11e-16     ***         
+te(0, 2)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(3)                              [0.6]                20                        1.11e-16     ***         
+te(0, 3)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(4)                              [0.6]                20                        1.11e-16     ***         
+te(0, 4)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(5)                              [0.6]                20                        1.11e-16     ***         
+te(0, 5)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(6)                              [0.6]                20                        1.11e-16     ***         
+te(0, 6)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(7)                              [0.6]                20                        1.11e-16     ***         
+te(0, 7)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(8)                              [0.6]                20                        1.11e-16     ***         
+te(0, 8)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(9)                              [0.6]                20                        1.11e-16     ***         
+te(0, 9)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(10)                             [0.6]                20                        1.11e-16     ***         
+te(0, 10)                         [0.6 0.6]            100                       1.11e-16     ***         
+intercept                                              1                         2.19e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+                      
+------------- D-2
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                      26.069
+Link Function:                     IdentityLink Log Likelihood:                               -630530.1368
+Number of Samples:                          967 AIC:                                          1261114.4115
+                                                AICc:                                           1261116.03
+                                                GCV:                                                0.0008
+                                                Scale:                                              0.0007
+                                                Pseudo R-Squared:                                    0.163
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20                        1.11e-16     ***         
+s(1)                              [0.6]                20                        1.11e-16     ***         
+te(0, 1)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(2)                              [0.6]                20                        1.11e-16     ***         
+te(0, 2)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(3)                              [0.6]                20                        1.11e-16     ***         
+te(0, 3)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(4)                              [0.6]                20                        1.11e-16     ***         
+te(0, 4)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(5)                              [0.6]                20                        1.11e-16     ***         
+te(0, 5)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(6)                              [0.6]                20                        1.11e-16     ***         
+te(0, 6)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(7)                              [0.6]                20                        1.11e-16     ***         
+te(0, 7)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(8)                              [0.6]                20                        1.11e-16     ***         
+te(0, 8)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(9)                              [0.6]                20                        1.11e-16     ***         
+te(0, 9)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(10)                             [0.6]                20                        1.11e-16     ***         
+te(0, 10)                         [0.6 0.6]            100                       1.11e-16     ***         
+intercept                                              1                         5.31e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+                      
+------------- D+2
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     21.9436
+Link Function:                     IdentityLink Log Likelihood:                              -1028960.1167
+Number of Samples:                          951 AIC:                                          2057966.1206
+                                                AICc:                                         2057967.3057
+                                                GCV:                                                0.0005
+                                                Scale:                                              0.0004
+                                                Pseudo R-Squared:                                   0.1229
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20                        1.11e-16     ***         
+s(1)                              [0.6]                20                        1.11e-16     ***         
+te(0, 1)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(2)                              [0.6]                20                        1.11e-16     ***         
+te(0, 2)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(3)                              [0.6]                20                        1.11e-16     ***         
+te(0, 3)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(4)                              [0.6]                20                        1.11e-16     ***         
+te(0, 4)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(5)                              [0.6]                20                        1.11e-16     ***         
+te(0, 5)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(6)                              [0.6]                20                        1.11e-16     ***         
+te(0, 6)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(7)                              [0.6]                20                        1.11e-16     ***         
+te(0, 7)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(8)                              [0.6]                20                        1.11e-16     ***         
+te(0, 8)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(9)                              [0.6]                20                        1.11e-16     ***         
+te(0, 9)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(10)                             [0.6]                20                        1.11e-16     ***         
+te(0, 10)                         [0.6 0.6]            100                       1.11e-16     ***         
+intercept                                              1                         4.18e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+                      
+------------- D-3
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     25.7225
+Link Function:                     IdentityLink Log Likelihood:                               -559998.4592
+Number of Samples:                          970 AIC:                                          1120050.3634
+                                                AICc:                                         1120051.9358
+                                                GCV:                                                0.0009
+                                                Scale:                                              0.0008
+                                                Pseudo R-Squared:                                   0.1486
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20                        1.11e-16     ***         
+s(1)                              [0.6]                20                        1.11e-16     ***         
+te(0, 1)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(2)                              [0.6]                20                        1.11e-16     ***         
+te(0, 2)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(3)                              [0.6]                20                        1.11e-16     ***         
+te(0, 3)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(4)                              [0.6]                20                        1.11e-16     ***         
+te(0, 4)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(5)                              [0.6]                20                        1.11e-16     ***         
+te(0, 5)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(6)                              [0.6]                20                        1.11e-16     ***         
+te(0, 6)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(7)                              [0.6]                20                        1.11e-16     ***         
+te(0, 7)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(8)                              [0.6]                20                        1.11e-16     ***         
+te(0, 8)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(9)                              [0.6]                20                        1.11e-16     ***         
+te(0, 9)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(10)                             [0.6]                20                        1.11e-16     ***         
+te(0, 10)                         [0.6 0.6]            100                       1.11e-16     ***         
+intercept                                              1                         4.58e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+                      
+------------- D+3
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     22.6861
+Link Function:                     IdentityLink Log Likelihood:                               -862593.0367
+Number of Samples:                          967 AIC:                                          1725233.4456
+                                                AICc:                                         1725234.6866
+                                                GCV:                                                0.0006
+                                                Scale:                                              0.0005
+                                                Pseudo R-Squared:                                      0.1
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20                        1.11e-16     ***         
+s(1)                              [0.6]                20                        1.11e-16     ***         
+te(0, 1)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(2)                              [0.6]                20                        1.11e-16     ***         
+te(0, 2)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(3)                              [0.6]                20                        1.11e-16     ***         
+te(0, 3)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(4)                              [0.6]                20                        1.11e-16     ***         
+te(0, 4)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(5)                              [0.6]                20                        1.11e-16     ***         
+te(0, 5)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(6)                              [0.6]                20                        1.11e-16     ***         
+te(0, 6)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(7)                              [0.6]                20                        1.11e-16     ***         
+te(0, 7)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(8)                              [0.6]                20                        1.11e-16     ***         
+te(0, 8)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(9)                              [0.6]                20                        1.11e-16     ***         
+te(0, 9)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(10)                             [0.6]                20                        1.11e-16     ***         
+te(0, 10)                         [0.6 0.6]            100                       1.11e-16     ***         
+intercept                                              1                         2.45e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+                      
+------------- D-5
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     26.2677
+Link Function:                     IdentityLink Log Likelihood:                               -425773.6865
+Number of Samples:                          989 AIC:                                           851601.9085
+                                                AICc:                                          851603.5131
+                                                GCV:                                                0.0012
+                                                Scale:                                              0.0011
+                                                Pseudo R-Squared:                                   0.1142
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20                        1.11e-16     ***         
+s(1)                              [0.6]                20                        1.11e-16     ***         
+te(0, 1)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(2)                              [0.6]                20                        1.11e-16     ***         
+te(0, 2)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(3)                              [0.6]                20                        1.11e-16     ***         
+te(0, 3)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(4)                              [0.6]                20                        1.11e-16     ***         
+te(0, 4)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(5)                              [0.6]                20                        1.11e-16     ***         
+te(0, 5)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(6)                              [0.6]                20                        1.11e-16     ***         
+te(0, 6)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(7)                              [0.6]                20                        1.11e-16     ***         
+te(0, 7)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(8)                              [0.6]                20                        1.11e-16     ***         
+te(0, 8)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(9)                              [0.6]                20                        1.11e-16     ***         
+te(0, 9)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(10)                             [0.6]                20                        1.11e-16     ***         
+te(0, 10)                         [0.6 0.6]            100                       1.11e-16     ***         
+intercept                                              1                         3.18e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+                      
+------------- D+5
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     21.8172
+Link Function:                     IdentityLink Log Likelihood:                               -630887.4018
+Number of Samples:                          949 AIC:                                          1261820.4381
+                                                AICc:                                         1261821.6129
+                                                GCV:                                                0.0008
+                                                Scale:                                              0.0007
+                                                Pseudo R-Squared:                                   0.1029
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20                        1.11e-16     ***         
+s(1)                              [0.6]                20                        1.11e-16     ***         
+te(0, 1)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(2)                              [0.6]                20                        1.11e-16     ***         
+te(0, 2)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(3)                              [0.6]                20                        1.11e-16     ***         
+te(0, 3)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(4)                              [0.6]                20                        1.11e-16     ***         
+te(0, 4)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(5)                              [0.6]                20                        1.11e-16     ***         
+te(0, 5)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(6)                              [0.6]                20                        1.11e-16     ***         
+te(0, 6)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(7)                              [0.6]                20                        1.11e-16     ***         
+te(0, 7)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(8)                              [0.6]                20                        1.11e-16     ***         
+te(0, 8)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(9)                              [0.6]                20                        1.11e-16     ***         
+te(0, 9)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(10)                             [0.6]                20                        1.11e-16     ***         
+te(0, 10)                         [0.6 0.6]            100                       1.11e-16     ***         
+intercept                                              1                         3.54e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+                      
+------------- D-10
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     27.8705
+Link Function:                     IdentityLink Log Likelihood:                               -278066.8272
+Number of Samples:                         1005 AIC:                                           556191.3955
+                                                AICc:                                          556193.1643
+                                                GCV:                                                0.0018
+                                                Scale:                                              0.0017
+                                                Pseudo R-Squared:                                   0.0936
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20                        1.11e-16     ***         
+s(1)                              [0.6]                20                        1.11e-16     ***         
+te(0, 1)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(2)                              [0.6]                20                        1.11e-16     ***         
+te(0, 2)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(3)                              [0.6]                20                        1.11e-16     ***         
+te(0, 3)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(4)                              [0.6]                20                        1.11e-16     ***         
+te(0, 4)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(5)                              [0.6]                20                        1.11e-16     ***         
+te(0, 5)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(6)                              [0.6]                20                        1.11e-16     ***         
+te(0, 6)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(7)                              [0.6]                20                        1.11e-16     ***         
+te(0, 7)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(8)                              [0.6]                20                        1.11e-16     ***         
+te(0, 8)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(9)                              [0.6]                20                        1.11e-16     ***         
+te(0, 9)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(10)                             [0.6]                20                        1.11e-16     ***         
+te(0, 10)                         [0.6 0.6]            100                       1.11e-16     ***         
+intercept                                              1                         2.73e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+                      
+------------- D+10
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     26.0654
+Link Function:                     IdentityLink Log Likelihood:                               -368233.1907
+Number of Samples:                          966 AIC:                                           736520.5123
+                                                AICc:                                           736522.132
+                                                GCV:                                                0.0013
+                                                Scale:                                              0.0013
+                                                Pseudo R-Squared:                                   0.1368
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20                        1.11e-16     ***         
+s(1)                              [0.6]                20                        1.11e-16     ***         
+te(0, 1)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(2)                              [0.6]                20                        1.11e-16     ***         
+te(0, 2)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(3)                              [0.6]                20                        1.11e-16     ***         
+te(0, 3)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(4)                              [0.6]                20                        1.11e-16     ***         
+te(0, 4)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(5)                              [0.6]                20                        1.11e-16     ***         
+te(0, 5)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(6)                              [0.6]                20                        1.11e-16     ***         
+te(0, 6)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(7)                              [0.6]                20                        1.11e-16     ***         
+te(0, 7)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(8)                              [0.6]                20                        1.11e-16     ***         
+te(0, 8)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(9)                              [0.6]                20                        1.11e-16     ***         
+te(0, 9)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(10)                             [0.6]                20                        1.11e-16     ***         
+te(0, 10)                         [0.6 0.6]            100                       1.11e-16     ***         
+intercept                                              1                         4.69e-03     **          
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+                      
+------------- D-15
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     28.2313
+Link Function:                     IdentityLink Log Likelihood:                               -228243.0933
+Number of Samples:                         1036 AIC:                                           456544.6493
+                                                AICc:                                          456546.4065
+                                                GCV:                                                0.0023
+                                                Scale:                                              0.0022
+                                                Pseudo R-Squared:                                   0.1919
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20                        1.11e-16     ***         
+s(1)                              [0.6]                20                        1.11e-16     ***         
+te(0, 1)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(2)                              [0.6]                20                        1.11e-16     ***         
+te(0, 2)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(3)                              [0.6]                20                        1.11e-16     ***         
+te(0, 3)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(4)                              [0.6]                20                        1.11e-16     ***         
+te(0, 4)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(5)                              [0.6]                20                        1.11e-16     ***         
+te(0, 5)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(6)                              [0.6]                20                        1.11e-16     ***         
+te(0, 6)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(7)                              [0.6]                20                        1.11e-16     ***         
+te(0, 7)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(8)                              [0.6]                20                        1.11e-16     ***         
+te(0, 8)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(9)                              [0.6]                20                        1.11e-16     ***         
+te(0, 9)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(10)                             [0.6]                20                        1.11e-16     ***         
+te(0, 10)                         [0.6 0.6]            100                       1.11e-16     ***         
+intercept                                              1                         5.58e-01                 
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+                      
+------------- D+15
+LinearGAM                                                                                                 
+=============================================== ==========================================================
+Distribution:                        NormalDist Effective DoF:                                     24.7669
+Link Function:                     IdentityLink Log Likelihood:                               -196980.1289
+Number of Samples:                          915 AIC:                                           394011.7915
+                                                AICc:                                          394013.3445
+                                                GCV:                                                0.0023
+                                                Scale:                                              0.0022
+                                                Pseudo R-Squared:                                   0.0878
+==========================================================================================================
+Feature Function                  Lambda               Rank         EDoF         P > x        Sig. Code   
+================================= ==================== ============ ============ ============ ============
+s(0)                              [0.6]                20                        1.73e-11     ***         
+s(1)                              [0.6]                20                        1.11e-16     ***         
+te(0, 1)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(2)                              [0.6]                20                        1.11e-16     ***         
+te(0, 2)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(3)                              [0.6]                20                        1.11e-16     ***         
+te(0, 3)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(4)                              [0.6]                20                        1.11e-16     ***         
+te(0, 4)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(5)                              [0.6]                20                        1.11e-16     ***         
+te(0, 5)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(6)                              [0.6]                20                        1.11e-16     ***         
+te(0, 6)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(7)                              [0.6]                20                        1.11e-16     ***         
+te(0, 7)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(8)                              [0.6]                20                        1.11e-16     ***         
+te(0, 8)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(9)                              [0.6]                20                        1.11e-16     ***         
+te(0, 9)                          [0.6 0.6]            100                       1.11e-16     ***         
+s(10)                             [0.6]                20                        1.11e-16     ***         
+te(0, 10)                         [0.6 0.6]            100                       1.11e-16     ***         
+intercept                                              1                         7.86e-03     **          
+==========================================================================================================
+Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+WARNING: Fitting splines and a linear function to a feature introduces a model identifiability problem
+         which can cause p-values to appear significant when they are not.
+
+WARNING: p-values calculated in this manner behave correctly for un-penalized models or models with
+         known smoothing parameters, but when smoothing parameters have been estimated, the p-values
+         are typically lower than they should be, meaning that the tests reject the null too readily.
+None
+                      
